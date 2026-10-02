@@ -1,9 +1,10 @@
 # Chemical Engineering: Summer 2027 Internships
 
-50 open Summer 2027 chemical engineering roles, newest first (all 50). **Updated October 2, 2026.** [Back to every major](../README.md) · [See all 163 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+50 open Summer 2027 chemical engineering roles, newest first (all 50). **Updated October 2, 2026.** [Back to every major](../README.md) · [See all 164 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Primient](https://internscout.org/internships/at/primient/) | Process Engineering Intern - Summer 2027 | Decatur, IL +1 | \$1,500 to \$3,000 | Oct 2 | [Apply](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Decatur-IL/Process-Engineering-Intern---Summer-2027_JREQ7048) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations | Mountain View, CA, USA | Paid | Oct 1 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8243556) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Process/Chemical Engineering Intern - Water (Summer 2027) | Alpharetta, GA +2 |  | Oct 1 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008117) |
 | [Walmart](https://internscout.org/internships/at/walmart/) | Summer 2027 Intern: Field Supply Chain - Process Engineer | (USA) Change Building AR Bentonville Home Office |  | Oct 1 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Change-Building-AR-Bentonville-Home-Office/Summer-2027-Intern--Field-Supply-Chain---Process-Engineer_R-2617825) |
@@ -18,7 +19,6 @@
 | [ABB](https://internscout.org/internships/at/abb/) | Chemist/Chemical Engineer Intern - Summer 2027 | Bartlesville, Oklahoma, United States of America |  | Sep 23 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bartlesville-Oklahoma-United-States-of-America/Chemist-Chemical-Engineer-Intern---Summer-2027_JR00047103-1) |
 | [Charter Manufacturing](https://internscout.org/internships/at/charter-manufacturing/) | Process Engineer Intern (Summer 2027) | Charter Steel - Cleveland, OH |  | Sep 22 | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Cleveland-OH/Process-Engineer-Intern--Summer-2027-_R08123) |
 | [Post Holdings](https://internscout.org/internships/at/post-holdings/) | Process Engineering Intern Summer 2027 | New Albany, Ohio |  | Sep 18 | [Apply](https://jobs.postholdings.com/jobs/31984) |
-| [Primient](https://internscout.org/internships/at/primient/) | Process Engineering Intern - Summer 2027 | Duluth, MN |  | Sep 17 | [Apply](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Duluth-MN/Process-Engineering-Intern---Summer-2027_JREQ7015) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Chemical Engineering Intern \| Boulder, CO | Boulder, CO +1 | Paid | Sep 17 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Boulder-CO/Chemical-Engineering-Intern---Boulder--CO_R-16798) |
 | [Tokyo Electron](https://internscout.org/internships/at/tokyo-electron/) | Process Engineer Summer 2027 Intern | San Jose +1 |  | Sep 17 | [Apply](https://tel.wd3.myworkdayjobs.com/tel-careers/job/San-Jose/Process-Engineer-Summer-2027-Intern_R26-01530) |
 | [onsemi](https://internscout.org/internships/at/onsemi/) | Summer 2027 - Thin Films, Implant & Diffusion Process Engineering Intern | Hopewell Junction, NY | \$26.00 -\$44.00 per hour | Sep 16 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506637) |

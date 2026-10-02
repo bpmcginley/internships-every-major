@@ -1,6 +1,6 @@
 # Publishing: Summer 2027 Internships
 
-16 open Summer 2027 publishing roles, newest first (all 16). **Updated October 2, 2026.** [Back to every major](../README.md) · [See all 27 publishing internships on InternScout](https://internscout.org/internships/publishing/)
+16 open Summer 2027 publishing roles, newest first (all 16). **Updated October 2, 2026.** [Back to every major](../README.md) · [See all 28 publishing internships on InternScout](https://internscout.org/internships/publishing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

@@ -1,9 +1,10 @@
 # Architecture: Summer 2027 Internships
 
-33 open Summer 2027 architecture roles, newest first (all 33). **Updated October 2, 2026.** [Back to every major](../README.md) · [See all 65 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+34 open Summer 2027 architecture roles, newest first (all 34). **Updated October 2, 2026.** [Back to every major](../README.md) · [See all 65 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Vertiv](https://internscout.org/internships/at/vertiv/) | Electrical Engineering Intern – Product Architecture (Summer 2027) | Delaware, OH |  | Oct 2 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281025) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Architectural Intern- Summer 2027 | Washington, DC +1 |  | Oct 2 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96700) |
 | [Corning](https://internscout.org/internships/at/corning/) | Intern, Architecture EnginCorning eer - Summer 2027 | Corning, NY |  | Sep 30 | [Apply](https://corningjobs.corning.com/job/Corning-Intern%2C-Architecture-EnginCorning-eer-Summer-2027-NY-14831/1435180300/) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | Mission Architecture Intern (Summer 2027) | Woodbridge, VA |  | Sep 29 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5252672007) |
@@ -15,7 +16,7 @@
 | [Western Digital](https://internscout.org/internships/at/western-digital/) | Systems Architecture Co-op - AI Systems Strategy | Rochester, MN |  | Sep 14 | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000149367234) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Enterprise Architecture Intern (Chicago, IL) | Chicago, Illinois |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138733) |
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Landscape Architecture Intern – Summer 2027 | US.NV.Henderson |  | Sep 14 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USNVHenderson/Landscape-Architecture-Intern---Summer-2027_R-161002-1) |
-| [Marvell](https://internscout.org/internships/at/marvell/) | Architecture Intern - MS | Burlington, VT +1 | Paid | Sep 14 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Architecture-Intern--MS---Summer-2027_2604436) |
+| [Marvell](https://internscout.org/internships/at/marvell/) | Architecture Intern - MS | Burlington, VT | Paid | Sep 14 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Architecture-Intern--MS---Summer-2027_2604436) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 PhD SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op | San Jose, California +3 |  | Sep 11 | [Apply](https://careers.amd.com/jobs/92350) |
 | AArete | Data Architecture & Engineering Intern | Chicago, IL +1 |  | Sep 8 | [Apply](https://jobs.jobvite.com/aarete/job/otGLAfwe?nl=1&nl=1&fr=false) |
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Landscape Architect Intern - Summer 2027 | US.GA.Atlanta.2018 Powers Ferry Rd |  | Sep 8 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USGAAtlanta2018-Powers-Ferry-Rd/Landscape-Architect-Intern---Summer-2027_R-160382-1) |

@@ -1,9 +1,11 @@
 # Hardware Engineering: Summer 2027 Internships
 
-176 open Summer 2027 hardware engineering roles, newest first (all 176). **Updated October 2, 2026.** [Back to every major](../README.md) · [See all 467 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+178 open Summer 2027 hardware engineering roles, newest first (all 178). **Updated October 2, 2026.** [Back to every major](../README.md) · [See all 470 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Lyft](https://internscout.org/internships/at/lyft/) | Hardware Field Quality Engineer Intern (Summer 2027) | Longueuil, Canada |  | Oct 2 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002) |
+| [Hitachi](https://internscout.org/internships/at/hitachi/) | Hardware Test Engineering Intern (Summer 2027, 16months) | Toronto, Ontario, Canada | Paid | Oct 2 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) |
 | [CoStar Group](https://internscout.org/internships/at/costar-group/) | Embedded Software Engineering Intern | Sunnyvale (US) +1 |  | Oct 1 | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950) |
 | [Micron Technology](https://internscout.org/internships/at/micron-technology/) | Intern - Semiconductor Research & Technology Development | Albany, NY | \$46.51 - \$46.51 | Oct 1 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Albany-NY/Intern---Semiconductor-Research---Technology-Development_JR110876) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Firmware Engineer Intern - MS - Summer 2027 | Santa Clara, CA |  | Oct 1 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1) |

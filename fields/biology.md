@@ -1,10 +1,10 @@
 # Biology: Summer 2027 Internships
 
-10 open Summer 2027 biology roles, newest first (all 10). **Updated October 2, 2026.** [Back to every major](../README.md) · [See all 135 biology internships on InternScout](https://internscout.org/internships/biology/)
+10 open Summer 2027 biology roles, newest first (all 10). **Updated October 2, 2026.** [Back to every major](../README.md) · [See all 136 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - MBA Business Value & Strategic Selling Consultant (Healthcare & Life Sciences) | New York - New York |  | Oct 1 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499-1) |
+| [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - MBA Business Value & Strategic Selling Consultant (Healthcare & Life Sciences) | New York - New York |  | Oct 1 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499) |
 | [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program – Biologics Process Research & Development Intern | USA - New Jersey - Rahway +2 |  | Sep 28 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Biologics-Process-Research---Development-Intern_R419589) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Pharmacy Intern – Emerging Therapies and Health Outcomes | Detroit, MI |  | Sep 22 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14836) |
 | [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program – Pharmaceutical Analysis and Digital Technology (PADT) and Large Molecule Analytical (LMA)… | USA - New Jersey - Rahway +3 |  | Sep 17 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Pharmaceutical-Analysis-and-Digital-Technology--PADT--and-Large-Molecule-Analytical--LMA----Intern_R418632) |

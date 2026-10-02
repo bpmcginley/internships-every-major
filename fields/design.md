@@ -1,9 +1,10 @@
 # Design: Summer 2027 Internships
 
-58 open Summer 2027 design roles, newest first (all 58). **Updated October 2, 2026.** [Back to every major](../README.md) · [See all 148 design internships on InternScout](https://internscout.org/internships/design/)
+59 open Summer 2027 design roles, newest first (all 59). **Updated October 2, 2026.** [Back to every major](../README.md) · [See all 152 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Duke Energy](https://internscout.org/internships/at/duke-energy/) | UX Design Internship – Summer 2027 | Charlotte, NC |  | Oct 2 | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/UX-Design-Internship---Summer-2027_R41850) |
 | [Pinterest](https://internscout.org/internships/at/pinterest/) | UX Engineering Intern (San Francisco) | San Francisco, CA, US +1 | \$8,250 - \$11,000 month | Oct 1 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140210) |
 | [Allen Control Systems](https://internscout.org/internships/at/allen-control-systems/) | Software Engineering Intern, UX/UI 2027 | Austin, TX +1 | Paid | Sep 30 | [Apply](https://jobs.ashbyhq.com/allen-control-systems/1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94/application) |
 | [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Graphic Design Summer 2027 Internship - Chicago, IL | Chicago, IL |  | Sep 30 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Graphic-Design-Summer-2027-Internship---Chicago--IL_REQ531511) |

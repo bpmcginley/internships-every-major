@@ -1,9 +1,10 @@
 # Insurance: Summer 2027 Internships
 
-95 open Summer 2027 insurance roles, newest first (all 95). **Updated October 2, 2026.** [Back to every major](../README.md) · [See all 159 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+95 open Summer 2027 insurance roles, newest first (all 95). **Updated October 2, 2026.** [Back to every major](../README.md) · [See all 161 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| First American | Graduate Intern- Commercial Title Underwriting (Summer 2027) | Chicago, IL | \$30.00-\$34.00/hour | Oct 2 | [Apply](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-Illinois-Chicago/Graduate-Intern--Commercial-Title-Underwriting--Summer-2027-_R059070) |
 | [M&T Bank](https://internscout.org/internships/at/m-t-bank/) | 2027 Corporate Summer Internship Program- Banking Services: Consumer Insurance Servicing & Indirect Funding | Buffalo, NY | \$18.00 - \$28.00 per hour | Oct 2 | [Apply](https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Corporate-Summer-Internship-Program--Banking-Services--Consumer-Insurance-Servicing---Indirect-Funding_R89951) |
 | [The Hartford](https://internscout.org/internships/at/the-hartford/) | Intern, Actuarial Student Program (Summer 2027) | Hartford, CT | Paid | Oct 1 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Intern--Actuarial-Student-Program--Summer-2027-_R2624619-1) |
 | Empower | Summer 2027 Intern - Corporate Actuarial (Greenwood Village, CO) | CO Greenwood Village |  | Oct 1 | [Apply](https://empower.wd12.myworkdayjobs.com/empower/job/CO-Greenwood-Village/Summer-2027-Intern---Corporate-Actuarial--Greenwood-Village--CO-_R0062375) |
@@ -70,7 +71,6 @@
 | [CNA Insurance](https://internscout.org/internships/at/cna-insurance/) | Actuarial Intern – Summer 2027 | Chicago, IL, USA | \$35,000 to \$65,000 annually | Sep 2 | [Apply](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Actuarial-Intern---Summer-2027_R-8026) |
 | [IAT Insurance Group](https://internscout.org/internships/at/iat-insurance-group/) | Surety Underwriting Internship (Contract Surety) | Plano TX |  | Sep 2 | [Apply](https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Plano-TX/Surety-Underwriting-Internship--Contract-Surety-_JR100421) |
 | [Western & Southern Financial Group](https://internscout.org/internships/at/western-southern-financial-group/) | Actuarial Intern - Summer 2027 | Cincinnati, OH +1 |  | Sep 1 | [Apply](https://careers-westernsouthern.icims.com/jobs/25106/job?mobile=true&needsRedirect=false) |
-| [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern- Actuary | Detroit, MI |  | Sep 1 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14635) |
 | [Verisk](https://internscout.org/internships/at/verisk/) | Actuarial Intern \| 2027 Summer Internship Program | Jersey City, NJ |  | Aug 31 | [Apply](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4709) |
 | [Arthur J. Gallagher & Co.](https://internscout.org/internships/at/arthur-j-gallagher-co/) | U.S. Internship - Actuary | Rolling Meadows, Illinois |  | Aug 20 | [Apply](https://jobs.ajg.com/jobs/57700) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Actuarial Intern - Summer 2027 | Addison, TX +1 | Paid | Aug 19 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4376293009) |

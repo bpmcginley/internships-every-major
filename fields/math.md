@@ -1,9 +1,10 @@
 # Math: Summer 2027 Internships
 
-47 open Summer 2027 math roles, newest first (all 47). **Updated October 2, 2026.** [Back to every major](../README.md) · [See all 81 math internships on InternScout](https://internscout.org/internships/math/)
+48 open Summer 2027 math roles, newest first (all 48). **Updated October 2, 2026.** [Back to every major](../README.md) · [See all 82 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | R&D Intern - Biostatistics | Jacksonville, Florida, United States of America |  | Oct 2 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/R-D-Intern---Biostatistics_R-099394) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Epidemiology / Biostatistics | Detroit, MI |  | Oct 2 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14840) |
 | [The Hartford](https://internscout.org/internships/at/the-hartford/) | Intern, Actuarial Student Program (Summer 2027) | Hartford, CT | Paid | Oct 1 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Intern--Actuarial-Student-Program--Summer-2027-_R2624619-1) |
 | Empower | Summer 2027 Intern - Corporate Actuarial (Greenwood Village, CO) | CO Greenwood Village |  | Oct 1 | [Apply](https://empower.wd12.myworkdayjobs.com/empower/job/CO-Greenwood-Village/Summer-2027-Intern---Corporate-Actuarial--Greenwood-Village--CO-_R0062375) |

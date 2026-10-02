@@ -1,9 +1,10 @@
 # Retail: Summer 2027 Internships
 
-152 open Summer 2027 retail roles, newest first (all 152). **Updated October 2, 2026.** [Back to every major](../README.md) · [See all 217 retail internships on InternScout](https://internscout.org/internships/retail/)
+153 open Summer 2027 retail roles, newest first (all 153). **Updated October 2, 2026.** [Back to every major](../README.md) · [See all 218 retail internships on InternScout](https://internscout.org/internships/retail/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Target](https://internscout.org/internships/at/target/) | Store Executive Intern (Store Leadership Intern) – North/West of Sacramento, CA (Starting Summer 2027) | 4601 2nd St, Davis,CA 95618-9446 | \$28.00- \$28.75 | Oct 2 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/4601-2nd-St-DavisCA-95618-9446/Store-Executive-Intern--Store-Leadership-Intern----North---West-Sacramento--CA--Starting-Summer-2027-_R0000450285) |
 | [Target](https://internscout.org/internships/at/target/) | Store Executive Intern (Store Leadership Intern) - Miami- Starting Summer 2027)​ | 249 NW 6th St, Ste 120, Miami,FL 33136-4248 +3 | \$25.50- \$25.75 | Oct 1 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/249-NW-6th-St-Ste-120-MiamiFL-33136-4248/Store-Executive-Intern--Store-Leadership-Intern----South-FL--Miami-to-West-Palm---Starting-Summer-2027--_R0000448573) |
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | eCommerce Data Analytics Intern - The Toro Company | Bloomington, MN |  | Sep 29 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/eCommerce-Data-Analytics-Intern---The-Toro-Company_JR17458) |
 | [Huntington Bancshares](https://internscout.org/internships/at/huntington-bancshares/) | Summer 2027 Retail Banking Internship | Columbus, OH |  | Sep 29 | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/XMLNAME-2027-Summer-Retail-Banking-Internship_R0075658) |

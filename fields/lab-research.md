@@ -1,6 +1,6 @@
 # Lab Research: Summer 2027 Internships
 
-13 open Summer 2027 lab research roles, newest first (all 13). **Updated October 2, 2026.** [Back to every major](../README.md) · [See all 73 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
+11 open Summer 2027 lab research roles, newest first (all 11). **Updated October 2, 2026.** [Back to every major](../README.md) · [See all 70 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -13,8 +13,6 @@
 | [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Analytical Lab Intern, Summer 2027 | Orrville, OH |  | Sep 9 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Analytical-Lab-Intern--Summer-2027_115678) |
 | [Merck](https://internscout.org/internships/at/merck/) | Business Intelligence Intern - Research Lab | North Wales, PA +1 |  | Sep 8 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Business-Intelligence---Intern_R412411) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | R&D Chemistry Laboratory Intern (Austin MN) - Summer 2027 - Campus Recruiting | Austin, MN |  | Sep 8 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35724) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Geotechnical Engineering Laboratory Intern (Summer 2027!) | Chelmsford, Massachusetts |  | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4406) |
-| [Brunswick](https://internscout.org/internships/at/brunswick/) | Reinforcement Learning Intern - Boating Intelligence Design Lab | Champaign, IL |  | Aug 28 | [Apply](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineering-Intern_JR-051449) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Engineering Internship - Lab Focus (Summer 2027) | Columbus, OH |  | Aug 18 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279601) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Product Innovation (Material Development and Material Lab) | Baltimore, MD |  | Sep 28 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Product-Innovation-%28Material-Development-and-Material-Lab%29-MD-21230/1434382800/) |
 

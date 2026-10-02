@@ -1,6 +1,6 @@
 # Law and Legal: Summer 2027 Internships
 
-100 open Summer 2027 law and legal roles, newest first (all 100). **Updated October 2, 2026.** [Back to every major](../README.md) · [See all 262 law and legal internships on InternScout](https://internscout.org/internships/law/)
+99 open Summer 2027 law and legal roles, newest first (all 99). **Updated October 2, 2026.** [Back to every major](../README.md) · [See all 261 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Masters Summer Internship Program - 2027, Global Risk & Compliance - New York, NY | New York, NY |  | Aug 31 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013037) |
 | [Perry Homes](https://internscout.org/internships/at/perry-homes/) | 2027 Summer Internship - Legal Intern | Houston, Texas |  | Aug 31 | [Apply](https://apply.workable.com/j/5C5404EE8D/apply) |
 | [Exelon](https://internscout.org/internships/at/exelon/) | 2027 Summer Internship - Legal & Government Affairs Intern (Illinois) | OAKBROOK TERRACE, Illinois | \$20.00/Hr | Aug 31 | [Apply](https://careers.comed.com/jobs/30161) |
-| [Cigna Group](https://internscout.org/internships/at/cigna-group/) | Legal Operations Financial Data & AI Analytics Intern | St. Louis, MO | Paid | Aug 25 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Legal-Operations-Financial--Data---AI-Analytics-Intern_25016386) |
+| [Cigna Group](https://internscout.org/internships/at/cigna-group/) | Legal Operations Financial Data & AI Analytics Intern | St. Louis, MO |  | Aug 25 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Legal-Operations-Financial--Data---AI-Analytics-Intern_25016386) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Risk and Compliance (New York, NY) | New York, NY |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81271) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Risk and Compliance (Pittsburgh, PA) | Pittsburgh, PA |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81276) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Risk and Compliance (Lake Mary, FL) | Lake Mary, FL |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81277) |
@@ -94,7 +94,6 @@
 | [DuCharme, McMillen & Associates](https://internscout.org/internships/at/ducharme-mcmillen-associates/) | Transaction Tax Compliance Intern - Summer 2027 | Indianapolis, IN |  | Sep 18 | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Indianapolis-IN/Transaction-Tax-Compliance-Intern---Summer-2027_REQ620) |
 | [DuCharme, McMillen & Associates](https://internscout.org/internships/at/ducharme-mcmillen-associates/) | Property Tax Compliance Intern - Summer 2027 | Indianapolis, IN |  | Sep 18 | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Indianapolis-IN/Property-Tax-Compliance-Intern---Summer-2027_REQ643) |
 | [Uline](https://internscout.org/internships/at/uline/) | International Trade Compliance Internship - Summer 2027 | Pleasant Prairie, WI +4 | Paid | Sep 18 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/International-Trade-Compliance-Internship---Summer-2027_R265917) |
-| [Cigna Group](https://internscout.org/internships/at/cigna-group/) | Legal Research Intern | Bloomfield, CT +1 | \$35.00-\$37.00 | Sep 18 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Legal-Research-Intern_26009786) |
 | [Newrez](https://internscout.org/internships/at/newrez/) | 2027 Summer Internship – Homeowner Advocate - Regulatory Resolution | TX, Coppell |  | Sep 18 | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Homeowner-Advocate---Regulatory-Resolution_R10374) |
 | [IGS Energy](https://internscout.org/internships/at/igs-energy/) | Regulatory Intern (Summer 2027) | Ohio Remote |  | Sep 18 | [Apply](https://igsenergy.wd1.myworkdayjobs.com/IGS/job/Ohio-Remote/Regulatory-Intern--Summer-2027-_R6301) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - RA/QA - Regulatory Affairs - Michigan | Portage, Michigan |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---RA-QA---Regulatory-Affairs---Michigan_R572590-1) |

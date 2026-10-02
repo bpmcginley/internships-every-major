@@ -1,9 +1,10 @@
 # Government and Public Policy: Summer 2027 Internships
 
-49 open Summer 2027 government and public policy roles, newest first (all 49). **Updated October 2, 2026.** [Back to every major](../README.md) · [See all 273 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+50 open Summer 2027 government and public policy roles, newest first (all 50). **Updated October 2, 2026.** [Back to every major](../README.md) · [See all 275 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Government Operations Intern Summer 2027 | Littleton, CO +1 |  | Oct 2 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8001401003) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Internship- Public Affairs | HOUSTON, Texas |  | Sep 30 | [Apply](https://careers.kindermorgan.com/jobs/6224) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Public Policy | Detroit, MI |  | Sep 30 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14729) |
 | [Internal Revenue Service](https://internscout.org/internships/at/internal-revenue-service/) | Summer Intern (Legal Administrative Specialist) | Birmingham, Alabama +45 | \$61722 - \$100315 Per Year | Sep 29 | [Apply](https://www.usajobs.gov:443/job/886742000) |
