@@ -1,10 +1,10 @@
 # Publishing: Summer 2027 Internships
 
-16 open Summer 2027 publishing roles, newest first (all 16). **Updated October 3, 2026.** [Back to every major](../README.md) · [See all 28 publishing internships on InternScout](https://internscout.org/internships/publishing/)
+16 open Summer 2027 publishing roles, newest first (all 16). **Updated October 3, 2026.** [Back to every major](../README.md) · [See all 27 publishing internships on InternScout](https://internscout.org/internships/publishing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [Bloomberg Industry Group](https://internscout.org/internships/at/bloomberg-industry-group/) | 2027 Summer News Internship - Digital Editor | Arlington, VA - 1801 S Bell (INDG) |  | Sep 24 | [Apply](https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington-VA---1801-S-Bell-INDG/XMLNAME-2027-Summer-News-Internship---Digital-Editor_144775) |
+| [Bloomberg Industry Group](https://internscout.org/internships/at/bloomberg-industry-group/) | 2027 Summer News Internship - Digital Editor | Arlington, VA - 1801 S Bell (INDG) |  | Sep 23 | [Apply](https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington-VA---1801-S-Bell-INDG/XMLNAME-2027-Summer-News-Internship---Digital-Editor_144775) |
 | [HarperCollins](https://internscout.org/internships/at/harpercollins/) | 2027 Summer Internship- Editorial, KAZÉ (NYC) | New York, NY | \$18 per hour | Sep 23 | [Apply](https://careers-harpercollins.icims.com/jobs/5471/2027-summer-internship--editorial%2c-kaz%c3%89-%28nyc%29/job) |
 | [HarperCollins](https://internscout.org/internships/at/harpercollins/) | 2027 Summer Internship - Publicity, Harper Books (NYC) | New York, NY | \$18 per hour | Sep 18 | [Apply](https://careers-harpercollins.icims.com/jobs/5450/2027-summer-internship---publicity%2c-harper-books-%28nyc%29/job) |
 | [HarperCollins](https://internscout.org/internships/at/harpercollins/) | 2027 Summer Internship- Marketing, HarperCollins Children’s Books (NYC) | New York, NY | \$18 per hour | Sep 18 | [Apply](https://careers-harpercollins.icims.com/jobs/5449/2027-summer-internship--marketing%2c-harpercollins-children%e2%80%99s-books-%28nyc%29/job) |
