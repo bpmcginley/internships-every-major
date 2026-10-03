@@ -1,6 +1,6 @@
 # Insurance: Summer 2027 Internships
 
-96 open Summer 2027 insurance roles, newest first (all 96). **Updated October 3, 2026.** [Back to every major](../README.md) · [See all 155 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+95 open Summer 2027 insurance roles, newest first (all 95). **Updated October 3, 2026.** [Back to every major](../README.md) · [See all 154 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -84,7 +84,6 @@
 | [CareBridge](https://internscout.org/internships/at/carebridge/) | Actuarial Intern - Summer 2027 | IN-INDIANAPOLIS, 220 VIRGINIA AVE |  | Sep 18 | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Actuarial-Intern---Summer-2027_JR204425) |
 | [Cigna Group](https://internscout.org/internships/at/cigna-group/) | Actuarial Internship - Summer 2027 | Bloomfield, CT +4 |  | Sep 18 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Actuarial-Internship---Summer-2027_26006087) |
 | [Humana](https://internscout.org/internships/at/humana/) | Actuarial Internship – Summer 2027 | Louisville, KY |  | Sep 18 | [Apply](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Actuarial-Internship---Summer-2027_R-427297) |
-| [Genworth Financial](https://internscout.org/internships/at/genworth-financial/) | Genworth Actuarial Development Program Intern – Summer 2027 | Richmond, Virginia |  | Sep 18 | [Apply](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-Actuarial-Development-Program-Intern---Summer-2027_REQ-260272-1) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Risk Management & Insurance Internship Program - Summer 2027 (Cincinnati, OH) | Cincinnati, OH (USA) |  | Sep 18 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Risk-Management---Insurance-Internship-Program---Summer-2027--Cincinnati--OH-_R9415) |
 | [CNA Insurance](https://internscout.org/internships/at/cna-insurance/) | Actuarial Intern – Summer 2027 | Chicago, IL, USA | \$35,000 to \$65,000 annually | Sep 18 | [Apply](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Actuarial-Intern---Summer-2027_R-8026) |
 | [IAT Insurance Group](https://internscout.org/internships/at/iat-insurance-group/) | Management Liability Underwriting Internship | Raleigh NC +1 |  | Sep 18 | [Apply](https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Raleigh-NC/Management-Liability-Underwriting-Internship_JR100402) |

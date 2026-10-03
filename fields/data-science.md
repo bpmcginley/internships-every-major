@@ -1,11 +1,11 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-450 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 450). **Updated October 3, 2026.** [Back to every major](../README.md) · [See all 807 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+452 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 452). **Updated October 3, 2026.** [Back to every major](../README.md) · [See all 808 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Intuit](https://internscout.org/internships/at/intuit/) | Finance Transformation & Analytics Intern | Mountain View, CA |  | Oct 2 | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184) |
-| [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Sales Performance & Analytics Strategy (Raleigh, NC) | Raleigh, North Carolina |  | Oct 2 | [Apply](https://firstcitizens.jibeapply.com/jobs/35826) |
+| [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Sales Performance & Analytics Strategy (Raleigh, NC) | Raleigh, North Carolina +1 |  | Oct 2 | [Apply](https://firstcitizens.jibeapply.com/jobs/35826) |
 | Elevance Health | Data Analyst Graduate Intern | Indianapolis, IN +3 |  | Oct 2 | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Data-Analyst-Graduate-Intern---Summer-2027_JR209074-1) |
 | New York Mets | Data Science Intern | Queens, NY +1 | Paid | Oct 2 | [Apply](https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1508) |
 | Elevance Health | Data Analytics Intern | Indianapolis, IN +3 |  | Oct 2 | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Data-Analytics-Undergraduate-Intern---Summer-2027_JR209076) |
@@ -149,6 +149,8 @@
 | [GM financial](https://internscout.org/internships/at/gm-financial/) | Intern - Data Science | Fort Worth, TX |  | Sep 16 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260839) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 PhD Data Center Networking Engineer Intern/Co-Op | Santa Clara, California +1 |  | Sep 16 | [Apply](https://careers.amd.com/jobs/92518) |
 | [Gordon Food Service](https://internscout.org/internships/at/gordon-food-service/) | Data Science Engineer Intern | Atlanta, GA +1 |  | Sep 16 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1) |
+| [APEX Analytix](https://internscout.org/internships/at/apex-analytix/) | Data Engineering Intern - Summer 2027 | Greensboro, NC |  | Sep 15 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/52353bce-cb36-423f-ae0a-f2057ef3b5d9) |
+| [APEX Analytix](https://internscout.org/internships/at/apex-analytix/) | Data Analyst Intern - Summer 2027 | Greensboro, NC |  | Sep 15 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/e275fd70-45a3-4a64-8688-cace8a3f87ef) |
 | [APEX Analytix](https://internscout.org/internships/at/apex-analytix/) | Data Science Intern | Greensboro, NC |  | Sep 15 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53) |
 | [HF Sinclair](https://internscout.org/internships/at/hf-sinclair/) | Reporting & Analytics Intern | Dallas, TX |  | Sep 15 | [Apply](https://careers.hfsinclair.com/job/Dallas-Reporting-&-Analytics-Intern-TX-75219/1430067400/?ats=successfactors) |
 | [HF Sinclair](https://internscout.org/internships/at/hf-sinclair/) | IT Data Analytics Intern | Dallas, TX |  | Sep 15 | [Apply](https://careers.hfsinclair.com/job/Dallas-IT-Data-Analytics-Intern-TX-75219/1430072400/?ats=successfactors) |
@@ -202,8 +204,6 @@
 | The Friedkin Group | IT Data Analytics Intern - Business Systems & AI | Houston, TX |  | Sep 11 | [Apply](https://external-careers-friedkin.icims.com/jobs/6759/job?mobile=true&needsRedirect=false) |
 | [Lyft](https://internscout.org/internships/at/lyft/) | Data Engineer Intern | Toronto, ON +2 | Paid | Sep 11 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002) |
 | [Lyft](https://internscout.org/internships/at/lyft/) | Data Analyst Intern | NYC +1 |  | Sep 11 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) |
-| [Citizens Financial Group](https://internscout.org/internships/at/citizens-financial-group/) | Data Management Intern - Multiple Teams | Boston, MA +2 |  | Sep 11 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49277) |
-| [Citizens Financial Group](https://internscout.org/internships/at/citizens-financial-group/) | Data Analyst Intern - Multiple Teams | Boston, MA +2 |  | Sep 11 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49282) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

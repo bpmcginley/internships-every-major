@@ -1,6 +1,6 @@
 # Real Estate: Summer 2027 Internships
 
-22 open Summer 2027 real estate roles, newest first (all 22). **Updated October 3, 2026.** [Back to every major](../README.md) · [See all 37 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
+21 open Summer 2027 real estate roles, newest first (all 21). **Updated October 3, 2026.** [Back to every major](../README.md) · [See all 36 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -14,7 +14,6 @@
 | [Thrivent](https://internscout.org/internships/at/thrivent/) | Commercial Mortgages and Securitized Real Estate Assets Intern - Summer 2027 | MN - Minneapolis |  | Sep 14 | [Apply](https://thrivent.wd5.myworkdayjobs.com/external/job/MN---Minneapolis/Commercial-Mortgages-and-Securitized-Real-Estate-Assets-Intern---Summer-2027_REQ-48063) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Corporate Real Estate Internship - Summer 2027 | Lansing, MI |  | Sep 9 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Corporate-Real-Estate-Internship---Summer-2027_R_14484) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Real Estate & Builds Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175507?gh_jid=8175507) |
-| [U.S. Bank](https://internscout.org/internships/at/u-s-bank/) | 2027 Commercial Real Estate Summer Intern | Minneapolis, MN +4 | Paid | Sep 8 | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Commercial-Real-Estate-Summer-Intern_2026-0025772) |
 | [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Banking and Commercial Real Estate | Chicago, IL +8 | \$25.00 per hour | Sep 8 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Commercial-Banking-and-Commercial-Real-Estate_2618394-1) |
 | [CoBank](https://internscout.org/internships/at/cobank/) | Farm Credit Leasing Operations Intern | Greenwood Village, Colorado | \$22/hour | Sep 4 | [Apply](https://careers.cobank.com/jobs/7951) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Masters Summer Internship Program - 2027 Global Real Estate & Workplace Experience, Enterprise Shared S… | New York, NY |  | Aug 31 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012153) |

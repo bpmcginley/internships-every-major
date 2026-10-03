@@ -1,11 +1,12 @@
 # Design: Summer 2027 Internships
 
-57 open Summer 2027 design roles, newest first (all 57). **Updated October 3, 2026.** [Back to every major](../README.md) · [See all 148 design internships on InternScout](https://internscout.org/internships/design/)
+58 open Summer 2027 design roles, newest first (all 58). **Updated October 3, 2026.** [Back to every major](../README.md) · [See all 148 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Duke Energy](https://internscout.org/internships/at/duke-energy/) | UX Design Internship – Summer 2027 | Charlotte, NC |  | Oct 2 | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/UX-Design-Internship---Summer-2027_R41850) |
 | [Pinterest](https://internscout.org/internships/at/pinterest/) | UX Engineering Intern (San Francisco) | San Francisco, CA, US +1 | \$8,250 - \$11,000 month | Oct 1 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140210) |
+| [Pinterest](https://internscout.org/internships/at/pinterest/) | UX Quantitative Research Intern (USA) | Remote +1 | \$11,000 month | Oct 1 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) |
 | [Allen Control Systems](https://internscout.org/internships/at/allen-control-systems/) | Software Engineering Intern, UX/UI 2027 | Austin, TX +1 | Paid | Sep 30 | [Apply](https://jobs.ashbyhq.com/allen-control-systems/1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94/application) |
 | Rocket Companies | UX Research Intern - Summer 2027 | Detroit, MI +50 | \$10.23-\$27.82 | Sep 30 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/UX-Research-Intern---Summer-2027_R-084610) |
 | [Philips](https://internscout.org/internships/at/philips/) | Intern - UX Design - Bothell, WA - Summer 2027 | Bothell, Washington, United States | \$29.00 to \$32.00 | Sep 30 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Product-Design---Bothell--WA---Summer-2027_582008) |

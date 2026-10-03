@@ -1,9 +1,10 @@
 # Hardware Engineering: Summer 2027 Internships
 
-179 open Summer 2027 hardware engineering roles, newest first (all 179). **Updated October 3, 2026.** [Back to every major](../README.md) · [See all 471 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+180 open Summer 2027 hardware engineering roles, newest first (all 180). **Updated October 3, 2026.** [Back to every major](../README.md) · [See all 472 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Electrical Engineering Intern - FPGA | El Segundo, CA +1 |  | Oct 3 | [Apply](https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply) |
 | Arc | Electrical Hardware Engineering Intern | Torrance, CA |  | Oct 2 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008) |
 | [Lyft](https://internscout.org/internships/at/lyft/) | Hardware Field Quality Engineer Intern (Summer 2027) | Longueuil, Canada |  | Oct 2 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002) |
 | [Hitachi](https://internscout.org/internships/at/hitachi/) | Hardware Test Engineering Intern (Summer 2027, 16months) | Toronto, Ontario, Canada +2 | Paid | Oct 2 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) |
@@ -56,8 +57,8 @@
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Analog Design Intern - Hardware Engineering | Toronto, ON +1 |  | Sep 17 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721140914) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Analog Layout Co-op Intern | Toronto, ON +1 |  | Sep 17 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Toronto-Canada/Analog-Layout-Intern---BS-MS---Summer-2027-Co-Op_2604789) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | PhD Research Intern, Circuits - 2027 | US, CA +5 | Paid | Sep 17 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174) |
+| [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Electrical Engineer Intern - FPGA | Westminster, CO +1 |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/e6d87528-5da1-4970-9e42-7b224cfa63a9/apply) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Embedded Software Engineering Internship | Westminster, CO +1 |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/96e97f22-a5b2-4e95-af84-b4f765343663/apply) |
-| [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Electrical Engineering Internship, FPGA | Westminster, CO +1 |  | Sep 15 | [Apply](https://jobs.lever.co/CesiumAstro/e6d87528-5da1-4970-9e42-7b224cfa63a9/apply) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Electrical Engineering Internship, Hardware | Austin, TX +1 |  | Sep 15 | [Apply](https://jobs.lever.co/CesiumAstro/6a953cbc-af69-452c-b357-1a0a3db80bbf/apply) |
 | [Lunar Outpost](https://internscout.org/internships/at/lunar-outpost/) | Robotics Engineering Intern - Summer 2027 | Golden, Colorado +1 |  | Sep 15 | [Apply](https://lunaroutpost.bamboohr.com/careers/391) |
 | [Lunar Outpost](https://internscout.org/internships/at/lunar-outpost/) | Embedded Software Engineering Intern - Summer 2027 | Golden, Colorado +1 |  | Sep 15 | [Apply](https://lunaroutpost.bamboohr.com/careers/392) |

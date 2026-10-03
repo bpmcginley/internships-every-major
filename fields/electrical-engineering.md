@@ -1,9 +1,10 @@
 # Electrical Engineering: Summer 2027 Internships
 
-176 open Summer 2027 electrical engineering roles, newest first (all 176). **Updated October 3, 2026.** [Back to every major](../README.md) · [See all 444 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+176 open Summer 2027 electrical engineering roles, newest first (all 176). **Updated October 3, 2026.** [Back to every major](../README.md) · [See all 446 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Electrical Engineering Intern - FPGA | El Segundo, CA +1 |  | Oct 3 | [Apply](https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors - Electrical/Commissioning Intern (Summer 2027!) | Statewide, Florida |  | Oct 3 | [Apply](https://careers.cdmsmith.com/jobs/4566) |
 | Arc | Electrical Hardware Engineering Intern | Torrance, CA |  | Oct 2 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 – Power Electronics Internship | El Segundo, CA |  | Oct 2 | [Apply](https://jobs.lever.co/CesiumAstro/9d308f2f-7a8a-4f04-b24e-bc6353875cfa/apply) |
@@ -32,7 +33,6 @@
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Technology Development Intern, RF GaN (Summer 2027) | USA - Vermont - Essex Junction |  | Sep 28 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Technology-Development-Intern--RF-GaN--Summer-2027-_JR-2604282) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Electrical Engineering (Transmission) Intern - Summer 2027 | Ann Arbor, MI |  | Sep 28 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95917) |
 | [Helion Energy](https://internscout.org/internships/at/helion-energy/) | Electrical Engineering Summer 2027 Intern | Everett, WA | \$59 / hour | Sep 25 | [Apply](https://jobs.ashbyhq.com/helion/045d97eb-5efd-4e35-90f5-65eebe3363f4/application) |
-| [Philips](https://internscout.org/internships/at/philips/) | Electrical Engineer Intern | Cambridge, MA |  | Sep 25 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Electrical-Engineering---Cambridge--MA---Summer-2027_592605) |
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | Electrical Engineer Intern | Bloomington, MN |  | Sep 25 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Electrical-Engineering-Intern---The-Toro-Company_JR17124) |
 | [Arconic](https://internscout.org/internships/at/arconic/) | Intern - Electrical Engineer | Alcoa, TN |  | Sep 25 | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114240) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | RF Validation Intern - Summer 2027 | SF +1 |  | Sep 24 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4716499006) |
@@ -68,10 +68,10 @@
 | [Generac](https://internscout.org/internships/at/generac/) | Electrical Engineering Intern - Summer 2027 | Waukesha, WI - USA +1 |  | Sep 17 | [Apply](https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Electrical-Engineering-Intern---Summer-2027_JR16952) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Electrical Engineering (Distribution Design) Intern - Summer 2027 | Birmingham, AL |  | Sep 17 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95579) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | RF Engineering Intern Summer 2027 | Long Beach, CA |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7991657003) |
+| [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Electrical Engineer Intern - FPGA | Westminster, CO +1 |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/e6d87528-5da1-4970-9e42-7b224cfa63a9/apply) |
 | [Emerson Electric](https://internscout.org/internships/at/emerson-electric/) | Electrical Engineering Co-op (Summer 2027) | Elyria, OH +1 |  | Sep 16 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011003) |
 | [ATC](https://internscout.org/internships/at/atc/) | Intern - Energy Management System (EMS) Summer 2027 | Pewaukee, WI +1 | \$23-27/hr | Sep 16 | [Apply](https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern---Energy-Management-System--EMS--Summer-2027_R0003306) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Electrical Engineering Internship, RF | Westminster, CO +1 |  | Sep 15 | [Apply](https://jobs.lever.co/CesiumAstro/8eb71502-4374-45aa-82fa-2b62a42cd8e9/apply) |
-| [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Electrical Engineering Internship, FPGA | Westminster, CO +1 |  | Sep 15 | [Apply](https://jobs.lever.co/CesiumAstro/e6d87528-5da1-4970-9e42-7b224cfa63a9/apply) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Electrical Engineering Internship, Hardware | Austin, TX +1 |  | Sep 15 | [Apply](https://jobs.lever.co/CesiumAstro/6a953cbc-af69-452c-b357-1a0a3db80bbf/apply) |
 | [Lunar Outpost](https://internscout.org/internships/at/lunar-outpost/) | Electrical Engineering Intern - Summer 2027 | Golden, Colorado +1 |  | Sep 15 | [Apply](https://lunaroutpost.bamboohr.com/careers/396) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Electrical Engineering (Small Utility) Intern - Summer 2027 | Lakewood, CO |  | Sep 15 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95351) |

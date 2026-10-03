@@ -1,10 +1,10 @@
 # Sales: Summer 2027 Internships
 
-212 open Summer 2027 sales roles, newest first (the 200 newest of 212). **Updated October 3, 2026.** [Back to every major](../README.md) · [See all 411 sales internships on InternScout](https://internscout.org/internships/sales/)
+210 open Summer 2027 sales roles, newest first (the 200 newest of 210). **Updated October 3, 2026.** [Back to every major](../README.md) · [See all 410 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Sales Performance & Analytics Strategy (Raleigh, NC) | Raleigh, North Carolina |  | Oct 2 | [Apply](https://firstcitizens.jibeapply.com/jobs/35826) |
+| [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Sales Performance & Analytics Strategy (Raleigh, NC) | Raleigh, North Carolina +1 |  | Oct 2 | [Apply](https://firstcitizens.jibeapply.com/jobs/35826) |
 | Airbus | Summer Internship 2027 - Business Development, Regional Services | Herndon Area, VA |  | Oct 2 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Summer-Internship-2027----Business-Development--Regional-Services_JR10445189) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management and Sales Summer Internship (Twin Cities) | Burnsville, MN +12 |  | Oct 2 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620824) |
 | [Corteva](https://internscout.org/internships/at/corteva/) | Sales Associate Intern (Locations include Alberta, Winnipeg, Manitoba, & Ontario) | Saskatchewan, Canada +3 |  | Oct 2 | [Apply](https://corteva.wd5.myworkdayjobs.com/corteva/job/Saskatchewan-Canada/Sales-Associate-Intern_248204W) |
@@ -163,7 +163,6 @@
 | [Jane Street](https://internscout.org/internships/at/jane-street/) | Sales and Trading Intern | New York, NY |  | Jul 24 | [Apply](https://www.janestreet.com/join-jane-street/position/8347385002/) |
 | [AQR](https://internscout.org/internships/at/aqr/) | 2027 Business Development Summer Analyst | Greenwich, CT |  | May 15 | [Apply](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Sales Enablement Intern | Niles, IL |  | Oct 3, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5009/global-sales-enablement-intern/job) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Team Sports/Sales | Baltimore, MD |  | Oct 3 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Team-SportsSales-MD-21230/1434355500/) |
 | [Ecolab](https://internscout.org/internships/at/ecolab/) | Mining Engineering Technical Sales Intern | USA - Virginia - Blacksburg +2 | Paid | Oct 2 | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Virginia---Blacksburg/Mining-Engineering-Technical-Sales-Intern_R00303116-1) |
 | [MFS](https://internscout.org/internships/at/mfs/) | Summer 2027 Internal Sales Intern (June-August) | Boston | \$21.00-\$25.00 | Oct 1 | [Apply](https://mfs.wd1.myworkdayjobs.com/MFS-Careers/job/Boston/Summer-2027-Internal-Sales-Intern--June-August-_MFS-231963) |
 | [MFS](https://internscout.org/internships/at/mfs/) | Summer 2027 Defined Contribution Investment (DCI) Sales Summer Intern (June-August) | Boston |  | Oct 1 | [Apply](https://mfs.wd1.myworkdayjobs.com/MFS-Careers/job/Boston/Summer-2027-Defined-Contribution-Investment--DCI--Sales-Summer-Intern--June-August-_MFS-231961) |
@@ -183,7 +182,6 @@
 | [Echo Global Logistics](https://internscout.org/internships/at/echo-global-logistics/) | Carrier Sales Intern - Chicago | Chicago, IL | Paid | Sep 18 | [Apply](https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Chicago-IL/Carrier-Sales-Intern---Chicago_R4640) |
 | [The Boeing Company](https://internscout.org/internships/at/boeing/) | Boeing Summer 2027 Internship Program (Paid) - Sales and Marketing | USA - Seattle, WA +9 |  | Sep 18 | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Sales-and-Marketing_JR2026518830) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Business Development Intern- Summer 2027 | Richfield, OH (USA) |  | Sep 18 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Richfield-OH-USA/Business-Development-Intern--Summer-2027_R9500-2) |
-| [Genworth Financial](https://internscout.org/internships/at/genworth-financial/) | CareScout Sales & Operations Intern – Summer 2027 | Richmond, Virginia |  | Sep 18 | [Apply](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/CareScout-Sales---Operations-Intern---Summer-2027_REQ-260285-1) |
 | [Echo Global Logistics](https://internscout.org/internships/at/echo-global-logistics/) | Client Sales Intern - Chicago | Chicago, IL | \$35,223.00-50,166.00 per year | Sep 18 | [Apply](https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Chicago-IL/Client-Sales-Intern---Chicago_R4632) |
 | [HD Supply](https://internscout.org/internships/at/hd-supply/) | Sales Operations Intern - Summer 2027 | Atlanta-GA-US |  | Sep 18 | [Apply](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Sales-Operations-Intern---Summer-2027_R26004269) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Customer Success - Michigan | Portage, Michigan |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Customer-Success---Michigan_R572633) |
@@ -204,6 +202,8 @@
 | [Lunar Outpost](https://internscout.org/internships/at/lunar-outpost/) | Business Development Engineering Intern - Summer 2027 | Golden, Colorado |  | Sep 18 | [Apply](https://lunaroutpost.bamboohr.com/careers/397) |
 | [Nucor](https://internscout.org/internships/at/nucor/) | Sales Development Intern (Summer 2027) | Cincinnati, OH |  | Sep 18 | [Apply](https://jobs.nucor.com/job/Cincinnati-Sales-Development-Intern-%28Summer-2027%29-OH-45202/1420213000/) |
 | [Michelin](https://internscout.org/internships/at/michelin/) | Summer 2027 Internship: Sales (Greenville, SC) | GREENVILLE, SC |  | Sep 18 | [Apply](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/GREENVILLE-SC/Summer-2027-Internship--Sales--Greenville--SC-_R-2026029811) |
+| [Highgate](https://internscout.org/internships/at/highgate/) | Sales & Marketing Intern - Summer 2027 | Boston, MA +3 |  | Sep 18 | [Apply](https://externalhourly-highgate.icims.com/jobs/82535/sales-%26-marketing-intern---summer-2027/job) |
+| [APEX Analytix](https://internscout.org/internships/at/apex-analytix/) | Customer Success Internship (Summer 2027) | Greensboro, NC |  | Sep 18 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/f4344854-7887-4316-a53c-fc7ac72c475c) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

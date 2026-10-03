@@ -1,6 +1,6 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-296 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 296). **Updated October 3, 2026.** [Back to every major](../README.md) · [See all 647 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+294 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 294). **Updated October 3, 2026.** [Back to every major](../README.md) · [See all 643 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -50,8 +50,8 @@
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Perception, Machine Learning | Mountain View, CA, USA +1 | Paid | Sep 25 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8227411) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning | Mountain View, CA, USA +1 |  | Sep 25 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8233746) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship – Artificial Intelligence and Machine Learning (AI/ML) Research Assistant | Laurel, Maryland +1 |  | Sep 25 | [Apply](https://careers.jhuapl.edu/jobs/60084) |
-| [Rockwell Automation](https://internscout.org/internships/at/rockwell-automation/) | AI Software Engineering Co-op - 6 months - 8 months | Mayfield Heights, OH +1 |  | Sep 25 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982) |
-| [Rockwell Automation](https://internscout.org/internships/at/rockwell-automation/) | AI Software Engineer Intern | Mayfield Heights, OH +1 |  | Sep 25 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980) |
+| [Rockwell Automation](https://internscout.org/internships/at/rockwell-automation/) | Co-op, AI Software Engineering (6-8 months) | Mayfield Heights, Ohio, United States +3 |  | Sep 25 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982) |
+| [Rockwell Automation](https://internscout.org/internships/at/rockwell-automation/) | Intern, AI Software Engineering (June-August 2027) | Mayfield Heights, Ohio, United States +3 | Paid | Sep 25 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980) |
 | [Lazard](https://internscout.org/internships/at/lazard/) | AI & Data Transformation Intern | New York +1 |  | Sep 24 | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6650) |
 | [Klaviyo](https://internscout.org/internships/at/klaviyo/) | Machine Learning Engineer Intern | Palo Alto, CA |  | Sep 23 | [Apply](https://job-boards.greenhouse.io/klaviyocampus/jobs/7999274003) |
 | [DoorDash](https://internscout.org/internships/at/doordash/) | Machine Learning Intern (Masters) - Summer 2027 | San Francisco, CA +5 | Paid | Sep 23 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8204111) |

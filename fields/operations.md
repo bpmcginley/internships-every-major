@@ -1,6 +1,6 @@
 # Operations: Summer 2027 Internships
 
-331 open Summer 2027 operations roles, newest first (the 200 newest of 331). **Updated October 3, 2026.** [Back to every major](../README.md) · [See all 758 operations internships on InternScout](https://internscout.org/internships/operations/)
+329 open Summer 2027 operations roles, newest first (the 200 newest of 329). **Updated October 3, 2026.** [Back to every major](../README.md) · [See all 756 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Astranis](https://internscout.org/internships/at/astranis/) | Technical Project Management Intern (Summer 2027) | San Francisco |  | Sep 23 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4708369006) |
 | [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova Sourcing Operations Intern - Summer 2027 - 2 | Schenectady | Paid | Sep 23 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Sourcing-Operations-Intern---Summer-2027---2_R5052818) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Project Management Intern, MBA - Summer 2027 | Santa Clara, CA | Paid | Sep 23 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Project-Management-Intern--MBA---Summer-2027_2604440) |
-| [Mastercard](https://internscout.org/internships/at/mastercard/) | Project Management Intern, Summer 2027 – St. Louis, MO, US | O'Fallon, Missouri | \$25-30/hr | Sep 23 | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Project-Management-Intern--Summer-2027---St-Louis--MO--US_R-284888) |
+| [Mastercard](https://internscout.org/internships/at/mastercard/) | Project Management Intern, Summer 2027 – St. Louis, MO, US | O'Fallon, Missouri |  | Sep 23 | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Project-Management-Intern--Summer-2027---St-Louis--MO--US_R-284888) |
 | Jabil | Operations Analytics & Reporting Intern | Tampa, FL +1 |  | Sep 23 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Operations-Analytics---Reporting-Intern_J2465601) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Operations & Maintenance Intern - Program Services (Summer 2027) | Boca Raton, Florida |  | Sep 23 | [Apply](https://careers.cdmsmith.com/jobs/4565) |
 | [Excellus BCBS](https://internscout.org/internships/at/excellus-bcbs/) | College Intern - Summer 2027 - Operations and Auditing | Buffalo +2 | Paid | Sep 23 | [Apply](https://lthc.wd1.myworkdayjobs.com/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Operations-and-Auditing_JR104056-2) |
