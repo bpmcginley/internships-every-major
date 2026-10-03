@@ -1,6 +1,6 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-452 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 452). **Updated October 3, 2026.** [Back to every major](../README.md) · [See all 808 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+451 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 451). **Updated October 3, 2026.** [Back to every major](../README.md) · [See all 810 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | American Family Insurance Group | Internal Data and Analytics Intern - Summer 2027 | Madison, WI |  | Sep 18 | [Apply](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Internal-Data-and-Analytics-Intern---Summer-2027_R39401) |
 | [Centene](https://internscout.org/internships/at/centene/) | Analytics Summer 2027 Intern (Graduate) | Remote-FL +1 | \$21.00 - \$30.00 per hour | Sep 18 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479) |
 | [Guardian Life](https://internscout.org/internships/at/guardian-life/) | 2027 Guardian Summer Intern, Corporate Finance & Risk - Investment Reporting & Data Analytics | New York |  | Sep 18 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Investment-Accounting_R000110127) |
-| [AIG](https://internscout.org/internships/at/aig/) | 2027 Early Careers: Summer Intern, Data Office – United States, Atlanta, GA, Charlotte, NC, Parsippany, NJ, Jersey City… | GA-Atlanta +4 |  | Sep 18 | [Apply](https://aig.wd1.myworkdayjobs.com/early_careers/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Summer-Intern--Data-Office---United-States--Atlanta--GA--Charlotte--NC--Parsippany--NJ--Jersey-City--NJ---New-York--NY_JR2603655) |
+| [AIG](https://internscout.org/internships/at/aig/) | 2027 Early Careers: Summer Intern, Data Office – United States, Atlanta, GA, Charlotte, NC, Parsippany, NJ, Jersey City… | GA-Atlanta +9 |  | Sep 18 | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Summer-Intern--Data-Office---United-States--Atlanta--GA--Charlotte--NC--Parsippany--NJ--Jersey-City--NJ---New-York--NY_JR2603655-1) |
 | [Lennox International](https://internscout.org/internships/at/lennox-international/) | AI & Analytics Intern | Richardson, TX |  | Sep 17 | [Apply](https://uscareers-lennox.icims.com/jobs/54804/job?mobile=true&needsRedirect=false) |
 | [Honeywell](https://internscout.org/internships/at/honeywell/) | Data Science Co-op | Pittsford, NY |  | Sep 17 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157903) |
 | [onsemi](https://internscout.org/internships/at/onsemi/) | Data and Visualization Intern | Hopewell Junction, NY |  | Sep 17 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506638) |

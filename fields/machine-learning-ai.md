@@ -1,6 +1,6 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-294 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 294). **Updated October 3, 2026.** [Back to every major](../README.md) · [See all 643 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+293 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 293). **Updated October 3, 2026.** [Back to every major](../README.md) · [See all 643 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -88,11 +88,11 @@
 | [Lennox International](https://internscout.org/internships/at/lennox-international/) | AI & Analytics Intern | Richardson, TX |  | Sep 17 | [Apply](https://uscareers-lennox.icims.com/jobs/54804/job?mobile=true&needsRedirect=false) |
 | [Lennox International](https://internscout.org/internships/at/lennox-international/) | AI Engineering Intern - Summer 2027 | Richardson, TX | Paid | Sep 17 | [Apply](https://uscareers-lennox.icims.com/jobs/54897/job?mobile=true&needsRedirect=false) |
 | [Church & Dwight](https://internscout.org/internships/at/church-dwight/) | AI Developer Co-op - Graduate Program (9 Months) | Ewing, NJ +1 |  | Sep 17 | [Apply](https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686) |
-| [Waymo](https://internscout.org/internships/at/waymo/) | Machine Learning Intern - Computer Vision | Mountain View, CA |  | Sep 16 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8202025) |
 | [Collier Aerospace](https://internscout.org/internships/at/collier-aerospace/) | NCSG AI Feature Development Internship (Summer 2027) | Raleigh, NC |  | Sep 16 | [Apply](https://ats.rippling.com/collieraerospace/jobs/5a8bf9a3-c4f5-4c5a-ba9a-188979106827) |
 | [AMD](https://internscout.org/internships/at/amd/) | AI Model Optimization & Software Engineer Intern/Co-op | San Jose, CA +2 |  | Sep 16 | [Apply](https://careers.amd.com/jobs/92522?icims=1) |
 | CoVar | Machine Learning Intern | Durham, NC |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/covar/jobs/5240360007) |
 | Gecko Robotics | AI/Machine Learning Engineering Intern | New York City +2 |  | Sep 16 | [Apply](https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application) |
+| [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, PhD, Machine Learning, Computer Vision | Mountain View, California, United States +2 |  | Sep 16 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8202025) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation | Mountain View, California, USA +1 | Paid | Sep 16 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8202801) |
 | [Relay](https://internscout.org/internships/at/relay/) | Software Engineering Intern (AI/ML) - Summer 2027 | Raleigh, NC |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/relaypro/jobs/8176774) |
 | [Tokyo Electron](https://internscout.org/internships/at/tokyo-electron/) | Decision Analysis & AI Intern | Chaska, MN |  | Sep 16 | [Apply](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Chaska/Decision-Analysis---AI-Summer-2027-Intern_R26-01574) |
@@ -137,7 +137,6 @@
 | [Oshkosh](https://internscout.org/internships/at/oshkosh/) | AI Intern | Oshkosh, Wisconsin, United States +1 |  | Sep 11 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265) |
 | [Bedrock Robotics](https://internscout.org/internships/at/bedrock-robotics/) | 2027 Internship Onboard Infrastructure Engineer, ML Inference | San Francisco, CA +2 | Paid | Sep 10 | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8/application) |
 | [Bedrock Robotics](https://internscout.org/internships/at/bedrock-robotics/) | 2027 Internship Behavior Machine Learning Engineer, World Models | San Francisco, CA +2 | Paid | Sep 10 | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1/application) |
-| [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, PhD, Machine Learning, Computer Vision | Mountain View, California +2 |  | Sep 10 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8193295) |
 | [Cigna Group](https://internscout.org/internships/at/cigna-group/) | The Cigna Group's Technology Development Program - AI Engineering Track Summer Internship | TX, Austin, 11501 Alterra Pkwy STE 500 +1 | \$25.00 to \$33.00 per hour | Sep 10 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/TX-Austin-11501-Alterra-Pkwy-STE-500/The-Cigna-Group-s-Technology-Development-Program---AI-Engineering-Track-Summer-Internship_26009535) |
 | [Procter & Gamble](https://internscout.org/internships/at/procter-gamble/) | Data Science and Machine Learning PhD Intern | Mason, OH |  | Sep 10 | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern--Data-Science-and-Machine-Learning_R000158138) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship - AI & Data Science - Analytic Capabilities | Laurel, Maryland +1 | Paid | Sep 10 | [Apply](https://careers.jhuapl.edu/jobs/60008) |
@@ -204,6 +203,7 @@
 | Millennium | Applied AI Engineer Intern | Miami, FL |  | Aug 21 | [Apply](https://career.mlp.com/careers/job/755957778848) |
 | [American Express](https://internscout.org/internships/at/american-express/) | AI Engineer Intern, Enterprise Technology Services | New York, NY +4 |  | Aug 21 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392) |
 | [The Nuclear Company](https://internscout.org/internships/at/the-nuclear-company/) | AI Applied Research Intern | Washington, DC |  | Aug 21 | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008) |
+| [AMD](https://internscout.org/internships/at/amd/) | Machine Learning Intern/Co-op - Artificial Intelligence | Rochester, NY +7 |  | Aug 21 | [Apply](https://careers.amd.com/jobs/91181?icims=1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
