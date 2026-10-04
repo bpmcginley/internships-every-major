@@ -1,10 +1,11 @@
 # Law and Legal: Summer 2027 Internships
 
-100 open Summer 2027 law and legal roles, newest first (all 100). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 263 law and legal internships on InternScout](https://internscout.org/internships/law/)
+101 open Summer 2027 law and legal roles, newest first (all 101). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 264 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Geotab](https://internscout.org/internships/at/geotab/) | Legal Summer Student (Summer/May 2027, 4 Months) | Atlanta, Georgia - USA +2 | Paid | Oct 2 | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5441309008) |
+| [Diversified Energy](https://internscout.org/internships/at/diversified-energy/) | 2027 Summer Intern- Legal | Charleston, West Virginia |  | Oct 2 | [Apply](https://careers.div.energy/jobs/2733) |
 | [Excellus BCBS](https://internscout.org/internships/at/excellus-bcbs/) | College Intern - Summer 2027 - Corporate Tax & Compliance | Buffalo +2 | Paid | Oct 2 | [Apply](https://lthc.wd1.myworkdayjobs.com/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Corporate-Tax---Compliance_JR104101-4) |
 | [International Rescue Committee (IRC)](https://internscout.org/internships/at/international-rescue-committee-irc/) | Immigration Legal Intern - UNPAID - Summer 2027 | Denver, CO USA |  | Oct 1 | [Apply](https://theirc.wd1.myworkdayjobs.com/External_Careers/job/Denver-CO-USA/Immigration-Legal-Intern---UNPAID---Summer-2027_JR00005325-1) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | Legal Intern (Summer 2027) | Remote | \$45/hour | Sep 30 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5253395007) |

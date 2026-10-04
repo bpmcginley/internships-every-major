@@ -1,10 +1,13 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-104 open Summer 2027 environmental science and engineering roles, newest first (all 104). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 283 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+106 open Summer 2027 environmental science and engineering roles, newest first (all 106). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 285 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | Environmental Test Engineering Intern (Summer 2027) | San Jose, CA |  | Oct 2 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5256286007) |
+| [Diversified Energy](https://internscout.org/internships/at/diversified-energy/) | 2027 Summer Intern- Geology (Houston, TX) | Houston, Texas |  | Oct 2 | [Apply](https://careers.div.energy/jobs/2740) |
+| [Diversified Energy](https://internscout.org/internships/at/diversified-energy/) | 2027 Summer Intern- Environmental, Health, and Safety | Houston, Texas |  | Oct 2 | [Apply](https://careers.div.energy/jobs/2737) |
+| [Diversified Energy](https://internscout.org/internships/at/diversified-energy/) | 2027 Summer Intern- Sustainability/Environmental, Social, and Corporate Governance (ESG) | Birmingham, Alabama |  | Oct 2 | [Apply](https://careers.div.energy/jobs/2729) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Sustainability CP&I - Senior Associate Intern - Summer 2027 | IL-Rosemont | \$84,000 - \$202,000 | Oct 2 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Sustainability-CP-I---Senior-Associate-Intern---Summer-2027_765702WD) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Sustainability Strategy - Senior Associate Intern - Summer 2027 | IL-Rosemont | \$84,000 - \$202,000 | Oct 2 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Sustainability-Strategy---Senior-Associate-Intern---Summer-2027_765703WD) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern Safety Summer 2027 | Willis, Texas |  | Oct 2 | [Apply](https://jobs.entergy.com/job/Willis-Student%2C-Intern-Safety-Summer-2027-Texa/1426680100/) |
@@ -59,7 +62,6 @@
 | [Saronic](https://internscout.org/internships/at/saronic/) | EHS Intern (Summer 2027) | Austin, TX +3 |  | Sep 9 | [Apply](https://jobs.ashbyhq.com/saronic/45058422-8f60-426d-af8a-a5567d68deb7/application) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Water Resources Intern – Water (Summer 2027) | Ann Arbor, MI |  | Sep 8 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007525) |
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Water Resources Engineering Intern – Summer 2027 | US.CO.Denver +1 |  | Sep 8 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Water-Resources-Engineering-Intern---Summer-2027_R-161180) |
-| [Momentive](https://internscout.org/internships/at/momentive/) | Environmental Protection Intern | Friendly, WV |  | Sep 8 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Environmental-Protection-Intern_R9805) |
 | [Arcadis](https://internscout.org/internships/at/arcadis/) | Water Resources Engineering Intern | Chicago, IL |  | Sep 8 | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43959) |
 | Burlington Stores | Sustainability Intern | Burlington, VT |  | Sep 8 | [Apply](https://burlington.wd5.myworkdayjobs.com/BurlingtonCareers/job/00000---Burlington-Corporate-Office/Sustainability-Intern---Summer-2027_R104521) |
 | [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | Renewables Engineering Intern - WI | Eau Claire, WI, 54702 +1 | \$23.10 to \$24.60 per hour | Sep 7 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Eau-Claire-WI-54702/Renewables-Engineering-Intern---WI_JR115672-1) |

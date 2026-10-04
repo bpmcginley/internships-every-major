@@ -1,6 +1,6 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-443 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 443). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 800 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+443 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 443). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 803 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Figma](https://internscout.org/internships/at/figma/) | Data Science Intern | SF +1 |  | Sep 21 | [Apply](https://boards.greenhouse.io/figma/jobs/6200626004) |
 | Viking Global | Data Science Intern | NYC |  | Sep 21 | [Apply](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004) |
 | Koch Industries | Business Analytics & Insights Intern | Green Bay, WI |  | Sep 21 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/194813) |
+| Zimmer Biomet Holdings | Summer Intern - Data Mesh Platform | Remote |  | Sep 21 | [Apply](https://careers.zimmerbiomet.com/us/en/job/12688) |
 | Zimmer Biomet Holdings | Data Management Intern | Warsaw, IN |  | Sep 21 | [Apply](https://careers.zimmerbiomet.com/us/en/job/12746) |
 | [Lazard](https://internscout.org/internships/at/lazard/) | Data Scientist Intern | NYC +1 |  | Sep 21 | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6604) |
 | Erie Insurance Group | Data Intern 2 | Erie, PA |  | Sep 21 | [Apply](https://jobs.erieinsurance.com/job/Erie-Intern-II-%28Data%29-PA-16506/1432176200/?ats=successfactors) |
@@ -147,6 +148,7 @@
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 PhD Data Center Networking Engineer Intern/Co-Op | Santa Clara, California +1 |  | Sep 16 | [Apply](https://careers.amd.com/jobs/92518) |
 | [Gordon Food Service](https://internscout.org/internships/at/gordon-food-service/) | Data Science Engineer Intern | Atlanta, GA +1 |  | Sep 16 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1) |
 | [APEX Analytix](https://internscout.org/internships/at/apex-analytix/) | Data Engineering Intern - Summer 2027 | Greensboro, NC |  | Sep 15 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/52353bce-cb36-423f-ae0a-f2057ef3b5d9) |
+| [APEX Analytix](https://internscout.org/internships/at/apex-analytix/) | Data Analyst Intern - Summer 2027 | Greensboro, NC |  | Sep 15 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/e275fd70-45a3-4a64-8688-cace8a3f87ef) |
 | [APEX Analytix](https://internscout.org/internships/at/apex-analytix/) | Data Science Intern | Greensboro, NC |  | Sep 15 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53) |
 | [HF Sinclair](https://internscout.org/internships/at/hf-sinclair/) | Reporting & Analytics Intern | Dallas, TX |  | Sep 15 | [Apply](https://careers.hfsinclair.com/job/Dallas-Reporting-&-Analytics-Intern-TX-75219/1430067400/?ats=successfactors) |
 | [HF Sinclair](https://internscout.org/internships/at/hf-sinclair/) | IT Data Analytics Intern | Dallas, TX |  | Sep 15 | [Apply](https://careers.hfsinclair.com/job/Dallas-IT-Data-Analytics-Intern-TX-75219/1430072400/?ats=successfactors) |
@@ -167,13 +169,13 @@
 | [Ernst & Young](https://internscout.org/internships/at/ernst-young/) | Data Engineer Intern - Multiple Teams | Chicago, IL +1 |  | Sep 14 | [Apply](https://eyglobal.yello.co/jobs/nuM1c7MBNjknCC8oSMvZMg?job_board_id=c1riT--B2O-KySgYWsZO1Q) |
 | [Google](https://internscout.org/internships/at/google/) | Data Scientist Intern - Product | Palo Alto, CA +29 |  | Sep 14 | [Apply](https://www.google.com/about/careers/applications/jobs/results/119184035237765830) |
 | [Google](https://internscout.org/internships/at/google/) | Business Data Scientist Intern | Palo Alto, CA +29 |  | Sep 14 | [Apply](https://www.google.com/about/careers/applications/jobs/results/134577198026629830) |
+| [Google](https://internscout.org/internships/at/google/) | Data Scientist Research Intern - PhD | Palo Alto, CA +29 |  | Sep 14 | [Apply](https://www.google.com/about/careers/applications/jobs/results/89965613241246406) |
 | [ibotta](https://internscout.org/internships/at/ibotta/) | Data Engineering Intern | Hybrid - Denver +3 | \$34.23 per hour | Sep 14 | [Apply](https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2/application) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics | Mountain View, CA, USA +1 |  | Sep 14 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8197899) |
 | [URBN](https://internscout.org/internships/at/urbn/) | Data Science Intern | Philadelphia, PA |  | Sep 14 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/30444/job?mobile=true&needsRedirect=false) |
 | [Robinhood](https://internscout.org/internships/at/robinhood/) | PeopleX Insights & Analytics Intern (Summer 2027) | Menlo Park, CA | Paid | Sep 14 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&gh_jid=8198255) |
 | [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | AI and Analytics Intern | Minneapolis, MN +1 |  | Sep 14 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/AI-and-Analytics-Intern-MN--CO_JR115877-1) |
 | [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | Energy Programs Strategy & Analytics Intern - MN | Minneapolis, MN, 55401 +2 |  | Sep 14 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Energy-Programs-Strategy---Analytics-Intern---MN_JR115669-1) |
-| [Oshkosh](https://internscout.org/internships/at/oshkosh/) | Advanced Analytics Intern | Frederick, MD +1 |  | Sep 14 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Summer-2027-Advanced-Analytics-Intern_R49541) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Undergrad Intern – Software Engineer – Technology, AI & Data (Summer 2027) | Remote +1 |  | Sep 14 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Undergrad Intern – Digital Product – Technology, AI & Data (Summer 2027) | Remote +1 |  | Sep 14 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711) |
 | [Clarios](https://internscout.org/internships/at/clarios/) | People Analytics & AI Intern (Summer 2027) | United States, Wisconsin, Milwaukee +1 |  | Sep 14 | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/People-Analytics---AI-Intern--Summer-2027-_WD50216) |
@@ -196,14 +198,12 @@
 | [Veeam Software](https://internscout.org/internships/at/veeam-software/) | Data Analytics & Programs Intern | Georgia +1 |  | Sep 11 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955300101) |
 | The Friedkin Group | IT Data Analytics Intern - Business Systems & AI | Houston, TX |  | Sep 11 | [Apply](https://external-careers-friedkin.icims.com/jobs/6759/job?mobile=true&needsRedirect=false) |
 | [Lyft](https://internscout.org/internships/at/lyft/) | Data Engineer Intern | Toronto, ON +2 | Paid | Sep 11 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002) |
+| [Lyft](https://internscout.org/internships/at/lyft/) | Data Analyst Intern | NYC +1 |  | Sep 11 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) |
 | [Citizens Financial Group](https://internscout.org/internships/at/citizens-financial-group/) | Data Management Intern - Multiple Teams | Boston, MA +2 |  | Sep 11 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49277) |
 | [Citizens Financial Group](https://internscout.org/internships/at/citizens-financial-group/) | Data Analyst Intern - Multiple Teams | Boston, MA +2 |  | Sep 11 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49282) |
 | [Citizens Financial Group](https://internscout.org/internships/at/citizens-financial-group/) | Data Engineer Intern - Enterprise Technology & Security | Plano, TX +2 |  | Sep 11 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285) |
 | [Citizens Financial Group](https://internscout.org/internships/at/citizens-financial-group/) | Data Management Intern - Enterprise Data and Analytics | Boston, MA +2 |  | Sep 11 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49281) |
 | [Citizens Financial Group](https://internscout.org/internships/at/citizens-financial-group/) | Data Science Intern - Multiple Teams | Boston, MA +2 |  | Sep 11 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280) |
-| [Lyft](https://internscout.org/internships/at/lyft/) | Data Science Intern, Algorithms (Summer 2027 - Toronto) | Toronto, Canada +1 |  | Sep 11 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002) |
-| [Lyft](https://internscout.org/internships/at/lyft/) | Data Science Intern, Algorithms (Summer 2027 - SF/NYC) | New York, NY +1 |  | Sep 11 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) |
-| Wellmark | Data Analytics & Governance Internship | Des Moines, IA |  | Sep 11 | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000148917718) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

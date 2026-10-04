@@ -1,6 +1,6 @@
 # Sales: Summer 2027 Internships
 
-208 open Summer 2027 sales roles, newest first (the 200 newest of 208). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 406 sales internships on InternScout](https://internscout.org/internships/sales/)
+210 open Summer 2027 sales roles, newest first (the 200 newest of 210). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 407 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -154,12 +154,14 @@
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Services Sales Intern (Summer 2027) | Westerville, OH |  | Aug 21 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279750) |
 | [Arthur J. Gallagher & Co.](https://internscout.org/internships/at/arthur-j-gallagher-co/) | Canada Internship - Sales | Toronto, Ontario, Canada |  | Aug 17 | [Apply](https://jobs.ajg.com/jobs/57699) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Sales Operations Intern (Summer 2027) | Westerville, OH |  | Aug 17 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279432) |
+| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL |  | Aug 15 | [Apply](https://higher.gs.com/roles/181628?type=students) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Sales Data Analytics Intern - Summer 2027 | Westerville, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279293) |
 | [StepStone Group](https://internscout.org/internships/at/stepstone-group/) | 2027 Venture Capital Business Development Summer Associate | Baltimore |  | Aug 3 | [Apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8095092) |
 | [Uline](https://internscout.org/internships/at/uline/) | Sales Analyst Intern | Waukegan, IL +4 | Paid | Aug 3 | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Sales-Analyst-Internship---Summer-2027_R265911) |
 | [Jane Street](https://internscout.org/internships/at/jane-street/) | Sales and Trading Intern | New York, NY |  | Jul 24 | [Apply](https://www.janestreet.com/join-jane-street/position/8347385002/) |
 | [AQR](https://internscout.org/internships/at/aqr/) | 2027 Business Development Summer Analyst | Greenwich, CT |  | May 15 | [Apply](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Sales Enablement Intern | Niles, IL |  | Oct 4, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5009/global-sales-enablement-intern/job) |
+| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Team Sports/Sales | Baltimore, MD |  | Oct 4 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Team-SportsSales-MD-21230/1434355500/) |
 | DuCharme, McMillen & Associates Canada, LTD. | Canada Sales Tax Intern - Summer 2027 | Calgary, AB |  | Oct 4 | [Apply](https://emplois.ca.indeed.com/viewjob?jk=4b686a78a98d0cdd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Ecolab](https://internscout.org/internships/at/ecolab/) | Mining Engineering Technical Sales Intern | USA - Virginia - Blacksburg +2 | Paid | Oct 2 | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Virginia---Blacksburg/Mining-Engineering-Technical-Sales-Intern_R00303116-1) |
 | [MFS](https://internscout.org/internships/at/mfs/) | Summer 2027 Internal Sales Intern (June-August) | Boston | \$21.00-\$25.00 | Oct 1 | [Apply](https://mfs.wd1.myworkdayjobs.com/MFS-Careers/job/Boston/Summer-2027-Internal-Sales-Intern--June-August-_MFS-231963) |
@@ -202,8 +204,6 @@
 | [Michelin](https://internscout.org/internships/at/michelin/) | Summer 2027 Internship: Sales (Greenville, SC) | GREENVILLE, SC |  | Sep 18 | [Apply](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/GREENVILLE-SC/Summer-2027-Internship--Sales--Greenville--SC-_R-2026029811) |
 | [Highgate](https://internscout.org/internships/at/highgate/) | Sales & Marketing Intern - Summer 2027 | Boston, MA +3 |  | Sep 18 | [Apply](https://externalhourly-highgate.icims.com/jobs/82535/sales-%26-marketing-intern---summer-2027/job) |
 | [APEX Analytix](https://internscout.org/internships/at/apex-analytix/) | Customer Success Internship (Summer 2027) | Greensboro, NC |  | Sep 18 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/f4344854-7887-4316-a53c-fc7ac72c475c) |
-| [Nucor](https://internscout.org/internships/at/nucor/) | Sales and Business Development Intern (Summer 2027) | Salt Lake City, UT |  | Sep 18 | [Apply](https://jobs.nucor.com/job/Salt-Lake-City-Sales-and-Business-Development-Intern-%28Summer-2027%29-UT-84104/1423595300/) |
-| [Western & Southern Financial Group](https://internscout.org/internships/at/western-southern-financial-group/) | Columbus Life/Lafayette Life Sales Desk Intern (Summer 2027) | CINCINNATI, OH |  | Sep 18 | [Apply](https://careers-westernsouthern.icims.com/jobs/25239/columbus-life-lafayette-life-sales-desk-intern-%28summer-2027%29/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

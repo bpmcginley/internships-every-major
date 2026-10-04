@@ -1,6 +1,6 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-294 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 294). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 638 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+289 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 289). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 640 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -46,7 +46,6 @@
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | IT Infrastructure & AI Enablement Intern (Summer 2027) | Milwaukee, WI |  | Sep 28 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020160) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | GDIT Summer Internship Program – Summer 2027 AI/ML Software Development and Engineering Internship | Bossier City, LA |  | Sep 26 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ229143) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | GDIT Summer Internship Program – Summer 2027 AI/ML Data Science and Engineering Internship | Bossier City, LA |  | Sep 26 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Data-Science-and-Engineering-Internship_RQ228936) |
-| [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | Artificial Intelligence and Machine Learning Intern - Research Assistant | Laurel, MD |  | Sep 25 | [Apply](https://careers.jhuapl.edu/jobs/60084?icims=1) |
 | [DoorDash](https://internscout.org/internships/at/doordash/) | Machine Learning Intern - PhD | Seattle, WA +5 | Paid | Sep 25 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Perception, Machine Learning | Mountain View, CA, USA +1 | Paid | Sep 25 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8227411) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning | Mountain View, CA, USA +1 |  | Sep 25 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8233746) |
@@ -77,7 +76,6 @@
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation | Mountain View, California, USA +1 |  | Sep 21 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8221851) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model | Mountain View, California, USA +1 |  | Sep 21 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8221795) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | PhD Research Intern, Quantum and AI for Chemistry - 2027 | Canada, Toronto +2 |  | Sep 21 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997) |
-| Nebraska Medicine | Forward Deployed AI Engineer Intern | Omaha, NE |  | Sep 21 | [Apply](https://nebraskamed.wd5.myworkdayjobs.com/nm/job/Omaha-NE/Intern---Forward-Deployed-AI-Engineer_REQ-38924) |
 | [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 Master's AI Research, Reinforcement Learning and LLM Post-Training Intern | Santa Clara, California +1 |  | Sep 21 | [Apply](https://careers.amd.com/jobs/91013) |
 | [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 PhD Gen AI and Reinforcement Learning Research Intern | Santa Clara, California +1 |  | Sep 21 | [Apply](https://careers.amd.com/jobs/90910) |
 | [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 PhD Technical Program Manager, AI Research Intern | Santa Clara, California |  | Sep 21 | [Apply](https://careers.amd.com/jobs/91019) |
@@ -165,10 +163,7 @@
 | Transcard Payments | Artificial Intelligence Intern | Chattanooga, TN |  | Sep 3 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476416) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem | San Jose, CA |  | Sep 3 | [Apply](https://lifeattiktok.com/search/7677493272788683013) |
 | [Shure](https://internscout.org/internships/at/shure/) | Artificial Intelligence Engineer Intern | Niles, IL |  | Sep 3 | [Apply](https://careersus-shure.icims.com/jobs/4966/job?mobile=true&needsRedirect=false) |
-| [Shure](https://internscout.org/internships/at/shure/) | Artificial Intelligence Specialist Intern - Operations | Niles, IL |  | Sep 3 | [Apply](https://careersus-shure.icims.com/jobs/5029/job?mobile=true&needsRedirect=false) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Research Intern - AI-Native Databases | San Jose, CA +1 |  | Sep 2 | [Apply](https://jobs.bytedance.com/en/position/7678450462765254965/detail) |
-| [Corning](https://internscout.org/internships/at/corning/) | Digital & IT Intern - Analyst - Data & AI Platform Engineering | Charlotte, NC |  | Sep 2 | [Apply](https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Data-&-AI-Platform-Engineering-Summer-2027-NC-28216/1425716600/?ats=successfactors) |
-| [Corning](https://internscout.org/internships/at/corning/) | Digital & IT Intern - Manufacturing AI/ML | Charlotte, NC |  | Sep 2 | [Apply](https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Manufacturing-AIML-Summer-2027-NC-28216/1425708000/?ats=successfactors) |
 | [Cigna Group](https://internscout.org/internships/at/cigna-group/) | Artificial Intelligence Innovation Development Program (AIIDP) Summer Internship | NC, Raleigh, 701 Corporate Center Dr STE 200 +1 |  | Sep 2 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712) |
 | [HD Supply](https://internscout.org/internships/at/hd-supply/) | Graduate Intern, Artificial Intelligence & Data Science - Summer 2027 | Atlanta-GA-US +1 |  | Sep 2 | [Apply](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Graduate-Intern--Artificial-Intelligence---Data-Science---Summer-2027_R26004952) |
 | [TWG Global](https://internscout.org/internships/at/twg-global/) | AI Engineer Intern - Summer 2027 | Santa Monica, CA |  | Sep 1 | [Apply](https://apply.workable.com/twgai/j/772CD136FF/apply) |
@@ -204,6 +199,11 @@
 | [The Nuclear Company](https://internscout.org/internships/at/the-nuclear-company/) | AI Applied Research Intern | Washington, DC |  | Aug 21 | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008) |
 | [AMD](https://internscout.org/internships/at/amd/) | Machine Learning Intern/Co-op - Artificial Intelligence | Rochester, NY +7 |  | Aug 21 | [Apply](https://careers.amd.com/jobs/91181?icims=1) |
 | [Ecolab](https://internscout.org/internships/at/ecolab/) | Digital & AI Technology Intern | Naperville, IL +5 | Paid | Aug 21 | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD | Seattle, WA |  | Aug 20 | [Apply](https://lifeattiktok.com/search/7675845333947812149) |
+| [AMD](https://internscout.org/internships/at/amd/) | 2027 Masters Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op | Austin, Texas +7 |  | Aug 20 | [Apply](https://careers.amd.com/jobs/91177) |
+| [AMD](https://internscout.org/internships/at/amd/) | 2027 Undergrad Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op | Austin, Texas +13 |  | Aug 20 | [Apply](https://careers.amd.com/jobs/91170) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning MLOps Intern - Global Site Reliability Engineering | San Jose, CA |  | Aug 19 | [Apply](https://lifeattiktok.com/search/7670875283026053381) |
+| [ByteDance](https://internscout.org/internships/at/bytedance/) | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | San Jose, CA +1 |  | Aug 19 | [Apply](https://jobs.bytedance.com/en/position/7675478684795881781/detail) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

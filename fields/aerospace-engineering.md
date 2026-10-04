@@ -1,6 +1,6 @@
 # Aerospace Engineering: Summer 2027 Internships
 
-33 open Summer 2027 aerospace engineering roles, newest first (all 33). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 70 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
+34 open Summer 2027 aerospace engineering roles, newest first (all 34). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 71 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Propulsion Analyst Intern Summer 2027 | Long Beach, CA |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986820003) |
 | [Rendezvous Robotics](https://internscout.org/internships/at/rendezvous-robotics/) | Avionics Engineering Intern (Summer 2027) | Golden, CO |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408578009) |
 | Sensata | Mechanical Engineer Intern (Aerospace) - Summer 2027 | Thousand Oaks, CA +1 | \$25.00 | Sep 16 | [Apply](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Thousand-Oaks-CA/Mechanical-Engineer-Intern--Aerospace----Summer-2027_IRC98482) |
+| Impulse Space | Avionics Electric Propulsion Engineering Intern | Redondo Beach, CA |  | Sep 11 | [Apply](https://impulsespace.pinpointhq.com/en/postings/e3b63a8a-129f-4ffa-abe9-fde35e6e6974?ats=pinpointhq) |
 | [Swarm Aero](https://internscout.org/internships/at/swarm-aero/) | Avionics Engineer Intern (Summer 2027) | Oxnard, CA +1 |  | Sep 10 | [Apply](https://jobs.ashbyhq.com/swarmaero/4e005f46-28db-4591-b1d4-393a9c0f0b36/application) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Test Engineering Intern - Avionics Summer 2027 | Long Beach, CA |  | Sep 10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987159003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Propulsion Intern Summer 2027 | Long Beach, CA |  | Sep 10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986792003) |

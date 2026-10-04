@@ -1,6 +1,6 @@
 # Urban Planning: Summer 2027 Internships
 
-37 open Summer 2027 urban planning roles, newest first (all 37). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 74 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+38 open Summer 2027 urban planning roles, newest first (all 38). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 74 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Transportation Planning Intern - Summer 2027 | US.NV.Henderson +1 | Paid | Sep 14 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USNVHenderson/Transportation-Planning-Intern---Summer-2027_R-160498-1) |
 | [AES](https://internscout.org/internships/at/aes/) | Investment Planning Intern - Summer 2027 | Dayton, OH |  | Sep 11 | [Apply](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/Investment-Planning-Intern---Summer-2027_R1064785) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | GIS Intern | Nashville, TN +1 |  | Sep 11 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Nashville-TN-City-Center/GIS-Intern---Summer-2027_R-31562) |
+| [Barr](https://internscout.org/internships/at/barr/) | GIS Specialist Intern | Salt Lake City, UT |  | Sep 10 | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Salt-Lake-City-UT/Internship---GIS-Specialist--Hybrid-_R-102305-1) |
 | [Pilot Company](https://internscout.org/internships/at/pilot-company/) | GIS Intern - GIS | Knoxville, TN |  | Sep 9 | [Apply](https://jobs.smartrecruiters.com/PilotCompany/744000148576444) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors or Masters - Transportation Planning Intern (Summer 2027!) | Orlando, Florida +1 |  | Sep 9 | [Apply](https://careers.cdmsmith.com/jobs/4439) |
 | [Tighe & Bond](https://internscout.org/internships/at/tighe-bond/) | Land Use Planning Internship - Summer 2027 | Westwood, MA | Paid | Sep 9 | [Apply](https://careers-tighebond.icims.com/jobs/1838/land-use-planning-internship---summer-2027/job) |

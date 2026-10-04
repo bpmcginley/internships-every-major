@@ -1,6 +1,6 @@
 # Design: Summer 2027 Internships
 
-57 open Summer 2027 design roles, newest first (all 57). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 146 design internships on InternScout](https://internscout.org/internships/design/)
+58 open Summer 2027 design roles, newest first (all 58). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 147 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Newrez](https://internscout.org/internships/at/newrez/) | 2027 Summer Internship – Graphic Design | TX, Coppell |  | Sep 21 | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Graphic-Design_R10460) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | UX Design Intern (Summer 2027) | Westerville, OH |  | Sep 18 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279266) |
 | [ibotta](https://internscout.org/internships/at/ibotta/) | Product Design Intern | Hybrid - Denver +2 | \$33.85 per hour | Sep 16 | [Apply](https://jobs.ashbyhq.com/ibotta/18bc055e-8958-4a09-9d5d-59894e6b9747/application) |
+| [Google](https://internscout.org/internships/at/google/) | User Experience Engineer Intern - PhD - Summer 2027 | Palo Alto, CA +24 |  | Sep 14 | [Apply](https://www.google.com/about/careers/applications/jobs/results/117572151191446214) |
 | [Google](https://internscout.org/internships/at/google/) | User Experience Engineer Intern | Palo Alto, CA +24 |  | Sep 14 | [Apply](https://www.google.com/about/careers/applications/jobs/results/112499004540887750) |
 | Workshop | Product Design Intern (Summer 2027) | Omaha, Nebraska, United States |  | Sep 14 | [Apply](https://job-boards.greenhouse.io/workshop/jobs/5237950007) |
 | [Figma](https://internscout.org/internships/at/figma/) | Product Design Intern (2027) | San Francisco, CA • New York, NY |  | Sep 14 | [Apply](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) |

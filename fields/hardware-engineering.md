@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-180 open Summer 2027 hardware engineering roles, newest first (all 180). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 465 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+177 open Summer 2027 hardware engineering roles, newest first (all 177). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 463 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -9,7 +9,6 @@
 | [Lyft](https://internscout.org/internships/at/lyft/) | Hardware Field Quality Engineer Intern (Summer 2027) | Longueuil, Canada |  | Oct 2 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002) |
 | [Hitachi](https://internscout.org/internships/at/hitachi/) | Hardware Test Engineering Intern (Summer 2027, 16months) | Toronto, Ontario, Canada +2 | Paid | Oct 2 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) |
 | [CoStar Group](https://internscout.org/internships/at/costar-group/) | Embedded Software Engineering Intern | Sunnyvale (US) +1 |  | Oct 1 | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950) |
-| [Micron Technology](https://internscout.org/internships/at/micron-technology/) | Intern - Semiconductor Research & Technology Development | Albany, NY | \$46.51 - \$46.51 | Oct 1 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Albany-NY/Intern---Semiconductor-Research---Technology-Development_JR110876) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Firmware Engineer Intern - MS - Summer 2027 | Santa Clara, CA |  | Oct 1 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1) |
 | Quantum Signal AI | Embedded and Real-Time Software Intern | Saline, MI |  | Sep 30 | [Apply](https://quantumsignalai.applytojob.com/apply/23a7Z79zfn/Embedded-And-RealTime-Software-Intern) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | RF Hardware Intern (Summer 2027) | San Francisco |  | Sep 30 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4708436006) |
@@ -49,8 +48,6 @@
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, BS/MS, Embedded, Software Engineer | Mountain View, CA, USA +1 |  | Sep 21 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8221198) |
 | [AeroVironment](https://internscout.org/internships/at/aerovironment/) | Summer 2027 Autonomy & Robotics Engineering Intern | Moorpark, CA | Paid | Sep 21 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8551) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Embedded Engineering Internship - Summer 2027 | San Diego, CA +2 |  | Sep 21 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720737089) |
-| [Qualcomm](https://internscout.org/internships/at/qualcomm/) | MSIP Digital Design Verification Engineering Intern - HW | Toronto, ON +1 |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156800) |
-| [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Electrical and Optical Systems Intern - Silicon Validation Engineer - Interim Engineering Intern - Hardware | Ottawa, ON +1 |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156176) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Silicon Validation Intern | Toronto, ON +1 |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721143274) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Hardware (CPU, GPU, SoC, Digital Design, DV) Engineering Internship – Summer 2027 | San Diego, CA +4 |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720740649) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | RF/Analog Design/Mixed-Signal Engineering Internship – Summer 2027 | San Diego, CA +3 |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720740912) |
@@ -69,11 +66,13 @@
 | [Keysight Technologies](https://internscout.org/internships/at/keysight-technologies/) | Compound Semiconductor Device Characterization Intern | Santa Rosa, CA +1 |  | Sep 14 | [Apply](https://jobs.keysight.com/jobs/54226?icims=1) |
 | [Google](https://internscout.org/internships/at/google/) | Silicon Engineering Intern | Madison, WI +2 |  | Sep 14 | [Apply](https://www.google.com/about/careers/applications/jobs/results/136529930677560006) |
 | [Google](https://internscout.org/internships/at/google/) | Silicon Engineering Intern - BS/MS - Multiple Teams | Madison, WI +1 |  | Sep 14 | [Apply](https://www.google.com/about/careers/applications/jobs/results/88570332985598662) |
+| [Google](https://internscout.org/internships/at/google/) | Hardware Engineer Intern - PhD | Palo Alto, CA +29 |  | Sep 14 | [Apply](https://www.google.com/about/careers/applications/jobs/results/97352132356645574) |
 | [Google](https://internscout.org/internships/at/google/) | Hardware Engineer Intern | Palo Alto, CA +29 |  | Sep 14 | [Apply](https://www.google.com/about/careers/applications/jobs/results/122803627516404422) |
 | EquipmentShare | Engineering Intern - Embedded | Columbia, MO |  | Sep 14 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8189297) |
 | EquipmentShare | Electrical Engineering Intern - Embedded | Columbia, MO |  | Sep 14 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8142763) |
 | Dell Technologies | Hardware Engineering Intern - Infrastructure Solutions Group | Round Rock, TX +1 |  | Sep 14 | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297770) |
 | [Bedrock Robotics](https://internscout.org/internships/at/bedrock-robotics/) | 2027 Internship Hardware Engineer, Machine Integration & Test | San Francisco, CA +2 | Paid | Sep 14 | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/c9c08251-6a42-4f9c-be4d-2621995cc8f9/application) |
+| [Micron Technology](https://internscout.org/internships/at/micron-technology/) | Semiconductor Research & Technology Development Intern | Albany, NY | Paid | Sep 14 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Albany-NY/Intern---Semiconductor-Research---Technology-Development_JR110876) |
 | [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Robotics Controls & Autonomy Intern - Robotics R&D | Santa Clara, CA |  | Sep 14 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1) |
 | [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Electrical Engineer Intern - Robotics R&D | Santa Clara, CA |  | Sep 14 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1) |
 | [Emerson Electric](https://internscout.org/internships/at/emerson-electric/) | Hardware Design Engineer Intern | Round Rock, TX |  | Sep 11 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010801) |
@@ -87,7 +86,7 @@
 | Dell Technologies | Hardware Engineering Intern - Client Solutions Group Engineering | Austin, TX |  | Sep 10 | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298216) |
 | [Bedrock Robotics](https://internscout.org/internships/at/bedrock-robotics/) | 2027 Internship Sensor Hardware Test Engineer | San Francisco, CA +2 | Paid | Sep 10 | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/1f413f83-b897-4938-a19e-ab91bd326c51/application) |
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | Robotics System Test Intern - The Toro Company | Frederick, CO |  | Sep 10 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004) |
-| [AeroVironment](https://internscout.org/internships/at/aerovironment/) | Summer 2027 Embedded Software Engineering Intern | Simi Valley, CA |  | Sep 10 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8549) |
+| [AeroVironment](https://internscout.org/internships/at/aerovironment/) | Summer 2027 Embedded Software Engineering Intern | Simi Valley, CA +15 |  | Sep 10 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8549) |
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | Hardware and Software Engineering Intern - Ditch Witch | Perry, OK |  | Sep 10 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183) |
 | Hexagon AB | Digital Hardware Engineer Intern - GNSS Positioning Digital Team | Calgary, AB +1 |  | Sep 9 | [Apply](https://careers-hexagonpositioning.icims.com/jobs/3090/job?mobile=true&needsRedirect=false) |
 | [Motorola](https://internscout.org/internships/at/motorola/) | FPGA Design Engineering Intern | Schaumburg, IL |  | Sep 9 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/FPGA-Design-Engineering-Intern---Summer-2027_R68401) |
@@ -113,6 +112,7 @@
 | [Shure](https://internscout.org/internships/at/shure/) | FPGA Development Intern | Niles, IL |  | Sep 3 | [Apply](https://careersus-shure.icims.com/jobs/4985/job?mobile=true&needsRedirect=false) |
 | [Shure](https://internscout.org/internships/at/shure/) | Embedded Software Intern | Niles, IL |  | Sep 3 | [Apply](https://careersus-shure.icims.com/jobs/5018/job?mobile=true&needsRedirect=false) |
 | [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineer Intern - Pro Audio Circuitry | Niles, IL |  | Sep 3 | [Apply](https://careersus-shure.icims.com/jobs/5017/job?mobile=true&needsRedirect=false) |
+| [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering Intern - Digital Circuitry | Niles, IL |  | Sep 3 | [Apply](https://careersus-shure.icims.com/jobs/5013/job?mobile=true&needsRedirect=false) |
 | [AMD](https://internscout.org/internships/at/amd/) | Short Term 2027 Hardware Design Verification Engineering Intern/Co-Op | MARKHAM, Ontario, Canada +1 |  | Sep 3 | [Apply](https://careers.amd.com/jobs/91361) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Embedded Software Engineering | Los Angeles, CA +1 |  | Sep 2 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377131008) |
 | [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 Long Term ASIC Verification Engineering Intern/ Co-Op | OTTAWA, Ontario, Canada +2 |  | Sep 2 | [Apply](https://careers.amd.com/jobs/91207) |
@@ -143,8 +143,6 @@
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 Undergrad ASIC Package Engineering Co-op/Intern | Austin, Texas +15 |  | Aug 25 | [Apply](https://careers.amd.com/jobs/91466) |
 | Daktronics | Hardware Design Co-op Intern - Firmware | Brookings, SD |  | Aug 24 | [Apply](https://careers-daktronics.icims.com/jobs/7518/job?mobile=true&needsRedirect=false) |
 | HPR | FPGA Engineering Intern | Needham, MA | Paid | Aug 21 | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003) |
-| [AMD](https://internscout.org/internships/at/amd/) | Hardware Design Verification Engineer Co-op/Intern | Secaucus, NJ +9 |  | Aug 21 | [Apply](https://careers.amd.com/jobs/90810?icims=1) |
-| [AMD](https://internscout.org/internships/at/amd/) | Hardware Design Verification Engineering Intern/Co-op | Secaucus, NJ +6 |  | Aug 21 | [Apply](https://careers.amd.com/jobs/90820?icims=1) |
 | [AMD](https://internscout.org/internships/at/amd/) | Firmware Engineering Intern Co-op - Undergrad | San Jose, CA +1 |  | Aug 21 | [Apply](https://careers.amd.com/jobs/90807?icims=1) |
 | [AMD](https://internscout.org/internships/at/amd/) | Hardware Engineer Intern/Co-op | San Jose, CA +1 |  | Aug 21 | [Apply](https://careers.amd.com/jobs/90894?icims=1) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 Undergrad Hardware Design Verification Engineering Co-op/Intern | Austin, Texas +6 |  | Aug 20 | [Apply](https://careers.amd.com/jobs/90811) |
@@ -181,7 +179,6 @@
 | Skyworks | Analog IC Design Co-op | Irvine, CA |  | Apr 20 | [Apply](https://careers.skyworksinc.com/job/Irvine-Analog-IC-Design-SummerFall-Co-Op-%28June-&apos;26-Dec-&apos;26%29-CA-92602/76295-en_US/?feedId=177100) |
 | [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering (Pro Audio Circuitry) Intern | Niles, IL | \$23-\$43 per hour | Oct 4, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5017/electrical-engineering-%28pro-audio-circuitry%29-intern/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering Intern (Digital Circuitry & Test Automation) | Niles, IL |  | Oct 4, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5028/electrical-engineering-intern-%28digital-circuitry-%26-test-automation%29/job) |
-| [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering Intern (Digital Circuitry) | Niles, IL | \$23-\$43 per hour | Oct 4, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5013/electrical-engineering-intern-%28digital-circuitry%29/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering Intern (RF Circuitry) | Niles, IL |  | Sep 18 | [Apply](https://careersus-shure.icims.com/jobs/4984/electrical-engineering-intern-%28rf-circuitry%29/job) |
 | [Western & Southern Financial Group](https://internscout.org/internships/at/western-southern-financial-group/) | Hardware Service Desk Intern (Summer and Fall 2027) | CINCINNATI, OH |  | Sep 18 | [Apply](https://careers-westernsouthern.icims.com/jobs/25411/hardware-service-desk-intern-%28summer-and-fall-2027%29/job) |
 

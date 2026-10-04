@@ -1,6 +1,6 @@
 # Education: Summer 2027 Internships
 
-12 open Summer 2027 education roles, newest first (all 12). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 237 education internships on InternScout](https://internscout.org/internships/education/)
+12 open Summer 2027 education roles, newest first (all 12). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 236 education internships on InternScout](https://internscout.org/internships/education/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -8,7 +8,7 @@
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Sales Instructional Design Internship | Caledonia, Michigan | Paid | Sep 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36655) |
 | [Draper](https://internscout.org/internships/at/draper/) | Cable and Harnessing Intern | Cambridge, MA |  | Sep 30 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Cable-And-Harnessing-Intern--Summer-2027-_JR002963) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Intern - Instructional Design & Development | St. Louis, MO | \$20-\$22/hr | Sep 21 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/St-Louis-MO/XMLNAME-2027-Summer-Intern---Instructional-Design---Development_R-0000033467) |
-| [Guardian Life](https://internscout.org/internships/at/guardian-life/) | 2027 Guardian Summer Intern, Corporate Finance & Risk - FRA, Rein, Statutory | New York |  | Sep 18 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--FR-A--Rein--Statutory_R000110171) |
+| [Guardian Life](https://internscout.org/internships/at/guardian-life/) | 2027 Guardian Summer Intern, Corporate Finance & Risk - FRA, Rein, Statutory | New York | \$20.00 - \$35.00 | Sep 18 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--FR-A--Rein--Statutory_R000110171) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship-Medical Education-New Jersey | Mahwah, New Jersey |  | Sep 10 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Mahwah-New-Jersey/Summer-2027-Internship-Medical-Education-New-Jersey_R572735) |
 | [PennState University](https://internscout.org/internships/at/pennstate-university/) | Part-time Youth and Family Programs Intern - Summer 2027 | Penn State University Park, PA |  | Sep 4 | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-time-Youth-and-Family-Programs-Intern---Summer-2027_REQ_0000082207-1) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship - Human Centered Design | Laurel, Maryland |  | Sep 4 | [Apply](https://careers.jhuapl.edu/jobs/59986) |

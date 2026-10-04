@@ -1,6 +1,6 @@
 # Physics: Summer 2027 Internships
 
-16 open Summer 2027 physics roles, newest first (all 16). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 56 physics internships on InternScout](https://internscout.org/internships/physics/)
+15 open Summer 2027 physics roles, newest first (all 15). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 55 physics internships on InternScout](https://internscout.org/internships/physics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -10,7 +10,6 @@
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Silicon Photonics Reliability Engineering Intern (Summer 2027) | USA - New York - Malta |  | Sep 28 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Reliability-Engineering-Intern--Summer-2027-_JR-2604258) |
 | [Booz Allen](https://internscout.org/internships/at/booz-allen-hamilton/) | Quantum Research Intern - Summer 2027 | Washington, DC |  | Sep 23 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027---Quantum-Research-Intern_R0250129) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | University - Summer 2027 - Quantum Research Intern | Washington, DC |  | Sep 23 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/University---Summer-2027---Quantum-Research-Intern_R0250129) |
-| [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Electrical and Optical Systems Intern - Silicon Validation Engineer - Interim Engineering Intern - Hardware | Ottawa, ON +1 |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156176) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Optical Engineering Intern Summer 2027 | Tucson, AZ |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7992102003) |
 | [Xcimer Energy](https://internscout.org/internships/at/xcimer-energy/) | Summer 2027 Internship - Physics | Denver, CO |  | Sep 11 | [Apply](https://jobs.lever.co/xcimer/27e40b7a-0008-42e6-b43f-200d727f9b49/apply) |
 | [Xcimer Energy](https://internscout.org/internships/at/xcimer-energy/) | Summer 2027 Internship - Optical Engineering | Denver, CO |  | Sep 11 | [Apply](https://jobs.lever.co/xcimer/89ffbeda-ebea-4539-9676-c6441751b95a/apply) |

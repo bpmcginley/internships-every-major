@@ -1,6 +1,6 @@
 # Government and Public Policy: Summer 2027 Internships
 
-52 open Summer 2027 government and public policy roles, newest first (all 52). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 266 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+51 open Summer 2027 government and public policy roles, newest first (all 51). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 265 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -39,7 +39,6 @@
 | [Exelon](https://internscout.org/internships/at/exelon/) | 2027 Summer Internship - Legal & Government Affairs Intern (Illinois) | OAKBROOK TERRACE, Illinois | \$20.00/Hr | Aug 31 | [Apply](https://careers.comed.com/jobs/30161) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Federal Reserve Summer Technical 2027 Internship | Richmond, VA |  | Aug 26 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Technical-Internship_R-0000033194) |
 | National Reconnaissance Office | 2027 Dr. Chris Scolese Summer Internship Program | Chantilly, VA +3 |  | Aug 18 | [Apply](https://nro.applytojob.com/apply/oZyJp3ZEQh/2027-Dr-Chris-Scolese-Summer-Internship-Program) |
-| FAST Enterprises | Implementation Intern | United States |  | Aug 17 | [Apply](https://careers.fastenterprises.com/jobs/1709?icims=1) |
 | Deloitte | AI and Data Engineering Summer Scholar Intern - Government & Public Services | Austin, TX |  | Aug 11 | [Apply](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479) |
 | Bronx District Attorney | 2027 Summer Legal Intern 2L | New York, NY | \$25 - \$25 Hour | Aug 11 | [Apply](https://cityjobs.nyc.gov/job/790466) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Oct 4, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |

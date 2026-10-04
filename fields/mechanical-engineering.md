@@ -1,6 +1,6 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-213 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 213). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 654 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+211 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 211). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 653 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -126,8 +126,6 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Mechanical Engineering Intern (Summer 2027!) | Dallas, Texas |  | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4388) |
 | [CSX](https://internscout.org/internships/at/csx/) | Mechanical Engineering Internship - Summer 2027 (Paid) | Jacksonville, FL |  | Sep 4 | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54844) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Summer 2027 Mechanical Engineer Intern- Bachelor's (Austin, TX) | Austin,TX | Paid | Sep 4 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093) |
-| [Corning](https://internscout.org/internships/at/corning/) | Digital & IT Intern - Manufacturing AI/ML | Charlotte, NC |  | Sep 2 | [Apply](https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Manufacturing-AIML-Summer-2027-NC-28216/1425708000/?ats=successfactors) |
-| [Corning](https://internscout.org/internships/at/corning/) | Digital & IT Intern - Analyst - Manufacturing | Glendale, AZ |  | Sep 1 | [Apply](https://corningjobs.corning.com/job/Glendale-Digital-&-IT-Intern,-Analyst,-Phoenix-Manufacturing-Summer-2027-AZ-85301/1425543900/?ats=successfactors) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Mechanical Engineering (HVAC) | Los Angeles, CA |  | Sep 1 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377104008) |
 | [K2 Space](https://internscout.org/internships/at/k2-space/) | Mechanical Engineering Intern – Summer 2027 | Los Angeles, CA | \$30 - \$40 per hour | Sep 1 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411915008) |
 | [Steel Dynamics](https://internscout.org/internships/at/steel-dynamics/) | Mechanical Engineering Internship | Sinton, TX | Paid | Sep 1 | [Apply](https://careers-steeldynamics.icims.com/jobs/7960/mechanical-engineering-internship/job) |
@@ -196,7 +194,7 @@
 | [Michelin](https://internscout.org/internships/at/michelin/) | Summer 2027 Internship: Mechanical Engineer (Emporia, KS) | EMPORIA, KS |  | Sep 18 | [Apply](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EMPORIA-KS/XMLNAME-2027-Summer-Mechanical-Engineer--Emporia--KS-_R-2026030587) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern- Mechanical Engineering | Pascagoula, Mississippi |  | Sep 18 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-MECHANICAL-ENGINEERING-Miss/1430054800/) |
 | [Lunar Outpost](https://internscout.org/internships/at/lunar-outpost/) | Mechanical Engineering Intern - Summer 2027 | Golden, Colorado |  | Sep 18 | [Apply](https://lunaroutpost.bamboohr.com/careers/394) |
-| [GE Appliances](https://internscout.org/internships/at/ge-appliances/) | Engineering/Manufacturing Co-op\_Summer 2027 | Louisville, KY +2 |  | Sep 18 | [Apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Engineering-Manufacturing-Co-op-Summer-2027_REQ-26424) |
+| [GE Appliances](https://internscout.org/internships/at/ge-appliances/) | Engineering/Manufacturing Co-op\_Summer 2027 | Decatur, AL +2 |  | Sep 18 | [Apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Decatur-AL/Engineering-Manufacturing-Co-op-Summer-2027_REQ-26426) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Electrical or Mechanical Engineering (Redlands) | Redlands, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Redlands-2027-Summer-Internship-Electrical-or-Mechanical-Engineering-%28Redlands%29-CA-92374/1425209800/) |
 | [American Rare Earths](https://internscout.org/internships/at/american-rare-earths/) | Manufacturing Intern (Summer 2027) | Stillwater, OK |  | Sep 18 | [Apply](https://ats.rippling.com/usare/jobs/affd3b55-48c3-4d5d-88f4-859441845337) |
 | [Alliance Laundry Systems](https://internscout.org/internships/at/alliance-laundry-systems/) | Manufacturing Finance Intern | Ripon, WI |  | Sep 18 | [Apply](https://uscareeropenings-alliancelaundry.icims.com/jobs/13144/manufacturing-finance-intern/job) |
@@ -204,6 +202,8 @@
 | [Corning](https://internscout.org/internships/at/corning/) | Digital & IT Intern, Analyst, Hemlock Manufacturing - Summer 2027 | Hemlock, MI |  | Sep 18 | [Apply](https://corningjobs.corning.com/job/Hemlock-Digital-&-IT-Intern%2C-Analyst%2C-Hemlock-Manufacturing-Summer-2027-MI-48626/1425712400/) |
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Manufacturing Engineering Intern (Summer 2027) | Hagerstown, MD |  | Sep 18 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Manufacturing-Engineering-Intern--Summer-2027-_R0030784) |
 | [Alliance Laundry Systems](https://internscout.org/internships/at/alliance-laundry-systems/) | Mechanical Engineering Intern | Ripon, WI |  | Sep 18 | [Apply](https://uscareeropenings-alliancelaundry.icims.com/jobs/13140/mechanical-engineering-intern/job) |
+| [Alcon](https://internscout.org/internships/at/alcon/) | 2027 Summer Mechanical & Biomedical Engineering Intern | Fort Worth, Texas +4 |  | Sep 18 | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2027-Summer-Mechanical---Biomedical-Engineering-Intern_R-2026-49483) |
+| [Shure](https://internscout.org/internships/at/shure/) | Mechanical Engineering Intern | Niles, IL |  | Sep 18 | [Apply](https://careersus-shure.icims.com/jobs/4953/mechanical-engineering-intern/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

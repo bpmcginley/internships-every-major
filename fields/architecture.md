@@ -1,6 +1,6 @@
 # Architecture: Summer 2027 Internships
 
-33 open Summer 2027 architecture roles, newest first (all 33). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 64 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+34 open Summer 2027 architecture roles, newest first (all 34). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 65 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Enterprise Architecture Intern (Chicago, IL) | Chicago, Illinois |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138733) |
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Landscape Architecture Intern – Summer 2027 | US.NV.Henderson |  | Sep 14 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USNVHenderson/Landscape-Architecture-Intern---Summer-2027_R-161002-1) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 PhD SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op | San Jose, California +3 |  | Sep 11 | [Apply](https://careers.amd.com/jobs/92350) |
+| AArete | Data Architecture & Engineering Intern | Chicago, IL +1 |  | Sep 8 | [Apply](https://jobs.jobvite.com/aarete/job/otGLAfwe?nl=1&nl=1&fr=false) |
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Landscape Architect Intern - Summer 2027 | US.GA.Atlanta.2018 Powers Ferry Rd |  | Sep 8 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USGAAtlanta2018-Powers-Ferry-Rd/Landscape-Architect-Intern---Summer-2027_R-160382-1) |
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Architectural Intern – Summer 2027 | US.CO.Denver |  | Sep 8 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Architectural-Intern---Summer-2027_R-161179-1) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Architectural Engineering | Los Angeles, CA |  | Aug 26 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377117008) |
