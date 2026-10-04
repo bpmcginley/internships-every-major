@@ -1,6 +1,6 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-443 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 443). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 803 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+443 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 443). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 804 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

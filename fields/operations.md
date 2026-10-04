@@ -1,6 +1,6 @@
 # Operations: Summer 2027 Internships
 
-327 open Summer 2027 operations roles, newest first (the 200 newest of 327). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 752 operations internships on InternScout](https://internscout.org/internships/operations/)
+327 open Summer 2027 operations roles, newest first (the 200 newest of 327). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 754 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | C&S Wholesale Grocers | Operations Safety Intern- Summer 2027 | Keene, NH +4 |  | Oct 1 | [Apply](https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Keene-NH/Operations-Safety-Intern--Summer-2027_R-268779) |
 | [DuCharme, McMillen & Associates](https://internscout.org/internships/at/ducharme-mcmillen-associates/) | IT Quality Assurance Intern - Summer 2027 | Lisle, IL |  | Oct 1 | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Lisle-IL/IT-Quality-Assurance-Intern---Summer-2027_REQ657) |
 | [ibotta](https://internscout.org/internships/at/ibotta/) | Customer Operations Intern | Hybrid - Denver +2 | \$19.84 per hour | Sep 30 | [Apply](https://jobs.ashbyhq.com/ibotta/eee07586-5d5f-4da9-8004-d49c0d5274f5/application) |
-| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova Nuclear Lean and Operations Internship - Summer 2027 | Wilmington NC USA |  | Sep 30 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Lean-and-Operations-Internship---Summer-2027_R5052266-3) |
+| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova Nuclear Lean and Operations Internship - Summer 2027 | Wilmington NC USA |  | Sep 30 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Lean-and-Operations-Internship---Summer-2027_R5052266) |
 | [Corning](https://internscout.org/internships/at/corning/) | Digital & IT Intern, Analyst, Agile & Product Operations - Summer 2027 | Corning, NY |  | Sep 30 | [Apply](https://corningjobs.corning.com/job/Corning-Digital-&-IT-Intern%2C-Analyst%2C-Agile-&-Product-Operations-Summer-2027-NY-14831/1425715600/) |
 | [AMCA](https://internscout.org/internships/at/amca/) | Production Operations Internship (Summer 2027) | El Segundo, CA | Paid | Sep 29 | [Apply](https://job-boards.greenhouse.io/amca/jobs/4425218009) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Operations Intern – Summer 2027 | Addison, TX +1 |  | Sep 29 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4424810009) |

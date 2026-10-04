@@ -1,6 +1,6 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-107 open Summer 2027 environmental science and engineering roles, newest first (all 107). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 286 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+107 open Summer 2027 environmental science and engineering roles, newest first (all 107). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 285 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Sustainability and Climate Strategy Intern (Remote) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138731) |
 | [Momentive](https://internscout.org/internships/at/momentive/) | Summer 2027 Intern-EHS Intern | Pearl River, NY |  | Sep 11 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Pearl-River/Summer-2027-Intern-EHS-Intern_R9749-1) |
 | [Momentive](https://internscout.org/internships/at/momentive/) | Summer 2027 Environmental, Health & Safety (EHS) Intern | Friendly, WV |  | Sep 11 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Environmental--Health---Safety--EHS--Intern_R9822) |
-| [HNTB](https://internscout.org/internships/at/hntb/) | Environmental Planning/Public Involvement Intern - Summer 2027 | Rocky Hill, CT (Hartford) |  | Sep 11 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Rocky-Hill-CT-Hartford/Environmental-Planning-Public-Involvement-Intern---Summer-2027_R-31566) |
+| [HNTB](https://internscout.org/internships/at/hntb/) | Environmental Planning/Public Involvement Intern - Summer 2027 | Rocky Hill, CT (Hartford) |  | Sep 11 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Rocky-Hill-CT-Hartford/Environmental-Planning-Public-Involvement-Intern---Summer-2027_R-31566-1) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern – Contractor Safety | HOUSTON, Texas |  | Sep 11 | [Apply](https://careers.kindermorgan.com/jobs/6187) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern – Field Environmental Services (FES) | HOUSTON, Texas |  | Sep 11 | [Apply](https://careers.kindermorgan.com/jobs/6180) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors - Environmental Engineering Intern | Austin, Texas |  | Sep 10 | [Apply](https://careers.cdmsmith.com/jobs/4141) |
@@ -71,8 +71,8 @@
 | [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | Renewable Operation Center Intern- CO | Golden, CO, 80401 +1 |  | Sep 7 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Golden-CO-80401/Renewable-Operation-Center-Intern--CO_JR115736-1) |
 | [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | Renewable and Demand Response Intern | Denver, CO |  | Sep 7 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Renewable-and-Demand-Response-Intern--CO_JR115433-1) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - (Summer 2027) | Raleigh, North Carolina +2 |  | Sep 7 | [Apply](https://careers.cdmsmith.com/jobs/4265) |
-| [HNTB](https://internscout.org/internships/at/hntb/) | Environmental Intern (Summer 2027) | Plano, TX (Granite Parkway) +1 |  | Sep 4 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Plano-TX-Granite-Parkway/Environmental-Intern--Summer-2027-_R-31477) |
-| [HNTB](https://internscout.org/internships/at/hntb/) | Environmental Planning Intern (Summer 2027) | Houston, TX (Fannin) |  | Sep 4 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Houston-TX-Fannin/Environmental-Planning-Intern--Summer-2027-_R-31472) |
+| [HNTB](https://internscout.org/internships/at/hntb/) | Environmental Intern (Summer 2027) | Plano, TX (Granite Parkway) +1 |  | Sep 4 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Plano-TX-Granite-Parkway/Environmental-Intern--Summer-2027-_R-31477-1) |
+| [HNTB](https://internscout.org/internships/at/hntb/) | Environmental Planning Intern (Summer 2027) | Houston, TX (Fannin) |  | Sep 4 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Houston-TX-Fannin/Environmental-Planning-Intern--Summer-2027-_R-31472-1) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Water Resources Engineering Intern (Summer 2027!) | Denver, Colorado |  | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4186) |
 | [Verdantas](https://internscout.org/internships/at/verdantas/) | Summer 2027 Environmental Intern | Wilmington DE |  | Sep 4 | [Apply](https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Wilmington-DE/Summer-2027-Environmental-Intern_R-101162) |
 | [Hunt Oil Company](https://internscout.org/internships/at/hunt-oil-company/) | Geoscience Intern - Summer 2027 | Dallas, TX |  | Sep 4 | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1059) |
