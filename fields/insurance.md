@@ -1,11 +1,11 @@
 # Insurance: Summer 2027 Internships
 
-96 open Summer 2027 insurance roles, newest first (all 96). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 157 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+96 open Summer 2027 insurance roles, newest first (all 96). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 156 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| First American | Commercial Title Underwriting Graduate Intern (Summer 2027) | San Jose, CA | \$30.00-\$34.00 Hour | Oct 5 | [Apply](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-San-Jose/Commercial-Title-Underwriting-Graduate-Intern--Summer-2027-_R059060) |
 | [Marsh](https://internscout.org/internships/at/marsh/) | Actuarial Summer Intern - College Program 2027 | New York - 1166 +1 |  | Oct 5 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Actuarial-Summer-Intern---College-Program-2027_R_366526-1) |
-| [Marsh](https://internscout.org/internships/at/marsh/) | Health and Benefits Actuarial Summer Intern- Northeast market – College Program 2027 | New York - 1166 |  | Oct 5 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Philadelphia---South-17th/Health-and-Benefits-Actuarial-Summer-Intern--Northeast-market---College-Program-2027_R_365785) |
 | [Zurich Insurance](https://internscout.org/internships/at/zurich-insurance/) | Underwriting Internship - Summer 2027 - Los Angeles | Los Angeles, CA | \$21.00 - \$23.00 | Oct 3 | [Apply](https://www.careers.zurich.com/job/Los-Angeles-Underwriting-Internship-Summer-2027-Los-Angeles-CA-90001/1371367657/) |
 | First American | Graduate Intern- Commercial Title Underwriting (Summer 2027) | Chicago, IL +3 | \$30.00-\$34.00/hour | Oct 2 | [Apply](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-Illinois-Chicago/Graduate-Intern--Commercial-Title-Underwriting--Summer-2027-_R059070) |
 | [M&T Bank](https://internscout.org/internships/at/m-t-bank/) | 2027 Corporate Summer Internship Program- Banking Services: Consumer Insurance Servicing & Indirect Funding | Buffalo, NY | \$18.00 - \$28.00 per hour | Oct 2 | [Apply](https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Corporate-Summer-Internship-Program--Banking-Services--Consumer-Insurance-Servicing---Indirect-Funding_R89951) |

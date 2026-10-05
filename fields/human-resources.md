@@ -1,9 +1,11 @@
 # Human Resources: Summer 2027 Internships
 
-118 open Summer 2027 human resources roles, newest first (all 118). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 268 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+119 open Summer 2027 human resources roles, newest first (all 119). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 269 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Midland States Bank](https://internscout.org/internships/at/midland-states-bank/) | Intern - HR - Talent Acquisition | Effingham, IL | Paid | Oct 5 | [Apply](https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---HR---Talent-Acquisition_JR1460) |
+| [Meijer](https://internscout.org/internships/at/meijer/) | Human Resources Intern- Summer 2027 | Grand Rapids, MI |  | Oct 5 | [Apply](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Human-Resources-Intern--Summer-2027_R000707780) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | People Operations Intern (Summer 2027) | Mountain View, CA | \$40/hour | Oct 2 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5255938007) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - HR&D - Software Developer | Richardson, Texas +7 | \$28/hour | Oct 2 | [Apply](https://jobs.statefarm.com/jobs/45689) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Summer Internship Program - 2027 Human Resources Leadership Development Program, Colleague Experience G… | New York, NY |  | Oct 2 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012302) |
@@ -99,7 +101,6 @@
 | [Newrez](https://internscout.org/internships/at/newrez/) | 2027 Summer Internship – HR Benefits | TX, Coppell |  | Sep 18 | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---HR-Benefits_R10377) |
 | [Woodward Governor](https://internscout.org/internships/at/woodward-governor/) | Human Resources Internship Summer 2027 | Niles, IL, US | \$21.00 | Sep 18 | [Apply](https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/Human-Resources-Internship-Summer-2027_JR113069) |
 | [Oshkosh](https://internscout.org/internships/at/oshkosh/) | Human Resources Intern (Summer 2027) | Appleton, Wisconsin, United States |  | Sep 18 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Human-Resources-Intern--Summer-2027-_R49896) |
-| [Uline](https://internscout.org/internships/at/uline/) | Human Resources Recruiting Internship - Summer 2027 | Pleasant Prairie, WI +4 | Paid | Sep 18 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Human-Resources-Recruiting-Internship---Summer-2027_R266132) |
 | [Hitachi](https://internscout.org/internships/at/hitachi/) | 2027 Summer HR Intern - Jefferson City | Jefferson City, Missouri, United States of America |  | Sep 18 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Jefferson-City-Missouri-United-States-of-America/XMLNAME-2027-Summer-HR-Intern---Jefferson-City_R0143633) |
 | [HD Supply](https://internscout.org/internships/at/hd-supply/) | Human Resources Intern - Summer 2027 | Atlanta-GA-US |  | Sep 18 | [Apply](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Human-Resources-Intern---Summer-2027_R26004266) |
 | [Conagra Brands](https://internscout.org/internships/at/conagra-brands/) | Human Resources Master's Internship - Summer 2027 | Omaha, Nebraska |  | Sep 18 | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Human-Resources-Master-s-Internship---Summer-2027_Req-039783-1) |

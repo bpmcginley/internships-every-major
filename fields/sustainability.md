@@ -1,6 +1,6 @@
 # Sustainability: Summer 2027 Internships
 
-68 open Summer 2027 sustainability roles, newest first (all 68). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 105 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+68 open Summer 2027 sustainability roles, newest first (all 68). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 106 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,9 +11,9 @@
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - ESG & Sustainable Finance Intern | Toronto, Ontario | \$39,000.00 | Sep 28 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---ESG---Sustainable-Finance-Intern_JR26091126) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Climate Center (Reston, VA; Arlington, VA; New York, NY) | Reston, VA +2 | \$23 per hour | Sep 25 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Climate-Center--Reston--VA--Arlington--VA--New-York--NY-_R2603250) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Renewable Energy Civil Intern (Summer 2027) | Chicago, IL +1 |  | Sep 25 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008000) |
-| [Stantec](https://internscout.org/internships/at/stantec/) | Lighting Intern/Co-op - Buildings (Summer 2027) | Washington, DC +5 |  | Sep 23 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007838) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Transportation Co-op/Intern - Fuel System (Summer 2027) | Portland, ME +1 |  | Sep 22 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007908) |
 | [Cox](https://internscout.org/internships/at/cox/) | Cox Conserves: Water, Nature & Energy Intern - Summer 2027 | Atlanta GA |  | Sep 22 | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Water--Nature---Energy-Intern---Summer-2027_R202682328) |
+| [Stantec](https://internscout.org/internships/at/stantec/) | Lighting Intern/Co-op – Buildings (Summer 2027) | Denver, CO +4 |  | Sep 21 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007844) |
 | [Gordon Food Service](https://internscout.org/internships/at/gordon-food-service/) | Sustainability Intern | Wyoming, MI +1 |  | Sep 21 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Sustainability-Intern_R-57405) |
 | [Corning](https://internscout.org/internships/at/corning/) | Corporate Sustainability Intern - Summer 2027 | Corning, NY |  | Sep 20 | [Apply](https://corningjobs.corning.com/job/Corning-Corporate-Sustainability-Intern-Summer-2027-NY-14831/1431801300/) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Radiation Protection Intern - Braceville, IL | Braceville, Illinois | Paid | Sep 18 | [Apply](https://jobs.constellationenergy.com/jobs/139332) |

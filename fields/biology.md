@@ -1,9 +1,10 @@
 # Biology: Summer 2027 Internships
 
-10 open Summer 2027 biology roles, newest first (all 10). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 131 biology internships on InternScout](https://internscout.org/internships/biology/)
+11 open Summer 2027 biology roles, newest first (all 11). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 134 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Centene](https://internscout.org/internships/at/centene/) | Pharmacy Grad Summer 2027 Intern (Grad) | Remote-MO |  | Oct 5 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Pharmacy-Grad-Summer-2027-Intern--Grad-_1663881) |
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - MBA Business Value & Strategic Selling Consultant (Healthcare & Life Sciences) | New York - New York |  | Oct 1 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499-1) |
 | [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program – Biologics Process Research & Development Intern | USA - New Jersey - Rahway +2 |  | Sep 28 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Biologics-Process-Research---Development-Intern_R419589) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Pharmacy Intern – Emerging Therapies and Health Outcomes | Detroit, MI |  | Sep 22 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14836) |

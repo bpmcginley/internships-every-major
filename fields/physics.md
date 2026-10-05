@@ -1,6 +1,6 @@
 # Physics: Summer 2027 Internships
 
-15 open Summer 2027 physics roles, newest first (all 15). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 55 physics internships on InternScout](https://internscout.org/internships/physics/)
+16 open Summer 2027 physics roles, newest first (all 16). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 57 physics internships on InternScout](https://internscout.org/internships/physics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 PhD Optical & Photonics Engineering Intern/Co-Op | San Jose, California +3 |  | Sep 11 | [Apply](https://careers.amd.com/jobs/92358) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | University - Summer 2027 Quantum Computing Research Intern | Washington, DC |  | Sep 9 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/University---Summer-2027-Quantum-Computing-Research-Intern_R0249046) |
 | [Booz Allen](https://internscout.org/internships/at/booz-allen-hamilton/) | Quantum Computing Research Intern | Washington, DC |  | Sep 9 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027-Quantum-Computing-Research-Intern_R0249046) |
+| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Silicon Photonics Advanced Packaging Intern | Malta, NY |  | Sep 3 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Advanced-Packaging-Intern--Summer-2027-_JR-2604270) |
 | [Tesla](https://internscout.org/internships/at/tesla/) | Physics Engine Development Engineer Intern - Optimus | Palo Alto, CA |  | Sep 2 | [Apply](https://www.tesla.com/careers/search/job/282147) |
 | [Alcon](https://internscout.org/internships/at/alcon/) | 2027 Summer Optical & Vision Science Engineering Interns | Fort Worth, Texas +4 |  | Sep 18 | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2027-Summer-Optical---Vision-Science-Engineering-Interns_R-2026-49481) |
 

@@ -1,9 +1,11 @@
 # Real Estate: Summer 2027 Internships
 
-18 open Summer 2027 real estate roles, newest first (all 18). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 32 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
+20 open Summer 2027 real estate roles, newest first (all 20). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 35 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Property Management Summer 2027 Internship - New York, NY | New York, NY +4 |  | Oct 5 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Property-Management-Summer-2027-Internship---New-York--NY_REQ540467) |
+| [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Industrial Property Management Summer 2027 Internship - Denver, CO | Denver, CO |  | Oct 5 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Denver-CO/Industrial-Property-Management-Summer-2027-Internship---Denver--CO_REQ540471) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - Real Estate Services | Houston, TX |  | Oct 2 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Houston-TX/XMLNAME-2027-Intern---Real-Estate-Services_R-0000033572) |
 | [Upbound Group](https://internscout.org/internships/at/upbound-group/) | Property Management Intern | Plano, TX |  | Oct 1 | [Apply](https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Property-Management-Intern_R-100784) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - Canadian Real Estate Finance Group | Toronto, Ontario +1 | \$40,950.00 | Oct 1 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Co-op-Intern---Canadian-Real-Estate-Finance-Group_JR26091907) |

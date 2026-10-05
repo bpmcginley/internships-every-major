@@ -1,11 +1,10 @@
 # Math: Summer 2027 Internships
 
-46 open Summer 2027 math roles, newest first (all 46). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 76 math internships on InternScout](https://internscout.org/internships/math/)
+45 open Summer 2027 math roles, newest first (all 45). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 74 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Marsh](https://internscout.org/internships/at/marsh/) | Actuarial Summer Intern - College Program 2027 | New York - 1166 +1 |  | Oct 5 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Actuarial-Summer-Intern---College-Program-2027_R_366526-1) |
-| [Marsh](https://internscout.org/internships/at/marsh/) | Health and Benefits Actuarial Summer Intern- Northeast market – College Program 2027 | New York - 1166 |  | Oct 5 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Philadelphia---South-17th/Health-and-Benefits-Actuarial-Summer-Intern--Northeast-market---College-Program-2027_R_365785) |
 | [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | R&D Intern - Biostatistics | Jacksonville, Florida, United States of America |  | Oct 2 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/R-D-Intern---Biostatistics_R-099394) |
 | [The Hartford](https://internscout.org/internships/at/the-hartford/) | Intern, Actuarial Student Program (Summer 2027) | Hartford, CT | Paid | Oct 1 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Intern--Actuarial-Student-Program--Summer-2027-_R2624619-1) |
 | Empower | Summer 2027 Intern - Corporate Actuarial (Greenwood Village, CO) | CO Greenwood Village |  | Oct 1 | [Apply](https://empower.wd12.myworkdayjobs.com/empower/job/CO-Greenwood-Village/Summer-2027-Intern---Corporate-Actuarial--Greenwood-Village--CO-_R0062375) |

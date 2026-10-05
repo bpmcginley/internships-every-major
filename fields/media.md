@@ -1,9 +1,10 @@
 # Media: Summer 2027 Internships
 
-38 open Summer 2027 media roles, newest first (all 38). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 105 media internships on InternScout](https://internscout.org/internships/media/)
+39 open Summer 2027 media roles, newest first (all 39). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 108 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [General Motors](https://internscout.org/internships/at/general-motors/) | Summer 2027 Intern - Project Management (Creative Design) | Pasadena, California, United States of America | \$6,100 month | Oct 5 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Pasadena-California-United-States-of-America/Summer-2027-Intern---Project-Management--Creative-Design-_JR-202621826) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Intern - Marketing, Communications, Journalism Majors | Chicago, IL | \$20 to \$33, | Oct 1 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern---Marketing--Communications--Journalism-Majors_R-0000033618-1) |
 | Rocket Companies | Creative Designer Intern - Summer 2027 | Detroit, MI |  | Sep 28 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Creative-Designer-Intern---Summer-2027_R-084550) |
 | [Politico](https://internscout.org/internships/at/politico/) | Reporting Intern, HQ (Summer 2027) | Arlington, VA |  | Sep 25 | [Apply](https://politico.wd108.myworkdayjobs.com/POLITICO/job/Arlington-VA/Reporting-Intern--HQ--Summer-2027-_JR100567) |
