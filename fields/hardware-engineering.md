@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-177 open Summer 2027 hardware engineering roles, newest first (all 177). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 462 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+175 open Summer 2027 hardware engineering roles, newest first (all 175). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 461 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -13,7 +13,6 @@
 | Quantum Signal AI | Embedded and Real-Time Software Intern | Saline, MI |  | Sep 30 | [Apply](https://quantumsignalai.applytojob.com/apply/23a7Z79zfn/Embedded-And-RealTime-Software-Intern) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | RF Hardware Intern (Summer 2027) | San Francisco |  | Sep 30 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4708436006) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Summer 2027 Embedded Software Engineering Intern (Onsite) | East Hartford-Etc, CT +1 | Paid | Sep 30 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2027-Embedded-Software-Engineering-Intern--Onsite-_01878014) |
-| [Northrop Grumman](https://internscout.org/internships/at/northrop-grumman/) | Hardware Electronics Engineer Intern | Rolling Meadows, IL |  | Sep 30 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Hardware-Electronics-Engineer-Intern---Rolling-Meadows-IL_R10252779-1) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | PhD Research Intern, Robotics - Summer 2027 | US, WA +5 |  | Sep 30 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | GNC Hardware Engineering Intern (Summer 2027) | Mountain View, CA | \$40/hour | Sep 29 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5252677007) |
 | [Kudu Dynamics](https://internscout.org/internships/at/kudu-dynamics/) | Electrical Hardware Design Engineering Intern | Huntsville, AL |  | Sep 29 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00193413) |
@@ -121,7 +120,6 @@
 | [Intel](https://internscout.org/internships/at/intel/) | Silicon Hardware Engineering Intern - Bachelor's | Austin, TX +4 |  | Sep 2 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829) |
 | [Intel](https://internscout.org/internships/at/intel/) | Silicon Hardware Engineering Intern - Graduate | Austin, TX +4 |  | Sep 2 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830) |
 | [AMD](https://internscout.org/internships/at/amd/) | Firmware Engineer Intern/Co-op - Long Term | Markham, ON +1 |  | Sep 1 | [Apply](https://careers.amd.com/jobs/90297?icims=1) |
-| [AMD](https://internscout.org/internships/at/amd/) | Hardware Design Engineer Intern/Co-op - Long Term | Markham, ON +1 |  | Sep 1 | [Apply](https://careers.amd.com/jobs/90367?icims=1) |
 | [Eaton](https://internscout.org/internships/at/eaton/) | Firmware Engineer Intern/Co-op - Research & Development Engineering | Moon Twp, PA |  | Sep 1 | [Apply](https://eaton.eightfold.ai/careers/job/687238596754) |
 | [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 Long Term Analog and Mixed Signal Engineering Intern/Co-Op | MARKHAM, Ontario, Canada +2 |  | Sep 1 | [Apply](https://careers.amd.com/jobs/91369) |
 | [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 Long Term Hardware Design Engineering Intern/Co-Op | VANCOUVER, British Columbia, Canada +1 |  | Sep 1 | [Apply](https://careers.amd.com/jobs/90372) |
@@ -177,8 +175,8 @@
 | [Apex Technology, Inc.](https://internscout.org/internships/at/apex-technology-inc/) | Software Engineering Intern, Embedded Systems | Los Angeles |  | May 11 | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11) |
 | TETRAMEM | Software Engineer Intern, Embedded | San Jose, CA |  | Apr 20 | [Apply](https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job) |
 | Skyworks | Analog IC Design Co-op | Irvine, CA |  | Apr 20 | [Apply](https://careers.skyworksinc.com/job/Irvine-Analog-IC-Design-SummerFall-Co-Op-%28June-&apos;26-Dec-&apos;26%29-CA-92602/76295-en_US/?feedId=177100) |
-| [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering (Pro Audio Circuitry) Intern | Niles, IL | \$23-\$43 per hour | Oct 4, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5017/electrical-engineering-%28pro-audio-circuitry%29-intern/job) |
-| [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering Intern (Digital Circuitry & Test Automation) | Niles, IL |  | Oct 4, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5028/electrical-engineering-intern-%28digital-circuitry-%26-test-automation%29/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering (Pro Audio Circuitry) Intern | Niles, IL | \$23-\$43 per hour | Oct 5, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5017/electrical-engineering-%28pro-audio-circuitry%29-intern/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering Intern (Digital Circuitry & Test Automation) | Niles, IL |  | Oct 5, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5028/electrical-engineering-intern-%28digital-circuitry-%26-test-automation%29/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering Intern (RF Circuitry) | Niles, IL |  | Sep 18 | [Apply](https://careersus-shure.icims.com/jobs/4984/electrical-engineering-intern-%28rf-circuitry%29/job) |
 | [Western & Southern Financial Group](https://internscout.org/internships/at/western-southern-financial-group/) | Hardware Service Desk Intern (Summer and Fall 2027) | CINCINNATI, OH |  | Sep 18 | [Apply](https://careers-westernsouthern.icims.com/jobs/25411/hardware-service-desk-intern-%28summer-and-fall-2027%29/job) |
 

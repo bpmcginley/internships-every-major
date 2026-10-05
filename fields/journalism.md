@@ -1,6 +1,6 @@
 # Journalism: Summer 2027 Internships
 
-34 open Summer 2027 journalism roles, newest first (all 34). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 74 journalism internships on InternScout](https://internscout.org/internships/journalism/)
+34 open Summer 2027 journalism roles, newest first (all 34). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 74 journalism internships on InternScout](https://internscout.org/internships/journalism/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

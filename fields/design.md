@@ -1,6 +1,6 @@
 # Design: Summer 2027 Internships
 
-58 open Summer 2027 design roles, newest first (all 58). **Updated October 4, 2026.** [Back to every major](../README.md) · [See all 147 design internships on InternScout](https://internscout.org/internships/design/)
+58 open Summer 2027 design roles, newest first (all 58). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 147 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -47,8 +47,8 @@
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Quantitative UX Researcher, Growth/International Expansion | San Francisco, California, United States | Paid | Aug 28 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8163364) |
 | Virtu Financial | Frontend & User Experience Intern | New York, NY |  | Jul 30 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002) |
 | [Jump Trading Group](https://internscout.org/internships/at/jump-trading/) | Campus UI Software Engineer Intern | Chicago, IL |  | Jul 9 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8003019) |
-| [Corgan](https://internscout.org/internships/at/corgan/) | Student Interior Design Internship \| Summer 2027 | Dallas, TX +9 | \$25 - \$28 per hour | Oct 4, 2024 | [Apply](https://campus-us-corgan.icims.com/jobs/4077/student-interior-design-internship-%7c-summer-2027/job) |
-| [Shure](https://internscout.org/internships/at/shure/) | User Experience Design (UX) Intern | Niles, IL |  | Oct 4, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5003/user-experience-design-%28ux%29-intern/job) |
+| [Corgan](https://internscout.org/internships/at/corgan/) | Student Interior Design Internship \| Summer 2027 | Dallas, TX +9 | \$25 - \$28 per hour | Oct 5, 2024 | [Apply](https://campus-us-corgan.icims.com/jobs/4077/student-interior-design-internship-%7c-summer-2027/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | User Experience Design (UX) Intern | Niles, IL |  | Oct 5, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5003/user-experience-design-%28ux%29-intern/job) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - Product Design (UX) | Toronto, Ontario +1 | \$40,950.00 | Sep 18 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Product-Design--UX-_JR26080533) |
 | [Hy-Vee](https://internscout.org/internships/at/hy-vee/) | Graphic Design Intern - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA |  | Sep 18 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Graphic-Design-Intern---Summer-2027_R249893) |
 | [Uline](https://internscout.org/internships/at/uline/) | UX Internship - Summer 2027 | Pleasant Prairie, WI +4 | Paid | Sep 18 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/UX-Internship---Summer-2027_R265920) |
