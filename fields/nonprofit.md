@@ -1,11 +1,11 @@
 # Nonprofit: Summer 2027 Internships
 
-9 open Summer 2027 nonprofit roles, newest first (all 9). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 76 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
+9 open Summer 2027 nonprofit roles, newest first (all 9). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 77 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Upbound Group](https://internscout.org/internships/at/upbound-group/) | Community Relations Intern | Plano, TX | \$23.00 per hour | Oct 2 | [Apply](https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Community-Relations-Intern_R-100783) |
-| [HNTB](https://internscout.org/internships/at/hntb/) | Community Engagement and Planning Intern – Summer 2027 | Boston, MA |  | Sep 23 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Boston-MA/Community-Engagement-and-Planning-Intern---Summer-2027_R-31583-1) |
+| [HNTB](https://internscout.org/internships/at/hntb/) | Community Engagement and Planning Intern – Summer 2027 | Boston, MA |  | Sep 23 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Boston-MA/Community-Engagement-and-Planning-Intern---Summer-2027_R-31583) |
 | [Robinhood](https://internscout.org/internships/at/robinhood/) | Special Projects Intern (Summer 2027) | Menlo Park, CA | Paid | Sep 14 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198262?t=gh_src=&gh_jid=8198262) |
 | [Robinhood](https://internscout.org/internships/at/robinhood/) | Vendor Management Intern (Summer 2027) | New York, NY | Paid | Sep 14 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198097?t=gh_src=&gh_jid=8198097) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Philanthropy Intern (Multiple Locations) | Baltimore, Maryland |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138724) |

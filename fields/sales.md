@@ -1,11 +1,10 @@
 # Sales: Summer 2027 Internships
 
-209 open Summer 2027 sales roles, newest first (the 200 newest of 209). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 408 sales internships on InternScout](https://internscout.org/internships/sales/)
+208 open Summer 2027 sales roles, newest first (the 200 newest of 208). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 411 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management and Sales Summer Internship (Detroit) | Detroit, MI +24 |  | Oct 5 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621842) |
-| Fortrea | Inside Sales Intern - Durham, NC - Summer 2027 | Durham |  | Oct 5 | [Apply](https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Durham/Inside-Sales-Intern---Durham--NC---Summer-2027_265798) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Sales Performance & Analytics Strategy (Raleigh, NC) | Raleigh, North Carolina +1 |  | Oct 2 | [Apply](https://firstcitizens.jibeapply.com/jobs/35826) |
 | Airbus | Summer Internship 2027 - Business Development, Regional Services | Herndon Area, VA |  | Oct 2 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Summer-Internship-2027----Business-Development--Regional-Services_JR10445189) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management and Sales Summer Internship (Twin Cities) | Burnsville, MN +12 |  | Oct 2 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620824) |
@@ -108,7 +107,6 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Business Development Intern (Warrendale, PA) | Warrendale, Pennsylvania |  | Sep 11 | [Apply](https://jobs.constellationenergy.com/jobs/138763) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer C&I Gas Sales Intern (Remote in Omaha, NE) | State House, Nebraska |  | Sep 11 | [Apply](https://jobs.constellationenergy.com/jobs/139040) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer C&I Gas Sales Intern (Remote in Texas) | Austin, Texas |  | Sep 11 | [Apply](https://jobs.constellationenergy.com/jobs/138740) |
-| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer CMG & Regional Sales Intern (Remote) | Sacramento, California |  | Sep 11 | [Apply](https://jobs.constellationenergy.com/jobs/138768) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer C&I Gas Sales Intern (Remote in Minneapolis, MN) | Saint Paul, Minnesota |  | Sep 11 | [Apply](https://jobs.constellationenergy.com/jobs/139041) |
 | [ibotta](https://internscout.org/internships/at/ibotta/) | Business Development Intern | Hybrid - Denver +2 | \$19.84 per hour | Sep 10 | [Apply](https://jobs.ashbyhq.com/ibotta/380e4faa-7142-48b8-a926-83f52632b6e4/application) |
 | [Planview](https://internscout.org/internships/at/planview/) | Sales Development Intern | Austin, Texas |  | Sep 10 | [Apply](https://careers.planview.com/jobs/5139) |
@@ -123,7 +121,7 @@
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Sales Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8187551?gh_jid=8187551) |
 | [Tanium](https://internscout.org/internships/at/tanium/) | Sales Intern – Summer 2027 | Addison, TX (Hybrid) | \$25.00 | Sep 8 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8181014) |
 | [RF-SMART](https://internscout.org/internships/at/rf-smart/) | SaaS Sales Internship - Summer 2027 | Jacksonville, Florida, United States | \$20 per Hour | Sep 8 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5409028008) |
-| [National Life](https://internscout.org/internships/at/national-life/) | Distribution Sales Intern – Summer 2027 | Montpelier, VT +1 |  | Sep 8 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4394376009) |
+| [National Life](https://internscout.org/internships/at/national-life/) | Distribution Sales Intern – Summer 2027 | Montpelier, VT |  | Sep 8 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4394380009) |
 | [C.H. Robinson](https://internscout.org/internships/at/c-h-robinson/) | Intern - Account Manager Summer 2027 | Grandview Heights, OH United States of America +1 |  | Sep 8 | [Apply](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Grandview-Heights-OH-United-States-of-America/Intern---Account-Manager-Summer-2027_R49464-1) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - GM Fleet Marketing and Sales Enablement Intern | Warren, Michigan, United States of America |  | Sep 8 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---GM-Fleet-Marketing-and-Sales-Enablement-Intern_JR-202618044) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Sales Intern | Warren, Michigan, United States of America |  | Sep 8 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Sales-Intern_JR-202619694) |
@@ -155,6 +153,7 @@
 | [Jane Street](https://internscout.org/internships/at/jane-street/) | Sales and Trading Intern | New York, NY |  | Jul 24 | [Apply](https://www.janestreet.com/join-jane-street/position/8347385002/) |
 | [AQR](https://internscout.org/internships/at/aqr/) | 2027 Business Development Summer Analyst | Greenwich, CT |  | May 15 | [Apply](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Sales Enablement Intern | Niles, IL |  | Oct 5, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5009/global-sales-enablement-intern/job) |
+| [Western & Southern Financial Group](https://internscout.org/internships/at/western-southern-financial-group/) | Enterprise Engagement Center Sales Intern (Summer 2027) | CINCINNATI, OH |  | Oct 5 | [Apply](https://careers-westernsouthern.icims.com/jobs/25179/enterprise-engagement-center-sales-intern-%28summer-2027%29/job) |
 | [Ecolab](https://internscout.org/internships/at/ecolab/) | Mining Engineering Technical Sales Intern | USA - Virginia - Blacksburg +2 | Paid | Oct 5 | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Virginia---Blacksburg/Mining-Engineering-Technical-Sales-Intern_R00303116-1) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Team Sports/Sales | Baltimore, MD |  | Oct 5 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Team-SportsSales-MD-21230/1434355500/) |
 | Highgate Hotels LP | Sales & Marketing Intern Summer 2027 | San Francisco, CA | Paid | Oct 5 | [Apply](https://www.monster.com/job-openings/sales-marketing-intern-summer-2027-san-francisco-ca--0653638e-e17a-41f7-a902-c64d55fc8493?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -204,6 +203,7 @@
 | [APEX Analytix](https://internscout.org/internships/at/apex-analytix/) | Customer Success Internship (Summer 2027) | Greensboro, NC |  | Sep 18 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/f4344854-7887-4316-a53c-fc7ac72c475c) |
 | [Nucor](https://internscout.org/internships/at/nucor/) | Sales and Business Development Intern (Summer 2027) | Salt Lake City, UT |  | Sep 18 | [Apply](https://jobs.nucor.com/job/Salt-Lake-City-Sales-and-Business-Development-Intern-%28Summer-2027%29-UT-84104/1423595300/) |
 | [Western & Southern Financial Group](https://internscout.org/internships/at/western-southern-financial-group/) | Columbus Life/Lafayette Life Sales Desk Intern (Summer 2027) | CINCINNATI, OH |  | Sep 18 | [Apply](https://careers-westernsouthern.icims.com/jobs/25239/columbus-life-lafayette-life-sales-desk-intern-%28summer-2027%29/job) |
+| [Abbott](https://internscout.org/internships/at/abbott/) | Abbott Nutrition Inside Sales Internship Health Care Professionals (HCP) Summer 2027 | United States - Ohio - Columbus |  | Sep 18 | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Abbott-Nutrition-Inside-Sales-Internship-Health-Care-Professionals--HCP--Summer-2027_31160320) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

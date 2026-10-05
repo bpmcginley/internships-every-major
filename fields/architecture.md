@@ -1,6 +1,6 @@
 # Architecture: Summer 2027 Internships
 
-34 open Summer 2027 architecture roles, newest first (all 34). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 66 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+34 open Summer 2027 architecture roles, newest first (all 34). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 67 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Etched](https://internscout.org/internships/at/etched/) | Inference Intern, Architecture | San Jose, CA |  | May 22 | [Apply](https://jobs.ashbyhq.com/Etched/aa17bfa2-2922-4aa7-820d-76064f2551a8) |
 | [Corgan](https://internscout.org/internships/at/corgan/) | Student Architectural Internship \| Summer 2027 | Dallas, TX +9 | \$26 - \$30 per hour | Oct 5, 2024 | [Apply](https://campus-us-corgan.icims.com/jobs/4075/student-architectural-internship-%7c-summer-2027/job) |
 | [Vanasse Hangen Brustlin (VHB)](https://internscout.org/internships/at/vanasse-hangen-brustlin-vhb/) | Landscape Design Intern - Summer 2027 | Tampa, FL | \$19 to \$30 | Oct 5, 2024 | [Apply](https://careers-vhb.icims.com/jobs/6315/landscape-design-intern---summer-2027/job) |
-| [HNTB](https://internscout.org/internships/at/hntb/) | Landscape Architect Intern - Summer 2027 | Kansas City, MO +4 |  | Oct 3 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/Landscape-Architect-Intern---Summer-2027_R-31364-1) |
+| [HNTB](https://internscout.org/internships/at/hntb/) | Landscape Architect Intern - Summer 2027 | Kansas City, MO +4 |  | Oct 3 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Kansas-City-MO/Landscape-Architect-Intern---Summer-2027_R-31364) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Landscape Architecture Intern \| Boston, MA | Boston, MA +1 | \$22.50-\$24.50 per hour | Sep 19 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Boston-MA/Landscape-Architecture-Intern---Boston--MA_R-16617) |
 | [Barry-Wehmiller](https://internscout.org/internships/at/barry-wehmiller/) | Architecture, Engineering & Construction Engineering Internship/Co-Op (Summer 2027 or 6-Month) | Fort Worth, TX USA | Paid | Sep 18 | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Fort-Worth-TX-USA/Architecture--Engineering---Construction-Engineering-Internship-Co-Op--Summer-2027-or-6-Month-_R022717) |
 | [Vanasse Hangen Brustlin (VHB)](https://internscout.org/internships/at/vanasse-hangen-brustlin-vhb/) | Landscape Architect Intern- Summer 2027 | Richmond, VA +1 |  | Sep 18 | [Apply](https://careers-vhb.icims.com/jobs/6225/landscape-architect-intern--summer-2027/job) |

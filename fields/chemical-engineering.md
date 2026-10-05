@@ -1,6 +1,6 @@
 # Chemical Engineering: Summer 2027 Internships
 
-48 open Summer 2027 chemical engineering roles, newest first (all 48). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 161 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+48 open Summer 2027 chemical engineering roles, newest first (all 48). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 163 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

@@ -1,6 +1,6 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-441 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 441). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 803 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+438 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 438). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 798 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -39,7 +39,6 @@
 | [Southwest Airlines](https://internscout.org/internships/at/southwest-airlines/) | Data Engineer Intern | Dallas, TX |  | Oct 1 | [Apply](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Data-Engineer-Internship_R-2026-73271) |
 | TD Synnex | Summer 2027 Internship Program \| Commercial, High Growth Track: • Sales • Marketing • Vendor Management • Business Deve… | Greenville, SC +1 |  | Oct 1 | [Apply](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Greenville-SC/Summer-2027-Internship-Program---Commercial--High-Growth-Track----Sales---Marketing---Vendor-Management---Business-Development----Product-Management----Data-Analytics_R56570) |
 | [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | Energy Product Analytics Intern- CO | Denver, CO, 80205 +3 |  | Oct 1 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Residential-Energy-Product-Strategy-Intern--CO_JR115817-1) |
-| Noblis | Data Science and Innovation Intern | Springfield, VA +1 |  | Sep 30 | [Apply](https://careers.noblis.org/jobs/27942?icims=1) |
 | ITT | Data Analytics / AI Intern - Summer 2027 | Irvine, CA |  | Sep 30 | [Apply](https://careersenus-itt-inc.icims.com/jobs/17657/job?mobile=true&needsRedirect=false) |
 | [Robinhood](https://internscout.org/internships/at/robinhood/) | Data Science Intern | Menlo Park, CA | Paid | Sep 30 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8241738) |
 | [Life Fitness](https://internscout.org/internships/at/life-fitness/) | Marketing Analytics Intern | Rosemont, IL | \$19.00 - \$23.00 per hour | Sep 30 | [Apply](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Marketing-Analytics-Intern_JR-025253) |
@@ -131,7 +130,7 @@
 | American Family Insurance Group | Internal Data and Analytics Intern - Summer 2027 | Madison, WI |  | Sep 18 | [Apply](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Internal-Data-and-Analytics-Intern---Summer-2027_R39401) |
 | [Centene](https://internscout.org/internships/at/centene/) | Analytics Summer 2027 Intern (Graduate) | Remote-FL +1 | \$21.00 - \$30.00 per hour | Sep 18 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479) |
 | [Guardian Life](https://internscout.org/internships/at/guardian-life/) | 2027 Guardian Summer Intern, Corporate Finance & Risk - Investment Reporting & Data Analytics | New York |  | Sep 18 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Investment-Accounting_R000110127) |
-| [AIG](https://internscout.org/internships/at/aig/) | 2027 Early Careers: Summer Intern, Data Office – United States, Atlanta, GA, Charlotte, NC, Parsippany, NJ, Jersey City… | GA-Atlanta +4 |  | Sep 18 | [Apply](https://aig.wd1.myworkdayjobs.com/early_careers/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Summer-Intern--Data-Office---United-States--Atlanta--GA--Charlotte--NC--Parsippany--NJ--Jersey-City--NJ---New-York--NY_JR2603655) |
+| [AIG](https://internscout.org/internships/at/aig/) | 2027 Early Careers: Summer Intern, Data Office – United States, Atlanta, GA, Charlotte, NC, Parsippany, NJ, Jersey City… | GA-Atlanta +9 |  | Sep 18 | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Summer-Intern--Data-Office---United-States--Atlanta--GA--Charlotte--NC--Parsippany--NJ--Jersey-City--NJ---New-York--NY_JR2603655-1) |
 | [Lennox International](https://internscout.org/internships/at/lennox-international/) | AI & Analytics Intern | Richardson, TX |  | Sep 17 | [Apply](https://uscareers-lennox.icims.com/jobs/54804/job?mobile=true&needsRedirect=false) |
 | [Honeywell](https://internscout.org/internships/at/honeywell/) | Data Science Co-op | Pittsford, NY |  | Sep 17 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157903) |
 | [onsemi](https://internscout.org/internships/at/onsemi/) | Data and Visualization Intern | Hopewell Junction, NY |  | Sep 17 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506638) |
@@ -204,6 +203,7 @@
 | [Citizens Financial Group](https://internscout.org/internships/at/citizens-financial-group/) | Data Management Intern - Multiple Teams | Boston, MA +2 |  | Sep 11 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49277) |
 | [Citizens Financial Group](https://internscout.org/internships/at/citizens-financial-group/) | Data Analyst Intern - Multiple Teams | Boston, MA +2 |  | Sep 11 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49282) |
 | [Citizens Financial Group](https://internscout.org/internships/at/citizens-financial-group/) | Data Engineer Intern - Enterprise Technology & Security | Plano, TX +2 |  | Sep 11 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285) |
+| [Citizens Financial Group](https://internscout.org/internships/at/citizens-financial-group/) | Data Management Intern - Enterprise Data and Analytics | Boston, MA +2 |  | Sep 11 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49281) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-178 open Summer 2027 hardware engineering roles, newest first (all 178). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 466 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+179 open Summer 2027 hardware engineering roles, newest first (all 179). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 469 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Micron Technology](https://internscout.org/internships/at/micron-technology/) | Semiconductor Research & Technology Development Intern | Albany, NY | Paid | Sep 14 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Albany-NY/Intern---Semiconductor-Research---Technology-Development_JR110876) |
 | [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Robotics Controls & Autonomy Intern - Robotics R&D | Santa Clara, CA |  | Sep 14 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1) |
 | [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Electrical Engineer Intern - Robotics R&D | Santa Clara, CA |  | Sep 14 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1) |
+| [Cirrus Logic](https://internscout.org/internships/at/cirrus-logic/) | 2027 Internship - Embedded Firmware Engineer | Phoenix, Arizona +1 |  | Sep 11 | [Apply](https://jobs.eu.lever.co/cirrus/0af920c1-6ecb-447f-9b22-3eda6b8d4ed8/apply) |
 | [Emerson Electric](https://internscout.org/internships/at/emerson-electric/) | Hardware Design Engineer Intern | Round Rock, TX |  | Sep 11 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010801) |
 | [Ciena](https://internscout.org/internships/at/ciena/) | NPI Hardware Co-op - 8 month | Ottawa, ON +1 |  | Sep 11 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Hardware-Co-op--8-month---January-2027-_R031642) |
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | Embedded Software Engineering Intern - The Toro Company | Bloomington, MN |  | Sep 11 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114) |
@@ -92,7 +93,7 @@
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | Hardware and Software Engineering Intern - Ditch Witch | Perry, OK |  | Sep 10 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183) |
 | Hexagon AB | Digital Hardware Engineer Intern - GNSS Positioning Digital Team | Calgary, AB +1 |  | Sep 9 | [Apply](https://careers-hexagonpositioning.icims.com/jobs/3090/job?mobile=true&needsRedirect=false) |
 | [Motorola](https://internscout.org/internships/at/motorola/) | FPGA Design Engineering Intern | Schaumburg, IL |  | Sep 9 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/FPGA-Design-Engineering-Intern---Summer-2027_R68401) |
-| [Revel](https://internscout.org/internships/at/revel/) | Embedded Software Engineer Intern | SF +5 |  | Sep 8 | [Apply](https://jobs.ashbyhq.com/revel/f8eec1fd-da28-47ce-bca4-2fbe9c48a889/application?embed=true) |
+| [Revel](https://internscout.org/internships/at/revel/) | Embedded Software Engineer Intern | SF +1 |  | Sep 8 | [Apply](https://jobs.ashbyhq.com/revel/f8eec1fd-da28-47ce-bca4-2fbe9c48a889/application?embed=true) |
 | [RF-SMART](https://internscout.org/internships/at/rf-smart/) | Hardware Support Internship - Summer 2027 | Jacksonville, Florida, United States | \$20 per Hour | Sep 8 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5407220008) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Advanced Packaging Intern, BS - Summer 2027 | Burlington, VT |  | Sep 8 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Advanced-Packaging-Intern--BS---Summer-2027_2604156-1) |
 | [RTX](https://internscout.org/internships/at/rtx/) | FPGA Electrical Design Engineer Intern | Tucson, AZ |  | Sep 8 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/FPGA-Electrical-Design-Engineer-Intern--Summer-2027--Onsite-_01872989) |
