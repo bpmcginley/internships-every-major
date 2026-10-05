@@ -1,13 +1,13 @@
 # Operations: Summer 2027 Internships
 
-325 open Summer 2027 operations roles, newest first (the 200 newest of 325). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 746 operations internships on InternScout](https://internscout.org/internships/operations/)
+324 open Summer 2027 operations roles, newest first (the 200 newest of 324). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 751 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | Scout Clean Energy | Operations Engineering Intern | Boulder, CO +1 | Paid | Oct 2 | [Apply](https://apply.workable.com/scout-clean-energy/j/7BF0CEDF9F/apply) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | People Operations Intern (Summer 2027) | Mountain View, CA | \$40/hour | Oct 2 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5255938007) |
 | xAI | Summer 2027 Business Operations Internship/Co-op | Palo Alto, CA | \$24.50 | Oct 2 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255116007) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Government Operations Intern Summer 2027 | Littleton, CO +1 |  | Oct 2 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8001401003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Government Operations Intern Summer 2027 | Washington, DC +1 |  | Oct 2 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7992754003) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Logistics Operations Intern (Summer 2027) | USA - New York - Malta |  | Oct 2 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Logistics-Operations-Intern--Summer-2027-_JR-2604469) |
 | [CACI](https://internscout.org/internships/at/caci/) | Technical Project Manager Intern - Summer 2027 | High Point, NC, US |  | Oct 2 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/High-Point-NC-US/Technical-Project-Manager-Intern---Summer-2027_333027) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | Precision Medicine Operations Co-op | Armonk, NY +1 | Paid | Oct 2 | [Apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/Armonk/XMLNAME-2027-Co-op-Precision-Medicine-Operations_R51082-1) |
@@ -28,7 +28,7 @@
 | C&S Wholesale Grocers | Operations Safety Intern- Summer 2027 | Keene, NH +4 |  | Oct 1 | [Apply](https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Keene-NH/Operations-Safety-Intern--Summer-2027_R-268779) |
 | [DuCharme, McMillen & Associates](https://internscout.org/internships/at/ducharme-mcmillen-associates/) | IT Quality Assurance Intern - Summer 2027 | Lisle, IL |  | Oct 1 | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Lisle-IL/IT-Quality-Assurance-Intern---Summer-2027_REQ657) |
 | [ibotta](https://internscout.org/internships/at/ibotta/) | Customer Operations Intern | Hybrid - Denver +2 | \$19.84 per hour | Sep 30 | [Apply](https://jobs.ashbyhq.com/ibotta/eee07586-5d5f-4da9-8004-d49c0d5274f5/application) |
-| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova Nuclear Lean and Operations Internship - Summer 2027 | Wilmington NC USA |  | Sep 30 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Lean-and-Operations-Internship---Summer-2027_R5052266) |
+| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova Nuclear Lean and Operations Internship - Summer 2027 | Wilmington NC USA |  | Sep 30 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Lean-and-Operations-Internship---Summer-2027_R5052266-3) |
 | [Corning](https://internscout.org/internships/at/corning/) | Digital & IT Intern, Analyst, Agile & Product Operations - Summer 2027 | Corning, NY |  | Sep 30 | [Apply](https://corningjobs.corning.com/job/Corning-Digital-&-IT-Intern%2C-Analyst%2C-Agile-&-Product-Operations-Summer-2027-NY-14831/1425715600/) |
 | [AMCA](https://internscout.org/internships/at/amca/) | Production Operations Internship (Summer 2027) | El Segundo, CA | Paid | Sep 29 | [Apply](https://job-boards.greenhouse.io/amca/jobs/4425218009) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Operations Intern – Summer 2027 | Addison, TX +1 |  | Sep 29 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4424810009) |

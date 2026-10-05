@@ -1,6 +1,6 @@
 # Consulting: Summer 2027 Internships
 
-99 open Summer 2027 consulting roles, newest first (all 99). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 192 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+99 open Summer 2027 consulting roles, newest first (all 99). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 194 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Akunacapital](https://internscout.org/internships/at/akunacapital/) | Quantitative Development & Strategy Intern, Summer 2027 | Chicago, IL +1 | \$145,000 | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Oct 5, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Cybersecurity | Portland, ME |  | Oct 5, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4020/summer-2027-consulting-internship---cybersecurity/job) |
+| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Health Policy Analysis | Portland, ME | \$30 per hour | Oct 5, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3974/summer-2027-consulting-internship---health-policy-analysis/job) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Justice | Portland, ME | \$30 per hour | Oct 5, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3983/summer-2027-consulting-internship---justice/job) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Parks, Recreation, and Libraries | Portland, ME | \$30 per hour | Oct 5, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3985/summer-2027-consulting-internship---parks%2c-recreation%2c-and-libraries/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Information Security Governance, Risk & Compliance Intern | Niles, IL |  | Oct 5, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job) |
@@ -98,7 +99,6 @@
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Management & Information Technology | Portland, ME |  | Sep 18 | [Apply](https://careers-berrydunn.icims.com/jobs/3968/summer-2027-consulting-internship---management-%26-information-technology/job) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Medicaid | Portland, ME |  | Sep 18 | [Apply](https://careers-berrydunn.icims.com/jobs/3976/summer-2027-consulting-internship---medicaid/job) |
 | [Springs Window Fashions](https://internscout.org/internships/at/springs-window-fashions/) | Dealer Shop at Home Strategy Internship - Summer 2027 | MIDDLETON, WI |  | Sep 18 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12888/dealer-shop-at-home-strategy-internship---summer-2027/job) |
-| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Health Policy Analysis | Portland, ME |  | Sep 18 | [Apply](https://careers-berrydunn.icims.com/jobs/3974/summer-2027-consulting-internship---health-policy-analysis/job) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Medicaid Policy | Portland, ME |  | Sep 18 | [Apply](https://careers-berrydunn.icims.com/jobs/3978/summer-2027-consulting-internship---medicaid-policy/job) |
 | [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Severance Tax Consulting Intern - Houston, TX | Houston | Paid | Sep 18 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Houston/Summer-2025-Tax-Consulting-Intern---Houston--TX_R0015214-2) |
 | [Springs Window Fashions](https://internscout.org/internships/at/springs-window-fashions/) | Dealer Sales Business Strategy Internship - Summer 2027 | MIDDLETON, WI |  | Sep 18 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12887/dealer-sales-business-strategy-internship---summer-2027/job) |

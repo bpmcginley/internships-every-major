@@ -1,6 +1,6 @@
 # Hospitality: Summer 2027 Internships
 
-18 open Summer 2027 hospitality roles, newest first (all 18). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 73 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
+18 open Summer 2027 hospitality roles, newest first (all 18). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 76 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

@@ -1,6 +1,6 @@
 # Chemical Engineering: Summer 2027 Internships
 
-48 open Summer 2027 chemical engineering roles, newest first (all 48). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 160 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+48 open Summer 2027 chemical engineering roles, newest first (all 48). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 161 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Freeform](https://internscout.org/internships/at/freeform/) | Process Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | \$30/hour | Aug 19 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895787003) |
 | [Shure](https://internscout.org/internships/at/shure/) | Process Engineering Intern | Niles, IL |  | Oct 5, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4994/process-engineering-intern/job) |
 | [Nucor](https://internscout.org/internships/at/nucor/) | NTP Decatur - Summer 2027 Quality/Process Engineer Internship | Decatur, AL |  | Oct 1 | [Apply](https://jobs.nucor.com/job/Decatur-NTP-Decatur-Summer-2027-QualityProcess-Engineer-Internship-AL-35601/1435727000/) |
-| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Advanced Manufacturing Process Engineering Intern, Junior (Summer 2027) | USA - Vermont - Essex Junction | \$20.00 - \$40.00 per hour | Sep 18 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Junior--Summer-2027-_JR-2604661) |
+| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Advanced Manufacturing Process Engineering Intern, Junior (Summer 2027) | USA - Vermont - Essex Junction |  | Sep 18 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Junior--Summer-2027-_JR-2604661) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Advanced Manufacturing Process Engineering Intern, Sophomore (Summer 2027) | USA - Vermont - Essex Junction |  | Sep 18 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Sophomore--Summer-2027-_JR-2604639) |
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-op - Refining Electrical Engineering (Summer 2027) | Findlay, Ohio +14 | \$32.92 per hour | Sep 18 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Refining-Electrical-Engineering--Summer-2027-_00023669) |
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-op - Refining Mechanical Engineer (Summer 2027) | Findlay, Ohio +14 | \$32.92 per hour | Sep 18 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Refining-Mechanical-Engineer--Summer-2027-_00023668) |

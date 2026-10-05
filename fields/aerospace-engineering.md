@@ -1,9 +1,10 @@
 # Aerospace Engineering: Summer 2027 Internships
 
-33 open Summer 2027 aerospace engineering roles, newest first (all 33). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 70 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
+34 open Summer 2027 aerospace engineering roles, newest first (all 34). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 71 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Aerospace, Defense & Government Finance | New York, New York | \$22.44 | Oct 5 | [Apply](https://firstcitizens.jibeapply.com/jobs/35782) |
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Aerospace Systems Engineering Intern - Graduate | Space Coast, FL +1 | \$38.00 | Oct 2 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Aerospace-Systems-Engineering-Intern---Graduate_R71435) |
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Aerospace Systems Engineering Internship - Undergraduate | Space Coast, FL +1 | \$32.00 | Oct 2 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Aerospace-Systems-Engineering-Internship----Undergraduate_R71436) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Avionics Engineering Internship - Summer 2027 | El Segundo, California, United States +1 |  | Oct 1 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010158003) |

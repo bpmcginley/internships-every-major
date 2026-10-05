@@ -1,9 +1,12 @@
 # Hardware Engineering: Summer 2027 Internships
 
-175 open Summer 2027 hardware engineering roles, newest first (all 175). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 461 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+178 open Summer 2027 hardware engineering roles, newest first (all 178). **Updated October 5, 2026.** [Back to every major](../README.md) · [See all 466 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Renesas Electronics | Analog Intern | San Jose, CA +2 |  | Oct 5 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000153497087) |
+| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern – AI & Hardware Analytics, ADPT | Warren, Michigan, United States of America +1 | \$8,100 – \$8,700 per month | Oct 5 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756) |
+| [Marvell](https://internscout.org/internships/at/marvell/) | Hardware Engineer Intern, BS - Summer 2027 | Santa Clara, CA | Paid | Oct 5 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Hardware-Engineer-Intern--BS---Summer-2027_2604975-1) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Electrical Engineering Intern - FPGA | El Segundo, CA +1 |  | Oct 3 | [Apply](https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply) |
 | Arc | Electrical Hardware Engineering Intern | Torrance, CA |  | Oct 2 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008) |
 | [Lyft](https://internscout.org/internships/at/lyft/) | Hardware Field Quality Engineer Intern (Summer 2027) | Longueuil, Canada |  | Oct 2 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002) |
