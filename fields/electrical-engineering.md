@@ -1,6 +1,6 @@
 # Electrical Engineering: Summer 2027 Internships
 
-179 open Summer 2027 electrical engineering roles, newest first (all 179). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 465 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+180 open Summer 2027 electrical engineering roles, newest first (all 180). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 472 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -71,7 +71,6 @@
 | [WSP](https://internscout.org/internships/at/wsp/) | Electrical Engineering Intern- Summer 2027 | Lexington, KY +1 |  | Sep 18 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95796) |
 | [Motorola](https://internscout.org/internships/at/motorola/) | DSP (Digital Signal Processing) Software Engineering Intern - Summer 2027 | Plantation, FL |  | Sep 18 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Electrical Engineering (Distribution) Intern - Summer 2027 | Overland Park, KS +2 |  | Sep 18 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95629) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Electrical Engineering Intern Summer 2027 | Pasadena, CA +2 | \$28.00 | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7998598003) |
 | [Generac](https://internscout.org/internships/at/generac/) | Electrical Engineering Intern - Summer 2027 | Waukesha, WI - USA +1 |  | Sep 17 | [Apply](https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Electrical-Engineering-Intern---Summer-2027_JR16952) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Electrical Engineering (Distribution Design) Intern - Summer 2027 | Birmingham, AL |  | Sep 17 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95579) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Electrical Engineer Intern - FPGA | Westminster, CO +1 |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/e6d87528-5da1-4970-9e42-7b224cfa63a9/apply) |
@@ -93,6 +92,7 @@
 | Rocket Lab USA | Electrical Engineering Intern | Long Beach, CA |  | Sep 10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990683003) |
 | [Antares Nuclear](https://internscout.org/internships/at/antares-nuclear/) | Electrical Engineering Intern - Summer 2027 | Los Angeles +2 |  | Sep 10 | [Apply](https://jobs.ashbyhq.com/Antares/3061297c-a666-47be-a58a-b62881bf183d/application) |
 | [Saronic](https://internscout.org/internships/at/saronic/) | Electrical Engineer Intern (Summer 2027) | Austin, TX +1 |  | Sep 9 | [Apply](https://jobs.ashbyhq.com/saronic/c7779462-3c4c-44d9-8314-1be93a0e478a/application) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Electrical Engineering Intern Summer 2027 | Toronto, CAN +4 | \$60,008 | Sep 9 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990043003) |
 | [Pacific Fusion](https://internscout.org/internships/at/pacific-fusion/) | Summer 2027 Internship - Electrical Engineering | San Leandro, CA/ Fremont, CA +1 | Paid | Sep 9 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4398021009) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship -Electrical/Computer Engineer - Intelligence Surveillance & Reconnaissance | Laurel, Maryland +1 |  | Sep 9 | [Apply](https://careers.jhuapl.edu/jobs/59764) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship – Electrical & Computer Engineer - Miniature Device Technologies | Laurel, Maryland +1 |  | Sep 9 | [Apply](https://careers.jhuapl.edu/jobs/59993) |
@@ -149,6 +149,7 @@
 | [Etched](https://internscout.org/internships/at/etched/) | Physical Design Intern | San Jose, CA |  | May 20 | [Apply](https://jobs.ashbyhq.com/Etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77/application?embed=true) |
 | [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering (Pro Audio Circuitry) Intern | Niles, IL | \$23-\$43 per hour | Oct 6, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5017/electrical-engineering-%28pro-audio-circuitry%29-intern/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering Intern (Digital Circuitry & Test Automation) | Niles, IL |  | Oct 6, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5028/electrical-engineering-intern-%28digital-circuitry-%26-test-automation%29/job) |
+| [HNTB](https://internscout.org/internships/at/hntb/) | Intern Electrical Engineer - Summer 2027 | Kansas City, MO +1 |  | Oct 6 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/Intern-Electrical-Engineer---Summer-2027_R-31347-1) |
 | [Hershey](https://internscout.org/internships/at/hershey/) | Future Opportunities Electrical Controls Co-Op (Summer 2027) | Hershey, PA |  | Oct 2 | [Apply](https://careers.thehersheycompany.com/job/Hershey-Future-Opportunities-Electrical-Controls-Co-Op-%28Summer-2027%29-PA-17033/1436178400/) |
 | [Nucor](https://internscout.org/internships/at/nucor/) | NTP Decatur - Summer 2027 Electrical Engineer Internship | Decatur, AL |  | Oct 1 | [Apply](https://jobs.nucor.com/job/Decatur-NTP-Decatur-Summer-2027-Electrical-Engineer-Internship-AL-35601/1435727400/) |
 | [General Dynamics Mission Systems, Inc.](https://internscout.org/internships/at/general-dynamics-mission-systems-inc/) | Electrical Engineering Intern (Summer 2027) | Manassas, VA +1 |  | Sep 28 | [Apply](https://careers-gdms.icims.com/jobs/75140/electrical-engineering-intern-%28summer-2027%29/job) |

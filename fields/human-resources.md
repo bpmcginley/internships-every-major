@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-118 open Summer 2027 human resources roles, newest first (all 118). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 272 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+117 open Summer 2027 human resources roles, newest first (all 117). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 271 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -93,7 +93,6 @@
 | [XPENG Motors](https://internscout.org/internships/at/xpeng-motors/) | 2027 Campus Recruiting Robotics Center Internship Position | Santa Clara, CA |  | Aug 4 | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8681156002) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Applied Scientist Intern - Monetization GenAI - Global Frontier Tech Recruitment Program - 2027 Start - PhD | San Jose, CA |  | Jun 15 | [Apply](https://lifeattiktok.com/search/7631062649025857797) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Intelligent Sensing Intern - Global Frontier Tech Recruitment Program | San Jose, CA |  | Jun 4 | [Apply](https://jobs.bytedance.com/en/position/7629210458173556997/detail) |
-| [HNTB](https://internscout.org/internships/at/hntb/) | WED - Intern Civil Engineer (Summer 2027) (For Current & Recent HNTB Interns Only) (Campus Recruiting Hub Requisition) | Oakland, CA +1 | \$83,008.49 - \$124,512.74 | Oct 6 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Oakland-CA/WED---Intern-Civil-Engineer--Summer-2027---For-Current---Recent-HNTB-Interns-Only---Campus-Recruiting-Hub-Requisition-_R-31285-1) |
 | [The Boeing Company](https://internscout.org/internships/at/boeing/) | Boeing Business Internship Program (Paid) Summer 2027 - Human Resources | USA - Everett, WA +12 |  | Oct 2 | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/Boeing-Business-Internship-Program--Paid--Summer-2027---Human-Resources_JR2026520801) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Human Resources | Baltimore, MD |  | Sep 28 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Human-Resources-MD-21230/1434321700/) |
 | [West Bend Insurance](https://internscout.org/internships/at/west-bend-insurance/) | Summer 2027 Internship - Human Resources | West Bend, WI |  | Sep 23 | [Apply](https://careers-thesilverlining.icims.com/jobs/3769/summer-2027-internship---human-resources/job) |

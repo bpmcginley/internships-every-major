@@ -1,13 +1,13 @@
 # Marketing: Summer 2027 Internships
 
-248 open Summer 2027 marketing roles, newest first (the 200 newest of 248). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 646 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+248 open Summer 2027 marketing roles, newest first (the 200 newest of 248). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 649 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Kyndryl | Marketing Internship, Generalist | New York, NY, USA | \$30/hour | Oct 6 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Generalist_R-69407) |
+| Kyndryl | Marketing Internship, Generalist | New York, NY, USA | \$30/hour | Oct 6 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Generalist_R-69405) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship – Customer & Digital Growth, Insights and Platforms – Data Systems | New York, NY |  | Oct 6 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93388) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship – Consumer Insights: Customer & Digital Intelligence and Analytics | New York, NY +1 |  | Oct 6 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93380) |
-| Kyndryl | Marketing Intern - Marketing Analytics | NYC |  | Oct 6 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69404) |
+| Kyndryl | Marketing Intern - Marketing Analytics | NYC +1 | Paid | Oct 6 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69404) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 MBA Internship – Customer & Digital Growth, Insights and Platforms – Strategy | New York, NY |  | Oct 6 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93384) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship – Customer & Digital Growth, Insights and Platforms – Analytics | New York, NY +1 |  | Oct 6 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93389) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship – Consumer Insights: Customer Experience | New York, NY |  | Oct 5 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93379) |

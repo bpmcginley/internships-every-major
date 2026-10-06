@@ -1,9 +1,10 @@
 # Operations: Summer 2027 Internships
 
-314 open Summer 2027 operations roles, newest first (the 200 newest of 314). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 746 operations internships on InternScout](https://internscout.org/internships/operations/)
+315 open Summer 2027 operations roles, newest first (the 200 newest of 315). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 748 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Nasdaq | Project Management Intern - 2027 Summer Internship | USA - New York City - New York |  | Oct 6 | [Apply](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/Project-Management-Intern---2027-Summer-Internship_R0027033) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Facilities Management | Detroit, MI |  | Oct 6 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14649) |
 | [Mastercard](https://internscout.org/internships/at/mastercard/) | Corporate Security Operations Intern, Summer 2027 – St. Louis, MO, US | O'Fallon, Missouri | \$25-30/hr | Oct 5 | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Corporate-Security-Operations-Intern--Summer-2027---St-Louis--MO--US_R-284925) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Finance Project Management & Financial Systems Analyst Intern (Summer 2027) | USA - Texas - Austin +1 |  | Oct 5 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Finance-Project-Management-Analyst-Intern--Summer-2027-_JR-2604486) |
@@ -15,7 +16,7 @@
 | Scout Clean Energy | Operations Engineering Intern | Boulder, CO +1 | Paid | Oct 2 | [Apply](https://apply.workable.com/scout-clean-energy/j/7BF0CEDF9F/apply) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | People Operations Intern (Summer 2027) | Mountain View, CA | \$40/hour | Oct 2 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5255938007) |
 | xAI | Summer 2027 Business Operations Internship/Co-op | Palo Alto, CA +1 | \$24.50 | Oct 2 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255116007) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Government Operations Intern Summer 2027 | Littleton, CO +1 |  | Oct 2 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8001401003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Government Operations Intern Summer 2027 | Washington, DC +1 |  | Oct 2 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7992754003) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Logistics Operations Intern (Summer 2027) | USA - New York - Malta |  | Oct 2 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Logistics-Operations-Intern--Summer-2027-_JR-2604469) |
 | [CACI](https://internscout.org/internships/at/caci/) | Technical Project Manager Intern - Summer 2027 | High Point, NC, US |  | Oct 2 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/High-Point-NC-US/Technical-Project-Manager-Intern---Summer-2027_333027) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | Precision Medicine Operations Co-op | Armonk, NY +1 | Paid | Oct 2 | [Apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/Armonk/XMLNAME-2027-Co-op-Precision-Medicine-Operations_R51082-1) |
@@ -203,7 +204,6 @@
 | [Exelon](https://internscout.org/internships/at/exelon/) | 2027 Summer Internship - Project Management (Various Exelon Locations) | CHICAGO, Illinois +6 | \$20.00/Hr | Aug 31 | [Apply](https://careers.comed.com/jobs/30124) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | IT Quality Assurance Intern (Summer 2027) | Westerville, OH |  | Aug 31 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279193) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern – Financial Operations - Financial & Business Insights | Bloomington, Illinois +3 | \$30.00/hr | Aug 31 | [Apply](https://jobs.statefarm.com/jobs/45476) |
-| [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Masters Summer Internship Program - 2027 Global Real Estate & Workplace Experience, Enterprise Shared S… | New York, NY |  | Aug 31 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012153) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

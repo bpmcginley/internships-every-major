@@ -1,6 +1,6 @@
 # Hospitality: Summer 2027 Internships
 
-19 open Summer 2027 hospitality roles, newest first (all 19). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 74 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
+18 open Summer 2027 hospitality roles, newest first (all 18). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 75 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -14,7 +14,6 @@
 | [Cvent](https://internscout.org/internships/at/cvent/) | SDET Intern (Summer 2027) | Tysons Corner, Virginia | Paid | Aug 31 | [Apply](https://careers.cvent.com/jobs/10761) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | Scrum Master Intern (Summer 2027) | Tysons Corner, Virginia |  | Aug 31 | [Apply](https://careers.cvent.com/jobs/10740) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | Client Services Intern (Summer 2027) | Tysons Corner, Virginia | Paid | Aug 26 | [Apply](https://careers.cvent.com/jobs/10710) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Biomechanics | Baltimore, MD |  | Oct 5 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Biomechanics-MD-21230/1434382000/) |
 | City Union Mission | Marketing and Events Intern - Summer 2027 | Kansas City, MO |  | Oct 5 | [Apply](https://www.indeed.com/viewjob?jk=5cb914532eb5508e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Hyatt](https://internscout.org/internships/at/hyatt/) | Hotel Operations Internship - Summer 2027 | St. Louis, MO |  | Sep 30 | [Apply](https://hyatt.taleo.net/careersection/10780/jobdetail.ftl?job=STL002667) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Product Line Management | Baltimore, MD |  | Sep 28 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Product-Line-Management-MD-21230/1434387800/) |

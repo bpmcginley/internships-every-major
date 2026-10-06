@@ -1,6 +1,6 @@
 # Urban Planning: Summer 2027 Internships
 
-38 open Summer 2027 urban planning roles, newest first (all 38). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 78 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+37 open Summer 2027 urban planning roles, newest first (all 37). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 76 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -40,7 +40,6 @@
 | [HNTB](https://internscout.org/internships/at/hntb/) | Urban Design & Planning Intern | Dallas, TX |  | Sep 18 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Dallas-TX/Urban-Design---Planning-Intern_R-31479-1) |
 | [Ruekert & Mielke](https://internscout.org/internships/at/ruekert-mielke/) | GIS Student Intern (Summer 2027) | Waukesha, Wisconsin |  | Sep 18 | [Apply](https://ruekertmielke.bamboohr.com/careers/300) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Planning Intern \| Hartford, CT | Hartford, CT +1 | Paid | Sep 18 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Hartford-CT/Planning-Intern---Hartford--CT_R-16670) |
-| [Vanasse Hangen Brustlin (VHB)](https://internscout.org/internships/at/vanasse-hangen-brustlin-vhb/) | NEPA Environmental Planning Intern - Summer 2027 | Washington, DC |  | Sep 18 | [Apply](https://careers-vhb.icims.com/jobs/6290/nepa-environmental-planning-intern---summer-2027/job) |
 | [Vanasse Hangen Brustlin (VHB)](https://internscout.org/internships/at/vanasse-hangen-brustlin-vhb/) | Transit & Environmental Planning Intern - Summer 2027 | Washington, DC |  | Sep 18 | [Apply](https://careers-vhb.icims.com/jobs/6309/transit-%26-environmental-planning-intern---summer-2027/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

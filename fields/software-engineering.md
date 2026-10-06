@@ -1,14 +1,17 @@
 # Software Engineering: Summer 2027 Internships
 
-1,143 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,143). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 2,422 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,147 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,147). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 2,437 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Niantic Spatial | Software Engineering Intern (Summer 2027) | San Francisco, CA +1 |  | Oct 6 | [Apply](https://jobs.ashbyhq.com/niantic-spatial/898b2da7-03cd-486e-96e3-3430a148c8fd/application) |
 | [Space Dynamics Laboratory](https://internscout.org/internships/at/space-dynamics-laboratory/) | Software Engineer Intern - Software, AI, & Machine Learning | North Logan, UT |  | Oct 6 | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l/Software-Engineer-Intern-Software-AI-Machine-Learning) |
 | [Space Dynamics Laboratory](https://internscout.org/internships/at/space-dynamics-laboratory/) | Software Engineering Intern - AI Enabled Software Development | North Logan, UT |  | Oct 6 | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/82GBzTsnBq/Software-Engineering-Intern-AI-Enabled-Software-Development) |
+| Pure Storage | Software Engineer Intern (Summer 2027) | Santa Clara, California | \$8,500 | Oct 6 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/8249749) |
 | Innovative Defense Technologies | Software Engineer Intern | Mt Laurel Township, NJ +2 |  | Oct 6 | [Apply](https://idtus.pinpointhq.com/en/postings/eac7d1ca-2dbd-4c60-8f65-979f0a9e3f33?ats=pinpointhq) |
 | [Boston Scientific](https://internscout.org/internships/at/boston-scientific/) | Equipment Engineering Software Engineer Intern | Maple Grove, MN |  | Oct 6 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813584306) |
 | [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Software Development Co-op | Boston, MA |  | Oct 6 | [Apply](https://campus-libertymutual.icims.com/jobs/261797/job?mobile=true&needsRedirect=false) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Software Engineer Co-op (January 2027) | Marlborough, MA |  | Oct 6 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01878330) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship – Customer & Digital Growth, Insights and Platforms – Data Systems | New York, NY |  | Oct 6 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93388) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 MBA Internship – Customer & Digital Growth, Insights and Platforms – Strategy | New York, NY |  | Oct 6 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93384) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship – Customer & Digital Growth, Insights and Platforms – Analytics | New York, NY +1 |  | Oct 6 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93389) |
@@ -120,6 +123,7 @@
 | [Boeing](https://internscout.org/internships/at/boeing/) | Boeing Engineering & Technology Innovation Graduate Researcher Program, Microelectronics R&D Intern | USA - Huntington Beach, CA +3 |  | Oct 1 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Microelectronics-R-D-Intern_JR2026523675) |
 | [Boeing](https://internscout.org/internships/at/boeing/) | Boeing Engineering & Technology Innovation Graduate Researcher Program, Applied Mathematician Intern | USA - North Charleston, SC +1 |  | Oct 1 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Applied-Mathematician-Intern_JR2026523704) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Transportation Engineering Intern - Infrastructure (Summer 2027) | Portland, ME +6 |  | Oct 1 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008089) |
+| [Quantinuum](https://internscout.org/internships/at/quantinuum/) | Systems Engineering Intern - 1048 | US Broomfield, CO |  | Sep 30 | [Apply](https://jobs.eu.lever.co/quantinuum/fcceecb2-58fb-4f34-8956-6fc148adf552/apply) |
 | MetLife | Global Technology Intern | Tampa, FL +3 |  | Sep 30 | [Apply](https://metlife.avature.net/en_US/ml/JobDetail/20701) |
 | Quantum Signal AI | Embedded and Real-Time Software Intern | Saline, MI |  | Sep 30 | [Apply](https://quantumsignalai.applytojob.com/apply/23a7Z79zfn/Embedded-And-RealTime-Software-Intern) |
 | [Peraton](https://internscout.org/internships/at/peraton/) | Software Engineering Co-op | San Diego, CA |  | Sep 30 | [Apply](https://careers-peraton.icims.com/jobs/171547/job?mobile=true&needsRedirect=false) |
@@ -149,7 +153,6 @@
 | Perchwell | Software Engineering Intern | New York Office +2 | \$12,000 | Sep 29 | [Apply](https://jobs.ashbyhq.com/Perchwell/194eec78-26db-4d8e-850f-a99ea2733e9f/application) |
 | [RF-SMART](https://internscout.org/internships/at/rf-smart/) | Service Delivery Intern (IT Helpdesk) - Summer 2027 | Jacksonville, Florida, United States |  | Sep 29 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5425409008) |
 | Cloudflare | Software Engineer Intern | Austin, TX |  | Sep 29 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8199958) |
-| [Corning](https://internscout.org/internships/at/corning/) | Optical Test Engineering Intern - Summer 2027 | Keller, TX | \$1,635.00 - \$3,185.00 | Sep 29 | [Apply](https://corningjobs.corning.com/job/Keller-Optical-Test-Engineering-Intern-Summer-2027-TX-76248/1435083400/) |
 | [Invesco](https://internscout.org/internships/at/invesco/) | Early Career Intern - Technology | Atlanta, GA |  | Sep 29 | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1) |
 | [Primient](https://internscout.org/internships/at/primient/) | Quality Control/Quality Assurance Intern - Summer 2027 | Decatur, IL | \$1,500 to \$3,000 | Sep 29 | [Apply](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Decatur-IL/Quality-Control-Quality-Assurance-Intern---Summer-2027_JREQ7016) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | AI-Native Development Platform Engineer Intern, MS - Summer 2027 | Santa Clara, CA | Paid | Sep 29 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1) |
@@ -201,9 +204,6 @@
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Software/Data Engineering (Chino) | Chino, CA |  | Sep 26 | [Apply](https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-%28Chino%29-CA-91710/1424663800/) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Software Engineering, Onboard Software Integrity | Mountain View, CA, USA +1 | Paid | Sep 25 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8234161) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning | Mountain View, CA, USA +1 |  | Sep 25 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8233746) |
-| [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks & Diagnostics | Mountain View, CA, USA +1 |  | Sep 25 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8231711) |
-| [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations | Mountain View, CA, USA +1 | Paid | Sep 25 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8224900) |
-| [Intel](https://internscout.org/internships/at/intel/) | Software Research Intern - PhD | Hillsboro, OR |  | Sep 25 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

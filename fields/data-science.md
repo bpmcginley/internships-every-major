@@ -1,6 +1,6 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-450 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 450). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 831 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+451 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 451). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 830 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -9,7 +9,7 @@
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship – Customer & Digital Growth, Insights and Platforms – Data Systems | New York, NY |  | Oct 6 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93388) |
 | [American Family Insurance Group](https://internscout.org/internships/at/american-family-insurance-group/) | Data Analytics Intern | Madison, WI |  | Oct 6 | [Apply](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analytics_R39631) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship – Consumer Insights: Customer & Digital Intelligence and Analytics | New York, NY +1 |  | Oct 6 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93380) |
-| Kyndryl | Marketing Intern - Marketing Analytics | NYC |  | Oct 6 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69404) |
+| Kyndryl | Marketing Intern - Marketing Analytics | NYC +1 | Paid | Oct 6 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69404) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship – Customer & Digital Growth, Insights and Platforms – Analytics | New York, NY +1 |  | Oct 6 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93389) |
 | [Corning](https://internscout.org/internships/at/corning/) | Engineering Data Analyst Intern | Keller, TX |  | Oct 5 | [Apply](https://corningjobs.corning.com/job/Keller-Engineering-Data-Analyst-Intern-Summer-2027-TX-76248/1437049900/?ats=successfactors) |
 | [Atlassian](https://internscout.org/internships/at/atlassian/) | Data Engineer Intern | Seattle, WA |  | Oct 5 | [Apply](https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job) |
@@ -73,6 +73,7 @@
 | [Fidelity National Information Services](https://internscout.org/internships/at/fidelity-national-information-services/) | Data Analytics & AI Intern Pipeline | Jax 347, FL +5 | Paid | Sep 29 | [Apply](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Data-Analytics-and-AI--FIS-University-Program_JR0309690) |
 | Neighbor | Data Science Internship (Current PhD) - Summer 2027 | Lehi, UT | Paid | Sep 28 | [Apply](https://jobs.lever.co/neighbor/b5f73774-1d5a-4edc-a184-d1734731cd9c/apply) |
 | H&R Block | Financial Services Data Analytics Intern | Kansas City, MO |  | Sep 28 | [Apply](https://careers-hrblock.icims.com/jobs/76989/job?mobile=true&needsRedirect=false) |
+| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Quantitative Analytics & Data Science Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 28 | [Apply](https://jobs.constellationenergy.com/jobs/139494) |
 | [SouthState Bank](https://internscout.org/internships/at/southstate-bank/) | Summer 2027 Data Analytics Intern (Remote) | Remote Opportunity - VA, NC, SC, GA, FL, AL, TX, & CO |  | Sep 28 | [Apply](https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/Summer-2027-Data-Analytics-Intern--Remote-_R-06279) |
 | [Itron](https://internscout.org/internships/at/itron/) | Data Science Intern - Distributed Intelligence | Liberty Lake, WA +1 |  | Sep 28 | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Data Analytics, Program Performance | Detroit, MI |  | Sep 28 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14841) |
@@ -203,7 +204,6 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer PMO/Data Analyst Intern (Chicago, IL) | Chicago, Illinois +1 |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138735) |
 | Raymond James Financial | Private Client Banking Strategy, Analytics & Sales Intern | St. Petersburg, FL |  | Sep 14 | [Apply](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship-Program---Private-Client-Banking-Strategy--Analytics----Sales-Intern--St-Petersburg--FL-_R-0013001) |
 | [Guardian Life](https://internscout.org/internships/at/guardian-life/) | 2027 Guardian Summer Intern, Digital & Technology – Data Engineering | New York +4 |  | Sep 14 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202) |
-| [Gordon Food Service](https://internscout.org/internships/at/gordon-food-service/) | Material Master Data Intern | Wyoming, MI +1 |  | Sep 14 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Material-Master-Data-Internship_R-57186) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
