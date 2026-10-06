@@ -1,13 +1,12 @@
 # Physics: Summer 2027 Internships
 
-16 open Summer 2027 physics roles, newest first (all 16). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 60 physics internships on InternScout](https://internscout.org/internships/physics/)
+15 open Summer 2027 physics roles, newest first (all 15). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 60 physics internships on InternScout](https://internscout.org/internships/physics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Space Dynamics Laboratory](https://internscout.org/internships/at/space-dynamics-laboratory/) | Electro-Optical Engineer Intern | North Logan, UT |  | Oct 6 | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/E1nubjCRhW/ElectroOptical-Engineer-Intern) |
 | [AMD](https://internscout.org/internships/at/amd/) | Masters Photonics Design Engineering Co-op | San Jose, CA |  | Oct 3 | [Apply](https://careers.amd.com/jobs/91633?icims=1) |
 | [CACI](https://internscout.org/internships/at/caci/) | Optical Engineering Intern - Summer 2027 | Danbury, CT, US | \$55,600 - \$111,100 | Oct 1 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Optical-Engineering-Intern---Summer-2027_332752) |
-| [RTX](https://internscout.org/internships/at/rtx/) | Electro-Optic Intern (Summer 2027)(Onsite) | Tucson, AZ |  | Sep 30 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9070--9070-S-Rita-Rd--BLDG-9070/Electro-Optic-Intern--Summer-2027--Onsite-_01877708) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Silicon Photonics Reliability Engineering Intern (Summer 2027) | USA - New York - Malta |  | Sep 28 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Reliability-Engineering-Intern--Summer-2027-_JR-2604258) |
 | [Booz Allen](https://internscout.org/internships/at/booz-allen-hamilton/) | Quantum Research Intern - Summer 2027 | Washington, DC |  | Sep 23 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027---Quantum-Research-Intern_R0250129) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | University - Summer 2027 - Quantum Research Intern | Washington, DC |  | Sep 23 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/University---Summer-2027---Quantum-Research-Intern_R0250129) |

@@ -1,9 +1,11 @@
 # Sustainability: Summer 2027 Internships
 
-67 open Summer 2027 sustainability roles, newest first (all 67). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 104 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+68 open Summer 2027 sustainability roles, newest first (all 68). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 106 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Supply Intern (Warrenville, IL) | Warrenville, Illinois |  | Oct 6 | [Apply](https://jobs.constellationenergy.com/jobs/139036) |
+| [Northwestern Mutual](https://internscout.org/internships/at/northwestern-mutual/) | Enterprise Sustainability & Impact Intern - Modeling & Analytics, Summer 2027 | Milwaukee, WI Corporate |  | Oct 6 | [Apply](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Enterprise-Sustainability---Impact-Intern---Modeling---Analytics--Summer-2027_JR-46171) |
 | [Diversified Energy](https://internscout.org/internships/at/diversified-energy/) | 2027 Summer Intern- Sustainability/Environmental, Social, and Corporate Governance (ESG) | Birmingham, Alabama |  | Oct 2 | [Apply](https://careers.div.energy/jobs/2729) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Sustainability CP&I - Senior Associate Intern - Summer 2027 | IL-Rosemont | \$84,000 - \$202,000 | Oct 2 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Sustainability-CP-I---Senior-Associate-Intern---Summer-2027_765702WD) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Sustainability Strategy - Senior Associate Intern - Summer 2027 | IL-Rosemont | \$84,000 - \$202,000 | Oct 2 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Sustainability-Strategy---Senior-Associate-Intern---Summer-2027_765703WD) |
@@ -48,7 +50,6 @@
 | [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | Renewable and Demand Response Intern | Denver, CO |  | Sep 7 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Renewable-and-Demand-Response-Intern--CO_JR115433-1) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Midstream Treating | HOUSTON, Texas |  | Sep 4 | [Apply](https://careers.kindermorgan.com/jobs/6210) |
 | [Shure](https://internscout.org/internships/at/shure/) | Data-Driven Sustainability Intern | Niles, IL |  | Sep 3 | [Apply](https://careersus-shure.icims.com/jobs/4979/job?mobile=true&needsRedirect=false) |
-| [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Natural Gas Account Services | HOUSTON, Texas |  | Sep 2 | [Apply](https://careers.kindermorgan.com/jobs/6163) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern -Permitting | HOUSTON, Texas |  | Sep 2 | [Apply](https://careers.kindermorgan.com/jobs/6174) |
 | Tarrant Regional Water District | Summer 2027 Energy Intern (T047) | Fort Worth, TX | \$18.54 - \$27.82 per hour | Sep 1 | [Apply](https://trwd.wd1.myworkdayjobs.com/TRWDCareers/job/Fort-Worth-TX/Summer-2027-Energy-Intern--T047-_JR100217) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern – CO2 PhD/MS | HOUSTON, Texas |  | Aug 28 | [Apply](https://careers.kindermorgan.com/jobs/6045) |

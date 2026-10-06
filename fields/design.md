@@ -1,6 +1,6 @@
 # Design: Summer 2027 Internships
 
-62 open Summer 2027 design roles, newest first (all 62). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 156 design internships on InternScout](https://internscout.org/internships/design/)
+60 open Summer 2027 design roles, newest first (all 60). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 156 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -9,9 +9,7 @@
 | [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Product Marketing Graphic Design Intern - Summer 2027 | Pella, IA |  | Oct 5 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253573) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | Summer 2027 Intern - Industrial Design | Warren, Michigan, United States of America |  | Oct 5 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Industrial-Design_JR-202621626) |
 | [Duke Energy](https://internscout.org/internships/at/duke-energy/) | UX Design Internship – Summer 2027 | Charlotte, NC |  | Oct 2 | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/UX-Design-Internship---Summer-2027_R41850) |
-| [Pinterest](https://internscout.org/internships/at/pinterest/) | UX Engineering Intern (San Francisco) | San Francisco, CA, US +1 | \$8,250 - \$11,000 month | Oct 1 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140210) |
 | [Pinterest](https://internscout.org/internships/at/pinterest/) | UX Quantitative Research Intern (USA) | Remote +1 | \$11,000 month | Oct 1 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) |
-| [Allen Control Systems](https://internscout.org/internships/at/allen-control-systems/) | Software Engineering Intern, UX/UI 2027 | Austin, TX +1 | Paid | Sep 30 | [Apply](https://jobs.ashbyhq.com/allen-control-systems/1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94/application) |
 | Rocket Companies | UX Research Intern - Summer 2027 | Detroit, MI +50 | \$10.23-\$27.82 | Sep 30 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/UX-Research-Intern---Summer-2027_R-084610) |
 | [Philips](https://internscout.org/internships/at/philips/) | Intern - UX Design - Bothell, WA - Summer 2027 | Bothell, Washington, United States | \$29.00 to \$32.00 | Sep 30 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Product-Design---Bothell--WA---Summer-2027_582008) |
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | Summer Intern 2027 - Industrial Design 3D Surfacing | Valley City, OH, United States +1 | \$22.00- \$27.00 per hour | Sep 29 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Summer-Intern-2027---Industrial-Design-3D-Surfacing_REQ-1000052790) |

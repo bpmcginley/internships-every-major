@@ -1,9 +1,10 @@
 # Biology: Summer 2027 Internships
 
-12 open Summer 2027 biology roles, newest first (all 12). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 145 biology internships on InternScout](https://internscout.org/internships/biology/)
+13 open Summer 2027 biology roles, newest first (all 13). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 146 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Proteomics Summer Intern 2027 | San Diego, California, United States of America |  | Oct 6 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/San-Diego-California-United-States-of-America/Proteomics-Summer-Intern-2027_R-103089) |
 | [Guidehouse](https://internscout.org/internships/at/guidehouse/) | Intern - Life Sciences Advisory, Health Segment - Campus 2027 | US - NY +7 | \$59,000.00-\$98,000.00 | Oct 6 | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---NY-New-York/Intern---Life-Sciences-Advisory--Health-Segment---Campus-2027_43306) |
 | [Centene](https://internscout.org/internships/at/centene/) | Pharmacy Grad Summer 2027 Intern (Grad) | Remote-MO |  | Oct 5 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Pharmacy-Grad-Summer-2027-Intern--Grad-_1663881) |
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - MBA Business Value & Strategic Selling Consultant (Healthcare & Life Sciences) | New York - New York |  | Oct 1 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499) |

@@ -1,10 +1,11 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-107 open Summer 2027 environmental science and engineering roles, newest first (all 107). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 289 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+108 open Summer 2027 environmental science and engineering roles, newest first (all 108). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 289 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [WSP](https://internscout.org/internships/at/wsp/) | Water Resources Engineering Intern- Summer 2027 | Lawrenceville, NJ +5 | Paid | Oct 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96930) |
+| [Northwestern Mutual](https://internscout.org/internships/at/northwestern-mutual/) | Enterprise Sustainability & Impact Intern - Modeling & Analytics, Summer 2027 | Milwaukee, WI Corporate |  | Oct 6 | [Apply](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Enterprise-Sustainability---Impact-Intern---Modeling---Analytics--Summer-2027_JR-46171) |
+| [WSP](https://internscout.org/internships/at/wsp/) | Water Resources Engineering Intern- Summer 2027 | Dallas, TX +7 |  | Oct 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97022) |
 | [Hitachi](https://internscout.org/internships/at/hitachi/) | Product HSE Compliance Engineering Intern (Summer 2027, 16months) | Toronto, Ontario, Canada | Paid | Oct 5 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Product-HSE-Compliance-Engineering-Intern--Summer-2027--16months-_R0145360) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Environmental Engineer | Warren, Michigan, United States of America |  | Oct 5 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Environmental-Engineer_JR-202619204) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Hydrogeologist Engineering Intern - Energy & Resources (Summer 2027) | Denver, CO +1 |  | Oct 5 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008074) |
@@ -80,7 +81,7 @@
 | [Shure](https://internscout.org/internships/at/shure/) | Data-Driven Sustainability Intern | Niles, IL |  | Sep 3 | [Apply](https://careersus-shure.icims.com/jobs/4979/job?mobile=true&needsRedirect=false) |
 | [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | Geospatial Data Validation Intern | Minneapolis, MN +1 |  | Sep 2 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Geospatial-Tech---Data---Vendor-Mgmt-Intern---MN--CO_JR115634-2) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Student Internship - Environmental Sciences | North Kansas City, MO |  | Sep 1 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5412829008) |
-| [Olsson](https://internscout.org/internships/at/olsson/) | Engineering Internship - Water Resources | Overland Park, KS +2 |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5395530008) |
+| [Olsson](https://internscout.org/internships/at/olsson/) | Engineering Internship - Water Resources | Dallas, TX +2 |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5399436008) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Water Resources Intern | Detroit, MI |  | Aug 31 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309782) |
 | [Elk Valley Resources](https://internscout.org/internships/at/elk-valley-resources/) | May 2027 Geographic Information Systems (GIS) Co-op | Calgary, AB +1 |  | Aug 26 | [Apply](https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Environmental, Health & Safety (EHS) | Los Angeles, CA | \$28–\$36 per hour | Aug 26 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5376633008) |

@@ -1,10 +1,11 @@
 # Product Management: Summer 2027 Internships
 
-145 open Summer 2027 product management roles, newest first (all 145). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 242 product management internships on InternScout](https://internscout.org/internships/product-management/)
+146 open Summer 2027 product management roles, newest first (all 146). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 243 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | Cadence Solutions | Product Management Intern | Remote +1 |  | Oct 6 | [Apply](https://job-boards.greenhouse.io/solutions/jobs/4715294006) |
+| [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Card Product Management/Business to Business Payments (NYC, NY) | New York, New York |  | Oct 6 | [Apply](https://firstcitizens.jibeapply.com/jobs/35886) |
 | Mohawk | Product Management Intern | Calhoun, GA |  | Oct 5 | [Apply](https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors) |
 | Koch Industries | Product Management Intern | Eden Prairie, MN +1 |  | Oct 3 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/195099) |
 | [Electronic Arts](https://internscout.org/internships/at/electronic-arts/) | Product Manager Intern | LA |  | Oct 3 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Product-Manager-Intern-MBA-Level-Summer-2027-Apex-Legends/216272) |

@@ -1,9 +1,10 @@
 # Economics: Summer 2027 Internships
 
-18 open Summer 2027 economics roles, newest first (all 18). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 46 economics internships on InternScout](https://internscout.org/internships/economics/)
+19 open Summer 2027 economics roles, newest first (all 19). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 50 economics internships on InternScout](https://internscout.org/internships/economics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - Economic Research | Dallas, TX |  | Oct 6 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Economic-Research_R-0000033590) |
 | [Centene](https://internscout.org/internships/at/centene/) | Medical Economics Intern (Undergraduate - Summer 2027) | Remote-MO +1 | \$18-26/hour | Oct 5 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662091) |
 | [Centene](https://internscout.org/internships/at/centene/) | Medical Economics Analyst Intern (Undergraduate - Summer 2027) | Remote-FL | \$18-26/hour | Oct 2 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Medical-Economics-Analyst-Intern--Undergraduate---Summer-2027-_1662248-1) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Intern - Economic Research - Chicago | Chicago, IL | \$20 to \$33, | Oct 1 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern---Economic-Research---Chicago_R-0000033628-1) |

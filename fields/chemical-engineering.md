@@ -1,9 +1,10 @@
 # Chemical Engineering: Summer 2027 Internships
 
-47 open Summer 2027 chemical engineering roles, newest first (all 47). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 164 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+48 open Summer 2027 chemical engineering roles, newest first (all 48). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 165 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Cell & Process Engineering Intern | De Soto, Kansas |  | Oct 6 | [Apply](https://careers.na.panasonic.com/jobs/51577) |
 | [Primient](https://internscout.org/internships/at/primient/) | Process Engineering Intern - Summer 2027 | Decatur, IL +1 | \$1,500 to \$3,000 | Oct 2 | [Apply](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Decatur-IL/Process-Engineering-Intern---Summer-2027_JREQ7048) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations | Mountain View, CA, USA | Paid | Oct 1 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8243556) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Process/Chemical Engineering Intern - Water (Summer 2027) | Alpharetta, GA +2 |  | Oct 1 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008117) |

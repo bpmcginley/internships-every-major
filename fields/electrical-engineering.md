@@ -1,10 +1,11 @@
 # Electrical Engineering: Summer 2027 Internships
 
-180 open Summer 2027 electrical engineering roles, newest first (all 180). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 472 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+181 open Summer 2027 electrical engineering roles, newest first (all 181). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 473 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | Legrand | Electrical Engineer Co-op | Middletown, PA |  | Oct 6 | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1345) |
+| [Moog](https://internscout.org/internships/at/moog/) | Intern, Electrical Engineering | Torrance, CA | \$28.00–\$35.00 Hour | Oct 6 | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Electrical-Engineering_R-26-19827) |
 | [Atoms](https://internscout.org/internships/at/atoms/) | Electrical Engineer Intern | SF |  | Oct 5 | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8869098002) |
 | [Arc](https://internscout.org/internships/at/arc/) | Powertrain Electrical Engineer Intern | Torrance, CA | \$40 per hour | Oct 5 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5443971008) |
 | [Arc](https://internscout.org/internships/at/arc/) | Electrical Integration Engineering Intern | Torrance, CA | \$40 per hour | Oct 5 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442838008) |

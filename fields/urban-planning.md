@@ -1,9 +1,10 @@
 # Urban Planning: Summer 2027 Internships
 
-37 open Summer 2027 urban planning roles, newest first (all 37). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 76 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+38 open Summer 2027 urban planning roles, newest first (all 38). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 77 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-op - Midstream Natural Gas and NGL Services Geography/GIS (Summer 2027) | Tulsa, Oklahoma +1 |  | Oct 6 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Tulsa-Oklahoma/Intern-Co-op---Midstream-Natural-Gas-and-NGL-Services-Geography-GIS--Summer-2027-_00024411) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Community Development (Summer 2027) | Portland, OR +2 |  | Oct 5 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008051) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Masters - Transportation Planning Intern (Summer 2027!) | Hartford, Connecticut +1 |  | Oct 2 | [Apply](https://careers.cdmsmith.com/jobs/4693) |
 | [Life Fitness](https://internscout.org/internships/at/life-fitness/) | Transportation Planning Intern | Rosemont, IL |  | Sep 30 | [Apply](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Transportation-Planning-Intern_JR-025257-1) |

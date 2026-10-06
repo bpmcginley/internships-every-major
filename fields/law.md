@@ -1,9 +1,10 @@
 # Law and Legal: Summer 2027 Internships
 
-104 open Summer 2027 law and legal roles, newest first (all 104). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 270 law and legal internships on InternScout](https://internscout.org/internships/law/)
+105 open Summer 2027 law and legal roles, newest first (all 105). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 272 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Baker Tilly](https://internscout.org/internships/at/baker-tilly/) | Summer 2027 Compliance Advisory Intern | Albuquerque, NM |  | Oct 6 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-NM-Albuquerque/Summer-2027-Compliance-Advisory-Intern_JR108362) |
 | [Hitachi](https://internscout.org/internships/at/hitachi/) | Product HSE Compliance Engineering Intern (Summer 2027, 16months) | Toronto, Ontario, Canada | Paid | Oct 5 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Product-HSE-Compliance-Engineering-Intern--Summer-2027--16months-_R0145360) |
 | [Jabil](https://internscout.org/internships/at/jabil/) | Legal Intern - Trade Compliance | St. Petersburg/Tampa, FL |  | Oct 5 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Legal-Intern---Trade-Compliance_J2466367) |
 | [The Travelers Companies](https://internscout.org/internships/at/the-travelers-companies/) | Legal Intern | CT - Hartford +9 | \$36.00 - \$37.00 | Oct 5 | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CA---Glendale/Legal-Intern_R-52956-1) |
@@ -15,7 +16,7 @@
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | Legal Intern (Summer 2027) | Remote | \$45/hour | Sep 30 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5253395007) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Legal Internship - Summer 2027 | Lansing, MI |  | Sep 30 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Legal-Internship---Summer-2027_R_14649) |
 | [Internal Revenue Service](https://internscout.org/internships/at/internal-revenue-service/) | Summer Intern (Legal Administrative Specialist) | Birmingham, Alabama +45 | \$61722 - \$100315 Per Year | Sep 29 | [Apply](https://www.usajobs.gov:443/job/886742000) |
-| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Abandoned and Unclaimed Property Compliance | King of Prussia PA +1 |  | Sep 29 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/King-of-Prussia/Summer-2027-Intern--Abandoned-and-Unclaimed-Property-Compliance_R0020714) |
+| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Abandoned and Unclaimed Property Compliance | King of Prussia PA +1 |  | Sep 29 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/King-of-Prussia/Summer-2027-Intern--Abandoned-and-Unclaimed-Property-Compliance_R0020714-1) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Commercial Agreements Legal Intern (2027 Summer) | USA - Vermont - Essex Junction |  | Sep 29 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Commercial-Agreements-Legal-Intern--2027-Summer-_JR-2604244) |
 | [Fidelity National Information Services](https://internscout.org/internships/at/fidelity-national-information-services/) | Legal and Compliance Intern Pipeline | Jax 347, FL +2 | Paid | Sep 29 | [Apply](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Legal-and-Compliance--FIS-University-Program_JR0309694) |
 | [ACLU Kentucky](https://internscout.org/internships/at/aclu-kentucky/) | Summer 2027 Legal Intern, Voting Rights Project | Hybrid-New York City +1 |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8853159002) |

@@ -1,9 +1,10 @@
 # Media: Summer 2027 Internships
 
-40 open Summer 2027 media roles, newest first (all 40). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 116 media internships on InternScout](https://internscout.org/internships/media/)
+40 open Summer 2027 media roles, newest first (all 40). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 118 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Photo and Video Marketing Production | Overland Park, KS |  | Oct 6 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Summer-2027-Internship--Photo-and-Video-Marketing-Production_R2026-2015) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | Summer 2027 Intern - Project Management (Creative Design) | Pasadena, California, United States of America | \$6,100 month | Oct 5 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Pasadena-California-United-States-of-America/Summer-2027-Intern---Project-Management--Creative-Design-_JR-202621826) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Intern - Marketing, Communications, Journalism Majors | Chicago, IL | \$20 to \$33, | Oct 1 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern---Marketing--Communications--Journalism-Majors_R-0000033618-1) |
 | Rocket Companies | Creative Designer Intern - Summer 2027 | Detroit, MI |  | Sep 28 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Creative-Designer-Intern---Summer-2027_R-084550) |
@@ -26,7 +27,6 @@
 | [Dow Jones](https://internscout.org/internships/at/dow-jones/) | Summer 2027 Internship Program – Video Intern | New York City |  | Sep 14 | [Apply](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/New-York-City/Summer-2027-Internship-Program---Video-Intern_Job_Req_55315) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Graphic Design & Creative Media Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138723) |
 | [ibotta](https://internscout.org/internships/at/ibotta/) | B2B Creative Marketing Intern | Hybrid - Denver +2 | \$23.08 per hour | Sep 11 | [Apply](https://jobs.ashbyhq.com/ibotta/82e85e87-4cd4-4cda-bc74-08d3d59436bf/application) |
-| [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Photo and Video Marketing Production | Overland Park, KS |  | Sep 11 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Summer-2027-Internship--Photo-and-Video-Marketing-Production_R2026-2015) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Video Production Intern, Summer 2027 | North Andover, MA |  | Sep 11 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Video-Production-Intern--Summer-2027_10017537) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Datebook Intern, Summer 2027 | San Francisco, CA |  | Sep 10 | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027463) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Visuals Intern, Summer 2027 | San Francisco, CA |  | Sep 10 | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027464) |
