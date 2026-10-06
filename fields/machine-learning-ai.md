@@ -1,13 +1,13 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-299 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 299). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 668 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+298 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 298). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 666 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Lyft](https://internscout.org/internships/at/lyft/) | PhD Machine Learning Software Engineer Intern (Summer 2027) | San Francisco, CA |  | Oct 6 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, BS, Waymo ML Ops & Automation | Mountain View, CA, USA | Paid | Oct 6 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8257237) |
 | [Space Dynamics Laboratory](https://internscout.org/internships/at/space-dynamics-laboratory/) | Software Engineer Intern - Software, AI, & Machine Learning | North Logan, UT |  | Oct 6 | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l/Software-Engineer-Intern-Software-AI-Machine-Learning) |
-| [Space Dynamics Laboratory](https://internscout.org/internships/at/space-dynamics-laboratory/) | Software Engineering Intern - AI Enabled Software Development | North Logan, UT |  | Oct 6 | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/82GBzTsnBq/Software-Engineering-Intern-AI-Enabled-Software-Development) |
+| [Space Dynamics Laboratory](https://internscout.org/internships/at/space-dynamics-laboratory/) | Software Engineer Intern - AI Enabled Software Development | North Logan, UT |  | Oct 6 | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/82GBzTsnBq/Software-Engineering-Intern-AI-Enabled-Software-Development) |
 | [Boston Scientific](https://internscout.org/internships/at/boston-scientific/) | Equipment Engineering AI Vision Engineer Intern | Maple Grove, MN |  | Oct 6 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813584308) |
 | [AMD](https://internscout.org/internships/at/amd/) | PhD Agentic/ML System Co-op | San Jose, CA |  | Oct 6 | [Apply](https://careers.amd.com/jobs/91767?icims=1) |
 | [Jabil](https://internscout.org/internships/at/jabil/) | AI Transformation Intern | Austin, TX |  | Oct 6 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/AI-Transformation-Intern_J2466044) |

@@ -1,6 +1,6 @@
 # Sales: Summer 2027 Internships
 
-206 open Summer 2027 sales roles, newest first (the 200 newest of 206). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 412 sales internships on InternScout](https://internscout.org/internships/sales/)
+204 open Summer 2027 sales roles, newest first (the 200 newest of 204). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 410 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -42,7 +42,6 @@
 | [Cencora](https://internscout.org/internships/at/cencora/) | Intern, Sales & Support | Remote, Pennsylvania +1 | Paid | Sep 29 | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Pennsylvania/Intern--Sales---Support_R2613780) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | International Business Development Intern (Summer 2027) | Woodbridge, VA |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5247737007) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: Sales Intern | Northbrook, IL +1 | \$25.00 | Sep 28 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10626) |
-| [Becton Dickinson](https://internscout.org/internships/at/becton-dickinson/) | BD 2027 Summer Internship - Inside Sales Intern | Warwick, RI +1 |  | Sep 28 | [Apply](https://bdx.wd1.myworkdayjobs.com/US_EARLY_TALENT_SITE/job/USA-RI---Warwick/BD-2027-Summer-Internship---Inside-Sales-Intern_R-556672) |
 | [Highgate](https://internscout.org/internships/at/highgate/) | Intern - Sales & Events (Summer 2027) | Key West, FL | Paid | Sep 28 | [Apply](https://externalhourly-highgate.icims.com/jobs/83231/intern/job) |
 | [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Petcare Sales Internship | USA-Tennessee-Franklin |  | Sep 28 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Tennessee-Franklin/Summer-2027-Mars-Petcare-Sales-Internship_R168208-1) |
 | [Piper Sandler](https://internscout.org/internships/at/piper-sandler/) | 2027 Summer Internship Program - Equity Sales & Trading | Greenwich, CT | \$21-30 per hour | Sep 28 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Greenwich-CT/XMLNAME-2027-Summer-Internship-Program---Equity-Sales---Trading_R-100702) |
@@ -157,7 +156,6 @@
 | [Jane Street](https://internscout.org/internships/at/jane-street/) | Sales and Trading Intern | New York, NY |  | Jul 24 | [Apply](https://www.janestreet.com/join-jane-street/position/8347385002/) |
 | [AQR](https://internscout.org/internships/at/aqr/) | 2027 Business Development Summer Analyst | Greenwich, CT |  | May 15 | [Apply](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Sales Enablement Intern | Niles, IL |  | Oct 6, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5009/global-sales-enablement-intern/job) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Team Sports/Sales | Baltimore, MD |  | Oct 6 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Team-SportsSales-MD-21230/1434355500/) |
 | [Western & Southern Financial Group](https://internscout.org/internships/at/western-southern-financial-group/) | Enterprise Engagement Center Sales Intern (Summer 2027) | CINCINNATI, OH |  | Oct 5 | [Apply](https://careers-westernsouthern.icims.com/jobs/25179/enterprise-engagement-center-sales-intern-%28summer-2027%29/job) |
 | [Ecolab](https://internscout.org/internships/at/ecolab/) | Mining Engineering Technical Sales Intern | USA - Virginia - Blacksburg +2 | Paid | Oct 5 | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Virginia---Blacksburg/Mining-Engineering-Technical-Sales-Intern_R00303116-1) |
 | Highgate Hotels LP | Sales & Marketing Intern Summer 2027 | San Francisco, CA | Paid | Oct 5 | [Apply](https://www.monster.com/job-openings/sales-marketing-intern-summer-2027-san-francisco-ca--0653638e-e17a-41f7-a902-c64d55fc8493?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -204,6 +202,8 @@
 | [Western & Southern Financial Group](https://internscout.org/internships/at/western-southern-financial-group/) | Columbus Life/Lafayette Life Sales Desk Intern (Summer 2027) | CINCINNATI, OH |  | Sep 18 | [Apply](https://careers-westernsouthern.icims.com/jobs/25239/columbus-life-lafayette-life-sales-desk-intern-%28summer-2027%29/job) |
 | [Abbott](https://internscout.org/internships/at/abbott/) | Abbott Nutrition Inside Sales Internship Health Care Professionals (HCP) Summer 2027 | United States - Ohio - Columbus |  | Sep 18 | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Abbott-Nutrition-Inside-Sales-Internship-Health-Care-Professionals--HCP--Summer-2027_31160320) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Marketing & Sales Education & Training Internship - Summer 2027 | Lansing, MI |  | Sep 18 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Marketing---Sales-Education---Training-Internship---Summer-2027_R_14449) |
+| [Motorola](https://internscout.org/internships/at/motorola/) | Outbound Sales Representative (2027 Internship) | Allen, TX (TX139) |  | Sep 18 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Outbound-Sales-Representative--2027-Internship-_R67607) |
+| [Abbott](https://internscout.org/internships/at/abbott/) | Abbott Nutrition Consumer Sales Internship Summer 2027 | United States - Ohio - Columbus +3 | Paid | Sep 18 | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Abbott-Nutrition-Consumer-Sales-Internship-Summer-2027_31160319) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

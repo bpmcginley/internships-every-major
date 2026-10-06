@@ -1,6 +1,6 @@
 # Software Engineering: Summer 2027 Internships
 
-1,147 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,147). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 2,437 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,147 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,147). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 2,433 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -10,7 +10,7 @@
 | [Lyft](https://internscout.org/internships/at/lyft/) | PhD Machine Learning Software Engineer Intern (Summer 2027) | San Francisco, CA |  | Oct 6 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) |
 | Niantic Spatial | Software Engineering Intern (Summer 2027) | San Francisco, CA +1 |  | Oct 6 | [Apply](https://jobs.ashbyhq.com/niantic-spatial/898b2da7-03cd-486e-96e3-3430a148c8fd/application) |
 | [Space Dynamics Laboratory](https://internscout.org/internships/at/space-dynamics-laboratory/) | Software Engineer Intern - Software, AI, & Machine Learning | North Logan, UT |  | Oct 6 | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l/Software-Engineer-Intern-Software-AI-Machine-Learning) |
-| [Space Dynamics Laboratory](https://internscout.org/internships/at/space-dynamics-laboratory/) | Software Engineering Intern - AI Enabled Software Development | North Logan, UT |  | Oct 6 | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/82GBzTsnBq/Software-Engineering-Intern-AI-Enabled-Software-Development) |
+| [Space Dynamics Laboratory](https://internscout.org/internships/at/space-dynamics-laboratory/) | Software Engineer Intern - AI Enabled Software Development | North Logan, UT |  | Oct 6 | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/82GBzTsnBq/Software-Engineering-Intern-AI-Enabled-Software-Development) |
 | Pure Storage | Software Engineer Intern (Summer 2027) | Santa Clara, California | \$8,500 | Oct 6 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/8249749) |
 | Innovative Defense Technologies | Software Engineer Intern | Mt Laurel Township, NJ +2 |  | Oct 6 | [Apply](https://idtus.pinpointhq.com/en/postings/eac7d1ca-2dbd-4c60-8f65-979f0a9e3f33?ats=pinpointhq) |
 | [Boston Scientific](https://internscout.org/internships/at/boston-scientific/) | Equipment Engineering Software Engineer Intern | Maple Grove, MN |  | Oct 6 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813584306) |

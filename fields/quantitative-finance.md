@@ -1,6 +1,6 @@
 # Quantitative Finance: Summer 2027 Internships
 
-139 open Summer 2027 quantitative finance roles, newest first (all 139). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 179 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
+137 open Summer 2027 quantitative finance roles, newest first (all 137). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 177 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -47,8 +47,7 @@
 | Talos | Quantitative Analyst Intern | NYC |  | Sep 8 | [Apply](https://jobs.ashbyhq.com/Talos-Trading/d6d0c99a-f281-4efe-89c4-026f7f5edc2b/application?embed=true) |
 | [Ercot](https://internscout.org/internships/at/ercot/) | Intern - Portfolio Management | Taylor, TX |  | Sep 8 | [Apply](https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Intern---Portfolio-Management_R2485) |
 | [Brevan Howard](https://internscout.org/internships/at/brevan-howard/) | 2027 Summer Internship Program – Trading, New York | New York +1 |  | Sep 8 | [Apply](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Trading--New-York_JR101583) |
-| [Schonfeld](https://internscout.org/internships/at/schonfeld/) | Quantitative Research Intern | NYC |  | Sep 4 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8172076) |
-| [Schonfeld](https://internscout.org/internships/at/schonfeld/) | 2027 PhD Quantitative Research Intern | New York, New York, United States +1 |  | Sep 4 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8172074) |
+| [Schonfeld](https://internscout.org/internships/at/schonfeld/) | 2027 PhD Quantitative Research Intern | New York, New York, United States +1 |  | Sep 4 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8172076) |
 | AXQ Capital | Quantitative Research Intern (PhD, Summer 2027) | New York +1 | \$75 to \$100, | Sep 3 | [Apply](https://job-boards.greenhouse.io/axq/jobs/6181069004) |
 | [Garda Capital Partners](https://internscout.org/internships/at/garda-capital-partners/) | Trading Analyst Intern - Mortgages | NYC +1 | Paid | Sep 3 | [Apply](https://job-boards.greenhouse.io/gardacp/jobs/6179468004) |
 | [Royal Bank of Canada](https://internscout.org/internships/at/royal-bank-of-canada/) | 2027 Capital Markets, Quants Summer Associate, Quantitative Technology Services | New York, New York, United States of America +1 |  | Sep 2 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000186729-1) |
@@ -114,9 +113,8 @@
 | Tower Research Capital | Quantitative Developer Intern | Chicago, IL +4 | Paid | Jul 5 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8044334) |
 | Tower Research Capital | Quantitative Trader/Researcher Intern - Summer 2027 | New York +3 | \$3,500-5,700 | Jul 5 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8024128) |
 | [IMC Trading](https://internscout.org/internships/at/imc-trading/) | Quantitative Trader Intern | Chicago, IL +1 | Paid | Jul 1 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) |
-| [Optiver](https://internscout.org/internships/at/optiver/) | Quantitative Research Intern | Austin, TX +2 |  | Jul 1 | [Apply](https://www.optiver.com/join-us/jobs/8451781002/?gh_jid=8451781002) |
 | [Optiver](https://internscout.org/internships/at/optiver/) | Quantitative Intern | Austin, TX +3 |  | Jul 1 | [Apply](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002) |
-| [Optiver](https://internscout.org/internships/at/optiver/) | Quantitative Research Intern, PhD (Summer 2027) | Austin, Texas, United States +1 |  | Jul 1 | [Apply](https://www.optiver.com/join-us/jobs/8451782002/?gh_jid=8451782002) |
+| [Optiver](https://internscout.org/internships/at/optiver/) | Quantitative Research Intern, PhD (Summer 2027) | Chicago, Illinois, United States +4 |  | Jul 1 | [Apply](https://www.optiver.com/join-us/jobs/8451781002/?gh_jid=8451781002) |
 | [IMC Trading](https://internscout.org/internships/at/imc-trading/) | Quantitative Research Intern (PhD) - Summer 2027 | Chicago, United States +1 | \$250,000 | Jul 1 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907400101) |
 | [IMC Trading](https://internscout.org/internships/at/imc-trading/) | Quantitative Research Intern (BS/MS) - Summer 2027 | Chicago, United States | \$250,000 | Jul 1 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) |
 | [Susquehanna International Group (SIG)](https://internscout.org/internships/at/susquehanna-international-group-sig/) | Quantitative Systematic Trading Intern - PhD | Philadelphia, PA +1 |  | Jun 29 | [Apply](https://careers-sig.icims.com/jobs/10822/job?mobile=true&needsRedirect=false) |

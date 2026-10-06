@@ -1,6 +1,6 @@
 # Industrial Engineering: Summer 2027 Internships
 
-242 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 242). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 614 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+241 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 241). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 614 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -103,7 +103,6 @@
 | [Lonza](https://internscout.org/internships/at/lonza/) | Summer 2027 Supply Chain Internship | US - Portsmouth, NH |  | Sep 16 | [Apply](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/US---Portsmouth-NH/Summer-2026-Supply-Chain-Internship_R79571) |
 | [National Information Solutions Cooperative (NISC)](https://internscout.org/internships/at/national-information-solutions-cooperative-nisc/) | Intern - Platform Development (Systems Engineering) | Lake Saint Louis, MO |  | Sep 15 | [Apply](https://job-boards.greenhouse.io/testnisc/jobs/8204129) |
 | Staples | Supply Chain Intern ( Ontario, CA) - June 2027 | Ontario, CA |  | Sep 15 | [Apply](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/74728) |
-| [Ensign-Bickford Aerospace & Defense Company](https://internscout.org/internships/at/ensign-bickford-aerospace-defense-company/) | Electronics Manufacturing Engineer Intern | Simsbury, CT |  | Sep 15 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Electronics-Manufacturing-Engineer-Intern_REQ107696-1) |
 | [Woodward Governor](https://internscout.org/internships/at/woodward-governor/) | Engineering Co-op - Manufacturing Engineering \| Zeeland, MI (Summer 2027) | Zeeland, MI, US |  | Sep 15 | [Apply](https://woodward.wd5.myworkdayjobs.com/woodward/job/Zeeland-MI-US/Engineering-Co-op---Manufacturing-Engineering---Zeeland--MI--Summer-2027-_JR112088) |
 | [Ensign-Bickford Industries](https://internscout.org/internships/at/ensign-bickford-industries/) | Electronics Manufacturing Engineer Intern | Simsbury, CT |  | Sep 15 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Electronics-Manufacturing-Engineer-Intern_REQ107696) |
 | [Ingredion](https://internscout.org/internships/at/ingredion/) | Global Supply Chain Data Science Intern | Westchester, IL |  | Sep 15 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Supply-Chain-Data-Science-Intern_Req-40226-1) |
@@ -204,6 +203,7 @@
 | [Woodward Governor](https://internscout.org/internships/at/woodward-governor/) | Supply Chain Internship Summer 2027 | Niles, IL, US +1 | \$21.00 | Sep 18 | [Apply](https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus/Supply-Chain-Internship-Summer-2027_JR113070) |
 | [Edwards Lifesciences](https://internscout.org/internships/at/edwards-lifesciences/) | Draper Supply Chain Internship Program, Summer 2027 | USA - Utah – Salt Lake City |  | Sep 18 | [Apply](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---Utah--Salt-Lake-City/Draper-Supply-Chain-Internship-Program--Summer-2027_Req-50323) |
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Manufacturing Engineering Internship - Graduate | Huntsville, AL +2 | \$38.00 | Sep 18 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Huntsville-AL/Summer-2027-Manufacturing-Engineering-Internship---Graduate_R71427) |
+| [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Structural & Mechanical Systems Engineering Internship - Graduate | Van Horn, TX +4 | \$38.00 | Sep 18 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Structural---Mechanical-Systems-Engineering-Internship---Graduate_R71445) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
