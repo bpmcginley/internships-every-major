@@ -1,9 +1,10 @@
 # Biology: Summer 2027 Internships
 
-11 open Summer 2027 biology roles, newest first (all 11). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 141 biology internships on InternScout](https://internscout.org/internships/biology/)
+12 open Summer 2027 biology roles, newest first (all 12). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 143 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Guidehouse](https://internscout.org/internships/at/guidehouse/) | Intern - Life Sciences Advisory, Health Segment - Campus 2027 | US - NY +7 | \$59,000.00-\$98,000.00 | Oct 6 | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---NY-New-York/Intern---Life-Sciences-Advisory--Health-Segment---Campus-2027_43306) |
 | [Centene](https://internscout.org/internships/at/centene/) | Pharmacy Grad Summer 2027 Intern (Grad) | Remote-MO |  | Oct 5 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Pharmacy-Grad-Summer-2027-Intern--Grad-_1663881) |
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - MBA Business Value & Strategic Selling Consultant (Healthcare & Life Sciences) | New York - New York |  | Oct 1 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499) |
 | [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program – Biologics Process Research & Development Intern | USA - New Jersey - Rahway +2 |  | Sep 28 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Biologics-Process-Research---Development-Intern_R419589) |

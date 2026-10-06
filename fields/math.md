@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Epidemiology / Biostatistics Intern | Detroit, MI |  | Oct 6 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14949) |
 | [Marsh](https://internscout.org/internships/at/marsh/) | Actuarial Summer Intern - College Program 2027 | New York - 1166 +1 |  | Oct 5 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Actuarial-Summer-Intern---College-Program-2027_R_366526-1) |
 | [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | R&D Intern - Biostatistics | Jacksonville, Florida, United States of America |  | Oct 2 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/R-D-Intern---Biostatistics_R-099394) |
 | [The Hartford](https://internscout.org/internships/at/the-hartford/) | Intern, Actuarial Student Program (Summer 2027) | Hartford, CT | Paid | Oct 1 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Intern--Actuarial-Student-Program--Summer-2027-_R2624619-1) |
@@ -40,7 +41,6 @@
 | Palomar Holdings | 2027 Summer Internship (Actuarial) | Edina, MN |  | Oct 3 | [Apply](https://ats.rippling.com/plmrcareers/jobs/d6bd58c7-5127-4a17-b70d-2d377aa9fa8a) |
 | [West Bend Insurance](https://internscout.org/internships/at/west-bend-insurance/) | Summer 2027 Internship - Actuarial | West Bend, WI |  | Sep 23 | [Apply](https://careers-thesilverlining.icims.com/jobs/3767/summer-2027-internship---actuarial/job) |
 | [CareBridge](https://internscout.org/internships/at/carebridge/) | Actuarial Intern - Summer 2027 | IN-INDIANAPOLIS, 220 VIRGINIA AVE |  | Sep 18 | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Actuarial-Intern---Summer-2027_JR204425) |
-| [Cigna Group](https://internscout.org/internships/at/cigna-group/) | Actuarial Internship - Summer 2027 | Bloomfield, CT +4 |  | Sep 18 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Actuarial-Internship---Summer-2027_26006087) |
 | [Humana](https://internscout.org/internships/at/humana/) | Actuarial Internship – Summer 2027 | Louisville, KY |  | Sep 18 | [Apply](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Actuarial-Internship---Summer-2027_R-427297) |
 | [CNA Insurance](https://internscout.org/internships/at/cna-insurance/) | Actuarial Intern – Summer 2027 | Chicago, IL, USA | \$35,000 to \$65,000 annually | Sep 18 | [Apply](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Actuarial-Intern---Summer-2027_R-8026) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Data Analytics/Science/Applied Math - (Pomona/Rosemead) | Rosemead, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-%28PomonaRosemead%29-CA-91770/1425207700/) |

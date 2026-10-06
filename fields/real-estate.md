@@ -1,6 +1,6 @@
 # Real Estate: Summer 2027 Internships
 
-20 open Summer 2027 real estate roles, newest first (all 20). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 35 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
+20 open Summer 2027 real estate roles, newest first (all 20). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 34 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Thrivent](https://internscout.org/internships/at/thrivent/) | Commercial Mortgages and Securitized Real Estate Assets Intern - Summer 2027 | MN - Minneapolis |  | Sep 14 | [Apply](https://thrivent.wd5.myworkdayjobs.com/external/job/MN---Minneapolis/Commercial-Mortgages-and-Securitized-Real-Estate-Assets-Intern---Summer-2027_REQ-48063) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Corporate Real Estate Internship - Summer 2027 | Lansing, MI |  | Sep 9 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Corporate-Real-Estate-Internship---Summer-2027_R_14484) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Real Estate & Builds Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175507?gh_jid=8175507) |
-| [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Banking and Commercial Real Estate | Chicago, IL +8 | \$25.00 per hour | Sep 8 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Commercial-Banking-and-Commercial-Real-Estate_2618394) |
+| [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Banking and Commercial Real Estate | Chicago, IL +8 | \$25.00 per hour | Sep 8 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Commercial-Banking-and-Commercial-Real-Estate_2618394-1) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Masters Summer Internship Program - 2027 Global Real Estate & Workplace Experience, Enterprise Shared S… | New York, NY |  | Aug 31 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012153) |
 | [KKR](https://internscout.org/internships/at/kkr/) | 2027 K-Star Summer Internship Program - Real Estate Credit | Dallas, Texas, United States |  | Aug 26 | [Apply](https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6164389004) |
 | Prudential Financial | PGIM: 2027 Real Estate, Sophomore Externship Program | Newark, NJ, USA | Paid | Sep 18 | [Apply](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Sophomore-Externship-Program_R-124904-2) |

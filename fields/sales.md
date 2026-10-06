@@ -1,9 +1,10 @@
 # Sales: Summer 2027 Internships
 
-203 open Summer 2027 sales roles, newest first (the 200 newest of 203). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 408 sales internships on InternScout](https://internscout.org/internships/sales/)
+203 open Summer 2027 sales roles, newest first (the 200 newest of 203). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 407 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Fortrea | Inside Sales Intern - Durham, NC - Summer 2027 | Durham |  | Oct 6 | [Apply](https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Durham/Inside-Sales-Intern---Durham--NC---Summer-2027_265798) |
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Sales Operations & Analytics Intern (Summer 2027) | Milwaukee, WI |  | Oct 5 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Operations---Analytics-Intern--Summer-2027-_REQ-020081-1) |
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Sales Analytics Intern | Milwaukee, WI |  | Oct 5 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management and Sales Summer Internship (Detroit) | Detroit, MI +24 |  | Oct 5 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621842) |
@@ -30,7 +31,7 @@
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Sales Account Manager Intern, Electrical Engineering, Santa Clara (Summer 2027) | USA - California - Santa Clara |  | Sep 30 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Sales-Account-Manager-Intern--Electrical-Engineering--Santa-Clara--Summer-2027-_JR-2604217) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Sales & Business Development Internship - Summer 2027 | San Diego, CA |  | Sep 30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721346084) |
 | [ABB](https://internscout.org/internships/at/abb/) | Sales Digital Tools & Technology Intern- Summer 2027 | Fort Smith, Arkansas, United States of America |  | Sep 30 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Sales-Digital-Tools---Technology-Intern--Summer-2027_JR00045318) |
-| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Sales and Use Tax | Sacramento +2 | \$23.70 - \$27.50 | Sep 30 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Sacramento/Summer-2027-Intern--Sales-and-Use-Tax_R0020802-1) |
+| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Sales and Use Tax | Sacramento +2 | \$23.70 - \$27.50 | Sep 30 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Sacramento/Summer-2027-Intern--Sales-and-Use-Tax_R0020802) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Sales Account Manager Intern, Electrical Engineering & Business (Summer 2027) | USA - Texas - Austin +1 | \$20.00 - \$40.00 | Sep 29 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Sales-Account-Manager-Intern--Electrical-Engineering---Business--Summer-2027-_JR-2604219) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management and Sales Intern - Indianapolis | Indianapolis, IN +5 |  | Sep 29 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2619769) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management and Sales Intern - Cincinnati/Dayton | Cincinnati, OH +1 |  | Sep 29 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620082) |
@@ -148,7 +149,6 @@
 | [Springs Window Fashions](https://internscout.org/internships/at/springs-window-fashions/) | Sales Operations Internship - Summer 2027 | LONG ISLAND CITY, NY | \$23.00/hr | Aug 22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12894/sales-operations-internship---summer-2027/job) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Services Sales Intern (Summer 2027) | Westerville, OH |  | Aug 21 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279750) |
 | [Arthur J. Gallagher & Co.](https://internscout.org/internships/at/arthur-j-gallagher-co/) | Canada Internship - Sales | Toronto, Ontario, Canada |  | Aug 17 | [Apply](https://jobs.ajg.com/jobs/57699) |
-| Goldman Sachs | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL |  | Aug 15 | [Apply](https://higher.gs.com/roles/181628?type=students) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Sales Data Analytics Intern - Summer 2027 | Westerville, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279293) |
 | [StepStone Group](https://internscout.org/internships/at/stepstone-group/) | 2027 Venture Capital Business Development Summer Associate | Baltimore |  | Aug 3 | [Apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8095092) |
 | [Uline](https://internscout.org/internships/at/uline/) | Sales Analyst Intern | Waukegan, IL +4 | Paid | Aug 3 | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Sales-Analyst-Internship---Summer-2027_R265911) |

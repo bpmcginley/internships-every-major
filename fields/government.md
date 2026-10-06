@@ -1,6 +1,6 @@
 # Government and Public Policy: Summer 2027 Internships
 
-48 open Summer 2027 government and public policy roles, newest first (all 48). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 257 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+46 open Summer 2027 government and public policy roles, newest first (all 46). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 255 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -50,8 +50,6 @@
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Government/Corporate Affairs - 2027 Summer Student Program | Washington DC +1 |  | Sep 18 | [Apply](https://aramcoservices.applytojob.com/apply/yhm5ZfLfAu/GovernmentCorporate-Affairs-2027-Summer-Student-Program) |
 | Port Authority of New York and New Jersey | Interest Form, 2027 Summer Internship Program | New York, New York | Paid | Sep 18 | [Apply](https://jobs.jobvite.com/panynj/job/ozTEAfwq/apply) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Public Affairs - 2027 Summer Student Program | Houston, TX |  | Sep 18 | [Apply](https://aramcoservices.applytojob.com/apply/zllLwcmCFQ/Public-Affairs-2027-Summer-Student-Program) |
-| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Intern - People & Engagement Group - Graduate | New York, NY | Paid | Sep 18 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/New-York-NY/XMLNAME-2027-Summer-Intern---People---Engagement-Group---Graduate_R-0000033123) |
-| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Intern - People & Engagement Group - Junior | New York, NY | Paid | Sep 18 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/New-York-NY/XMLNAME-2027-Summer-Intern---People---Engagement-Group---Junior_R-0000033122) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

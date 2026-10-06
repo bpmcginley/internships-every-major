@@ -1,9 +1,11 @@
 # Engineering: Summer 2027 Internships
 
-414 open Summer 2027 engineering roles, newest first (the 200 newest of 414). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 1,212 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+416 open Summer 2027 engineering roles, newest first (the 200 newest of 416). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 1,213 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Engineering Intern | Reston, VA |  | Oct 6 | [Apply](https://uscareers-idemia.icims.com/jobs/8647/job?mobile=true&needsRedirect=false) |
+| [Vertiv](https://internscout.org/internships/at/vertiv/) | Quality Engineer Intern (Summer 2027) | Ironton, OH |  | Oct 6 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279268) |
 | [AMD](https://internscout.org/internships/at/amd/) | PhD Large Language Model Engineer Co-op | San Jose, CA |  | Oct 5 | [Apply](https://careers.amd.com/jobs/91764?icims=1) |
 | [Cirrus Logic](https://internscout.org/internships/at/cirrus-logic/) | Digital Design Engineer Intern | Austin, TX |  | Oct 5 | [Apply](https://jobs.eu.lever.co/cirrus/0310fbd1-a2a8-4c0f-a842-86e05ae7d98e/apply) |
 | [Cirrus Logic](https://internscout.org/internships/at/cirrus-logic/) | Validation Engineer Intern | Austin, TX |  | Oct 5 | [Apply](https://jobs.eu.lever.co/cirrus/89813bb2-94fb-42f6-aec2-03154cfde027/apply) |
@@ -64,6 +66,7 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Site Engineering Internship - Middletown, PA | Middletown, Pennsylvania +1 | Paid | Sep 29 | [Apply](https://jobs.constellationenergy.com/jobs/138648) |
 | Iberdrola Group | 2027 Engineering & Project Delivery Internship Program | United States Of America, Connecticut, Orange +4 | Paid | Sep 29 | [Apply](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Engineering---Project-Delivery-Internship-Program_R-32746) |
 | [Lyft](https://internscout.org/internships/at/lyft/) | Industrialization Engineer Intern (Summer 2027) | Longueuil, Canada |  | Sep 28 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817930002?gh_jid=8817930002) |
+| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Technical Maintenance Internship - Middletown, PA (ASSOCIATE'S DEGREE ONLY) | Middletown, Pennsylvania | Paid | Sep 28 | [Apply](https://jobs.constellationenergy.com/jobs/138598) |
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Instrumentation & Controls Engineering Intern - Summer 2027 | US.WA.Bothell | \$25 - \$31 hour | Sep 28 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USWABothell/Instrumentation---Controls-Engineering-Intern---Summer-2027_R-162442-1) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Field Application Engineering Intern (Summer 2027) | USA - Texas - Austin +2 | \$20.00 - \$40.00 | Sep 28 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Field-Application-Engineering-Intern--Summer-2027-_JR-2604220) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Transmission Line Engineering (TLE) Intern | Billings, Montana | \$20.00 | Sep 28 | [Apply](https://careers.trccompanies.com/jobs/26985) |
@@ -201,9 +204,6 @@
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern – Engineering (OSG) | HOUSTON, Texas |  | Sep 11 | [Apply](https://careers.kindermorgan.com/jobs/6178) |
 | [Swarm Aero](https://internscout.org/internships/at/swarm-aero/) | Composite Engineering (M&P) Intern (Summer 2027) | Oxnard, CA +1 |  | Sep 10 | [Apply](https://jobs.ashbyhq.com/swarmaero/31565a0a-c55e-4d70-832d-8a4b5e5528ad/application) |
 | [National Information Solutions Cooperative (NISC)](https://internscout.org/internships/at/national-information-solutions-cooperative-nisc/) | Intern - Quality Engineer | Lake St. Louis, MO |  | Sep 10 | [Apply](https://job-boards.greenhouse.io/testnisc/jobs/8191814) |
-| [Antares Nuclear](https://internscout.org/internships/at/antares-nuclear/) | Nuclear Engineering Intern - Summer 2027 | Los Angeles +1 |  | Sep 10 | [Apply](https://jobs.ashbyhq.com/Antares/e92ae489-1b1a-4616-a9c8-7c2390698af8/application) |
-| [Planview](https://internscout.org/internships/at/planview/) | Value Engineering Intern | Austin, Texas |  | Sep 10 | [Apply](https://careers.planview.com/jobs/5142) |
-| [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | Substation Engineer Intern- TX | Amarillo, TX, 79109 +1 |  | Sep 10 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Amarillo-TX-79109/Substation-Engineer-Intern--TX_JR116575) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

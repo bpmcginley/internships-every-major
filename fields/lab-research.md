@@ -1,9 +1,10 @@
 # Lab Research: Summer 2027 Internships
 
-11 open Summer 2027 lab research roles, newest first (all 11). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 89 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
+12 open Summer 2027 lab research roles, newest first (all 12). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 91 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Momentive](https://internscout.org/internships/at/momentive/) | Summer 2027 Intern-Intern for Product Development Lab (Chemistry) | Waterford, NY |  | Oct 6 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/Summer-2027-Intern-Intern-for-Product-Development-Lab--Chemistry-_R9810) |
 | [Novelis](https://internscout.org/internships/at/novelis/) | MMP Quality Lab Co-Op | Spokane Valley, WA |  | Sep 30 | [Apply](https://careers-novelis.icims.com/jobs/53214/mmp-quality-lab-co-op/job) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Construction Materials Engineering and Laboratory Testing Intern - Summer 2027 | San Diego, CA | \$23.90 - \$31.11 | Sep 23 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95670) |
 | [Land O'Lakes](https://internscout.org/internships/at/land-o-lakes/) | WinField United Research & Development Lab Intern, Summer 2027 | River Falls, WI (USA) |  | Sep 15 | [Apply](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/River-Falls-WI-USA/WinField-United-Research---Development-Lab-Intern--Summer-2027_R-40232) |

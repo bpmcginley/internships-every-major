@@ -1,9 +1,10 @@
 # Health: Summer 2027 Internships
 
-37 open Summer 2027 health roles, newest first (all 37). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 222 health internships on InternScout](https://internscout.org/internships/health/)
+38 open Summer 2027 health roles, newest first (all 38). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 222 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Epidemiology / Biostatistics Intern | Detroit, MI |  | Oct 6 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14949) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Healthcare Leveraged Finance | New York, New York | \$22.44 | Oct 5 | [Apply](https://firstcitizens.jibeapply.com/jobs/35812) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | General Management Corporate Internship - Summer 2027 (Undergraduate) | CT - Hartford +2 | \$26/hr | Oct 5 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/General-Management-Corporate-Internship---Summer-2027_R1025480) |
 | [Baird](https://internscout.org/internships/at/baird/) | Internship – Hospitality (Louisville, KY Summer 2027) | KY-Louisville |  | Oct 2 | [Apply](https://baird.wd1.myworkdayjobs.com/careers/job/KY-Louisville/Internship---Hospitality--Louisville--KY-Summer-2027-_R20261112-1) |

@@ -1,6 +1,6 @@
 # Cybersecurity: Summer 2027 Internships
 
-83 open Summer 2027 cybersecurity roles, newest first (all 83). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 197 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+83 open Summer 2027 cybersecurity roles, newest first (all 83). **Updated October 6, 2026.** [Back to every major](../README.md) · [See all 196 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Netsmart](https://internscout.org/internships/at/netsmart/) | Security Analyst Future (Summer 2027 Internship) | Overland Park, KS |  | Sep 18 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Security-Analyst-Future--Summer-2027-Internship-_R015669) |
 | [Fidelity National Information Services](https://internscout.org/internships/at/fidelity-national-information-services/) | Intern, Risk and Cybersecurity, FIS University Program | Jax 347, FL +2 | Paid | Sep 17 | [Apply](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Risk-and-Cybersecurity--FIS-University-Program_JR0309680) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship - Military Systems Cybersecurity Engineer | Laurel, Maryland |  | Sep 17 | [Apply](https://careers.jhuapl.edu/jobs/59759) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Security Analyst Intern Summer 2027 | Long Beach, CA +3 |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986956003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Security Analyst Intern Summer 2027 | Middle River, MD +3 |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986963003) |
 | [Robinhood](https://internscout.org/internships/at/robinhood/) | Security Risk Management Intern (Summer 2027) | Menlo Park, CA | Paid | Sep 16 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&gh_jid=8207970) |
 | [Spirit AeroSystems](https://internscout.org/internships/at/spirit-aerosystems/) | Boeing - Tulsa Summer 2027 Internship Program (Paid) - Information Digital Technology & Security (IDT&S) | Tulsa, Oklahoma |  | Sep 16 | [Apply](https://careers.spiritaero.com/jobs/17480) |
 | [Inmar Intelligence](https://internscout.org/internships/at/inmar-intelligence/) | Information Security Internships, Summer 2027 | Headquarters, Winston Salem, NC |  | Sep 15 | [Apply](https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Information-Security-Internships--Summer-2027_JY2627635) |
