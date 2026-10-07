@@ -1,9 +1,13 @@
 # Engineering: Summer 2027 Internships
 
-415 open Summer 2027 engineering roles, newest first (the 200 newest of 415). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 1,215 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+419 open Summer 2027 engineering roles, newest first (the 200 newest of 419). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 1,222 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [L3Harris Technologies](https://internscout.org/internships/at/l3harris-technologies/) | Project & Component Engineering Intern | CA | \$25/hr | Oct 7 | [Apply](https://jobs.l3harris.com/job/Canoga-Park-Project-&-Component-Engineering-Intern-CA-91311/1437650000/) |
+| [S&C Electric Company](https://internscout.org/internships/at/s-c-electric-company/) | Tool Design Engineer Intern | Chicago, IL | \$22 - 30 per hour | Oct 7 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107356) |
+| [S&C Electric Company](https://internscout.org/internships/at/s-c-electric-company/) | Electronics Engineering Intern | Chicago, IL | \$22 - 30 per hour | Oct 7 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107358) |
+| [S&C Electric Company](https://internscout.org/internships/at/s-c-electric-company/) | Material Engineer Intern | Chicago, IL | \$22 - 30 per hour | Oct 7 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107354) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Civil Engineering Internship - Summer 2027 | Cape Canaveral, FL |  | Oct 7 | [Apply](https://jobs.ulalaunch.com/job/Cape-Canaveral-Civil%E2%80%AFEngineering-Internship-Summer-2027-FL-32925/1427396600/) |
 | [Clēnera](https://internscout.org/internships/at/cl-nera/) | Engineering Intern (Summer 2027) | Boise, Idaho, United States |  | Oct 6 | [Apply](https://job-boards.greenhouse.io/clenera/jobs/5259447007) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Engineering Intern | Reston, VA |  | Oct 6 | [Apply](https://uscareers-idemia.icims.com/jobs/8647/job?mobile=true&needsRedirect=false) |
@@ -42,7 +46,6 @@
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Structures Engineering Internship - Summer 2027 | El Segundo, California, United States |  | Oct 1 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010167003) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Intern Engineer: Highway and Traffic - Summer 2027 | New York, NY |  | Oct 1 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/New-York-NY/Intern-Engineer--Highway-and-Traffic---Summer-2027_R-31829-1) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Intern Engineer: Rail & Transit – Summer 2027 | New York, NY |  | Oct 1 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/New-York-NY/Intern-Engineer--Rail---Transit---Summer-2027_R-31826-1) |
-| [RTX](https://internscout.org/internships/at/rtx/) | 24K Customer Technical Service Engineering Intern (Summer 2027)(Onsite) | East Hartford-Obg, CT |  | Oct 1 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/XMLNAME-24K-Customer-Technical-Service-Engineering-Intern--Summer-2027--Onsite-_01875003) |
 | [Global Infrastructure](https://internscout.org/internships/at/global-infrastructure/) | Intern Engineering Designer, Water | US +2 | \$25.00-\$27.00 | Oct 1 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IL--Chicago---200-South-Wacker-Drive/Intern-Engineering-Designer--Water_6440) |
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | Engineering Co-Op; Summer and Fall 2027 | Valley City, OH, United States |  | Oct 1 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Co-Op--Summer-and-Fall-2027_REQ-1000052850) |
 | [The Mosaic Company](https://internscout.org/internships/at/the-mosaic-company/) | Process Control Engineer Co-op/Intern - Summer 2027 | CA - Esterhazy, SK |  | Oct 1 | [Apply](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/CA---Esterhazy-SK/Process-Control-Engineer-Co-op-Intern---Summer-2027_65160) |
@@ -201,9 +204,6 @@
 | [KCI Technologies](https://internscout.org/internships/at/kci-technologies/) | Marine Structures Engineering Intern (Summer 2027) | New York, NY +1 |  | Sep 11 | [Apply](https://careers-kci.icims.com/jobs/8086/marine-structures-engineering-intern-%28summer-2027%29/job) |
 | [AES](https://internscout.org/internships/at/aes/) | Distribution Planning Engineer Intern (Summer 2027) | Dayton, OH |  | Sep 11 | [Apply](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/Distribution-Planning-Engineer-Intern--Summer-2027-_R1064840) |
 | [Oshkosh](https://internscout.org/internships/at/oshkosh/) | Autonomy & Active Safety Engineering Intern | Pittsburgh, Pennsylvania, United States +3 |  | Sep 11 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Pittsburgh-Pennsylvania-United-States/Autonomy---Active-Safety-Engineering-Intern_R50266) |
-| [AES](https://internscout.org/internships/at/aes/) | Relay Engineer - Engineering Services Intern (Summer 2027) | Dayton, OH |  | Sep 11 | [Apply](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/Relay-Engineer---Engineering-Services-Intern--Summer-2027-_R1064791) |
-| [AES](https://internscout.org/internships/at/aes/) | T&D Performance and Reliability Engineering Intern (Summer 2027) | Dayton, OH +1 |  | Sep 11 | [Apply](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/T-D-Performance-and-Reliability-Engineering-Intern--Summer-2027-_R1064841) |
-| [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern – Engineering (OSG) | HOUSTON, Texas |  | Sep 11 | [Apply](https://careers.kindermorgan.com/jobs/6178) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

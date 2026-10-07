@@ -1,6 +1,6 @@
 # Product Management: Summer 2027 Internships
 
-146 open Summer 2027 product management roles, newest first (all 146). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 242 product management internships on InternScout](https://internscout.org/internships/product-management/)
+147 open Summer 2027 product management roles, newest first (all 147). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 242 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Bedrock Robotics](https://internscout.org/internships/at/bedrock-robotics/) | Product Intern | SF +2 | Paid | Oct 1 | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/e199e72a-0361-40dc-8fd3-e02e534af85a/application?embed=true) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Program Management Intern – Summer 2027 | New York, NY |  | Oct 1 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/New-York-NY/Program-Management-Intern---Summer-2027_R-31828-1) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Product Management (Lake Mary, FL) | Lake Mary, FL |  | Oct 1 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82784) |
-| [Capital One](https://internscout.org/internships/at/capital-one/) | MBA Product Intern | McLean, VA +4 | Paid | Oct 1 | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/MBA-Product-Intern---Summer-2027_R244815-1) |
+| [Capital One](https://internscout.org/internships/at/capital-one/) | MBA Product Intern | McLean, VA +3 |  | Oct 1 | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/MBA-Product-Intern---Summer-2027_R244815-1) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Program Management (Pittsburgh, PA) | Pittsburgh, PA |  | Oct 1 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82782) |
 | [Southwest Airlines](https://internscout.org/internships/at/southwest-airlines/) | Digital Product Intern | Dallas, TX |  | Oct 1 | [Apply](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Digital-Product-Internship_R-2026-73049) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Program Management | Warren, Michigan, United States of America |  | Oct 1 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Program-Management_JR-202621456) |
@@ -92,6 +92,7 @@
 | [Shure](https://internscout.org/internships/at/shure/) | Global Product Management Data Intern | Niles, IL |  | Sep 3 | [Apply](https://careersus-shure.icims.com/jobs/5024/job?mobile=true&needsRedirect=false) |
 | [Atlassian](https://internscout.org/internships/at/atlassian/) | Product Management Intern | SF |  | Sep 2 | [Apply](https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job) |
 | Trane Technologies | AI Intern - AI Product Management - AI Controls Integration | Montreal, QC +1 |  | Sep 1 | [Apply](https://careers.tranetechnologies.com/global/en/job/JR-7608) |
+| [American Express](https://internscout.org/internships/at/american-express/) | Campus Undergraduate Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- New Y… | New York, NY |  | Sep 1 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011143) |
 | [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 Long Term Product Management Intern/Co-Op | CALGARY, Alberta, Canada +2 |  | Sep 1 | [Apply](https://careers.amd.com/jobs/90411) |
 | [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 Long Term Program Management Intern/Co-Op | MARKHAM, Ontario, Canada |  | Sep 1 | [Apply](https://careers.amd.com/jobs/90414) |
 | [AMD](https://internscout.org/internships/at/amd/) | Short Term 2027 Program Management Intern/Co-Op | MARKHAM, Ontario, Canada +1 |  | Sep 1 | [Apply](https://careers.amd.com/jobs/91364) |

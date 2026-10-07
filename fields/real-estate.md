@@ -1,9 +1,10 @@
 # Real Estate: Summer 2027 Internships
 
-21 open Summer 2027 real estate roles, newest first (all 21). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 35 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
+21 open Summer 2027 real estate roles, newest first (all 21). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 36 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [KeyBank](https://internscout.org/internships/at/keybank/) | 2027 Summer Real Estate Capital Internship - Boston IPG | Boston, MA | \$27 per hour | Oct 7 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Boston-MA/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Boston-IPG_R-41558) |
 | [Principal Financial Group](https://internscout.org/internships/at/principal-financial-group/) | Principal Asset Management - Commercial Real Estate Intern (Summer 2027) | Des Moines, Iowa |  | Oct 6 | [Apply](https://careers.principal.com/jobs/52474) |
 | [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Property Management Summer 2027 Internship - Dallas, TX | New York, NY +3 |  | Oct 6 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Property-Management-Summer-2027-Internship---Dallas--TX_REQ540219) |
 | [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Industrial Property Management Summer 2027 Internship - Denver, CO | Denver, CO |  | Oct 6 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Denver-CO/Industrial-Property-Management-Summer-2027-Internship---Denver--CO_REQ540471) |
@@ -22,7 +23,6 @@
 | [KKR](https://internscout.org/internships/at/kkr/) | 2027 K-Star Summer Internship Program - Real Estate Credit | Dallas, Texas, United States |  | Aug 26 | [Apply](https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6164389004) |
 | Prudential Financial | PGIM: 2027 Real Estate, Sophomore Externship Program | Newark, NJ, USA | Paid | Sep 18 | [Apply](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Sophomore-Externship-Program_R-124904-2) |
 | [The Boeing Company](https://internscout.org/internships/at/boeing/) | Boeing Summer 2027 Internship Program (Paid) - Global Real Estate and Facilities & Property Management | USA - Everett, WA +14 |  | Sep 18 | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Global-Real-Estate-and-Facilities---Property-Management_JR2026520992) |
-| PGIM | PGIM: 2027 Real Estate, Sophomore Externship Program | Newark, NJ, USA | Paid | Sep 18 | [Apply](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Sophomore-Externship-Program_R-124904) |
 | [CNO Financial Group](https://internscout.org/internships/at/cno-financial-group/) | Summer 2027 Commercial Mortgage and Real Estate Intern - ONSITE Carmel, IN | Carmel, IN |  | Sep 18 | [Apply](https://cnoinc.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-2027-Commercial-Mortgage-and-Real-Estate-Intern---ONSITE-Carmel--IN_JR170427) |
 | [First National Bank](https://internscout.org/internships/at/first-national-bank/) | Summer 2027 Commercial Credit/Banking Intern - Investment Real Estate | Raleigh, NC +2 |  | Sep 18 | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Raleigh-NC/Summer-2027-Commercial-Credit-Banking-Intern---Investment-Real-Estate_2026-01897) |
 

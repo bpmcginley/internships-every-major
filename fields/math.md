@@ -1,6 +1,6 @@
 # Math: Summer 2027 Internships
 
-46 open Summer 2027 math roles, newest first (all 46). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 74 math internships on InternScout](https://internscout.org/internships/math/)
+45 open Summer 2027 math roles, newest first (all 45). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 73 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -38,7 +38,6 @@
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Statistical Programming - California | Irvine, California +1 |  | Sep 1 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Irvine-California/Summer-2027-Internship---Statistical-Programming---California_R572769) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Actuarial Intern - Summer 2027 | Addison, TX +1 | Paid | Aug 19 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4376293009) |
 | GuideWell Mutual | 2027 Actuarial Summer Internship | Jacksonville, FL |  | Aug 18 | [Apply](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41855) |
-| [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Actuarial Internship Program - Summer 2027 | Boston, MA +2 |  | Oct 7, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/76991/actuarial-internship-program---summer-2027/job) |
 | Crum & Forster Insurance | Internship – Actuarial or Product Services– Commercial Lines -Summer 2027 (Morristown, NJ or Remote) | MORRISTOWN, NJ |  | Oct 7, 2024 | [Apply](https://careers-cfins.icims.com/jobs/5108/internship-%e2%80%93-actuarial-or-product-services%e2%80%93-commercial-lines--summer-2027-%28morristown%2c-nj-or-remote%29/job) |
 | Palomar Holdings | 2027 Summer Internship (Actuarial) | Edina, MN |  | Oct 3 | [Apply](https://ats.rippling.com/plmrcareers/jobs/d6bd58c7-5127-4a17-b70d-2d377aa9fa8a) |
 | [West Bend Insurance](https://internscout.org/internships/at/west-bend-insurance/) | Summer 2027 Internship - Actuarial | West Bend, WI |  | Sep 23 | [Apply](https://careers-thesilverlining.icims.com/jobs/3767/summer-2027-internship---actuarial/job) |

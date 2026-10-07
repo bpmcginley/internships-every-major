@@ -1,9 +1,10 @@
 # Sustainability: Summer 2027 Internships
 
-68 open Summer 2027 sustainability roles, newest first (all 68). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 106 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+69 open Summer 2027 sustainability roles, newest first (all 69). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 108 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [S&C Electric Company](https://internscout.org/internships/at/s-c-electric-company/) | Environmental and Sustainability Intern | Chicago, IL | \$22 - 30 per hour | Oct 7 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107375) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Supply Intern (Warrenville, IL) | Warrenville, Illinois |  | Oct 6 | [Apply](https://jobs.constellationenergy.com/jobs/139036) |
 | [Northwestern Mutual](https://internscout.org/internships/at/northwestern-mutual/) | Enterprise Sustainability & Impact Intern - Modeling & Analytics | Milwaukee, WI +1 |  | Oct 6 | [Apply](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Enterprise-Sustainability---Impact-Intern---Modeling---Analytics--Summer-2027_JR-46171) |
 | [Diversified Energy](https://internscout.org/internships/at/diversified-energy/) | 2027 Summer Intern- Sustainability/Environmental, Social, and Corporate Governance (ESG) | Birmingham, Alabama |  | Oct 2 | [Apply](https://careers.div.energy/jobs/2729) |

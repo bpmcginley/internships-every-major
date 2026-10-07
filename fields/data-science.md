@@ -1,9 +1,10 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-449 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 449). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 839 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+449 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 449). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 840 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Business Intelligence Engineering Intern - Summer 2027 | Lansing, MI |  | Oct 7 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Engineering-Intern---Summer-2027_R_14662) |
 | Meta | Data Scientist Intern - Product Analytics | Menlo Park, CA +1 |  | Oct 6 | [Apply](https://www.metacareers.com/jobs/1633096478817942) |
 | [Tradeweb](https://internscout.org/internships/at/tradeweb/) | Data Management Intern | NYC +1 |  | Oct 6 | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301946) |
 | [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Data Science Co-op | Boston, MA |  | Oct 6 | [Apply](https://campus-libertymutual.icims.com/jobs/261811/job?mobile=true&needsRedirect=false) |
@@ -146,7 +147,6 @@
 | [Commerce Bank](https://internscout.org/internships/at/commerce-bank/) | Data Science Intern | Kansas City, MO +1 | Paid | Sep 21 | [Apply](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-EABI---Data-Science-Summer-2027_38483) |
 | [AutoZone](https://internscout.org/internships/at/autozone/) | AutoZone 2027 Summer Internship – Data Science | Memphis, TN |  | Sep 21 | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Product Data Science | San Francisco, California, United States +1 | Paid | Sep 18 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8199365) |
-| [American Family Insurance Group](https://internscout.org/internships/at/american-family-insurance-group/) | Internal Data and Analytics Intern - Summer 2027 | Madison, WI |  | Sep 18 | [Apply](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Internal-Data-and-Analytics-Intern---Summer-2027_R39401) |
 | [Guardian Life](https://internscout.org/internships/at/guardian-life/) | 2027 Guardian Summer Intern, Corporate Finance & Risk - Investment Reporting & Data Analytics | New York |  | Sep 18 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Investment-Accounting_R000110127) |
 | [AIG](https://internscout.org/internships/at/aig/) | 2027 Early Careers: Summer Intern, Data Office – United States, Atlanta, GA, Charlotte, NC, Parsippany, NJ, Jersey City… | GA-Atlanta +9 |  | Sep 18 | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Summer-Intern--Data-Office---United-States--Atlanta--GA--Charlotte--NC--Parsippany--NJ--Jersey-City--NJ---New-York--NY_JR2603655-1) |
 | [Lennox International](https://internscout.org/internships/at/lennox-international/) | AI & Analytics Intern | Richardson, TX |  | Sep 17 | [Apply](https://uscareers-lennox.icims.com/jobs/54804/job?mobile=true&needsRedirect=false) |

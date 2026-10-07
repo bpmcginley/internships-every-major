@@ -1,9 +1,10 @@
 # Human Resources: Summer 2027 Internships
 
-115 open Summer 2027 human resources roles, newest first (all 115). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 272 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+116 open Summer 2027 human resources roles, newest first (all 116). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 272 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [S&C Electric Company](https://internscout.org/internships/at/s-c-electric-company/) | Human Resource Business Partner Intern | Chicago, IL | \$22 - 30 per hour | Oct 7 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107369) |
 | [Midland States Bank](https://internscout.org/internships/at/midland-states-bank/) | Intern - HR - Talent Acquisition | Effingham, IL | Paid | Oct 5 | [Apply](https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---HR---Talent-Acquisition_JR1460) |
 | [Meijer](https://internscout.org/internships/at/meijer/) | Human Resources Intern- Summer 2027 | Grand Rapids, MI |  | Oct 5 | [Apply](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Human-Resources-Intern--Summer-2027_R000707780) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | People Operations Intern (Summer 2027) | Mountain View, CA | \$40/hour | Oct 2 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5255938007) |

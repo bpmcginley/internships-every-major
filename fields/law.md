@@ -1,6 +1,6 @@
 # Law and Legal: Summer 2027 Internships
 
-103 open Summer 2027 law and legal roles, newest first (all 103). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 272 law and legal internships on InternScout](https://internscout.org/internships/law/)
+105 open Summer 2027 law and legal roles, newest first (all 105). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 271 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -57,10 +57,12 @@
 | [Dallas Fort Worth International Airport](https://internscout.org/internships/at/dallas-fort-worth-international-airport/) | 2027 Undergraduate Summer Internship - Fire Regulatory Compliance & Planning | DPS Headquarters, TX |  | Sep 15 | [Apply](https://dfwairport.wd5.myworkdayjobs.com/External/job/DPS-Headquarters/XMLNAME-2027-Undergraduate-Summer-Internship---Fire-Regulatory-Compliance---Planning_JR102115) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Public Policy Intern (Kennett Square, PA) | Kennett Square, Pennsylvania |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138711) |
 | [Huntington Bancshares](https://internscout.org/internships/at/huntington-bancshares/) | Summer 2027 Law Clerk Internship | Columbus, OH |  | Sep 11 | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Legal-Internship_R0075231) |
+| [NJM Insurance Group](https://internscout.org/internships/at/njm-insurance-group/) | General Claims Legal Intern | NJM - Trenton, NJ | Paid | Sep 10 | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/General-Claims-Legal-Intern_R2008162) |
 | [Meijer](https://internscout.org/internships/at/meijer/) | Compliance Intern- Summer 2027 | Grand Rapids, MI |  | Sep 10 | [Apply](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Compliance-Intern--Summer-2027_R000700307) |
 | [Stand Together](https://internscout.org/internships/at/stand-together/) | Strategic Research Intern - Pacific Legal Foundation | Arlington County, Arlington, VA |  | Sep 9 | [Apply](https://jobs.lever.co/standtogether/e4dd1d3c-79a0-435d-87b3-eac542b4c2b5/apply) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - RA/QA - Post Market Regulatory Affairs - Virtual | Florida, Virtual Address |  | Sep 9 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Florida-Virtual-Address/Summer-2027-Internship---RA-QA---Post-Market-Regulatory-Affairs---Virtual_R572836-1) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Policy Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175556?gh_jid=8175556) |
+| [NJM Insurance Group](https://internscout.org/internships/at/njm-insurance-group/) | Law Clerk Summer Intern | NJM - Trenton, NJ | \$21-\$25 hour | Sep 8 | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Law-Clerk-Summer-Intern_R2008215) |
 | [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Legal Assistant | Overland Park, KS |  | Sep 8 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Summer-2027-Internship--Legal-Assistant_R2026-1969) |
 | [Spirit AeroSystems](https://internscout.org/internships/at/spirit-aerosystems/) | Boeing - Wichita Summer 2027 Internship Program (Paid) - Supplier Quality Assurance & Compliance | Wichita, Kansas |  | Sep 8 | [Apply](https://careers.spiritaero.com/jobs/17513) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Product Material Compliance Engineering Intern (Summer 2027) | Westerville, OH |  | Sep 8 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279284) |

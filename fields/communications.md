@@ -1,6 +1,6 @@
 # Communications: Summer 2027 Internships
 
-41 open Summer 2027 communications roles, newest first (all 41). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 142 communications internships on InternScout](https://internscout.org/internships/communications/)
+41 open Summer 2027 communications roles, newest first (all 41). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 140 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -18,8 +18,8 @@
 | [Republic Airways](https://internscout.org/internships/at/republic-airways/) | Corporate Communications Intern - Summer 2027 | Indianapolis, IN |  | Sep 23 | [Apply](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Indianapolis-IN/Corporate-Communications-Intern---Summer-2027_JR-007622-1) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Intern - Communications & Engagement | St. Louis, MO | \$20-\$22/hr | Sep 21 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/St-Louis-MO/XMLNAME-2027-Summer-Intern---Communications---Engagement_R-0000033464) |
 | [Protective Life](https://internscout.org/internships/at/protective-life/) | 2027 Communications Summer Internship Program | Birmingham, AL |  | Sep 16 | [Apply](https://jobs.lever.co/protective/76d37442-da84-4bcf-b9f3-66f9880db597/apply) |
+| [Ensign-Bickford Industries](https://internscout.org/internships/at/ensign-bickford-industries/) | Communications Intern | Simsbury, CT |  | Sep 16 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Communications-Intern_REQ107700-1) |
 | [Ensign-Bickford Aerospace & Defense Company](https://internscout.org/internships/at/ensign-bickford-aerospace-defense-company/) | Communications Intern | Simsbury, CT |  | Sep 16 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Communications-Intern_REQ107700) |
-| [Planview](https://internscout.org/internships/at/planview/) | Marketing Intern (Corporate Communications) | Austin, Texas |  | Sep 15 | [Apply](https://careers.planview.com/jobs/5148) |
 | [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | Communications & Knowledge Management Intern - MN | Minneapolis, MN, 55401 +1 |  | Sep 14 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Communications---Knowledge-Management-Intern---MN_JR115717-1) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Technical Writer Intern, BS/BA - Summer 2027 | Santa Clara, CA | Paid | Sep 14 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Technical-Writer-Intern--BS-BA---Summer-2027_2604149) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Communications Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138732) |

@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-184 open Summer 2027 hardware engineering roles, newest first (all 184). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 508 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+184 open Summer 2027 hardware engineering roles, newest first (all 184). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 513 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,7 +11,7 @@
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | PCIe Design Verification Intern | Austin, TX +2 |  | Oct 6 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/PCIe-Design-Verification-Intern---Summer-2027_JR2026708) |
 | [Cadence Design Systems](https://internscout.org/internships/at/cadence-design-systems/) | CST Application Engineer Intern - Silicon | SAN JOSE |  | Oct 6 | [Apply](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Silicon_R56655) |
 | [Cadence](https://internscout.org/internships/at/cadence/) | CST Application Engineer Intern - Silicon | SAN JOSE |  | Oct 6 | [Apply](https://cadence.wd1.myworkdayjobs.com/external_careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Silicon_R56655-1) |
-| [RTX](https://internscout.org/internships/at/rtx/) | FPGA Engineering Intern (Summer 2027)(Onsite) | Mckinney, TX +1 |  | Oct 6 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineering-Intern--Summer-2027--Onsite-_01880037) |
+| [RTX](https://internscout.org/internships/at/rtx/) | FPGA Engineering Intern (Summer 2027)(Onsite) | Mckinney, TX +1 | Paid | Oct 6 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineering-Intern--Summer-2027--Onsite-_01880037) |
 | [Cirrus Logic](https://internscout.org/internships/at/cirrus-logic/) | Embedded Firmware Engineer Intern | Phoenix, AZ +2 |  | Oct 5 | [Apply](https://jobs.eu.lever.co/cirrus/0af920c1-6ecb-447f-9b22-3eda6b8d4ed8/apply) |
 | [Cirrus Logic](https://internscout.org/internships/at/cirrus-logic/) | Design Verification Engineer Intern | Austin, TX |  | Oct 5 | [Apply](https://jobs.eu.lever.co/cirrus/c71a6365-31c7-4ba1-bdc4-9f2df1fc483e/apply) |
 | [Cirrus Logic](https://internscout.org/internships/at/cirrus-logic/) | Analog Design Engineer Intern | Austin, TX |  | Oct 5 | [Apply](https://jobs.eu.lever.co/cirrus/df033a94-155f-427f-a178-88bd18c3d5ec/apply) |
@@ -74,6 +74,7 @@
 | Gecko Robotics | Embedded Software Engineering Intern | Pittsburgh +2 |  | Sep 15 | [Apply](https://jobs.ashbyhq.com/gecko-robotics/24561868-f075-4edf-a991-59ff0174e92a/application) |
 | [Keysight Technologies](https://internscout.org/internships/at/keysight-technologies/) | ASIC Design-for-Test (DFT) Engineer Intern | Colorado Springs, Colorado +1 |  | Sep 15 | [Apply](https://jobs.keysight.com/jobs/54276) |
 | [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Software Engineer Intern - Robotics R&D | Santa Clara, CA |  | Sep 15 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919) |
+| [Keysight Technologies](https://internscout.org/internships/at/keysight-technologies/) | Compound Semiconductor Device Characterization Intern | Santa Rosa, CA +1 |  | Sep 14 | [Apply](https://jobs.keysight.com/jobs/54226?icims=1) |
 | [Google](https://internscout.org/internships/at/google/) | Silicon Engineering Intern | Madison, WI +2 |  | Sep 14 | [Apply](https://www.google.com/about/careers/applications/jobs/results/136529930677560006) |
 | [Google](https://internscout.org/internships/at/google/) | Silicon Engineering Intern - BS/MS - Multiple Teams | Madison, WI +1 |  | Sep 14 | [Apply](https://www.google.com/about/careers/applications/jobs/results/88570332985598662) |
 | [Google](https://internscout.org/internships/at/google/) | Hardware Engineer Intern - PhD | Palo Alto, CA +29 |  | Sep 14 | [Apply](https://www.google.com/about/careers/applications/jobs/results/97352132356645574) |
@@ -124,7 +125,6 @@
 | [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineer Intern - Pro Audio Circuitry | Niles, IL |  | Sep 3 | [Apply](https://careersus-shure.icims.com/jobs/5017/job?mobile=true&needsRedirect=false) |
 | [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering Intern - Digital Circuitry | Niles, IL |  | Sep 3 | [Apply](https://careersus-shure.icims.com/jobs/5013/job?mobile=true&needsRedirect=false) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | Pre-Silicon Diagnostics Intern | Fort Collins, CO |  | Sep 3 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Pre-Silicon-Diagnostics-Intern_1213394) |
-| [AMD](https://internscout.org/internships/at/amd/) | Short Term 2027 Hardware Design Verification Engineering Intern/Co-Op | MARKHAM, Ontario, Canada +1 |  | Sep 3 | [Apply](https://careers.amd.com/jobs/91361) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Embedded Software Engineering | Los Angeles, CA +1 |  | Sep 2 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377131008) |
 | [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 Long Term ASIC Verification Engineering Intern/ Co-Op | OTTAWA, Ontario, Canada +2 |  | Sep 2 | [Apply](https://careers.amd.com/jobs/91207) |
 | [Intel](https://internscout.org/internships/at/intel/) | Platform Hardware and Systems Engineering Intern | Austin, TX +4 |  | Sep 2 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828) |
@@ -135,6 +135,7 @@
 | [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 Long Term Analog and Mixed Signal Engineering Intern/Co-Op | MARKHAM, Ontario, Canada +2 |  | Sep 1 | [Apply](https://careers.amd.com/jobs/91369) |
 | [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 Long Term Hardware Design Engineering Intern/Co-Op | VANCOUVER, British Columbia, Canada +1 |  | Sep 1 | [Apply](https://careers.amd.com/jobs/90372) |
 | [AMD](https://internscout.org/internships/at/amd/) | Short Term 2027 Firmware Engineering Intern/Co-Op | MARKHAM, Ontario, Canada +1 |  | Sep 1 | [Apply](https://careers.amd.com/jobs/91320) |
+| [AMD](https://internscout.org/internships/at/amd/) | Short Term 2027 Hardware Design Verification Engineering Intern/Co-Op | VANCOUVER, British Columbia, Canada +1 |  | Sep 1 | [Apply](https://careers.amd.com/jobs/91362) |
 | [AMD](https://internscout.org/internships/at/amd/) | Short Term 2027 Hardware Design Engineering Intern/Co-Op | MARKHAM, Ontario, Canada +3 |  | Sep 1 | [Apply](https://careers.amd.com/jobs/91360) |
 | [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 Long Term Hardware Design Verification Engineering Intern/Co-Op | MARKHAM, Ontario, Canada |  | Sep 1 | [Apply](https://careers.amd.com/jobs/90379) |
 | [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 Long Term Firmware Engineering Intern/Co-op | VANCOUVER, British Columbia, Canada +1 |  | Sep 1 | [Apply](https://careers.amd.com/jobs/90301) |
@@ -151,13 +152,12 @@
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 Undergrad ASIC Package Engineering Co-op/Intern | Austin, Texas +15 |  | Aug 25 | [Apply](https://careers.amd.com/jobs/91466) |
 | Daktronics | Hardware Design Co-op Intern - Firmware | Brookings, SD |  | Aug 24 | [Apply](https://careers-daktronics.icims.com/jobs/7518/job?mobile=true&needsRedirect=false) |
 | HPR | FPGA Engineering Intern | Needham, MA | Paid | Aug 21 | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003) |
-| [AMD](https://internscout.org/internships/at/amd/) | Firmware Engineering Intern Co-op - Undergrad | San Jose, CA +1 |  | Aug 21 | [Apply](https://careers.amd.com/jobs/90807?icims=1) |
-| [AMD](https://internscout.org/internships/at/amd/) | Hardware Engineer Intern/Co-op | San Jose, CA +1 |  | Aug 21 | [Apply](https://careers.amd.com/jobs/90894?icims=1) |
+| [AMD](https://internscout.org/internships/at/amd/) | Firmware Engineer Intern/Co-op | Secaucus, NJ +12 |  | Aug 21 | [Apply](https://careers.amd.com/jobs/90801?icims=1) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 Undergrad Hardware Design Verification Engineering Co-op/Intern | Austin, Texas +6 |  | Aug 20 | [Apply](https://careers.amd.com/jobs/90811) |
-| [AMD](https://internscout.org/internships/at/amd/) | 2027 Masters Hardware Engineering intern/co-op | Austin, Texas +5 |  | Aug 20 | [Apply](https://careers.amd.com/jobs/91178) |
-| [AMD](https://internscout.org/internships/at/amd/) | 2027 Undergrad Firmware Engineering Intern/Co-op | Austin, Texas +21 |  | Aug 20 | [Apply](https://careers.amd.com/jobs/90801) |
+| [AMD](https://internscout.org/internships/at/amd/) | 2027 Masters Hardware Engineering intern/co-op | Austin, Texas +13 |  | Aug 20 | [Apply](https://careers.amd.com/jobs/91182) |
+| [AMD](https://internscout.org/internships/at/amd/) | 2027 Undergrad Firmware Engineering Co-op/Intern | Austin, Texas +8 |  | Aug 20 | [Apply](https://careers.amd.com/jobs/90807) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 Masters Firmware Engineering Intern/Co-op | Austin, Texas +8 |  | Aug 20 | [Apply](https://careers.amd.com/jobs/90805) |
-| [AMD](https://internscout.org/internships/at/amd/) | 2027 Undergrad Hardware Engineering intern/co-op | Austin, Texas +13 |  | Aug 20 | [Apply](https://careers.amd.com/jobs/91173) |
+| [AMD](https://internscout.org/internships/at/amd/) | 2027 Undergrad Hardware Engineering intern/co-op | Austin, Texas +7 |  | Aug 20 | [Apply](https://careers.amd.com/jobs/90894) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 Masters Hardware Design Verification Engineering Intern/Co-op | Austin, Texas +8 |  | Aug 20 | [Apply](https://careers.amd.com/jobs/90813) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | NVIDIA 2027 Internships: Hardware Verification | US, CA +2 | Paid | Aug 19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | NVIDIA 2027 Internships: Hardware Engineering | US, CA +2 | Paid | Aug 19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1) |

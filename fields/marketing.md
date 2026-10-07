@@ -1,6 +1,6 @@
 # Marketing: Summer 2027 Internships
 
-219 open Summer 2027 marketing roles, newest first (the 200 newest of 219). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 621 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+220 open Summer 2027 marketing roles, newest first (the 200 newest of 220). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 622 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -74,12 +74,13 @@
 | [Land O'Lakes](https://internscout.org/internships/at/land-o-lakes/) | Marketing Brand Management MBA Intern, Summer 2027 | Arden Hills, MN (USA) |  | Sep 17 | [Apply](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Arden-Hills-MN-USA/Marketing-Brand-Management-MBA-Intern--Summer-2027_R-40561) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Product Marketing Data Analyst Intern | North Andover, MA |  | Sep 17 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Product-Data-Analyst--Marketing-Intern_10017538) |
 | [Protective Life](https://internscout.org/internships/at/protective-life/) | 2027 Communications Summer Internship Program | Birmingham, AL |  | Sep 16 | [Apply](https://jobs.lever.co/protective/76d37442-da84-4bcf-b9f3-66f9880db597/apply) |
+| [NJM Insurance Group](https://internscout.org/internships/at/njm-insurance-group/) | Marketing Operations Intern | NJM - Trenton, NJ | Paid | Sep 16 | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Marketing-Operations-Intern_R2008287) |
 | [AMD](https://internscout.org/internships/at/amd/) | Short Term 2027 Technical Marketing - Performance Analysis Intern/Co-Op | MARKHAM, Ontario, Canada |  | Sep 16 | [Apply](https://careers.amd.com/jobs/91953) |
 | [Ecolab](https://internscout.org/internships/at/ecolab/) | MBA Marketing Intern | USA - Minnesota - Saint Paul +2 | Paid | Sep 16 | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/MBA-Marketing-Intern_R00303125) |
+| [Ensign-Bickford Industries](https://internscout.org/internships/at/ensign-bickford-industries/) | Communications Intern | Simsbury, CT |  | Sep 16 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Communications-Intern_REQ107700-1) |
 | [Ensign-Bickford Aerospace & Defense Company](https://internscout.org/internships/at/ensign-bickford-aerospace-defense-company/) | Communications Intern | Simsbury, CT |  | Sep 16 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Communications-Intern_REQ107700) |
 | [ATC](https://internscout.org/internships/at/atc/) | Intern-Marketing, Customer and Corporate Affairs Summer 2027 | Pewaukee, WI |  | Sep 16 | [Apply](https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern-Marketing--Customer-and-Corporate-Affairs-Summer-2027_R0003300-1) |
 | Emergent Holdings | Summer 2027 Intern - Program Oversight/Marketing Compliance | Detroit, MI |  | Sep 16 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14772) |
-| [Planview](https://internscout.org/internships/at/planview/) | Marketing Intern (Corporate Communications) | Austin, Texas |  | Sep 15 | [Apply](https://careers.planview.com/jobs/5148) |
 | [Dow Jones](https://internscout.org/internships/at/dow-jones/) | Summer 2027 Internship Program – TA Videographer / Marketing Intern | New York City |  | Sep 15 | [Apply](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/New-York-City/Summer-2027-Internship-Program---TA-Videographer---Marketing-Intern_Job_Req_55336) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | Marketing Intern - US Farm Animal (Summer 2027) | Indianapolis, IN |  | Sep 15 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Marketing-Intern---US-Farm-Animal--Summer-2027-_R0026873) |
 | [Land O'Lakes](https://internscout.org/internships/at/land-o-lakes/) | WinField United FGI Marketing Intern, Summer 2027 | Arden Hills, MN (USA) |  | Sep 15 | [Apply](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Arden-Hills-MN-USA/WinField-United-FGI-Marketing-Intern--Summer-2027_R-40233) |
@@ -203,7 +204,6 @@
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Downstream Marketing - Arizona | Tempe, Arizona |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tempe-Arizona/Summer-2027-Internship---Downstream-Marketing---Arizona_R572860-1) |
 | [Diamondback Energy](https://internscout.org/internships/at/diamondback-energy/) | Summer 2027 Oil & Gas Marketing Intern | Midland, TX |  | Sep 18 | [Apply](https://diamondbackenergy.wd12.myworkdayjobs.com/DBE/job/Midland-TX/Summer-2027-Oil---Gas-Marketing-Intern_R100833) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Marketing (Operations/Analysis) - 2027 Summer Student Program | Houston, TX |  | Sep 18 | [Apply](https://aramcoservices.applytojob.com/apply/1rW6QX6OnX/Marketing-OperationsAnalysis-2027-Summer-Student-Program) |
-| [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Corporate Marketing Internship - Summer 2027 | Lansing, MI |  | Sep 18 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Corporate-Marketing-Internship---Summer-2027_R_14358) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
