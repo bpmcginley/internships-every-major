@@ -1,9 +1,11 @@
 # Communications: Summer 2027 Internships
 
-41 open Summer 2027 communications roles, newest first (all 41). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 140 communications internships on InternScout](https://internscout.org/internships/communications/)
+44 open Summer 2027 communications roles, newest first (all 44). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 143 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program - Global Communications - Intern | USA - New Jersey - Rahway |  | Oct 7 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Communications---Intern_R419876) |
+| [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Communications Internship - New York, NY | New York, NY |  | Oct 7 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Communications-Internship---New-York--NY_REQ534207) |
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Visual Communications Intern (Summer 2027) | Milwaukee, WI |  | Oct 5 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Visual-Communications-Intern--Summer-2027-_REQ-020086) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Corporate Communications Intern (Summer 2027) | USA - New York - Malta |  | Oct 2 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Corporate-Communications-Intern--Summer-2027-_JR-2604226) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | End Markets Intern, Communications Infrastructure and Datacenter (Summer 2027) | USA - Texas - Austin |  | Oct 1 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/End-Markets-Intern--Communications-Infrastructure-and-Datacenter--Summer-2027-_JR-2604224) |
@@ -32,6 +34,7 @@
 | [Shure](https://internscout.org/internships/at/shure/) | Unified Communications Technology Intern | Skokie, IL |  | Sep 3 | [Apply](https://careersus-shure.icims.com/jobs/5002/job?mobile=true&needsRedirect=false) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Intern - Communications | Bridgeton, Missouri |  | Sep 1 | [Apply](https://careers.na.panasonic.com/jobs/50755) |
 | [Exelon](https://internscout.org/internships/at/exelon/) | 2027 Summer Internship - Communications & Marketing (Various Exelon Locations) | CHICAGO, Illinois +6 | \$20.00/Hr | Aug 31 | [Apply](https://careers.comed.com/jobs/30146) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Communications Internship - Summer 2027 | Reston, VA |  | Oct 7 | [Apply](https://uscareers-idemia.icims.com/jobs/8686/communications-internship---summer-2027/job) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Marketing & Communications Internship - Summer 2027 | Reston, VA |  | Oct 5 | [Apply](https://uscareers-idemia.icims.com/jobs/8676/marketing-%26-communications-internship---summer-2027/job) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Communications & Engagement Intern - Summer 2027 | Columbus, OH +2 | \$19.12 - \$28.68 | Oct 3 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Columbus-OH/Communications---Engagement-Intern---Summer-2027_R-31327-1) |
 | [Fifth Third Bank](https://internscout.org/internships/at/fifth-third-bank/) | Communications Externship Summer 2027 | Cincinnati, OH |  | Sep 29 | [Apply](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Communications-Externship-Summer-2027_R71878) |

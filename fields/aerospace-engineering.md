@@ -1,6 +1,6 @@
 # Aerospace Engineering: Summer 2027 Internships
 
-33 open Summer 2027 aerospace engineering roles, newest first (all 33). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 72 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
+32 open Summer 2027 aerospace engineering roles, newest first (all 32). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 71 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -10,7 +10,6 @@
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Aerospace Systems Engineering Internship - Undergraduate | Space Coast, FL +1 | \$32.00 | Oct 2 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Aerospace-Systems-Engineering-Internship----Undergraduate_R71436) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Avionics Engineering Internship - Summer 2027 | El Segundo, California, United States +1 |  | Oct 1 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010158003) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Propulsion Engineering Internship - Summer 2027 | El Segundo, California, United States |  | Oct 1 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010169003) |
-| [RTX](https://internscout.org/internships/at/rtx/) | Software Engineering Co-Op (Avionics) (Summer/Fall 2027) (Hybrid) | Aguadilla, PR |  | Oct 1 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineering-Co-Op--Avionics---Summer-Fall-2027---Hybrid-_01874664) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Propulsion Engineer Intern (Summer 2027) | San Francisco |  | Sep 23 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4713184006) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Avionics Intern (Summer 2027) | San Francisco | \$29.00 per hour | Sep 22 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4706024006) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Propulsion Test Intern (Summer 2027) | San Francisco |  | Sep 22 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705640006) |

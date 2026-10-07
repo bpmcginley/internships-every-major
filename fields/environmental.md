@@ -1,9 +1,11 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-111 open Summer 2027 environmental science and engineering roles, newest first (all 111). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 289 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+113 open Summer 2027 environmental science and engineering roles, newest first (all 113). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 297 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Summer 2027 EHS Intern | Cleveland, OH +1 |  | Oct 7 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119770) |
+| [RTX](https://internscout.org/internships/at/rtx/) | EH&S Sustainability Co-op (Summer/Fall 2027) | Remote, CT | Paid | Oct 7 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-REMOTE/EH-S-Sustainability-Co-op--Summer-Fall-2027-_01877332) |
 | [S&C Electric Company](https://internscout.org/internships/at/s-c-electric-company/) | Health & Safety Intern | Chicago, IL | \$22 - 30 per hour | Oct 7 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107376) |
 | [S&C Electric Company](https://internscout.org/internships/at/s-c-electric-company/) | Environmental and Sustainability Intern | Chicago, IL | \$22 - 30 per hour | Oct 7 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107375) |
 | [Northwestern Mutual](https://internscout.org/internships/at/northwestern-mutual/) | Enterprise Sustainability & Impact Intern - Modeling & Analytics | Milwaukee, WI +1 |  | Oct 6 | [Apply](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Enterprise-Sustainability---Impact-Intern---Modeling---Analytics--Summer-2027_JR-46171) |

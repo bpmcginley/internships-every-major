@@ -1,9 +1,10 @@
 # Design: Summer 2027 Internships
 
-60 open Summer 2027 design roles, newest first (all 60). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 156 design internships on InternScout](https://internscout.org/internships/design/)
+61 open Summer 2027 design roles, newest first (all 61). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 159 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Internship - Content Design | California - San Francisco +2 |  | Oct 7 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Internship---Content-Design_JR363232) |
 | [Sanofi](https://internscout.org/internships/at/sanofi/) | 2027 Summer Intern Consumer Experience Product Design Cambridge MA | Cambridge, MA |  | Oct 6 | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-Consumer-Experience-Product-Design-Cambridge-MA_R2866238) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | Summer 2027 Intern - Project Management (Creative Design) | Pasadena, California, United States of America | \$6,100 month | Oct 5 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Pasadena-California-United-States-of-America/Summer-2027-Intern---Project-Management--Creative-Design-_JR-202621826) |
 | [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Product Marketing Graphic Design Intern - Summer 2027 | Pella, IA |  | Oct 5 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253573) |

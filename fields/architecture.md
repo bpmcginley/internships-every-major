@@ -1,9 +1,10 @@
 # Architecture: Summer 2027 Internships
 
-33 open Summer 2027 architecture roles, newest first (all 33). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 72 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+34 open Summer 2027 architecture roles, newest first (all 34). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 72 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Mastercard](https://internscout.org/internships/at/mastercard/) | Security Infrastructure Engineering & Architecture Intern, Summer 2027 – Arlington, VA, US | Arlington, Virginia |  | Oct 7 | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Security-Infrastructure-Engineering---Architecture-Intern--Summer-2027---Arlington--VA--US_R-284924) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Electrical Engineering Intern – Product Architecture (Summer 2027) | Delaware, OH |  | Oct 2 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281025) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Architectural Intern- Summer 2027 | Washington, DC +1 |  | Oct 2 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96700) |
 | [Corning](https://internscout.org/internships/at/corning/) | Intern, Architecture EnginCorning eer - Summer 2027 | Corning, NY |  | Sep 30 | [Apply](https://corningjobs.corning.com/job/Corning-Intern%2C-Architecture-EnginCorning-eer-Summer-2027-NY-14831/1435180300/) |

@@ -1,9 +1,12 @@
 # Sustainability: Summer 2027 Internships
 
-69 open Summer 2027 sustainability roles, newest first (all 69). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 108 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+72 open Summer 2027 sustainability roles, newest first (all 72). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 112 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Tech Internship - Marseilles, IL (ASSOCIATE'S DEGREES ONLY) | Marseilles, Illinois | Paid | Oct 7 | [Apply](https://jobs.constellationenergy.com/jobs/139443) |
+| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Tech Internship - Ontario, NY (ASSOCIATE'S DEGREES ONLY) | Ontario, New York | Paid | Oct 7 | [Apply](https://jobs.constellationenergy.com/jobs/139258) |
+| [RTX](https://internscout.org/internships/at/rtx/) | EH&S Sustainability Co-op (Summer/Fall 2027) | Remote, CT | Paid | Oct 7 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-REMOTE/EH-S-Sustainability-Co-op--Summer-Fall-2027-_01877332) |
 | [S&C Electric Company](https://internscout.org/internships/at/s-c-electric-company/) | Environmental and Sustainability Intern | Chicago, IL | \$22 - 30 per hour | Oct 7 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107375) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Supply Intern (Warrenville, IL) | Warrenville, Illinois |  | Oct 6 | [Apply](https://jobs.constellationenergy.com/jobs/139036) |
 | [Northwestern Mutual](https://internscout.org/internships/at/northwestern-mutual/) | Enterprise Sustainability & Impact Intern - Modeling & Analytics | Milwaukee, WI +1 |  | Oct 6 | [Apply](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Enterprise-Sustainability---Impact-Intern---Modeling---Analytics--Summer-2027_JR-46171) |
@@ -44,7 +47,7 @@
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Transportation/Storage Services: Scheduling | HOUSTON, Texas |  | Sep 8 | [Apply](https://careers.kindermorgan.com/jobs/6219) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Technical Internship - Wharton, TX (ASSOCIATE'S DEGREE ONLY) | Wharton, Texas | Paid | Sep 8 | [Apply](https://jobs.constellationenergy.com/jobs/138675) |
 | Burlington Stores | Sustainability Intern | Burlington, VT |  | Sep 8 | [Apply](https://burlington.wd5.myworkdayjobs.com/BurlingtonCareers/job/00000---Burlington-Corporate-Office/Sustainability-Intern---Summer-2027_R104521) |
-| Moss & Associates | Energy Internship: Summer 2027 | FLORIDA | \$20/HR | Sep 8 | [Apply](https://mosscm.wd1.myworkdayjobs.com/moss_careers/job/FLORIDA/Energy-Internship--Summer-2027_R-2719) |
+| [Moss & Associates](https://internscout.org/internships/at/moss-associates/) | Energy Internship: Summer 2027 | FLORIDA | \$20/HR | Sep 8 | [Apply](https://mosscm.wd1.myworkdayjobs.com/moss_careers/job/FLORIDA/Energy-Internship--Summer-2027_R-2719) |
 | [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | Renewables Engineering Intern - WI | Eau Claire, WI, 54702 +1 | \$23.10 to \$24.60 per hour | Sep 7 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Eau-Claire-WI-54702/Renewables-Engineering-Intern---WI_JR115672-1) |
 | [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | Energy Supply Renewable Intern - MN | Minneapolis, MN +2 |  | Sep 7 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Energy-Supply-Renewable-Intern---MN_JR115609-1) |
 | [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | Renewable Operation Center Intern- CO | Golden, CO, 80401 +1 |  | Sep 7 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Golden-CO-80401/Renewable-Operation-Center-Intern--CO_JR115736-1) |

@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-116 open Summer 2027 human resources roles, newest first (all 116). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 272 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+115 open Summer 2027 human resources roles, newest first (all 115). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 270 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -50,7 +50,6 @@
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Total Rewards and HRIS Intern, Summer 2027 | Boston, MA +3 |  | Sep 14 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Boston-MA/Total-Rewards-and-HRIS--Intern-2027_10017569) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Nuclear Human Resources Operations Intern (Oswego, NY) | Oswego, New York |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138706) |
 | [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Learning and Development Programs Administrator | Duluth, GA |  | Sep 11 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Duluth-GA/Summer-2027-Internship--Learning-and-Development-Programs-Administrator_R2026-2017) |
-| [Medline](https://internscout.org/internships/at/medline/) | Human Resources Intern - Summer 2027 | Northfield, Illinois | \$23.25 - \$33.75 Hour | Sep 11 | [Apply](https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/Human-Resources-Intern---Summer-2027_R2617165) |
 | [Planview](https://internscout.org/internships/at/planview/) | HR Intern | Austin, Texas |  | Sep 10 | [Apply](https://careers.planview.com/jobs/5138) |
 | [Hy-Vee](https://internscout.org/internships/at/hy-vee/) | Human Resources Intern - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA |  | Sep 10 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Human-Resources-Intern---Summer-2027_R251134) |
 | [Hy-Vee](https://internscout.org/internships/at/hy-vee/) | HRIS Intern - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA |  | Sep 10 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/HRIS-Intern---Summer-2027_R251135) |

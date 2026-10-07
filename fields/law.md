@@ -1,6 +1,6 @@
 # Law and Legal: Summer 2027 Internships
 
-105 open Summer 2027 law and legal roles, newest first (all 105). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 271 law and legal internships on InternScout](https://internscout.org/internships/law/)
+104 open Summer 2027 law and legal roles, newest first (all 104). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 274 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -48,7 +48,6 @@
 | [Ocean Spray](https://internscout.org/internships/at/ocean-spray/) | FSQA Compliance & Systems Intern | Lakeville, MA | \$30.00 - \$32.00 | Sep 23 | [Apply](https://oceanspray.wd5.myworkdayjobs.com/OceanSprayJobs/job/Lakeville-MA/FSQA-Compliance---Systems-Intern_R5425) |
 | [The Andersons](https://internscout.org/internships/at/the-andersons/) | Legal Intern (Summer 2027) | Maumee, OH |  | Sep 22 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Legal-Intern--Summer-2027-_R12494) |
 | [Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys](https://internscout.org/internships/at/executive-office-for-u-s-attorneys-and-the-office-of-the-u-s-attorneys/) | Volunteer Law Student Summer 2027 | Fort Myers, Florida +4 | Paid | Sep 21 | [Apply](https://www.usajobs.gov:443/job/885586000) |
-| [Commerce Bank](https://internscout.org/internships/at/commerce-bank/) | Intern - Legal (Summer 2027) | Kansas City Downtown/Plaza - Kansas City - KC Downtown Bank Building (1000 Walnut), MO | \$20.00 - \$20.00 | Sep 21 | [Apply](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Bank-Building-1000-Walnut-64106/Intern-Legal-Summer-2027_38464) |
 | [Fidelity Investments](https://internscout.org/internships/at/fidelity-investments/) | Summer 2027 Undergraduate Internship - Audit, Risk, & Compliance | Boston, MA +5 |  | Sep 21 | [Apply](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Summer-2027-Undergraduate-Internship---Audit--Risk----Compliance_2134161-1) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Law - Houston, TX CLC | Houston, Texas | \$33/ hour | Sep 18 | [Apply](https://jobs.statefarm.com/jobs/45902) |
 | [Kite Pharma](https://internscout.org/internships/at/kite-pharma/) | Intern - Kite Development - Quality Systems, Compliance & Audits and Vendor Quality | United States - California - Santa Monica +1 |  | Sep 16 | [Apply](https://gilead.wd1.myworkdayjobs.com/kitepharmacareers/job/United-States---California---Santa-Monica/Intern---Kite-Development---Quality-Systems--Compliance---Audits-and-Vendor-Quality_R0054997) |

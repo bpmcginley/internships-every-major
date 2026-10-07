@@ -1,6 +1,6 @@
 # Chemical Engineering: Summer 2027 Internships
 
-48 open Summer 2027 chemical engineering roles, newest first (all 48). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 166 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+48 open Summer 2027 chemical engineering roles, newest first (all 48). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 172 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -27,11 +27,11 @@
 | [Momentive](https://internscout.org/internships/at/momentive/) | Summer 2027 Intern - Process Engineering | Garrett, IN |  | Sep 9 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-IN-Garrett/Summer-2027-Intern---Process-Engineering_R9801) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Intern, Process Engineering, Advanced Operations - Tempe | Tempe, Arizona |  | Sep 9 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tempe-Arizona/Intern--Process-Engineering--Advanced-Operations_R572881) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Process Engineer - Florida | Weston, Florida |  | Sep 9 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Weston-Florida/Summer-2027-Internship---Process-Engineer---Florida_R572764) |
-| [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Plant Process Engineer Intern - Summer 2027 | Pella, IA +1 |  | Sep 9 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/252684) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Process Engineering Intern | Del Rio, TX |  | Sep 9 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119147) |
 | [Motorola](https://internscout.org/internships/at/motorola/) | Quality & Process Engineer Summer Internship 2027 | Elgin, IL |  | Sep 9 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Elgin-IL/Quality---Process-Engineer-Summer-Internship-2027_R68673) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Process Engineer Intern, MS - Summer 2027 | Santa Clara, CA |  | Sep 8 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Process-Engineer-Intern--MS---Summer-2027_2603856-1) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Chemical Engineering Intern - Water (Summer 2027) | Houston, TX |  | Sep 1 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007432) |
+| [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Plant Process Engineer Intern - Summer 2027 | Sioux Center, IA +1 |  | Sep 1 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253136) |
 | [Honeywell](https://internscout.org/internships/at/honeywell/) | Chemical Engineering - Summer 2027 Intern (US Person Required) | United States |  | Aug 25 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155526) |
 | [Honeywell](https://internscout.org/internships/at/honeywell/) | Chemical Engineering - Summer 2027 Intern | United States |  | Aug 25 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155524) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Chemical Engineering | Los Angeles, CA | \$30–\$40 per hour | Aug 20 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5376051008) |

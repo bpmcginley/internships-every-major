@@ -1,9 +1,10 @@
 # Materials Science: Summer 2027 Internships
 
-13 open Summer 2027 materials science roles, newest first (all 13). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 30 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
+14 open Summer 2027 materials science roles, newest first (all 14). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 32 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [RTX](https://internscout.org/internships/at/rtx/) | Materials Engineering Lab Co-Op (Summer/Fall 2027) | Cedar Rapids, IA |  | Oct 7 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Materials-Engineering-Lab-Co-Op--Summer-Fall-2027-_01870992) |
 | [Novelis](https://internscout.org/internships/at/novelis/) | Metallurgical Engineering Co-Op | Spokane Valley, WA |  | Sep 30 | [Apply](https://careers-novelis.icims.com/jobs/53215/metallurgical-engineering-co-op/job) |
 | [Helion Energy](https://internscout.org/internships/at/helion-energy/) | Materials Engineering Summer 2027 Intern | Everett, WA |  | Sep 29 | [Apply](https://jobs.ashbyhq.com/helion/56636c72-2c72-4f4f-8334-3b233a235c8d/application) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Interns - Materials Engineer - Whitehall, MI (Summer 2027) | Whitehall, MI |  | Sep 29 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119675) |

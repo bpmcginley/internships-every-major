@@ -1,10 +1,12 @@
 # Hardware Engineering: Summer 2027 Internships
 
-184 open Summer 2027 hardware engineering roles, newest first (all 184). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 513 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+186 open Summer 2027 hardware engineering roles, newest first (all 186). **Updated October 7, 2026.** [Back to every major](../README.md) · [See all 515 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Perception, Robotics | Mountain View, CA, USA | Paid | Oct 7 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8227633) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Software Engineer Intern - Embedded Systems | Redmond, WA +1 |  | Oct 7 | [Apply](https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) |
+| [Garmin](https://internscout.org/internships/at/garmin/) | FPGA Engineer Intern | Olathe, Kansas |  | Oct 7 | [Apply](https://careers.garmin.com/jobs/19836) |
 | [Nokia](https://internscout.org/internships/at/nokia/) | ASIC Physical Design Co-op | San Jose, CA +1 |  | Oct 6 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41122) |
 | [Alliance Laundry Systems](https://internscout.org/internships/at/alliance-laundry-systems/) | Embedded Firmware Co-op | Ripon, WI |  | Oct 6 | [Apply](https://uscareeropenings-alliancelaundry.icims.com/jobs/13348/job?mobile=true&needsRedirect=false) |
 | Renesas Electronics | Post Silicon Validation Intern | Duluth, GA |  | Oct 6 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000153840059) |
