@@ -1,6 +1,6 @@
 # Design: Summer 2027 Internships
 
-61 open Summer 2027 design roles, newest first (all 61). **Updated October 8, 2026.** [Back to every major](../README.md) · [See all 161 design internships on InternScout](https://internscout.org/internships/design/)
+61 open Summer 2027 design roles, newest first (all 61). **Updated October 8, 2026.** [Back to every major](../README.md) · [See all 162 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Meijer](https://internscout.org/internships/at/meijer/) | IT User Experience Intern- Summer 2027 | Grand Rapids, MI |  | Sep 8 | [Apply](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/IT-User-Experience-Intern--Summer-2027_R000698305) |
 | [Skydio](https://internscout.org/internships/at/skydio/) | Product Design Engineer Intern - Summer 2027 | San Mateo, California, United States +2 | \$41/hr | Sep 4 | [Apply](https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f/application) |
 | [DoorDash](https://internscout.org/internships/at/doordash/) | Product Design, Intern (Summer 2027) | San Francisco, CA +1 | Paid | Sep 3 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) |
-| Roblox | \[Summer 2027\] Product Design Intern | San Mateo, CA, United States | Paid | Sep 2 | [Apply](https://careers.roblox.com/jobs/8143984?gh_jid=8143984) |
+| [Roblox](https://internscout.org/internships/at/roblox/) | \[Summer 2027\] Product Design Intern | San Mateo, CA, United States | Paid | Sep 2 | [Apply](https://careers.roblox.com/jobs/8143984?gh_jid=8143984) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | Product Design Intern (Summer 2027) | Tysons Corner, Virginia | Paid | Aug 31 | [Apply](https://careers.cvent.com/jobs/10764) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Quantitative UX Researcher, Growth/International Expansion | San Francisco, California, United States | Paid | Aug 28 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8163364) |
 | Virtu Financial | Frontend & User Experience Intern | New York, NY |  | Jul 30 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002) |

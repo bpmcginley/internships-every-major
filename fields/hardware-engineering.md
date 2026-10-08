@@ -1,9 +1,11 @@
 # Hardware Engineering: Summer 2027 Internships
 
-186 open Summer 2027 hardware engineering roles, newest first (all 186). **Updated October 8, 2026.** [Back to every major](../README.md) · [See all 525 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+186 open Summer 2027 hardware engineering roles, newest first (all 186). **Updated October 8, 2026.** [Back to every major](../README.md) · [See all 522 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Rugged Robotics](https://internscout.org/internships/at/rugged-robotics/) | Robotics Software Intern Co-op | Houston, TX |  | Oct 8 | [Apply](https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005) |
+| [Draper](https://internscout.org/internships/at/draper/) | Integrated Circuits Intern (Summer 2027) | Cambridge, MA |  | Oct 8 | [Apply](https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Integrated-Circuits-Intern_JR002973) |
 | [Garmin](https://internscout.org/internships/at/garmin/) | FPGA Engineer Intern | Olathe, KS +1 |  | Oct 7 | [Apply](https://careers.garmin.com/jobs/19836?icims=1) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Perception, Robotics | Mountain View, CA, USA +1 | Paid | Oct 7 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8227633) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Software Engineer Intern - Embedded Systems | Redmond, WA +1 |  | Oct 7 | [Apply](https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) |
@@ -59,7 +61,7 @@
 | [Symbotic](https://internscout.org/internships/at/symbotic/) | Intern - Hardware Engineer | USA Wilmington, MA - ITC +1 |  | Sep 22 | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington-MA---ITC/Hardware-Engineer_R8101) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Analog Layout Intern - BS | Irvine, CA +1 | Paid | Sep 22 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Layout-Intern--BS---Summer-2027_2604735-1) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, BS/MS, Embedded, Software Engineer | Mountain View, CA, USA +1 |  | Sep 21 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8221198) |
-| [AeroVironment](https://internscout.org/internships/at/aerovironment/) | Summer 2027 Autonomy & Robotics Engineering Intern | Moorpark, CA | Paid | Sep 21 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8551) |
+| [AeroVironment](https://internscout.org/internships/at/aerovironment/) | Summer 2027 Autonomy & Robotics Engineering Intern | Moorpark, CA +13 |  | Sep 21 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8551) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Embedded Engineering Internship - Summer 2027 | San Diego, CA +2 |  | Sep 21 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720737089) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Silicon Validation Intern | Toronto, ON +1 |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721143274) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Hardware (CPU, GPU, SoC, Digital Design, DV) Engineering Internship – Summer 2027 | San Diego, CA +4 |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720740649) |
@@ -119,7 +121,6 @@
 | [Marvell](https://internscout.org/internships/at/marvell/) | Analog Design Intern | Santa Clara, CA +1 |  | Sep 4 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Design Verification Intern - BS - Summer 2027 | Morrisville, NC +4 | Paid | Sep 4 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505) |
 | [Tesla](https://internscout.org/internships/at/tesla/) | Embedded Software Engineer Intern - Optimus | Palo Alto, CA |  | Sep 3 | [Apply](https://www.tesla.com/careers/search/job/282340) |
-| Susquehanna International Group | FPGA Engineer Intern | Bala Cynwyd, PA |  | Sep 3 | [Apply](https://careers-sig.icims.com/jobs/11446/job?mobile=true&needsRedirect=false) |
 | [Shure](https://internscout.org/internships/at/shure/) | Automated Test Engineer Intern - Hardware | Niles, IL |  | Sep 3 | [Apply](https://careersus-shure.icims.com/jobs/4960/job?mobile=true&needsRedirect=false) |
 | [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineer Intern - Digital Circuitry & Test Automation | Niles, IL |  | Sep 3 | [Apply](https://careersus-shure.icims.com/jobs/5028/job?mobile=true&needsRedirect=false) |
 | [Shure](https://internscout.org/internships/at/shure/) | FPGA Development Intern | Niles, IL |  | Sep 3 | [Apply](https://careersus-shure.icims.com/jobs/4985/job?mobile=true&needsRedirect=false) |
@@ -152,7 +153,6 @@
 | [Honeywell](https://internscout.org/internships/at/honeywell/) | Embedded Engineer - Summer 2027 Intern (US Person Required) | United States |  | Aug 25 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155561) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 Masters ASIC Package Engineering Co-op/Intern | Austin, Texas +7 |  | Aug 25 | [Apply](https://careers.amd.com/jobs/91469) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 Undergrad ASIC Package Engineering Co-op/Intern | Austin, Texas +15 |  | Aug 25 | [Apply](https://careers.amd.com/jobs/91466) |
-| Daktronics | Hardware Design Co-op Intern - Firmware | Brookings, SD |  | Aug 24 | [Apply](https://careers-daktronics.icims.com/jobs/7518/job?mobile=true&needsRedirect=false) |
 | HPR | FPGA Engineering Intern | Needham, MA | Paid | Aug 21 | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003) |
 | [AMD](https://internscout.org/internships/at/amd/) | Firmware Engineer Intern/Co-op | Secaucus, NJ +12 |  | Aug 21 | [Apply](https://careers.amd.com/jobs/90801?icims=1) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 Undergrad Hardware Design Verification Engineering Co-op/Intern | Austin, Texas +6 |  | Aug 20 | [Apply](https://careers.amd.com/jobs/90811) |

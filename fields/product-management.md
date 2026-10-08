@@ -1,6 +1,6 @@
 # Product Management: Summer 2027 Internships
 
-144 open Summer 2027 product management roles, newest first (all 144). **Updated October 8, 2026.** [Back to every major](../README.md) · [See all 240 product management internships on InternScout](https://internscout.org/internships/product-management/)
+143 open Summer 2027 product management roles, newest first (all 143). **Updated October 8, 2026.** [Back to every major](../README.md) · [See all 238 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -9,7 +9,6 @@
 | [Hewlett Packard (HP)](https://internscout.org/internships/at/hewlett-packard-hp/) | Software Product Management Intern | Austin, Texas, United States of America +1 |  | Oct 7 | [Apply](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Austin-Texas-United-States-of-America/Software-Product-Management-Intern_UNI4516-1) |
 | [Electronic Arts](https://internscout.org/internships/at/electronic-arts/) | Product Management Intern | Austin, TX |  | Oct 6 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182) |
 | Cadence Solutions | Product Management Intern | Remote +1 |  | Oct 6 | [Apply](https://job-boards.greenhouse.io/solutions/jobs/4715294006) |
-| [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Card Product Management/Business to Business Payments (NYC, NY) | New York, New York +1 |  | Oct 6 | [Apply](https://firstcitizens.jibeapply.com/jobs/35886) |
 | Mohawk | Product Management Intern | Calhoun, GA |  | Oct 5 | [Apply](https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors) |
 | Koch Industries | Product Management Intern | Eden Prairie, MN +1 |  | Oct 3 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/195099) |
 | [Electronic Arts](https://internscout.org/internships/at/electronic-arts/) | Product Manager Intern | LA |  | Oct 3 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Product-Manager-Intern-MBA-Level-Summer-2027-Apex-Legends/216272) |
@@ -84,7 +83,7 @@
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | R&D Product Development Intern (Northbrook IL) - Summer 2027 - Campus Recruiting | Northbrook, IL |  | Sep 8 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35735) |
 | [Ernst & Young](https://internscout.org/internships/at/ernst-young/) | Product Manager Intern - Tax - Other Tax | NYC |  | Sep 4 | [Apply](https://eyglobal.yello.co/jobs/ScWvvhAQZFvHMXityc1Mgw?job_board_id=c1riT--B2O-KySgYWsZO1Q) |
 | [DIRECTV](https://internscout.org/internships/at/directv/) | DIRECTV for Business Product Development Intern | Clarksburg, MD |  | Sep 4 | [Apply](https://directv.wd1.myworkdayjobs.com/careers/job/Clarksburg-MD/DIRECTV-for-Business-Product-Development-Intern_R260276) |
-| Roblox | Product Management Intern | San Mateo, CA +1 | Paid | Sep 3 | [Apply](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) |
+| [Roblox](https://internscout.org/internships/at/roblox/) | Product Management Intern | San Mateo, CA +1 | Paid | Sep 3 | [Apply](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem | San Jose, CA |  | Sep 3 | [Apply](https://lifeattiktok.com/search/7677493272788683013) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Product Management Intern - Conferencing | Niles, IL |  | Sep 3 | [Apply](https://careersus-shure.icims.com/jobs/4990/job?mobile=true&needsRedirect=false) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Product Management Data Intern | Niles, IL |  | Sep 3 | [Apply](https://careersus-shure.icims.com/jobs/5024/job?mobile=true&needsRedirect=false) |

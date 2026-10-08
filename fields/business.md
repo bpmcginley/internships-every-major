@@ -1,9 +1,11 @@
 # Business: Summer 2027 Internships
 
-76 open Summer 2027 business roles, newest first (all 76). **Updated October 8, 2026.** [Back to every major](../README.md) · [See all 145 business internships on InternScout](https://internscout.org/internships/business/)
+78 open Summer 2027 business roles, newest first (all 78). **Updated October 8, 2026.** [Back to every major](../README.md) · [See all 150 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Business Partner Optimization | Detroit, MI |  | Oct 8 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14782) |
+| [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern-Business Performance | Detroit, MI |  | Oct 8 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14911) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Business Process Mining & Intelligence Analyst Intern, BS - Summer 2027 | Santa Clara, CA | Paid | Oct 7 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Business-Process-Mining---Intelligence-Analyst-Intern--BS---Summer-2027_2603844-1) |
 | [Baird](https://internscout.org/internships/at/baird/) | Internship – Business Transformation (Milwaukee, WI Summer 2027) | WI-Milwaukee |  | Oct 7 | [Apply](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Business-Transformation--Milwaukee--WI-Summer-2027-_R20261133-1) |
 | [Abbott](https://internscout.org/internships/at/abbott/) | 2027 Abbott MBA Internship | United States - Illinois - Abbott Park +2 | \$86,700.00 – \$173,300.00 | Oct 5 | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/XMLNAME-2027-Abbott-MBA-Internship_31160732) |

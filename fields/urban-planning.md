@@ -1,6 +1,6 @@
 # Urban Planning: Summer 2027 Internships
 
-39 open Summer 2027 urban planning roles, newest first (all 39). **Updated October 8, 2026.** [Back to every major](../README.md) · [See all 79 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+40 open Summer 2027 urban planning roles, newest first (all 40). **Updated October 8, 2026.** [Back to every major](../README.md) · [See all 79 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Southern Star Central Gas Pipeline](https://internscout.org/internships/at/southern-star-central-gas-pipeline/) | GIS Analyst Intern | Owensboro, KY |  | Sep 1 | [Apply](https://careers-sscgp.icims.com/jobs/3036/job?mobile=true&needsRedirect=false) |
 | [Elk Valley Resources](https://internscout.org/internships/at/elk-valley-resources/) | May 2027 Geographic Information Systems (GIS) Co-op | Calgary, AB +1 |  | Aug 26 | [Apply](https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply) |
 | [Vanasse Hangen Brustlin (VHB)](https://internscout.org/internships/at/vanasse-hangen-brustlin-vhb/) | Environmental Planning Intern - Summer 2027 | Hauppauge, NY | \$19 to \$30 | Oct 8, 2024 | [Apply](https://careers-vhb.icims.com/jobs/6339/environmental-planning-intern---summer-2027/job) |
+| [KCI Technologies](https://internscout.org/internships/at/kci-technologies/) | Planning Intern (Summer 2027) | Nashville, TN |  | Oct 8 | [Apply](https://careers-kci.icims.com/jobs/8144/planning-intern-%28summer-2027%29/job) |
 | [Vanasse Hangen Brustlin (VHB)](https://internscout.org/internships/at/vanasse-hangen-brustlin-vhb/) | Transportation Planning Intern - Summer 2027 | Atlanta, GA |  | Oct 1 | [Apply](https://careers-vhb.icims.com/jobs/6380/transportation-planning-intern---summer-2027/job) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Returning Planning Intern- Summer 2027- Central Division (For Current/Former HNTB Interns Only) | Dallas, TX +16 |  | Sep 25 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Dallas-TX/Returning-Planning-Intern--Summer-2027--Central-Division--For-Current-Former-HNTB-Interns-Only-_R-31088-1) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Planning Intern - Summer 2027 | Chicago, IL | \$23.18 - \$34.76 | Sep 18 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Chicago-IL/Planning-Intern---Summer-2027_R-31365-1) |

@@ -1,6 +1,6 @@
 # Law and Legal: Summer 2027 Internships
 
-105 open Summer 2027 law and legal roles, newest first (all 105). **Updated October 8, 2026.** [Back to every major](../README.md) · [See all 276 law and legal internships on InternScout](https://internscout.org/internships/law/)
+105 open Summer 2027 law and legal roles, newest first (all 105). **Updated October 8, 2026.** [Back to every major](../README.md) · [See all 278 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | Legal Intern (Summer 2027) | Remote | \$45/hour | Sep 30 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5253395007) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Legal Internship - Summer 2027 | Lansing, MI |  | Sep 30 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Legal-Internship---Summer-2027_R_14649) |
 | [Internal Revenue Service](https://internscout.org/internships/at/internal-revenue-service/) | Summer Intern (Legal Administrative Specialist) | Birmingham, Alabama +45 | \$61722 - \$100315 Per Year | Sep 29 | [Apply](https://www.usajobs.gov:443/job/886742000) |
-| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Abandoned and Unclaimed Property Compliance | King of Prussia PA +1 |  | Sep 29 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/King-of-Prussia/Summer-2027-Intern--Abandoned-and-Unclaimed-Property-Compliance_R0020714) |
+| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Abandoned and Unclaimed Property Compliance | King of Prussia PA +1 |  | Sep 29 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/King-of-Prussia/Summer-2027-Intern--Abandoned-and-Unclaimed-Property-Compliance_R0020714-1) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Commercial Agreements Legal Intern (2027 Summer) | USA - Vermont - Essex Junction |  | Sep 29 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Commercial-Agreements-Legal-Intern--2027-Summer-_JR-2604244) |
 | [Fidelity National Information Services](https://internscout.org/internships/at/fidelity-national-information-services/) | Legal and Compliance Intern Pipeline | Jax 347, FL +2 | Paid | Sep 29 | [Apply](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Legal-and-Compliance--FIS-University-Program_JR0309694) |
 | [ACLU Kentucky](https://internscout.org/internships/at/aclu-kentucky/) | Summer 2027 Legal Intern, Voting Rights Project | Hybrid-New York City +1 |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8853159002) |
@@ -53,7 +53,7 @@
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Law - Houston, TX CLC | Houston, Texas | \$33/ hour | Sep 18 | [Apply](https://jobs.statefarm.com/jobs/45902) |
 | [Kite Pharma](https://internscout.org/internships/at/kite-pharma/) | Intern - Kite Development - Quality Systems, Compliance & Audits and Vendor Quality | United States - California - Santa Monica +1 |  | Sep 16 | [Apply](https://gilead.wd1.myworkdayjobs.com/kitepharmacareers/job/United-States---California---Santa-Monica/Intern---Kite-Development---Quality-Systems--Compliance---Audits-and-Vendor-Quality_R0054997) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Law - San Diego, CA CLC | San Diego, California | \$2,000 | Sep 16 | [Apply](https://jobs.statefarm.com/jobs/46127) |
-| Emergent Holdings | Summer 2027 Intern - Program Oversight/Marketing Compliance | Detroit, MI |  | Sep 16 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14772) |
+| [Emergent Holdings](https://internscout.org/internships/at/emergent-holdings/) | Summer 2027 Intern - Program Oversight/Marketing Compliance | Detroit, MI |  | Sep 16 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14772) |
 | [Dallas Fort Worth International Airport](https://internscout.org/internships/at/dallas-fort-worth-international-airport/) | 2027 Undergraduate Summer Internship - Fire Regulatory Compliance & Planning | DPS Headquarters, TX |  | Sep 15 | [Apply](https://dfwairport.wd5.myworkdayjobs.com/External/job/DPS-Headquarters/XMLNAME-2027-Undergraduate-Summer-Internship---Fire-Regulatory-Compliance---Planning_JR102115) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Public Policy Intern (Kennett Square, PA) | Kennett Square, Pennsylvania |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138711) |
 | [Huntington Bancshares](https://internscout.org/internships/at/huntington-bancshares/) | Summer 2027 Law Clerk Internship | Columbus, OH |  | Sep 11 | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Legal-Internship_R0075231) |

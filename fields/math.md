@@ -1,9 +1,10 @@
 # Math: Summer 2027 Internships
 
-44 open Summer 2027 math roles, newest first (all 44). **Updated October 8, 2026.** [Back to every major](../README.md) · [See all 71 math internships on InternScout](https://internscout.org/internships/math/)
+45 open Summer 2027 math roles, newest first (all 45). **Updated October 8, 2026.** [Back to every major](../README.md) · [See all 71 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| MassMutual Ascend | Actuarial Internship - Summer 2027 | Cincinnati, OH |  | Oct 8 | [Apply](https://massmutual.wd1.myworkdayjobs.com/MMAscendCareers/job/Cincinnati-OH/Actuarial-Internship---Summer-2027_R21601) |
 | National Interstate Insurance | Actuarial Intern- Summer 2027 | Richfield, OH (USA) |  | Oct 8 | [Apply](https://gaig.wd1.myworkdayjobs.com/National_Interstate_External/job/Richfield-OH-USA/Actuarial-Intern--Summer-2027_R9665) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Actuarial Intern- Summer 2027 | Richfield, OH (USA) |  | Oct 8 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Richfield-OH-USA/Actuarial-Intern--Summer-2027_R9665-1) |
 | [Marsh](https://internscout.org/internships/at/marsh/) | Oliver Wyman Actuarial - Internship - Summer 2027 | New York - 1166 +2 | \$1,350 – 1,600 | Oct 7 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Oliver-Wyman-Actuarial---Internship---Summer-2027_R_356561) |
@@ -24,7 +25,7 @@
 | [SCOR](https://internscout.org/internships/at/scor/) | Actuarial Intern | Charlotte, North Carolina |  | Sep 25 | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5435) |
 | [Pacific Life](https://internscout.org/internships/at/pacific-life/) | Summer 2027 Actuarial Intern (Newport Beach) | Newport Beach CA-700 | \$26.00 per hour | Sep 21 | [Apply](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Actuarial-Intern--Newport-Beach-_R17460) |
 | [Centene](https://internscout.org/internships/at/centene/) | Actuarial Summer 2027 Intern (Undergraduate) | Remote-MO | \$21.00 - \$26.00 per hour | Sep 18 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Actuarial-Summer-2027-Intern--Undergraduate-_1660519) |
-| [AIG](https://internscout.org/internships/at/aig/) | 2027 Early Careers: Summer Intern, Actuarial – United States, Multiple Locations | NY-New York +4 |  | Sep 18 | [Apply](https://aig.wd1.myworkdayjobs.com/early_careers/job/NY-New-York/XMLNAME-2027-Early-Careers--Summer-Intern--Actuarial---United-States--Multiple-Locations_JR2603637) |
+| [AIG](https://internscout.org/internships/at/aig/) | 2027 Early Careers: Summer Intern, Actuarial – United States, Multiple Locations | NY-New York +4 |  | Sep 18 | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/NY-New-York/XMLNAME-2027-Early-Careers--Summer-Intern--Actuarial---United-States--Multiple-Locations_JR2603637-1) |
 | [Excellus BCBS](https://internscout.org/internships/at/excellus-bcbs/) | College Intern - Summer 2027- Actuarial (Multiple Openings!) | Buffalo +2 | Paid | Sep 17 | [Apply](https://lthc.wd1.myworkdayjobs.com/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027--Actuarial--Multiple-Openings--_JR104038) |
 | [Marsh](https://internscout.org/internships/at/marsh/) | Health and Benefits Actuarial Summer Intern- Southeast market- College Program 2027 | Washington - Conn Ave NW |  | Sep 14 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Atlanta---Lenox/Health-Consulting-Actuarial-Summer-Intern--Southeast-Market--College-Program-2027_R_365784) |
 | [Pacific Life](https://internscout.org/internships/at/pacific-life/) | Summer 2027 Actuarial Intern (Omaha) | Omaha NE-6750 |  | Sep 11 | [Apply](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Omaha-NE-6750/Summer-2027-Actuarial-Intern--Omaha-_R17461) |

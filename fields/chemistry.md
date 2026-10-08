@@ -1,9 +1,10 @@
 # Chemistry: Summer 2027 Internships
 
-14 open Summer 2027 chemistry roles, newest first (all 14). **Updated October 8, 2026.** [Back to every major](../README.md) · [See all 41 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
+15 open Summer 2027 chemistry roles, newest first (all 15). **Updated October 8, 2026.** [Back to every major](../README.md) · [See all 42 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Sanofi](https://internscout.org/internships/at/sanofi/) | 2027 Summer Intern - Computational Medicinal Chemistry, Cambridge, MA | Cambridge, MA | Paid | Oct 8 | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern---Computational-Medicinal-Chemistry--Cambridge--MA_R2865701) |
 | [Momentive](https://internscout.org/internships/at/momentive/) | Summer 2027 Intern-Intern for Product Development Lab (Chemistry) | Waterford, NY |  | Oct 6 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/Summer-2027-Intern-Intern-for-Product-Development-Lab--Chemistry-_R9810) |
 | [Momentive](https://internscout.org/internships/at/momentive/) | Summer 2027 Intern - Analytical Chemist | Waterford, NY | \$22.00 - \$26.00 | Sep 28 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/Summer-2027-Intern---Analytical-Chemist_R9765) |
 | LabCorp | Commercial Analytics Intern - ED/Chemistry Solutions Commercial Analytics Team | Remote +1 |  | Sep 24 | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/USA----WI---Milwaukee---3727-W-Wisconsin-Avenue/Intern---Commercial-Analytics_2633615) |

@@ -4,8 +4,8 @@
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Property Management Summer 2027 Internship - San Francisco, CA | New York, NY +1 |  | Oct 8 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Francisco-CA/Property-Management-Summer-2027-Internship---San-Francisco--CA_REQ540476) |
 | [KeyBank](https://internscout.org/internships/at/keybank/) | 2027 Summer Real Estate Capital Internship - Boston IPG | Boston, MA | \$27 per hour | Oct 7 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Boston-MA/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Boston-IPG_R-41558) |
-| [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Property Management Summer 2027 Internship - Dallas, TX | New York, NY +3 |  | Oct 6 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Property-Management-Summer-2027-Internship---Dallas--TX_REQ540219) |
 | [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Industrial Property Management Summer 2027 Internship - Denver, CO | Denver, CO |  | Oct 6 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Denver-CO/Industrial-Property-Management-Summer-2027-Internship---Denver--CO_REQ540471) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - Real Estate Services | Houston, TX |  | Oct 2 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Houston-TX/XMLNAME-2027-Intern---Real-Estate-Services_R-0000033572) |
 | [Upbound Group](https://internscout.org/internships/at/upbound-group/) | Property Management Intern | Plano, TX |  | Oct 1 | [Apply](https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Property-Management-Intern_R-100784) |

@@ -1,9 +1,11 @@
 # Sustainability: Summer 2027 Internships
 
-73 open Summer 2027 sustainability roles, newest first (all 73). **Updated October 8, 2026.** [Back to every major](../README.md) · [See all 114 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+75 open Summer 2027 sustainability roles, newest first (all 75). **Updated October 8, 2026.** [Back to every major](../README.md) · [See all 116 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Sustainability Intern | Pittsburgh, Pennsylvania | Paid | Oct 8 | [Apply](https://careers.trccompanies.com/jobs/27037) |
+| [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Sustainable Mobility (New York) | New York, NY +2 |  | Oct 8 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/New-York-NY/XMLNAME-2027-Summer-Intern--Sustainable-Mobility--New-York-_R2603406) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Sustainability and Philanthropy Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Sustainability-and-Philanthropy-Intern---Summer-2027---Franklin--TN_R00214221) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Tech Internship - Marseilles, IL (ASSOCIATE'S DEGREES ONLY) | Marseilles, Illinois | Paid | Oct 7 | [Apply](https://jobs.constellationenergy.com/jobs/139443) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Tech Internship - Ontario, NY (ASSOCIATE'S DEGREES ONLY) | Ontario, New York | Paid | Oct 7 | [Apply](https://jobs.constellationenergy.com/jobs/139258) |

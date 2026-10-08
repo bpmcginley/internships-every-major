@@ -1,6 +1,6 @@
 # Media: Summer 2027 Internships
 
-41 open Summer 2027 media roles, newest first (all 41). **Updated October 8, 2026.** [Back to every major](../README.md) · [See all 117 media internships on InternScout](https://internscout.org/internships/media/)
+40 open Summer 2027 media roles, newest first (all 40). **Updated October 8, 2026.** [Back to every major](../README.md) · [See all 116 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -28,7 +28,6 @@
 | [Dow Jones](https://internscout.org/internships/at/dow-jones/) | Summer 2027 Internship Program – Client Associate Intern | New York City |  | Sep 14 | [Apply](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/New-York-City/Summer-2027-Internship-Program---Client-Associate-Intern_Job_Req_55288) |
 | [Dow Jones](https://internscout.org/internships/at/dow-jones/) | Summer 2027 Internship Program – Video Intern | New York City |  | Sep 14 | [Apply](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/New-York-City/Summer-2027-Internship-Program---Video-Intern_Job_Req_55315) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Graphic Design & Creative Media Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138723) |
-| [ibotta](https://internscout.org/internships/at/ibotta/) | B2B Creative Marketing Intern | Hybrid - Denver +2 | \$23.08 per hour | Sep 11 | [Apply](https://jobs.ashbyhq.com/ibotta/82e85e87-4cd4-4cda-bc74-08d3d59436bf/application) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Video Production Intern, Summer 2027 | North Andover, MA |  | Sep 11 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Video-Production-Intern--Summer-2027_10017537) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Datebook Intern, Summer 2027 | San Francisco, CA |  | Sep 10 | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027463) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Visuals Intern, Summer 2027 | San Francisco, CA |  | Sep 10 | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027464) |

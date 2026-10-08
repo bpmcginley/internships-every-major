@@ -1,9 +1,10 @@
 # Agriculture: Summer 2027 Internships
 
-15 open Summer 2027 agriculture roles, newest first (all 15). **Updated October 8, 2026.** [Back to every major](../README.md) · [See all 44 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
+16 open Summer 2027 agriculture roles, newest first (all 16). **Updated October 8, 2026.** [Back to every major](../README.md) · [See all 45 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Wildlife Biologist (Austin, TX) | Austin, TX (TX18) +1 |  | Oct 8 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Austin-TX-TX18/XMLNAME-2027-Summer-Intern--Wildlife-Biologist--Austin--TX-_R2603412) |
 | [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Snacking Quality and Food Safety Internship | USA-Illinois-Burr Ridge +3 | Paid | Oct 6 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Illinois-Burr-Ridge/Summer-2027-Mars-Snacking-Quality-and-Food-Safety-Internship_R168943) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | Beef Veterinarian Intern - US Farm Animal (Summer 2027) | US Territory Field based |  | Oct 2 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/US-Territory-Field-based/Beef-Veterinarian-Intern---US-Farm-Animal--Summer-2027-_R0027425) |
 | [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Veterinary Centers of America (VCA) Finance Internship | USA-California-Los Angeles | Paid | Oct 2 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-California-Los-Angeles/Summer-2027-Mars-Veterinary-Centers-of-America--VCA--Finance-Internship_R168621-1) |
