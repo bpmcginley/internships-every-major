@@ -1,11 +1,12 @@
 # Hardware Engineering: Summer 2027 Internships
 
-188 open Summer 2027 hardware engineering roles, newest first (all 188). **Updated October 9, 2026.** [Back to every major](../README.md) · [See all 523 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+187 open Summer 2027 hardware engineering roles, newest first (all 187). **Updated October 9, 2026.** [Back to every major](../README.md) · [See all 521 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Rivian](https://internscout.org/internships/at/rivian/) | Controls, Automation & Embedded Software - Summer 2027 Internships | Palo Alto, California +1 | \$33.00-51.00 per hour | Oct 9 | [Apply](https://careers.rivian.com/jobs/34310) |
+| [Draper](https://internscout.org/internships/at/draper/) | Integrated Circuits Intern (Summer 2027) | Cambridge, MA |  | Oct 9 | [Apply](https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Integrated-Circuits-Intern_JR002973) |
 | [Rugged Robotics](https://internscout.org/internships/at/rugged-robotics/) | Robotics Software Intern Co-op | Houston, TX |  | Oct 8 | [Apply](https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005) |
-| [Draper](https://internscout.org/internships/at/draper/) | Integrated Circuits Intern (Summer 2027) | Cambridge, MA |  | Oct 8 | [Apply](https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Integrated-Circuits-Intern_JR002973) |
 | [Garmin](https://internscout.org/internships/at/garmin/) | FPGA Engineer Intern | Olathe, KS +1 |  | Oct 7 | [Apply](https://careers.garmin.com/jobs/19836?icims=1) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Perception, Robotics | Mountain View, CA, USA +1 | Paid | Oct 7 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8227633) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Software Engineer Intern - Embedded Systems | Redmond, WA +1 |  | Oct 7 | [Apply](https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) |
@@ -111,7 +112,6 @@
 | [Solidigm](https://internscout.org/internships/at/solidigm/) | Software Development & Firmware Engineering Intern - Multiple Teams | Rancho Cordova, CA +2 |  | Sep 5 | [Apply](https://jobs.smartrecruiters.com/Solidigm/744000147613629) |
 | [Solidigm](https://internscout.org/internships/at/solidigm/) | Hardware & Product Development Engineering Intern | Rancho Cordova, CA |  | Sep 5 | [Apply](https://jobs.smartrecruiters.com/Solidigm/744000147613839) |
 | [Solidigm](https://internscout.org/internships/at/solidigm/) | Hardware, Electrical Validation and Product Engineering Intern - Validation | Rancho Cordova, CA |  | Sep 5 | [Apply](https://jobs.smartrecruiters.com/Solidigm/744000147613779) |
-| [Marvell](https://internscout.org/internships/at/marvell/) | Advanced Packaging Intern, MS - Summer 2027 | Santa Clara, CA +5 |  | Sep 5 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519-1) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Software Development Engineer Intern - Robotics | Seattle, WA +6 |  | Sep 4 | [Apply](https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Firmware Engineer Intern | Santa Clara, CA +3 |  | Sep 4 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Analog Design Intern - MS | Santa Clara, CA +1 | Paid | Sep 4 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510-1) |
@@ -189,7 +189,6 @@
 | [Field AI](https://internscout.org/internships/at/field-ai/) | Robotics Research Internship-Locomotion & Planning (2027) | Irvine, CA |  | Feb 17 | [Apply](https://jobs.lever.co/field-ai/ce04c5b3-17c3-49aa-b833-a6bebbf9d23f/apply) |
 | [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering (Pro Audio Circuitry) Intern | Niles, IL | \$23-\$43 per hour | Oct 9, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5017/electrical-engineering-%28pro-audio-circuitry%29-intern/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering Intern (Digital Circuitry & Test Automation) | Niles, IL |  | Oct 9, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5028/electrical-engineering-intern-%28digital-circuitry-%26-test-automation%29/job) |
-| [Marvell](https://internscout.org/internships/at/marvell/) | Advanced Packaging Intern, BS - Summer 2027 | Burlington, VT |  | Sep 18 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Advanced-Packaging-Intern--BS---Summer-2027_2604156-1) |
 | [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering Intern (RF Circuitry) | Niles, IL |  | Sep 18 | [Apply](https://careersus-shure.icims.com/jobs/4984/electrical-engineering-intern-%28rf-circuitry%29/job) |
 | [Western & Southern Financial Group](https://internscout.org/internships/at/western-southern-financial-group/) | Hardware Service Desk Intern (Summer and Fall 2027) | CINCINNATI, OH |  | Sep 18 | [Apply](https://careers-westernsouthern.icims.com/jobs/25411/hardware-service-desk-intern-%28summer-and-fall-2027%29/job) |
 

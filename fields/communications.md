@@ -1,9 +1,10 @@
 # Communications: Summer 2027 Internships
 
-45 open Summer 2027 communications roles, newest first (all 45). **Updated October 9, 2026.** [Back to every major](../README.md) · [See all 148 communications internships on InternScout](https://internscout.org/internships/communications/)
+46 open Summer 2027 communications roles, newest first (all 46). **Updated October 9, 2026.** [Back to every major](../README.md) · [See all 151 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Jabil](https://internscout.org/internships/at/jabil/) | Marketing & Communications Intern | Austin, TX |  | Oct 9 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Marketing---Communications-Intern_J2467203) |
 | [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Communications Internship - New York, NY | New York, NY |  | Oct 8 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Communications-Internship---New-York--NY_REQ534207) |
 | [Huntington Bancshares](https://internscout.org/internships/at/huntington-bancshares/) | Summer 2027 Communications Internship | Columbus, OH +1 |  | Oct 8 | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Communications-Internship_R0075593) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | NMAC Marketing Communications Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/NMAC-Marketing-Communications-Intern---Summer-2027---Franklin--TN_R00214252) |
@@ -25,7 +26,7 @@
 | [Ensign-Bickford Industries](https://internscout.org/internships/at/ensign-bickford-industries/) | Communications Intern | Simsbury, CT |  | Sep 16 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Communications-Intern_REQ107700-1) |
 | [Ensign-Bickford Aerospace & Defense Company](https://internscout.org/internships/at/ensign-bickford-aerospace-defense-company/) | Communications Intern | Simsbury, CT |  | Sep 16 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Communications-Intern_REQ107700) |
 | [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | Communications & Knowledge Management Intern - MN | Minneapolis, MN, 55401 +1 |  | Sep 14 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Communications---Knowledge-Management-Intern---MN_JR115717-1) |
-| [Marvell](https://internscout.org/internships/at/marvell/) | Technical Writer Intern, BS/BA - Summer 2027 | Santa Clara, CA |  | Sep 14 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Technical-Writer-Intern--BS-BA---Summer-2027_2604149) |
+| [Marvell](https://internscout.org/internships/at/marvell/) | Technical Writer Intern, BS/BA - Summer 2027 | Santa Clara, CA | Paid | Sep 14 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Technical-Writer-Intern--BS-BA---Summer-2027_2604149) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Communications Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138732) |
 | [Hy-Vee](https://internscout.org/internships/at/hy-vee/) | Content Writer Intern - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA |  | Sep 10 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Content-Writer-Intern---Summer-2027_R249894) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Internship- Corporate Communications | HOUSTON, Texas |  | Sep 10 | [Apply](https://careers.kindermorgan.com/jobs/6223) |

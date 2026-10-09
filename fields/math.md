@@ -1,12 +1,12 @@
 # Math: Summer 2027 Internships
 
-46 open Summer 2027 math roles, newest first (all 46). **Updated October 9, 2026.** [Back to every major](../README.md) · [See all 70 math internships on InternScout](https://internscout.org/internships/math/)
+45 open Summer 2027 math roles, newest first (all 45). **Updated October 9, 2026.** [Back to every major](../README.md) · [See all 69 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - System IT (S&R and Statistics) | Dallas, TX |  | Oct 9 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---System-IT--S-R-and-Statistics-_R-0000033623) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 – Actuarial US | Boston, Massachusetts |  | Oct 8 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Actuarial-US_JR26081417-1) |
-| MassMutual Ascend | Actuarial Internship - Summer 2027 | Cincinnati, OH |  | Oct 8 | [Apply](https://massmutual.wd1.myworkdayjobs.com/MMAscendCareers/job/Cincinnati-OH/Actuarial-Internship---Summer-2027_R21601) |
-| National Interstate Insurance | Actuarial Intern- Summer 2027 | Richfield, OH (USA) |  | Oct 8 | [Apply](https://gaig.wd1.myworkdayjobs.com/National_Interstate_External/job/Richfield-OH-USA/Actuarial-Intern--Summer-2027_R9665) |
+| [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Actuarial Intern- Summer 2027 | Richfield, OH (USA) |  | Oct 8 | [Apply](https://gaig.wd1.myworkdayjobs.com/National_Interstate_External/job/Richfield-OH-USA/Actuarial-Intern--Summer-2027_R9665) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Actuarial Intern- Summer 2027 | Richfield, OH (USA) |  | Oct 8 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Richfield-OH-USA/Actuarial-Intern--Summer-2027_R9665-1) |
 | [Boeing](https://internscout.org/internships/at/boeing/) | Boeing Engineering & Technology Innovation Graduate Researcher Program, Applied Mathematician Intern | USA - North Charleston, SC +1 |  | Oct 8 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Applied-Mathematician-Intern_JR2026523704) |
 | Securian Financial Group | Actuarial Internship - Summer 2027 | Saint Paul, MN Campus |  | Oct 8 | [Apply](https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Actuarial-Internship---Summer-2027_R-010889) |
@@ -49,7 +49,6 @@
 | [TruStage](https://internscout.org/internships/at/trustage/) | Actuarial Internship - Summer 2027 - Hybrid | Madison, WI |  | Sep 18 | [Apply](https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/Actuarial-Internship---Summer-2027---Hybrid_R-012126) |
 | Venerable | Actuarial Intern-Summer 2027 | PA-West Chester - Dunwoody Dr |  | Sep 18 | [Apply](https://venerable.wd5.myworkdayjobs.com/venerablecareers/job/PA-West-Chester---Dunwoody-Dr/Actuarial-Intern-Summer-2027_REQ758) |
 | Venerable | Actuarial Science Internship - Summer 2027 | PA-West Chester - Dunwoody Dr |  | Sep 18 | [Apply](https://venerable.wd5.myworkdayjobs.com/venerablecareers/job/PA-West-Chester---Dunwoody-Dr/Actuarial-Science-Internship---Summer-2027_REQ759) |
-| [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Actuarial Internship - Summer 2027 | Lansing, MI |  | Sep 18 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Actuarial-Internship_R_2122) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

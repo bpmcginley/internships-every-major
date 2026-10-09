@@ -1,6 +1,6 @@
 # Retail: Summer 2027 Internships
 
-165 open Summer 2027 retail roles, newest first (all 165). **Updated October 9, 2026.** [Back to every major](../README.md) · [See all 231 retail internships on InternScout](https://internscout.org/internships/retail/)
+167 open Summer 2027 retail roles, newest first (all 167). **Updated October 9, 2026.** [Back to every major](../README.md) · [See all 234 retail internships on InternScout](https://internscout.org/internships/retail/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -77,6 +77,8 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Backend Software Engineer Intern, Global E-Commerce | San Jose, CA +1 |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7668834837268138293) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - Data Search Recommendation Global E-Commerce | Seattle, WA |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7668383643375257909) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Data Architecture - E-commerce | Seattle, WA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7668582146236631349) |
+| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Merchandising | Baltimore, MD |  | Oct 9 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Merchandising-MD-21230/1434378900/) |
+| [URBN](https://internscout.org/internships/at/urbn/) | Anthropologie Merchandise Planning Intern | Philadelphia, PA |  | Oct 9 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/33590/anthropologie-merchandise-planning-intern/job) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Retail Store Management Internship Summer 2027 - Philadelphia | PA - Philadelphia +16 | \$20-\$22 per hour | Oct 7 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Philadelphia/Retail-Store-Management-Internship-Summer-2027---Philadelphia_R1022289) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Retail Store Management Internship Summer 2027 - Greensboro/Winston-Salem | 05500 - North Carolina CVS Pharmacy, L.L.C. +12 | \$20-\$22 per hour | Oct 7 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/05500---North-Carolina-CVS-Pharmacy-LLC/Retail-Store-Management-Internship-Summer-2027---Greensboro-Winston-Salem_R1022435) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Retail Store Management Internship Summer 2027 - Greater Bay Area: San Francisco / Peninsula | CA - Palo Alto +10 | \$20-\$22 per hour | Oct 7 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---Palo-Alto/Retail-Store-Management-Internship-Summer-2027---Greater-Bay-Area--San-Francisco---Peninsula_R1015738) |

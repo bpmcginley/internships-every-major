@@ -1,9 +1,10 @@
 # Law and Legal: Summer 2027 Internships
 
-107 open Summer 2027 law and legal roles, newest first (all 107). **Updated October 9, 2026.** [Back to every major](../README.md) · [See all 278 law and legal internships on InternScout](https://internscout.org/internships/law/)
+108 open Summer 2027 law and legal roles, newest first (all 108). **Updated October 9, 2026.** [Back to every major](../README.md) · [See all 279 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Starr Insurance](https://internscout.org/internships/at/starr-insurance/) | 2027 Starr Summer Intern - Legal | 399 Park Avenue-New York, NY | \$30-\$32/hour | Oct 9 | [Apply](https://starrcompanies.wd1.myworkdayjobs.com/careers/job/399-Park-Avenue-New-York-NY/XMLNAME-2027-Starr-Summer-Intern----Legal_JR4645) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Global Trade Compliance Intern (Summer 2027) | USA - New York - Malta |  | Oct 8 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Global-Trade-Compliance-Intern--Summer-2027-_JR-2604234) |
 | [Assurant](https://internscout.org/internships/at/assurant/) | Summer 2027 Intern: Ethics & Compliance Intern | Atlanta, GA |  | Oct 8 | [Apply](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Atlanta-GA/Summer-2027-Intern--Ethics---Compliance-Intern_R-115835) |
 | Office of the Secretary of Defense | Student Trainee (Legal) | Arlington, Virginia | \$57736 - \$91815 Per Year | Oct 8 | [Apply](https://www.usajobs.gov:443/job/887905200) |

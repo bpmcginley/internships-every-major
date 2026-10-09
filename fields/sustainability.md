@@ -1,9 +1,13 @@
 # Sustainability: Summer 2027 Internships
 
-76 open Summer 2027 sustainability roles, newest first (all 76). **Updated October 9, 2026.** [Back to every major](../README.md) · [See all 117 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+79 open Summer 2027 sustainability roles, newest first (all 79). **Updated October 9, 2026.** [Back to every major](../README.md) · [See all 119 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Neuberger Berman | MBA Intern, Stewardship & Sustainability Summer 2027 | New York, NY | \$140,000-\$140,000 | Oct 9 | [Apply](https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/MBA-Intern--Stewardship---Sustainability-Summer-2027_R0012713) |
+| [Stantec](https://internscout.org/internships/at/stantec/) | Acoustics Intern (Summer 2027) | Chicago, IL |  | Oct 9 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008256) |
+| [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Sustainability Operations Summer 2027 Internship - New York, NY | New York, NY |  | Oct 9 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Sustainability-Operations-Summer-2027-Internship---New-York--NY_REQ540054) |
+| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Radiation Protection Intern - Middletown, PA | Middletown, Pennsylvania +1 | Paid | Oct 9 | [Apply](https://jobs.constellationenergy.com/jobs/139903) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern Power Development Summer 2027 | The Woodlands, Texas |  | Oct 8 | [Apply](https://jobs.entergy.com/job/The-Woodlands-Student%2C-Intern-Power-Development-Summer-2027-Texa/1438490500/) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Sustainability Intern | Pittsburgh, Pennsylvania | Paid | Oct 8 | [Apply](https://careers.trccompanies.com/jobs/27037) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Sustainable Mobility (New York) | New York, NY +2 |  | Oct 8 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/New-York-NY/XMLNAME-2027-Summer-Intern--Sustainable-Mobility--New-York-_R2603406) |
@@ -26,7 +30,6 @@
 | [Stantec](https://internscout.org/internships/at/stantec/) | Lighting Intern/Co-op – Buildings (Summer 2027) | Denver, CO +4 |  | Sep 21 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007844) |
 | [Gordon Food Service](https://internscout.org/internships/at/gordon-food-service/) | Sustainability Intern | Wyoming, MI +1 |  | Sep 21 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Sustainability-Intern_R-57405) |
 | [Corning](https://internscout.org/internships/at/corning/) | Corporate Sustainability Intern - Summer 2027 | Corning, NY |  | Sep 20 | [Apply](https://corningjobs.corning.com/job/Corning-Corporate-Sustainability-Intern-Summer-2027-NY-14831/1431801300/) |
-| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Radiation Protection Intern - Braceville, IL | Braceville, Illinois | Paid | Sep 18 | [Apply](https://jobs.constellationenergy.com/jobs/139332) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: Renewables Intern | Northbrook, IL +1 |  | Sep 18 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10867) |
 | [Schroders](https://internscout.org/internships/at/schroders/) | 2027 Public Markets Internship Program - Sustainability | NEW YORK, NY |  | Sep 18 | [Apply](https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2058) |
 | [Arcadis](https://internscout.org/internships/at/arcadis/) | Water/Wastewater Intern - Summer 2027 | Clifton Park, NY |  | Sep 17 | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44423) |

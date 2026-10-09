@@ -1,9 +1,13 @@
 # Marketing: Summer 2027 Internships
 
-217 open Summer 2027 marketing roles, newest first (the 200 newest of 217). **Updated October 9, 2026.** [Back to every major](../README.md) · [See all 623 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+221 open Summer 2027 marketing roles, newest first (the 200 newest of 221). **Updated October 9, 2026.** [Back to every major](../README.md) · [See all 630 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Kyndryl | Marketing Internship, Generalist | New York, NY, USA | \$30/hour | Oct 9 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Generalist_R-70009) |
+| Kyndryl | Marketing Internship, Marketing Analysis | New York, NY, USA |  | Oct 9 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analysis_R-70007-1) |
+| [Jabil](https://internscout.org/internships/at/jabil/) | Marketing & Communications Intern | Austin, TX |  | Oct 9 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Marketing---Communications-Intern_J2467203) |
+| [Nissan](https://internscout.org/internships/at/nissan/) | Marketing Intern - Franklin, TN - Summer 2027 | Franklin, Tennessee - United States of America |  | Oct 9 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Marketing-Intern---Franklin--TN---Summer-2027_R00214246) |
 | [Netsmart](https://internscout.org/internships/at/netsmart/) | Digital Marketing Intern(Summer 2027 Internship | Overland Park, KS |  | Oct 8 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Digital-Marketing-Intern-Summer-2027-Internship_R015969) |
 | [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Communications Internship - New York, NY | New York, NY |  | Oct 8 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Communications-Internship---New-York--NY_REQ534207) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Growth Enablement (Reston, VA; Arlington, VA) | Reston, VA +1 | \$23/hour | Oct 8 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Growth-Enablement--Reston--VA--Arlington--VA-_R2603415) |
@@ -150,7 +154,7 @@
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Marketing (Pittsburgh, PA) | Pittsburgh, PA |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81270) |
 | [Springs Window Fashions](https://internscout.org/internships/at/springs-window-fashions/) | Sustainability Data and Marketing Specialist Internship - Summer 2027 | LONG ISLAND CITY, NY | \$23.00/hr | Aug 22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12896/sustainability-data-and-marketing-specialist-internship---summer-2027/job) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Product Marketing Intern | Delaware, OH |  | Aug 21 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279046) |
-| [Dev Technology Group](https://internscout.org/internships/at/dev-technology-group/) | Social Media Marketing Intern (Summer 2027) | Reston, Virginia |  | Aug 20 | [Apply](https://job-boards.greenhouse.io/devtechnology/jobs/8726281002) |
+| Dev Technology Group | Social Media Marketing Intern (Summer 2027) | Reston, Virginia |  | Aug 20 | [Apply](https://job-boards.greenhouse.io/devtechnology/jobs/8726281002) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Product Manager Intern - Scaled Growth | San Jose, CA |  | Aug 14 | [Apply](https://lifeattiktok.com/search/7673559305519794437) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Data Science Intern - Advertisement Team | San Jose, CA |  | Aug 13 | [Apply](https://lifeattiktok.com/search/7673226686054107445) |
 | [Mortenson](https://internscout.org/internships/at/mortenson/) | Marketing Intern - Seattle | Kirkland, WA | Paid | Aug 10 | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23373) |
@@ -200,10 +204,6 @@
 | [Church & Dwight](https://internscout.org/internships/at/church-dwight/) | Summer 2027 Brand Management Internship (1Y MBA) | Ewing, NJ | Paid | Sep 18 | [Apply](https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/Summer-2027-Brand-Management-Internship--1Y-MBA-_R2026-15606) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Downstream Marketing - Arizona | Tempe, Arizona |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tempe-Arizona/Summer-2027-Internship---Downstream-Marketing---Arizona_R572860-1) |
 | [Abbott](https://internscout.org/internships/at/abbott/) | Nutrition Brand Management Intern - Infant and Adult - Summer 2027 | United States - Ohio - Columbus |  | Sep 18 | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Nutrition-Brand-Management-Intern---Infant-and-Adult---Summer-2027_31160729) |
-| [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Marketing (Operations/Analysis) - 2027 Summer Student Program | Houston, TX |  | Sep 18 | [Apply](https://aramcoservices.applytojob.com/apply/1rW6QX6OnX/Marketing-OperationsAnalysis-2027-Summer-Student-Program) |
-| [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Corporate Marketing Internship - Summer 2027 | Lansing, MI |  | Sep 18 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Corporate-Marketing-Internship---Summer-2027_R_14358) |
-| [McKesson](https://internscout.org/internships/at/mckesson/) | Digital Marketing Intern - Summer 2027 | USA, TX | \$17.33 - \$28.88 | Sep 18 | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-The-Woodlands/Digital-Marketing-Intern---Summer-2027_JR0153094) |
-| [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern - Communications | Pascagoula, Mississippi |  | Sep 18 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMMUNICATIONS-Miss/1430056000/) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,6 +1,6 @@
 # Materials Science: Summer 2027 Internships
 
-15 open Summer 2027 materials science roles, newest first (all 15). **Updated October 9, 2026.** [Back to every major](../README.md) · [See all 35 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
+14 open Summer 2027 materials science roles, newest first (all 14). **Updated October 9, 2026.** [Back to every major](../README.md) · [See all 33 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -18,7 +18,6 @@
 | [Honeywell](https://internscout.org/internships/at/honeywell/) | Materials Engineering/Materials Science - Summer 2027 Intern | United States |  | Aug 25 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155541) |
 | [Freeform](https://internscout.org/internships/at/freeform/) | Materials Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) +1 |  | Aug 19 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003) |
 | [Kairos Power](https://internscout.org/internships/at/kairos-power/) | Chemical and Materials Engineering Internship - Summer 2027 | Alameda, CA +2 |  | Jul 22 | [Apply](https://job-boards.greenhouse.io/kairospower/jobs/6122803004) |
-| [Nucor](https://internscout.org/internships/at/nucor/) | Metallurgist Intern- Summer 2027 | Brandenburg, KY |  | Sep 18 | [Apply](https://jobs.nucor.com/job/Brandenburg-Metallurgist-Intern-Summer-2027-KY-40108/1426424600/) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

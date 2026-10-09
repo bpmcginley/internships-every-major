@@ -1,9 +1,15 @@
 # Operations: Summer 2027 Internships
 
-320 open Summer 2027 operations roles, newest first (the 200 newest of 320). **Updated October 9, 2026.** [Back to every major](../README.md) · [See all 757 operations internships on InternScout](https://internscout.org/internships/operations/)
+324 open Summer 2027 operations roles, newest first (the 200 newest of 324). **Updated October 9, 2026.** [Back to every major](../README.md) · [See all 769 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Operations Intern, Summer 2027 | Jacksonville, Florida, United States of America |  | Oct 9 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Operations-Intern--Summer-2027_R-103870) |
+| [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Process Improvement Intern | Sparks, Nevada |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51654) |
+| [Vertiv](https://internscout.org/internships/at/vertiv/) | Procurement Intern - Infrastructure Solutions (Summer 2027) | Greenville, SC +1 |  | Oct 9 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279203) |
+| [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Sustainability Operations Summer 2027 Internship - New York, NY | New York, NY |  | Oct 9 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Sustainability-Operations-Summer-2027-Internship---New-York--NY_REQ540054) |
+| [Emerson Electric](https://internscout.org/internships/at/emerson-electric/) | Quality Intern (Summer 2027) | Knoxville, TN |  | Oct 9 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009955) |
+| [Rivian](https://internscout.org/internships/at/rivian/) | Supply Chain, Purchasing, Procurement and Logistics - Summer 2027 Internships | Normal, Illinois | \$24-\$51.00 per hour | Oct 9 | [Apply](https://careers.rivian.com/jobs/34297) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Bryn Mawr Trust and Wealth Management Operations | Berwyn, PA |  | Oct 8 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Berwyn-PA/XMLNAME-2027-Summer-Internship---Bryn-Mawr-Trust-and-Wealth-Management-Operations_R-104130-3) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Program Operations (MI, MN, IN, WI) | Lansing, MI +3 | \$23 per hour | Oct 8 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Lansing-MI/XMLNAME-2027-Summer-Intern--Program-Operations--MI--MN--IN--WI-_R2603394) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - CIT Rail Financial Operations (Chicago, IL) | Chicago, Illinois | \$20.57/hr | Oct 8 | [Apply](https://firstcitizens.jibeapply.com/jobs/35831) |
@@ -69,7 +75,7 @@
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Project Management Intern | De Soto, Kansas |  | Sep 28 | [Apply](https://careers.na.panasonic.com/jobs/51295) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | IT Financial Operations Intern | Niles, Illinois | Paid | Sep 28 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36676) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern – Business Operations & Cost Optimization, Cadillac Racing Program Management | Milford, Michigan, United States of America |  | Sep 28 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Business-Operations---Cost-Optimization--Cadillac-Racing-Program-Management_JR-202619989) |
-| [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Facilities Intern | De Soto, Kansas |  | Sep 28 | [Apply](https://careers.na.panasonic.com/jobs/51287) |
+| [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Facilities Intern | De Soto, Kansas +1 |  | Sep 28 | [Apply](https://careers.na.panasonic.com/jobs/51287) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Quality Control Intern | De Soto, Kansas |  | Sep 28 | [Apply](https://careers.na.panasonic.com/jobs/51283) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX News Media Internship Program - Technical Operations - Washington DC | Washington, District of Columbia, USA |  | Sep 28 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Washington-District-of-Columbia-USA/Summer-2027-FOX-News-Media-Internship-Program---Technical-Operations---Washington-DC_R50033947) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX News Media Internship Program - Technical Operations - New York | New York, New York, USA |  | Sep 28 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---Technical-Operations---New-York_R50033946) |
@@ -189,7 +195,6 @@
 | [Schonfeld](https://internscout.org/internships/at/schonfeld/) | 2027 Core Operations Intern | Miami, Florida, United States |  | Sep 4 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8172070) |
 | [Schonfeld](https://internscout.org/internships/at/schonfeld/) | 2027 Cybersecurity Operations Intern | New York, New York, United States |  | Sep 4 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171696) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027-BOLT Intern-Procurement (Fleet) | HOUSTON, Texas |  | Sep 4 | [Apply](https://careers.kindermorgan.com/jobs/6213) |
-| [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027-BOLT Intern-Procurement | HOUSTON, Texas |  | Sep 4 | [Apply](https://careers.kindermorgan.com/jobs/6217) |
 | [Garmin](https://internscout.org/internships/at/garmin/) | Project Manager Intern | Olathe, Kansas |  | Sep 4 | [Apply](https://careers.garmin.com/jobs/20087) |
 | [DIRECTV](https://internscout.org/internships/at/directv/) | Customer Operations Intern | El Segundo, CA | \$25 - \$34 per hour | Sep 4 | [Apply](https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/Customer-Operations-Intern_R260273) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Food Safety & Quality Intern - Summer 2027 - Campus Recruiting (Multiple Locations) | Austin, MN +10 |  | Sep 4 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35738) |
@@ -199,11 +204,6 @@
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MBA, Operations Planning | San Francisco, California, United States | Paid | Sep 1 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8165014) |
 | [K2 Space](https://internscout.org/internships/at/k2-space/) | Vehicle Operations Engineering Intern – Summer 2027 | Los Angeles, CA | Paid | Sep 1 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411914008) |
 | [Momentive](https://internscout.org/internships/at/momentive/) | Service Quality Intern | Waterford, NY | Paid | Sep 1 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/Summer-2027-Intern---Service-Quality_R9767) |
-| [First National Bank](https://internscout.org/internships/at/first-national-bank/) | Summer 2027 Enterprise Operations Intern | Pittsburgh, PA |  | Sep 1 | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Enterprise-Operations-Intern_2026-01839) |
-| [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Intern - HR Operations | Bridgeton, Missouri |  | Sep 1 | [Apply](https://careers.na.panasonic.com/jobs/50762) |
-| [Exelon](https://internscout.org/internships/at/exelon/) | 2027 Summer Internship - Project Management (Various Exelon Locations) | CHICAGO, Illinois +6 | \$20.00/Hr | Aug 31 | [Apply](https://careers.comed.com/jobs/30124) |
-| [Vertiv](https://internscout.org/internships/at/vertiv/) | IT Quality Assurance Intern (Summer 2027) | Westerville, OH |  | Aug 31 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279193) |
-| [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Masters Summer Internship Program - 2027 Global Real Estate & Workplace Experience, Enterprise Shared S… | New York, NY |  | Aug 31 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012153) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,6 +1,6 @@
 # Product Management: Summer 2027 Internships
 
-141 open Summer 2027 product management roles, newest first (all 141). **Updated October 9, 2026.** [Back to every major](../README.md) · [See all 236 product management internships on InternScout](https://internscout.org/internships/product-management/)
+140 open Summer 2027 product management roles, newest first (all 140). **Updated October 9, 2026.** [Back to every major](../README.md) · [See all 237 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -63,7 +63,6 @@
 | [Momentive](https://internscout.org/internships/at/momentive/) | Summer 2027 Product Management Intern | Friendly, WV |  | Sep 11 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Product-Management-Intern_R9816) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Information Technology DEX Product Intern (Remote) | Baltimore, Maryland |  | Sep 11 | [Apply](https://jobs.constellationenergy.com/jobs/138703) |
 | Robert Bosch Venture Capital | Product Management AI-Tool Intern - 8 months/40hrs per week | Farmington Hills, MI |  | Sep 9 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148575999) |
-| [Coinbase](https://internscout.org/internships/at/coinbase/) | Product Manager Intern - HR Technology | NYC +1 | Paid | Sep 9 | [Apply](https://boards.greenhouse.io/embed/job_app?token=8175504) |
 | [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Summer Associate Internship (Technical Product Analyst) | Vienna, VA |  | Sep 9 | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32305) |
 | [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Summer Associate Internship (Product Strategist) | Vienna, VA |  | Sep 9 | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32309) |
 | [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Summer Associate Internship (Product Strategist - Student Loans) | Vienna, VA |  | Sep 9 | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32361) |

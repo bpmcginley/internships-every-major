@@ -1,6 +1,6 @@
 # Hospitality: Summer 2027 Internships
 
-20 open Summer 2027 hospitality roles, newest first (all 20). **Updated October 9, 2026.** [Back to every major](../README.md) · [See all 72 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
+18 open Summer 2027 hospitality roles, newest first (all 18). **Updated October 9, 2026.** [Back to every major](../README.md) · [See all 70 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -15,9 +15,7 @@
 | [Cvent](https://internscout.org/internships/at/cvent/) | SDET Intern (Summer 2027) | Tysons Corner, Virginia | Paid | Aug 31 | [Apply](https://careers.cvent.com/jobs/10761) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | Scrum Master Intern (Summer 2027) | Tysons Corner, Virginia |  | Aug 31 | [Apply](https://careers.cvent.com/jobs/10740) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | Client Services Intern (Summer 2027) | Tysons Corner, Virginia | Paid | Aug 26 | [Apply](https://careers.cvent.com/jobs/10710) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Biomechanics | Baltimore, MD |  | Oct 9 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Biomechanics-MD-21230/1434382000/) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Marketing & Events Internship - Summer 2027 | Reston, VA |  | Oct 8 | [Apply](https://uscareers-idemia.icims.com/jobs/8676/marketing-%26-events-internship---summer-2027/job) |
-| [Hyatt](https://internscout.org/internships/at/hyatt/) | Hotel Operations Internship - Summer 2027 | St. Louis, MO |  | Sep 30 | [Apply](https://hyatt.taleo.net/careersection/10780/jobdetail.ftl?job=STL002667) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Product Line Management | Baltimore, MD |  | Sep 28 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Product-Line-Management-MD-21230/1434387800/) |
 | [Hyatt](https://internscout.org/internships/at/hyatt/) | 2027 Summer:Hotel Operations Internship - Hyatt Regency Minneapolis | Minneapolis, MN |  | Sep 23 | [Apply](https://hyatt.taleo.net/careersection/10780/jobdetail.ftl?job=MIN002934) |
 | [Hyatt](https://internscout.org/internships/at/hyatt/) | Summer 2027 - Food and Beverage Corporate Internship Program | United States | \$17.00 to \$21.00 per hour | Sep 18 | [Apply](https://hyatt.taleo.net/careersection/10780/jobdetail.ftl?job=UNI002289) |
