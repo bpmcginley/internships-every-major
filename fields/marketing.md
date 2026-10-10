@@ -1,6 +1,6 @@
 # Marketing: Summer 2027 Internships
 
-218 open Summer 2027 marketing roles, newest first (the 200 newest of 218). **Updated October 10, 2026.** [Back to every major](../README.md) · [See all 631 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+219 open Summer 2027 marketing roles, newest first (the 200 newest of 219). **Updated October 10, 2026.** [Back to every major](../README.md) · [See all 630 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [AMD](https://internscout.org/internships/at/amd/) | Short Term 2027 Technical Marketing - Performance Analysis Intern/Co-Op | MARKHAM, Ontario, Canada +2 |  | Sep 16 | [Apply](https://careers.amd.com/jobs/91953) |
 | [Ecolab](https://internscout.org/internships/at/ecolab/) | MBA Marketing Intern | USA - Minnesota - Saint Paul +2 | Paid | Sep 16 | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/MBA-Marketing-Intern_R00303125) |
 | [Ensign-Bickford Industries](https://internscout.org/internships/at/ensign-bickford-industries/) | Communications Intern | Simsbury, CT |  | Sep 16 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Communications-Intern_REQ107700-1) |
+| [Ensign-Bickford Aerospace & Defense Company](https://internscout.org/internships/at/ensign-bickford-aerospace-defense-company/) | Communications Intern | Simsbury, CT |  | Sep 16 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Communications-Intern_REQ107700) |
 | [ATC](https://internscout.org/internships/at/atc/) | Intern-Marketing, Customer and Corporate Affairs Summer 2027 | Pewaukee, WI |  | Sep 16 | [Apply](https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern-Marketing--Customer-and-Corporate-Affairs-Summer-2027_R0003300-1) |
 | [Emergent Holdings](https://internscout.org/internships/at/emergent-holdings/) | Summer 2027 Intern - Program Oversight/Marketing Compliance | Detroit, MI |  | Sep 16 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14772) |
 | [Dow Jones](https://internscout.org/internships/at/dow-jones/) | Summer 2027 Internship Program – TA Videographer / Marketing Intern | New York City |  | Sep 15 | [Apply](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/New-York-City/Summer-2027-Internship-Program---TA-Videographer---Marketing-Intern_Job_Req_55336) |
@@ -203,7 +204,6 @@
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Corporate Marketing Internship - Summer 2027 | Lansing, MI |  | Sep 18 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Corporate-Marketing-Internship---Summer-2027_R_14358) |
 | [McKesson](https://internscout.org/internships/at/mckesson/) | Digital Marketing Intern - Summer 2027 | USA, TX | \$17.33 - \$28.88 | Sep 18 | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-The-Woodlands/Digital-Marketing-Intern---Summer-2027_JR0153094) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern - Communications | Pascagoula, Mississippi |  | Sep 18 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMMUNICATIONS-Miss/1430056000/) |
-| [APEX Analytix](https://internscout.org/internships/at/apex-analytix/) | Marketing Intern (Summer 2027) | Greensboro, NC |  | Sep 18 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/c597035d-7135-4fbe-b5ff-46be4e286868) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

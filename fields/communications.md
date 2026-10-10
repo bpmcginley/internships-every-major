@@ -1,6 +1,6 @@
 # Communications: Summer 2027 Internships
 
-45 open Summer 2027 communications roles, newest first (all 45). **Updated October 10, 2026.** [Back to every major](../README.md) · [See all 151 communications internships on InternScout](https://internscout.org/internships/communications/)
+46 open Summer 2027 communications roles, newest first (all 46). **Updated October 10, 2026.** [Back to every major](../README.md) · [See all 150 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Intern - Communications & Engagement | St. Louis, MO | \$20-\$22/hr | Sep 21 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/St-Louis-MO/XMLNAME-2027-Summer-Intern---Communications---Engagement_R-0000033464) |
 | [Protective Life](https://internscout.org/internships/at/protective-life/) | 2027 Communications Summer Internship Program | Birmingham, AL |  | Sep 16 | [Apply](https://jobs.lever.co/protective/76d37442-da84-4bcf-b9f3-66f9880db597/apply) |
 | [Ensign-Bickford Industries](https://internscout.org/internships/at/ensign-bickford-industries/) | Communications Intern | Simsbury, CT |  | Sep 16 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Communications-Intern_REQ107700-1) |
-| [Marvell](https://internscout.org/internships/at/marvell/) | Technical Writer Intern, BS/BA - Summer 2027 | Santa Clara, CA | Paid | Sep 14 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Technical-Writer-Intern--BS-BA---Summer-2027_2604149) |
+| [Ensign-Bickford Aerospace & Defense Company](https://internscout.org/internships/at/ensign-bickford-aerospace-defense-company/) | Communications Intern | Simsbury, CT |  | Sep 16 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Communications-Intern_REQ107700) |
+| [Marvell](https://internscout.org/internships/at/marvell/) | Technical Writer Intern, BS/BA - Summer 2027 | Santa Clara, CA |  | Sep 14 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Technical-Writer-Intern--BS-BA---Summer-2027_2604149) |
 | [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | Communications & Knowledge Management Intern - MN | Minneapolis, MN, 55401 +1 |  | Sep 14 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Communications---Knowledge-Management-Intern---MN_JR115717-1) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Communications Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138732) |
 | [Hy-Vee](https://internscout.org/internships/at/hy-vee/) | Content Writer Intern - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA |  | Sep 10 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Content-Writer-Intern---Summer-2027_R249894) |

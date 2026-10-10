@@ -1,6 +1,6 @@
 # Engineering: Summer 2027 Internships
 
-421 open Summer 2027 engineering roles, newest first (the 200 newest of 421). **Updated October 10, 2026.** [Back to every major](../README.md) · [See all 1,222 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+421 open Summer 2027 engineering roles, newest first (the 200 newest of 421). **Updated October 10, 2026.** [Back to every major](../README.md) · [See all 1,221 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Granite Construction](https://internscout.org/internships/at/granite-construction/) | Plant Engineer Intern - Summer 2027 | Pleasanton, California +2 | \$24.00 | Sep 15 | [Apply](https://granite.wd1.myworkdayjobs.com/careers/job/Pleasanton-California/Plant-Engineer-Intern---Summer-2027_R0000008111) |
 | [Ensign-Bickford Industries](https://internscout.org/internships/at/ensign-bickford-industries/) | Product Engineer Intern | Simsbury, CT |  | Sep 15 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Product-Engineer-Intern_REQ107697-1) |
 | [Woodward Governor](https://internscout.org/internships/at/woodward-governor/) | Engineering Co-op - Design Engineering \| Zeeland, MI (Summer 2027) | Zeeland, MI, US |  | Sep 15 | [Apply](https://woodward.wd5.myworkdayjobs.com/woodward/job/Zeeland-MI-US/Engineering-Co-op---Design-Engineering---Zeeland--MI--Summer-2027-_JR112252) |
+| [Ensign-Bickford Aerospace & Defense Company](https://internscout.org/internships/at/ensign-bickford-aerospace-defense-company/) | Product Engineer Intern | Simsbury, CT |  | Sep 15 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Product-Engineer-Intern_REQ107697) |
 | Everest | 2027 Everest Design Engineering Internship Program | Warren, NJ | \$900.00-1,000.00 per week | Sep 15 | [Apply](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Everest-Design-Engineering-Internship-Program_R7401) |
 | [Ingredion](https://internscout.org/internships/at/ingredion/) | R&D Intern, Protein Fortification & Analytical Characterization | Bridgewater, NJ |  | Sep 15 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Bridgewater-NJ/R-D-Intern--Protein-Fortification---Analytical-Characterization_Req-40208-1) |
 | [Intel](https://internscout.org/internships/at/intel/) | Module Engineering PhD Intern Summer 2027 | Hillsboro, OR |  | Sep 15 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-Summer-2027_JR0286916) |
@@ -203,7 +204,6 @@
 | [Xcimer Energy](https://internscout.org/internships/at/xcimer-energy/) | Summer 2027 Internship - Pulsed Power Engineering | Denver, CO |  | Sep 11 | [Apply](https://jobs.lever.co/xcimer/39fd5473-58a8-446c-86fb-258c1dd0f67d/apply) |
 | [Veeam Software](https://internscout.org/internships/at/veeam-software/) | Kasten Engineering Intern - Summer 2027 | Remote, California, USA +1 |  | Sep 11 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4951792101) |
 | ENOVIS | Enovis Surgical R&D Co-Op, Starting Summer 2027 | Austin, TX |  | Sep 11 | [Apply](https://enovis.wd5.myworkdayjobs.com/enovis/job/USA-Texas-Austin/Enovis-Surgical-R-D-Co-Op--Starting-Summer-2027_R0034231) |
-| [KCI Technologies](https://internscout.org/internships/at/kci-technologies/) | Marine Structures Engineering Intern (Summer 2027) | New York, NY +1 |  | Sep 11 | [Apply](https://careers-kci.icims.com/jobs/8086/marine-structures-engineering-intern-%28summer-2027%29/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

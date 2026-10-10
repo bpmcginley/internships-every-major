@@ -1,9 +1,10 @@
 # Software Engineering: Summer 2027 Internships
 
-1,169 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,169). **Updated October 10, 2026.** [Back to every major](../README.md) · [See all 2,464 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,171 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,171). **Updated October 10, 2026.** [Back to every major](../README.md) · [See all 2,465 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Marvell](https://internscout.org/internships/at/marvell/) | Test Solutions Engineering Intern, BS - Summer 2027 | Burlington, VT | Paid | Oct 10 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835) |
 | [Electronic Arts](https://internscout.org/internships/at/electronic-arts/) | Gameplay Software Engineer Co-op | Vancouver, BC +1 |  | Oct 9 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216230) |
 | [Electronic Arts](https://internscout.org/internships/at/electronic-arts/) | C++ Software Engineer Intern | Vancouver, BC +1 |  | Oct 9 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-months-UFC/216226) |
 | Affirm | IT Engineer Intern - Early Careers | SF +1 |  | Oct 9 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8011375003) |
@@ -18,7 +19,7 @@
 | Wawa | Information Technology Development Intern | Media, PA |  | Oct 9 | [Apply](https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Information-Technology-Development-Internship_JR122392) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Software Engineering Intern (Summer 2027) | USA - Texas - Austin +3 | \$20.00 - \$40.00 | Oct 9 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Technology Intern - ICT (Summer 2027) | Chicago, IL |  | Oct 9 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008253) |
-| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova - Energy Technology Analyst Intern - Summer 2027 | Schenectady |  | Oct 9 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Schenectady/GE-Vernova---Energy-Technology-Analyst-Intern---Summer-2027_R5054316-2) |
+| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova - Energy Technology Analyst Intern - Summer 2027 | Schenectady |  | Oct 9 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Schenectady/GE-Vernova---Energy-Technology-Analyst-Intern---Summer-2027_R5054316-3) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Tax Technology Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 9 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Tax-Technology-Intern---Summer-2027---Franklin--TN_R00214237) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Software Engineering - Summer 2027 Internships | Palo Alto, California +4 | \$33.00-51.00/HR | Oct 9 | [Apply](https://careers.rivian.com/jobs/34303) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Computer Vision Software - Summer 2027 Internships | Palo Alto, California +4 | \$33.00-51.00 per hour | Oct 9 | [Apply](https://careers.rivian.com/jobs/34315) |
@@ -203,7 +204,6 @@
 | [Oshkosh](https://internscout.org/internships/at/oshkosh/) | Digital Technology Business Analyst Intern | Frederick, Maryland, United States |  | Sep 30 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/ERP-Summer-2027-Intern_R49545) |
 | Enova | Software Engineer Intern | Chicago, IL | Paid | Sep 29 | [Apply](https://job-boards.greenhouse.io/enova/jobs/8239619) |
 | [Westinghouse Electric Company](https://internscout.org/internships/at/westinghouse-electric-company/) | Software Developer Intern - Tools & Apps | Warrendale, PA |  | Sep 29 | [Apply](https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Tools-&-Apps-OR/1434869300/?ats=successfactors) |
-| [Honeywell](https://internscout.org/internships/at/honeywell/) | Software Engineering Co-op | United States |  | Sep 29 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,6 +1,6 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-214 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 214). **Updated October 10, 2026.** [Back to every major](../README.md) · [See all 667 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+214 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 214). **Updated October 10, 2026.** [Back to every major](../README.md) · [See all 668 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Arc](https://internscout.org/internships/at/arc/) | Mechanical Engineering Intern - Recreational | Torrance, CA | \$36 per hour | Oct 7 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5445312008) |
 | [onsemi](https://internscout.org/internships/at/onsemi/) | Summer 2027 - Manufacturing Engineering Intern | Hopewell Junction, NY | Paid | Oct 7 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506639) |
 | [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | GTO Manufacturing Engineering Co-op, Summer 2027 | Cornelia, Georgia, United States of America |  | Oct 7 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/GTO-Manufacturing-Engineering-Co-op--Summer-2027_R-103371) |
-| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova Cores and Castings Manufacturing Intern Summer 2027 | Schenectady | \$1,000-2,000 week | Oct 7 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Schenectady/GE-Vernova-Cores-and-Castings-Manufacturing-Intern-Summer-2027_R5054916-2) |
+| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova Cores and Castings Manufacturing Intern Summer 2027 | Schenectady | \$1,000-2,000 week | Oct 7 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Schenectady/GE-Vernova-Cores-and-Castings-Manufacturing-Intern-Summer-2027_R5054916-3) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | Manufacturing Associate Intern – Winslow, Maine (Summer 2027) | Winslow, ME | \$20-\$40/hour | Oct 7 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Winslow-ME/Manufacturing-Associate-Intern---Winslow--Maine--Summer-2027-_R0027460) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Manufacturing Project Specialist Intern (Summer 2027) | Cedar Rapids, IA |  | Oct 7 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-119--400-Collins-Rd-NE--BLDG-119/Manufacturing-Project-Specialist-Intern--Summer-2027-_01879288) |
 | [S&C Electric Company](https://internscout.org/internships/at/s-c-electric-company/) | Manufacturing Engineer Intern | Chicago, IL +1 | \$22 - 30 per hour | Oct 7 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107366) |
@@ -93,7 +93,7 @@
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Mechanical Engineering Internship – Summer 2027 | San Diego, CA +2 |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720741704) |
 | [Generac](https://internscout.org/internships/at/generac/) | Mechanical Engineering Intern - Summer 2027 | Waukesha, WI - USA +1 |  | Sep 17 | [Apply](https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Mechanical-Engineering-Intern---Summer-2027_JR16957) |
 | [X-energy](https://internscout.org/internships/at/x-energy/) | Mechanical Engineering Internship - Summer 2027 | Rockville, MD |  | Sep 17 | [Apply](https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Rockville-MD/Mechanical-Engineering-Internship---Summer-2027_R101319-1) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Middle River, MD +2 |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7988835003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Long Beach, CA +2 | \$28.00 | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984564003) |
 | [Rendezvous Robotics](https://internscout.org/internships/at/rendezvous-robotics/) | Mechanical Engineering Intern (Summer 2027) | Golden, CO |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408601009) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Mechanical Engineering Internship | Austin, TX +1 |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/042f3a1d-5fc1-44ef-8f12-57044eaa4db2/apply) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Manufacturing Internship | Austin, TX |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/79d56d02-19bb-42fa-a7c6-ae19659120d6/apply) |

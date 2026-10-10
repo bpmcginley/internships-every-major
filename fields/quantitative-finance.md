@@ -1,6 +1,6 @@
 # Quantitative Finance: Summer 2027 Internships
 
-134 open Summer 2027 quantitative finance roles, newest first (all 134). **Updated October 10, 2026.** [Back to every major](../README.md) · [See all 175 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
+135 open Summer 2027 quantitative finance roles, newest first (all 135). **Updated October 10, 2026.** [Back to every major](../README.md) · [See all 176 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Schonfeld](https://internscout.org/internships/at/schonfeld/) | 2027 PhD Quantitative Research Intern | New York, New York, United States +1 |  | Sep 4 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8172074) |
 | AXQ Capital | Quantitative Research Intern (PhD, Summer 2027) | New York +1 | \$75 to \$100, | Sep 3 | [Apply](https://job-boards.greenhouse.io/axq/jobs/6181069004) |
 | [Garda Capital Partners](https://internscout.org/internships/at/garda-capital-partners/) | Trading Analyst Intern - Mortgages | NYC +1 | Paid | Sep 3 | [Apply](https://job-boards.greenhouse.io/gardacp/jobs/6179468004) |
-| [Royal Bank of Canada](https://internscout.org/internships/at/royal-bank-of-canada/) | 2027 Capital Markets, Quants Summer Associate, Quantitative Technology Services | New York, New York, United States of America +1 |  | Sep 2 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000186729-1) |
+| [Royal Bank of Canada](https://internscout.org/internships/at/royal-bank-of-canada/) | Quantitative Analyst Summer Associate - Quantitative Technology Services | NYC |  | Sep 2 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000186729-1) |
 | [PIMCO](https://internscout.org/internships/at/pimco/) | Quant Research Analyst Intern - Client Solutions & Analytics | Newport Beach, CA |  | Sep 1 | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Masters-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106816) |
 | [PIMCO](https://internscout.org/internships/at/pimco/) | Quantitative Portfolio Management Intern | Newport Beach, CA |  | Sep 1 | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830) |
 | [PIMCO](https://internscout.org/internships/at/pimco/) | Quantitative Research Analyst Intern - Portfolio Management | Newport Beach, CA |  | Sep 1 | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Portfolio-Management--Quantitative-Research-Analyst_R106749) |
@@ -137,6 +137,7 @@
 | [Blackstone](https://internscout.org/internships/at/blackstone/) | 2027 Blackstone Finance – Portfolio Management Summer Analyst | Miami | Paid | Oct 9 | [Apply](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Finance---Portfolio-Management-Summer-Analyst_45868) |
 | [Dimensional Fund Advisors](https://internscout.org/internships/at/dimensional-fund-advisors/) | Internship in Portfolio Management (Undergraduate & Master's) | Austin +1 |  | Sep 18 | [Apply](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Portfolio-Management--Undergraduate---Master-s-_2026-8998) |
 | [Ercot](https://internscout.org/internships/at/ercot/) | Intern - Portfolio Management | Taylor, TX |  | Sep 18 | [Apply](https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Intern---Portfolio-Management_R2485) |
+| [Royal Bank of Canada](https://internscout.org/internships/at/royal-bank-of-canada/) | 2027 Capital Markets, Quants Summer Associate, Quantitative Technology Services | New York, New York, United States of America |  | Sep 18 | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000186729) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Aramco Trading Americas - 2027 Summer Student Program | Houston, TX |  | Sep 18 | [Apply](https://aramcoservices.applytojob.com/apply/Y5XmSyFkEZ/Aramco-Trading-Americas-2027-Summer-Student-Program) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

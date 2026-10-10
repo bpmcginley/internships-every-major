@@ -94,7 +94,7 @@
 | [Perry Homes](https://internscout.org/internships/at/perry-homes/) | 2027 Summer Construction Management Internship - Orlando, Florida | Orlando, Florida |  | Sep 1 | [Apply](https://apply.workable.com/j/F203CDE771/apply) |
 | [Perry Homes](https://internscout.org/internships/at/perry-homes/) | 2027 Summer Construction Management Internship - Tampa, Florida | Tampa, Florida |  | Sep 1 | [Apply](https://apply.workable.com/j/4C141F13EA/apply) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Student Internship - Survey | North Kansas City, MO |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5407709008) |
-| [Olsson](https://internscout.org/internships/at/olsson/) | Civil Engineering Internship - Site Design | Springfield, MO +1 |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5397371008) |
+| [Olsson](https://internscout.org/internships/at/olsson/) | Civil Engineering Internship - Site Design | North Kansas City, MO +1 |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5400158008) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Student Internship- Construction Materials Testing | Springfield, MO |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5395791008) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Civil Engineering Internship - Data Centers Site Design | Fort Worth, TX |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5408678008) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Civil Engineering Internship - Federal Infrastructure Site Design | North Kansas City, MO |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5396116008) |

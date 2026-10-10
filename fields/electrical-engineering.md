@@ -1,6 +1,6 @@
 # Electrical Engineering: Summer 2027 Internships
 
-184 open Summer 2027 electrical engineering roles, newest first (all 184). **Updated October 10, 2026.** [Back to every major](../README.md) · [See all 473 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+184 open Summer 2027 electrical engineering roles, newest first (all 184). **Updated October 10, 2026.** [Back to every major](../README.md) · [See all 476 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Electrical Systems Engineering Internship - Undergraduate | Space Coast, FL +2 | \$32.00 | Oct 2 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Electrical-Systems-Engineering-Internship---Undergraduate_R71438) |
 | [GE Appliances](https://internscout.org/internships/at/ge-appliances/) | Electrical Engineering Co-op\_Summer 2027 | Louisville, KY |  | Oct 2 | [Apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Electrical-Engineering-Co-op-Summer-2027_REQ-26429) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | Electrical Engineering Intern (Summer 2027) | San Jose, CA | \$40/hour | Oct 1 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5255112007) |
-| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova Gas Power Supply Chain Sourcing Intern - Summer 2027 | Atlanta | \$24.00/hr | Oct 1 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Atlanta/GE-Vernova-Gas-Power-Supply-Chain-Sourcing-Intern---Summer-2027_R5054166-1) |
+| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova Gas Power Supply Chain Sourcing Intern - Summer 2027 | Atlanta | \$24.00/hr | Oct 1 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/GE-Vernova-Gas-Power-Supply-Chain-Sourcing-Intern---Summer-2027_R5054166-2) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | RF Hardware Intern (Summer 2027) | San Francisco |  | Sep 30 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4708436006) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Sales Account Manager Intern, Electrical Engineering, Santa Clara (Summer 2027) | USA - California - Santa Clara |  | Sep 30 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Sales-Account-Manager-Intern--Electrical-Engineering--Santa-Clara--Summer-2027-_JR-2604217) |
 | [ABB](https://internscout.org/internships/at/abb/) | Electrical Design Engineer Intern- Summer 2027 | Fort Smith, Arkansas, United States of America |  | Sep 30 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Electrical-Design-Engineer-Intern--Summer-2027_JR00045726) |
