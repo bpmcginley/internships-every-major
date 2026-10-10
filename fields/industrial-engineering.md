@@ -1,6 +1,6 @@
 # Industrial Engineering: Summer 2027 Internships
 
-240 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 240). **Updated October 10, 2026.** [Back to every major](../README.md) · [See all 619 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+240 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 240). **Updated October 10, 2026.** [Back to every major](../README.md) · [See all 617 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -104,13 +104,13 @@
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | 2027 Americas Region Industrial Engineering Summer Intern | US - UPS CORPORATE OFFICES (GACOR) +1 |  | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Americas-Region-Industrial-Engineering-Summer-Intern_R26032989) |
 | [ATC](https://internscout.org/internships/at/atc/) | Intern-Supply Chain Summer 2027 | Pewaukee, WI +1 | \$23-27/hr | Sep 18 | [Apply](https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern-Supply-Chain-Summer-2027_R0003303) |
 | [Ecolab](https://internscout.org/internships/at/ecolab/) | Supply Chain Intern - Engineering and Business Majors | USA - Minnesota - Saint Paul +13 | \$22 - \$25/hour | Sep 18 | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Supply-Chain-Intern---Engineering-and-Business-Majors_R00304542) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Supply Chain Intern Summer 2027 | Long Beach, CA +1 |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984568003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Systems Engineering Intern Summer 2027 | Pasadena, CA +3 |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990138003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Supply Chain Intern Summer 2027 | Middle River, MD +1 |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990063003) |
 | [General Dynamics Mission Systems, Inc.](https://internscout.org/internships/at/general-dynamics-mission-systems-inc/) | Systems Engineering Intern - Autonomous Maritime Platforms | Quincy, MA | \$22.00 | Sep 17 | [Apply](https://careers-gdms.icims.com/jobs/74840/systems-engineering-intern---autonomous-maritime-platforms/job) |
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Supply Chain Intern (Summer 2027) | Paso Robles, CA +1 |  | Sep 17 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Supply-Chain-Intern--Summer-2027-_REQ-020108) |
 | [Generac](https://internscout.org/internships/at/generac/) | Industrial Engineering Intern - Summer 2027 | Waukesha, WI - USA +1 |  | Sep 17 | [Apply](https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Industrial-Engineering-Intern---Summer-2027_JR16999-1) |
 | [Clarios](https://internscout.org/internships/at/clarios/) | Global Logistics Intern (Summer 2027) | United States, Wisconsin, Milwaukee |  | Sep 17 | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Global-Logistics-Intern--Summer-2027-_WD50214) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Long Beach, CA +2 | \$28.00 | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984564003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Middle River, MD +2 |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7988835003) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Systems Engineering Internship | Westminster, CO +1 |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/a3b0f097-9d62-4a67-9800-de5dfe416da2/apply) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Supply Chain Internship | Westminster, CO |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/6c354949-9e6b-4716-9381-f8aa071e3465/apply) |
 | [Lonza](https://internscout.org/internships/at/lonza/) | Summer 2027 Supply Chain Internship | US - Portsmouth, NH |  | Sep 16 | [Apply](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/US---Portsmouth-NH/Summer-2026-Supply-Chain-Internship_R79571) |

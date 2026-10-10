@@ -1,6 +1,6 @@
 # Law and Legal: Summer 2027 Internships
 
-108 open Summer 2027 law and legal roles, newest first (all 108). **Updated October 10, 2026.** [Back to every major](../README.md) · [See all 280 law and legal internships on InternScout](https://internscout.org/internships/law/)
+109 open Summer 2027 law and legal roles, newest first (all 109). **Updated October 10, 2026.** [Back to every major](../README.md) · [See all 280 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Dallas Fort Worth International Airport](https://internscout.org/internships/at/dallas-fort-worth-international-airport/) | 2027 Undergraduate Summer Internship - Fire Regulatory Compliance & Planning | DPS Headquarters, TX |  | Sep 15 | [Apply](https://dfwairport.wd5.myworkdayjobs.com/External/job/DPS-Headquarters/XMLNAME-2027-Undergraduate-Summer-Internship---Fire-Regulatory-Compliance---Planning_JR102115) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Public Policy Intern (Kennett Square, PA) | Kennett Square, Pennsylvania |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138711) |
 | [Huntington Bancshares](https://internscout.org/internships/at/huntington-bancshares/) | Summer 2027 Law Clerk Internship | Columbus, OH |  | Sep 11 | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Legal-Internship_R0075231) |
+| [NJM Insurance Group](https://internscout.org/internships/at/njm-insurance-group/) | General Claims Legal Intern | NJM - Trenton, NJ | Paid | Sep 10 | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/General-Claims-Legal-Intern_R2008162) |
 | [Meijer](https://internscout.org/internships/at/meijer/) | Compliance Intern- Summer 2027 | Grand Rapids, MI |  | Sep 10 | [Apply](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Compliance-Intern--Summer-2027_R000700307) |
 | [Stand Together](https://internscout.org/internships/at/stand-together/) | Strategic Research Intern - Pacific Legal Foundation | Arlington County, Arlington, VA |  | Sep 9 | [Apply](https://jobs.lever.co/standtogether/e4dd1d3c-79a0-435d-87b3-eac542b4c2b5/apply) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Policy Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175556?gh_jid=8175556) |

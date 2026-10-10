@@ -1,6 +1,6 @@
 # Software Engineering: Summer 2027 Internships
 
-1,169 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,169). **Updated October 10, 2026.** [Back to every major](../README.md) · [See all 2,460 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,169 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,169). **Updated October 10, 2026.** [Back to every major](../README.md) · [See all 2,464 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -26,7 +26,6 @@
 | [Rivian](https://internscout.org/internships/at/rivian/) | Product Development, Vehicle Attributes and Test Engineering - Summer 2027 Internships | Irvine, California | \$38.00-45.00/HR | Oct 9 | [Apply](https://careers.rivian.com/jobs/34306) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Procurement Intern - Infrastructure Solutions (Summer 2027) | Greenville, SC +1 |  | Oct 9 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279203) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Controls, Automation & Embedded Software - Summer 2027 Internships | Palo Alto, California +1 | \$33.00-51.00 per hour | Oct 9 | [Apply](https://careers.rivian.com/jobs/34310) |
-| [Spirit AeroSystems](https://internscout.org/internships/at/spirit-aerosystems/) | Boeing - Tulsa Summer 2027 Internship Program (Paid) - Information Digital Technology & Security (IDT&S) | Tulsa, Oklahoma |  | Oct 9 | [Apply](https://careers.spiritaero.com/jobs/17480) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - System IT (S&R and Statistics) | Dallas, TX |  | Oct 9 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---System-IT--S-R-and-Statistics-_R-0000033623) |
 | [Lazard](https://internscout.org/internships/at/lazard/) | Lazard: Houston Power, Energy & Infrastructure - 2027 Summer Associate | Houston |  | Oct 9 | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6720) |
 | [Nelnet](https://internscout.org/internships/at/nelnet/) | Intern - IT Software Engineer .NET (Summer 2027) | Lincoln, NE |  | Oct 9 | [Apply](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198) |
@@ -204,6 +203,7 @@
 | [Oshkosh](https://internscout.org/internships/at/oshkosh/) | Digital Technology Business Analyst Intern | Frederick, Maryland, United States |  | Sep 30 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/ERP-Summer-2027-Intern_R49545) |
 | Enova | Software Engineer Intern | Chicago, IL | Paid | Sep 29 | [Apply](https://job-boards.greenhouse.io/enova/jobs/8239619) |
 | [Westinghouse Electric Company](https://internscout.org/internships/at/westinghouse-electric-company/) | Software Developer Intern - Tools & Apps | Warrendale, PA |  | Sep 29 | [Apply](https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Tools-&-Apps-OR/1434869300/?ats=successfactors) |
+| [Honeywell](https://internscout.org/internships/at/honeywell/) | Software Engineering Co-op | United States |  | Sep 29 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,9 +1,10 @@
 # Operations: Summer 2027 Internships
 
-321 open Summer 2027 operations roles, newest first (the 200 newest of 321). **Updated October 10, 2026.** [Back to every major](../README.md) · [See all 763 operations internships on InternScout](https://internscout.org/internships/operations/)
+322 open Summer 2027 operations roles, newest first (the 200 newest of 322). **Updated October 10, 2026.** [Back to every major](../README.md) · [See all 764 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Field Sales Operations Internship – District Manager, Parts & Service | Warren, Michigan, United States of America +4 |  | Oct 10 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Field-Sales-Operations-Internship---District-Manager--Parts---Service_JR-202619666) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Creative Product Operations Intern - Multiple Teams | San Jose, CA |  | Oct 9 | [Apply](https://lifeattiktok.com/search/7693727532178229509) |
 | [Northrop Grumman](https://internscout.org/internships/at/northrop-grumman/) | 2027 Operations Manufacturing Engineering Intern | United States-Florida-Melbourne | \$18.50 to \$33.50 per hour | Oct 9 | [Apply](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10253688) |
 | [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Operations Intern, Summer 2027 | Jacksonville, Florida, United States of America |  | Oct 9 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Operations-Intern--Summer-2027_R-103870) |
@@ -203,7 +204,6 @@
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Intern - HR Operations | Bridgeton, Missouri |  | Sep 1 | [Apply](https://careers.na.panasonic.com/jobs/50762) |
 | [Exelon](https://internscout.org/internships/at/exelon/) | 2027 Summer Internship - Project Management (Various Exelon Locations) | CHICAGO, Illinois +6 | \$20.00/Hr | Aug 31 | [Apply](https://careers.comed.com/jobs/30124) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | IT Quality Assurance Intern (Summer 2027) | Westerville, OH |  | Aug 31 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279193) |
-| [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Masters Summer Internship Program - 2027 Global Real Estate & Workplace Experience, Enterprise Shared S… | New York, NY |  | Aug 31 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012153) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
