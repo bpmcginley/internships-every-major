@@ -1,10 +1,10 @@
 # Psychology: Summer 2027 Internships
 
-7 open Summer 2027 psychology roles, newest first (all 7). **Updated October 10, 2026.** [Back to every major](../README.md) · [See all 34 psychology internships on InternScout](https://internscout.org/internships/psychology/)
+7 open Summer 2027 psychology roles, newest first (all 7). **Updated October 11, 2026.** [Back to every major](../README.md) · [See all 34 psychology internships on InternScout](https://internscout.org/internships/psychology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [Excellus BCBS](https://internscout.org/internships/at/excellus-bcbs/) | College Intern - Summer 2027 - Behavioral Health Provider Relations | Buffalo +2 | Paid | Sep 23 | [Apply](https://lthc.wd1.myworkdayjobs.com/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Behavioral-Health-Provider-Relations_JR104057-2) |
+| [Excellus BCBS](https://internscout.org/internships/at/excellus-bcbs/) | College Intern - Summer 2027 - Behavioral Health Provider Relations | Buffalo +2 | Paid | Sep 24 | [Apply](https://lthc.wd1.myworkdayjobs.com/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Behavioral-Health-Provider-Relations_JR104057-2) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics | Mountain View, CA, USA +1 |  | Sep 14 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8197899) |
 | [Lyft](https://internscout.org/internships/at/lyft/) | UX Research Intern (Summer 2027) | Toronto, Canada |  | Sep 11 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Quantitative UX Researcher, Growth/International Expansion | San Francisco, California, United States | Paid | Aug 28 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8163364) |

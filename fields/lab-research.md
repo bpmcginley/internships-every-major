@@ -1,14 +1,14 @@
 # Lab Research: Summer 2027 Internships
 
-11 open Summer 2027 lab research roles, newest first (all 11). **Updated October 10, 2026.** [Back to every major](../README.md) · [See all 93 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
+11 open Summer 2027 lab research roles, newest first (all 11). **Updated October 11, 2026.** [Back to every major](../README.md) · [See all 93 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [RTX](https://internscout.org/internships/at/rtx/) | Materials Engineering Lab Co-Op (Summer/Fall 2027) | Cedar Rapids, IA |  | Oct 7 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Materials-Engineering-Lab-Co-Op--Summer-Fall-2027-_01870992) |
-| [Momentive](https://internscout.org/internships/at/momentive/) | Summer 2027 Intern-Intern for Product Development Lab (Chemistry) | Waterford, NY |  | Oct 6 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/Summer-2027-Intern-Intern-for-Product-Development-Lab--Chemistry-_R9810) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Materials Engineering Lab Co-Op (Summer/Fall 2027) | Cedar Rapids, IA |  | Oct 8 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Materials-Engineering-Lab-Co-Op--Summer-Fall-2027-_01870992) |
+| [Momentive](https://internscout.org/internships/at/momentive/) | Summer 2027 Intern-Intern for Product Development Lab (Chemistry) | Waterford, NY |  | Oct 7 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/Summer-2027-Intern-Intern-for-Product-Development-Lab--Chemistry-_R9810) |
 | [Novelis](https://internscout.org/internships/at/novelis/) | MMP Quality Lab Co-Op | Spokane Valley, WA |  | Sep 30 | [Apply](https://careers-novelis.icims.com/jobs/53214/mmp-quality-lab-co-op/job) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Construction Materials Engineering and Laboratory Testing Intern - Summer 2027 | San Diego, CA |  | Sep 23 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95670) |
-| [Land O'Lakes](https://internscout.org/internships/at/land-o-lakes/) | WinField United Research & Development Lab Intern, Summer 2027 | River Falls, WI (USA) |  | Sep 15 | [Apply](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/River-Falls-WI-USA/WinField-United-Research---Development-Lab-Intern--Summer-2027_R-40232) |
+| [Land O'Lakes](https://internscout.org/internships/at/land-o-lakes/) | WinField United Research & Development Lab Intern, Summer 2027 | River Falls, WI (USA) |  | Sep 16 | [Apply](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/River-Falls-WI-USA/WinField-United-Research---Development-Lab-Intern--Summer-2027_R-40232) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Innovation Lab Engineering Intern 2 | Delaware, OH |  | Sep 11 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280129) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Innovation Lab Intern | Delaware, OH |  | Sep 11 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280126) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | R&D Chemistry Laboratory Intern (Austin MN) - Summer 2027 - Campus Recruiting | Austin, MN |  | Sep 8 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35724) |
