@@ -1,9 +1,10 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-445 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 445). **Updated October 11, 2026.** [Back to every major](../README.md) · [See all 834 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+446 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 446). **Updated October 11, 2026.** [Back to every major](../README.md) · [See all 837 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Strategic Pricing & AI Analytics Intern (Summer 2027) | USA - Texas - Austin |  | Oct 11 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Strategic-Pricing---AI-Analytics-Intern--Summer-2027-_JR-2605139) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship - Data Science & Autonomous Systems - Critical Infrastructure Protection | Laurel, Maryland +1 |  | Oct 10 | [Apply](https://careers.jhuapl.edu/jobs/60432) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Research Intern - World Models and Synthetic Data for Autonomous Driving | Santa Clara, CA +2 |  | Oct 9 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1) |
 | [Itron](https://internscout.org/internships/at/itron/) | HR AI Data Science Intern | Austin, TX +1 |  | Oct 9 | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034-1) |
@@ -161,7 +162,7 @@
 | [AutoZone](https://internscout.org/internships/at/autozone/) | AutoZone 2027 Summer Internship – Data Science | Memphis, TN |  | Sep 21 | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Product Data Science | San Francisco, California, United States +1 | Paid | Sep 18 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8199365) |
 | [Guardian Life](https://internscout.org/internships/at/guardian-life/) | 2027 Guardian Summer Intern, Corporate Finance & Risk - Investment Reporting & Data Analytics | New York |  | Sep 18 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Investment-Accounting_R000110127) |
-| [AIG](https://internscout.org/internships/at/aig/) | 2027 Early Careers: Summer Intern, Data Office – United States, Atlanta, GA, Charlotte, NC, Parsippany, NJ, Jersey City… | GA-Atlanta +4 |  | Sep 18 | [Apply](https://aig.wd1.myworkdayjobs.com/early_careers/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Summer-Intern--Data-Office---United-States--Atlanta--GA--Charlotte--NC--Parsippany--NJ--Jersey-City--NJ---New-York--NY_JR2603655) |
+| [AIG](https://internscout.org/internships/at/aig/) | 2027 Early Careers: Summer Intern, Data Office – United States, Atlanta, GA, Charlotte, NC, Parsippany, NJ, Jersey City… | GA-Atlanta +9 |  | Sep 18 | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Summer-Intern--Data-Office---United-States--Atlanta--GA--Charlotte--NC--Parsippany--NJ--Jersey-City--NJ---New-York--NY_JR2603655-1) |
 | [Lennox International](https://internscout.org/internships/at/lennox-international/) | AI & Analytics Intern | Richardson, TX |  | Sep 17 | [Apply](https://uscareers-lennox.icims.com/jobs/54804/job?mobile=true&needsRedirect=false) |
 | [Honeywell](https://internscout.org/internships/at/honeywell/) | Data Science Co-op | Pittsford, NY |  | Sep 17 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157903) |
 | [onsemi](https://internscout.org/internships/at/onsemi/) | Data and Visualization Intern | Hopewell Junction, NY |  | Sep 17 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506638) |
@@ -203,7 +204,6 @@
 | [Google](https://internscout.org/internships/at/google/) | Data Scientist Research Intern - PhD | Palo Alto, CA +29 |  | Sep 14 | [Apply](https://www.google.com/about/careers/applications/jobs/results/89965613241246406) |
 | [ibotta](https://internscout.org/internships/at/ibotta/) | Data Engineering Intern | Hybrid - Denver +3 | \$34.23 per hour | Sep 14 | [Apply](https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2/application) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics | Mountain View, CA, USA +1 |  | Sep 14 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8197899) |
-| [URBN](https://internscout.org/internships/at/urbn/) | Data Science Intern | Philadelphia, PA |  | Sep 14 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/30444/job?mobile=true&needsRedirect=false) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

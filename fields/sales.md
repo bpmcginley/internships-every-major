@@ -1,6 +1,6 @@
 # Sales: Summer 2027 Internships
 
-203 open Summer 2027 sales roles, newest first (the 200 newest of 203). **Updated October 11, 2026.** [Back to every major](../README.md) · [See all 407 sales internships on InternScout](https://internscout.org/internships/sales/)
+204 open Summer 2027 sales roles, newest first (the 200 newest of 204). **Updated October 11, 2026.** [Back to every major](../README.md) · [See all 409 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Jane Street](https://internscout.org/internships/at/jane-street/) | Sales and Trading Intern | New York, NY |  | Jul 24 | [Apply](https://www.janestreet.com/join-jane-street/position/8347385002/) |
 | [AQR](https://internscout.org/internships/at/aqr/) | 2027 Business Development Summer Analyst | Greenwich, CT |  | May 15 | [Apply](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Sales Enablement Intern | Niles, IL |  | Oct 11, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5009/global-sales-enablement-intern/job) |
+| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Team Sports/Sales | Baltimore, MD |  | Oct 11 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Team-SportsSales-MD-21230/1434355500/) |
 | [Ecolab](https://internscout.org/internships/at/ecolab/) | Mining Engineering Technical Sales Intern | USA - Virginia - Blacksburg +2 | Paid | Oct 10 | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Virginia---Blacksburg/Mining-Engineering-Technical-Sales-Intern_R00303116-1) |
 | [Western & Southern Financial Group](https://internscout.org/internships/at/western-southern-financial-group/) | Enterprise Engagement Center Sales Intern (Summer 2027) | CINCINNATI, OH |  | Oct 5 | [Apply](https://careers-westernsouthern.icims.com/jobs/25179/enterprise-engagement-center-sales-intern-%28summer-2027%29/job) |
 | [MFS](https://internscout.org/internships/at/mfs/) | Summer 2027 Internal Sales Intern (June-August) | Boston | \$21.00-\$25.00 | Oct 1 | [Apply](https://mfs.wd1.myworkdayjobs.com/MFS-Careers/job/Boston/Summer-2027-Internal-Sales-Intern--June-August-_MFS-231963) |
@@ -203,7 +204,6 @@
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Marketing & Sales Education & Training Internship - Summer 2027 | Lansing, MI |  | Sep 18 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Marketing---Sales-Education---Training-Internship---Summer-2027_R_14449) |
 | [Abbott](https://internscout.org/internships/at/abbott/) | Abbott Nutrition Consumer Sales Internship Summer 2027 | United States - Ohio - Columbus +3 | Paid | Sep 18 | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Abbott-Nutrition-Consumer-Sales-Internship-Summer-2027_31160319) |
 | [Polaris](https://internscout.org/internships/at/polaris/) | Sales Internship - Summer 2027 | Plymouth, MN, USA +1 |  | Sep 18 | [Apply](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Plymouth-MN-USA/Sales-Internship---Summer-2027_R30417) |
-| [McKesson](https://internscout.org/internships/at/mckesson/) | McKesson Health Systems (MHS) Field Sales Support Intern - Summer 2027 | USA, TX | Paid | Sep 18 | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/McKesson-Health-Systems--MHS--Field-Sales-Support-Intern---Summer-2027_JR0152595) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

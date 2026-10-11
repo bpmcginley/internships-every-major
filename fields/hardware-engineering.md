@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-188 open Summer 2027 hardware engineering roles, newest first (all 188). **Updated October 11, 2026.** [Back to every major](../README.md) · [See all 520 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+187 open Summer 2027 hardware engineering roles, newest first (all 187). **Updated October 11, 2026.** [Back to every major](../README.md) · [See all 518 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -103,7 +103,6 @@
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | Robotics System Test Intern - The Toro Company | Frederick, CO |  | Sep 10 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004) |
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | Hardware and Software Engineering Intern - Ditch Witch | Perry, OK |  | Sep 10 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183) |
 | Hexagon AB | Digital Hardware Engineer Intern - GNSS Positioning Digital Team | Calgary, AB +1 |  | Sep 9 | [Apply](https://careers-hexagonpositioning.icims.com/jobs/3090/job?mobile=true&needsRedirect=false) |
-| [Marvell](https://internscout.org/internships/at/marvell/) | Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation | Burlington, VT |  | Sep 9 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1) |
 | [Motorola](https://internscout.org/internships/at/motorola/) | FPGA Design Engineering Intern | Schaumburg, IL |  | Sep 9 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/FPGA-Design-Engineering-Intern---Summer-2027_R68401) |
 | [Revel](https://internscout.org/internships/at/revel/) | Embedded Software Engineer Intern | SF +5 |  | Sep 8 | [Apply](https://jobs.ashbyhq.com/revel/f8eec1fd-da28-47ce-bca4-2fbe9c48a889/application?embed=true) |
 | [RF-SMART](https://internscout.org/internships/at/rf-smart/) | Hardware Support Internship - Summer 2027 | Jacksonville, Florida, United States | \$20 per Hour | Sep 8 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5407220008) |

@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-117 open Summer 2027 human resources roles, newest first (all 117). **Updated October 11, 2026.** [Back to every major](../README.md) · [See all 270 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+116 open Summer 2027 human resources roles, newest first (all 116). **Updated October 11, 2026.** [Back to every major](../README.md) · [See all 269 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -39,7 +39,6 @@
 | [Regal Rexnord](https://internscout.org/internships/at/regal-rexnord/) | Human Resources Summer Intern | Milwaukee, Wisconsin, United States +2 | \$19 - \$25 per hour | Sep 22 | [Apply](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Milwaukee-Wisconsin-United-States/Human-Resources-Summer-Intern_R26_04544-1) |
 | [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 Master's AI Research, Reinforcement Learning and LLM Post-Training Intern | Santa Clara, California +1 |  | Sep 21 | [Apply](https://careers.amd.com/jobs/91013) |
 | [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 PhD AI Research Infrastructure, RL Post-Training Intern | Santa Clara, California +1 |  | Sep 21 | [Apply](https://careers.amd.com/jobs/90950) |
-| [Fidelity Investments](https://internscout.org/internships/at/fidelity-investments/) | Summer 2027 Undergraduate Internship - Human Resources | Boston, MA +3 | \$20 - \$32 per hour | Sep 21 | [Apply](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Summer-2027-Undergraduate-Internship---Human-Resources_2134159-1) |
 | [ATC](https://internscout.org/internships/at/atc/) | Intern-Human Resources Summer 2027 | Pewaukee, WI |  | Sep 21 | [Apply](https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern-HR-Summer-2027_R0003297) |
 | [AutoZone](https://internscout.org/internships/at/autozone/) | AutoZone 2027 Summer Internship – Human Resources | Memphis, TN |  | Sep 21 | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155429) |
 | [Commerce Bank](https://internscout.org/internships/at/commerce-bank/) | Intern - Human Resources (Summer 2027) | Kansas City Downtown/Plaza - Kansas City - KC Downtown Trust Building (922 Walnut), MO | \$20.00 - \$20.00 | Sep 21 | [Apply](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern---Human-Resources--Summer-2027-_38477) |
@@ -50,7 +49,7 @@
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Talent Acquisition & HR Service Delivery | Phoenix, AZ |  | Sep 16 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Talent-Acquisition---HR-Service-Delivery_R13872) |
 | [Ingredion](https://internscout.org/internships/at/ingredion/) | Digital HR Intern | Westchester, IL |  | Sep 15 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Digital-HR-Intern_Req-39911-1) |
 | [W.W. Grainger](https://internscout.org/internships/at/w-w-grainger/) | Human Resources Internship (Summer 2027) | LAKE FOREST, IL | \$29.50 per hour | Sep 15 | [Apply](https://jobs.grainger.com/job/LAKE-FOREST-Human-Resources-Internship-%28Summer-2027%29-IL-60045-5202/1430280400/) |
-| [AIG](https://internscout.org/internships/at/aig/) | 2027 Early Careers: Summer Intern, Human Resources – United States, New York, NY | NY-New York |  | Sep 15 | [Apply](https://aig.wd1.myworkdayjobs.com/early_careers/job/NY-New-York/XMLNAME-2027-Early-Careers--Summer-Intern--Human-Resources---United-States--New-York--NY_JR2602693) |
+| [AIG](https://internscout.org/internships/at/aig/) | 2027 Early Careers: Summer Intern, Human Resources – United States, New York, NY | NY-New York |  | Sep 15 | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/NY-New-York/XMLNAME-2027-Early-Careers--Summer-Intern--Human-Resources---United-States--New-York--NY_JR2602693-1) |
 | [Robinhood](https://internscout.org/internships/at/robinhood/) | People Partner Intern (Summer 2027) | New York, NY | Paid | Sep 14 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8197614?t=gh_src=&gh_jid=8197614) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Nuclear Human Resources Operations Intern (Lusby, MD) | Lusby, Maryland |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138707) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Total Rewards and HRIS Intern, Summer 2027 | Boston, MA +3 |  | Sep 14 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Boston-MA/Total-Rewards-and-HRIS--Intern-2027_10017569) |
