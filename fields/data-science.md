@@ -1,6 +1,6 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-446 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 446). **Updated October 11, 2026.** [Back to every major](../README.md) · [See all 835 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+445 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 445). **Updated October 11, 2026.** [Back to every major](../README.md) · [See all 834 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -54,7 +54,6 @@
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Sales Analytics Intern | Milwaukee, WI |  | Oct 5 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1) |
 | [Midland States Bank](https://internscout.org/internships/at/midland-states-bank/) | Associate Solutions Engineer Intern - Data Warehouse | St. Louis, MO +1 | Paid | Oct 5 | [Apply](https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---Associate-Solutions-Engineer---Data-Warehouse_JR1462) |
 | [Wex](https://internscout.org/internships/at/wex/) | AI & Data Platform Engineering Intern (Undergraduate) | Remote +1 | Paid | Oct 5 | [Apply](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055) |
-| [General Motors](https://internscout.org/internships/at/general-motors/) | Summer Intern - AI & Hardware Analytics - Adpt | Milford, MI +3 |  | Oct 5 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756) |
 | [Brunswick](https://internscout.org/internships/at/brunswick/) | Mercury Marine: Power BI/Ops Analytics Co-op | Fond du Lac, WI |  | Oct 5 | [Apply](https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Power-BI-Ops-Analytics-Co-op_JR-051236) |
 | [Intuit](https://internscout.org/internships/at/intuit/) | Finance Transformation & Analytics Intern | Mountain View, CA |  | Oct 2 | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184) |
 | Elevance Health | Data Analyst Graduate Intern | Indianapolis, IN +3 |  | Oct 2 | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Data-Analyst-Graduate-Intern---Summer-2027_JR209074-1) |
@@ -204,6 +203,7 @@
 | [Google](https://internscout.org/internships/at/google/) | Data Scientist Research Intern - PhD | Palo Alto, CA +29 |  | Sep 14 | [Apply](https://www.google.com/about/careers/applications/jobs/results/89965613241246406) |
 | [ibotta](https://internscout.org/internships/at/ibotta/) | Data Engineering Intern | Hybrid - Denver +3 | \$34.23 per hour | Sep 14 | [Apply](https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2/application) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics | Mountain View, CA, USA +1 |  | Sep 14 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8197899) |
+| [URBN](https://internscout.org/internships/at/urbn/) | Data Science Intern | Philadelphia, PA |  | Sep 14 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/30444/job?mobile=true&needsRedirect=false) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

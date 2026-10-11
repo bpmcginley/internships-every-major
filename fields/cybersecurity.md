@@ -1,6 +1,6 @@
 # Cybersecurity: Summer 2027 Internships
 
-87 open Summer 2027 cybersecurity roles, newest first (all 87). **Updated October 11, 2026.** [Back to every major](../README.md) · [See all 195 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+86 open Summer 2027 cybersecurity roles, newest first (all 86). **Updated October 11, 2026.** [Back to every major](../README.md) · [See all 193 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -17,7 +17,6 @@
 | [Mastercard](https://internscout.org/internships/at/mastercard/) | Security Engineering & Enablement Intern, Summer 2027 – St. Louis, MO, US | O'Fallon, Missouri | \$27-34/hr | Oct 5 | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Security-Engineering---Enablement-Intern--Summer-2027---St-Louis--MO--US_R-284927) |
 | [Midland States Bank](https://internscout.org/internships/at/midland-states-bank/) | Intern - Security Analyst | St. Louis, MO | Paid | Oct 5 | [Apply](https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/St-Louis-MO/Intern---Security-Analyst_JR1473) |
 | [Wex](https://internscout.org/internships/at/wex/) | Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate) | Remote +1 | \$27.00 | Oct 5 | [Apply](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589) |
-| [TD Bank](https://internscout.org/internships/at/td-bank/) | 2027 Summer Internship Program - Global Technology & Solutions - Cyber Security | Mount Laurel, New Jersey | \$30.74 - \$30.74 | Oct 5 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cyber-Security_R_1510795) |
 | [CACI](https://internscout.org/internships/at/caci/) | Network / Cybersecurity Intern - Summer 2027 | High Point, NC, US |  | Oct 2 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/High-Point-NC-US/Network---Cybersecurity-Intern---Summer-2027_333001) |
 | [Cox](https://internscout.org/internships/at/cox/) | Cybersecurity Intern - Summer 2027 | Atlanta GA |  | Oct 2 | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202683372) |
 | [Pentair](https://internscout.org/internships/at/pentair/) | IT & Cybersecurity Leadership Development Internship Program - Summer 2027 | Golden Valley, MN |  | Oct 2 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/IT---Cybersecurity-Leadership-Development-Internship-Program----Summer-2027_R23700) |

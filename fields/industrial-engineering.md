@@ -1,6 +1,6 @@
 # Industrial Engineering: Summer 2027 Internships
 
-238 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 238). **Updated October 11, 2026.** [Back to every major](../README.md) · [See all 616 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+238 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 238). **Updated October 11, 2026.** [Back to every major](../README.md) · [See all 614 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Manufacturing Engineering Internship - Graduate | Huntsville, AL +2 | \$38.00 | Sep 18 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Huntsville-AL/Summer-2027-Manufacturing-Engineering-Internship---Graduate_R71427) |
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Structural & Mechanical Systems Engineering Internship - Graduate | Van Horn, TX +4 | \$38.00 | Sep 18 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Structural---Mechanical-Systems-Engineering-Internship---Graduate_R71445) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | Supply Chain Intern (Summer 2027) - Clinton, Indiana | Clinton, IN |  | Sep 18 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Clinton-IN/Supply-Chain-Intern--Summer-2027----Clinton--Indiana_R0027061) |
-| [Medtronic](https://internscout.org/internships/at/medtronic/) | Supply Chain/Supply Management Intern- Summer 2027 | Minneapolis, Minnesota, United States of America +6 | Paid | Sep 18 | [Apply](https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Supply-Chain-Supply-Management-Intern--Summer-2027_R73693-2) |
+| [Medtronic](https://internscout.org/internships/at/medtronic/) | Supply Chain/Supply Management Intern- Summer 2027 | Minneapolis, Minnesota, United States of America +6 | Paid | Sep 18 | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Supply-Chain-Supply-Management-Intern--Summer-2027_R73693) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | Supply Chain Management Intern – Fort Dodge, Iowa (Summer 2027) | Fort Dodge, IA |  | Sep 18 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Fort-Dodge-IA/Supply-Chain-Management-Intern---Fort-Dodge--Iowa--Summer-2027-_R0027091) |
 | [Momentive](https://internscout.org/internships/at/momentive/) | Summer 2027 Intern - Strategic Project Continuous Improvement | Niskayuna, NY +1 |  | Sep 18 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Strategic-Project-Continuous-Improvement_R9787) |
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-Op - Supply Chain (Summer 2027) | Findlay, Ohio +7 |  | Sep 18 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-Op---Supply-Chain--Summer-2027-_00023280) |

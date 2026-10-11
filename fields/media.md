@@ -1,6 +1,6 @@
 # Media: Summer 2027 Internships
 
-38 open Summer 2027 media roles, newest first (all 38). **Updated October 11, 2026.** [Back to every major](../README.md) · [See all 110 media internships on InternScout](https://internscout.org/internships/media/)
+38 open Summer 2027 media roles, newest first (all 38). **Updated October 11, 2026.** [Back to every major](../README.md) · [See all 111 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
