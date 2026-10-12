@@ -1,13 +1,12 @@
 # Sustainability: Summer 2027 Internships
 
-74 open Summer 2027 sustainability roles, newest first (all 74). **Updated October 12, 2026.** [Back to every major](../README.md) · [See all 111 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+75 open Summer 2027 sustainability roles, newest first (all 75). **Updated October 12, 2026.** [Back to every major](../README.md) · [See all 112 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | Neuberger Berman | MBA Intern, Stewardship & Sustainable Investing Summer 2027 | New York, NY | \$140,000-\$140,000 | Oct 12 | [Apply](https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/MBA-Intern--Stewardship---Sustainability-Summer-2027_R0012713) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Acoustics Intern (Summer 2027) | Chicago, IL |  | Oct 9 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008256) |
 | [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Sustainability Operations Summer 2027 Internship - New York, NY | New York, NY |  | Oct 9 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Sustainability-Operations-Summer-2027-Internship---New-York--NY_REQ540054) |
-| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Radiation Protection Intern - Middletown, PA | Middletown, Pennsylvania +1 | Paid | Oct 9 | [Apply](https://jobs.constellationenergy.com/jobs/139903) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern Power Development Summer 2027 | The Woodlands, Texas |  | Oct 8 | [Apply](https://jobs.entergy.com/job/The-Woodlands-Student%2C-Intern-Power-Development-Summer-2027-Texa/1438490500/) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Sustainability Intern | Pittsburgh, Pennsylvania | Paid | Oct 8 | [Apply](https://careers.trccompanies.com/jobs/27037) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Sustainable Mobility (New York) | New York, NY +2 |  | Oct 8 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/New-York-NY/XMLNAME-2027-Summer-Intern--Sustainable-Mobility--New-York-_R2603406) |
@@ -27,6 +26,7 @@
 | [Stantec](https://internscout.org/internships/at/stantec/) | Transportation Co-op/Intern - Fuel System (Summer 2027) | Portland, ME +1 |  | Sep 22 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007908) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Lighting Intern/Co-op – Buildings (Summer 2027) | Denver, CO +4 |  | Sep 21 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007844) |
 | [Gordon Food Service](https://internscout.org/internships/at/gordon-food-service/) | Sustainability Intern | Wyoming, MI +1 |  | Sep 21 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Sustainability-Intern_R-57405) |
+| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Radiation Protection Intern - Braceville, IL | Braceville, Illinois | Paid | Sep 18 | [Apply](https://jobs.constellationenergy.com/jobs/139332) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: Renewables Intern | Northbrook, IL +1 |  | Sep 18 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10867) |
 | [Arcadis](https://internscout.org/internships/at/arcadis/) | Water/Wastewater Intern - Summer 2027 | Clifton Park, NY |  | Sep 17 | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44423) |
 | Wabash Valley Power Alliance | Energy Efficiency & Demand Response Intern | Indianapolis, IN |  | Sep 16 | [Apply](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149873771) |
@@ -60,6 +60,7 @@
 | [Springs Window Fashions](https://internscout.org/internships/at/springs-window-fashions/) | Sustainability Data and Marketing Specialist Internship - Summer 2027 | LONG ISLAND CITY, NY | \$23.00/hr | Aug 22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12896/sustainability-data-and-marketing-specialist-internship---summer-2027/job) |
 | WEC Energy Group | Renewables Data Analytics Intern | Milwaukee, WI +1 |  | Aug 14 | [Apply](https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Intern-Renewables-Data-Analytics-WI-53203/1419740100/?ats=successfactors) |
 | [Mortenson](https://internscout.org/internships/at/mortenson/) | Sustainability Intern | Denver, CO |  | Aug 10 | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23367) |
+| [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern, Production Technician, Summer 2027 | Lake Charles, Louisiana |  | Oct 12 | [Apply](https://jobs.entergy.com/job/Lake-Charles-Student%2C-Intern%2C-Production-Technician%2C-Summer-2027-Loui/1439246500/) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern Enterprise Safety Summer 2027 | Jackson, Mississippi |  | Sep 24 | [Apply](https://jobs.entergy.com/job/Jackson-Student%2C-Intern-Enterprise-Safety-Summer-2027-Miss/1433660400/) |
 | [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | Renewables Engineering Intern - WI | Eau Claire, WI, 54702 +1 | \$23.10 to \$24.60 per hour | Sep 18 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Eau-Claire-WI-54702/Renewables-Engineering-Intern---WI_JR115672-1) |
 | [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Climate Sustainability Internship Masters/MBA Intern | USA-Illinois-Chicago | Paid | Sep 18 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Illinois-Chicago/Summer-2027-Mars-Climate-Sustainability-Internship-Masters-MBA-Intern_R162093-1) |

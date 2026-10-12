@@ -1,9 +1,10 @@
 # Hardware Engineering: Summer 2027 Internships
 
-183 open Summer 2027 hardware engineering roles, newest first (all 183). **Updated October 12, 2026.** [Back to every major](../README.md) · [See all 516 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+184 open Summer 2027 hardware engineering roles, newest first (all 184). **Updated October 12, 2026.** [Back to every major](../README.md) · [See all 519 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Symbotic](https://internscout.org/internships/at/symbotic/) | Intern - Hardware Engineer | USA Wilmington, MA - ITC +1 |  | Oct 12 | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington-MA---ITC/Hardware-Engineer_R8101) |
 | [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 ASIC Design Co-Op/ Intern | Orlando, Florida +1 |  | Oct 9 | [Apply](https://careers.amd.com/jobs/91341) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Electrical Hardware, Design & Test - Summer 2027 Internships | Irvine, California +2 | \$33.00-51.00 per hour | Oct 9 | [Apply](https://careers.rivian.com/jobs/34307) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Controls, Automation & Embedded Software - Summer 2027 Internships | Palo Alto, California +1 | \$33.00-51.00 per hour | Oct 9 | [Apply](https://careers.rivian.com/jobs/34310) |
@@ -26,6 +27,7 @@
 | [Arc](https://internscout.org/internships/at/arc/) | Electrical Hardware Engineering Intern | Torrance, CA |  | Oct 2 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008) |
 | [Lyft](https://internscout.org/internships/at/lyft/) | Hardware Field Quality Engineer Intern (Summer 2027) | Longueuil, Canada |  | Oct 2 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002) |
 | [Hitachi](https://internscout.org/internships/at/hitachi/) | Hardware Test Engineering Intern (Summer 2027, 16months) | Toronto, Ontario, Canada +2 | Paid | Oct 2 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) |
+| [Space Dynamics Laboratory](https://internscout.org/internships/at/space-dynamics-laboratory/) | CVS: FPGA Electrical Engineer Intern | North Logan, UT |  | Oct 1 | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/SznZA6uzbW/CVS-FPGA-Electrical-Engineer-Intern) |
 | [CoStar Group](https://internscout.org/internships/at/costar-group/) | Embedded Software Engineering Intern | Sunnyvale (US) +1 |  | Oct 1 | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950) |
 | Quantum Signal AI | Embedded and Real-Time Software Intern | Saline, MI |  | Sep 30 | [Apply](https://quantumsignalai.applytojob.com/apply/23a7Z79zfn/Embedded-And-RealTime-Software-Intern) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | RF Hardware Intern (Summer 2027) | San Francisco |  | Sep 30 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4708436006) |
@@ -57,7 +59,6 @@
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Firmware Development Intern - PAL | Markham, ON +1 |  | Sep 23 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721229661) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Digital Product: Embedded and Systems Engineering | Warren, Michigan, United States of America +5 |  | Sep 23 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513) |
 | Two Sigma | Hardware Engineering Intern | NYC |  | Sep 22 | [Apply](https://twosigma.avature.net/careers/JobDetail/14289) |
-| [Symbotic](https://internscout.org/internships/at/symbotic/) | Intern - Hardware Engineer | USA Wilmington, MA - ITC +1 |  | Sep 22 | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington-MA---ITC/Hardware-Engineer_R8101) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Analog Layout Intern - BS | Irvine, CA +1 | Paid | Sep 22 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Layout-Intern--BS---Summer-2027_2604735-1) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, BS/MS, Embedded, Software Engineer | Mountain View, CA, USA +1 |  | Sep 21 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8221198) |
 | [AeroVironment](https://internscout.org/internships/at/aerovironment/) | Summer 2027 Autonomy & Robotics Engineering Intern | Moorpark, CA +14 | Paid | Sep 21 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8551) |

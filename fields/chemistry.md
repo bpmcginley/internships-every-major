@@ -1,9 +1,10 @@
 # Chemistry: Summer 2027 Internships
 
-15 open Summer 2027 chemistry roles, newest first (all 15). **Updated October 12, 2026.** [Back to every major](../README.md) · [See all 38 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
+16 open Summer 2027 chemistry roles, newest first (all 16). **Updated October 12, 2026.** [Back to every major](../README.md) · [See all 39 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Sanofi](https://internscout.org/internships/at/sanofi/) | 2027 Summer Intern Medicinal Chemistry Cambridge MA | Cambridge, MA | Paid | Oct 12 | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-Medicinal-Chemistry-Cambridge-MA_R2865704-1) |
 | [Haleon](https://internscout.org/internships/at/haleon/) | 2027 Summer Intern: Product Chemistry and Modeling | USA - Virginia - Richmond |  | Oct 9 | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---Virginia---Richmond/XMLNAME-2027-Summer-Intern--Product-Chemistry-and-Modeling_548427) |
 | [Sanofi](https://internscout.org/internships/at/sanofi/) | 2027 Summer Intern - Computational Medicinal Chemistry, Cambridge, MA | Cambridge, MA | Paid | Oct 8 | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern---Computational-Medicinal-Chemistry--Cambridge--MA_R2865701) |
 | [Momentive](https://internscout.org/internships/at/momentive/) | Summer 2027 Intern-Intern for Product Development Lab (Chemistry) | Waterford, NY |  | Oct 6 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/Summer-2027-Intern-Intern-for-Product-Development-Lab--Chemistry-_R9810) |

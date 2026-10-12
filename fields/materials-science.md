@@ -1,9 +1,11 @@
 # Materials Science: Summer 2027 Internships
 
-15 open Summer 2027 materials science roles, newest first (all 15). **Updated October 12, 2026.** [Back to every major](../README.md) · [See all 31 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
+17 open Summer 2027 materials science roles, newest first (all 17). **Updated October 12, 2026.** [Back to every major](../README.md) · [See all 33 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Research and Development - Computational Materials Science: Continuum Scales and Materials Discove… | Warren, Michigan, United States of America |  | Oct 12 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Computational-Materials-Science--Continuum-Scales-and-Materials-Discovery_JR-202621642) |
+| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Research and Development - Physical Metallurgist (Steels) | Warren, Michigan, United States of America |  | Oct 12 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Physical-Metallurgist--Steels-_JR-202621636) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Materials Engineering Intern | Sparks, Nevada |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51635) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Raw Materials Engineering Intern - Summer 2027 - Decherd, TN | Decherd, Tennessee - United States of America |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Raw-Materials-Engineering-Intern---Summer-2027---Decherd--TN_R00214290) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Materials Engineering Lab Co-Op (Summer/Fall 2027) | Cedar Rapids, IA |  | Oct 7 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Materials-Engineering-Lab-Co-Op--Summer-Fall-2027-_01870992) |

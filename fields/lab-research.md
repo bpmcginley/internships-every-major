@@ -1,9 +1,11 @@
 # Lab Research: Summer 2027 Internships
 
-11 open Summer 2027 lab research roles, newest first (all 11). **Updated October 12, 2026.** [Back to every major](../README.md) · [See all 93 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
+13 open Summer 2027 lab research roles, newest first (all 13). **Updated October 12, 2026.** [Back to every major](../README.md) · [See all 97 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Research and Development - Defense Lab Modeling and Simulation | Warren, Michigan, United States of America |  | Oct 12 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Defense-Lab-Modeling-and-Simulation_JR-202621729) |
+| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Research and Development - Defense Lab Support | Warren, Michigan, United States of America |  | Oct 12 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Defense-Lab-Support_JR-202621738) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Materials Engineering Lab Co-Op (Summer/Fall 2027) | Cedar Rapids, IA |  | Oct 7 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Materials-Engineering-Lab-Co-Op--Summer-Fall-2027-_01870992) |
 | [Momentive](https://internscout.org/internships/at/momentive/) | Summer 2027 Intern-Intern for Product Development Lab (Chemistry) | Waterford, NY |  | Oct 6 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/Summer-2027-Intern-Intern-for-Product-Development-Lab--Chemistry-_R9810) |
 | [Novelis](https://internscout.org/internships/at/novelis/) | MMP Quality Lab Co-Op | Spokane Valley, WA |  | Sep 30 | [Apply](https://careers-novelis.icims.com/jobs/53214/mmp-quality-lab-co-op/job) |

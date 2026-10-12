@@ -1,6 +1,6 @@
 # Media: Summer 2027 Internships
 
-32 open Summer 2027 media roles, newest first (all 32). **Updated October 12, 2026.** [Back to every major](../README.md) · [See all 105 media internships on InternScout](https://internscout.org/internships/media/)
+31 open Summer 2027 media roles, newest first (all 31). **Updated October 12, 2026.** [Back to every major](../README.md) · [See all 104 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -23,7 +23,6 @@
 | [Bloomberg Industry Group](https://internscout.org/internships/at/bloomberg-industry-group/) | 2027 Summer News Internship - Video Journalist | Arlington, VA - 1801 S Bell (INDG) |  | Sep 23 | [Apply](https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington-VA---1801-S-Bell-INDG/XMLNAME-2027-Summer-News-Internship---Video-Journalist_144777) |
 | [Dow Jones](https://internscout.org/internships/at/dow-jones/) | Summer 2027 Internship Program – TA Videographer / Marketing Intern | New York City |  | Sep 15 | [Apply](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/New-York-City/Summer-2027-Internship-Program---TA-Videographer---Marketing-Intern_Job_Req_55336) |
 | [Dow Jones](https://internscout.org/internships/at/dow-jones/) | Summer 2027 Internship Program – People Intern | New York City |  | Sep 15 | [Apply](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/New-York-City/Summer-2027-Internship-Program---People-Intern_Job_Req_55335) |
-| [Dow Jones](https://internscout.org/internships/at/dow-jones/) | Research Analyst Intern - Summer Internship Program | Houston, TX |  | Sep 14 | [Apply](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55298) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Creative Design (Interior/Exterior) | Warren, Michigan, United States of America +1 | \$6,100 month | Sep 14 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Creative-Design--Interior-Exterior-_JR-202619314) |
 | [Dow Jones](https://internscout.org/internships/at/dow-jones/) | Summer 2027 Internship Program – Brand Creative Design Intern | New York City |  | Sep 14 | [Apply](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/New-York-City/Summer-2027-Internship-Program---Brand-Creative-Design-Intern_Job_Req_55301) |
 | [Dow Jones](https://internscout.org/internships/at/dow-jones/) | Summer 2027 Internship Program – Client Associate Intern | New York City |  | Sep 14 | [Apply](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/New-York-City/Summer-2027-Internship-Program---Client-Associate-Intern_Job_Req_55288) |

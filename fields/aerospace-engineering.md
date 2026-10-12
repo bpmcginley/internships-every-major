@@ -1,11 +1,10 @@
 # Aerospace Engineering: Summer 2027 Internships
 
-30 open Summer 2027 aerospace engineering roles, newest first (all 30). **Updated October 12, 2026.** [Back to every major](../README.md) · [See all 68 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
+29 open Summer 2027 aerospace engineering roles, newest first (all 29). **Updated October 12, 2026.** [Back to every major](../README.md) · [See all 67 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [The Aerospace Corporation](https://internscout.org/internships/at/the-aerospace-corporation/) | 2027 Aerospace Returning Interns | El Segundo, CA +9 | \$18.00 - \$48.00 | Oct 6 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Returning-Interns_R016174) |
-| [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Aerospace, Defense & Government Finance | New York, New York | \$22.44 | Oct 5 | [Apply](https://firstcitizens.jibeapply.com/jobs/35782) |
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Aerospace Systems Engineering Intern - Graduate | Space Coast, FL +1 | \$38.00 | Oct 2 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Aerospace-Systems-Engineering-Intern---Graduate_R71435) |
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Aerospace Systems Engineering Internship - Undergraduate | Space Coast, FL +1 | \$32.00 | Oct 2 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Aerospace-Systems-Engineering-Internship----Undergraduate_R71436) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Avionics Engineering Internship - Summer 2027 | El Segundo, California, United States +1 |  | Oct 1 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010158003) |

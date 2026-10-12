@@ -1,9 +1,10 @@
 # Physics: Summer 2027 Internships
 
-18 open Summer 2027 physics roles, newest first (all 18). **Updated October 12, 2026.** [Back to every major](../README.md) · [See all 62 physics internships on InternScout](https://internscout.org/internships/physics/)
+19 open Summer 2027 physics roles, newest first (all 19). **Updated October 12, 2026.** [Back to every major](../README.md) · [See all 63 physics internships on InternScout](https://internscout.org/internships/physics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern – Research and Developement – Display Optical Simulation | Warren, Michigan, United States of America |  | Oct 12 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Developement---Display-Optical-Simulation_JR-202621740) |
 | [Space Dynamics Laboratory](https://internscout.org/internships/at/space-dynamics-laboratory/) | Electro-Optical Engineer Intern | North Logan, UT |  | Oct 6 | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/E1nubjCRhW/ElectroOptical-Engineer-Intern) |
 | [Corning](https://internscout.org/internships/at/corning/) | Optical Design Intern - Summer 2027 | Fairport, NY | \$1,635.00 - \$3,185.00 | Oct 6 | [Apply](https://corningjobs.corning.com/job/Fairport-Optical-Design-Intern-Summer-2027-NY-14450/1437588500/) |
 | [AMD](https://internscout.org/internships/at/amd/) | Masters Photonics Design Engineering Co-op | San Jose, CA |  | Oct 3 | [Apply](https://careers.amd.com/jobs/91633?icims=1) |
