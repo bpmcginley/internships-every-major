@@ -1,9 +1,10 @@
 # Law and Legal: Summer 2027 Internships
 
-112 open Summer 2027 law and legal roles, newest first (all 112). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 282 law and legal internships on InternScout](https://internscout.org/internships/law/)
+113 open Summer 2027 law and legal roles, newest first (all 113). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 282 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [TIAA](https://internscout.org/internships/at/tiaa/) | 2027 Early Talent Internship: Risk & Compliance | Charlotte, NC, USA +2 | \$22.00/hr | Oct 13 | [Apply](https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Internship--Risk---Compliance_R261000124) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Ethics & Compliance Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 13 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Ethics---Compliance-Intern---Summer-2027---Franklin--TN_R00214211-1) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Legal Government Affairs Intern (Summer 2027) | USA - New York - Malta |  | Oct 13 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Legal-Government-Affairs-Intern--Summer-2027-_JR-2604245) |
 | Gentex Corporation | Summer 2027 Legal Intern | New York Hauppauge | \$21 per hour | Oct 13 | [Apply](https://gentex.wd5.myworkdayjobs.com/Gentex/job/New-York-Hauppauge/Summer-2027-Legal-Intern_REQ026814) |
@@ -26,7 +27,7 @@
 | [Diversified Energy](https://internscout.org/internships/at/diversified-energy/) | 2027 Summer Intern- Legal | Charleston, West Virginia |  | Oct 2 | [Apply](https://careers.div.energy/jobs/2733) |
 | [International Rescue Committee (IRC)](https://internscout.org/internships/at/international-rescue-committee-irc/) | Immigration Legal Intern - UNPAID - Summer 2027 | Denver, CO USA |  | Oct 2 | [Apply](https://theirc.wd1.myworkdayjobs.com/External_Careers/job/Denver-CO-USA/Immigration-Legal-Intern---UNPAID---Summer-2027_JR00005325-1) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | Legal Intern (Summer 2027) | Remote | \$45/hour | Sep 30 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5253395007) |
-| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Abandoned and Unclaimed Property Compliance | King of Prussia PA +1 |  | Sep 30 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/King-of-Prussia/Summer-2027-Intern--Abandoned-and-Unclaimed-Property-Compliance_R0020714) |
+| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Abandoned and Unclaimed Property Compliance | King of Prussia PA +1 |  | Sep 30 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/King-of-Prussia/Summer-2027-Intern--Abandoned-and-Unclaimed-Property-Compliance_R0020714-1) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Commercial Agreements Legal Intern (2027 Summer) | USA - Vermont - Essex Junction |  | Sep 30 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Commercial-Agreements-Legal-Intern--2027-Summer-_JR-2604244) |
 | [Fidelity National Information Services](https://internscout.org/internships/at/fidelity-national-information-services/) | Legal and Compliance Intern Pipeline | Jax 347, FL +2 | Paid | Sep 30 | [Apply](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Legal-and-Compliance--FIS-University-Program_JR0309694) |
 | [Internal Revenue Service](https://internscout.org/internships/at/internal-revenue-service/) | Summer Intern (Legal Administrative Specialist) | Birmingham, Alabama +45 | \$61722 - \$100315 Per Year | Sep 29 | [Apply](https://www.usajobs.gov:443/job/886742000) |

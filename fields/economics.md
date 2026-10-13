@@ -1,6 +1,6 @@
 # Economics: Summer 2027 Internships
 
-16 open Summer 2027 economics roles, newest first (all 16). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 48 economics internships on InternScout](https://internscout.org/internships/economics/)
+16 open Summer 2027 economics roles, newest first (all 16). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 47 economics internships on InternScout](https://internscout.org/internships/economics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [The Brattle Group](https://internscout.org/internships/at/the-brattle-group/) | Energy Analyst Intern - Economics | Boston, MA +2 |  | Sep 18 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735999005) |
 | [The Brattle Group](https://internscout.org/internships/at/the-brattle-group/) | Energy Analyst Intern - Economics - Multiple Teams | Toronto, ON +1 |  | Sep 18 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005) |
 | [The Brattle Group](https://internscout.org/internships/at/the-brattle-group/) | Research Analyst Intern (Economics) - Summer 2027 | New York, New York, United States | \$1,850.00 per week | Sep 18 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735674005) |
-| [The Brattle Group](https://internscout.org/internships/at/the-brattle-group/) | Research Analyst Intern (Economics & Finance) - Summer 2027 | New York, New York, United States |  | Sep 18 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735792005) |
+| [The Brattle Group](https://internscout.org/internships/at/the-brattle-group/) | Research Analyst Intern (Economics & Finance) - Summer 2027 | New York, New York, United States +2 |  | Sep 18 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735792005) |
 | [GM financial](https://internscout.org/internships/at/gm-financial/) | Intern - Economic Analysis | Fort Worth, TX |  | Sep 16 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260811) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 SF Fed Summer Internship - ECONOMIC RESEARCH Intern | San Francisco, CA | Paid | Sep 14 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/San-Francisco-CA/XMLNAME-2027-SF-Fed-Summer-Internship---ECONOMIC-RESEARCH-Intern_R-0000033271) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Health Policy Analysis | Portland, ME | \$30 per hour | Oct 13, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3974/summer-2027-consulting-internship---health-policy-analysis/job) |

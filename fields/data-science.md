@@ -1,6 +1,6 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-447 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 447). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 834 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+445 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 445). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 830 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Commerce Bank](https://internscout.org/internships/at/commerce-bank/) | Data Science Intern | Kansas City, MO +1 | Paid | Sep 21 | [Apply](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-EABI---Data-Science-Summer-2027_38483) |
 | [AutoZone](https://internscout.org/internships/at/autozone/) | AutoZone 2027 Summer Internship – Data Science | Memphis, TN |  | Sep 21 | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461) |
 | [Guardian Life](https://internscout.org/internships/at/guardian-life/) | 2027 Guardian Summer Intern, Corporate Finance & Risk - Investment Reporting & Data Analytics | New York |  | Sep 19 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Investment-Accounting_R000110127) |
-| [AIG](https://internscout.org/internships/at/aig/) | 2027 Early Careers: Summer Intern, Data Office – United States, Atlanta, GA, Charlotte, NC, Parsippany, NJ, Jersey City… | GA-Atlanta +4 |  | Sep 19 | [Apply](https://aig.wd1.myworkdayjobs.com/early_careers/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Summer-Intern--Data-Office---United-States--Atlanta--GA--Charlotte--NC--Parsippany--NJ--Jersey-City--NJ---New-York--NY_JR2603655) |
+| [AIG](https://internscout.org/internships/at/aig/) | 2027 Early Careers: Summer Intern, Data Office – United States, Atlanta, GA, Charlotte, NC, Parsippany, NJ, Jersey City… | GA-Atlanta +9 |  | Sep 19 | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Summer-Intern--Data-Office---United-States--Atlanta--GA--Charlotte--NC--Parsippany--NJ--Jersey-City--NJ---New-York--NY_JR2603655-1) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Product Data Science | San Francisco, California, United States +1 | Paid | Sep 18 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8199365) |
 | [Gordon Food Service](https://internscout.org/internships/at/gordon-food-service/) | Data Engineering Internship | Atlanta, Georgia +1 |  | Sep 18 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Engineering-Internship_R-57330) |
 | [Gordon Food Service](https://internscout.org/internships/at/gordon-food-service/) | Vendor & Customer Master Data Internship | Wyoming, Michigan +1 |  | Sep 18 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Vendor---Customer-Master-Data-Internship_R-57341) |

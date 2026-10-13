@@ -1,6 +1,6 @@
 # Operations: Summer 2027 Internships
 
-329 open Summer 2027 operations roles, newest first (the 200 newest of 329). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 780 operations internships on InternScout](https://internscout.org/internships/operations/)
+329 open Summer 2027 operations roles, newest first (the 200 newest of 329). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 779 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Primient](https://internscout.org/internships/at/primient/) | Continuous Improvement Intern - Summer 2027 | Decatur, IL | \$1,500 to \$3,000 | Oct 6 | [Apply](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Decatur-IL/Continuous-Improvement-Intern---Summer-2027_JREQ7010) |
 | [Midland States Bank](https://internscout.org/internships/at/midland-states-bank/) | Intern - Operations - Loan Servicing | Effingham, IL +1 | Paid | Oct 6 | [Apply](https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---Operations---Loan-Servicing_JR1472) |
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Operations & Supply Chain Intern (Summer 2027) | Norcross, GA +1 |  | Oct 6 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Norcross-GA/Intern-Operations-Supply-Chain_REQ-020129) |
-| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Logistics Operations Intern (Summer 2027) | USA - New York - Malta | \$20.00 - \$40.00 | Oct 3 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Logistics-Operations-Intern--Summer-2027-_JR-2604469) |
+| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Logistics Operations Intern (Summer 2027) | USA - New York - Malta |  | Oct 3 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Logistics-Operations-Intern--Summer-2027-_JR-2604469) |
 | [CACI](https://internscout.org/internships/at/caci/) | Technical Project Manager Intern - Summer 2027 | High Point, NC, US |  | Oct 3 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/High-Point-NC-US/Technical-Project-Manager-Intern---Summer-2027_333027) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Management Consulting - Sector Operations - Financial Services Senior Associate Intern - Summer 2027 | IL-Rosemont | \$84,000 - \$202,000 | Oct 3 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Management-Consulting---Sector-Operations---Financial-Services-Senior-Associate-Intern---Summer-2027_765388WD) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Management Consulting - Sector Operations - Health Senior Associate Intern - Summer 2027 | IL-Rosemont | \$84,000 - \$202,000 | Oct 3 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Management-Consulting---Sector-Operations---Health-Senior-Associate-Intern---Summer-2027_765646WD) |

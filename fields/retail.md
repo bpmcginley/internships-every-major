@@ -1,6 +1,6 @@
 # Retail: Summer 2027 Internships
 
-167 open Summer 2027 retail roles, newest first (all 167). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 234 retail internships on InternScout](https://internscout.org/internships/retail/)
+165 open Summer 2027 retail roles, newest first (all 165). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 232 retail internships on InternScout](https://internscout.org/internships/retail/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -54,7 +54,6 @@
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship - Merchandising - Assortment Planning | New York, NY |  | Sep 9 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/91733) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship - Merchandising - Buying | New York, NY |  | Sep 9 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/91731) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Ecommerce Intern - Summer 2027 - Campus Recruiting | Austin, MN |  | Sep 9 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35361) |
-| [Meijer](https://internscout.org/internships/at/meijer/) | Store Analytics Intern | Grand Rapids, MI |  | Sep 8 | [Apply](https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Store-Analytics-Intern--Summer-2027_R000698651) |
 | Dick's Sporting Goods | Retail Analytics Intern - Corporate Internship | Pittsburgh, PA |  | Sep 8 | [Apply](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Retail-Analytics---Summer-2027-Corporate-Internship_202608785-1) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Retail Sales Intern - Summer 2027 (Multiple Locations) - Campus Recruiting | Austin, MN +2 |  | Sep 1 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35338) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Retail Brand Management Marketing Intern - Summer 2027 (Multiple Locations) - Campus Recruiting | Austin, MN +2 | Paid | Sep 1 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35348) |
@@ -71,7 +70,6 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Backend Software Engineer Intern, Global E-Commerce | San Jose, CA +1 |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7668834837268138293) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - Data Search Recommendation Global E-Commerce | Seattle, WA |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7668383643375257909) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Data Architecture - E-commerce | Seattle, WA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7668582146236631349) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Merchandising | Baltimore, MD |  | Oct 12 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Merchandising-MD-21230/1434378900/) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Retail Store Management Internship Summer 2027 - Philadelphia | PA - Philadelphia +16 | \$20-\$22 per hour | Oct 10 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Philadelphia/Retail-Store-Management-Internship-Summer-2027---Philadelphia_R1022289) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Retail Store Management Internship Summer 2027 - Baltimore | MD - Baltimore +1 | \$20-\$22 per hour | Oct 10 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MD---Baltimore/Retail-Store-Management-Internship-Summer-2027---Baltimore_R1016437) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Retail Store Management Internship Summer 2027 - Washington DC | DC - Washington +1 | \$20-\$22 per hour | Oct 10 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/DC---Washington/Retail-Store-Management-Internship-Summer-2027---Washington-DC_R1028868) |

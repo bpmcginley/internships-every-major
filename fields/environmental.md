@@ -1,6 +1,6 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-119 open Summer 2027 environmental science and engineering roles, newest first (all 119). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 301 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+119 open Summer 2027 environmental science and engineering roles, newest first (all 119). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 300 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Geologist Intern (Summer 2027!) | New York City, New York +1 |  | Oct 2 | [Apply](https://careers.cdmsmith.com/jobs/4660) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - ESG & Sustainable Finance Intern | Toronto, Ontario | \$39,000.00 | Sep 29 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---ESG---Sustainable-Finance-Intern_JR26091126) |
 | [X-energy](https://internscout.org/internships/at/x-energy/) | Nuclear Criticality Safety Internship- Summer 2027 | Oak Ridge, TN |  | Sep 29 | [Apply](https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Oak-Ridge-TN/Nuclear-Criticality-Safety-Internship--Summer-2027_R101364-1) |
-| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Environmental Engineering Intern (Summer 2027) | USA - New York - Malta | \$20.00 - \$40.00 | Sep 29 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Environmental-Engineering-Intern--Summer-2027-_JR-2604239) |
+| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Environmental Engineering Intern (Summer 2027) | USA - New York - Malta |  | Sep 29 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Environmental-Engineering-Intern--Summer-2027-_JR-2604239) |
 | [The Andersons](https://internscout.org/internships/at/the-andersons/) | EHS Intern (Summer 2027) | Maumee, OH |  | Sep 29 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/EHS-Intern--Summer-2027-_R12495) |
 | [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Petcare Health, Safety, and Environment Internship | USA-Ohio-Lewisburg +1 | Paid | Sep 29 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Ohio-Lewisburg/Summer-2027-Mars-Petcare-Health--Safety--and-Environment-Internship_R168200-1) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Environmental/Fire Science (Irwindale) | Irwindale, CA |  | Sep 29 | [Apply](https://apply.edisoncareers.com/job/Irwindale-2027-Summer-Internship-EnvironmentalFire-Science-%28Irwindale%29-CA-91702/1425203900/) |
@@ -69,7 +69,7 @@
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern – Field Environmental Services (FES) | HOUSTON, Texas |  | Sep 11 | [Apply](https://careers.kindermorgan.com/jobs/6180) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors - Environmental Engineering Intern | Austin, Texas |  | Sep 10 | [Apply](https://careers.cdmsmith.com/jobs/4141) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Water Resources-Co-Op (Summer 2027) | Cincinnati, OH +1 |  | Sep 10 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007640) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Manchester, New Hampshire +17 |  | Sep 10 | [Apply](https://careers.cdmsmith.com/jobs/4271) |
+| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Manchester, New Hampshire +18 |  | Sep 10 | [Apply](https://careers.cdmsmith.com/jobs/4271) |
 | [Saronic](https://internscout.org/internships/at/saronic/) | EHS Intern (Summer 2027) | Austin, TX +3 |  | Sep 9 | [Apply](https://jobs.ashbyhq.com/saronic/45058422-8f60-426d-af8a-a5567d68deb7/application) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Water Resources Intern – Water (Summer 2027) | Ann Arbor, MI |  | Sep 8 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007525) |
 | [Arcadis](https://internscout.org/internships/at/arcadis/) | Water Resources Engineering Intern | Chicago, IL |  | Sep 8 | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43959) |
@@ -80,12 +80,12 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - (Summer 2027) | Raleigh, North Carolina +2 |  | Sep 7 | [Apply](https://careers.cdmsmith.com/jobs/4265) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Water Resources Engineering Intern (Summer 2027!) | Denver, Colorado |  | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4186) |
 | [Hunt Oil Company](https://internscout.org/internships/at/hunt-oil-company/) | Geoscience Intern - Summer 2027 | Dallas, TX |  | Sep 4 | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1059) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern (Summer 2027!) | Edison, New Jersey +7 |  | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4145) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027) | Houston, Texas +1 |  | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4212) |
+| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern (Summer 2027!) | Edison, New Jersey +9 |  | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4145) |
+| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027) | Dallas, Texas +1 |  | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4311) |
 | [Shure](https://internscout.org/internships/at/shure/) | Data-Driven Sustainability Intern | Niles, IL |  | Sep 3 | [Apply](https://careersus-shure.icims.com/jobs/4979/job?mobile=true&needsRedirect=false) |
 | [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | Geospatial Data Validation Intern | Minneapolis, MN +1 |  | Sep 2 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Geospatial-Tech---Data---Vendor-Mgmt-Intern---MN--CO_JR115634-2) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Student Internship - Environmental Sciences | North Kansas City, MO |  | Sep 1 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5412829008) |
-| [Olsson](https://internscout.org/internships/at/olsson/) | Engineering Internship - Water Resources | Dallas, TX +2 |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5399436008) |
+| [Olsson](https://internscout.org/internships/at/olsson/) | Engineering Internship - Water Resources | Overland Park, KS +2 |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5395530008) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Water Resources Intern | Detroit, MI |  | Aug 31 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309782) |
 | [Elk Valley Resources](https://internscout.org/internships/at/elk-valley-resources/) | May 2027 Geographic Information Systems (GIS) Co-op | Calgary, AB +1 |  | Aug 26 | [Apply](https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Environmental, Health & Safety (EHS) | Los Angeles, CA | \$28–\$36 per hour | Aug 26 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5376633008) |

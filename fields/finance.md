@@ -1,6 +1,6 @@
 # Finance: Summer 2027 Internships
 
-530 open Summer 2027 finance roles, newest first (the 200 newest of 530). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 882 finance internships on InternScout](https://internscout.org/internships/finance/)
+535 open Summer 2027 finance roles, newest first (the 200 newest of 535). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 886 finance internships on InternScout](https://internscout.org/internships/finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -152,8 +152,8 @@
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Credit/Commercial Banking (Raleigh, NC) | Raleigh, North Carolina |  | Sep 30 | [Apply](https://firstcitizens.jibeapply.com/jobs/35778) |
 | [PPL](https://internscout.org/internships/at/ppl/) | Accounting/Finance Intern, PA Tax, Summer 2027 | Allentown, Pennsylvania |  | Sep 30 | [Apply](https://careers.pplweb.com/jobs/15300) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Mortgage Originations (Columbia, SC) | Columbia, South Carolina |  | Sep 30 | [Apply](https://firstcitizens.jibeapply.com/jobs/35795) |
-| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, R&E Tax Credits | Washington DC |  | Sep 30 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Washington/Summer-2027-Intern--R-E-Tax-Credits_R0020727-1) |
-| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Transfer Pricing | Washington DC +1 |  | Sep 30 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Washington/Summer-2027-Intern--Transfer-Pricing_R0020725-1) |
+| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, R&E Tax Credits | Washington DC |  | Sep 30 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Washington/Summer-2027-Intern--R-E-Tax-Credits_R0020727) |
+| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Transfer Pricing | Washington DC +1 |  | Sep 30 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Washington/Summer-2027-Intern--Transfer-Pricing_R0020725) |
 | [Invesco](https://internscout.org/internships/at/invesco/) | Early Career Intern - Investment Technology | Houston, Texas |  | Sep 30 | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Houston-Texas/Early-Career-Intern---Investment-Technology_R-15622) |
 | [ABB](https://internscout.org/internships/at/abb/) | Finance Operations Intern – Summer 2027 | USA, NJ +1 |  | Sep 30 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NM-Albuquerque/Finance-Operations-Intern---Summer-2027_JR00048203) |
 | [Clarios](https://internscout.org/internships/at/clarios/) | Finance Intern (Summer 2027) | United States, Wisconsin, Milwaukee |  | Sep 30 | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Finance-Intern--Summer-2027-_WD50035) |

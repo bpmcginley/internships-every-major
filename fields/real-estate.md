@@ -1,6 +1,6 @@
 # Real Estate: Summer 2027 Internships
 
-27 open Summer 2027 real estate roles, newest first (all 27). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 41 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
+28 open Summer 2027 real estate roles, newest first (all 28). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 42 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Real Estate & Builds Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175507?gh_jid=8175507) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Masters Summer Internship Program - 2027 Global Real Estate & Workplace Experience, Enterprise Shared S… | New York, NY |  | Aug 31 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012153) |
 | [KKR](https://internscout.org/internships/at/kkr/) | 2027 K-Star Summer Internship Program - Real Estate Credit | Dallas, Texas, United States |  | Aug 26 | [Apply](https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6164389004) |
+| [KeyBank](https://internscout.org/internships/at/keybank/) | 2027 Summer Real Estate Capital Internship - Cleveland | Cleveland, OH |  | Oct 13 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Cleveland_R-42077) |
 | PGIM | PGIM: 2027 Real Estate, Sophomore Externship Program | Newark, NJ, USA | Paid | Oct 10 | [Apply](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Sophomore-Externship-Program_R-124904) |
 | Prudential Financial | PGIM: 2027 Real Estate, Sophomore Externship Program | Newark, NJ, USA | Paid | Oct 10 | [Apply](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Sophomore-Externship-Program_R-124904-2) |
 | [The Boeing Company](https://internscout.org/internships/at/boeing/) | Boeing Summer 2027 Internship Program (Paid) - Global Real Estate and Facilities & Property Management | USA - Everett, WA +14 |  | Sep 18 | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Global-Real-Estate-and-Facilities---Property-Management_JR2026520992) |
