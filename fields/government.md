@@ -1,6 +1,6 @@
 # Government and Public Policy: Summer 2027 Internships
 
-48 open Summer 2027 government and public policy roles, newest first (all 48). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 255 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+49 open Summer 2027 government and public policy roles, newest first (all 49). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 259 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,7 +11,7 @@
 | Office of the Secretary of Defense | Student Trainee (Legal) | Arlington, Virginia | \$57736 - \$91815 Per Year | Oct 8 | [Apply](https://www.usajobs.gov:443/job/887905200) |
 | [Plante Moran](https://internscout.org/internships/at/plante-moran/) | 2027 Governmental Accounting Practice Summer Intern | Detroit +1 |  | Oct 8 | [Apply](https://plantemoran.wd1.myworkdayjobs.com/pmexternalcareers/job/Southfield/XMLNAME-2027-Governmental-Accounting-Practice-Summer-Intern_JR-03325) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - Cash Services | Houston, TX +1 |  | Oct 6 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Houston-TX/XMLNAME-2027-Intern---Cash-Services_R-0000033573) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Government Operations Intern Summer 2027 | Washington, DC +1 |  | Oct 2 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7992754003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Government Operations Intern Summer 2027 | Littleton, CO +1 |  | Oct 2 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8001401003) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - PhD Dissertation Fellow | Dallas, TX |  | Oct 2 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---PhD-Dissertation-Fellow_R-0000033591) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Internship- Public Affairs | HOUSTON, Texas |  | Sep 30 | [Apply](https://careers.kindermorgan.com/jobs/6224) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Public Policy (Detroit) | Detroit, MI |  | Sep 30 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14729) |
@@ -45,6 +45,7 @@
 | Deloitte | AI and Data Engineering Summer Scholar Intern - Government & Public Services | Austin, TX |  | Aug 11 | [Apply](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Oct 13, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Health Policy Analysis | Portland, ME | \$30 per hour | Oct 13, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3974/summer-2027-consulting-internship---health-policy-analysis/job) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Government Relations Internship - Summer 2027 | Reston, VA |  | Oct 13 | [Apply](https://uscareers-idemia.icims.com/jobs/8689/government-relations-internship---summer-2027/job) |
 | [Land O'Lakes](https://internscout.org/internships/at/land-o-lakes/) | Government Relations Intern | Remote | \$23/ hr | Sep 18 | [Apply](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Virtual-USA/Government-Relations-Intern_R-40406) |
 | [Meijer](https://internscout.org/internships/at/meijer/) | Government Affairs Intern- Summer 2027 | Grand Rapids, MI |  | Sep 18 | [Apply](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Government-Affairs-Intern--Summer-2027_R000698150) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Federal Reserve Summer Business 2027 Internship | Richmond, VA |  | Sep 18 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Richmond-VA/Federal-Reserve-Summer-Business-2027-Internship_R-0000033190) |

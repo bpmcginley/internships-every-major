@@ -1,9 +1,10 @@
 # Cybersecurity: Summer 2027 Internships
 
-89 open Summer 2027 cybersecurity roles, newest first (all 89). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 194 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+90 open Summer 2027 cybersecurity roles, newest first (all 90). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 195 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Draper](https://internscout.org/internships/at/draper/) | Classified Cybersecurity/IT Internship (Summer 2027) | Cambridge, MA |  | Oct 13 | [Apply](https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021) |
 | [Expedia Group](https://internscout.org/internships/at/expedia-group/) | Security Engineering Intern - 2027 - Seattle | Washington - Seattle Campus |  | Oct 12 | [Apply](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Security-Engineering-Intern---2027---Seattle_R-110310-1) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: Cyber Security Intern | Northbrook, IL | \$28.50 | Oct 12 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11186) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | 2027 Summer Intern - Defense Agencies (Cybersecurity) | Falls Church, VA |  | Oct 12 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Agencies--Cybersecurity-_RQ230273) |
@@ -45,7 +46,7 @@
 | [Netsmart](https://internscout.org/internships/at/netsmart/) | Security Analyst Future (Summer 2027 Internship) | Overland Park, KS |  | Sep 18 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Security-Analyst-Future--Summer-2027-Internship-_R015669) |
 | [Fidelity National Information Services](https://internscout.org/internships/at/fidelity-national-information-services/) | Intern, Risk and Cybersecurity, FIS University Program | Jax 347, FL +2 | Paid | Sep 17 | [Apply](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Risk-and-Cybersecurity--FIS-University-Program_JR0309680) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship - Military Systems Cybersecurity Engineer | Laurel, Maryland |  | Sep 17 | [Apply](https://careers.jhuapl.edu/jobs/59759) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Security Analyst Intern Summer 2027 | Albuquerque, NM +3 |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986874003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Security Analyst Intern Summer 2027 | Wallops Island, VA +3 |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986961003) |
 | [Robinhood](https://internscout.org/internships/at/robinhood/) | Security Risk Management Intern (Summer 2027) | Menlo Park, CA | Paid | Sep 16 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&gh_jid=8207970) |
 | [Inmar Intelligence](https://internscout.org/internships/at/inmar-intelligence/) | Information Security Internships, Summer 2027 | Headquarters, Winston Salem, NC |  | Sep 15 | [Apply](https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Information-Security-Internships--Summer-2027_JY2627635) |
 | [SimVentions](https://internscout.org/internships/at/simventions/) | 2027 Cybersecurity Intern | Fredericksburg, Virginia | Paid | Sep 15 | [Apply](https://simventions.jibeapply.com/jobs/1630) |

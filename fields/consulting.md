@@ -1,6 +1,6 @@
 # Consulting: Summer 2027 Internships
 
-100 open Summer 2027 consulting roles, newest first (all 100). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 210 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+99 open Summer 2027 consulting roles, newest first (all 99). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 211 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -14,7 +14,6 @@
 | [McKesson](https://internscout.org/internships/at/mckesson/) | CSI Strategy Intern - Summer 2027 | USA, TX |  | Oct 9 | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/CSI-Strategy-Intern---Summer-2027_JR0154263) |
 | [Guardian Life](https://internscout.org/internships/at/guardian-life/) | 2027 Guardian Summer Intern, Client Solutions and Wealth Management | New York |  | Oct 9 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Client-Solutions-and-Wealth-Management_R000110301) |
 | [WTW](https://internscout.org/internships/at/wtw/) | Early Careers: Pharmacy Benefits Consulting Internship - Chicago - Summer 2027 | Chicago, IL |  | Oct 8 | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606458) |
-| [KeyBank](https://internscout.org/internships/at/keybank/) | Summer 2027 Corporate Center – Centricity and Design Strategy Intern | Brooklyn, OH |  | Oct 7 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Summer-2027-Corporate-Center---Centricity-and-Design-Strategy-Intern_R-42575) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Purchasing Strategy Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Purchasing-Strategy-Intern---Summer-2027---Franklin--TN_R00214277) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Digital Products & AI Strategy Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Digital-Products---AI-Strategy-Intern---Summer-2027---Franklin--TN_R00214215) |
 | [CACI](https://internscout.org/internships/at/caci/) | Business Analyst Intern - Summer 2027 | Ashburn, VA, US |  | Oct 7 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Business-Analyst-Intern---Summer-2027_333045) |
@@ -50,7 +49,7 @@
 | [Excellus BCBS](https://internscout.org/internships/at/excellus-bcbs/) | College Intern - Summer 2027 - Wellbeing Consulting | Buffalo +2 | Paid | Sep 23 | [Apply](https://lthc.wd1.myworkdayjobs.com/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Wellbeing-Consulting_JR104052-2) |
 | Resultant | Data & Analytics Consultant Intern - Summer 2027 | Indianapolis, IN +1 |  | Sep 21 | [Apply](https://jobs.smartrecruiters.com/Resultant/744000150785390) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Agency Services - Business Analyst-Agency | Bloomington, Illinois | \$28.00/hr | Sep 21 | [Apply](https://jobs.statefarm.com/jobs/45456) |
-| [LSEG](https://internscout.org/internships/at/lseg/) | Business Analyst Summer Internship | New York City, United States |  | Sep 21 | [Apply](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Business-Analyst-Summer-Internship_R0123463-1) |
+| [LSEG](https://internscout.org/internships/at/lseg/) | Business Analyst Summer Internship | New York City, United States |  | Sep 21 | [Apply](https://lseg.wd3.myworkdayjobs.com/Careers/job/New-York-City-United-States/Business-Analyst-Summer-Internship_R0123463-2) |
 | Newmark Group | Newmark Management Consulting Intern | TX |  | Sep 18 | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/249950) |
 | [Netsmart](https://internscout.org/internships/at/netsmart/) | Solution Delivery Consultant Intern (Summer 2027 Internship) | Overland Park, KS |  | Sep 18 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Solution-Delivery-Consultant-Intern--Summer-2027-Internship-_R015664) |
 | [Adobe](https://internscout.org/internships/at/adobe/) | 2027 Intern - Solutions Consulting Analyst | New York |  | Sep 18 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2027-Intern---Solutions-Consulting-Analyst_R171696) |

@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-185 open Summer 2027 hardware engineering roles, newest first (all 185). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 528 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+186 open Summer 2027 hardware engineering roles, newest first (all 186). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 534 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Hitachi](https://internscout.org/internships/at/hitachi/) | Hardware Test Engineering Intern (Summer 2027, 16months) | Toronto, Ontario, Canada +2 | Paid | Oct 2 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) |
 | [Space Dynamics Laboratory](https://internscout.org/internships/at/space-dynamics-laboratory/) | CVS: FPGA Electrical Engineer Intern | North Logan, UT |  | Oct 1 | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/SznZA6uzbW/CVS-FPGA-Electrical-Engineer-Intern) |
 | [CoStar Group](https://internscout.org/internships/at/costar-group/) | Embedded Software Engineering Intern | Sunnyvale (US) +1 |  | Oct 1 | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950) |
+| [Marvell](https://internscout.org/internships/at/marvell/) | Firmware Engineer Intern - MS - Summer 2027 | Santa Clara, CA |  | Oct 1 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1) |
 | Quantum Signal AI | Embedded and Real-Time Software Intern | Saline, MI |  | Sep 30 | [Apply](https://quantumsignalai.applytojob.com/apply/23a7Z79zfn/Embedded-And-RealTime-Software-Intern) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | RF Hardware Intern (Summer 2027) | San Francisco |  | Sep 30 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4708436006) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Embedded Software Engineer Intern | East Hartford, CT |  | Sep 30 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2027-Embedded-Software-Engineering-Intern--Onsite-_01878014) |

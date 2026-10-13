@@ -1,6 +1,6 @@
 # Law and Legal: Summer 2027 Internships
 
-113 open Summer 2027 law and legal roles, newest first (all 113). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 282 law and legal internships on InternScout](https://internscout.org/internships/law/)
+112 open Summer 2027 law and legal roles, newest first (all 112). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 282 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -113,7 +113,6 @@
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Regulatory Affairs - California | Fremont, California |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fremont-California/Summer-2027-Internship---Regulatory-Affairs---California_R572897) |
 | [Meijer](https://internscout.org/internships/at/meijer/) | Compliance Intern- Summer 2027 | Grand Rapids, MI |  | Sep 18 | [Apply](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Compliance-Intern--Summer-2027_R000700307) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Compliance Engineering Intern | Niles, IL |  | Sep 18 | [Apply](https://careersus-shure.icims.com/jobs/4986/global-compliance-engineering-intern/job) |
-| [Arch Capital Group](https://internscout.org/internships/at/arch-capital-group/) | Legal Summer Intern | White Plains, NY United States of America +2 | Paid | Sep 18 | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/White-Plains-NY-United-States-of-America/Legal-Intern_R26_789) |
 | [Alliance Laundry Systems](https://internscout.org/internships/at/alliance-laundry-systems/) | Regulatory Compliance Intern | Ripon, WI |  | Sep 18 | [Apply](https://uscareeropenings-alliancelaundry.icims.com/jobs/13135/regulatory-compliance-intern/job) |
 | [Huntington Bancshares](https://internscout.org/internships/at/huntington-bancshares/) | Summer 2027 Law Clerk Internship | Columbus, OH |  | Sep 18 | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Legal-Internship_R0075231) |
 | [POET](https://internscout.org/internships/at/poet/) | Animal Food Safety & Regulatory Intern - Summer 2027 | Sioux Falls, SD |  | Sep 18 | [Apply](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Animal-Food-Safety---Regulatory-Intern---Summer-2027_R101694-1) |
