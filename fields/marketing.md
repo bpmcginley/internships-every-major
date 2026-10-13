@@ -1,9 +1,10 @@
 # Marketing: Summer 2027 Internships
 
-216 open Summer 2027 marketing roles, newest first (the 200 newest of 216). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 637 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+217 open Summer 2027 marketing roles, newest first (the 200 newest of 217). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 639 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [GAF](https://internscout.org/internships/at/gaf/) | Customer Experience Intern | Parsippany, NJ | Paid | Oct 13 | [Apply](https://gafsgi.wd5.myworkdayjobs.com/GAF_Careers/job/Parsippany-NJ/Customer-Experience-Intern_26415-1) |
 | [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Marketing Intern, Summer 2027 | Orrville, OH |  | Oct 13 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Marketing-Intern--Summer-2027_115771) |
 | [3M](https://internscout.org/internships/at/3m/) | Internship - 2027 Undergraduate 3M Brand Design Intern - Safety & Industrial Business Group (SIBG) | Maplewood, MN +1 |  | Oct 12 | [Apply](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-Brand-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172458) |
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | AI Marketing and Branding Intern – Summer 2027 | US.CO.Denver |  | Oct 12 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/AI-Marketing-and-Branding-Intern---Summer-2027_R-162350-1) |
@@ -203,7 +204,6 @@
 | [APEX Analytix](https://internscout.org/internships/at/apex-analytix/) | Marketing Intern (Summer 2027) | Greensboro, NC |  | Sep 18 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/c597035d-7135-4fbe-b5ff-46be4e286868) |
 | [Springs Window Fashions](https://internscout.org/internships/at/springs-window-fashions/) | Commercial Marketing Production Artist Internship - Summer 2027 | MIDDLETON, WI |  | Sep 18 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12895/commercial-marketing-production-artist-internship---summer-2027/job) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Strategic Marketing Intern - Benchmarking, Summer 2027 | North Andover, MA |  | Sep 18 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Strategic-Marketing-Intern---Benchmarking--Summer-2027_10017534) |
-| [Shure](https://internscout.org/internships/at/shure/) | North American Customer Experience Intern | Skokie, IL |  | Sep 18 | [Apply](https://careersus-shure.icims.com/jobs/4969/north-american-customer-experience-intern/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

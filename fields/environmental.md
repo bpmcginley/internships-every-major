@@ -1,6 +1,6 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-119 open Summer 2027 environmental science and engineering roles, newest first (all 119). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 300 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+119 open Summer 2027 environmental science and engineering roles, newest first (all 119). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 299 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Sustainability CP&I - Senior Associate Intern - Summer 2027 | IL-Rosemont | \$84,000 - \$202,000 | Oct 2 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Sustainability-CP-I---Senior-Associate-Intern---Summer-2027_765702WD) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Sustainability Strategy - Senior Associate Intern - Summer 2027 | IL-Rosemont | \$84,000 - \$202,000 | Oct 2 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Sustainability-Strategy---Senior-Associate-Intern---Summer-2027_765703WD) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern Safety Summer 2027 | Willis, Texas |  | Oct 2 | [Apply](https://jobs.entergy.com/job/Willis-Student%2C-Intern-Safety-Summer-2027-Texa/1426680100/) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Geologist Intern (Summer 2027!) | New York City, New York |  | Oct 2 | [Apply](https://careers.cdmsmith.com/jobs/4660) |
+| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Geologist Intern (Summer 2027!) | New York City, New York +1 |  | Oct 2 | [Apply](https://careers.cdmsmith.com/jobs/4660) |
 | [C&S Wholesale Grocers](https://internscout.org/internships/at/c-s-wholesale-grocers/) | Operations Safety Intern- Summer 2027 | Keene, NH +4 |  | Oct 1 | [Apply](https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Keene-NH/Operations-Safety-Intern--Summer-2027_R-268779) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Environmental/Fire Science (Irwindale) | Irwindale, CA |  | Sep 29 | [Apply](https://apply.edisoncareers.com/job/Irwindale-2027-Summer-Internship-EnvironmentalFire-Science-%28Irwindale%29-CA-91702/1425203900/) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - ESG & Sustainable Finance Intern | Toronto, Ontario | \$39,000.00 | Sep 28 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---ESG---Sustainable-Finance-Intern_JR26091126) |

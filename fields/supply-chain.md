@@ -1,9 +1,10 @@
 # Supply Chain: Summer 2027 Internships
 
-180 open Summer 2027 supply chain roles, newest first (all 180). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 442 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
+181 open Summer 2027 supply chain roles, newest first (all 181). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 441 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Global Supply Chain, Procurement Intern (Summer 2027) | USA - Texas - Austin |  | Oct 13 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Supply-Chain--Procurement-Intern--Summer-2027-_JR-2604481) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Supply Chain Management Intern (Summer 2027) | Bohemia, NY | Paid | Oct 13 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-BOHEMIA-355--355-Knickerbocker-Ave--KNICKERBOCKER/Supply-Chain-Management-Intern--Summer-2027-_01876930) |
 | [Walmart](https://internscout.org/internships/at/walmart/) | Summer 2027 Intern: Load Logistics Manager, Transportation Corporate Intern | Bentonville, AR |  | Oct 13 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-AR-BENTONVILLE-09848-REG-OPERATIONS-CENTER/Summer-2027--Intern--Load-Logistics-Manager--Transportation-Corporate-Intern_R-2617827) |
 | Allstate Insurance Company | Supply Management & Data Analytics Intern (Summer 2027) | USA - IL (Remote) |  | Oct 12 | [Apply](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Supply-Management---Data-Analytics-Intern--Summer-2027-_R36103) |
@@ -68,7 +69,7 @@
 | [Ecolab](https://internscout.org/internships/at/ecolab/) | Supply Chain Intern - Engineering and Business Majors | USA - Minnesota - Saint Paul +13 | \$22 - \$25/hour | Sep 18 | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Supply-Chain-Intern---Engineering-and-Business-Majors_R00304542) |
 | [ATC](https://internscout.org/internships/at/atc/) | Intern-Supply Chain Summer 2027 | Pewaukee, WI +1 | \$23-27/hr | Sep 18 | [Apply](https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern-Supply-Chain-Summer-2027_R0003303) |
 | [Arconic](https://internscout.org/internships/at/arconic/) | Procurement Internship - Summer 2027 | Pittsburgh, PA +3 |  | Sep 18 | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114210) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Supply Chain Intern Summer 2027 | Long Beach, CA +1 |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984568003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Supply Chain Intern Summer 2027 | Middle River, MD +1 |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990063003) |
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Supply Chain Intern (Summer 2027) | Paso Robles, CA +1 |  | Sep 17 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Supply-Chain-Intern--Summer-2027-_REQ-020108) |
 | [Oshkosh](https://internscout.org/internships/at/oshkosh/) | Purchasing Intern (Summer 2027) | Murfreesboro, Tennessee, United States +2 |  | Sep 17 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Murfreesboro-Tennessee-United-States/Purchasing-Intern--Summer-2026-_R50357) |
 | [Clarios](https://internscout.org/internships/at/clarios/) | Direct Materials Procurement Intern (Summer 2027) | United States, Wisconsin, Milwaukee |  | Sep 17 | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Direct-Materials-Procurement-Intern--Summer-2027-_WD50215) |

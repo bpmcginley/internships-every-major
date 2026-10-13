@@ -1,6 +1,6 @@
 # Electrical Engineering: Summer 2027 Internships
 
-177 open Summer 2027 electrical engineering roles, newest first (all 177). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 460 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+176 open Summer 2027 electrical engineering roles, newest first (all 176). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 460 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -62,7 +62,6 @@
 | [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 Masters Digital Signal Processing Engineer Intern | San Jose, California |  | Sep 24 | [Apply](https://careers.amd.com/jobs/89078) |
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | Electrical Engineering Intern Summer 2027 | Towson, MD, United States |  | Sep 24 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Electrical-Engineering-Intern-Summer-2027_REQ-1000052018) |
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-op - Midstream Logistics and Storage Mechanical/Civil/Electrical Engineering (Summer 2027) | Findlay, Ohio +3 |  | Sep 24 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Midstream-Logistics-and-Storage-Mechanical-Civil-Electrical-Engineering--Summer-2027-_00024205) |
-| [Saab](https://internscout.org/internships/at/saab/) | Electrical Engineering Co-op | East Syracuse, NY |  | Sep 23 | [Apply](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Aspen-Park/Electrical-Engineering-Co-Op--Summer-2027-_R-03293-1) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Electrical or Mechanical Engineering (Santa Ana/Westminster) | Santa Ana, CA |  | Sep 23 | [Apply](https://apply.edisoncareers.com/job/Santa-Ana-2027-Summer-Internship-Electrical-or-Mechanical-Engineering-%28Santa-AnaWestminster%29-CA-92705/1423078600/) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Electrical or Mechanical Engineering (Ventura) | Ventura, CA |  | Sep 23 | [Apply](https://apply.edisoncareers.com/job/Ventura-2027-Summer-Internship-Electrical-or-Mechanical-Engineering-%28Ventura%29-CA-93004-1720/1423103000/) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Electrical Engineering (Westminster) | Westminster, CA |  | Sep 23 | [Apply](https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Electrical-Engineering-%28Westminster%29-CA-92683/1423103200/) |

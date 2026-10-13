@@ -1,6 +1,6 @@
 # Product Management: Summer 2027 Internships
 
-143 open Summer 2027 product management roles, newest first (all 143). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 242 product management internships on InternScout](https://internscout.org/internships/product-management/)
+144 open Summer 2027 product management roles, newest first (all 144). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 243 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | W.R. Berkley | Product Management Analyst Intern - Claims | Manassas, VA |  | Sep 17 | [Apply](https://careers-berkley.icims.com/jobs/14439/job?mobile=true&needsRedirect=false) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Product Specialist Intern | Fort Worth, TX +1 |  | Sep 17 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Product-Specialist-Intern-2027_10017586) |
 | [Gordon Food Service](https://internscout.org/internships/at/gordon-food-service/) | Digital Product Management Intern | Wyoming, MI +1 |  | Sep 17 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336) |
+| [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Product Management Intern | Paso Robles, CA +1 | Paid | Sep 17 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109) |
 | [AspenTech](https://internscout.org/internships/at/aspentech/) | Product Owner Intern - Product Management | Houston, TX +3 | Paid | Sep 16 | [Apply](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern---Product-Management----Summer-2027_R9471) |
 | Illinois Tool Works | Product Management Intern | Troy, OH |  | Sep 15 | [Apply](https://careers.itw.com/global/en/job/JR10105) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MBA, Salesforce Product Owner | Los Angeles, California, United States +1 | Paid | Sep 15 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8198582) |

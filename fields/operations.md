@@ -1,9 +1,10 @@
 # Operations: Summer 2027 Internships
 
-326 open Summer 2027 operations roles, newest first (the 200 newest of 326). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 777 operations internships on InternScout](https://internscout.org/internships/operations/)
+327 open Summer 2027 operations roles, newest first (the 200 newest of 327). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 778 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Global Supply Chain, Procurement Intern (Summer 2027) | USA - Texas - Austin |  | Oct 13 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Supply-Chain--Procurement-Intern--Summer-2027-_JR-2604481) |
 | Mary Free Bed Rehabilitation Hospital | Process Improvement Intern - Summer 2027 | Grand Rapids, MI |  | Oct 13 | [Apply](https://maryfreebed.wd12.myworkdayjobs.com/mfb/job/Grand-Rapids-MI/Process-Improvement-Intern---Summer-2027_JB103361) |
 | [ADT](https://internscout.org/internships/at/adt/) | Product Management & Product Operations Internship | Boca Raton, FL |  | Oct 12 | [Apply](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393) |
 | Corewell Health | Digital Services Development Support and Operations Internship | Grand Rapids, MI +2 |  | Oct 12 | [Apply](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Digital-Services-Development-Support-and-Operations-Internship-Summer-2027_R227468) |
@@ -203,7 +204,6 @@
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | IT Quality Assurance Intern (Summer 2027) | Westerville, OH |  | Aug 31 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279193) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Masters Summer Internship Program - 2027 Global Real Estate & Workplace Experience, Enterprise Shared S… | New York, NY |  | Aug 31 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012153) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Intern - Sales Operations (Quoting) | Bridgeton, Missouri |  | Aug 31 | [Apply](https://careers.na.panasonic.com/jobs/50747) |
-| [Northwood Space](https://internscout.org/internships/at/northwood-space/) | Supply Chain Operations Intern (2027 Summer Internship) | Torrance, CA +2 |  | Aug 28 | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/7bfa4ec0-7d5a-475b-aa2b-0cd0741e1549/application) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

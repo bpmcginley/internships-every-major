@@ -1,11 +1,12 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-211 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 211). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 660 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+212 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 212). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 661 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [RTX](https://internscout.org/internships/at/rtx/) | Manufacturing Ops Intern (Summer 2027) (Onsite) | Melbourne, FL |  | Oct 13 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Ops-Intern--Summer-2027---Onsite-_01866424-1) |
 | [Saab](https://internscout.org/internships/at/saab/) | Mechanical Engineer Co-Op (Summer 2027) | East Syracuse, NY (Aspen Park) | \$20.27-\$22.30/hr | Oct 13 | [Apply](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Aspen-Park/Mechanical-Engineer-Co-Op--Summer-2027-_R-03261-1) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Manufacturing Engineering Intern (Summer 2027) | Largo, FL |  | Oct 13 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Manufacturing-Engineering-Intern--Summer-2027-_01881632) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Mechanical Engineering Intern - Summer 2027 | Tempe, AZ |  | Oct 12 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97462) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | Research and Development Intern - Smart Manufacturing Systems | Warren, MI +1 |  | Oct 12 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Research-and-Development---Smart-Manufacturing-Systems_JR-202621657) |
 | [ABB](https://internscout.org/internships/at/abb/) | Manufacturing Engineering Intern - Summer 2027 | USA, NC |  | Oct 12 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Hickory/Manufacturing-Engineering-Intern---Summer-2027_JR00047568) |
@@ -93,7 +94,6 @@
 | [Generac](https://internscout.org/internships/at/generac/) | Mechanical Engineering Intern - Summer 2027 | Waukesha, WI - USA +1 |  | Sep 17 | [Apply](https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Mechanical-Engineering-Intern---Summer-2027_JR16957) |
 | [X-energy](https://internscout.org/internships/at/x-energy/) | Mechanical Engineering Internship - Summer 2027 | Rockville, MD |  | Sep 17 | [Apply](https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Rockville-MD/Mechanical-Engineering-Internship---Summer-2027_R101319-1) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Middle River, MD +2 |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7988835003) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Mechanical Engineering Intern Summer 2027 | Silver Spring, MD +2 |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989904003) |
 | [Rendezvous Robotics](https://internscout.org/internships/at/rendezvous-robotics/) | Mechanical Engineering Intern (Summer 2027) | Golden, CO |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408601009) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Mechanical Engineering Internship | Austin, TX +1 |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/042f3a1d-5fc1-44ef-8f12-57044eaa4db2/apply) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Manufacturing Internship | Austin, TX |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/79d56d02-19bb-42fa-a7c6-ae19659120d6/apply) |
@@ -109,6 +109,7 @@
 | [Vermeer](https://internscout.org/internships/at/vermeer/) | Advanced Manufacturing Intern - Summer 2027 | Pella, Iowa, USA - The Center |  | Sep 15 | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---The-Center/Advanced-Manufacturing-Intern---Summer-2027_REQ-22140) |
 | [Antares Nuclear](https://internscout.org/internships/at/antares-nuclear/) | Manufacturing Engineering Intern - Summer 2027 | Los Angeles +1 |  | Sep 14 | [Apply](https://jobs.ashbyhq.com/Antares/d953d3f2-0ca8-4f13-ae88-4d0eb714e851/application) |
 | [Oshkosh](https://internscout.org/internships/at/oshkosh/) | Manufacturing Intern - Summer 2027 | New Hudson, Michigan, United States |  | Sep 14 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Manufacturing-Intern---Summer-2027_R50275) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Mechanical Engineering Intern Summer 2027 | Long Beach, CA +2 |  | Sep 13 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7991448003) |
 | [Xcimer Energy](https://internscout.org/internships/at/xcimer-energy/) | Summer 2027 Internship - Mechanical Engineering | Denver, CO |  | Sep 11 | [Apply](https://jobs.lever.co/xcimer/c672a37e-007d-45ee-a4f9-b5d4dd25a2e3/apply) |
 | [Antares Nuclear](https://internscout.org/internships/at/antares-nuclear/) | Mechanical Engineering Design Intern - Summer 2027 | Los Angeles +1 |  | Sep 10 | [Apply](https://jobs.ashbyhq.com/Antares/9accca59-103b-4f54-978a-d5bb46bd9c62/application) |
 | [Garmin](https://internscout.org/internships/at/garmin/) | Mechanical Engineering Intern | Tulsa, Oklahoma +1 |  | Sep 10 | [Apply](https://careers.garmin.com/jobs/19940) |
@@ -203,7 +204,6 @@
 | [Alliance Laundry Systems](https://internscout.org/internships/at/alliance-laundry-systems/) | Manufacturing Finance Intern | Ripon, WI |  | Sep 18 | [Apply](https://uscareeropenings-alliancelaundry.icims.com/jobs/13144/manufacturing-finance-intern/job) |
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Manufacturing Engineering Intern (Summer 2027) | Hagerstown, MD |  | Sep 18 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Manufacturing-Engineering-Intern--Summer-2027-_R0030784) |
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Marine Mechanical & Test Engineering Internship - Undergraduate | Space Coast, FL | \$32.00 | Sep 18 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Summer-2027-Marine-Mechanical---Test-Engineering-Internship---Undergraduate_R72238) |
-| [Alliance Laundry Systems](https://internscout.org/internships/at/alliance-laundry-systems/) | Mechanical Engineering Intern | Ripon, WI |  | Sep 18 | [Apply](https://uscareeropenings-alliancelaundry.icims.com/jobs/13140/mechanical-engineering-intern/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

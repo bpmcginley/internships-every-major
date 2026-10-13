@@ -1,9 +1,10 @@
 # Consulting: Summer 2027 Internships
 
-99 open Summer 2027 consulting roles, newest first (all 99). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 211 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+100 open Summer 2027 consulting roles, newest first (all 100). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 210 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | IT Business Analyst Intern - Ditch Witch | Perry, OK |  | Oct 13 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/IT-Business-Analyst-Intern---Ditch-Witch_JR17608) |
 | [WTW](https://internscout.org/internships/at/wtw/) | Early Careers: ADML Insurance & Financial Consulting Internship - Northeast - Summer 2027 | Boston, MA +1 |  | Oct 13 | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606594) |
 | CapTech Consulting | Consulting Software Engineer Intern | Richmond, VA |  | Oct 12 | [Apply](https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Business and Administrative Intern - Strategy Analyst, CCO Strategy and Program Management | Palo Alto, California |  | Oct 12 | [Apply](https://careers.rivian.com/jobs/34239) |

@@ -1,6 +1,6 @@
 # Civil Engineering: Summer 2027 Internships
 
-153 open Summer 2027 civil engineering roles, newest first (all 153). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 313 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+153 open Summer 2027 civil engineering roles, newest first (all 153). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 312 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Arcadis](https://internscout.org/internships/at/arcadis/) | Civil Engineering Intern | Syracuse, NY |  | Sep 4 | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43955) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Geotechnical Engineering Intern (Summer 2027!) | New York City, New York +1 |  | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4380) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Structural Engineering Intern (Summer 2027!) | Dallas, Texas +1 |  | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4385) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Structural Engineering Intern (Bridge Design, Summer 2027!) | Columbia, South Carolina +1 |  | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/4351) |
+| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Structural Engineering Intern (Bridge Design, Summer 2027!) | Columbia, South Carolina +2 |  | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/4351) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors - Transportation Engineering Intern (Summer 2027!) | Raleigh, North Carolina +2 |  | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/4361) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Civil Engineering | Los Angeles, CA |  | Sep 2 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377122008) |
 | [KCI Technologies](https://internscout.org/internships/at/kci-technologies/) | Construction Engineering Intern (Summer 2027) | Woodcliff, NJ +1 |  | Sep 2 | [Apply](https://careers-kci.icims.com/jobs/8071/construction-engineering-intern-%28summer-2027%29/job) |
@@ -97,7 +97,7 @@
 | [Perry Homes](https://internscout.org/internships/at/perry-homes/) | 2027 Summer Construction Management Internship - Orlando, Florida | Orlando, Florida |  | Sep 1 | [Apply](https://apply.workable.com/j/F203CDE771/apply) |
 | [Perry Homes](https://internscout.org/internships/at/perry-homes/) | 2027 Summer Construction Management Internship - Tampa, Florida | Tampa, Florida |  | Sep 1 | [Apply](https://apply.workable.com/j/4C141F13EA/apply) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Student Internship - Survey | North Kansas City, MO |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5407709008) |
-| [Olsson](https://internscout.org/internships/at/olsson/) | Civil Engineering Internship - Site Design | North Kansas City, MO +1 |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5400158008) |
+| [Olsson](https://internscout.org/internships/at/olsson/) | Civil Engineering Internship - Site Design | Springfield, MO +1 |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5397371008) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Student Internship- Construction Materials Testing | Springfield, MO |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5395791008) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Civil Engineering Internship - Data Centers Site Design | Fort Worth, TX |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5408678008) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Civil Engineering Internship - Federal Infrastructure Site Design | North Kansas City, MO |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5396116008) |
