@@ -1,9 +1,10 @@
 # Retail: Summer 2027 Internships
 
-166 open Summer 2027 retail roles, newest first (all 166). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 233 retail internships on InternScout](https://internscout.org/internships/retail/)
+167 open Summer 2027 retail roles, newest first (all 167). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 233 retail internships on InternScout](https://internscout.org/internships/retail/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship – Digital: Site Merchandising | New York, NY |  | Oct 13 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92298) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Retail Store Management Internship Summer 2027 - Greater Sacramento Area | CA - Pleasanton +28 | \$20-\$22 per hour | Oct 12 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---Pleasanton/Retail-Store-Management-Internship-Summer-2027---Greater-Bay-Area--East-Bay---North-Bay_R1018174) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Retail Delivery | Wilmington, DE |  | Oct 8 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Retail-Delivery_R-104112-2) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Retail Market Performance - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Retail-Market-Performance---Summer-2027---Franklin--TN_R00214228) |

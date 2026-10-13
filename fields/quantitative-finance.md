@@ -1,6 +1,6 @@
 # Quantitative Finance: Summer 2027 Internships
 
-142 open Summer 2027 quantitative finance roles, newest first (all 142). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 178 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
+142 open Summer 2027 quantitative finance roles, newest first (all 142). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 179 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -112,8 +112,8 @@
 | Flowtraders | Quantitative Trading Intern Summer 2027 | New York +1 | \$150,000 | Jul 8 | [Apply](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) |
 | Susquehanna Investment Group | Quantitative Strategy Developer Intern | Bala Cynwyd, PA |  | Jul 7 | [Apply](https://careers.sig.com/intern-co-op-technology/jobs/10838?lang=en-us) |
 | [Susquehanna International Group (SIG)](https://internscout.org/internships/at/susquehanna-international-group-sig/) | Trading System Engineer Intern | United States |  | Jul 6 | [Apply](https://careers-sig.icims.com/jobs/11169/job?mobile=true&needsRedirect=false) |
-| Tower Research Capital | Quantitative Developer Intern | Chicago, IL +4 | Paid | Jul 5 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8044334) |
-| Tower Research Capital | Quantitative Trader/Researcher Intern - Summer 2027 | New York +3 | \$3,500-5,700 | Jul 5 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8024128) |
+| [Tower Research Capital](https://internscout.org/internships/at/tower-research-capital/) | Quantitative Developer Intern | Chicago, IL +4 | Paid | Jul 5 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8044334) |
+| [Tower Research Capital](https://internscout.org/internships/at/tower-research-capital/) | Quantitative Trader/Researcher Intern - Summer 2027 | New York +3 | \$3,500-5,700 | Jul 5 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8024128) |
 | [IMC Trading](https://internscout.org/internships/at/imc-trading/) | Quantitative Trader Intern | Chicago, IL +1 | Paid | Jul 1 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) |
 | [Optiver](https://internscout.org/internships/at/optiver/) | Quantitative Research Intern | Austin, TX +2 |  | Jul 1 | [Apply](https://www.optiver.com/join-us/jobs/8451781002/?gh_jid=8451781002) |
 | [Optiver](https://internscout.org/internships/at/optiver/) | Quantitative Intern | Austin, TX +3 |  | Jul 1 | [Apply](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002) |

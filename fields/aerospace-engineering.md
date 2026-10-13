@@ -1,9 +1,10 @@
 # Aerospace Engineering: Summer 2027 Internships
 
-29 open Summer 2027 aerospace engineering roles, newest first (all 29). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 69 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
+29 open Summer 2027 aerospace engineering roles, newest first (all 29). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 68 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [RTX](https://internscout.org/internships/at/rtx/) | Aero Propulsion Systems Intern (Summer 2027)(Onsite) | East Hartford-G, CT | Paid | Oct 13 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Aero-Propulsion-Systems-Intern--Summer-2027--Onsite-_01881306) |
 | [The Aerospace Corporation](https://internscout.org/internships/at/the-aerospace-corporation/) | 2027 Aerospace Returning Interns | El Segundo, CA +9 | \$18.00 - \$48.00 | Oct 6 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Returning-Interns_R016174) |
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Aerospace Systems Engineering Intern - Graduate | Space Coast, FL +1 | \$38.00 | Oct 2 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Aerospace-Systems-Engineering-Intern---Graduate_R71435) |
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Aerospace Systems Engineering Internship - Undergraduate | Space Coast, FL +1 | \$32.00 | Oct 2 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Aerospace-Systems-Engineering-Internship----Undergraduate_R71436) |
@@ -17,7 +18,6 @@
 | [Rendezvous Robotics](https://internscout.org/internships/at/rendezvous-robotics/) | Avionics Engineering Intern (Summer 2027) | Golden, CO |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408578009) |
 | Sensata | Mechanical Engineer Intern (Aerospace) - Summer 2027 | Thousand Oaks, CA +1 | \$25.00 | Sep 16 | [Apply](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Thousand-Oaks-CA/Mechanical-Engineer-Intern--Aerospace----Summer-2027_IRC98482) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Test Engineering Intern - Avionics Summer 2027 | Long Beach, CA |  | Sep 10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987159003) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Propulsion Intern Summer 2027 | Long Beach, CA |  | Sep 10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986792003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Propulsion Design Intern Summer 2027 | Long Beach, CA |  | Sep 10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986816003) |
 | [Apex Technology, Inc.](https://internscout.org/internships/at/apex-technology-inc/) | Propulsion Internship (Summer 2027) | Los Angeles +1 | \$100k | Sep 9 | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/1a4b78cb-f601-451c-ad27-e5e03324650e/application) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Avionics Engineering Intern Summer 2027 | Long Beach, CA | \$28.00 | Sep 9 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989733003) |

@@ -1,9 +1,11 @@
 # Health: Summer 2027 Internships
 
-39 open Summer 2027 health roles, newest first (all 39). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 252 health internships on InternScout](https://internscout.org/internships/health/)
+41 open Summer 2027 health roles, newest first (all 41). **Updated October 13, 2026.** [Back to every major](../README.md) · [See all 250 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Philips](https://internscout.org/internships/at/philips/) | Intern - Health Systems Marketing-Cambridge, MA-Summer 2027 | Cambridge (US), Massachusetts, United States | \$26.00 – 40.00 | Oct 13 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Health-Systems-Marketing-Cambridge--MA-Summer-2027_593616) |
+| [TD Bank](https://internscout.org/internships/at/td-bank/) | 2027 Summer Analyst Program - Investment Banking, Healthcare (San Francisco) | San Francisco, California | \$30.00 - \$45.00 | Oct 13 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/San-Francisco-California/XMLNAME-2027-Summer-Analyst-Program---Investment-Banking--Healthcare--San-Francisco-_R_1513984) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Healthcare Strategy & Consulting Corporate Internship – Summer 2027 (Undergraduate) | CT - Hartford | Paid | Oct 12 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Healthcare-Strategy---Consulting-Corporate-Internship---Summer-2027--Undergraduate-_R1052586) |
 | BlueCross BlueShield of Nebraska | Data Intern - Healthcare Summer 2027 | Omaha, NE |  | Oct 12 | [Apply](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Data-Intern--Summer-2027_JR101406) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Healthcare Real Estate (New York, NY) | New York, New York | \$22.44 | Oct 9 | [Apply](https://firstcitizens.jibeapply.com/jobs/35872) |
