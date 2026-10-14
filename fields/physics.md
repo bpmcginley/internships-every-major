@@ -1,6 +1,6 @@
 # Physics: Summer 2027 Internships
 
-19 open Summer 2027 physics roles, newest first (all 19). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 65 physics internships on InternScout](https://internscout.org/internships/physics/)
+19 open Summer 2027 physics roles, newest first (all 19). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 64 physics internships on InternScout](https://internscout.org/internships/physics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Xcimer Energy](https://internscout.org/internships/at/xcimer-energy/) | Summer 2027 Internship - Optical Engineering | Denver, CO |  | Sep 11 | [Apply](https://jobs.lever.co/xcimer/89ffbeda-ebea-4539-9676-c6441751b95a/apply) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 PhD SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op | San Jose, California +3 |  | Sep 11 | [Apply](https://careers.amd.com/jobs/92350) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 PhD Optical & Photonics Engineering Intern/Co-Op | San Jose, California +3 |  | Sep 11 | [Apply](https://careers.amd.com/jobs/92358) |
-| [L3Harris Technologies](https://internscout.org/internships/at/l3harris-technologies/) | Electro-Optical Engineering Co-op | Waterdown, Hamilton, ON +1 |  | Sep 10 | [Apply](https://jobs.l3harris.com/job/Waterdown-Electro-Optical-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1428468700/?ats=successfactors) |
+| [L3Harris Technologies](https://internscout.org/internships/at/l3harris-technologies/) | Electro-Optical Engineering Co-op | Waterdown, Hamilton, ON, Canada |  | Sep 10 | [Apply](https://jobs.l3harris.com/job/Waterdown-Electro-Optical-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1428468700/?ats=successfactors) |
 | [Booz Allen](https://internscout.org/internships/at/booz-allen-hamilton/) | Quantum Computing Research Intern | Washington, DC |  | Sep 9 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027-Quantum-Computing-Research-Intern_R0249046) |
 | [Tesla](https://internscout.org/internships/at/tesla/) | Physics Engine Development Engineer Intern - Optimus | Palo Alto, CA |  | Sep 2 | [Apply](https://www.tesla.com/careers/search/job/282147) |
 | [Corning](https://internscout.org/internships/at/corning/) | Optical Fiber Engineering Intern - Summer 2027 | Concord, NC |  | Oct 7 | [Apply](https://corningjobs.corning.com/job/Concord-Optical-Fiber-Engineering-Intern-Summer-2027-NC-28026/1437582400/) |

@@ -1,13 +1,12 @@
 # Math: Summer 2027 Internships
 
-46 open Summer 2027 math roles, newest first (all 46). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 75 math internships on InternScout](https://internscout.org/internships/math/)
+44 open Summer 2027 math roles, newest first (all 44). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 74 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Sun Life](https://internscout.org/internships/at/sun-life/) | Actuarial Intern - Summer 2027 | Wellesley Hills, Massachusetts +4 |  | Oct 13 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Wellesley-Hills-Massachusetts/Actuarial-Intern---Summer-2027_JR00127870) |
 | [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Statistics & Decision Sciences Summer Interns 2027 | Raritan, New Jersey, United States of America +3 |  | Oct 13 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Statistics---Decision-Sciences-Summer-Interns-2027_R-103411) |
 | [NJM Insurance Group](https://internscout.org/internships/at/njm-insurance-group/) | Actuarial Intern | NJM - Trenton, NJ | \$21- \$25 hour | Oct 12 | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Actuarial-Intern_R2008177-1) |
-| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - System IT (S&R and Statistics) | Dallas, TX |  | Oct 9 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---System-IT--S-R-and-Statistics-_R-0000033623) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 – Actuarial US | Boston, Massachusetts |  | Oct 8 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Actuarial-US_JR26081417-1) |
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Actuarial Intern- Summer 2027 | Richfield, OH (USA) |  | Oct 8 | [Apply](https://gaig.wd1.myworkdayjobs.com/National_Interstate_External/job/Richfield-OH-USA/Actuarial-Intern--Summer-2027_R9665) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Actuarial Intern- Summer 2027 | Richfield, OH (USA) |  | Oct 8 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Richfield-OH-USA/Actuarial-Intern--Summer-2027_R9665-1) |
@@ -38,7 +37,6 @@
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Statistical Programming - California | Irvine, California +1 |  | Sep 1 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Irvine-California/Summer-2027-Internship---Statistical-Programming---California_R572769) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Actuarial Intern - Summer 2027 | Addison, TX +1 | Paid | Aug 19 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4376293009) |
 | GuideWell Mutual | 2027 Actuarial Summer Internship | Jacksonville, FL |  | Aug 18 | [Apply](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41855) |
-| [Aon](https://internscout.org/internships/at/aon/) | Early Careers: Actuarial Intern | Chicago, Illinois +28 |  | Jul 27 | [Apply](https://jobs.aon.com/jobs/100938) |
 | Crum & Forster Insurance | Internship – Actuarial or Product Services– Commercial Lines -Summer 2027 (Morristown, NJ or Remote) | MORRISTOWN, NJ |  | Oct 14, 2024 | [Apply](https://careers-cfins.icims.com/jobs/5108/internship-%e2%80%93-actuarial-or-product-services%e2%80%93-commercial-lines--summer-2027-%28morristown%2c-nj-or-remote%29/job) |
 | Co-operators | Actuarial Intern (Summer 2027 - Montreal) | Montreal, Quebec |  | Oct 14 | [Apply](https://bebee.com/ca/jobs/actuarial-intern-summer-2027-montreal-co-operators-montreal-administrative-region-qc-canada--jobgoal-22543_197d0ba78215ce76b0440d7f4d2284b1-2304793712?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Palomar Holdings | 2027 Summer Internship (Actuarial) | Edina, MN |  | Oct 3 | [Apply](https://ats.rippling.com/plmrcareers/jobs/d6bd58c7-5127-4a17-b70d-2d377aa9fa8a) |

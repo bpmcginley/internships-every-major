@@ -1,6 +1,6 @@
 # Quantitative Finance: Summer 2027 Internships
 
-135 open Summer 2027 quantitative finance roles, newest first (all 135). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 173 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
+136 open Summer 2027 quantitative finance roles, newest first (all 136). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 174 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Brevan Howard](https://internscout.org/internships/at/brevan-howard/) | 2027 Summer Internship Program – Systematic Trading, New York | New York +1 |  | Sep 9 | [Apply](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--New-York_JR101591) |
 | Talos | Quantitative Analyst Intern | NYC |  | Sep 8 | [Apply](https://jobs.ashbyhq.com/Talos-Trading/d6d0c99a-f281-4efe-89c4-026f7f5edc2b/application?embed=true) |
 | [Brevan Howard](https://internscout.org/internships/at/brevan-howard/) | 2027 Summer Internship Program – Trading, New York | New York +1 |  | Sep 7 | [Apply](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Trading--New-York_JR101583) |
-| [Schonfeld](https://internscout.org/internships/at/schonfeld/) | 2027 PhD Quantitative Research Intern | New York, New York, United States +2 |  | Sep 4 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8172076) |
+| [Schonfeld](https://internscout.org/internships/at/schonfeld/) | Quantitative Research Intern | NYC +1 |  | Sep 4 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8172076) |
+| [Schonfeld](https://internscout.org/internships/at/schonfeld/) | 2027 PhD Quantitative Research Intern | New York, New York, United States +1 |  | Sep 4 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8172074) |
 | AXQ Capital | Quantitative Research Intern (PhD, Summer 2027) | New York +1 | \$75 to \$100, | Sep 3 | [Apply](https://job-boards.greenhouse.io/axq/jobs/6181069004) |
 | [Garda Capital Partners](https://internscout.org/internships/at/garda-capital-partners/) | Trading Analyst Intern - Mortgages | NYC +1 | Paid | Sep 3 | [Apply](https://job-boards.greenhouse.io/gardacp/jobs/6179468004) |
 | [Royal Bank of Canada](https://internscout.org/internships/at/royal-bank-of-canada/) | 2027 Capital Markets, Quants Summer Associate, Quantitative Technology Services | New York, New York, United States of America +1 |  | Sep 2 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000186729-1) |

@@ -1,6 +1,6 @@
 # Insurance: Summer 2027 Internships
 
-105 open Summer 2027 insurance roles, newest first (all 105). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 178 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+104 open Summer 2027 insurance roles, newest first (all 104). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 177 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -69,7 +69,6 @@
 | [National Life](https://internscout.org/internships/at/national-life/) | Actuarial Intern - Summer 2027 | Addison, TX +1 | Paid | Aug 19 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4376293009) |
 | GuideWell Mutual | 2027 Actuarial Summer Internship | Jacksonville, FL |  | Aug 18 | [Apply](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41855) |
 | Jencap | 2027 Summer Insurance Internship | Atlanta, GA +4 |  | Jul 29 | [Apply](https://job-boards.greenhouse.io/jencapinc/jobs/5198365007) |
-| [Aon](https://internscout.org/internships/at/aon/) | Early Careers: Actuarial Intern | Chicago, Illinois +28 |  | Jul 27 | [Apply](https://jobs.aon.com/jobs/100938) |
 | [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Global Risk Solutions Claims Internship - Summer 2027 | Plano, TX +5 |  | Oct 14, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261686/global-risk-solutions-claims-internship---summer-2027/job) |
 | [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Surety Underwriting Internship - Summer 2027 | Denver, CO +6 |  | Oct 14, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/247778/surety-underwriting-internship---summer-2027/job) |
 | [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Underwriting Internship Program - Global Risk Solutions - Summer 2027 | Chicago, IL +4 |  | Oct 14, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/248801/underwriting-internship-program---global-risk-solutions---summer-2027/job) |

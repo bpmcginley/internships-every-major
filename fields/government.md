@@ -1,9 +1,11 @@
 # Government and Public Policy: Summer 2027 Internships
 
-52 open Summer 2027 government and public policy roles, newest first (all 52). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 271 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+54 open Summer 2027 government and public policy roles, newest first (all 54). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 274 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - LBO/SIO/QOS | Dallas, TX |  | Oct 14 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---LBO-SIO-QOS_R-0000033712) |
+| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - P&C Generalist | Dallas, TX |  | Oct 14 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---P-C-Generalist_R-0000033574) |
 | [Guidehouse](https://internscout.org/internships/at/guidehouse/) | Intern – State and Local Government – Campus 2027 | US - MA +13 | \$59,000.00-\$98,000.00 | Oct 14 | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MA-Boston/Intern---State-and-Local-Government---Campus-2027_44623) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Climate Policy Implementation Intern | New York, NY +2 |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6070/summer-2027-climate-policy-implementation-intern/job) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Civil Engineering Intern, Federal - Summer 2027 | Jacksonville, FL |  | Oct 13 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310064) |
