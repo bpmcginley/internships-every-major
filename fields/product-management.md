@@ -1,6 +1,6 @@
 # Product Management: Summer 2027 Internships
 
-146 open Summer 2027 product management roles, newest first (all 146). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 248 product management internships on InternScout](https://internscout.org/internships/product-management/)
+146 open Summer 2027 product management roles, newest first (all 146). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 247 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

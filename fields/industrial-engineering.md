@@ -1,6 +1,6 @@
 # Industrial Engineering: Summer 2027 Internships
 
-236 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 236). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 613 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+235 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 235). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 612 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -26,7 +26,6 @@
 | [ABB](https://internscout.org/internships/at/abb/) | Manufacturing Engineering Intern - Summer 2027 | USA, NC |  | Oct 12 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Hickory/Manufacturing-Engineering-Intern---Summer-2027_JR00047568) |
 | [GE Aerospace](https://internscout.org/internships/at/ge-aerospace/) | Supply Chain Operations Intern – US – Summer 2027 - Returning Students | Durham +6 |  | Oct 12 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Supply-Chain-Operations-Intern---US---Summer-2027---Returning-Students_R5030084-1) |
 | [GE Aerospace](https://internscout.org/internships/at/ge-aerospace/) | Manufacturing Engineering Intern – US – Summer 2027 - Returning Students | Durham +6 |  | Oct 12 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Manufacturing-Engineering-Intern---US---Summer-2027---Returning-Students_R5030079-1) |
-| [RTX](https://internscout.org/internships/at/rtx/) | Materials Management & Logistics Internship Program (Summer 2027) | East Hartford-Etc, CT | Paid | Oct 9 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Materials-Management---Logistics-Internship-Program--Summer-2027-_01862953-1) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Quality Systems Engineering Intern | Sparks, Nevada |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51648) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Summer 2027 Industrial Engineer Intern- Master's (Santa Clara, CA) | Santa Clara,CA |  | Oct 9 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Industrial-Engineer-Intern--Master-s--Santa-Clara--CA-_R2630072) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Supply Chain, Purchasing, Procurement and Logistics - Summer 2027 Internships | Normal, Illinois | \$24-\$51.00 per hour | Oct 9 | [Apply](https://careers.rivian.com/jobs/34297) |
@@ -111,10 +110,10 @@
 | [ATC](https://internscout.org/internships/at/atc/) | Intern-Supply Chain Summer 2027 | Pewaukee, WI +1 | \$23-27/hr | Sep 18 | [Apply](https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern-Supply-Chain-Summer-2027_R0003303) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Systems Engineering Intern Summer 2027 | Chantilly, VA +3 |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990272003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Supply Chain Intern Summer 2027 | Long Beach, CA +1 |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984568003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Wallops Island, VA +2 |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7996623003) |
 | [General Dynamics Mission Systems, Inc.](https://internscout.org/internships/at/general-dynamics-mission-systems-inc/) | Systems Engineering Intern - Autonomous Maritime Platforms | Quincy, MA | \$22.00 | Sep 17 | [Apply](https://careers-gdms.icims.com/jobs/74840/systems-engineering-intern---autonomous-maritime-platforms/job) |
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Supply Chain Intern (Summer 2027) | Paso Robles, CA +1 |  | Sep 17 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Supply-Chain-Intern--Summer-2027-_REQ-020108) |
 | [Generac](https://internscout.org/internships/at/generac/) | Industrial Engineering Intern - Summer 2027 | Waukesha, WI - USA +1 |  | Sep 17 | [Apply](https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Industrial-Engineering-Intern---Summer-2027_JR16999-1) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Middle River, MD +2 |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7988835003) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Systems Engineering Internship | Westminster, CO +1 |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/a3b0f097-9d62-4a67-9800-de5dfe416da2/apply) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Supply Chain Internship | Westminster, CO |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/6c354949-9e6b-4716-9381-f8aa071e3465/apply) |
 | [Lonza](https://internscout.org/internships/at/lonza/) | Summer 2027 Supply Chain Internship | US - Portsmouth, NH |  | Sep 16 | [Apply](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/US---Portsmouth-NH/Summer-2026-Supply-Chain-Internship_R79571) |
@@ -204,6 +203,7 @@
 | [Land O'Lakes](https://internscout.org/internships/at/land-o-lakes/) | Supply Chain Intern Summer 2027 | Arden Hills, MN (USA) |  | Sep 18 | [Apply](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Arden-Hills-MN-USA/Supply-Chain-Intern-Summer-2027_R-36773) |
 | [Uline](https://internscout.org/internships/at/uline/) | Supply Chain Internship - Summer 2027 | Pleasant Prairie, WI +4 | Paid | Sep 18 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Supply-Chain-Internship---Summer-2027_R265942) |
 | [Hy-Vee](https://internscout.org/internships/at/hy-vee/) | Supply Chain Internship - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA +6 |  | Sep 18 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Supply-Chain-Internship---Summer-2027_R250860) |
+| [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship Human Factors Engineering - Washington | Redmond, Washington |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Redmond-Washington/Human-Factors-Engineering-Intern_R572819) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

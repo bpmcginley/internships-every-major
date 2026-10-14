@@ -1,9 +1,10 @@
 # Engineering: Summer 2027 Internships
 
-435 open Summer 2027 engineering roles, newest first (the 200 newest of 435). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 1,253 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+436 open Summer 2027 engineering roles, newest first (the 200 newest of 436). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 1,254 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [WSP](https://internscout.org/internships/at/wsp/) | Transmission Line Engineering Intern - Summer 2027 | Meridian, ID |  | Oct 14 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96802) |
 | [Cadence Design Systems](https://internscout.org/internships/at/cadence-design-systems/) | CST Application Engineer Intern - Systems ATX | SAN JOSE |  | Oct 14 | [Apply](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Systems-ATX_R56800-2) |
 | [Cadence](https://internscout.org/internships/at/cadence/) | CST Application Engineer Intern - Systems ATX | SAN JOSE |  | Oct 14 | [Apply](https://cadence.wd1.myworkdayjobs.com/external_careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Systems-ATX_R56800-3) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Controls Engineering Intern – Summer 2027 | Milwaukee, WI +3 | \$23.90 - \$32.22 | Oct 14 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94708) |
@@ -203,7 +204,6 @@
 | Everest | 2027 Everest Design Engineering Internship Program | Warren, NJ | \$900.00-1,000.00 per week | Sep 15 | [Apply](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Everest-Design-Engineering-Internship-Program_R7401) |
 | [Ingredion](https://internscout.org/internships/at/ingredion/) | R&D Intern, Protein Fortification & Analytical Characterization | Bridgewater, NJ |  | Sep 15 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Bridgewater-NJ/R-D-Intern--Protein-Fortification---Analytical-Characterization_Req-40208-1) |
 | [Intel](https://internscout.org/internships/at/intel/) | Module Engineering PhD Intern Summer 2027 | Hillsboro, OR |  | Sep 15 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-Summer-2027_JR0286916) |
-| [onsemi](https://internscout.org/internships/at/onsemi/) | Summer 2027 - Module Engineer Intern | Hopewell Junction, NY | \$26.00 -\$44.00 per hour | Sep 15 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506640) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

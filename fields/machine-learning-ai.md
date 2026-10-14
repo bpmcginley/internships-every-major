@@ -1,6 +1,6 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-318 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 318). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 741 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+317 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 317). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 739 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -9,11 +9,10 @@
 | [Field AI](https://internscout.org/internships/at/field-ai/) | Robotics Research Intern - Embodied AI | Irvine, CA |  | Oct 14 | [Apply](https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704/apply) |
 | [onsemi](https://internscout.org/internships/at/onsemi/) | Summer 2027 - Manufacturing AI Intern | Hopewell Junction, NY |  | Oct 14 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506642) |
 | [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program - Global Communications Intern (AI focus) - Intern | USA - New Jersey - Rahway |  | Oct 14 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Communications-Intern--AI-focus----Intern_R422423) |
-| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova – AGI – AI Post-Training and Model Alignment Intern - Summer 2027 | Bellevue |  | Oct 14 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-2) |
-| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova - AGI - AI Power Systems Intern - Summer 2027 | Bellevue |  | Oct 14 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Power-Systems-Intern---Summer-2027_R5054818-2) |
-| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova – AGI – AI Evaluation & Benchmarking Intern - Summer 2027 | Bellevue +1 |  | Oct 14 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-2) |
-| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | AI Evaluation & Benchmarking Intern - AGI | Bellevue, WA |  | Oct 14 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-1) |
-| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | AI Post-Training and Model Alignment Intern | Bellevue, WA |  | Oct 14 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-1) |
+| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova – AGI – AI Post-Training and Model Alignment Intern - Summer 2027 | Bellevue +1 |  | Oct 14 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-1) |
+| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | AI Evaluation & Benchmarking Intern | Bellevue, WA |  | Oct 14 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-2) |
+| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova - AGI - AI Power Systems Intern - Summer 2027 | Bellevue |  | Oct 14 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Power-Systems-Intern---Summer-2027_R5054818-1) |
+| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova – AGI – AI Evaluation & Benchmarking Intern - Summer 2027 | Bellevue +1 |  | Oct 14 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-1) |
 | Boston Consulting Group | Forward Deployed AI Engineer Intern | Boston, MA +3 |  | Oct 13 | [Apply](https://careers.bcg.com/global/en/job/59702) |
 | ServiceNow | AI Engineering Associate Software Engineer Intern | Santa Clara, CA +3 |  | Oct 13 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000155345889) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction | Mountain View, CA, USA | Paid | Oct 13 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8279620) |
@@ -204,6 +203,7 @@
 | [Shure](https://internscout.org/internships/at/shure/) | Artificial Intelligence Engineer Intern | Niles, IL |  | Sep 3 | [Apply](https://careersus-shure.icims.com/jobs/4966/job?mobile=true&needsRedirect=false) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Research Intern - AI-Native Databases | San Jose, CA +1 |  | Sep 2 | [Apply](https://jobs.bytedance.com/en/position/7678450462765254965/detail) |
 | [TWG Global](https://internscout.org/internships/at/twg-global/) | AI Engineer Intern - Summer 2027 | Santa Monica, CA |  | Sep 1 | [Apply](https://apply.workable.com/twgai/j/772CD136FF/apply) |
+| Trane Technologies | AI Intern - AI Product Management - AI Controls Integration | Montreal, QC, Canada |  | Sep 1 | [Apply](https://careers.tranetechnologies.com/global/en/job/JR-7608) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

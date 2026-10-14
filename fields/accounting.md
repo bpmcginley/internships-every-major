@@ -1,10 +1,11 @@
 # Accounting: Summer 2027 Internships
 
-210 open Summer 2027 accounting roles, newest first (the 200 newest of 210). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 489 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+211 open Summer 2027 accounting roles, newest first (the 200 newest of 211). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 488 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Audit (Raleigh, NC) | Raleigh, North Carolina |  | Oct 14 | [Apply](https://firstcitizens.jibeapply.com/jobs/36006) |
+| [CareBridge](https://internscout.org/internships/at/carebridge/) | Internal IT Audit Intern - Summer 2027 | FL-TAMPA, 5411 SKYCENTER DR, STE 700 & 800 |  | Oct 14 | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-TAMPA-5411-SKYCENTER-DR-STE-700--800/Intern_JR210003) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Audit (Charlotte, NC) | Charlotte, North Carolina |  | Oct 14 | [Apply](https://firstcitizens.jibeapply.com/jobs/36007) |
 | [HF Sinclair](https://internscout.org/internships/at/hf-sinclair/) | Accounting Intern | Dallas, TX |  | Oct 14 | [Apply](https://careers.hfsinclair.com/job/Dallas-Accounting-Intern-TX-75219/1430072000/) |
 | [DuCharme, McMillen & Associates](https://internscout.org/internships/at/ducharme-mcmillen-associates/) | Canada Sales Tax Intern - Summer 2027 | Toronto +1 |  | Oct 14 | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Toronto/Canada-Sales-Tax-Intern---Summer-2027_REQ669) |
@@ -109,7 +110,7 @@
 | [Guardian Life](https://internscout.org/internships/at/guardian-life/) | 2027 Guardian Summer Intern, Corporate Finance & Risk – Internal Audit | New York | \$20.00 - \$35 | Sep 18 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Internal-Audit_R000110166) |
 | [Guardian Life](https://internscout.org/internships/at/guardian-life/) | 2027 Guardian Summer Intern, Corporate Finance & Risk, Expense Management FP&A | New York | \$20.00 - \$35.00 | Sep 18 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Expense-Management-FP-A_R000110122) |
 | [Guardian Life](https://internscout.org/internships/at/guardian-life/) | 2027 Guardian Summer Intern, Corporate Finance & Risk - Agency Accounting | New York | \$20.00 - \$35.00 | Sep 18 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Corporate-Finance---Risk---Agency-Accounting_R000110129) |
-| [AIG](https://internscout.org/internships/at/aig/) | 2027 Early Careers: Summer Intern, Forensic Accounting – United States, Dallas, TX & Chicago, IL | IL-Chicago +1 |  | Sep 18 | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/IL-Chicago/XMLNAME-2027-Early-Careers--Summer-Intern--Forensic-Accounting---United-States--Dallas--TX---Chicago--IL_JR2603648-1) |
+| [AIG](https://internscout.org/internships/at/aig/) | 2027 Early Careers: Summer Intern, Forensic Accounting – United States, Dallas, TX & Chicago, IL | IL-Chicago +1 |  | Sep 18 | [Apply](https://aig.wd1.myworkdayjobs.com/early_careers/job/IL-Chicago/XMLNAME-2027-Early-Careers--Summer-Intern--Forensic-Accounting---United-States--Dallas--TX---Chicago--IL_JR2603648) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Finance & Accounting Internship - Summer 2027 | San Diego, CA |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721159170) |
 | [Insulet Corporation](https://internscout.org/internships/at/insulet-corporation/) | Intern, Internal Audit & Enterprise Risk Management: June - August 2027 (Hybrid) | Acton, Massachusetts |  | Sep 17 | [Apply](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Intern--Internal-Audit---Enterprise-Risk-Management--June---August-2027--Hybrid-_REQ-2026-17994) |
 | [Cerity Partners](https://internscout.org/internships/at/cerity-partners/) | 2027 Summer Business Accounting & Advisory Internship | Louisville, KY +1 |  | Sep 17 | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/XMLNAME-2027-Summer-Business-Accounting---Advisory-Internship_R913) |
@@ -203,7 +204,6 @@
 | [POET](https://internscout.org/internships/at/poet/) | Accounting Intern - Summer 2027 | Wichita, KS |  | Sep 18 | [Apply](https://poet.wd1.myworkdayjobs.com/POET/job/Wichita-KS/Accounting-Intern---Summer-2027_R101664) |
 | [Continental Resources](https://internscout.org/internships/at/continental-resources/) | Accounting & Finance Intern (Summer 2027) | Oklahoma City, OK |  | Sep 18 | [Apply](https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Accounting---Finance-Intern--Summer-2027-_R02590-1) |
 | [UHY](https://internscout.org/internships/at/uhy/) | 2027 Summer Tax Internship - West Des Moines | West Des Moines, IA |  | Sep 18 | [Apply](https://uhyus.wd12.myworkdayjobs.com/uhy/job/West-Des-Moines-IA/XMLNAME-2027-Summer-Tax-Internship---West-Des-Moines_JR102036-1) |
-| [Highgate](https://internscout.org/internships/at/highgate/) | Tax Internship - Summer 2027 | Irving, TX |  | Sep 18 | [Apply](https://externalhourly-highgate.icims.com/jobs/82541/tax-internship---summer-2027/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

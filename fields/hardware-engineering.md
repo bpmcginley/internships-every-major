@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-188 open Summer 2027 hardware engineering roles, newest first (all 188). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 539 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+188 open Summer 2027 hardware engineering roles, newest first (all 188). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 541 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Stryten](https://internscout.org/internships/at/stryten/) | 2027 Summer Intern - Controls Engineer (Robotics & Automation) | Salina, Kansas | Paid | Aug 30 | [Apply](https://jobs.stryten.com/jobs/5804) |
 | [Northwood Space](https://internscout.org/internships/at/northwood-space/) | Embedded Software Engineering Intern (2027 Summer Internship) | Torrance, CA +3 |  | Aug 29 | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/d0cca9dd-ea90-4c3b-94b4-17761932d11c/application) |
 | [Persona AI](https://internscout.org/internships/at/persona-ai/) | Robotics Software Intern - Manipulation | Houston, TX +1 |  | Aug 29 | [Apply](https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc/application?embed=true) |
-| [Vertiv](https://internscout.org/internships/at/vertiv/) | Firmware Engineer Intern (Graduate Level) (Summer 2027) | Delaware, OH |  | Aug 26 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278957) |
+| [Vertiv](https://internscout.org/internships/at/vertiv/) | Firmware Engineer Intern - Summer 2027 | Delaware, OH |  | Aug 26 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278957) |
 | [Honeywell](https://internscout.org/internships/at/honeywell/) | Embedded Engineer Intern | United States |  | Aug 25 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155562) |
 | [Verkada](https://internscout.org/internships/at/verkada/) | Embedded Software Engineering Intern 2027 | San Mateo, CA United States +1 |  | Aug 25 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5211595007) |
 | [Honeywell](https://internscout.org/internships/at/honeywell/) | Embedded Engineer - Summer 2027 Intern (US Person Required) | United States |  | Aug 25 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155561) |
