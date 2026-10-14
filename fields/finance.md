@@ -1,11 +1,12 @@
 # Finance: Summer 2027 Internships
 
-548 open Summer 2027 finance roles, newest first (the 200 newest of 548). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 909 finance internships on InternScout](https://internscout.org/internships/finance/)
+549 open Summer 2027 finance roles, newest first (the 200 newest of 549). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 908 finance internships on InternScout](https://internscout.org/internships/finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Point72](https://internscout.org/internships/at/point72/) | 2027 Summer Internship - Sector Analyst, Proprietary Research | New York, NY | \$100,000 | Oct 14 | [Apply](https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002) |
 | [Point72](https://internscout.org/internships/at/point72/) | 2027 Summer Internship - Fundamental Researcher, Canvas | New York, NY |  | Oct 14 | [Apply](https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002) |
+| Ketjen | 2027 Finance Summer Intern | Houston, Texas, United States of America |  | Oct 14 | [Apply](https://albemarle.wd5.myworkdayjobs.com/ketjenexternal/job/Houston-Texas-United-States-of-America/XMLNAME-2027-Finance-Summer-Intern_REQ-31663-1) |
 | [LSEG](https://internscout.org/internships/at/lseg/) | Intern - Finance Engineer | New York City, United States |  | Oct 14 | [Apply](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Finance-Engineer_R0124268) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - Community Banking Organizations (Houston) | Houston, TX | Paid | Oct 14 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Houston-TX/XMLNAME-2027-Intern---Community-Banking-Organizations--Houston-_R-0000033578-1) |
 | [Marsh](https://internscout.org/internships/at/marsh/) | Summer Intern, Undergraduate Finance Innovation & Technology (FIT)- New York, 2027 | New York - 1166 |  | Oct 14 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Summer-Intern--Undergraduate-Finance-Innovation---Technology--FIT---New-York--2027_R_369579) |
@@ -186,8 +187,8 @@
 | [Acuity](https://internscout.org/internships/at/acuity/) | Finance AI Product Management Intern | Atlanta, GA |  | Sep 29 | [Apply](https://careers.acuityinc.com/job/Atlanta-Finance-AI-Product-Management-Intern-Onsite-GA-30309/1434874300/?ats=successfactors) |
 | Allegiant Air | Intern, Financial Analyst (Summer 2027) | Las Vegas, NV |  | Sep 29 | [Apply](https://jobs.lever.co/allegiantair/fd433f06-813b-4254-b549-5c69f4b5af10/apply) |
 | Truist Bank | 2027 Truist Securities - Investment Banking - Summer Associate Program (Internship) - Houston - Energy (MBA) | Houston, TX | \$175,000 | Sep 29 | [Apply](https://truist.wd1.myworkdayjobs.com/Careers/job/Houston-TX/XMLNAME-2027-Truist-Securities---Investment-Banking---Summer-Associate-Program--Internship----Houston---Energy--MBA-_R0119793-1) |
-| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, R&E Tax Credits | Washington DC |  | Sep 29 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Washington/Summer-2027-Intern--R-E-Tax-Credits_R0020727-1) |
-| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Transfer Pricing | Washington DC +1 |  | Sep 29 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Washington/Summer-2027-Intern--Transfer-Pricing_R0020725-1) |
+| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, R&E Tax Credits | Washington DC |  | Sep 29 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Washington/Summer-2027-Intern--R-E-Tax-Credits_R0020727) |
+| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Transfer Pricing | Washington DC +1 |  | Sep 29 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Washington/Summer-2027-Intern--Transfer-Pricing_R0020725) |
 | [ABB](https://internscout.org/internships/at/abb/) | Finance Operations Intern – Summer 2027 | USA, NJ +1 |  | Sep 29 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NM-Albuquerque/Finance-Operations-Intern---Summer-2027_JR00048203) |
 | [Principal Financial Group](https://internscout.org/internships/at/principal-financial-group/) | Intern-Private Alternative Credit | Des Moines, Iowa +2 | \$29 - \$40 / hour | Sep 29 | [Apply](https://careers.principal.com/jobs/52677) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | GDIT Summer Internship Program – Summer 2027 Summer Finance and Accounting Associate Internship | Herndon, VA |  | Sep 29 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Herndon/GDIT-Summer-Internship-Program---Summer-2027-Summer-Finance-and-Accounting-Associate-Internship-_RQ228402) |
@@ -203,7 +204,6 @@
 | [BDO Canada](https://internscout.org/internships/at/bdo-canada/) | Co-op or Intern, Financial Reporting & Insights - Manitoba - Summer 2027 | Winnipeg |  | Sep 28 | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Winnipeg/Co-op-or-Intern--Financial-Reporting---Insights---Manitoba---Summer-2027_JR6994) |
 | [C&S Wholesale Grocers](https://internscout.org/internships/at/c-s-wholesale-grocers/) | Finance/Accounting Intern - Summer 2027 | Keene, NH +1 | Paid | Sep 28 | [Apply](https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Keene-NH/Finance-Accounting-Intern---Summer-2027_R-268931) |
 | [Principal Financial Group](https://internscout.org/internships/at/principal-financial-group/) | Intern - Equities | Des Moines, Iowa | \$29 - \$40 / hour | Sep 28 | [Apply](https://careers.principal.com/jobs/52675) |
-| Analysis Group | Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date) | Boston, MA +3 |  | Sep 28 | [Apply](https://analystcareers-analysisgroup.icims.com/jobs/3064/summer-analyst-intern---health-care-%28heor%2c-epidemiology-%26-market-access%29-%282027-start-date%29/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

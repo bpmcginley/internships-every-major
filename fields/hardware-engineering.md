@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-188 open Summer 2027 hardware engineering roles, newest first (all 188). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 538 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+187 open Summer 2027 hardware engineering roles, newest first (all 187). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 538 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -34,7 +34,6 @@
 | [Nokia](https://internscout.org/internships/at/nokia/) | ASIC Physical Design Co-op | San Jose, CA +1 |  | Oct 6 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41122) |
 | [Alliance Laundry Systems](https://internscout.org/internships/at/alliance-laundry-systems/) | Embedded Firmware Co-op | Ripon, WI |  | Oct 6 | [Apply](https://uscareeropenings-alliancelaundry.icims.com/jobs/13348/job?mobile=true&needsRedirect=false) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | PCIe Design Verification Intern | Austin, TX +2 |  | Oct 6 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/PCIe-Design-Verification-Intern---Summer-2027_JR2026708) |
-| [Cadence Design Systems](https://internscout.org/internships/at/cadence-design-systems/) | CST Application Engineer Intern - Silicon | SAN JOSE |  | Oct 6 | [Apply](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Silicon_R56655) |
 | [Cadence](https://internscout.org/internships/at/cadence/) | CST Application Engineer Intern - Silicon | SAN JOSE |  | Oct 6 | [Apply](https://cadence.wd1.myworkdayjobs.com/external_careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Silicon_R56655-1) |
 | [Cirrus Logic](https://internscout.org/internships/at/cirrus-logic/) | Embedded Firmware Engineer Intern | Phoenix, AZ +2 |  | Oct 5 | [Apply](https://jobs.eu.lever.co/cirrus/0af920c1-6ecb-447f-9b22-3eda6b8d4ed8/apply) |
 | [Cirrus Logic](https://internscout.org/internships/at/cirrus-logic/) | Design Verification Engineer Intern | Austin, TX |  | Oct 5 | [Apply](https://jobs.eu.lever.co/cirrus/c71a6365-31c7-4ba1-bdc4-9f2df1fc483e/apply) |

@@ -1,6 +1,6 @@
 # Urban Planning: Summer 2027 Internships
 
-41 open Summer 2027 urban planning roles, newest first (all 41). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 78 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+40 open Summer 2027 urban planning roles, newest first (all 40). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 77 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -43,7 +43,6 @@
 | [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | Distribution Planning Intern - TX | Lubbock, TX, 79407 | \$21.20 to \$24.60 per hour | Sep 18 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Lubbock-TX-79407/Distribution-Planning-Intern---TX_JR115725-1) |
 | [AES](https://internscout.org/internships/at/aes/) | Investment Planning Intern - Summer 2027 | Dayton, OH |  | Sep 18 | [Apply](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/Investment-Planning-Intern---Summer-2027_R1064785) |
 | [Meijer](https://internscout.org/internships/at/meijer/) | Supply Chain Planning Intern - Summer 2027 | Grand Rapids, MI |  | Sep 18 | [Apply](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Supply-Chain-Planning-Intern---Summer-2027_R000699878) |
-| [Ruekert & Mielke](https://internscout.org/internships/at/ruekert-mielke/) | GIS Student Intern (Summer 2027) | Waukesha, Wisconsin |  | Sep 18 | [Apply](https://ruekertmielke.bamboohr.com/careers/300) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Planning Intern \| Hartford, CT | Hartford, CT +1 | Paid | Sep 18 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Hartford-CT/Planning-Intern---Hartford--CT_R-16670) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

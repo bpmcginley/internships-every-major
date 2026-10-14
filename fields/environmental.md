@@ -1,10 +1,10 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-121 open Summer 2027 environmental science and engineering roles, newest first (all 121). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 307 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+121 open Summer 2027 environmental science and engineering roles, newest first (all 121). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 308 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova Nuclear EHS Intern - 12 month co-op | Markham | Paid | Oct 14 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Markham/GE-Vernova-Nuclear-EHS-Intern---12-month-co-op_R5055380-1) |
+| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova Nuclear EHS Intern - 12 month co-op | Markham | Paid | Oct 14 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Markham/GE-Vernova-Nuclear-EHS-Intern---12-month-co-op_R5055380-2) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Safety Intern | Exton, PA +2 | Paid | Oct 13 | [Apply](https://careers.trccompanies.com/jobs/27074?icims=1) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Climate & Health Intern | Chicago, IL +1 |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6064/summer-2027-climate-%26-health-intern/job) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Climate Policy Implementation Intern | New York, NY +2 |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6070/summer-2027-climate-policy-implementation-intern/job) |

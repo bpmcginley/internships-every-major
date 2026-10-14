@@ -1,6 +1,6 @@
 # Operations: Summer 2027 Internships
 
-329 open Summer 2027 operations roles, newest first (the 200 newest of 329). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 800 operations internships on InternScout](https://internscout.org/internships/operations/)
+328 open Summer 2027 operations roles, newest first (the 200 newest of 328). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 800 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -8,7 +8,7 @@
 | [Nissan](https://internscout.org/internships/at/nissan/) | INFINITI Sales Operations Intern - Franklin, TN - Summer 2027 | Franklin, Tennessee - United States of America |  | Oct 14 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/INFINITI-Sales-Operations-Intern---Franklin--TN---Summer-2027_R00214231) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Intern: Quality Core Lab (Summer 2027) | East Hartford-Etc, CT | Paid | Oct 14 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Intern--Quality-Core-Lab--Summer-2027-_01868899) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Intern: Quality Metrology Lab (Summer 2027) | Austin, TX | Paid | Oct 14 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-AUSTIN-1909--1909-Kramer-Ln-Braker-E--BLDG-E-300/Intern--Quality-Metrology-Lab--Summer-2027-_01868876) |
-| Plastipak | Manufacturing Operations (Engineering) Intern – Summer 2027 | Plastipak - Plant City, FL +1 |  | Oct 14 | [Apply](https://plastipak.wd1.myworkdayjobs.com/Plastipak/job/Plastipak---Plant-City-FL/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24669) |
+| Plastipak | Manufacturing Operations (Engineering) Intern – Summer 2027 | Plastipak - Pineville, LA +2 |  | Oct 14 | [Apply](https://plastipak.wd1.myworkdayjobs.com/Plastipak/job/Plastipak---Pineville-LA/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24668) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - Operations & Supervisory Support | Dallas, TX |  | Oct 13 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Operations---Supervisory-Support_R-0000033710) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Global Supply Chain, Procurement Intern (Summer 2027) | USA - Texas - Austin |  | Oct 13 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Supply-Chain--Procurement-Intern--Summer-2027-_JR-2604481) |
 | Mary Free Bed Rehabilitation Hospital | Process Improvement Intern - Summer 2027 | Grand Rapids, MI |  | Oct 13 | [Apply](https://maryfreebed.wd12.myworkdayjobs.com/mfb/job/Grand-Rapids-MI/Process-Improvement-Intern---Summer-2027_JB103361) |
@@ -111,7 +111,6 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Operations & Maintenance Intern - Program Services (Summer 2027) | Boca Raton, Florida |  | Sep 23 | [Apply](https://careers.cdmsmith.com/jobs/4565) |
 | [Excellus BCBS](https://internscout.org/internships/at/excellus-bcbs/) | College Intern - Summer 2027 - Operations and Auditing | Buffalo +2 | Paid | Sep 23 | [Apply](https://lthc.wd1.myworkdayjobs.com/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Operations-and-Auditing_JR104056-2) |
 | [Excellus BCBS](https://internscout.org/internships/at/excellus-bcbs/) | College Intern - Summer 2027 - Procurement & Supply Chain | Buffalo +2 | Paid | Sep 23 | [Apply](https://lthc.wd1.myworkdayjobs.com/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Procurement---Supply-Chain_JR104035-2) |
-| [Excellus BCBS](https://internscout.org/internships/at/excellus-bcbs/) | College Intern - Summer 2027 - Operations Analyst | Buffalo +2 | Paid | Sep 23 | [Apply](https://lthc.wd1.myworkdayjobs.com/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Operations-Analyst_JR104058-2) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Technical Engineering Intern-Operations - Braceville, IL | Braceville, Illinois | Paid | Sep 22 | [Apply](https://jobs.constellationenergy.com/jobs/139333) |
 | [Humana](https://internscout.org/internships/at/humana/) | Summer 2027 MBA Internship – Strategy and Operations | Louisville, KY +5 |  | Sep 22 | [Apply](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Summer-2027-MBA-Internship---Strategy-and-Operations_R-431370) |
 | [AES](https://internscout.org/internships/at/aes/) | Co-op engineer - Substation Operations - (Summer 2027) | Indianapolis, IN |  | Sep 22 | [Apply](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Indianapolis-IN/Co-op-engineer---Substation-Operations----Summer-2027-_R1064781) |
@@ -204,6 +203,7 @@
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Intern - Sales Operations (Quoting) | Bridgeton, Missouri |  | Aug 31 | [Apply](https://careers.na.panasonic.com/jobs/50747) |
 | [Northwood Space](https://internscout.org/internships/at/northwood-space/) | Supply Chain Operations Intern (2027 Summer Internship) | Torrance, CA +2 |  | Aug 28 | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/7bfa4ec0-7d5a-475b-aa2b-0cd0741e1549/application) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Continuous Improvement | Detroit, MI |  | Aug 28 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14650) |
+| [CSX](https://internscout.org/internships/at/csx/) | Procurement & Supply Chain Internship - Summer 2027 (Paid) | Jacksonville, FL |  | Aug 27 | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54820) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

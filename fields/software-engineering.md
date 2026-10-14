@@ -1,6 +1,6 @@
 # Software Engineering: Summer 2027 Internships
 
-1,171 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,171). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 2,482 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,167 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,167). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 2,476 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Rivian](https://internscout.org/internships/at/rivian/) | Electrical & Software Systems - Summer 2027 Internships | Palo Alto, California +2 | \$33.00-51.00 per hour | Oct 9 | [Apply](https://careers.rivian.com/jobs/34308) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Software Engineering Intern (Summer 2027) | USA - Texas - Austin +3 | \$20.00 - \$40.00 | Oct 9 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Technology Intern - ICT (Summer 2027) | Chicago, IL |  | Oct 9 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008253) |
-| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova - Energy Technology Analyst Intern - Summer 2027 | Schenectady |  | Oct 9 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Schenectady/GE-Vernova---Energy-Technology-Analyst-Intern---Summer-2027_R5054316-2) |
+| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova - Energy Technology Analyst Intern - Summer 2027 | Schenectady |  | Oct 9 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Schenectady/GE-Vernova---Energy-Technology-Analyst-Intern---Summer-2027_R5054316-3) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Tax Technology Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 9 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Tax-Technology-Intern---Summer-2027---Franklin--TN_R00214237) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Software Engineering - Summer 2027 Internships | Palo Alto, California +4 | \$33.00-51.00/HR | Oct 9 | [Apply](https://careers.rivian.com/jobs/34303) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Computer Vision Software - Summer 2027 Internships | Palo Alto, California +4 | \$33.00-51.00 per hour | Oct 9 | [Apply](https://careers.rivian.com/jobs/34315) |
@@ -123,7 +123,6 @@
 | Illinois Tool Works | Software Engineer Intern - Application Software | Eden Prairie, MN |  | Oct 7 | [Apply](https://careers.itw.com/global/en/job/JR10491) |
 | State Affairs | Software Engineer Intern | Washington, DC |  | Oct 7 | [Apply](https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009) |
 | [K2 Space](https://internscout.org/internships/at/k2-space/) | Platform Engineering Intern – Summer 2027 | Los Angeles | \$30 - \$40 per hour | Oct 7 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5447206008) |
-| Sigma Computing | Software Engineer Intern - Summer 2027 | SF +1 |  | Oct 7 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Software Engineer Intern - Embedded Systems | Redmond, WA +1 |  | Oct 7 | [Apply](https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Systems Engineer Intern - Summer 2027 - Canton, MS | Canton, Mississippi - United States of America +1 |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882) |
 | [Apple Bank](https://internscout.org/internships/at/apple-bank/) | IT Data Intern - Analytics, & Automation | NYC +1 | Paid | Oct 7 | [Apply](https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern--IT-Data--Analytics----Automation_2026-1414) |
@@ -140,7 +139,7 @@
 | [Jabil](https://internscout.org/internships/at/jabil/) | Computer Systems Analyst Intern | St. Petersburg/Tampa, FL |  | Oct 7 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Computer-Systems-Analyst-Intern_J2464586-1) |
 | [Lyft](https://internscout.org/internships/at/lyft/) | PhD Machine Learning Software Engineer Intern | SF +1 |  | Oct 6 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) |
 | Pure Storage | Software Engineer Intern | Santa Clara, CA +1 | Paid | Oct 6 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/8249749) |
-| Sigma Computing | Software Engineering Intern (Summer 2027) | New York, NY +1 |  | Oct 6 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003) |
+| Sigma Computing | Software Engineering Intern (Summer 2027) | New York, NY +2 |  | Oct 6 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, BS, Software Engineer, Model Eval | Mountain View, CA, USA | Paid | Oct 6 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8257660) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS, PhD, Software Engineer | Mountain View, California, United States +1 |  | Oct 6 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8250220) |
 | Niantic Spatial | Software Engineering Intern (Summer 2027) | San Francisco, CA +2 |  | Oct 6 | [Apply](https://jobs.ashbyhq.com/niantic-spatial/898b2da7-03cd-486e-96e3-3430a148c8fd/application) |
@@ -204,6 +203,7 @@
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Risk & Reg - Technology & Analytics Senior Associate Intern - Summer 2027 | IL-Rosemont | \$84,000 - \$202,000 | Oct 2 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Risk---Reg---Technology---Analytics-Senior-Associate-Intern---Summer-2027_765386WD) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Strategy& Deals Technology Strategy Senior Associate Intern - Summer 2027 | IL-Rosemont | \$84,000 - \$202,000 | Oct 2 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Strategy--Deals-Technology-Strategy-Senior-Associate-Intern---Summer-2027_765701WD) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Technology Consulting Senior Associate Intern - Summer 2027 | IL-Rosemont | \$84,000 - \$202,000 | Oct 2 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Technology-Consulting-Senior-Associate-Intern---Summer-2027_765627WD) |
+| [Pentair](https://internscout.org/internships/at/pentair/) | IT & Cybersecurity Leadership Development Internship Program - Summer 2027 | Golden Valley, MN |  | Oct 2 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/IT---Cybersecurity-Leadership-Development-Internship-Program----Summer-2027_R23700) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

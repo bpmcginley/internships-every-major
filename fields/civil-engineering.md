@@ -1,6 +1,6 @@
 # Civil Engineering: Summer 2027 Internships
 
-156 open Summer 2027 civil engineering roles, newest first (all 156). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 317 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+157 open Summer 2027 civil engineering roles, newest first (all 157). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 318 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Valmont](https://internscout.org/internships/at/valmont/) | Structural Engineering Intern | Omaha NE +1 | Paid | Oct 4 | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/Structural-Engineering-Intern_R29012) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors - Electrical/Commissioning Intern (Summer 2027!) | Statewide, Florida |  | Oct 3 | [Apply](https://careers.cdmsmith.com/jobs/4566) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Structural Engineering Intern/Co-op – Transportation (Summer 2027) | New York, NY |  | Oct 2 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008131) |
-| [WSP](https://internscout.org/internships/at/wsp/) | Construction Management Intern- Summer 2027 | Chicago, IL | Paid | Oct 2 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96793) |
+| [WSP](https://internscout.org/internships/at/wsp/) | Construction Management Intern- Summer 2027 | Chicago, IL |  | Oct 2 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96793) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Intern Engineer: Bridge Design – Summer 2027 | New York, NY |  | Oct 1 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/New-York-NY/Intern-Engineer--Bridge-Design---Summer-2027_R-31824-2) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Intern Engineer: Bridge Inspection – Summer 2027 | New York, NY |  | Oct 1 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/New-York-NY/Intern-Engineer--Bridge-Inspection---Summer-2027_R-31825-2) |
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Construction Inspector Aide Intern - Summer 2027 | US.FL.Tampa-H Frank |  | Oct 1 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USFLTampa-H-Frank/Construction-Inspector-Aide-Intern---Summer-2027_R-162563) |
@@ -118,6 +118,7 @@
 | [Vanasse Hangen Brustlin (VHB)](https://internscout.org/internships/at/vanasse-hangen-brustlin-vhb/) | Highway Design Intern - Summer 2027 | Providence, RI | \$19 to \$30 | Oct 14, 2024 | [Apply](https://careers-vhb.icims.com/jobs/6244/highway-design-intern---summer-2027/job) |
 | [Vanasse Hangen Brustlin (VHB)](https://internscout.org/internships/at/vanasse-hangen-brustlin-vhb/) | Structural Intern – Summer 2027 | Providence, RI | \$19 to \$30 | Oct 14, 2024 | [Apply](https://careers-vhb.icims.com/jobs/6243/structural-intern-%e2%80%93-summer-2027/job) |
 | [Vanasse Hangen Brustlin (VHB)](https://internscout.org/internships/at/vanasse-hangen-brustlin-vhb/) | Traffic Intern – Summer 2027 | Providence, RI | \$19 to \$30 | Oct 14, 2024 | [Apply](https://careers-vhb.icims.com/jobs/6242/traffic-intern-%e2%80%93-summer-2027/job) |
+| [SSOE Group](https://internscout.org/internships/at/ssoe-group/) | Structural Engineering Intern - Summer 2027 | Nashville, TN |  | Oct 14 | [Apply](https://careers-ssoe.icims.com/jobs/3978/structural-engineering-intern---summer-2027/job) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | WED - Intern Civil Engineer (Summer 2027) (For Current & Recent HNTB Interns Only) (Campus Recruiting Hub Requisition) | Oakland, CA +1 | \$83,008.49 - \$124,512.74 | Oct 14 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Oakland-CA/WED---Intern-Civil-Engineer--Summer-2027---For-Current---Recent-HNTB-Interns-Only---Campus-Recruiting-Hub-Requisition-_R-31285) |
 | [KCI Technologies](https://internscout.org/internships/at/kci-technologies/) | Traffic Engineering Intern (Summer 2027) | Nashville, TN |  | Oct 8 | [Apply](https://careers-kci.icims.com/jobs/8149/traffic-engineering-intern-%28summer-2027%29/job) |
 | [Vanasse Hangen Brustlin (VHB)](https://internscout.org/internships/at/vanasse-hangen-brustlin-vhb/) | Transportation Design Intern- Summer 2027 | Atlanta, GA |  | Sep 25 | [Apply](https://careers-vhb.icims.com/jobs/6373/transportation-design-intern--summer-2027/job) |

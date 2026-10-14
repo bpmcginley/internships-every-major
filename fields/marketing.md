@@ -1,6 +1,6 @@
 # Marketing: Summer 2027 Internships
 
-225 open Summer 2027 marketing roles, newest first (the 200 newest of 225). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 644 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+225 open Summer 2027 marketing roles, newest first (the 200 newest of 225). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 643 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Retail Brand Management Marketing Intern - Summer 2027 (Multiple Locations) - Campus Recruiting | Austin, MN +2 | Paid | Sep 1 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35348) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Foodservice Marketing Intern - Summer 2027 - Campus Recruiting | Austin, MN |  | Sep 1 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35268) |
 | [Compeer Financial](https://internscout.org/internships/at/compeer-financial/) | Intern Marketing | IL-Bloomington | Paid | Aug 31 | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5409763008) |
-| [Exelon](https://internscout.org/internships/at/exelon/) | 2027 Summer Internship - Communications & Marketing (Various Exelon Locations) | Washington, Washington, DC +6 | \$20.00/Hr | Aug 31 | [Apply](https://careers.comed.com/jobs/30146) |
+| [Exelon](https://internscout.org/internships/at/exelon/) | 2027 Summer Internship - Communications & Marketing (Various Exelon Locations) | CHICAGO, Illinois +6 | \$20.00/Hr | Aug 31 | [Apply](https://careers.comed.com/jobs/30146) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Masters Summer Internship Program - 2027 Marketing, Global Commercial Services - New York, NY | New York, NY |  | Aug 31 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012562) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Marketing Intern (Summer 2027) | Westerville, OH |  | Aug 27 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278768) |
 | [Honeywell](https://internscout.org/internships/at/honeywell/) | Marketing - Summer 2027 Intern | United States |  | Aug 25 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155591) |
