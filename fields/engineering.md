@@ -1,6 +1,6 @@
 # Engineering: Summer 2027 Internships
 
-429 open Summer 2027 engineering roles, newest first (the 200 newest of 429). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 1,241 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+431 open Summer 2027 engineering roles, newest first (the 200 newest of 431). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 1,242 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [The Mosaic Company](https://internscout.org/internships/at/the-mosaic-company/) | Process Control Engineer Co-op/Intern - Summer 2027 | CA - Esterhazy, SK |  | Oct 1 | [Apply](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/CA---Esterhazy-SK/Process-Control-Engineer-Co-op-Intern---Summer-2027_65160) |
 | [PPL](https://internscout.org/internships/at/ppl/) | Nuclear Engineering Intern | Lexington, Kentucky +3 |  | Oct 1 | [Apply](https://careers.pplweb.com/jobs/15316) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Intern-Networking and Computer Engineering | Chicago, IL | \$20 to \$33, | Oct 1 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Networking-and-Computer-Engineering_R-0000033610) |
-| [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Engineering Intern (Summer 2027) | Lanark, IL +1 |  | Oct 1 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Lanark-IL/Manufacturing-Engineering-Intern--Summer-2027-_REQ-020074) |
+| [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Engineering Intern (Summer 2027) | Lanark, IL +1 | \$19.50-21.50/hour | Oct 1 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Lanark-IL/Manufacturing-Engineering-Intern--Summer-2027-_REQ-020074) |
 | [The Travelers Companies](https://internscout.org/internships/at/the-travelers-companies/) | Engineering Development Program (EDP) - Intern | CT - Hartford +7 | \$28.00 - \$30.00 | Oct 1 | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-52270) |
 | [Hermeus](https://internscout.org/internships/at/hermeus/) | Loads & Dynamics Engineering Intern - Summer 2027 | Los Angeles, CA |  | Sep 30 | [Apply](https://jobs.lever.co/hermeus/29c10a11-aa02-4d64-83d0-00001cbd3ac0/apply) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Automation & Controls Engineering Intern (Summer 2027) | San Francisco | \$29.00 per hour | Sep 30 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4718206006) |
@@ -194,6 +194,7 @@
 | [Granite Construction](https://internscout.org/internships/at/granite-construction/) | Plant Engineer Intern - Summer 2027 | Pleasanton, California +2 | \$24.00 | Sep 15 | [Apply](https://granite.wd1.myworkdayjobs.com/careers/job/Pleasanton-California/Plant-Engineer-Intern---Summer-2027_R0000008111) |
 | [Ensign-Bickford Industries](https://internscout.org/internships/at/ensign-bickford-industries/) | Product Engineer Intern | Simsbury, CT |  | Sep 15 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Product-Engineer-Intern_REQ107697-1) |
 | Woodward Governor | Engineering Co-op - Design Engineering \| Zeeland, MI (Summer 2027) | Zeeland, MI, US |  | Sep 15 | [Apply](https://woodward.wd5.myworkdayjobs.com/woodward/job/Zeeland-MI-US/Engineering-Co-op---Design-Engineering---Zeeland--MI--Summer-2027-_JR112252) |
+| [Ensign-Bickford Aerospace & Defense Company](https://internscout.org/internships/at/ensign-bickford-aerospace-defense-company/) | Product Engineer Intern | Simsbury, CT |  | Sep 15 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Product-Engineer-Intern_REQ107697) |
 | Everest | 2027 Everest Design Engineering Internship Program | Warren, NJ | \$900.00-1,000.00 per week | Sep 15 | [Apply](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Everest-Design-Engineering-Internship-Program_R7401) |
 | [Ingredion](https://internscout.org/internships/at/ingredion/) | R&D Intern, Protein Fortification & Analytical Characterization | Bridgewater, NJ |  | Sep 15 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Bridgewater-NJ/R-D-Intern--Protein-Fortification---Analytical-Characterization_Req-40208-1) |
 | [Intel](https://internscout.org/internships/at/intel/) | Module Engineering PhD Intern Summer 2027 | Hillsboro, OR |  | Sep 15 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-Summer-2027_JR0286916) |
@@ -203,7 +204,6 @@
 | [Marvell](https://internscout.org/internships/at/marvell/) | IC Validation Engineer Intern, MS - Summer 2027 | Santa Clara, CA +2 | Paid | Sep 14 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/IC-Validation-Engineer-Intern--MS---Summer-2027_2604515-1) |
 | [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | Gas Engineering Intern - CO, MN | Denver, CO, 80223 +1 | \$23.10 to \$24.60 per hour | Sep 14 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Gas-Engineering-Intern---CO--MN_JR116324-1) |
 | [Oshkosh](https://internscout.org/internships/at/oshkosh/) | Controls Intern (Summer 2027) | New Hudson, Michigan, United States |  | Sep 14 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Electronics---Controls-Intern---Summer-2027-_R50318) |
-| [HNTB](https://internscout.org/internships/at/hntb/) | Vehicles Intern Engineer - Summer 2027 | Boston, MA |  | Sep 14 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Boston-MA/Vehicles-Intern-Engineer---Summer-2027_R-31587-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

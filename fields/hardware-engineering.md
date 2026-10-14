@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-189 open Summer 2027 hardware engineering roles, newest first (all 189). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 538 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+188 open Summer 2027 hardware engineering roles, newest first (all 188). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 536 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -184,7 +184,6 @@
 | [Optiver](https://internscout.org/internships/at/optiver/) | FPGA Engineer Intern (Summer 2027 - Chicago) | Chicago, Illinois, United States |  | Jun 16 | [Apply](https://www.optiver.com/join-us/jobs/8402114002/?gh_jid=8402114002) |
 | [Etched](https://internscout.org/internships/at/etched/) | Firmware Intern | San Jose, CA |  | May 22 | [Apply](https://jobs.ashbyhq.com/Etched/8134a9bf-9624-48dd-98be-0bf1c3cb1f55) |
 | [Apex Technology, Inc.](https://internscout.org/internships/at/apex-technology-inc/) | Software Engineering Intern, Embedded Systems | Los Angeles |  | May 11 | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11) |
-| [Amazon](https://internscout.org/internships/at/amazon/) | Robotics - Software Development Engineer Intern/Co-op | Sunnyvale, CA +7 |  | May 9 | [Apply](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1) |
 | TETRAMEM | Software Engineer Intern, Embedded | San Jose, CA |  | Apr 20 | [Apply](https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job) |
 | Skyworks | Analog IC Design Co-op | Irvine, CA |  | Apr 20 | [Apply](https://careers.skyworksinc.com/job/Irvine-Analog-IC-Design-SummerFall-Co-Op-%28June-&apos;26-Dec-&apos;26%29-CA-92602/76295-en_US/?feedId=177100) |
 | [Field AI](https://internscout.org/internships/at/field-ai/) | Robotics Research Internship-Locomotion & Planning (2027) | Irvine, CA |  | Feb 17 | [Apply](https://jobs.lever.co/field-ai/ce04c5b3-17c3-49aa-b833-a6bebbf9d23f/apply) |

@@ -1,6 +1,6 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-215 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 215). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 666 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+216 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 216). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 666 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Emerson Electric](https://internscout.org/internships/at/emerson-electric/) | Mechanical Engineering Co-op (Summer 2027) | Elyria, OH +1 |  | Sep 16 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011001) |
 | Sensata | Mechanical Engineer Intern (Aerospace) - Summer 2027 | Thousand Oaks, CA +1 | \$25.00 | Sep 16 | [Apply](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Thousand-Oaks-CA/Mechanical-Engineer-Intern--Aerospace----Summer-2027_IRC98482) |
 | [Lonza](https://internscout.org/internships/at/lonza/) | Summer 2027 Manufacturing, Science & Technology Internship | US - Portsmouth, NH |  | Sep 16 | [Apply](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/US---Portsmouth-NH/Summer-2026-Manufacturing--Science---Technology-Internship_R79570) |
+| [Ensign-Bickford Aerospace & Defense Company](https://internscout.org/internships/at/ensign-bickford-aerospace-defense-company/) | Electronics Manufacturing Engineer Intern | Simsbury, CT |  | Sep 15 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Electronics-Manufacturing-Engineer-Intern_REQ107696-1) |
 | Woodward Governor | Engineering Co-op - Manufacturing Engineering \| Zeeland, MI (Summer 2027) | Zeeland, MI, US |  | Sep 15 | [Apply](https://woodward.wd5.myworkdayjobs.com/woodward/job/Zeeland-MI-US/Engineering-Co-op---Manufacturing-Engineering---Zeeland--MI--Summer-2027-_JR112088) |
 | [Ensign-Bickford Industries](https://internscout.org/internships/at/ensign-bickford-industries/) | Electronics Manufacturing Engineer Intern | Simsbury, CT |  | Sep 15 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Electronics-Manufacturing-Engineer-Intern_REQ107696) |
 | [Vermeer](https://internscout.org/internships/at/vermeer/) | Manufacturing Engineer Intern - Summer 2027 | Pella, Iowa, USA - The Center |  | Sep 15 | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---The-Center/Manufacturing-Engineer-Intern---Summer-2027_REQ-22141) |
@@ -203,7 +204,6 @@
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern- Mechanical Engineering | Pascagoula, Mississippi |  | Sep 18 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-MECHANICAL-ENGINEERING-Miss/1430054800/) |
 | [Lunar Outpost](https://internscout.org/internships/at/lunar-outpost/) | Mechanical Engineering Intern - Summer 2027 | Golden, Colorado |  | Sep 18 | [Apply](https://lunaroutpost.bamboohr.com/careers/394) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Summer 2027 Mechanical Engineer Intern- Bachelor's (Austin, TX) | Austin,TX | Paid | Sep 18 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093) |
-| [GE Appliances](https://internscout.org/internships/at/ge-appliances/) | Engineering/Manufacturing Co-op\_Summer 2027 | Louisville, KY +2 |  | Sep 18 | [Apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Engineering-Manufacturing-Co-op-Summer-2027_REQ-26424) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,10 +1,11 @@
 # Electrical Engineering: Summer 2027 Internships
 
-176 open Summer 2027 electrical engineering roles, newest first (all 176). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 470 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+177 open Summer 2027 electrical engineering roles, newest first (all 177). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 469 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova - AGI - AI Power Systems Intern - Summer 2027 | Bellevue |  | Oct 14 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Power-Systems-Intern---Summer-2027_R5054818-2) |
+| [RTX](https://internscout.org/internships/at/rtx/) | RF Systems Engineer Intern (Summer 2027) | El Segundo, CA +1 |  | Oct 14 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/RF-Systems-Engineer-Intern--Summer-2027-_01880552) |
+| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova - AGI - AI Power Systems Intern - Summer 2027 | Bellevue |  | Oct 14 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Power-Systems-Intern---Summer-2027_R5054818-1) |
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Electrical Systems Engineering Internship - Graduate | Space Coast, FL +3 | \$38.00 | Oct 14 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Electrical-Systems-Engineering-Internship---Graduate_R71437) |
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Electrical Systems Engineering Internship - Undergraduate | Space Coast, FL +2 | \$32.00 | Oct 14 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Electrical-Systems-Engineering-Internship---Undergraduate_R71438) |
 | [STV](https://internscout.org/internships/at/stv/) | Electrical Engineering Intern - Summer 2027 | Boston, Massachusetts | Paid | Oct 13 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Oklahoma-City-Oklahoma/Electrical-Engineering-Intern---Summer-2027_JR6227) |

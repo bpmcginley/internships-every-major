@@ -1,6 +1,6 @@
 # Product Management: Summer 2027 Internships
 
-145 open Summer 2027 product management roles, newest first (all 145). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 246 product management internships on InternScout](https://internscout.org/internships/product-management/)
+146 open Summer 2027 product management roles, newest first (all 146). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 247 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Creative Product Manager Intern - Multiple Teams | San Jose, CA |  | Oct 9 | [Apply](https://lifeattiktok.com/search/7693732178706974981) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Energy Storage Product Management Intern | Delaware, OH |  | Oct 9 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279379) |
 | USAA | Product Management Advisor Intern | San Antonio, TX |  | Oct 8 | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Product-Management-Advisor-Intern_R0121653) |
+| [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Product Management & Risk Technology Intern | Toronto, ON, Canada +1 |  | Oct 8 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Digital Products & AI Strategy Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Digital-Products---AI-Strategy-Intern---Summer-2027---Franklin--TN_R00214215) |
 | [Hewlett Packard (HP)](https://internscout.org/internships/at/hewlett-packard-hp/) | Software Product Management Intern | Austin, Texas, United States of America +1 |  | Oct 7 | [Apply](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Austin-Texas-United-States-of-America/Software-Product-Management-Intern_UNI4516-1) |
 | Cadence Solutions | Product Management Intern | Remote +1 |  | Oct 6 | [Apply](https://job-boards.greenhouse.io/solutions/jobs/4715294006) |
@@ -131,8 +132,8 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Product Manager Intern - Ads Interface and Platform | San Jose, CA +1 |  | Aug 12 | [Apply](https://lifeattiktok.com/search/7672562486917286149) |
 | [AQR](https://internscout.org/internships/at/aqr/) | 2027 Research Product Specialist Summer Analyst | Greenwich, CT |  | Aug 11 | [Apply](https://careers.aqr.com/jobs?gh_jid=8123095&gh_jid=8123095) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams | San Jose, CA |  | Aug 11 | [Apply](https://lifeattiktok.com/search/7670529537944766773) |
-| Chamberlain Group | Community Product Management Intern - Summer 2027 | Oak Brook, IL | Paid | Aug 10 | [Apply](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309) |
 | [LPL Financial Holdings](https://internscout.org/internships/at/lpl-financial-holdings/) | Intern 2027 - Product Analyst | Austin, TX +1 |  | Aug 10 | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Product_R-052918) |
+| Chamberlain Group | Community Product Management Intern - Summer 2027 | Oak Brook, IL | Paid | Aug 10 | [Apply](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | AI Agent Product Manager Intern - Product Infrastructure-Customer Service Platform | San Jose, CA |  | Aug 7 | [Apply](https://lifeattiktok.com/search/7670010726514493749) |
 | [Medline](https://internscout.org/internships/at/medline/) | MBA Intern - Product Management | Chicago, IL +3 | Paid | Aug 7 | [Apply](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/MBA-Intern--Product-Management---Summer-2027_R2615805) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Strategy Product Manager Intern - Platform Responsibility | San Jose, CA |  | Aug 6 | [Apply](https://lifeattiktok.com/search/7670420287191517493) |

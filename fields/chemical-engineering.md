@@ -1,6 +1,6 @@
 # Chemical Engineering: Summer 2027 Internships
 
-52 open Summer 2027 chemical engineering roles, newest first (all 52). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 175 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+51 open Summer 2027 chemical engineering roles, newest first (all 51). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 177 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -8,7 +8,6 @@
 | Plastipak | Process Engineer (Engineering) Intern – Summer 2027 | Clean Tech - Dundee, MI |  | Oct 12 | [Apply](https://plastipak.wd1.myworkdayjobs.com/Plastipak/job/Clean-Tech---Dundee-MI/Process-Engineer--Engineering--Intern---Summer-2027_REQ24690) |
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-op - Midstream Natural Gas and NGL Services Chemical/Mechanical/Civil/Petroleum/Electrical Engineering (Summe… | Canonsburg, Pennsylvania +12 | \$33.54 per hour | Oct 12 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Canonsburg-Pennsylvania/Intern-Co-op---Midstream-Natural-Gas-and-NGL-Services-Chemical-Mechanical-Civil-Petroleum-Electrical-Engineering--Summer-2027-_00024214) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | 2027 Summer Intern - Process Engineer - BS/MS Degree (Santa Clara, CA) | Santa Clara,CA | Paid | Oct 9 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Process-Engineer---BS-MS-Degree--Santa-Clara--CA-_R2629424) |
-| [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | 2027 Summer Intern PhD Student - Drug Product Development - Oral Formulation | New Brunswick - NJ - US |  | Oct 9 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/New-Brunswick---NJ---US/XMLNAME-2027-Summer-Intern-PhD-Student---Drug-Product-Development-Formulation_R1607390) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | 2027 Summer Intern - Process Engineer - PhD, (Santa Clara) | Santa Clara,CA | Paid | Oct 9 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Process-Engineer---PhD---Santa-Clara-_R2629425) |
 | [Ingredion](https://internscout.org/internships/at/ingredion/) | Process Engineering Intern (Summer 2027) - Cedar Rapids, IA | Cedar Rapids, IA |  | Oct 8 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Cedar-Rapids-IA/Process-Engineering-Intern--Summer-2027----Cedar-Rapids--IA_Req-40429-1) |
 | [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Plant Process Engineer Intern - Summer 2027 | Macomb, IL +1 |  | Oct 8 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253203) |

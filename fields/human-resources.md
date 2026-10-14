@@ -1,10 +1,11 @@
 # Human Resources: Summer 2027 Internships
 
-119 open Summer 2027 human resources roles, newest first (all 119). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 282 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+120 open Summer 2027 human resources roles, newest first (all 120). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 283 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Northrop Grumman](https://internscout.org/internships/at/northrop-grumman/) | 2027 Tech Publications & Training Intern - Product Support | United States-Florida-Saint Augustine | \$16.50 to \$30.00 per hour | Oct 14 | [Apply](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Saint-Augustine/XMLNAME-2027-Tech-Publications---Training-Intern---Product-Support_R10256053) |
+| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Human Resources Intern, HR Analytics (Summer 2027) | USA - New York - Malta |  | Oct 14 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Human-Resources-Intern--HR-Analytics--Summer-2027-_JR-2604494) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Human Resource Business Partner Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 14 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Human-Resource-Business-Partner-Intern---Summer-2027---Franklin--TN_R00214300) |
 | [W.W. Grainger](https://internscout.org/internships/at/w-w-grainger/) | Human Resources Internship (Summer 2027) | LAKE FOREST, IL | \$29.50 per hour | Oct 14 | [Apply](https://jobs.grainger.com/job/LAKE-FOREST-Human-Resources-Internship-%28Summer-2027%29-IL-60045-5202/1430280400/) |
 | [Piper Sandler](https://internscout.org/internships/at/piper-sandler/) | Campus Recruiting - 2027 Investment Banking Summer Analyst - Financial Services - Real Estate | New York, NY |  | Oct 13 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/New-York-NY/Campus-Recruiting---2027-Investment-Banking-Summer-Analyst---Financial-Services---Real-Estate_R-100744-1) |
