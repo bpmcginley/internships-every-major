@@ -1,6 +1,6 @@
 # Operations: Summer 2027 Internships
 
-328 open Summer 2027 operations roles, newest first (the 200 newest of 328). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 799 operations internships on InternScout](https://internscout.org/internships/operations/)
+327 open Summer 2027 operations roles, newest first (the 200 newest of 327). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 800 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -30,7 +30,6 @@
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Field Sales Operations Internship – District Manager, Parts & Service | Warren, Michigan, United States of America +4 |  | Oct 10 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Field-Sales-Operations-Internship---District-Manager--Parts---Service_JR-202619666) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Creative Product Operations Intern - Multiple Teams | San Jose, CA |  | Oct 9 | [Apply](https://lifeattiktok.com/search/7693727532178229509) |
 | [MEMX](https://internscout.org/internships/at/memx/) | Data Center Operations Intern, Summer 2027 (Hybrid, NYC) | United States | \$30/hour | Oct 9 | [Apply](https://job-boards.greenhouse.io/memx/jobs/5449276008) |
-| [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Operations Intern, Summer 2027 | Jacksonville, Florida, United States of America |  | Oct 9 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Operations-Intern--Summer-2027_R-103870) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Process Improvement Intern | Sparks, Nevada |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51654) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Procurement Intern - Infrastructure Solutions (Summer 2027) | Greenville, SC +1 |  | Oct 9 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279203) |
 | [Emerson Electric](https://internscout.org/internships/at/emerson-electric/) | Quality Intern (Summer 2027) | Knoxville, TN |  | Oct 9 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009955) |
@@ -62,7 +61,7 @@
 | [Scout Clean Energy](https://internscout.org/internships/at/scout-clean-energy/) | Operations Engineering Intern | Boulder, CO +1 | Paid | Oct 2 | [Apply](https://apply.workable.com/scout-clean-energy/j/7BF0CEDF9F/apply) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | People Operations Intern (Summer 2027) | Mountain View, CA | \$40/hour | Oct 2 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5255938007) |
 | xAI | Summer 2027 Business Operations Internship/Co-op | Palo Alto, CA +1 | \$24.50 | Oct 2 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255116007) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Government Operations Intern Summer 2027 | Littleton, CO +1 |  | Oct 2 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8001401003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Government Operations Intern Summer 2027 | Washington, DC +1 |  | Oct 2 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7992754003) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Logistics Operations Intern (Summer 2027) | USA - New York - Malta | \$20.00 - \$40.00 | Oct 2 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Logistics-Operations-Intern--Summer-2027-_JR-2604469) |
 | [CACI](https://internscout.org/internships/at/caci/) | Technical Project Manager Intern - Summer 2027 | High Point, NC, US |  | Oct 2 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/High-Point-NC-US/Technical-Project-Manager-Intern---Summer-2027_333027) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | Precision Medicine Operations Co-op | Armonk, NY +1 | Paid | Oct 2 | [Apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/Armonk/XMLNAME-2027-Co-op-Precision-Medicine-Operations_R51082-1) |
@@ -204,6 +203,7 @@
 | [Northwood Space](https://internscout.org/internships/at/northwood-space/) | Supply Chain Operations Intern (2027 Summer Internship) | Torrance, CA +2 |  | Aug 28 | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/7bfa4ec0-7d5a-475b-aa2b-0cd0741e1549/application) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Continuous Improvement | Detroit, MI |  | Aug 28 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14650) |
 | [CSX](https://internscout.org/internships/at/csx/) | Procurement & Supply Chain Internship - Summer 2027 (Paid) | Jacksonville, FL |  | Aug 27 | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54820) |
+| [Vertiv](https://internscout.org/internships/at/vertiv/) | Operations Intern Associate I (Summer 2027) | Westerville, OH |  | Aug 27 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278794) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

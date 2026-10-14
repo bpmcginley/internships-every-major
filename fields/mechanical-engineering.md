@@ -1,6 +1,6 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-217 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 217). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 664 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+217 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 217). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 667 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -122,8 +122,8 @@
 | [Vermeer](https://internscout.org/internships/at/vermeer/) | Advanced Manufacturing Intern - Summer 2027 | Pella, Iowa, USA - The Center |  | Sep 15 | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---The-Center/Advanced-Manufacturing-Intern---Summer-2027_REQ-22140) |
 | [Antares Nuclear](https://internscout.org/internships/at/antares-nuclear/) | Manufacturing Engineering Intern - Summer 2027 | Los Angeles +1 |  | Sep 14 | [Apply](https://jobs.ashbyhq.com/Antares/d953d3f2-0ca8-4f13-ae88-4d0eb714e851/application) |
 | [Oshkosh](https://internscout.org/internships/at/oshkosh/) | Manufacturing Intern - Summer 2027 | New Hudson, Michigan, United States |  | Sep 14 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Manufacturing-Intern---Summer-2027_R50275) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Mechanical Engineering Intern Summer 2027 | Long Beach, CA +2 | \$28.00 | Sep 13 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7991448003) |
 | [Xcimer Energy](https://internscout.org/internships/at/xcimer-energy/) | Summer 2027 Internship - Mechanical Engineering | Denver, CO |  | Sep 11 | [Apply](https://jobs.lever.co/xcimer/c672a37e-007d-45ee-a4f9-b5d4dd25a2e3/apply) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Mechanical Engineering Intern Summer 2027 | Toronto, CAN +2 | \$60,008 | Sep 11 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7991769003) |
 | [Antares Nuclear](https://internscout.org/internships/at/antares-nuclear/) | Mechanical Engineering Design Intern - Summer 2027 | Los Angeles +1 |  | Sep 10 | [Apply](https://jobs.ashbyhq.com/Antares/9accca59-103b-4f54-978a-d5bb46bd9c62/application) |
 | [Garmin](https://internscout.org/internships/at/garmin/) | Mechanical Engineering Intern | Tulsa, Oklahoma +1 |  | Sep 10 | [Apply](https://careers.garmin.com/jobs/19940) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | Eagan, Minnesota +7 | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36106) |

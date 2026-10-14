@@ -1,6 +1,6 @@
 # Software Engineering: Summer 2027 Internships
 
-1,169 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,169). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 2,477 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,170 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,170). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 2,481 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -8,6 +8,7 @@
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Flight Test Engineer Intern | Costa Mesa, California, United States |  | Oct 14 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007) |
 | [CareBridge](https://internscout.org/internships/at/carebridge/) | Internal IT Audit Intern - Summer 2027 | FL-TAMPA, 5411 SKYCENTER DR, STE 700 & 800 |  | Oct 14 | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-TAMPA-5411-SKYCENTER-DR-STE-700--800/Intern_JR210003) |
 | [Humana](https://internscout.org/internships/at/humana/) | Humana Technology Internship – Summer 2027 - Society of Women Engineers Conference 2026 | Louisville, KY +4 |  | Oct 14 | [Apply](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027---Society-of-Women-Engineers-Conference-2026_R-433228) |
+| [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Software Engineer (Reston, VA) | Reston, VA |  | Oct 14 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Engineer--Reston--VA-_R2603522) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Electro-Optics Systems Engineer Intern (Summer 2027) | El Segundo, CA +1 |  | Oct 14 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880582) |
 | [RTX](https://internscout.org/internships/at/rtx/) | RF Systems Engineer Intern (Summer 2027) | El Segundo, CA +1 |  | Oct 14 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/RF-Systems-Engineer-Intern--Summer-2027-_01880552) |
 | [Medpace](https://internscout.org/internships/at/medpace/) | Quality Assurance (QA) Intern - Summer 2027 | Cincinnati, Ohio |  | Oct 14 | [Apply](https://careers.medpace.com/jobs/13064) |
@@ -203,7 +204,6 @@
 | [Vanguard](https://internscout.org/internships/at/vanguard/) | College to Corporate IT Internship-Application Development (PA) | Malvern, PA |  | Oct 2 | [Apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757) |
 | [GE Appliances](https://internscout.org/internships/at/ge-appliances/) | Mechanical Engineering Technology Co-op\_Summer 2027 | Louisville, KY |  | Oct 2 | [Apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Mechanical-Engineering-Technology-Co-op-Summer-2027_REQ-26430) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT | Tarrytown, NY |  | Oct 2 | [Apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1) |
-| [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Risk & Reg - Technology & Analytics Senior Associate Intern - Summer 2027 | IL-Rosemont | \$84,000 - \$202,000 | Oct 2 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Risk---Reg---Technology---Analytics-Senior-Associate-Intern---Summer-2027_765386WD) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

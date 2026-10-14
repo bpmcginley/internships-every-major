@@ -1,9 +1,11 @@
 # Electrical Engineering: Summer 2027 Internships
 
-177 open Summer 2027 electrical engineering roles, newest first (all 177). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 468 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+179 open Summer 2027 electrical engineering roles, newest first (all 179). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 470 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Charter Manufacturing](https://internscout.org/internships/at/charter-manufacturing/) | Electrical Controls Engineer Intern (Summer 2027) | Charter Wire - 81st Street - Milwaukee, WI |  | Oct 14 | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Wire---81st-Street---Milwaukee-WI/Electrical-Controls-Engineer-Intern_R08114) |
+| [Brunswick](https://internscout.org/internships/at/brunswick/) | Electrical Engineer Intern | Edgewater, FL | \$18.00-\$27.00 | Oct 14 | [Apply](https://brunswick.wd1.myworkdayjobs.com/search/job/Edgewater-FL/Electrical-Engineer-Intern_JR-050891) |
 | [RTX](https://internscout.org/internships/at/rtx/) | RF Systems Engineer Intern (Summer 2027) | El Segundo, CA +1 |  | Oct 14 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/RF-Systems-Engineer-Intern--Summer-2027-_01880552) |
 | [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova - AGI - AI Power Systems Intern - Summer 2027 | Bellevue |  | Oct 14 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Power-Systems-Intern---Summer-2027_R5054818-1) |
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Electrical Systems Engineering Internship - Graduate | Space Coast, FL +3 | \$38.00 | Oct 14 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Electrical-Systems-Engineering-Internship---Graduate_R71437) |
@@ -80,6 +82,7 @@
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | RF/Analog Design/Mixed-Signal Engineering Internship – Summer 2027 | San Diego, CA +3 |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720740912) |
 | [Motorola](https://internscout.org/internships/at/motorola/) | Electrical Engineer Intern - Summer 2027 | Plantation, FL |  | Sep 18 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineer-Intern---Summer-2027_R67780) |
 | [Motorola](https://internscout.org/internships/at/motorola/) | DSP (Digital Signal Processing) Software Engineering Intern - Summer 2027 | Plantation, FL |  | Sep 18 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Electrical Engineering Intern Summer 2027 | Pasadena, CA +2 | \$28.00 | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7998598003) |
 | [Generac](https://internscout.org/internships/at/generac/) | Electrical Engineering Intern - Summer 2027 | Waukesha, WI - USA +1 |  | Sep 17 | [Apply](https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Electrical-Engineering-Intern---Summer-2027_JR16952) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Electrical Engineer Intern - FPGA | Westminster, CO +1 |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/e6d87528-5da1-4970-9e42-7b224cfa63a9/apply) |
 | [Emerson Electric](https://internscout.org/internships/at/emerson-electric/) | Electrical Engineering Co-op (Summer 2027) | Elyria, OH +1 |  | Sep 16 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011003) |
@@ -96,7 +99,6 @@
 | Rocket Lab USA | Electrical Engineering Intern | Long Beach, CA |  | Sep 10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990683003) |
 | [Antares Nuclear](https://internscout.org/internships/at/antares-nuclear/) | Electrical Engineering Intern - Summer 2027 | Los Angeles +2 |  | Sep 10 | [Apply](https://jobs.ashbyhq.com/Antares/3061297c-a666-47be-a58a-b62881bf183d/application) |
 | [Saronic](https://internscout.org/internships/at/saronic/) | Electrical Engineer Intern (Summer 2027) | Austin, TX +1 |  | Sep 9 | [Apply](https://jobs.ashbyhq.com/saronic/c7779462-3c4c-44d9-8314-1be93a0e478a/application) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Electrical Engineering Intern Summer 2027 | Toronto, CAN +3 | \$60,008 | Sep 9 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990043003) |
 | [Pacific Fusion](https://internscout.org/internships/at/pacific-fusion/) | Summer 2027 Internship - Electrical Engineering | San Leandro, CA/ Fremont, CA +1 | Paid | Sep 9 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4398021009) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship – Electrical & Computer Engineer - Miniature Device Technologies | Laurel, Maryland +1 |  | Sep 9 | [Apply](https://careers.jhuapl.edu/jobs/59993) |
 | [Allen Control Systems](https://internscout.org/internships/at/allen-control-systems/) | Electrical Engineering Intern, 2027 | Austin, TX +1 | Paid | Sep 8 | [Apply](https://jobs.ashbyhq.com/allen-control-systems/cc1618f1-e4b8-4dcb-88fd-9771da972220/application) |

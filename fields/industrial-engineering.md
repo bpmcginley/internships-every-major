@@ -1,6 +1,6 @@
 # Industrial Engineering: Summer 2027 Internships
 
-235 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 235). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 612 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+235 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 235). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 611 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -108,7 +108,6 @@
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Wireless Systems Engineering Internship - Summer 2027 | San Diego, CA +3 |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720740637) |
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | 2027 Americas Region Industrial Engineering Summer Intern | US - UPS CORPORATE OFFICES (GACOR) +1 |  | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Americas-Region-Industrial-Engineering-Summer-Intern_R26032989) |
 | [ATC](https://internscout.org/internships/at/atc/) | Intern-Supply Chain Summer 2027 | Pewaukee, WI +1 | \$23-27/hr | Sep 18 | [Apply](https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern-Supply-Chain-Summer-2027_R0003303) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Systems Engineering Intern Summer 2027 | Chantilly, VA +3 |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990272003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Supply Chain Intern Summer 2027 | Long Beach, CA +1 |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984568003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Wallops Island, VA +2 |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7996623003) |
 | [General Dynamics Mission Systems, Inc.](https://internscout.org/internships/at/general-dynamics-mission-systems-inc/) | Systems Engineering Intern - Autonomous Maritime Platforms | Quincy, MA | \$22.00 | Sep 17 | [Apply](https://careers-gdms.icims.com/jobs/74840/systems-engineering-intern---autonomous-maritime-platforms/job) |
@@ -138,6 +137,7 @@
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | Eagan, Minnesota +7 | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36106) |
 | [General Dynamics Mission Systems](https://internscout.org/internships/at/general-dynamics-mission-systems-inc/) | Payload Control System Software/Systems Engineering Intern - Summer 2027 | Middletown, RI +1 |  | Sep 9 | [Apply](https://careers-gdms.icims.com/jobs/74848/job?mobile=true&needsRedirect=false) |
 | [Saronic](https://internscout.org/internships/at/saronic/) | Manufacturing Engineer Intern (Summer 2027) | Franklin, LA +3 |  | Sep 9 | [Apply](https://jobs.ashbyhq.com/saronic/2b037fca-754c-4077-b224-eb35cf2b2b97/application) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Systems Engineering Intern Summer 2027 | Long Beach, CA +3 |  | Sep 9 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987046003) |
 | [Pacific Fusion](https://internscout.org/internships/at/pacific-fusion/) | Summer 2027 Internship- Supply Chain | San Leandro, CA/Fremont, CA +1 | Paid | Sep 9 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4398408009) |
 | [Pacific Fusion](https://internscout.org/internships/at/pacific-fusion/) | Summer 2027 Internship-Manufacturing Engineering | San Leandro, CA - Fremont, CA - Los Lunas, NM | Paid | Sep 9 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4398388009) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Manufacturing Engineering Intern | Del Rio, TX |  | Sep 9 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119148) |

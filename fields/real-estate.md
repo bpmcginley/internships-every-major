@@ -1,6 +1,6 @@
 # Real Estate: Summer 2027 Internships
 
-30 open Summer 2027 real estate roles, newest first (all 30). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 46 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
+29 open Summer 2027 real estate roles, newest first (all 29). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 45 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -13,7 +13,6 @@
 | [TIAA](https://internscout.org/internships/at/tiaa/) | 2027 Early Talent Internship: Nuveen Real Estate | New York, NY, USA +1 | Paid | Oct 12 | [Apply](https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY-USA/XMLNAME-2027-Early-Talent-Internship--Nuveen-Real-Estate_R261000135) |
 | [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Leasing Summer 2027 Internship - Nashville TN | Nashville, TN |  | Oct 12 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Nashville-TN/Leasing-Summer-2027-Internship---Nashville-TN_REQ539935) |
 | [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Office Leasing Summer 2027 Internship – Austin, Texas | Austin, TX |  | Oct 12 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Austin-TX/Office-Leasing-Summer-2027-Internship---Austin--Texas_REQ539563) |
-| [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Healthcare Real Estate (New York, NY) | New York, New York | \$22.44 | Oct 9 | [Apply](https://firstcitizens.jibeapply.com/jobs/35872) |
 | [KeyBank](https://internscout.org/internships/at/keybank/) | 2027 Summer Real Estate Capital Internship - Boston IPG | Boston, MA | \$27 per hour | Oct 7 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Boston-MA/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Boston-IPG_R-41558) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | 2027 Summer Intern Real Estate | Princeton - NJ - US |  | Oct 6 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/XMLNAME-2027-Summer-Intern-Real-Estate_R1607261) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - Real Estate Services | Houston, TX |  | Oct 2 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Houston-TX/XMLNAME-2027-Intern---Real-Estate-Services_R-0000033572) |
@@ -31,7 +30,7 @@
 | PGIM | PGIM: 2027 Real Estate, Sophomore Externship Program | Newark, NJ, USA | Paid | Oct 10 | [Apply](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Sophomore-Externship-Program_R-124904) |
 | Prudential Financial | PGIM: 2027 Real Estate, Sophomore Externship Program | Newark, NJ, USA | Paid | Oct 10 | [Apply](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Sophomore-Externship-Program_R-124904-2) |
 | [The Boeing Company](https://internscout.org/internships/at/boeing/) | Boeing Summer 2027 Internship Program (Paid) - Global Real Estate and Facilities & Property Management | USA - Everett, WA +14 |  | Sep 18 | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Global-Real-Estate-and-Facilities---Property-Management_JR2026520992) |
-| [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Banking and Commercial Real Estate | Chicago, IL +8 | \$25.00 per hour | Sep 18 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Commercial-Banking-and-Commercial-Real-Estate_2618394) |
+| [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Banking and Commercial Real Estate | Chicago, IL +8 | \$25.00 per hour | Sep 18 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Commercial-Banking-and-Commercial-Real-Estate_2618394-1) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Corporate Real Estate Internship - Summer 2027 | Lansing, MI |  | Sep 18 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Corporate-Real-Estate-Internship---Summer-2027_R_14484) |
 | [First National Bank](https://internscout.org/internships/at/first-national-bank/) | Summer 2027 Commercial Credit/Banking Intern - Investment Real Estate | Raleigh, NC +2 |  | Sep 18 | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Raleigh-NC/Summer-2027-Commercial-Credit-Banking-Intern---Investment-Real-Estate_2026-01897) |
 

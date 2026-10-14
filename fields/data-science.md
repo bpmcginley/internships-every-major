@@ -1,6 +1,6 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-450 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 450). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 853 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+450 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 450). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 856 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -16,7 +16,6 @@
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Data Analytics Intern | Delaware, OH |  | Oct 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278852) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Data Science Intern | Exton, Pennsylvania | Paid | Oct 13 | [Apply](https://careers.trccompanies.com/jobs/27074) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | AI and Data Analytics Intern | Sterling, VA |  | Oct 13 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Sterling/AI-and-Data-Analytics-Intern_RQ230269) |
-| [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Statistics & Decision Sciences Summer Interns 2027 | Raritan, New Jersey, United States of America +3 |  | Oct 13 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Statistics---Decision-Sciences-Summer-Interns-2027_R-103411) |
 | [TIAA](https://internscout.org/internships/at/tiaa/) | 2027 Early Talent Internship: TIAA Enterprise Analytics | Charlotte, NC, USA +3 |  | Oct 13 | [Apply](https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Internship--TIAA-Enterprise-Analytics_R261000118-2) |
 | [Centene](https://internscout.org/internships/at/centene/) | Analytics Summer 2027 Intern (Graduate) | Remote-FL +1 | \$21.00 - \$30.00 per hour | Oct 13 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479) |
 | [Koch Industries](https://internscout.org/internships/at/koch-industries/) | Digital Technology & Data Intern | Auburn Hills, MI |  | Oct 12 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/195465) |
@@ -204,6 +203,7 @@
 | [APEX Analytix](https://internscout.org/internships/at/apex-analytix/) | Data Engineering Intern - Summer 2027 | Greensboro, NC |  | Sep 15 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/52353bce-cb36-423f-ae0a-f2057ef3b5d9) |
 | [APEX Analytix](https://internscout.org/internships/at/apex-analytix/) | Data Science Intern | Greensboro, NC |  | Sep 15 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53) |
 | [HF Sinclair](https://internscout.org/internships/at/hf-sinclair/) | IT Data Analytics Intern | Dallas, TX |  | Sep 15 | [Apply](https://careers.hfsinclair.com/job/Dallas-IT-Data-Analytics-Intern-TX-75219/1430072400/?ats=successfactors) |
+| [BlackRock](https://internscout.org/internships/at/blackrock/) | 2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - New York | New York, NY +1 | \$6,500 – \$8,000 | Sep 15 | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
