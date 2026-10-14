@@ -1,9 +1,10 @@
 # Sustainability: Summer 2027 Internships
 
-80 open Summer 2027 sustainability roles, newest first (all 80). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 116 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+80 open Summer 2027 sustainability roles, newest first (all 80). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 118 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Stantec](https://internscout.org/internships/at/stantec/) | Transportation Roadway Intern (Summer 2027) | Cincinnati, OH +4 |  | Oct 14 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007531) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Climate & Health Intern | Chicago, IL +1 |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6064/summer-2027-climate-%26-health-intern/job) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Climate Policy Implementation Intern | New York, NY +2 |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6070/summer-2027-climate-policy-implementation-intern/job) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Nuclear Technical Internship - Pottstown, PA (ASSOCIATE'S DEGREES ONLY) | Pottstown, Pennsylvania | Paid | Oct 13 | [Apply](https://jobs.constellationenergy.com/jobs/138604) |
@@ -11,7 +12,6 @@
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern – CO2 | MIDLAND, Texas +2 |  | Oct 13 | [Apply](https://careers.kindermorgan.com/jobs/6044) |
 | Neuberger Berman | MBA Intern, Stewardship & Sustainable Investing Summer 2027 | New York, NY | \$140,000-\$140,000 | Oct 12 | [Apply](https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/MBA-Intern--Stewardship---Sustainability-Summer-2027_R0012713) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Acoustics Intern (Summer 2027) | Chicago, IL |  | Oct 9 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008256) |
-| [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Sustainability Operations Summer 2027 Internship - New York, NY | New York, NY |  | Oct 9 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Sustainability-Operations-Summer-2027-Internship---New-York--NY_REQ540054) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern Power Development Summer 2027 | The Woodlands, Texas |  | Oct 8 | [Apply](https://jobs.entergy.com/job/The-Woodlands-Student%2C-Intern-Power-Development-Summer-2027-Texa/1438490500/) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Sustainability Intern | Pittsburgh, Pennsylvania | Paid | Oct 8 | [Apply](https://careers.trccompanies.com/jobs/27037) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Sustainable Mobility (New York) | New York, NY +2 |  | Oct 8 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/New-York-NY/XMLNAME-2027-Summer-Intern--Sustainable-Mobility--New-York-_R2603406) |
@@ -28,6 +28,7 @@
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - ESG & Sustainable Finance Intern | Toronto, Ontario | \$39,000.00 | Sep 28 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---ESG---Sustainable-Finance-Intern_JR26091126) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Climate Center (Reston, VA; Arlington, VA; New York, NY) | Reston, VA +2 | \$23 per hour | Sep 25 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Climate-Center--Reston--VA--Arlington--VA--New-York--NY-_R2603250) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Renewable Energy Civil Intern (Summer 2027) | Chicago, IL +1 |  | Sep 25 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008000) |
+| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Technical Internship - Oswego, NY (ASSOCIATE'S DEGREE ONLY) | Oswego, New York | Paid | Sep 24 | [Apply](https://jobs.constellationenergy.com/jobs/139373) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Transportation Co-op/Intern - Fuel System (Summer 2027) | Portland, ME +1 |  | Sep 22 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007908) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Lighting Intern/Co-op – Buildings (Summer 2027) | Denver, CO +4 |  | Sep 21 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007844) |
 | [Gordon Food Service](https://internscout.org/internships/at/gordon-food-service/) | Sustainability Intern | Wyoming, MI +1 |  | Sep 21 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Sustainability-Intern_R-57405) |
@@ -46,7 +47,6 @@
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Gas Storage | HOUSTON, Texas |  | Sep 11 | [Apply](https://careers.kindermorgan.com/jobs/6212) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Midstream Scheduling | HOUSTON, Texas |  | Sep 10 | [Apply](https://careers.kindermorgan.com/jobs/6230) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Origination Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 10 | [Apply](https://jobs.constellationenergy.com/jobs/138758) |
-| [Stantec](https://internscout.org/internships/at/stantec/) | Transportation Roadway Intern (Summer 2027) | Fargo, ND +3 |  | Sep 9 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007628) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Technical Internship - Cordova, IL (ASSOCIATE'S DEGREE ONLY) | Cordova, Illinois | Paid | Sep 9 | [Apply](https://jobs.constellationenergy.com/jobs/138838) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Research and Development Intern - Detroit Research Center - Summer Student Program | Detroit, MI |  | Sep 8 | [Apply](https://aramcoservices.applytojob.com/apply/ycFkgdZtKy/Research-And-Development-Detroit-Research-Center-2027-Summer-Student-Program) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Research and Development Intern - Houston Research Center - Summer Student Program | Houston, TX |  | Sep 8 | [Apply](https://aramcoservices.applytojob.com/apply/rbnifQQ0X6/Research-And-Development-Houston-Research-Center-2027-Summer-Student-Program) |

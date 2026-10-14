@@ -1,6 +1,6 @@
 # Health: Summer 2027 Internships
 
-38 open Summer 2027 health roles, newest first (all 38). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 234 health internships on InternScout](https://internscout.org/internships/health/)
+38 open Summer 2027 health roles, newest first (all 38). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 233 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Organizational Effectiveness Corporate Internship – Summer 2027 (Undergraduate) | CT - Hartford |  | Sep 30 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Organizational-Effectiveness-Corporate-Internship---Summer-2027--Undergraduate-_R1051253) |
 | Moderna | Biometrics Intern | Cambridge, MA |  | Sep 29 | [Apply](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/Intern--Biometrics_R19865) |
 | Analysis Group | Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date) | Boston, MA +3 |  | Sep 28 | [Apply](https://analystcareers-analysisgroup.icims.com/jobs/3064/summer-analyst-intern---health-care-%28heor%2c-epidemiology-%26-market-access%29-%282027-start-date%29/job) |
-| [Medtronic](https://internscout.org/internships/at/medtronic/) | Associate Clinical Experience (ACE) Intern – Summer 2027 | State of Minnesota, United States of America +48 | Paid | Sep 25 | [Apply](https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501-1) |
+| [Medtronic](https://internscout.org/internships/at/medtronic/) | Associate Clinical Experience (ACE) Intern – Summer 2027 | State of Minnesota, United States of America +48 | Paid | Sep 25 | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501) |
 | [Humana](https://internscout.org/internships/at/humana/) | Summer 2027 MBA Internship – Primary Care & Clinical Innovation | Louisville, KY +5 |  | Sep 22 | [Apply](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Summer-2027-MBA-Internship---Primary-Care---Clinical-Innovation_R-431364) |
 | Wellmark | Software Engineer Intern - Technology Healthcare Innovation | Des Moines, IA |  | Sep 21 | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000150732768) |
 | [Netsmart](https://internscout.org/internships/at/netsmart/) | Revenue Cycle Management (RCM) Operations Analyst Intern(Summer 2027 Internship) | Overland Park, KS |  | Sep 18 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Revenue-Cycle-Management--RCM--Operations-Analyst-Intern-Summer-2027-Internship-_R015757) |

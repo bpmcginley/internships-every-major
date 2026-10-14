@@ -1,6 +1,6 @@
 # Materials Science: Summer 2027 Internships
 
-16 open Summer 2027 materials science roles, newest first (all 16). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 32 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
+15 open Summer 2027 materials science roles, newest first (all 15). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 31 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -12,7 +12,6 @@
 | [Helion Energy](https://internscout.org/internships/at/helion-energy/) | Materials Engineering Summer 2027 Intern | Everett, WA |  | Sep 29 | [Apply](https://jobs.ashbyhq.com/helion/56636c72-2c72-4f4f-8334-3b233a235c8d/application) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Interns - Materials Engineer - Whitehall, MI (Summer 2027) | Whitehall, MI |  | Sep 29 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119675) |
 | [Arconic](https://internscout.org/internships/at/arconic/) | Intern - Metallurgical Engineer | Alcoa, TN |  | Sep 25 | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114239) |
-| [WSP](https://internscout.org/internships/at/wsp/) | Construction Materials Engineering and Laboratory Testing Intern - Summer 2027 | San Diego, CA |  | Sep 23 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95670) |
 | [Steel Dynamics](https://internscout.org/internships/at/steel-dynamics/) | Metallurgy Internship | Sinton, TX | Paid | Sep 10 | [Apply](https://careers-steeldynamics.icims.com/jobs/8037/metallurgy-internship/job) |
 | [Honeywell](https://internscout.org/internships/at/honeywell/) | Materials Engineering/Materials Science - Summer 2027 Intern (US Person Required) | United States |  | Aug 25 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155543) |
 | [Honeywell](https://internscout.org/internships/at/honeywell/) | Materials Engineering/Materials Science - Summer 2027 Intern | United States |  | Aug 25 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155541) |

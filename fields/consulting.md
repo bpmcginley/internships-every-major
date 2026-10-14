@@ -1,6 +1,6 @@
 # Consulting: Summer 2027 Internships
 
-101 open Summer 2027 consulting roles, newest first (all 101). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 208 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+100 open Summer 2027 consulting roles, newest first (all 100). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 207 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -50,7 +50,6 @@
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Agency Channel Performance - Business Analyst - Agency | Bloomington, Illinois +3 |  | Sep 24 | [Apply](https://jobs.statefarm.com/jobs/46103) |
 | [Excellus BCBS](https://internscout.org/internships/at/excellus-bcbs/) | College Intern - Summer 2027 - Wellbeing Consulting | Buffalo +2 | Paid | Sep 23 | [Apply](https://lthc.wd1.myworkdayjobs.com/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Wellbeing-Consulting_JR104052-2) |
 | Resultant | Data & Analytics Consultant Intern - Summer 2027 | Indianapolis, IN +1 |  | Sep 21 | [Apply](https://jobs.smartrecruiters.com/Resultant/744000150785390) |
-| [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Agency Services - Business Analyst-Agency | Bloomington, Illinois | \$28.00/hr | Sep 21 | [Apply](https://jobs.statefarm.com/jobs/45456) |
 | [LSEG](https://internscout.org/internships/at/lseg/) | Business Analyst Summer Internship | New York City, United States |  | Sep 21 | [Apply](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Business-Analyst-Summer-Internship_R0123463-1) |
 | Newmark Group | Newmark Management Consulting Intern | TX |  | Sep 18 | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/249950) |
 | [Netsmart](https://internscout.org/internships/at/netsmart/) | Solution Delivery Consultant Intern (Summer 2027 Internship) | Overland Park, KS |  | Sep 18 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Solution-Delivery-Consultant-Intern--Summer-2027-Internship-_R015664) |

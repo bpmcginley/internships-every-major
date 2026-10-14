@@ -1,6 +1,6 @@
 # Law and Legal: Summer 2027 Internships
 
-113 open Summer 2027 law and legal roles, newest first (all 113). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 284 law and legal internships on InternScout](https://internscout.org/internships/law/)
+114 open Summer 2027 law and legal roles, newest first (all 114). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 286 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Shure](https://internscout.org/internships/at/shure/) | Information Security Governance, Risk & Compliance Intern | Niles, IL |  | Oct 14, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Spectrum and Regulatory Affairs Intern | Niles, IL | \$23-\$43 per hour | Oct 14, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4999/spectrum-and-regulatory-affairs-intern/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Trade Compliance Intern | Niles, IL |  | Oct 14, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5004/global-trade-compliance-intern/job) |
+| [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - RA/QA - Regulatory Affairs - Michigan | Portage, Michigan |  | Oct 14 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---RA-QA---Regulatory-Affairs---Michigan_R572590-1) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Federal Climate Initiatives Legal Intern | Washington, DC |  | Oct 14 | [Apply](https://careers-nrdc.icims.com/jobs/6056/summer-2027-federal-climate-initiatives-legal-intern/job) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Safe Water Initiative Legal Intern | Washington, DC |  | Oct 14 | [Apply](https://careers-nrdc.icims.com/jobs/6048/summer-2027-safe-water-initiative-legal-intern/job) |
 | Edwards Lifesciences | Clinical & Regulatory Internship, Summer 2027 | USA IRV-1442 Alton/MIC | \$54,000 to \$72,000 | Oct 10 | [Apply](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA-IRV-1442-AltonMIC/Clinical---Regulatory-Internship--Summer-2027_Req-49745) |

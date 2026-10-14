@@ -1,9 +1,14 @@
 # Software Engineering: Summer 2027 Internships
 
-1,160 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,160). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 2,453 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,165 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,165). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 2,463 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Point72](https://internscout.org/internships/at/point72/) | Software Engineer Intern | NYC +1 | Paid | Oct 14 | [Apply](https://boards.greenhouse.io/point72/jobs/8885733002) |
+| Parsons | Software Engineer Intern | Huntsville, AL |  | Oct 14 | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299) |
+| [Centene](https://internscout.org/internships/at/centene/) | Cloud Security Incident Response Analyst Intern (Undergraduate - Summer 2027) | Remote-MO | \$18.00-\$26.00/hour | Oct 14 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cloud-Security-Incident-Response-Analyst-Intern--Undergraduate---Summer-2027-_1667738-1) |
+| [CACI](https://internscout.org/internships/at/caci/) | Software Engineering Intern - Summer 2027 | Florham Park, NJ, US | \$39,900-\$79,900 | Oct 14 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Engineering-Intern---Summer-2027_332543) |
+| [Assurant](https://internscout.org/internships/at/assurant/) | Summer 2027 Intern: Software Engineering Intern | Atlanta, GA +2 | \$20 - \$25/hour | Oct 14 | [Apply](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727-1) |
 | [RSM](https://internscout.org/internships/at/rsm/) | 2027 Elevate Program and 2028 Summer Technology Risk and Controls Consulting Intern | Chicago +11 |  | Oct 14 | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/XMLNAME-2027-Elevate-Program-and-2028-Summer-Technology-Risk-and-Controls-Consulting-Intern_JR120923) |
 | [Northrop Grumman](https://internscout.org/internships/at/northrop-grumman/) | Software Embedded Engineer Intern | Annapolis, MD |  | Oct 14 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Annapolis-MD_R10254697) |
 | Boston Consulting Group | Forward Deployed AI Engineer Intern | Boston, MA +3 |  | Oct 13 | [Apply](https://careers.bcg.com/global/en/job/59702) |
@@ -22,8 +27,6 @@
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 IT Client Services Intern | New York, NY |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6059/summer-2027-it-client-services-intern/job) |
 | [Bank of Montreal](https://internscout.org/internships/at/bank-of-montreal/) | BMO Capital Markets Investment Banking Summer 2027 Sophomore Analyst, Infrastructure Debt Capital Markets, Toronto | Toronto, ON, CAN | Paid | Oct 13 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Summer-2027-Sophomore-Analyst--Toronto_R260028848) |
 | [BMO](https://internscout.org/internships/at/bmo/) | BMO Capital Markets Investment Banking Summer 2027 Sophomore Analyst, Infrastructure Debt Capital Markets, Toronto | Toronto, ON, CAN | Paid | Oct 13 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Capital-Markets-Summer-2027-Sophomore-Analyst--Toronto_R260028848-1) |
-| Mitsubishi UFG | 2027 Summer Analyst Program: Information Technology - Jersey City, NJ | New Jersey Office - 210 Hudson Street |  | Oct 13 | [Apply](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/New-Jersey-Office---210-Hudson-Street/XMLNAME-2027-Summer-Analyst-Program--Information-Technology---Jersey-City--NJ_10078973-WD-2) |
-| MUFG | 2027 Summer Analyst Program: Information Technology - Jersey City, NJ | New Jersey Office - 210 Hudson Street |  | Oct 13 | [Apply](https://mufgub.wd3.myworkdayjobs.com/mufg-earlycareers/job/New-Jersey-Office---210-Hudson-Street/XMLNAME-2027-Summer-Analyst-Program--Information-Technology---Jersey-City--NJ_10078973-WD) |
 | [Invesco](https://internscout.org/internships/at/invesco/) | Early Career Intern - Technology (Investment) | Houston, Texas |  | Oct 13 | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Houston-Texas/Early-Career-Intern---Investment-Technology_R-15622) |
 | [CAI](https://internscout.org/internships/at/cai/) | Programmer Intern | Allentown, PA +1 |  | Oct 13 | [Apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Programmer-Intern_R8523) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Enterprise Platform Technical Marketing Engineer Intern - Summer 2027 | US, CA +1 |  | Oct 13 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Enterprise-Platform-Technical-Marketing-Engineer-Intern---Summer-2027_JR2025907) |
@@ -46,6 +49,7 @@
 | [Google](https://internscout.org/internships/at/google/) | Forward Deployed Engineer Intern | NYC +1 |  | Oct 12 | [Apply](https://www.google.com/about/careers/applications/jobs/results/75665705386549958) |
 | CapTech Consulting | Consulting Software Engineer Intern | Richmond, VA |  | Oct 12 | [Apply](https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115) |
 | Hasbro | 2027 Summer IT & Software Internships | Renton, Washington, United States |  | Oct 12 | [Apply](https://job-boards.greenhouse.io/hasbro/jobs/4439483009) |
+| [RF-SMART](https://internscout.org/internships/at/rf-smart/) | Software Support Engineer Internship (RFS for NetSuite) -Summer 2027 | Jacksonville, Florida, United States +1 | \$20/hour | Oct 12 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5427723008) |
 | Corewell Health | Digital Services Web and Mobile Developer Intern | Grand Rapids, MI |  | Oct 12 | [Apply](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Digital-Services-Web-and-Mobile-Development-Internship-Summer-2027_R224434) |
 | [Expedia Group](https://internscout.org/internships/at/expedia-group/) | Mobile Engineering Intern - 2027 - Austin, San Jose, Seattle | USA - California - San Jose +1 |  | Oct 12 | [Apply](https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306-1) |
 | [Expedia Group](https://internscout.org/internships/at/expedia-group/) | Software Development Engineering Intern - 2027 - Austin, San Jose, Seattle | Washington - Seattle Campus +1 |  | Oct 12 | [Apply](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311-1) |
@@ -108,7 +112,6 @@
 | Illinois Tool Works | Software Engineer Intern - Application Software | Eden Prairie, MN |  | Oct 7 | [Apply](https://careers.itw.com/global/en/job/JR10491) |
 | State Affairs | Software Engineer Intern | Washington, DC |  | Oct 7 | [Apply](https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009) |
 | [K2 Space](https://internscout.org/internships/at/k2-space/) | Platform Engineering Intern – Summer 2027 | Los Angeles | \$30 - \$40 per hour | Oct 7 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5447206008) |
-| Sigma Computing | Software Engineer Intern - Summer 2027 | SF +1 |  | Oct 7 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Software Engineer Intern - Embedded Systems | Redmond, WA +1 |  | Oct 7 | [Apply](https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Systems Engineer Intern - Summer 2027 - Canton, MS | Canton, Mississippi - United States of America +1 |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882) |
 | [Apple Bank](https://internscout.org/internships/at/apple-bank/) | IT Data Intern - Analytics, & Automation | NYC +1 | Paid | Oct 7 | [Apply](https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern--IT-Data--Analytics----Automation_2026-1414) |
@@ -125,7 +128,7 @@
 | [Jabil](https://internscout.org/internships/at/jabil/) | Computer Systems Analyst Intern | St. Petersburg/Tampa, FL |  | Oct 7 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Computer-Systems-Analyst-Intern_J2464586-1) |
 | [Lyft](https://internscout.org/internships/at/lyft/) | PhD Machine Learning Software Engineer Intern | SF +1 |  | Oct 6 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) |
 | Pure Storage | Software Engineer Intern | Santa Clara, CA +1 | Paid | Oct 6 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/8249749) |
-| Sigma Computing | Software Engineering Intern (Summer 2027) | New York, NY +1 |  | Oct 6 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003) |
+| Sigma Computing | Software Engineering Intern (Summer 2027) | New York, NY +2 |  | Oct 6 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, BS, Software Engineer, Model Eval | Mountain View, CA, USA | Paid | Oct 6 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8257660) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS, PhD, Software Engineer | Mountain View, California, United States +1 |  | Oct 6 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8250220) |
 | Niantic Spatial | Software Engineering Intern (Summer 2027) | San Francisco, CA +2 |  | Oct 6 | [Apply](https://jobs.ashbyhq.com/niantic-spatial/898b2da7-03cd-486e-96e3-3430a148c8fd/application) |
@@ -201,9 +204,6 @@
 | SAS | Software Development and Testing Intern | Cary, NC |  | Oct 1 | [Apply](https://careers-sas.icims.com/jobs/42964/job?mobile=true&needsRedirect=false) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Software Engineer Intern | Seattle, WA +3 |  | Oct 1 | [Apply](https://amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) |
 | [Corgan](https://internscout.org/internships/at/corgan/) | Software Development Intern | Dallas, TX | Paid | Oct 1 | [Apply](https://campus-us-corgan.icims.com/jobs/4109/job?mobile=true&needsRedirect=false) |
-| Glean | Software Engineer Intern | Mountain View, CA | Paid | Oct 1 | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4595665005) |
-| [MEMX](https://internscout.org/internships/at/memx/) | Enterprise IT Intern, Summer 2027 (Hybrid, NYC) | United States | \$30/hour | Oct 1 | [Apply](https://job-boards.greenhouse.io/memx/jobs/5441811008) |
-| [Pinterest](https://internscout.org/internships/at/pinterest/) | Software Engineer Intern 2027 (USA) | San Francisco, CA, US +3 |  | Oct 1 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7838577) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

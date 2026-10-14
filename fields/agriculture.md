@@ -1,6 +1,6 @@
 # Agriculture: Summer 2027 Internships
 
-16 open Summer 2027 agriculture roles, newest first (all 16). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 44 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
+17 open Summer 2027 agriculture roles, newest first (all 17). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 45 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Elanco](https://internscout.org/internships/at/elanco/) | Marketing Intern - US Farm Animal (Summer 2027) | Indianapolis, IN |  | Sep 15 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Marketing-Intern---US-Farm-Animal--Summer-2027-_R0026873) |
 | [Momentive](https://internscout.org/internships/at/momentive/) | Summer 2027 Intern – Agriculture (Technology/R&D) | Pearl River, NY | \$22.00 - \$26.00 | Sep 14 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Pearl-River/Summer-2027-Intern---Agriculture--Technology-R-D-_R9764) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Food Safety & Quality Intern - Summer 2027 - Campus Recruiting (Multiple Locations) | Austin, MN +10 |  | Sep 4 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35738) |
+| [Post Holdings](https://internscout.org/internships/at/post-holdings/) | Quality & Food Safety (QFS) Intern - Summer 2027 | Northfield, Minnesota |  | Sep 1 | [Apply](https://jobs.postholdings.com/jobs/31914) |
 | [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Sensory and Products Research Intern - Summer 2027 | Orrville, OH |  | Aug 25 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Sensory-and-Products-Research-Intern--Summer-2027_115677) |
 | [The Andersons](https://internscout.org/internships/at/the-andersons/) | Agronomy Intern (Summer 2027) | Galveston, IN |  | Sep 18 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Galveston-IN/Agronomy-Intern--Summer-2027-_R12478) |
 | [Meijer](https://internscout.org/internships/at/meijer/) | Food Safety Intern- Summer 2027 | Grand Rapids, MI |  | Sep 18 | [Apply](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Food-Safety-Intern--Summer-2027_R000700342) |

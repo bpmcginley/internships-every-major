@@ -1,9 +1,10 @@
 # Hardware Engineering: Summer 2027 Internships
 
-190 open Summer 2027 hardware engineering roles, newest first (all 190). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 547 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+189 open Summer 2027 hardware engineering roles, newest first (all 189). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 542 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Formlabs](https://internscout.org/internships/at/formlabs/) | Hardware Systems Integration Intern (Summer 2027) | Somerville, MA | \$1,575 | Oct 14 | [Apply](https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | Firmware Engineer Intern | Costa Mesa, CA +1 | Paid | Oct 14 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265158007) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Hardware Development Engineer Intern | North Reading, MA +2 |  | Oct 14 | [Apply](https://amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027) |
 | [Field AI](https://internscout.org/internships/at/field-ai/) | Robotics Research Intern - Embodied AI | Irvine, CA |  | Oct 14 | [Apply](https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704/apply) |
@@ -124,9 +125,7 @@
 | [Solidigm](https://internscout.org/internships/at/solidigm/) | Hardware, Electrical Validation and Product Engineering Intern - Validation | Rancho Cordova, CA |  | Sep 5 | [Apply](https://jobs.smartrecruiters.com/Solidigm/744000147613779) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Software Development Engineer Intern - Robotics | Seattle, WA +6 |  | Sep 4 | [Apply](https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Firmware Engineer Intern | Santa Clara, CA +3 |  | Sep 4 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513) |
-| [Marvell](https://internscout.org/internships/at/marvell/) | Analog Design Intern - MS | Santa Clara, CA +1 | Paid | Sep 4 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510-1) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Design Verification Intern - MS | Morrisville, NC +4 | Paid | Sep 4 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--MS---Summer-2027_2604506-1) |
-| [Marvell](https://internscout.org/internships/at/marvell/) | Analog Design Intern | Santa Clara, CA +1 |  | Sep 4 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Design Verification Intern - BS - Summer 2027 | Morrisville, NC +4 | Paid | Sep 4 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505) |
 | [Tesla](https://internscout.org/internships/at/tesla/) | Embedded Software Engineer Intern - Optimus | Palo Alto, CA |  | Sep 3 | [Apply](https://www.tesla.com/careers/search/job/282340) |
 | [Shure](https://internscout.org/internships/at/shure/) | Automated Test Engineer Intern - Hardware | Niles, IL |  | Sep 3 | [Apply](https://careersus-shure.icims.com/jobs/4960/job?mobile=true&needsRedirect=false) |

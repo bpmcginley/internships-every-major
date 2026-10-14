@@ -1,6 +1,6 @@
 # Design: Summer 2027 Internships
 
-59 open Summer 2027 design roles, newest first (all 59). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 156 design internships on InternScout](https://internscout.org/internships/design/)
+58 open Summer 2027 design roles, newest first (all 58). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 154 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -46,7 +46,6 @@
 | [Shure](https://internscout.org/internships/at/shure/) | User Experience Design (UX) Intern | Niles, IL |  | Oct 14, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5003/user-experience-design-%28ux%29-intern/job) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Graphic Design Internship - Summer 2027 | Reston, VA |  | Oct 5 | [Apply](https://uscareers-idemia.icims.com/jobs/8668/graphic-design-internship---summer-2027/job) |
 | [Hy-Vee](https://internscout.org/internships/at/hy-vee/) | Graphic Design Intern - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA |  | Sep 18 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Graphic-Design-Intern---Summer-2027_R249893) |
-| [Oshkosh](https://internscout.org/internships/at/oshkosh/) | Design Intern - Summer 2027 | New Hudson, Michigan, United States |  | Sep 18 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Design-Intern---Summer-2027_R50274) |
 | [Uline](https://internscout.org/internships/at/uline/) | UX Internship - Summer 2027 | Pleasant Prairie, WI +4 | Paid | Sep 18 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/UX-Internship---Summer-2027_R265920) |
 | [Uline](https://internscout.org/internships/at/uline/) | UX Design Internship - Summer 2027 | Pleasant Prairie, WI +4 | Paid | Sep 18 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/UX-Design-Internship---Summer-2027_R266218) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Industrial Design Intern - Michigan | Portage, Michigan |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Industrial-Design-Intern---Portage--MI_R572730) |

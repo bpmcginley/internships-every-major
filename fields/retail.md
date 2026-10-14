@@ -1,10 +1,11 @@
 # Retail: Summer 2027 Internships
 
-168 open Summer 2027 retail roles, newest first (all 168). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 234 retail internships on InternScout](https://internscout.org/internships/retail/)
+169 open Summer 2027 retail roles, newest first (all 169). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 235 retail internships on InternScout](https://internscout.org/internships/retail/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce User Growth | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694357619162532149) |
+| [Meijer](https://internscout.org/internships/at/meijer/) | Retail Management Intern Holland -Summer 2027 | North Holland, MI |  | Oct 14 | [Apply](https://meijer.wd5.myworkdayjobs.com/Meijer/job/North-Holland-MI/Retail-Management-Intern-Holland--Summer-2027_R000710043-1) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship – Digital: Site Merchandising | New York, NY |  | Oct 13 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92298) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Retail Store Management Internship Summer 2027 - Greater Sacramento Area | CA - Pleasanton +28 | \$20-\$22 per hour | Oct 12 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---Pleasanton/Retail-Store-Management-Internship-Summer-2027---Greater-Bay-Area--East-Bay---North-Bay_R1018174) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Retail Delivery | Wilmington, DE |  | Oct 8 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Retail-Delivery_R-104112-2) |

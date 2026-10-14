@@ -1,6 +1,6 @@
 # Quantitative Finance: Summer 2027 Internships
 
-134 open Summer 2027 quantitative finance roles, newest first (all 134). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 171 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
+135 open Summer 2027 quantitative finance roles, newest first (all 135). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 173 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Lazard](https://internscout.org/internships/at/lazard/) | Quantitative Research Intern | NYC +1 |  | Sep 21 | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6612) |
 | [BMO](https://internscout.org/internships/at/bmo/) | Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months | Toronto, ON, CAN |  | Sep 21 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715) |
 | [Fidelity Investments](https://internscout.org/internships/at/fidelity-investments/) | Quantitative Research Intern - Multi-Asset Systematic Research Team | Boston, MA |  | Sep 21 | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Multi-Asset-Systematic-Research-Team_2135128) |
+| [Fidelity Investments](https://internscout.org/internships/at/fidelity-investments/) | Quantitative Research Intern - Strategic Advisers | Boston, MA |  | Sep 21 | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Strategic-Advisers-Quantitative-Research-Intern---Master-s-and-PhD-students_2135370) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Middle Market Underwriting/Portfolio Management (San Diego, CA) | San Diego, California | \$18.50/hr | Sep 21 | [Apply](https://firstcitizens.jibeapply.com/jobs/35637) |
 | [OCC](https://internscout.org/internships/at/occ/) | Quantitative Risk Management Intern | Chicago, IL |  | Sep 17 | [Apply](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Quantitative-Risk-Management_REQ-4862) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, PhD, Quantitative Software Engineer | Mountain View, California, United States +3 |  | Sep 16 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8197554) |
