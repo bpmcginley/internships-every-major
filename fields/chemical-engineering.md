@@ -1,9 +1,11 @@
 # Chemical Engineering: Summer 2027 Internships
 
-51 open Summer 2027 chemical engineering roles, newest first (all 51). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 177 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+53 open Summer 2027 chemical engineering roles, newest first (all 53). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 178 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | 2027 Summer Intern PhD Student - Drug Product Development Sterile Formulation | New Brunswick - NJ - US |  | Oct 14 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/New-Brunswick---NJ---US/XMLNAME-2027-Summer-Intern-PhD-Student---Drug-Product-Development-Sterile-Formulation_R1607524) |
+| [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | 2027 Summer Intern PhD Student - Drug Product Development - Oral Formulation | New Brunswick - NJ - US | \$45/hour | Oct 14 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/New-Brunswick---NJ---US/XMLNAME-2027-Summer-Intern-PhD-Student---Drug-Product-Development-Formulation_R1607390) |
 | [Solar Turbines](https://internscout.org/internships/at/solar-turbines/) | 2027 Material & Process Engineering, Summer Intern | San Diego, California | \$26.00 - \$43.00 | Oct 12 | [Apply](https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-Gas-Turbine-Product-Engineering--Summer-Intern_R0000382212) |
 | Plastipak | Process Engineer (Engineering) Intern – Summer 2027 | Clean Tech - Dundee, MI |  | Oct 12 | [Apply](https://plastipak.wd1.myworkdayjobs.com/Plastipak/job/Clean-Tech---Dundee-MI/Process-Engineer--Engineering--Intern---Summer-2027_REQ24690) |
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-op - Midstream Natural Gas and NGL Services Chemical/Mechanical/Civil/Petroleum/Electrical Engineering (Summe… | Canonsburg, Pennsylvania +12 | \$33.54 per hour | Oct 12 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Canonsburg-Pennsylvania/Intern-Co-op---Midstream-Natural-Gas-and-NGL-Services-Chemical-Mechanical-Civil-Petroleum-Electrical-Engineering--Summer-2027-_00024214) |
