@@ -1,6 +1,6 @@
 # Marketing: Summer 2027 Internships
 
-225 open Summer 2027 marketing roles, newest first (the 200 newest of 225). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 641 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+225 open Summer 2027 marketing roles, newest first (the 200 newest of 225). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 642 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Diversified Energy](https://internscout.org/internships/at/diversified-energy/) | 2027 Summer Intern- Marketing/ Trading | Lexington, Kentucky |  | Oct 2 | [Apply](https://careers.div.energy/jobs/2735) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Corporate Communications Intern (Summer 2027) | USA - New York - Malta |  | Oct 2 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Corporate-Communications-Intern--Summer-2027-_JR-2604226) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Management Consulting - Sales, Service and Marketing Senior Associate Intern - Summer 2027 | IL-Rosemont | \$84,000 - \$202,000 | Oct 2 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Management-Consulting---Sales--Service-and-Marketing-Senior-Associate-Intern---Summer-2027_765704WD) |
-| [Itron](https://internscout.org/internships/at/itron/) | Intern - Product Marketing & Sales Enablement (Summer 2027) | United States of America, Washington, Liberty Lake | \$44.23/hr | Oct 1 | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Product-Marketing---Sales-Enablement--Summer-2027-_JR102949-1) |
+| [Itron](https://internscout.org/internships/at/itron/) | Intern - Product Marketing & Sales Enablement (Summer 2027) | United States of America, Washington, Liberty Lake | \$44.23/hr | Oct 1 | [Apply](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Product-Marketing---Sales-Enablement--Summer-2027-_JR102949) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | End Markets Intern, Communications Infrastructure and Datacenter (Summer 2027) | USA - Texas - Austin |  | Oct 1 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/End-Markets-Intern--Communications-Infrastructure-and-Datacenter--Summer-2027-_JR-2604224) |
 | [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Corporate Communications Intern, Summer 2027 | Orrville, OH |  | Oct 1 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Corporate-Communications-Intern--Summer-2027_115919) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Intern - Marketing, Communications, Journalism Majors | Chicago, IL | \$20 to \$33, | Oct 1 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern---Marketing--Communications--Journalism-Majors_R-0000033618-1) |

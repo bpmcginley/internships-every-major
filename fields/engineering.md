@@ -1,9 +1,10 @@
 # Engineering: Summer 2027 Internships
 
-436 open Summer 2027 engineering roles, newest first (the 200 newest of 436). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 1,253 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+438 open Summer 2027 engineering roles, newest first (the 200 newest of 438). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 1,254 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [STV](https://internscout.org/internships/at/stv/) | Transit/Rail Engineering Intern - Summer 2027 | Hillsborough Street, Raleigh, North Carolina +1 | \$45,675.00 - \$51,903.00 | Oct 14 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Hillsborough-Street-Raleigh-North-Carolina/Transit-Rail-Engineering-Intern---Summer-2027_JR6386) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Engineering Intern - Summer 2027 | Hampton, VA |  | Oct 14 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119830) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Transmission Line Engineering Intern - Summer 2027 | Meridian, ID |  | Oct 14 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96802) |
 | [Cadence Design Systems](https://internscout.org/internships/at/cadence-design-systems/) | CST Application Engineer Intern - Systems ATX | SAN JOSE |  | Oct 14 | [Apply](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Systems-ATX_R56800-2) |
@@ -27,6 +28,7 @@
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Intern - Health & Safety Engineer - Whitehall, MI (Summer 2027) | Whitehall, MI |  | Oct 13 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119920) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Reactor Engineering Intern - Morris, IL | Morris, Illinois | Paid | Oct 13 | [Apply](https://jobs.constellationenergy.com/jobs/139590) |
 | [Global Infrastructure](https://internscout.org/internships/at/global-infrastructure/) | Intern Engineering Designer, Bridge | US +3 |  | Oct 13 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--FL--Tampa---12802-Tampa-Oaks-Boulevard/Intern-Engineering-Designer--Bridge_6437) |
+| [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Aviation Maintenance Technician Summer Intern | Trenton, New Jersey, United States of America |  | Oct 12 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Trenton-New-Jersey-United-States-of-America/Aviation-Maintenance-Technician-Summer-Intern_R-100789) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | New Model Tech Quality Validation Engineer Intern - Summer 2027 - Smyrna, TN | Smyrna, Tennessee - United States of America |  | Oct 12 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/New-Model-Tech-Quality-Validation-Engineer-Intern---Summer-2027---Smyrna--TN_R00214251) |
 | [Northrop Grumman](https://internscout.org/internships/at/northrop-grumman/) | 2027 Intern Vehicle Engineering - CA OK ND | United States-California-Palmdale +7 | \$17.50 to \$39.00 per hour | Oct 12 | [Apply](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Palmdale/XMLNAME-2027-Intern-Vehicle-Engineering---CA-OK-ND_R10248142) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Project Engineering Co-op (Summer/Fall 2027) | Melbourne, FL | Paid | Oct 12 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Project-Engineering-Co-op--Summer-Fall-2027-_01879937) |
@@ -202,8 +204,6 @@
 | Woodward Governor | Engineering Co-op - Design Engineering \| Zeeland, MI (Summer 2027) | Zeeland, MI, US |  | Sep 15 | [Apply](https://woodward.wd5.myworkdayjobs.com/woodward/job/Zeeland-MI-US/Engineering-Co-op---Design-Engineering---Zeeland--MI--Summer-2027-_JR112252) |
 | [Ensign-Bickford Aerospace & Defense Company](https://internscout.org/internships/at/ensign-bickford-aerospace-defense-company/) | Product Engineer Intern | Simsbury, CT |  | Sep 15 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Product-Engineer-Intern_REQ107697) |
 | Everest | 2027 Everest Design Engineering Internship Program | Warren, NJ | \$900.00-1,000.00 per week | Sep 15 | [Apply](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Everest-Design-Engineering-Internship-Program_R7401) |
-| [Ingredion](https://internscout.org/internships/at/ingredion/) | R&D Intern, Protein Fortification & Analytical Characterization | Bridgewater, NJ |  | Sep 15 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Bridgewater-NJ/R-D-Intern--Protein-Fortification---Analytical-Characterization_Req-40208-1) |
-| [Intel](https://internscout.org/internships/at/intel/) | Module Engineering PhD Intern Summer 2027 | Hillsboro, OR |  | Sep 15 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-Summer-2027_JR0286916) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

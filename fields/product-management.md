@@ -1,9 +1,11 @@
 # Product Management: Summer 2027 Internships
 
-146 open Summer 2027 product management roles, newest first (all 146). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 248 product management internships on InternScout](https://internscout.org/internships/product-management/)
+148 open Summer 2027 product management roles, newest first (all 148). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 251 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Saab](https://internscout.org/internships/at/saab/) | Program Management Co-Op (Summer 2027) | East Syracuse, NY (Aspen Park) | \$18.24 - \$20.27/hr | Oct 14 | [Apply](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Aspen-Park/Program-Management-Co-Op--Summer-2027-_R-03330-1) |
+| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Intern - Product Management, Vehicle Autonomy (MS or MBA) | Sunnyvale, California, United States of America |  | Oct 14 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | GF Labs Research Program Management Intern (Summer 2027) | USA - New York - Malta |  | Oct 14 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/GF-Labs-Research-Program-Management-Intern--Summer-2027-_JR-2604430) |
 | [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Global Petcare R&D Product Development Internship | USA-Tennessee-Franklin |  | Oct 13 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Tennessee-Franklin/Summer-2027-Mars-Global-Petcare-R-D-Product-Development-Internship_R169633-1) |
 | [CoStar Group](https://internscout.org/internships/at/costar-group/) | Product Intern - Richmond, VA (Summer 2027) | US-VA Richmond - CoStar Tower +1 |  | Oct 13 | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Product-Intern---Richmond--VA--Summer-2027-_R39900) |

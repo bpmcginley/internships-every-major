@@ -1,9 +1,10 @@
 # Real Estate: Summer 2027 Internships
 
-29 open Summer 2027 real estate roles, newest first (all 29). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 45 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
+30 open Summer 2027 real estate roles, newest first (all 30). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 46 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Real Estate Summer Intern | New Brunswick, New Jersey, United States of America |  | Oct 14 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Real-Estate-Summer-Intern_R-104160) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Commercial Real Estate (New York, NY) | New York, New York | \$22.44 | Oct 14 | [Apply](https://firstcitizens.jibeapply.com/jobs/35967) |
 | [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Real Estate Advisory and Consulting Summer 2027 Internship - Washington, DC | Washington, DC |  | Oct 13 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Real-Estate-Advisory-and-Consulting-Summer-2027-Internship---Washington--DC_REQ541736) |
 | [Piper Sandler](https://internscout.org/internships/at/piper-sandler/) | Campus Recruiting - 2027 Investment Banking Summer Analyst - Financial Services - Real Estate | New York, NY |  | Oct 13 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/New-York-NY/Campus-Recruiting---2027-Investment-Banking-Summer-Analyst---Financial-Services---Real-Estate_R-100744-1) |

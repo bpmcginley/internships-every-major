@@ -1,10 +1,9 @@
 # Lab Research: Summer 2027 Internships
 
-14 open Summer 2027 lab research roles, newest first (all 14). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 98 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
+13 open Summer 2027 lab research roles, newest first (all 13). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 98 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [Motorola](https://internscout.org/internships/at/motorola/) | EcoSystem Lab - 2027 Summer Internship | Schaumburg, IL +1 |  | Oct 14 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/EcoSystem-Lab---2027-Summer-Internship_R69510) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Intern: Quality Core Lab (Summer 2027) | East Hartford-Etc, CT | Paid | Oct 14 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Intern--Quality-Core-Lab--Summer-2027-_01868899) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Intern: Quality Metrology Lab (Summer 2027) | Austin, TX | Paid | Oct 14 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-AUSTIN-1909--1909-Kramer-Ln-Braker-E--BLDG-E-300/Intern--Quality-Metrology-Lab--Summer-2027-_01868876) |
 | [Land O'Lakes](https://internscout.org/internships/at/land-o-lakes/) | WinField United Research & Development Lab Intern, Summer 2027 | River Falls, WI (USA) |  | Oct 13 | [Apply](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/River-Falls-WI-USA/WinField-United-Research---Development-Lab-Intern--Summer-2027_R-40232) |

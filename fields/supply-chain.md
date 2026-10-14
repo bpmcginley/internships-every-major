@@ -1,6 +1,6 @@
 # Supply Chain: Summer 2027 Internships
 
-179 open Summer 2027 supply chain roles, newest first (all 179). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 447 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
+180 open Summer 2027 supply chain roles, newest first (all 180). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 448 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Walmart](https://internscout.org/internships/at/walmart/) | Summer 2027 Intern: Load Logistics Manager, Transportation Corporate Intern | Bentonville, AR |  | Oct 13 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-AR-BENTONVILLE-09848-REG-OPERATIONS-CENTER/Summer-2027--Intern--Load-Logistics-Manager--Transportation-Corporate-Intern_R-2617827) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Purchasing Aftersales Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America +1 |  | Oct 12 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Purchasing-Aftersales-Intern---Summer-2027---Franklin--TN_R00214278) |
 | [GE Aerospace](https://internscout.org/internships/at/ge-aerospace/) | Supply Chain Operations Intern – US – Summer 2027 - Returning Students | Durham +6 |  | Oct 12 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Supply-Chain-Operations-Intern---US---Summer-2027---Returning-Students_R5030084-1) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Materials Management & Logistics Internship Program (Summer 2027) | East Hartford-Etc, CT | Paid | Oct 9 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Materials-Management---Logistics-Internship-Program--Summer-2027-_01862953-1) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Procurement Intern - Infrastructure Solutions (Summer 2027) | Greenville, SC +1 |  | Oct 9 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279203) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Supply Chain, Purchasing, Procurement and Logistics - Summer 2027 Internships | Normal, Illinois | \$24-\$51.00 per hour | Oct 9 | [Apply](https://careers.rivian.com/jobs/34297) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Supply Chain Management Intern | Sparks, Nevada +1 |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51640) |

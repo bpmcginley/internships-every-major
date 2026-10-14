@@ -1,12 +1,13 @@
 # Biology: Summer 2027 Internships
 
-16 open Summer 2027 biology roles, newest first (all 16). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 151 biology internships on InternScout](https://internscout.org/internships/biology/)
+17 open Summer 2027 biology roles, newest first (all 17). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 154 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Devens Biologics Summer 2027 Internship – Supply Chain | Devens - MA - US |  | Oct 14 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Devens---MA---US/Devens-Biologics-Summer-2027-Internship---Supply-Chain_R1606928) |
 | [Haleon](https://internscout.org/internships/at/haleon/) | 2027: Summer Intern: VCU School of Pharmaceutical Sciences Intern | USA - Virginia - Richmond |  | Oct 12 | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---Virginia---Richmond/XMLNAME-2027--Summer-Intern--VCU-School-of-Pharmaceutical-Sciences-Intern_548425) |
 | [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program – Drug Metabolism and Pharmacokinetics – Co-op | USA - California - South San Francisco (Grand Ave) | \$39,108 | Oct 12 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Drug-Metabolism-and-Pharmacokinetics---Co-op_R412928) |
+| [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | TDS CGT-Viral Vector Development Co-Op | Malvern, Pennsylvania, United States of America +2 |  | Oct 9 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-CGT-Viral-Vector-Development-Co-Op_R-104407) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Wildlife Biologist (Austin, TX) | Austin, TX (TX18) +1 |  | Oct 8 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Austin-TX-TX18/XMLNAME-2027-Summer-Intern--Wildlife-Biologist--Austin--TX-_R2603412) |
 | [WTW](https://internscout.org/internships/at/wtw/) | Early Careers: Pharmacy Benefits Consulting Internship - Chicago - Summer 2027 | Chicago, IL |  | Oct 8 | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606458) |
 | [Emergent Holdings](https://internscout.org/internships/at/emergent-holdings/) | Summer 2027 Intern - Pharmacy Services | United States | Paid | Oct 8 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14811) |

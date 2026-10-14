@@ -1,6 +1,6 @@
 # Electrical Engineering: Summer 2027 Internships
 
-179 open Summer 2027 electrical engineering roles, newest first (all 179). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 469 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+178 open Summer 2027 electrical engineering roles, newest first (all 178). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 468 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -82,7 +82,6 @@
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | RF/Analog Design/Mixed-Signal Engineering Internship – Summer 2027 | San Diego, CA +3 |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720740912) |
 | [Motorola](https://internscout.org/internships/at/motorola/) | Electrical Engineer Intern - Summer 2027 | Plantation, FL |  | Sep 18 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineer-Intern---Summer-2027_R67780) |
 | [Motorola](https://internscout.org/internships/at/motorola/) | DSP (Digital Signal Processing) Software Engineering Intern - Summer 2027 | Plantation, FL |  | Sep 18 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Electrical Engineering Intern Summer 2027 | Pasadena, CA +2 | \$28.00 | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7998598003) |
 | [Generac](https://internscout.org/internships/at/generac/) | Electrical Engineering Intern - Summer 2027 | Waukesha, WI - USA +1 |  | Sep 17 | [Apply](https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Electrical-Engineering-Intern---Summer-2027_JR16952) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Electrical Engineer Intern - FPGA | Westminster, CO +1 |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/e6d87528-5da1-4970-9e42-7b224cfa63a9/apply) |
 | [Emerson Electric](https://internscout.org/internships/at/emerson-electric/) | Electrical Engineering Co-op (Summer 2027) | Elyria, OH +1 |  | Sep 16 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011003) |
@@ -96,7 +95,7 @@
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Electrical Engineering Intern, Summer 2027 | San Diego, CA |  | Sep 14 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309857) |
 | [Cirrus Logic](https://internscout.org/internships/at/cirrus-logic/) | 2027 Internship - Mixed Signal Products Applications Engineer | Austin, Texas +1 |  | Sep 11 | [Apply](https://jobs.eu.lever.co/cirrus/2ca7b254-5c91-4a4e-9ba8-d05c8604eca2/apply) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 PhD Analog/Mixed-Signal SerDes Design Intern/Co-op | San Jose, California +3 |  | Sep 11 | [Apply](https://careers.amd.com/jobs/92346) |
-| Rocket Lab USA | Electrical Engineering Intern | Long Beach, CA |  | Sep 10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990683003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Electrical Engineering Intern Summer 2027 | Long Beach, CA +2 | \$28.00 | Sep 10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990683003) |
 | [Antares Nuclear](https://internscout.org/internships/at/antares-nuclear/) | Electrical Engineering Intern - Summer 2027 | Los Angeles +2 |  | Sep 10 | [Apply](https://jobs.ashbyhq.com/Antares/3061297c-a666-47be-a58a-b62881bf183d/application) |
 | [Saronic](https://internscout.org/internships/at/saronic/) | Electrical Engineer Intern (Summer 2027) | Austin, TX +1 |  | Sep 9 | [Apply](https://jobs.ashbyhq.com/saronic/c7779462-3c4c-44d9-8314-1be93a0e478a/application) |
 | [Pacific Fusion](https://internscout.org/internships/at/pacific-fusion/) | Summer 2027 Internship - Electrical Engineering | San Leandro, CA/ Fremont, CA +1 | Paid | Sep 9 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4398021009) |

@@ -1,9 +1,10 @@
 # Math: Summer 2027 Internships
 
-43 open Summer 2027 math roles, newest first (all 43). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 73 math internships on InternScout](https://internscout.org/internships/math/)
+44 open Summer 2027 math roles, newest first (all 44). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 74 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Statistics & Decision Sciences Summer Interns 2027 | Raritan, New Jersey, United States of America +3 |  | Oct 13 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Statistics---Decision-Sciences-Summer-Interns-2027_R-103411) |
 | [Sun Life](https://internscout.org/internships/at/sun-life/) | Actuarial Intern - Summer 2027 | Wellesley Hills, Massachusetts +4 |  | Oct 13 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Wellesley-Hills-Massachusetts/Actuarial-Intern---Summer-2027_JR00127870) |
 | [NJM Insurance Group](https://internscout.org/internships/at/njm-insurance-group/) | Actuarial Intern | NJM - Trenton, NJ | \$21- \$25 hour | Oct 12 | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Actuarial-Intern_R2008177-1) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 – Actuarial US | Boston, Massachusetts |  | Oct 8 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Actuarial-US_JR26081417-1) |
@@ -27,7 +28,7 @@
 | [SCOR](https://internscout.org/internships/at/scor/) | Actuarial Intern | Charlotte, North Carolina |  | Sep 25 | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5435) |
 | [Pacific Life](https://internscout.org/internships/at/pacific-life/) | Summer 2027 Actuarial Intern (Newport Beach) | Newport Beach CA-700 | \$26.00 per hour | Sep 21 | [Apply](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Actuarial-Intern--Newport-Beach-_R17460) |
 | [Centene](https://internscout.org/internships/at/centene/) | Actuarial Summer 2027 Intern (Undergraduate) | Remote-MO | \$21.00 - \$26.00 per hour | Sep 18 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Actuarial-Summer-2027-Intern--Undergraduate-_1660519) |
-| [AIG](https://internscout.org/internships/at/aig/) | 2027 Early Careers: Summer Intern, Actuarial – United States, Multiple Locations | NY-New York +4 |  | Sep 18 | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/NY-New-York/XMLNAME-2027-Early-Careers--Summer-Intern--Actuarial---United-States--Multiple-Locations_JR2603637-1) |
+| [AIG](https://internscout.org/internships/at/aig/) | 2027 Early Careers: Summer Intern, Actuarial – United States, Multiple Locations | NY-New York +4 |  | Sep 18 | [Apply](https://aig.wd1.myworkdayjobs.com/early_careers/job/NY-New-York/XMLNAME-2027-Early-Careers--Summer-Intern--Actuarial---United-States--Multiple-Locations_JR2603637) |
 | [Excellus BCBS](https://internscout.org/internships/at/excellus-bcbs/) | College Intern - Summer 2027- Actuarial (Multiple Openings!) | Buffalo +2 | Paid | Sep 17 | [Apply](https://lthc.wd1.myworkdayjobs.com/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027--Actuarial--Multiple-Openings--_JR104038) |
 | [Marsh](https://internscout.org/internships/at/marsh/) | Health and Benefits Actuarial Summer Intern- Southeast market- College Program 2027 | Washington - Conn Ave NW |  | Sep 14 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Atlanta---Lenox/Health-Consulting-Actuarial-Summer-Intern--Southeast-Market--College-Program-2027_R_365784) |
 | [Protective Life](https://internscout.org/internships/at/protective-life/) | 2027 Actuarial Summer Internship Program | Birmingham, AL |  | Sep 8 | [Apply](https://jobs.lever.co/protective/7b33ba4a-e8f9-4f69-aad3-4e0d0028597d/apply) |

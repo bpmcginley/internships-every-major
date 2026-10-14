@@ -1,11 +1,12 @@
 # Software Engineering: Summer 2027 Internships
 
-1,169 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,169). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 2,478 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,170 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,170). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 2,481 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Point72](https://internscout.org/internships/at/point72/) | Software Engineer Intern | NYC +1 | Paid | Oct 14 | [Apply](https://boards.greenhouse.io/point72/jobs/8885733002) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Flight Test Engineer Intern | Costa Mesa, California, United States |  | Oct 14 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007) |
+| [Philips](https://internscout.org/internships/at/philips/) | Intern – Systems Engineering (Sustaining & Design Controls) - San Diego, CA - Summer 2027 | San Diego, California, United States |  | Oct 14 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Diego-California-United-States/Intern---Systems-Engineering--Sustaining---Design-Controls----San-Diego--CA---Summer-2027_593052) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Software Engineer (Reston, VA) | Reston, VA |  | Oct 14 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Engineer--Reston--VA-_R2603522) |
 | [CareBridge](https://internscout.org/internships/at/carebridge/) | Internal IT Audit Intern - Summer 2027 | FL-TAMPA, 5411 SKYCENTER DR, STE 700 & 800 |  | Oct 14 | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-TAMPA-5411-SKYCENTER-DR-STE-700--800/Intern_JR210003) |
 | [Humana](https://internscout.org/internships/at/humana/) | Humana Technology Internship – Summer 2027 - Society of Women Engineers Conference 2026 | Louisville, KY +4 |  | Oct 14 | [Apply](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027---Society-of-Women-Engineers-Conference-2026_R-433228) |
@@ -128,6 +129,7 @@
 | Illinois Tool Works | Software Engineer Intern - Application Software | Eden Prairie, MN |  | Oct 7 | [Apply](https://careers.itw.com/global/en/job/JR10491) |
 | State Affairs | Software Engineer Intern | Washington, DC |  | Oct 7 | [Apply](https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009) |
 | [K2 Space](https://internscout.org/internships/at/k2-space/) | Platform Engineering Intern – Summer 2027 | Los Angeles | \$30 - \$40 per hour | Oct 7 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5447206008) |
+| Sigma Computing | Software Engineer Intern - Summer 2027 | SF +1 |  | Oct 7 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Software Engineer Intern - Embedded Systems | Redmond, WA +1 |  | Oct 7 | [Apply](https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Systems Engineer Intern - Summer 2027 - Canton, MS | Canton, Mississippi - United States of America +1 |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882) |
 | [Apple Bank](https://internscout.org/internships/at/apple-bank/) | IT Data Intern - Analytics, & Automation | NYC +1 | Paid | Oct 7 | [Apply](https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern--IT-Data--Analytics----Automation_2026-1414) |
@@ -144,7 +146,7 @@
 | [Jabil](https://internscout.org/internships/at/jabil/) | Computer Systems Analyst Intern | St. Petersburg/Tampa, FL |  | Oct 7 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Computer-Systems-Analyst-Intern_J2464586-1) |
 | [Lyft](https://internscout.org/internships/at/lyft/) | PhD Machine Learning Software Engineer Intern | SF +1 |  | Oct 6 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) |
 | Pure Storage | Software Engineer Intern | Santa Clara, CA +1 | Paid | Oct 6 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/8249749) |
-| Sigma Computing | Software Engineering Intern (Summer 2027) | New York, NY +2 |  | Oct 6 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003) |
+| Sigma Computing | Software Engineering Intern (Summer 2027) | New York, NY +1 |  | Oct 6 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, BS, Software Engineer, Model Eval | Mountain View, CA, USA | Paid | Oct 6 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8257660) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS, PhD, Software Engineer | Mountain View, California, United States +1 |  | Oct 6 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8250220) |
 | Niantic Spatial | Software Engineering Intern (Summer 2027) | San Francisco, CA +2 |  | Oct 6 | [Apply](https://jobs.ashbyhq.com/niantic-spatial/898b2da7-03cd-486e-96e3-3430a148c8fd/application) |
@@ -202,8 +204,6 @@
 | [Hitachi](https://internscout.org/internships/at/hitachi/) | Hardware Test Engineering Intern (Summer 2027, 16months) | Toronto, Ontario, Canada +1 | Paid | Oct 2 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | System Test Engineering Intern (Summer 2027) | Delaware, OH +1 |  | Oct 2 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279306) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Accounting Business Systems Analyst (Raleigh, NC) | Raleigh, North Carolina |  | Oct 2 | [Apply](https://firstcitizens.jibeapply.com/jobs/35799) |
-| [Vanguard](https://internscout.org/internships/at/vanguard/) | College to Corporate IT Internship-Application Development (PA) | Malvern, PA |  | Oct 2 | [Apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757) |
-| [GE Appliances](https://internscout.org/internships/at/ge-appliances/) | Mechanical Engineering Technology Co-op\_Summer 2027 | Louisville, KY |  | Oct 2 | [Apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Mechanical-Engineering-Technology-Co-op-Summer-2027_REQ-26430) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,9 +1,10 @@
 # Operations: Summer 2027 Internships
 
-327 open Summer 2027 operations roles, newest first (the 200 newest of 327). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 800 operations internships on InternScout](https://internscout.org/internships/operations/)
+329 open Summer 2027 operations roles, newest first (the 200 newest of 329). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 802 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Assurant](https://internscout.org/internships/at/assurant/) | Summer 2027 Intern: Assurant Claims Operations Intern | Georgia Virtual +1 |  | Oct 14 | [Apply](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Georgia-Virtual/Summer-2027-Intern--Assurant-Claims-Operations-Intern_R-115960) |
 | [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Strategic Business Operations Summer Intern | Titusville, New Jersey, United States of America +2 |  | Oct 14 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Strategic-Business-Operations-Summer-Intern_R-103514) |
 | [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Information Security Operations Analyst | Atlanta Suwanee 1 DC1, GA |  | Oct 14 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-GA-Atlanta-Suwanee-1-DC1/Summer-2027-Internship--Information-Security-Operations-Analyst_R2026-2273) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | INFINITI Sales Operations Intern - Franklin, TN - Summer 2027 | Franklin, Tennessee - United States of America |  | Oct 14 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/INFINITI-Sales-Operations-Intern---Franklin--TN---Summer-2027_R00214231) |
@@ -30,6 +31,7 @@
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Field Sales Operations Internship – District Manager, Parts & Service | Warren, Michigan, United States of America +4 |  | Oct 10 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Field-Sales-Operations-Internship---District-Manager--Parts---Service_JR-202619666) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Creative Product Operations Intern - Multiple Teams | San Jose, CA |  | Oct 9 | [Apply](https://lifeattiktok.com/search/7693727532178229509) |
 | [MEMX](https://internscout.org/internships/at/memx/) | Data Center Operations Intern, Summer 2027 (Hybrid, NYC) | United States | \$30/hour | Oct 9 | [Apply](https://job-boards.greenhouse.io/memx/jobs/5449276008) |
+| [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Operations Intern, Summer 2027 | Jacksonville, Florida, United States of America |  | Oct 9 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Operations-Intern--Summer-2027_R-103870) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Process Improvement Intern | Sparks, Nevada |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51654) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Procurement Intern - Infrastructure Solutions (Summer 2027) | Greenville, SC +1 |  | Oct 9 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279203) |
 | [Emerson Electric](https://internscout.org/internships/at/emerson-electric/) | Quality Intern (Summer 2027) | Knoxville, TN |  | Oct 9 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009955) |
@@ -173,7 +175,7 @@
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Distribution Operations Internship | West Dundee, Illinois +1 | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36089) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Retail Operations Intern (Houston, TX) | Houston, Texas |  | Sep 10 | [Apply](https://jobs.constellationenergy.com/jobs/138747) |
 | [Steel Dynamics](https://internscout.org/internships/at/steel-dynamics/) | Quality Internship | Sinton, TX | Paid | Sep 10 | [Apply](https://careers-steeldynamics.icims.com/jobs/8038/quality-internship/job) |
-| [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | Eagan, Minnesota +7 | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36106) |
+| [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | Eagan, Minnesota +6 | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36106) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Crypto Inventory Operations Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Institutional Operations Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) |
 | [Spirit AeroSystems](https://internscout.org/internships/at/spirit-aerosystems/) | Boeing - Wichita Summer 2027 Internship Program (Paid) - Facilities Project Management & Long-Range Planning | Wichita, Kansas |  | Sep 8 | [Apply](https://careers.spiritaero.com/jobs/17512) |
@@ -202,8 +204,6 @@
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Intern - Sales Operations (Quoting) | Bridgeton, Missouri |  | Aug 31 | [Apply](https://careers.na.panasonic.com/jobs/50747) |
 | [Northwood Space](https://internscout.org/internships/at/northwood-space/) | Supply Chain Operations Intern (2027 Summer Internship) | Torrance, CA +2 |  | Aug 28 | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/7bfa4ec0-7d5a-475b-aa2b-0cd0741e1549/application) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Continuous Improvement | Detroit, MI |  | Aug 28 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14650) |
-| [CSX](https://internscout.org/internships/at/csx/) | Procurement & Supply Chain Internship - Summer 2027 (Paid) | Jacksonville, FL |  | Aug 27 | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54820) |
-| [Vertiv](https://internscout.org/internships/at/vertiv/) | Operations Intern Associate I (Summer 2027) | Westerville, OH |  | Aug 27 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278794) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
