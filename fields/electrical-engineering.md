@@ -1,6 +1,6 @@
 # Electrical Engineering: Summer 2027 Internships
 
-178 open Summer 2027 electrical engineering roles, newest first (all 178). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 468 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+179 open Summer 2027 electrical engineering roles, newest first (all 179). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 469 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -95,9 +95,10 @@
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Electrical Engineering Intern, Summer 2027 | San Diego, CA |  | Sep 14 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309857) |
 | [Cirrus Logic](https://internscout.org/internships/at/cirrus-logic/) | 2027 Internship - Mixed Signal Products Applications Engineer | Austin, Texas +1 |  | Sep 11 | [Apply](https://jobs.eu.lever.co/cirrus/2ca7b254-5c91-4a4e-9ba8-d05c8604eca2/apply) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 PhD Analog/Mixed-Signal SerDes Design Intern/Co-op | San Jose, California +3 |  | Sep 11 | [Apply](https://careers.amd.com/jobs/92346) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Electrical Engineering Intern Summer 2027 | Long Beach, CA +2 | \$28.00 | Sep 10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990683003) |
+| Rocket Lab USA | Electrical Engineering Intern | Long Beach, CA |  | Sep 10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990683003) |
 | [Antares Nuclear](https://internscout.org/internships/at/antares-nuclear/) | Electrical Engineering Intern - Summer 2027 | Los Angeles +2 |  | Sep 10 | [Apply](https://jobs.ashbyhq.com/Antares/3061297c-a666-47be-a58a-b62881bf183d/application) |
 | [Saronic](https://internscout.org/internships/at/saronic/) | Electrical Engineer Intern (Summer 2027) | Austin, TX +1 |  | Sep 9 | [Apply](https://jobs.ashbyhq.com/saronic/c7779462-3c4c-44d9-8314-1be93a0e478a/application) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Electrical Engineering Intern Summer 2027 | Toronto, CAN +3 | \$60,008 | Sep 9 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990043003) |
 | [Pacific Fusion](https://internscout.org/internships/at/pacific-fusion/) | Summer 2027 Internship - Electrical Engineering | San Leandro, CA/ Fremont, CA +1 | Paid | Sep 9 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4398021009) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship – Electrical & Computer Engineer - Miniature Device Technologies | Laurel, Maryland +1 |  | Sep 9 | [Apply](https://careers.jhuapl.edu/jobs/59993) |
 | [Allen Control Systems](https://internscout.org/internships/at/allen-control-systems/) | Electrical Engineering Intern, 2027 | Austin, TX +1 | Paid | Sep 8 | [Apply](https://jobs.ashbyhq.com/allen-control-systems/cc1618f1-e4b8-4dcb-88fd-9771da972220/application) |

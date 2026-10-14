@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-120 open Summer 2027 human resources roles, newest first (all 120). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 283 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+119 open Summer 2027 human resources roles, newest first (all 119). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 282 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -44,7 +44,6 @@
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern- Human Resources (Payroll/Benefits) | HOUSTON, Texas |  | Sep 24 | [Apply](https://careers.kindermorgan.com/jobs/6310) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern- Human Resources (Compensation) | HOUSTON, Texas |  | Sep 24 | [Apply](https://careers.kindermorgan.com/jobs/6309) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Talent Development Intern, Summer 2027 | North Andover, MA |  | Sep 24 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Talent-Development-Intern--Summer-2027_10017568) |
-| [State Farm](https://internscout.org/internships/at/state-farm/) | Software Developer Intern - HR&D | Tempe, AZ +3 |  | Sep 23 | [Apply](https://jobs.statefarm.com/jobs/45689?icims=1) |
 | [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Human Resources Intern- Buffalo, NY, Summer 2027 | Buffalo, NY | \$18-24/hour | Sep 23 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Buffalo-NY/Human-Resources-Intern--Buffalo--NY--Summer-2027_115886) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Human Resources Corporate Internship – Summer 2027 (Undergraduate) | CT - Hartford |  | Sep 22 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Human-Resources-Corporate-Internship_R1039523) |
 | [Regal Rexnord](https://internscout.org/internships/at/regal-rexnord/) | Human Resources Summer Intern | Milwaukee, Wisconsin, United States +2 | \$19 - \$25 per hour | Sep 22 | [Apply](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Milwaukee-Wisconsin-United-States/Human-Resources-Summer-Intern_R26_04544-1) |

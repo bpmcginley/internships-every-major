@@ -1,6 +1,6 @@
 # Engineering: Summer 2027 Internships
 
-438 open Summer 2027 engineering roles, newest first (the 200 newest of 438). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 1,254 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+438 open Summer 2027 engineering roles, newest first (the 200 newest of 438). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 1,255 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

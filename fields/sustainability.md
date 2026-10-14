@@ -1,6 +1,6 @@
 # Sustainability: Summer 2027 Internships
 
-80 open Summer 2027 sustainability roles, newest first (all 80). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 119 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+81 open Summer 2027 sustainability roles, newest first (all 81). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 120 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Land and Right of Way (OSG) | HOUSTON, Texas |  | Sep 11 | [Apply](https://careers.kindermorgan.com/jobs/6183) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern -ESG | HOUSTON, Texas +1 |  | Sep 11 | [Apply](https://careers.kindermorgan.com/jobs/6176) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Gas Storage | HOUSTON, Texas |  | Sep 11 | [Apply](https://careers.kindermorgan.com/jobs/6212) |
+| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Origination Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 10 | [Apply](https://jobs.constellationenergy.com/jobs/138758) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Midstream Scheduling | HOUSTON, Texas |  | Sep 10 | [Apply](https://careers.kindermorgan.com/jobs/6230) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Technical Internship - Cordova, IL (ASSOCIATE'S DEGREE ONLY) | Cordova, Illinois | Paid | Sep 9 | [Apply](https://jobs.constellationenergy.com/jobs/138838) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Research and Development Intern - Detroit Research Center - Summer Student Program | Detroit, MI |  | Sep 8 | [Apply](https://aramcoservices.applytojob.com/apply/ycFkgdZtKy/Research-And-Development-Detroit-Research-Center-2027-Summer-Student-Program) |

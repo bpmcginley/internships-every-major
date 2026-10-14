@@ -1,10 +1,11 @@
 # Chemical Engineering: Summer 2027 Internships
 
-58 open Summer 2027 chemical engineering roles, newest first (all 58). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 184 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+59 open Summer 2027 chemical engineering roles, newest first (all 59). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 185 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Skydio](https://internscout.org/internships/at/skydio/) | Process Engineering Intern - Summer 2027 | San Mateo, California, United States +2 | Paid | Oct 14 | [Apply](https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b/application) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Material/Process Engineering Intern (Summer 2027)(Onsite) | Spokane, WA |  | Oct 14 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-WA-SPOKANE-11135--11135-W-Westbow-Ln--WESTBOW/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01882373) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | 2027 Summer Intern PhD Student - Drug Product Development Engineering | New Brunswick - NJ - US |  | Oct 14 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/New-Brunswick---NJ---US/XMLNAME-2027-Summer-Intern-PhD-Student---Drug-Product-Development-Engineering_R1607528) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | 2027 Summer Intern PhD Student - Drug Product Development Material Characterization | New Brunswick - NJ - US |  | Oct 14 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/New-Brunswick---NJ---US/XMLNAME-2027-Summer-Intern-PhD-Student---Drug-Product-Development-Material-Characterization_R1607527) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | 2027 Summer Intern PhD Student - Drug Product Development Analytical Sciences | New Brunswick - NJ - US |  | Oct 14 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/New-Brunswick---NJ---US/XMLNAME-2027-Summer-Intern-PhD-Student---Drug-Product-Development-Analytical-Sciences_R1607526) |

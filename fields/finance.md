@@ -1,6 +1,6 @@
 # Finance: Summer 2027 Internships
 
-547 open Summer 2027 finance roles, newest first (the 200 newest of 547). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 913 finance internships on InternScout](https://internscout.org/internships/finance/)
+547 open Summer 2027 finance roles, newest first (the 200 newest of 547). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 912 finance internships on InternScout](https://internscout.org/internships/finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -187,8 +187,8 @@
 | [Acuity](https://internscout.org/internships/at/acuity/) | Finance AI Product Management Intern | Atlanta, GA |  | Sep 29 | [Apply](https://careers.acuityinc.com/job/Atlanta-Finance-AI-Product-Management-Intern-Onsite-GA-30309/1434874300/?ats=successfactors) |
 | Allegiant Air | Intern, Financial Analyst (Summer 2027) | Las Vegas, NV |  | Sep 29 | [Apply](https://jobs.lever.co/allegiantair/fd433f06-813b-4254-b549-5c69f4b5af10/apply) |
 | Truist Bank | 2027 Truist Securities - Investment Banking - Summer Associate Program (Internship) - Houston - Energy (MBA) | Houston, TX | \$175,000 | Sep 29 | [Apply](https://truist.wd1.myworkdayjobs.com/Careers/job/Houston-TX/XMLNAME-2027-Truist-Securities---Investment-Banking---Summer-Associate-Program--Internship----Houston---Energy--MBA-_R0119793-1) |
-| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, R&E Tax Credits | Washington DC |  | Sep 29 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Washington/Summer-2027-Intern--R-E-Tax-Credits_R0020727-1) |
-| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Transfer Pricing | Washington DC +1 |  | Sep 29 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Washington/Summer-2027-Intern--Transfer-Pricing_R0020725-1) |
+| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, R&E Tax Credits | Washington DC |  | Sep 29 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Washington/Summer-2027-Intern--R-E-Tax-Credits_R0020727) |
+| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Transfer Pricing | Washington DC +1 |  | Sep 29 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Washington/Summer-2027-Intern--Transfer-Pricing_R0020725) |
 | [ABB](https://internscout.org/internships/at/abb/) | Finance Operations Intern – Summer 2027 | USA, NJ +1 |  | Sep 29 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NM-Albuquerque/Finance-Operations-Intern---Summer-2027_JR00048203) |
 | [Principal Financial Group](https://internscout.org/internships/at/principal-financial-group/) | Intern-Private Alternative Credit | Des Moines, Iowa +2 | \$29 - \$40 / hour | Sep 29 | [Apply](https://careers.principal.com/jobs/52677) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | GDIT Summer Internship Program – Summer 2027 Summer Finance and Accounting Associate Internship | Herndon, VA |  | Sep 29 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Herndon/GDIT-Summer-Internship-Program---Summer-2027-Summer-Finance-and-Accounting-Associate-Internship-_RQ228402) |
