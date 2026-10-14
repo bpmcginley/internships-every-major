@@ -1,6 +1,6 @@
 # Media: Summer 2027 Internships
 
-27 open Summer 2027 media roles, newest first (all 27). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 103 media internships on InternScout](https://internscout.org/internships/media/)
+26 open Summer 2027 media roles, newest first (all 26). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 102 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -9,7 +9,6 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Creative Product Manager Intern - Multiple Teams | San Jose, CA |  | Oct 9 | [Apply](https://lifeattiktok.com/search/7693732178706974981) |
 | [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Photo and Video Marketing Production | Overland Park, KS |  | Oct 6 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Summer-2027-Internship--Photo-and-Video-Marketing-Production_R2026-2015) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Intern - Marketing, Communications, Journalism Majors | Chicago, IL | \$20 to \$33, | Oct 1 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern---Marketing--Communications--Journalism-Majors_R-0000033618-1) |
-| Rocket Companies | Creative Designer Intern - Summer 2027 | Detroit, MI |  | Sep 28 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Creative-Designer-Intern---Summer-2027_R-084550) |
 | [Politico](https://internscout.org/internships/at/politico/) | Reporting Intern, HQ (Summer 2027) | Arlington, VA |  | Sep 25 | [Apply](https://politico.wd108.myworkdayjobs.com/POLITICO/job/Arlington-VA/Reporting-Intern--HQ--Summer-2027-_JR100567) |
 | [Politico](https://internscout.org/internships/at/politico/) | Photo Intern, HQ (Summer 2027) | Arlington, VA |  | Sep 25 | [Apply](https://politico.wd108.myworkdayjobs.com/POLITICO/job/Arlington-VA/Photo-Intern--HQ--Summer-2027-_JR100570) |
 | [Politico](https://internscout.org/internships/at/politico/) | Reporting Intern, California (Summer 2027) | Sacramento, CA | \$23/hr | Sep 25 | [Apply](https://politico.wd108.myworkdayjobs.com/POLITICO/job/Sacramento-CA/Reporting-Intern--California--Summer-2027-_JR100566) |

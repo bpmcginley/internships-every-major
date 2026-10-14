@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-120 open Summer 2027 human resources roles, newest first (all 120). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 284 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+120 open Summer 2027 human resources roles, newest first (all 120). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 283 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - People, Engagement, and Impact (New York, NY) | New York, NY |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81243) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - People, Engagement, and Impact (Pittsburgh, PA) | Pittsburgh, PA |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81246) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Intelligent Sensing Intern - Global Frontier Tech Recruitment Program | San Jose, CA |  | Jun 4 | [Apply](https://jobs.bytedance.com/en/position/7629210458173556997/detail) |
-| [HNTB](https://internscout.org/internships/at/hntb/) | WED - Intern Civil Engineer (Summer 2027) (For Current & Recent HNTB Interns Only) (Campus Recruiting Hub Requisition) | Oakland, CA +1 | \$83,008.49 - \$124,512.74 | Oct 14 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Oakland-CA/WED---Intern-Civil-Engineer--Summer-2027---For-Current---Recent-HNTB-Interns-Only---Campus-Recruiting-Hub-Requisition-_R-31285) |
+| [HNTB](https://internscout.org/internships/at/hntb/) | WED - Intern Civil Engineer (Summer 2027) (For Current & Recent HNTB Interns Only) (Campus Recruiting Hub Requisition) | Oakland, CA +1 | \$83,008.49 - \$124,512.74 | Oct 14 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Oakland-CA/WED---Intern-Civil-Engineer--Summer-2027---For-Current---Recent-HNTB-Interns-Only---Campus-Recruiting-Hub-Requisition-_R-31285-1) |
 | [W.W. Grainger](https://internscout.org/internships/at/w-w-grainger/) | Training Intern - Summer 2027 | GREEN BAY, WI |  | Oct 13 | [Apply](https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-Training-Intern-Summer-2027-WI-54301-5160/1435287600/) |
 | AriensCo | Intern, Human Resources | WI - Brillion |  | Oct 10 | [Apply](https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Intern--Human-Resources_R-04130) |
 | [The Boeing Company](https://internscout.org/internships/at/boeing/) | Boeing Business Internship Program (Paid) Summer 2027 - Human Resources | USA - Everett, WA +12 |  | Oct 2 | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/Boeing-Business-Internship-Program--Paid--Summer-2027---Human-Resources_JR2026520801) |

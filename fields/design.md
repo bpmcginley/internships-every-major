@@ -1,6 +1,6 @@
 # Design: Summer 2027 Internships
 
-59 open Summer 2027 design roles, newest first (all 59). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 154 design internships on InternScout](https://internscout.org/internships/design/)
+58 open Summer 2027 design roles, newest first (all 58). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 153 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -21,7 +21,6 @@
 | Fifth Third Bank | Experience Design Co-op - Summer 2027 | Cincinnati, OH |  | Sep 29 | [Apply](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Graphic-Design-Marketing-Externship-Summer-2027_R71879) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Graphic Design Intern – Summer 2027 | Addison, TX +1 |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4404976009) |
 | [H&R Block](https://internscout.org/internships/at/h-r-block/) | UX/UI Design Intern, Product Design Intern - S | KANSAS CITY, Missouri | \$25/hour | Sep 28 | [Apply](https://careers.hrblock.com/jobs/76988) |
-| Rocket Companies | Creative Designer Intern - Summer 2027 | Detroit, MI |  | Sep 28 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Creative-Designer-Intern---Summer-2027_R-084550) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX News Media Internship Program - Graphic Design - New York | New York, New York, USA |  | Sep 28 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---Graphic-Design---New-York_R50033985) |
 | [Hy-Vee](https://internscout.org/internships/at/hy-vee/) | UX Design Intern - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA |  | Sep 28 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/UX-Design-Intern---Summer-2027_R250150) |
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Intern – UI/UX Designer (Summer 2027) | Downers Grove, IL |  | Sep 25 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Intern---UI-UX-Designer--Summer-2027-_REQ-020148) |

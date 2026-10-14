@@ -1,6 +1,6 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-450 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 450). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 852 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+450 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 450). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 856 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Dow Jones](https://internscout.org/internships/at/dow-jones/) | Data Analyst Intern | NYC |  | Oct 7 | [Apply](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Data-Analyst-Intern_Job_Req_55893) |
 | [ICF International](https://internscout.org/internships/at/icf/) | Data Engineer Intern | Remote +1 |  | Oct 7 | [Apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Engineer--Reston--VA-or-Remote-_R2603380) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Data Engineer (Reston, VA or Remote) | Reston, VA |  | Oct 7 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Engineer--Reston--VA-or-Remote-_R2603380) |
-| [Mastercard](https://internscout.org/internships/at/mastercard/) | Data Engineering Intern, Summer 2027 – San Franscisco, CA, US | San Francisco, California | \$35-46/hr | Oct 7 | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/San-Francisco-California/Data-Engineering-Intern--Summer-2027---San-Franscisco--CA--US_R-285993) |
+| [Mastercard](https://internscout.org/internships/at/mastercard/) | Data Engineering Intern, Summer 2027 – San Franscisco, CA, US | San Francisco, California |  | Oct 7 | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/San-Francisco-California/Data-Engineering-Intern--Summer-2027---San-Franscisco--CA--US_R-285993) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Electrical Engineering Intern (Mission Critical/Data Center) - Summer 2027 | Herndon, VA |  | Oct 7 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97071) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Data Analytics (Reston, VA or Remote) | Reston, VA |  | Oct 7 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern – Outreach Analytics (Raleigh, NC) | Raleigh, North Carolina +1 |  | Oct 7 | [Apply](https://firstcitizens.jibeapply.com/jobs/35906) |

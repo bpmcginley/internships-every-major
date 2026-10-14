@@ -1,6 +1,6 @@
 # Government and Public Policy: Summer 2027 Internships
 
-54 open Summer 2027 government and public policy roles, newest first (all 54). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 274 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+54 open Summer 2027 government and public policy roles, newest first (all 54). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 275 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

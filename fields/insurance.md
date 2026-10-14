@@ -1,6 +1,6 @@
 # Insurance: Summer 2027 Internships
 
-104 open Summer 2027 insurance roles, newest first (all 104). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 177 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+104 open Summer 2027 insurance roles, newest first (all 104). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 176 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [KKR](https://internscout.org/internships/at/kkr/) | 2027 Summer Analyst Program - Insurance Risk - QALM/Liquidity Risk | New York, New York, United States +1 |  | Sep 21 | [Apply](https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6200868004) |
 | [EMC Insurance](https://internscout.org/internships/at/emc-insurance/) | Claims Intern - Property | Iowa |  | Sep 21 | [Apply](https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Claims--Property-_R6553-1) |
 | [Pacific Life](https://internscout.org/internships/at/pacific-life/) | Summer 2027 Actuarial Intern (Newport Beach) | Newport Beach CA-700 | \$26.00 per hour | Sep 21 | [Apply](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Actuarial-Intern--Newport-Beach-_R17460) |
-| [EMC Insurance](https://internscout.org/internships/at/emc-insurance/) | Claims Intern - Workers' Compensation | Iowa |  | Sep 21 | [Apply](https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa---Work-From-Home/Claims-Intern---Worker-s-Compensation_R6548) |
+| [EMC Insurance](https://internscout.org/internships/at/emc-insurance/) | Claims Intern - Workers' Compensation | Iowa +1 |  | Sep 21 | [Apply](https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa---Work-From-Home/Claims-Intern---Worker-s-Compensation_R6548) |
 | [EMC Insurance](https://internscout.org/internships/at/emc-insurance/) | Claims Intern - Data | Iowa |  | Sep 21 | [Apply](https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Claims--Data-_R6552-1) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Middle Market Underwriting/Portfolio Management (San Diego, CA) | San Diego, California | \$18.50/hr | Sep 21 | [Apply](https://firstcitizens.jibeapply.com/jobs/35637) |
 | [Centene](https://internscout.org/internships/at/centene/) | Actuarial Summer 2027 Intern (Undergraduate) | Remote-MO | \$21.00 - \$26.00 per hour | Sep 18 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Actuarial-Summer-2027-Intern--Undergraduate-_1660519) |
