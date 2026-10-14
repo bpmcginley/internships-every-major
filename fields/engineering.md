@@ -4,8 +4,8 @@
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [WSP](https://internscout.org/internships/at/wsp/) | Transmission Line Engineering Intern - Summer 2027 | Meridian, ID |  | Oct 14 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96802) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Engineering Intern - Summer 2027 | Hampton, VA |  | Oct 14 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119830) |
+| [WSP](https://internscout.org/internships/at/wsp/) | Transmission Line Engineering Intern - Summer 2027 | Meridian, ID |  | Oct 14 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96802) |
 | [Cadence Design Systems](https://internscout.org/internships/at/cadence-design-systems/) | CST Application Engineer Intern - Systems ATX | SAN JOSE |  | Oct 14 | [Apply](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Systems-ATX_R56800-2) |
 | [Cadence](https://internscout.org/internships/at/cadence/) | CST Application Engineer Intern - Systems ATX | SAN JOSE |  | Oct 14 | [Apply](https://cadence.wd1.myworkdayjobs.com/external_careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Systems-ATX_R56800-3) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Controls Engineering Intern – Summer 2027 | Milwaukee, WI +3 | \$23.90 - \$32.22 | Oct 14 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94708) |

@@ -5,7 +5,7 @@
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Construction Project Development Engineer | Phoenix 2 DC2, AZ |  | Oct 14 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-AZ-Phoenix-2-DC2/Summer-2027-Internship--Construction-Project-Development-Engineer_R2026-2266) |
-| [Stantec](https://internscout.org/internships/at/stantec/) | Structural Engineering Intern - Buildings (Summer 2027) | Sacramento, CA +3 |  | Oct 14 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008288) |
+| [Stantec](https://internscout.org/internships/at/stantec/) | Structural Engineering Intern - Buildings (Summer 2027) | Los Angeles, CA +6 |  | Oct 14 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008287) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Civil Engineering Intern, Federal - Summer 2027 | Jacksonville, FL |  | Oct 13 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310064) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering (OH T-Lines) Intern - Summer 2027 | Freeport, ME | \$22.17 - \$28.85 per hour | Oct 13 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97112) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Geotechnical Engineering Intern - E&R (Summer 2027) | Chicago, IL | Paid | Oct 13 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008262) |

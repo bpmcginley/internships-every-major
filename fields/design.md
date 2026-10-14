@@ -1,10 +1,10 @@
 # Design: Summer 2027 Internships
 
-59 open Summer 2027 design roles, newest first (all 59). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 156 design internships on InternScout](https://internscout.org/internships/design/)
+59 open Summer 2027 design roles, newest first (all 59). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 155 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova - SCS Product Design Internship – Summer 2027 | Bellevue |  | Oct 14 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---SCS-Product-Design-Internship---Summer-2027_R5053219-1) |
+| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova - SCS Product Design Internship – Summer 2027 | Bellevue |  | Oct 14 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---SCS-Product-Design-Internship---Summer-2027_R5053219-2) |
 | [Electronic Arts](https://internscout.org/internships/at/electronic-arts/) | Technical Artist Co-op | Vancouver, BC, Canada |  | Oct 13 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Product Designer Intern | Costa Mesa, California, United States | Paid | Oct 13 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | UI/UX Design Intern | Delaware, OH +2 |  | Oct 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281371) |
@@ -13,7 +13,7 @@
 | [3M](https://internscout.org/internships/at/3m/) | Internship - 2027 Undergraduate 3M Brand Design Intern - Safety & Industrial Business Group (SIBG) | Maplewood, MN +1 |  | Oct 12 | [Apply](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-Brand-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172458) |
 | [Symbotic](https://internscout.org/internships/at/symbotic/) | Intern - User Experience | USA Wilmington, MA - HQ |  | Oct 12 | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern---User-Experience_R7968) |
 | Viget | Product & Web Designer Intern (2027) | Boulder, CO |  | Oct 8 | [Apply](https://jobs.lever.co/viget/938c3301-b358-42e3-afff-123b97b6d290/apply) |
-| [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Internship - Content Design | California - San Francisco +2 |  | Oct 7 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Internship---Content-Design_JR363232-1) |
+| [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Internship - Content Design | California - San Francisco +2 |  | Oct 7 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Internship---Content-Design_JR363232) |
 | [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Product Marketing Graphic Design Intern - Summer 2027 | Pella, IA |  | Oct 5 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253573) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | Summer 2027 Intern - Industrial Design | Warren, Michigan, United States of America |  | Oct 5 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Industrial-Design_JR-202621626) |
 | [Pinterest](https://internscout.org/internships/at/pinterest/) | UX Quantitative Research Intern (USA) | Remote +1 | \$11,000 month | Oct 1 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) |

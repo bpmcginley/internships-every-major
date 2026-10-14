@@ -1,6 +1,6 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-217 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 217). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 667 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+217 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 217). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 666 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Electrical or Mechanical Engineering (Santa Ana/Westminster) | Santa Ana, CA |  | Sep 23 | [Apply](https://apply.edisoncareers.com/job/Santa-Ana-2027-Summer-Internship-Electrical-or-Mechanical-Engineering-%28Santa-AnaWestminster%29-CA-92705/1423078600/) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Electrical or Mechanical Engineering (Ventura) | Ventura, CA |  | Sep 23 | [Apply](https://apply.edisoncareers.com/job/Ventura-2027-Summer-Internship-Electrical-or-Mechanical-Engineering-%28Ventura%29-CA-93004-1720/1423103000/) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Electrical or Mechanical Engineering (Tulare) | Tulare, CA |  | Sep 23 | [Apply](https://apply.edisoncareers.com/job/Tulare-2027-Summer-Internship-Electrical-or-Mechanical-Engineering-%28Tulare%29-CA-93274/1423103800/) |
-| [Charter Manufacturing](https://internscout.org/internships/at/charter-manufacturing/) | Mechanical Engineer Intern (Summer 2027) | Charter Steel - Saukville, WI |  | Sep 22 | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Mechanical-Engineering-Intern--Year-Round-_R08122) |
+| [Charter Manufacturing](https://internscout.org/internships/at/charter-manufacturing/) | Mechanical Engineer Intern (Summer 2027) | Charter Steel - Saukville, WI +1 |  | Sep 22 | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Mechanical-Engineering-Intern--Year-Round-_R08122) |
 | [Shield AI](https://internscout.org/internships/at/shield-ai/) | Summer 2027 - Mechanical Engineering Intern | Seattle, Washington +1 | Paid | Sep 21 | [Apply](https://jobs.lever.co/shieldai/da54c482-fe62-4f60-98b1-55ac0b82b3bc/apply) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Thermal Engineering Intern Summer 2027 | Long Beach, CA |  | Sep 21 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8000958003) |
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Mechanical Engineering Intern (Summer 2027) | Paso Robles, CA |  | Sep 21 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Mechanical-Engineering-Intern--Summer-2027-_REQ-020111) |

@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-188 open Summer 2027 hardware engineering roles, newest first (all 188). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 541 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+189 open Summer 2027 hardware engineering roles, newest first (all 189). **Updated October 14, 2026.** [Back to every major](../README.md) · [See all 541 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -8,6 +8,7 @@
 | [Anduril](https://internscout.org/internships/at/anduril/) | Firmware Engineer Intern | Costa Mesa, CA +1 | Paid | Oct 14 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265158007) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Hardware Development Engineer Intern | North Reading, MA +2 |  | Oct 14 | [Apply](https://amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027) |
 | [Field AI](https://internscout.org/internships/at/field-ai/) | Robotics Research Intern - Embodied AI | Irvine, CA |  | Oct 14 | [Apply](https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704/apply) |
+| [Nissan](https://internscout.org/internships/at/nissan/) | AI Robotics Research Intern - Summer 2027 - Santa Clara, CA | Santa Clara, California - United States of America |  | Oct 14 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/AI-Robotics-Research-Intern---Summer-2027---Santa-Clara--CA_R00214267) |
 | [Northrop Grumman](https://internscout.org/internships/at/northrop-grumman/) | Software Embedded Engineer Intern | Annapolis, MD |  | Oct 14 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Annapolis-MD_R10254697) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Hardware Development Engineer Intern Co-op - Robotics | North Reading, MA +1 |  | Oct 13 | [Apply](https://amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027) |
 | [Skydio](https://internscout.org/internships/at/skydio/) | Embedded Software Engineer Intern | San Mateo, CA +3 | Paid | Oct 13 | [Apply](https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260/application?embed=true) |
