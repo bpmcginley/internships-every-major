@@ -1,6 +1,6 @@
 # Accounting: Summer 2027 Internships
 
-210 open Summer 2027 accounting roles, newest first (the 200 newest of 210). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 491 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+208 open Summer 2027 accounting roles, newest first (the 200 newest of 208). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 489 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -24,7 +24,6 @@
 | [ATC](https://internscout.org/internships/at/atc/) | Intern-Audit and Risk Management Summer 2027 | Pewaukee, WI |  | Oct 12 | [Apply](https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern-Audit-and-Risk-Management-Summer-2027_R0003313) |
 | [Itron](https://internscout.org/internships/at/itron/) | Intern - Accounting (Summer 2027) | United States of America, Washington, Liberty Lake | \$15.87 - \$44.23 per hour | Oct 12 | [Apply](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Accounting--Summer-2027-_JR102991) |
 | [Fidelity Investments](https://internscout.org/internships/at/fidelity-investments/) | Summer 2027 Undergraduate Internship - Audit, Risk, & Compliance | Boston, MA +5 |  | Oct 12 | [Apply](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Summer-2027-Undergraduate-Internship---Audit--Risk----Compliance_2134161-1) |
-| [Medline](https://internscout.org/internships/at/medline/) | Finance/Accounting Intern - Summer 2027 | Northfield, Illinois | \$23.25 - \$33.75 Hour | Oct 12 | [Apply](https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/Finance-Accounting-Intern---Summer-2027_R2616741) |
 | [RSM](https://internscout.org/internships/at/rsm/) | Federal Tax Services Intern - Summer 2027 | Los Angeles | Paid | Oct 10 | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Los-Angeles/Federal-Tax-Services-Intern---Summer-2027_JR117433) |
 | [RSM](https://internscout.org/internships/at/rsm/) | State and Local Tax - Sales and Use Intern - Summer 2027 | Phoenix |  | Oct 10 | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Phoenix/State-and-Local-Tax---Sales-and-Use-Intern---Summer-2027_JR121257) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Salt Lake City - Digital Assurance & Transparency (DAT) - Intern - Summer 2027 | UT-Salt Lake City |  | Oct 9 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/UT-Salt-Lake-City/Salt-Lake-City---Digital-Assurance---Transparency--DAT----Intern---Summer-2027_764775WD) |
@@ -135,7 +134,6 @@
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Audit (Lake Mary, FL) | Lake Mary, FL |  | Sep 4 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81833) |
 | WhiteWater Midstream | Accounting Intern - Summer 2027 | Austin, TX |  | Sep 2 | [Apply](https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217841007) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027-BOLT Intern-Accounting (Corporate Controller Group) | HOUSTON, Texas |  | Sep 2 | [Apply](https://careers.kindermorgan.com/jobs/6134) |
-| [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Accounting Intern - Summer 2027 - Campus Recruiting | Austin, MN |  | Sep 1 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35287) |
 | [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Accounting/Finance Intern - Summer 2027 | Pella, IA |  | Sep 1 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253168) |
 | [Perry Homes](https://internscout.org/internships/at/perry-homes/) | 2027 Summer Internship - Accounting | Houston, Texas |  | Aug 31 | [Apply](https://apply.workable.com/j/BEC7746222/apply) |
 | [Grant Thornton](https://internscout.org/internships/at/grant-thornton/) | Tax Intern - Summer 2027 | San Francisco, CA | \$42.50 per hour | Aug 31 | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115761) |
@@ -204,6 +202,8 @@
 | [Highgate](https://internscout.org/internships/at/highgate/) | Tax Internship - Summer 2027 | Irving, TX |  | Sep 18 | [Apply](https://externalhourly-highgate.icims.com/jobs/82541/tax-internship---summer-2027/job) |
 | [Transamerica](https://internscout.org/internships/at/transamerica/) | Expense Management Intern (Summer 2027) | Cedar Rapids, Iowa |  | Sep 18 | [Apply](https://transamerica.wd5.myworkdayjobs.com/US/job/Cedar-Rapids-Iowa/Expense-Management--Summer-2027-_INT001688) |
 | [Arch Capital Group](https://internscout.org/internships/at/arch-capital-group/) | Corporate Tax Summer Intern | White Plains, NY United States of America | Paid | Sep 18 | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/White-Plains-NY-United-States-of-America/Corporate-Tax-Summer-Intern_R26_791) |
+| [The Andersons](https://internscout.org/internships/at/the-andersons/) | Accounting Intern (Summer 2027) | Maumee, OH |  | Sep 18 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Accounting-Intern--Summer-2027-_R12482) |
+| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Severance Tax Consulting Intern - Houston, TX | Houston | Paid | Sep 18 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Houston/Summer-2025-Tax-Consulting-Intern---Houston--TX_R0015214) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,10 +1,10 @@
 # Sustainability: Summer 2027 Internships
 
-81 open Summer 2027 sustainability roles, newest first (all 81). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 122 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+81 open Summer 2027 sustainability roles, newest first (all 81). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 121 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [Stantec](https://internscout.org/internships/at/stantec/) | BIM Technician Intern - Buildings (Summer 2027) | Los Angeles, CA +2 |  | Oct 14 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008295) |
+| [Stantec](https://internscout.org/internships/at/stantec/) | BIM Technician Intern - Buildings (Summer 2027) | Denver, CO +5 |  | Oct 15 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008294) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Transportation Roadway Intern (Summer 2027) | Cincinnati, OH +4 |  | Oct 14 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007531) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Climate & Health Intern | Chicago, IL +1 |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6064/summer-2027-climate-%26-health-intern/job) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Climate Policy Implementation Intern | New York, NY +2 |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6070/summer-2027-climate-policy-implementation-intern/job) |

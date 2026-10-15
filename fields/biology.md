@@ -1,6 +1,6 @@
 # Biology: Summer 2027 Internships
 
-16 open Summer 2027 biology roles, newest first (all 16). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 148 biology internships on InternScout](https://internscout.org/internships/biology/)
+16 open Summer 2027 biology roles, newest first (all 16). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 150 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Emergent Holdings](https://internscout.org/internships/at/emergent-holdings/) | Summer 2027 Intern - Pharmacy Services | United States | Paid | Oct 8 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14811) |
 | [Guidehouse](https://internscout.org/internships/at/guidehouse/) | Intern - Life Sciences Advisory, Health Segment - Campus 2027 | US - NY +7 | \$59,000.00-\$98,000.00 | Oct 6 | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---NY-New-York/Intern---Life-Sciences-Advisory--Health-Segment---Campus-2027_43306) |
 | [Centene](https://internscout.org/internships/at/centene/) | Pharmacy Grad Summer 2027 Intern (Grad) | Remote-MO |  | Oct 5 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Pharmacy-Grad-Summer-2027-Intern--Grad-_1663881) |
-| [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - MBA Business Value & Strategic Selling Consultant (Healthcare & Life Sciences) | New York - New York |  | Oct 1 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499-1) |
+| [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - MBA Business Value & Strategic Selling Consultant (Healthcare & Life Sciences) | New York - New York |  | Oct 1 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Pharmacy Intern – Emerging Therapies and Health Outcomes | Detroit, MI |  | Sep 22 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14836) |
 | [Gilead Sciences](https://internscout.org/internships/at/gilead-sciences/) | Intern - PDM - Manufacturing (Biologics) | United States - California - Foster City |  | Sep 16 | [Apply](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---PDM---Manufacturing--Biologics-_R0054750) |
 | [Marsh](https://internscout.org/internships/at/marsh/) | Oliver Wyman - 2027 MBA Summer Associate - Health & Life Sciences | New York - 1166 |  | Sep 19 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Oliver-Wyman---2027-MBA-Summer-Associate---Health---Life-Sciences_R_363378) |

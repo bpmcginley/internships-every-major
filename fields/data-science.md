@@ -1,9 +1,10 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-444 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 444). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 847 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+445 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 445). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 856 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Live Nation Entertainment](https://internscout.org/internships/at/live-nation-entertainment/) | Venue Analytics Intern | Chicago, IL, USA | Paid | Oct 15 | [Apply](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Chicago-IL-USA/Venue-Analytics-Intern_JR-93773-2) |
 | AGCO | Agricultural Business Analytics Intern | Champaign, IL |  | Oct 14 | [Apply](https://careers.agcocorp.com/job/Champaign-Agricultural-Business-Analytics-Intern-Summer-2027-IL/1440135500/?ats=successfactors) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Data Science Intern | Montpelier, VT +1 |  | Oct 14 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4449670009) |
 | AECOM | Engineering/Data Analytics Intern | Atlanta, GA |  | Oct 14 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155565444) |
@@ -16,6 +17,7 @@
 | [Assurant](https://internscout.org/internships/at/assurant/) | Data Support Analyst Intern | Chicago, IL +1 |  | Oct 14 | [Apply](https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Illinois-Virtual/Summer-2027-Intern--Data-Support-Analyst_R-115717) |
 | [Gallup](https://internscout.org/internships/at/gallup/) | Data Engineer Intern | SF |  | Oct 13 | [Apply](https://job-boards.greenhouse.io/gallup/jobs/4449991009) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Data Analytics Intern | Delaware, OH |  | Oct 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278852) |
+| [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Statistics & Decision Sciences Summer Interns 2027 | Raritan, New Jersey, United States of America +3 |  | Oct 13 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Statistics---Decision-Sciences-Summer-Interns-2027_R-103411) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Data Science Intern | Exton, Pennsylvania | Paid | Oct 13 | [Apply](https://careers.trccompanies.com/jobs/27074) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | AI and Data Analytics Intern | Sterling, VA |  | Oct 13 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Sterling/AI-and-Data-Analytics-Intern_RQ230269) |
 | [TIAA](https://internscout.org/internships/at/tiaa/) | 2027 Early Talent Internship: TIAA Enterprise Analytics | Charlotte, NC, USA +3 |  | Oct 13 | [Apply](https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Internship--TIAA-Enterprise-Analytics_R261000118-2) |
@@ -123,7 +125,6 @@
 | [Boston Scientific](https://internscout.org/internships/at/boston-scientific/) | R&D Research Data Science Intern | United States |  | Sep 28 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813667382) |
 | [H&R Block](https://internscout.org/internships/at/h-r-block/) | Embark Financial Services Data Analytics Intern - S | KANSAS CITY, Missouri | \$25/hour | Sep 28 | [Apply](https://careers.hrblock.com/jobs/76989) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Quantitative Analytics & Data Science Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 28 | [Apply](https://jobs.constellationenergy.com/jobs/139494) |
-| [SouthState Bank](https://internscout.org/internships/at/southstate-bank/) | Summer 2027 Data Analytics Intern (Remote) | Remote Opportunity - VA, NC, SC, GA, FL, AL, TX, & CO |  | Sep 28 | [Apply](https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/Summer-2027-Data-Analytics-Intern--Remote-_R-06279) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Data Analytics, Program Performance | Detroit, MI |  | Sep 28 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14841) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Data Analytics, HEDIS | Detroit, MI |  | Sep 28 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14838) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Intern - Data Science / Biostatistician | Detroit, MI |  | Sep 28 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14837) |
@@ -203,7 +204,6 @@
 | [BlackRock](https://internscout.org/internships/at/blackrock/) | 2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - New York | New York, NY +1 | \$6,500 – \$8,000 | Sep 15 | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477) |
 | [BlackRock](https://internscout.org/internships/at/blackrock/) | 2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco | San Francisco, CA +1 | \$6,500 – \$8,000 | Sep 15 | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476) |
 | [Inmar Intelligence](https://internscout.org/internships/at/inmar-intelligence/) | Data, Analytics & AI Internships, Summer 2027 | Headquarters, Winston Salem, NC |  | Sep 15 | [Apply](https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Data--Analytics---AI-Internships--Summer-2027_JY2627632) |
-| [Ingredion](https://internscout.org/internships/at/ingredion/) | Global Supply Chain Data Science Intern | Westchester, IL |  | Sep 15 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Supply-Chain-Data-Science-Intern_Req-40226-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

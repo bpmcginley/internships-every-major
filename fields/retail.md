@@ -1,6 +1,6 @@
 # Retail: Summer 2027 Internships
 
-174 open Summer 2027 retail roles, newest first (all 174). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 239 retail internships on InternScout](https://internscout.org/internships/retail/)
+173 open Summer 2027 retail roles, newest first (all 173). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 238 retail internships on InternScout](https://internscout.org/internships/retail/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -64,7 +64,6 @@
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Ecommerce Intern - Summer 2027 - Campus Recruiting | Austin, MN |  | Sep 9 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35361) |
 | Dick's Sporting Goods | Retail Analytics Intern - Corporate Internship | Pittsburgh, PA |  | Sep 8 | [Apply](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Retail-Analytics---Summer-2027-Corporate-Internship_202608785-1) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Retail Sales Intern - Summer 2027 (Multiple Locations) - Campus Recruiting | Austin, MN +2 |  | Sep 1 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35338) |
-| [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Retail Brand Management Marketing Intern - Summer 2027 (Multiple Locations) - Campus Recruiting | Austin, MN +2 | Paid | Sep 1 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35348) |
 | [First National Bank](https://internscout.org/internships/at/first-national-bank/) | Retail Administration Analytics Intern | Pittsburgh, PA |  | Sep 1 | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Retail-Administration-Analytics-Intern_2026-02039) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Knowledge Graph | San Jose, CA +1 |  | Aug 31 | [Apply](https://lifeattiktok.com/search/7676652813409552645) |
 | [Williams-Sonoma](https://internscout.org/internships/at/williams-sonoma/) | 2027 Merchandising Internship - Brooklyn | Brooklyn, NY |  | Aug 31 | [Apply](https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20062) |
