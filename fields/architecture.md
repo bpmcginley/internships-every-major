@@ -1,10 +1,11 @@
 # Architecture: Summer 2027 Internships
 
-37 open Summer 2027 architecture roles, newest first (all 37). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 81 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+38 open Summer 2027 architecture roles, newest first (all 38). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 83 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [RTX](https://internscout.org/internships/at/rtx/) | Receiver, Exciter & Processing Architecture Electrical Engineer Intern (Summer 2027) | Tewksbury, MA | Paid | Oct 15 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027-_01873437) |
+| [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Summer 2027 Architecture & Design Intern | Detroit, MI |  | Oct 15 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Summer-2027-Architecture---Design-Intern_R-085043) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Receiver, Exciter & Processing Architecture Electrical Engineer Intern (Summer 2027) | Tewksbury, MA |  | Oct 15 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027-_01873437) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Landscape Architecture- Summer 2027 | Baltimore, MD |  | Oct 15 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97459) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | NVIDIA 2027 Internships: Deep Learning Computer Architecture | US, CA +2 | Paid | Oct 12 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | PhD Research Intern, Architecture – 2027 | US, CA +7 |  | Oct 12 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Architecture---2027_JR2025395) |

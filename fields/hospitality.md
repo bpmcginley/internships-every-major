@@ -1,9 +1,10 @@
 # Hospitality: Summer 2027 Internships
 
-18 open Summer 2027 hospitality roles, newest first (all 18). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 68 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
+18 open Summer 2027 hospitality roles, newest first (all 18). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 69 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Hotels and Hospitality Summer 2027 Internship - Miami, FL | Miami, FL |  | Oct 15 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Miami-FL/Hotels-and-Hospitality-Summer-2027-Internship---Miami--FL_REQ542763) |
 | Royal Caribbean Group | Intern, Guest Travel Services (Summer 2027) | Miramar, FL |  | Oct 15 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miramar-Intern%2C-Guest-Travel-Services-%28Summer-2027%29-FL-33132/1440504600/) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - Meeting & Event Management | Toronto, Ontario | \$40,950 | Oct 8 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Meeting---Event-Management_JR26081286) |
 | [Baird](https://internscout.org/internships/at/baird/) | Internship – Hospitality (Louisville, KY Summer 2027) | KY-Louisville |  | Oct 2 | [Apply](https://baird.wd1.myworkdayjobs.com/careers/job/KY-Louisville/Internship---Hospitality--Louisville--KY-Summer-2027-_R20261112-1) |
@@ -14,7 +15,6 @@
 | [Cvent](https://internscout.org/internships/at/cvent/) | SDET Intern (Summer 2027) | Tysons Corner, Virginia | Paid | Aug 31 | [Apply](https://careers.cvent.com/jobs/10761) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | Scrum Master Intern (Summer 2027) | Tysons Corner, Virginia |  | Aug 31 | [Apply](https://careers.cvent.com/jobs/10740) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | Client Services Intern (Summer 2027) | Tysons Corner, Virginia | Paid | Aug 26 | [Apply](https://careers.cvent.com/jobs/10710) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Biomechanics | Baltimore, MD |  | Oct 15 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Biomechanics-MD-21230/1434382000/) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Marketing & Events Internship - Summer 2027 | Reston, VA |  | Oct 8 | [Apply](https://uscareers-idemia.icims.com/jobs/8676/marketing-%26-events-internship---summer-2027/job) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Product Line Management | Baltimore, MD |  | Sep 28 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Product-Line-Management-MD-21230/1434387800/) |
 | [Hy-Vee](https://internscout.org/internships/at/hy-vee/) | Events Intern - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA |  | Sep 18 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Events-Intern---Summer-2027_R251696) |

@@ -1,9 +1,14 @@
 # Sustainability: Summer 2027 Internships
 
-83 open Summer 2027 sustainability roles, newest first (all 83). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 124 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+88 open Summer 2027 sustainability roles, newest first (all 88). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 129 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Power Technical Internship - Granbury, TX (ASSOCIATE'S DEGREE ONLY) | Granbury, Texas | Paid | Oct 15 | [Apply](https://jobs.constellationenergy.com/jobs/140012) |
+| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Power Technical Internship - Wharton, TX (ASSOCIATE'S DEGREE ONLY) | Wharton, Texas | Paid | Oct 15 | [Apply](https://jobs.constellationenergy.com/jobs/138675) |
+| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Renewables Engineering Intern - Oakland, MD | Oakland, Maryland | Paid | Oct 15 | [Apply](https://jobs.constellationenergy.com/jobs/140007) |
+| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Power Technical Intern - Alexander City, AL (ASSOCIATE'S DEGREE ONLY) | Alexander City, Alabama | Paid | Oct 15 | [Apply](https://jobs.constellationenergy.com/jobs/140010) |
+| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Power Technical Internship - Darlington, MD (ASSOCIATE'S DEGREE ONLY) | Darlington, Maryland | Paid | Oct 15 | [Apply](https://jobs.constellationenergy.com/jobs/140014) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Clean Energy Business Intern | Washington, DC +2 |  | Oct 15 | [Apply](https://careers-nrdc.icims.com/jobs/6072/summer-2027-clean-energy-business-intern/job) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern, Capital Projects, Summer 2027 | The Woodlands, Texas |  | Oct 15 | [Apply](https://jobs.entergy.com/job/The-Woodlands-Student%2C-Intern%2C-Capital-Projects%2C-Summer-2027-Texa/1440487600/) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering (Renewables) Intern - Summer 2027 | Cincinnati, OH +2 |  | Oct 15 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97670) |

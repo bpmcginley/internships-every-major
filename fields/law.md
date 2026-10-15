@@ -1,6 +1,6 @@
 # Law and Legal: Summer 2027 Internships
 
-116 open Summer 2027 law and legal roles, newest first (all 116). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 288 law and legal internships on InternScout](https://internscout.org/internships/law/)
+116 open Summer 2027 law and legal roles, newest first (all 116). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 289 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [International Rescue Committee (IRC)](https://internscout.org/internships/at/international-rescue-committee-irc/) | Immigration Legal Intern - UNPAID - Summer 2027 | Denver, CO USA |  | Oct 1 | [Apply](https://theirc.wd1.myworkdayjobs.com/External_Careers/job/Denver-CO-USA/Immigration-Legal-Intern---UNPAID---Summer-2027_JR00005325-1) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | Legal Intern (Summer 2027) | Remote | \$45/hour | Sep 30 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5253395007) |
 | [Internal Revenue Service](https://internscout.org/internships/at/internal-revenue-service/) | Summer Intern (Legal Administrative Specialist) | Birmingham, Alabama +45 | \$61722 - \$100315 Per Year | Sep 29 | [Apply](https://www.usajobs.gov:443/job/886742000) |
-| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Abandoned and Unclaimed Property Compliance | King of Prussia PA +1 |  | Sep 29 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/King-of-Prussia/Summer-2027-Intern--Abandoned-and-Unclaimed-Property-Compliance_R0020714-1) |
+| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Abandoned and Unclaimed Property Compliance | King of Prussia PA +1 |  | Sep 29 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/King-of-Prussia/Summer-2027-Intern--Abandoned-and-Unclaimed-Property-Compliance_R0020714) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Commercial Agreements Legal Intern (2027 Summer) | USA - Vermont - Essex Junction |  | Sep 29 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Commercial-Agreements-Legal-Intern--2027-Summer-_JR-2604244) |
 | [Fidelity National Information Services](https://internscout.org/internships/at/fidelity-national-information-services/) | Legal and Compliance Intern Pipeline | Jax 347, FL +2 | Paid | Sep 29 | [Apply](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Legal-and-Compliance--FIS-University-Program_JR0309694) |
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, Voting Rights Project | Hybrid-New York City +1 |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8853159002) |

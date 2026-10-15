@@ -1,6 +1,6 @@
 # Biology: Summer 2027 Internships
 
-16 open Summer 2027 biology roles, newest first (all 16). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 148 biology internships on InternScout](https://internscout.org/internships/biology/)
+15 open Summer 2027 biology roles, newest first (all 15). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 148 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -16,7 +16,6 @@
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Pharmacy Intern – Emerging Therapies and Health Outcomes | Detroit, MI |  | Sep 22 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14836) |
 | [Gilead Sciences](https://internscout.org/internships/at/gilead-sciences/) | Intern - PDM - Manufacturing (Biologics) | United States - California - Foster City |  | Sep 16 | [Apply](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---PDM---Manufacturing--Biologics-_R0054750) |
 | [Marsh](https://internscout.org/internships/at/marsh/) | Oliver Wyman - 2027 MBA Summer Associate - Health & Life Sciences | New York - 1166 |  | Sep 19 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Oliver-Wyman---2027-MBA-Summer-Associate---Health---Life-Sciences_R_363378) |
-| [Cigna Group](https://internscout.org/internships/at/cigna-group/) | Pharmacy Underwriting Summer Internship Program | Morris Plains, NJ +1 | \$25 / hr | Sep 18 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Pharmacy-Underwriting-Summer-Internship-Program_26009219) |
 | [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Microbiology Intern, Summer 2027 | Orrville, OH |  | Sep 18 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Microbiology-Intern--Summer-2027_115676) |
 | [Alcon](https://internscout.org/internships/at/alcon/) | 2027 Chemistry, Materials & Life Sciences Interns | Fort Worth, Texas +4 |  | Sep 18 | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2027-Chemistry--Materials---Life-Sciences-Interns_R-2026-49482) |
 | [McKesson](https://internscout.org/internships/at/mckesson/) | Pharmacy Solutions Intern - Summer 2027 | USA, TX | \$17.33 - \$28.88 | Sep 18 | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Pharmacy-Solutions-Intern---Summer-2027_JR0152252) |

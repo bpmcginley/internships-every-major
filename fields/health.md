@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Hotels and Hospitality Summer 2027 Internship - Miami, FL | Miami, FL |  | Oct 15 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Miami-FL/Hotels-and-Hospitality-Summer-2027-Internship---Miami--FL_REQ542763) |
 | [Medline](https://internscout.org/internships/at/medline/) | Healthcare Customer Service Intern - Summer 2027 | Dubuque, Iowa | \$16.50 - \$24.00 Hour | Oct 15 | [Apply](https://medline.wd5.myworkdayjobs.com/Medline/job/Dubuque-Iowa/Healthcare-Customer-Service-Internship---Summer-2027_R2616839) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Healthcare Real Estate (New York, NY) | New York, New York | \$22.44 | Oct 15 | [Apply](https://firstcitizens.jibeapply.com/jobs/35872) |
 | [Cigna Group](https://internscout.org/internships/at/cigna-group/) | Healthcare Analytics Summer Intern - Morris Plains, NJ - Start Date: May 24, 2027 | Morris Plains, NJ | \$26.00 | Oct 15 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Morris-Plains--NJ---Start-Date--May-24--2027_26009483) |
@@ -34,7 +35,6 @@
 | [Medpace](https://internscout.org/internships/at/medpace/) | Summer 2027 Clinical Trials Feasibility & Proposals Internship | Cincinnati, Ohio |  | Sep 17 | [Apply](https://careers.medpace.com/jobs/13001) |
 | [Merck](https://internscout.org/internships/at/merck/) | Quality Assurance Research Clinical Quality, Analytics & AI Co-op | Upper Gwynedd Township, PA +1 |  | Sep 11 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---QA-Research-Clinical-Quality--Analytics---AI---Co-Op_R414840) |
 | [Medpace](https://internscout.org/internships/at/medpace/) | Clinical Informatics Intern | Cincinnati, OH +1 |  | Sep 8 | [Apply](https://careers.medpace.com/jobs/12988?icims=1) |
-| BlueCross BlueShield of Nebraska | Healthcare Reimbursement Analytics Intern - Summer 2027 | Omaha, NE |  | Sep 8 | [Apply](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Healthcare-Reimbursement-Analytics-Intern---Summer-2027_JR101410) |
 | [Medpace](https://internscout.org/internships/at/medpace/) | Python Intern - Summer 2027 | Cincinnati, OH |  | Aug 24 | [Apply](https://careers.medpace.com/jobs/12962?icims=1) |
 | Edwards Lifesciences | Clinical & Regulatory Internship, Summer 2027 | USA IRV-1442 Alton/MIC | \$54,000 to \$72,000 | Oct 10 | [Apply](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA-IRV-1442-AltonMIC/Clinical---Regulatory-Internship--Summer-2027_Req-49745) |
 | [Momentive](https://internscout.org/internships/at/momentive/) | Summer 2027 Intern - Healthcare Marketing | Niskayuna, NY | \$22.00 - \$26.00 | Sep 18 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Healthcare-Marketing_R9733) |
