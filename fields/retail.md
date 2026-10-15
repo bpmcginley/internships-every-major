@@ -1,9 +1,11 @@
 # Retail: Summer 2027 Internships
 
-173 open Summer 2027 retail roles, newest first (all 173). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 238 retail internships on InternScout](https://internscout.org/internships/retail/)
+174 open Summer 2027 retail roles, newest first (all 174). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 239 retail internships on InternScout](https://internscout.org/internships/retail/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| TJX | Retail Management Internship (Stores) \| Brea, CA - Summer 2027 | Brea, CA 92821 |  | Oct 15 | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Brea-CA-92821/Retail-Management-Internship--Stores----Brea--CA---Summer-2027_REQ168326) |
+| TJX | Retail Management Internship (Stores) \| Scottsdale, AZ - Summer 2027 | Scottsdale, AZ 85258 |  | Oct 15 | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Scottsdale-AZ-85258/Retail-Management-Internship--Stores----Phoenix--AZ---Summer-2027_REQ155218) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694360101507762485) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Recommendation Video | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694362230074673461) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Recommendation Live | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694360097210861829) |
@@ -77,7 +79,6 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Backend Software Engineer Intern, Global E-Commerce | San Jose, CA +1 |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7668834837268138293) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - Data Search Recommendation Global E-Commerce | Seattle, WA |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7668383643375257909) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Data Architecture - E-commerce | Seattle, WA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7668582146236631349) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Merchandising | Baltimore, MD |  | Oct 14 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Merchandising-MD-21230/1434378900/) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Retail Store Management Internship Summer 2027 - Philadelphia | PA - Philadelphia +16 | \$20-\$22 per hour | Oct 10 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Philadelphia/Retail-Store-Management-Internship-Summer-2027---Philadelphia_R1022289) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Retail Store Management Internship Summer 2027 - Baltimore | MD - Baltimore +1 | \$20-\$22 per hour | Oct 10 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MD---Baltimore/Retail-Store-Management-Internship-Summer-2027---Baltimore_R1016437) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Retail Store Management Internship Summer 2027 - Washington DC | DC - Washington +1 | \$20-\$22 per hour | Oct 10 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/DC---Washington/Retail-Store-Management-Internship-Summer-2027---Washington-DC_R1028868) |

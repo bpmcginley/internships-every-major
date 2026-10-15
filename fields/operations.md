@@ -1,9 +1,14 @@
 # Operations: Summer 2027 Internships
 
-323 open Summer 2027 operations roles, newest first (the 200 newest of 323). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 801 operations internships on InternScout](https://internscout.org/internships/operations/)
+321 open Summer 2027 operations roles, newest first (the 200 newest of 321). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 801 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Technology Project Management | Berwyn, PA |  | Oct 15 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Berwyn-PA/XMLNAME-2027-Summer-Internship---Technology-Project-Management_R-104142-2) |
+| [Q2](https://internscout.org/internships/at/q2/) | 2027 Summer Internship - Product Operations | Austin, Texas |  | Oct 15 | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Product-Operations_REQ-12904-1) |
+| [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Business Continuity of Operations | Berwyn, PA |  | Oct 15 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Berwyn-PA/XMLNAME-2027-Summer-Internship---Business-Continuity-of-Operations_R-104141) |
+| [Draper](https://internscout.org/internships/at/draper/) | Operations Engineering Intern (Summer 2027) | Cambridge, MA |  | Oct 15 | [Apply](https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Operations-Engineering-Intern--Summer-2027-_JR003037) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Quality Assurance Intern (Summer 2027) | Cheshire, CT | Paid | Oct 15 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-CHESHIRE-250--250-Knotter-Dr--GOODRICH-CORP/Quality-Assurance-Intern--Summer-2027-_01882553) |
 | [Meijer](https://internscout.org/internships/at/meijer/) | Indirect Procurement Intern- Summer 2027 | Grand Rapids, MI |  | Oct 15 | [Apply](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Indirect-Procurement-Intern--Summer-2027_R000700263) |
 | [Assurant](https://internscout.org/internships/at/assurant/) | Summer 2027 Intern: Assurant Claims Operations Intern | Georgia Virtual +1 |  | Oct 14 | [Apply](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Georgia-Virtual/Summer-2027-Intern--Assurant-Claims-Operations-Intern_R-115960) |
 | [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Strategic Business Operations Summer Intern | Titusville, New Jersey, United States of America +2 |  | Oct 14 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Strategic-Business-Operations-Summer-Intern_R-103514) |
@@ -169,8 +174,6 @@
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | Eagan, Minnesota +6 | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36106) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Crypto Inventory Operations Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Institutional Operations Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) |
-| [Spirit AeroSystems](https://internscout.org/internships/at/spirit-aerosystems/) | Boeing - Wichita Summer 2027 Internship Program (Paid) - Facilities Project Management & Long-Range Planning | Wichita, Kansas |  | Sep 8 | [Apply](https://careers.spiritaero.com/jobs/17512) |
-| [Spirit AeroSystems](https://internscout.org/internships/at/spirit-aerosystems/) | Boeing - Wichita Summer 2027 Internship Program (Paid) - Business Operations | Wichita, Kansas |  | Sep 8 | [Apply](https://careers.spiritaero.com/jobs/17506) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Technical Operations Internship - Middletown, PA (ASSOCIATE'S DEGREE ONLY) | Middletown, Pennsylvania | Paid | Sep 8 | [Apply](https://jobs.constellationenergy.com/jobs/138597) |
 | [Spirit AeroSystems](https://internscout.org/internships/at/spirit-aerosystems/) | Spirit Defense - Summer 2027 Internship Program (Paid) - Operations Engineering - Manufacturing & Industrial Engineering | Wichita, Kansas |  | Sep 8 | [Apply](https://careers.spiritaero.com/jobs/17487) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Procurement | Detroit, MI |  | Sep 8 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14726) |
@@ -201,9 +204,6 @@
 | [Freddie Mac](https://internscout.org/internships/at/freddie-mac/) | Technology Intern - Enterprise Operations + Technology | McLean, VA |  | Aug 24 | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/EO-T-Technology-Intern--Summer-2027_JR17542) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program – Office of the COO (Pittsburgh, PA) | Pittsburgh, PA |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81245) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program – Office of the COO (Houston, TX) | Houston, TX |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81257) |
-| [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program – Office of the COO (New York, NY) | New York, NY |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81261) |
-| [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program – Office of the COO (Lake Mary, FL) | Lake Mary, FL |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81255) |
-| [Rheem](https://internscout.org/internships/at/rheem/) | Operations Intern - Summer 2027 | Dayton, OH |  | Aug 24 | [Apply](https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4334) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

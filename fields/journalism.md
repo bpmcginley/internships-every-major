@@ -1,10 +1,10 @@
 # Journalism: Summer 2027 Internships
 
-20 open Summer 2027 journalism roles, newest first (all 20). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 61 journalism internships on InternScout](https://internscout.org/internships/journalism/)
+20 open Summer 2027 journalism roles, newest first (all 20). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 60 journalism internships on InternScout](https://internscout.org/internships/journalism/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Intern - Marketing, Communications, Journalism Majors | Chicago, IL | \$20 to \$33, | Oct 1 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern---Marketing--Communications--Journalism-Majors_R-0000033618-1) |
+| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Intern - Marketing, Communications, Journalism Majors | Chicago, IL |  | Oct 1 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern---Marketing--Communications--Journalism-Majors_R-0000033618-1) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX News Media Internship Program - New York | New York, New York, USA |  | Oct 1 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---New-York_R50033989) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX News Media Internship Program - FOX Weather | New York, New York, USA |  | Sep 28 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---FOX-Weather_R50033961) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX News Media Internship Program - Data Analytics - New York | New York, New York, USA |  | Sep 28 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50033981) |

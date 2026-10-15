@@ -1,6 +1,6 @@
 # Math: Summer 2027 Internships
 
-44 open Summer 2027 math roles, newest first (all 44). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 73 math internships on InternScout](https://internscout.org/internships/math/)
+43 open Summer 2027 math roles, newest first (all 43). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 72 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -30,7 +30,6 @@
 | [Centene](https://internscout.org/internships/at/centene/) | Actuarial Summer 2027 Intern (Undergraduate) | Remote-MO | \$21.00 - \$26.00 per hour | Sep 18 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Actuarial-Summer-2027-Intern--Undergraduate-_1660519) |
 | [AIG](https://internscout.org/internships/at/aig/) | 2027 Early Careers: Summer Intern, Actuarial – United States, Multiple Locations | NY-New York +4 |  | Sep 18 | [Apply](https://aig.wd1.myworkdayjobs.com/early_careers/job/NY-New-York/XMLNAME-2027-Early-Careers--Summer-Intern--Actuarial---United-States--Multiple-Locations_JR2603637) |
 | [Excellus BCBS](https://internscout.org/internships/at/excellus-bcbs/) | College Intern - Summer 2027- Actuarial (Multiple Openings!) | Buffalo +2 | Paid | Sep 17 | [Apply](https://lthc.wd1.myworkdayjobs.com/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027--Actuarial--Multiple-Openings--_JR104038) |
-| [Protective Life](https://internscout.org/internships/at/protective-life/) | 2027 Actuarial Summer Internship Program | Birmingham, AL |  | Sep 8 | [Apply](https://jobs.lever.co/protective/7b33ba4a-e8f9-4f69-aad3-4e0d0028597d/apply) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | Data Analytics Intern - Data Science - Applied Math | Pomona, CA +1 |  | Sep 1 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-%28PomonaRosemead%29-CA-91770/1425207700/?ats=successfactors) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Data Analytics/Science/Applied Math- Santa Ana/Westminster/Irvine/Fullerton | Westminster, CA +3 |  | Sep 1 | [Apply](https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425178600/) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Statistical Programming - California | Irvine, California +1 |  | Sep 1 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Irvine-California/Summer-2027-Internship---Statistical-Programming---California_R572769) |

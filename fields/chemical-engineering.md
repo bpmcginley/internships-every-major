@@ -1,6 +1,6 @@
 # Chemical Engineering: Summer 2027 Internships
 
-58 open Summer 2027 chemical engineering roles, newest first (all 58). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 181 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+58 open Summer 2027 chemical engineering roles, newest first (all 58). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 185 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -17,7 +17,6 @@
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | 2027 Summer Intern - Process Engineer - BS/MS Degree (Santa Clara, CA) | Santa Clara,CA | Paid | Oct 9 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Process-Engineer---BS-MS-Degree--Santa-Clara--CA-_R2629424) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | 2027 Summer Intern - Process Engineer - PhD, (Santa Clara) | Santa Clara,CA | Paid | Oct 9 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Process-Engineer---PhD---Santa-Clara-_R2629425) |
 | [Ingredion](https://internscout.org/internships/at/ingredion/) | Process Engineering Intern (Summer 2027) - Cedar Rapids, IA | Cedar Rapids, IA |  | Oct 8 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Cedar-Rapids-IA/Process-Engineering-Intern--Summer-2027----Cedar-Rapids--IA_Req-40429-1) |
-| [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Plant Process Engineer Intern - Summer 2027 | Macomb, IL +1 |  | Oct 8 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253203) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Process Engineering Intern - Summer 2027 - Decherd, TN | Decherd, Tennessee - United States of America +1 |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Process-Engineering-Intern---Summer-2027---Decherd--TN_R00214742) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Cell & Process Engineering Intern | De Soto, Kansas +1 |  | Oct 6 | [Apply](https://careers.na.panasonic.com/jobs/51567) |
 | [Primient](https://internscout.org/internships/at/primient/) | Process Engineering Intern - Summer 2027 | Decatur, IL +1 | \$1,500 to \$3,000 | Oct 2 | [Apply](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Decatur-IL/Process-Engineering-Intern---Summer-2027_JREQ7048) |
@@ -37,6 +36,7 @@
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Refining Chemical Engineering Intern/Co-op Summer 2027 | Findlay, Ohio +16 |  | Sep 15 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Refining-Chemical-Engineering-Intern-Co-op-Summer-2027_00024022) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Process Engineering Intern | Del Rio, TX |  | Sep 9 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119147) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Chemical Engineering Intern - Water (Summer 2027) | Houston, TX |  | Sep 1 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007432) |
+| [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Plant Process Engineer Intern - Summer 2027 | Sioux Center, IA |  | Sep 1 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253136) |
 | [Honeywell](https://internscout.org/internships/at/honeywell/) | Chemical Engineering - Summer 2027 Intern (US Person Required) | United States |  | Aug 25 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155526) |
 | [Honeywell](https://internscout.org/internships/at/honeywell/) | Chemical Engineering - Summer 2027 Intern | United States |  | Aug 25 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155524) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Chemical Engineering | Los Angeles, CA | \$30–\$40 per hour | Aug 20 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5376051008) |

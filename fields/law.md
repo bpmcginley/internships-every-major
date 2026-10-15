@@ -1,9 +1,10 @@
 # Law and Legal: Summer 2027 Internships
 
-116 open Summer 2027 law and legal roles, newest first (all 116). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 287 law and legal internships on InternScout](https://internscout.org/internships/law/)
+116 open Summer 2027 law and legal roles, newest first (all 116). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 288 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Governance, Risk and Compliance | Philadelphia, PA +1 |  | Oct 15 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Philadelphia-PA/XMLNAME-2027-Summer-Internship---Governance--Risk-and-Compliance_R-104143-2) |
 | [Jain Global](https://internscout.org/internships/at/jain-global/) | Compliance Technology Intern | NYC |  | Oct 14 | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Compliance-Technology-Intern_JR100607) |
 | [Centene](https://internscout.org/internships/at/centene/) | Contracts & Regulatory Intern (Healthcare Law Student Summer 2027) | Remote-MO | \$30.00-35.00/hour | Oct 14 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Contracts---Regulatory-Intern--Healthcare-Law-Student-Summer-2027-_1667771) |
 | Baker Tilly | Summer 2027 Compliance Advisory Intern | Albuquerque, NM |  | Oct 14 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-NM-Albuquerque/Summer-2027-Compliance-Advisory-Intern_JR108362) |
@@ -30,7 +31,7 @@
 | [International Rescue Committee (IRC)](https://internscout.org/internships/at/international-rescue-committee-irc/) | Immigration Legal Intern - UNPAID - Summer 2027 | Denver, CO USA |  | Oct 1 | [Apply](https://theirc.wd1.myworkdayjobs.com/External_Careers/job/Denver-CO-USA/Immigration-Legal-Intern---UNPAID---Summer-2027_JR00005325-1) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | Legal Intern (Summer 2027) | Remote | \$45/hour | Sep 30 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5253395007) |
 | [Internal Revenue Service](https://internscout.org/internships/at/internal-revenue-service/) | Summer Intern (Legal Administrative Specialist) | Birmingham, Alabama +45 | \$61722 - \$100315 Per Year | Sep 29 | [Apply](https://www.usajobs.gov:443/job/886742000) |
-| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Abandoned and Unclaimed Property Compliance | King of Prussia PA +1 |  | Sep 29 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/King-of-Prussia/Summer-2027-Intern--Abandoned-and-Unclaimed-Property-Compliance_R0020714) |
+| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Abandoned and Unclaimed Property Compliance | King of Prussia PA +1 |  | Sep 29 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/King-of-Prussia/Summer-2027-Intern--Abandoned-and-Unclaimed-Property-Compliance_R0020714-1) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Commercial Agreements Legal Intern (2027 Summer) | USA - Vermont - Essex Junction |  | Sep 29 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Commercial-Agreements-Legal-Intern--2027-Summer-_JR-2604244) |
 | [Fidelity National Information Services](https://internscout.org/internships/at/fidelity-national-information-services/) | Legal and Compliance Intern Pipeline | Jax 347, FL +2 | Paid | Sep 29 | [Apply](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Legal-and-Compliance--FIS-University-Program_JR0309694) |
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, Voting Rights Project | Hybrid-New York City +1 |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8853159002) |
@@ -119,7 +120,6 @@
 | [Shure](https://internscout.org/internships/at/shure/) | Global Compliance Engineering Intern | Niles, IL |  | Sep 18 | [Apply](https://careersus-shure.icims.com/jobs/4986/global-compliance-engineering-intern/job) |
 | [Alliance Laundry Systems](https://internscout.org/internships/at/alliance-laundry-systems/) | Regulatory Compliance Intern | Ripon, WI |  | Sep 18 | [Apply](https://uscareeropenings-alliancelaundry.icims.com/jobs/13135/regulatory-compliance-intern/job) |
 | [Huntington Bancshares](https://internscout.org/internships/at/huntington-bancshares/) | Summer 2027 Law Clerk Internship | Columbus, OH |  | Sep 18 | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Legal-Internship_R0075231) |
-| [POET](https://internscout.org/internships/at/poet/) | Animal Food Safety & Regulatory Intern - Summer 2027 | Sioux Falls, SD |  | Sep 18 | [Apply](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Animal-Food-Safety---Regulatory-Intern---Summer-2027_R101694-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

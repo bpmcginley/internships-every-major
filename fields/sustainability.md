@@ -1,9 +1,12 @@
 # Sustainability: Summer 2027 Internships
 
-81 open Summer 2027 sustainability roles, newest first (all 81). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 121 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+83 open Summer 2027 sustainability roles, newest first (all 83). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 124 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Clean Energy Business Intern | Washington, DC +2 |  | Oct 15 | [Apply](https://careers-nrdc.icims.com/jobs/6072/summer-2027-clean-energy-business-intern/job) |
+| [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern, Capital Projects, Summer 2027 | The Woodlands, Texas |  | Oct 15 | [Apply](https://jobs.entergy.com/job/The-Woodlands-Student%2C-Intern%2C-Capital-Projects%2C-Summer-2027-Texa/1440487600/) |
+| [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering (Renewables) Intern - Summer 2027 | Cincinnati, OH +2 |  | Oct 15 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97670) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | BIM Technician Intern - Buildings (Summer 2027) | Denver, CO +5 |  | Oct 15 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008294) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Transportation Roadway Intern (Summer 2027) | Cincinnati, OH +4 |  | Oct 14 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007531) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Climate & Health Intern | Chicago, IL +1 |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6064/summer-2027-climate-%26-health-intern/job) |
@@ -61,7 +64,6 @@
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern -Permitting | HOUSTON, Texas |  | Sep 2 | [Apply](https://careers.kindermorgan.com/jobs/6174) |
 | Tarrant Regional Water District | Summer 2027 Energy Intern (T047) | Fort Worth, TX | \$18.54 - \$27.82 per hour | Sep 1 | [Apply](https://trwd.wd1.myworkdayjobs.com/TRWDCareers/job/Fort-Worth-TX/Summer-2027-Energy-Intern--T047-_JR100217) |
 | [Springs Window Fashions](https://internscout.org/internships/at/springs-window-fashions/) | Sustainability Data and Marketing Specialist Internship - Summer 2027 | LONG ISLAND CITY, NY | \$23.00/hr | Aug 22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12896/sustainability-data-and-marketing-specialist-internship---summer-2027/job) |
-| WEC Energy Group | Renewables Data Analytics Intern | Milwaukee, WI +1 |  | Aug 14 | [Apply](https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Intern-Renewables-Data-Analytics-WI-53203/1419740100/?ats=successfactors) |
 | [Mortenson](https://internscout.org/internships/at/mortenson/) | Sustainability Intern | Denver, CO |  | Aug 10 | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23367) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Clean Energy Research Intern | Washington, DC |  | Oct 14 | [Apply](https://careers-nrdc.icims.com/jobs/6055/summer-2027-clean-energy-research-intern/job) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Climate Mobility Intern | Washington, DC |  | Oct 14 | [Apply](https://careers-nrdc.icims.com/jobs/6063/summer-2027-climate-mobility-intern/job) |

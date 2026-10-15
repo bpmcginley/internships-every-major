@@ -1,9 +1,10 @@
 # Hospitality: Summer 2027 Internships
 
-18 open Summer 2027 hospitality roles, newest first (all 18). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 66 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
+18 open Summer 2027 hospitality roles, newest first (all 18). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 68 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Royal Caribbean Group | Intern, Guest Travel Services (Summer 2027) | Miramar, FL |  | Oct 15 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miramar-Intern%2C-Guest-Travel-Services-%28Summer-2027%29-FL-33132/1440504600/) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - Meeting & Event Management | Toronto, Ontario | \$40,950 | Oct 8 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Meeting---Event-Management_JR26081286) |
 | [Baird](https://internscout.org/internships/at/baird/) | Internship – Hospitality (Louisville, KY Summer 2027) | KY-Louisville |  | Oct 2 | [Apply](https://baird.wd1.myworkdayjobs.com/careers/job/KY-Louisville/Internship---Hospitality--Louisville--KY-Summer-2027-_R20261112-1) |
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Hotel Franchise Finance | Phoenix, AZ |  | Sep 28 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Hotel-Franchise-Finance_R13954) |
@@ -16,7 +17,6 @@
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Biomechanics | Baltimore, MD |  | Oct 15 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Biomechanics-MD-21230/1434382000/) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Marketing & Events Internship - Summer 2027 | Reston, VA |  | Oct 8 | [Apply](https://uscareers-idemia.icims.com/jobs/8676/marketing-%26-events-internship---summer-2027/job) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Product Line Management | Baltimore, MD |  | Sep 28 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Product-Line-Management-MD-21230/1434387800/) |
-| [Hyatt](https://internscout.org/internships/at/hyatt/) | 2027 Summer:Hotel Operations Internship - Hyatt Regency Minneapolis | Minneapolis, MN |  | Sep 23 | [Apply](https://hyatt.taleo.net/careersection/10780/jobdetail.ftl?job=MIN002934) |
 | [Hy-Vee](https://internscout.org/internships/at/hy-vee/) | Events Intern - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA |  | Sep 18 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Events-Intern---Summer-2027_R251696) |
 | [Hyatt](https://internscout.org/internships/at/hyatt/) | Summer 2027 - Food and Beverage Corporate Internship Program | United States | \$17.00 to \$21.00 per hour | Sep 18 | [Apply](https://hyatt.taleo.net/careersection/10780/jobdetail.ftl?job=UNI002289) |
 | [Hyatt](https://internscout.org/internships/at/hyatt/) | Summer 2027 - Events Corporate Internship Program | United States | \$17.00 to \$21.00 per hour | Sep 18 | [Apply](https://hyatt.taleo.net/careersection/10780/jobdetail.ftl?job=UNI002286) |

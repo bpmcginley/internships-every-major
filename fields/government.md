@@ -1,9 +1,11 @@
 # Government and Public Policy: Summer 2027 Internships
 
-55 open Summer 2027 government and public policy roles, newest first (all 55). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 284 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+57 open Summer 2027 government and public policy roles, newest first (all 57). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 290 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - Industry Outreach | Dallas, TX |  | Oct 15 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Industry-Outreach_R-0000033713) |
+| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - Windows | Dallas, TX |  | Oct 15 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Windows_R-0000033715) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - LBO/SIO/QOS | Dallas, TX |  | Oct 14 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---LBO-SIO-QOS_R-0000033712) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - P&C Generalist | Dallas, TX |  | Oct 14 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---P-C-Generalist_R-0000033574) |
 | [Guidehouse](https://internscout.org/internships/at/guidehouse/) | Intern – State and Local Government – Campus 2027 | US - MA +13 | \$59,000.00-\$98,000.00 | Oct 14 | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MA-Boston/Intern---State-and-Local-Government---Campus-2027_44623) |

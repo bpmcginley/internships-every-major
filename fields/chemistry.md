@@ -1,6 +1,6 @@
 # Chemistry: Summer 2027 Internships
 
-15 open Summer 2027 chemistry roles, newest first (all 15). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 36 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
+14 open Summer 2027 chemistry roles, newest first (all 14). **Updated October 15, 2026.** [Back to every major](../README.md) · [See all 36 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -8,7 +8,6 @@
 | [Sanofi](https://internscout.org/internships/at/sanofi/) | 2027 Summer Intern Medicinal Chemistry Cambridge MA | Cambridge, MA | Paid | Oct 12 | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-Medicinal-Chemistry-Cambridge-MA_R2865704-1) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | PhD Research Intern, Quantum and AI for Chemistry - 2027 | Canada, Toronto +1 |  | Oct 12 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997) |
 | [Haleon](https://internscout.org/internships/at/haleon/) | 2027 Summer Intern: Product Chemistry and Modeling | USA - Virginia - Richmond |  | Oct 9 | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---Virginia---Richmond/XMLNAME-2027-Summer-Intern--Product-Chemistry-and-Modeling_548427) |
-| [Momentive](https://internscout.org/internships/at/momentive/) | Summer 2027 Intern-Intern for Product Development Lab (Chemistry) | Waterford, NY |  | Oct 6 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/Summer-2027-Intern-Intern-for-Product-Development-Lab--Chemistry-_R9810) |
 | [Momentive](https://internscout.org/internships/at/momentive/) | Summer 2027 Intern - Analytical Chemist | Waterford, NY | \$22.00 - \$26.00 | Sep 28 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/Summer-2027-Intern---Analytical-Chemist_R9765) |
 | LabCorp | Commercial Analytics Intern - ED/Chemistry Solutions Commercial Analytics Team | Remote +1 |  | Sep 24 | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/USA----WI---Milwaukee---3727-W-Wisconsin-Avenue/Intern---Commercial-Analytics_2633615) |
 | [ABB](https://internscout.org/internships/at/abb/) | Chemist/Chemical Engineer Intern - Summer 2027 | Bartlesville, Oklahoma, United States of America |  | Sep 23 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bartlesville-Oklahoma-United-States-of-America/Chemist-Chemical-Engineer-Intern---Summer-2027_JR00047103-1) |
