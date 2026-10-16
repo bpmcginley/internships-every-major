@@ -1,10 +1,11 @@
 # Aerospace Engineering: Summer 2027 Internships
 
-31 open Summer 2027 aerospace engineering roles, newest first (all 31). **Updated October 16, 2026.** [Back to every major](../README.md) · [See all 68 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
+32 open Summer 2027 aerospace engineering roles, newest first (all 32). **Updated October 16, 2026.** [Back to every major](../README.md) · [See all 69 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Inversion Space](https://internscout.org/internships/at/inversion-space/) | Avionics Embedded Software Engineer Intern | Playa Vista, LA +1 |  | Oct 16 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4744391005) |
+| [CACI](https://internscout.org/internships/at/caci/) | Aerospace Engineer Intern - Summer 2027 | Aberdeen Proving Ground, MD, US | \$43,900 - 87,900 | Oct 16 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Aberdeen-Proving-Ground-MD-US/Aerospace-Engineer-Intern---Summer-2027_333570) |
 | [Inversion Space](https://internscout.org/internships/at/inversion-space/) | Avionics Mechanical Engineer - Summer Internship 2027 | Playa Vista, California, United States |  | Oct 15 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4744390005) |
 | [Axiom Space](https://internscout.org/internships/at/axiom-space/) | Mechanical/Aerospace Engineering Intern (Summer 2027) | Houston |  | Oct 15 | [Apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Mechanical-Aerospace-Engineering-Intern--Summer-2027-_JR100766) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Flight Test Engineer Intern | Costa Mesa, California, United States |  | Oct 14 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007) |

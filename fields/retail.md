@@ -1,6 +1,6 @@
 # Retail: Summer 2027 Internships
 
-178 open Summer 2027 retail roles, newest first (all 178). **Updated October 16, 2026.** [Back to every major](../README.md) · [See all 241 retail internships on InternScout](https://internscout.org/internships/retail/)
+176 open Summer 2027 retail roles, newest first (all 176). **Updated October 16, 2026.** [Back to every major](../README.md) · [See all 239 retail internships on InternScout](https://internscout.org/internships/retail/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -26,7 +26,6 @@
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | eCommerce Data Analytics Intern - The Toro Company | Bloomington, MN |  | Sep 29 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/eCommerce-Data-Analytics-Intern---The-Toro-Company_JR17458) |
 | [Huntington Bancshares](https://internscout.org/internships/at/huntington-bancshares/) | Summer 2027 Retail Banking Internship | Columbus, OH |  | Sep 29 | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/XMLNAME-2027-Summer-Retail-Banking-Internship_R0075658) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | E-Commerce Analytics & Web Intern, Summer 2027 | North Andover, MA |  | Sep 29 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/B2C-E-Commerce-Analytics---Website-Intern--Summer-2027_10017536) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Merchandising | Baltimore, MD |  | Sep 28 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Merchandising-MD-21230/1434378900/) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Design (Apparel and Footwear) | Baltimore, MD |  | Sep 28 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Design-%28Apparel-and-Footwear%29-MD-21230/1434389000/) |
 | [Polaris](https://internscout.org/internships/at/polaris/) | Technical Apparel/Gear Internship \| Summer 2027 \| Klim & 509 | Rigby, ID, USA |  | Sep 24 | [Apply](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Rigby-ID-USA/Technical-Apparel-Gear-Internship---Summer-2027---Klim---509_R31300-1) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Amazon & E-Commerce Marketplace Intern, Summer 2027 | North Andover, MA |  | Sep 24 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Amazon---E-Commerce-Marketplace-Intern--Summer-2027_10017535) |
@@ -56,7 +55,6 @@
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship, Store Management - Houston Market | Houston, TX |  | Sep 16 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/91999) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship, Store Management - Atlanta Market | Atlanta, GA |  | Sep 16 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92010) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship, Store Management - Phoenix Market | Phoenix, AZ |  | Sep 16 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92013) |
-| [Lowe's](https://internscout.org/internships/at/lowe-s/) | Store Operations Corporate Facilities Intern | Mooresville, NC |  | Sep 16 | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Operations-Corporate-Facilities---Undergrad-Internship---Summer-2027_JR-02650834-1) |
 | [Walmart](https://internscout.org/internships/at/walmart/) | Corporate Intern: 2027 Summer Intern: Walmart Merchandising - Fashion | (USA) Hula Building Bentonville AR Home Office |  | Sep 16 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Hula-Building-Bentonville-AR-Home-Office/Corporate-Intern--2027-Summer-Intern--Walmart-Merchandising---Fashion_R-2630172-1) |
 | [Lowe's](https://internscout.org/internships/at/lowe-s/) | Merchandising Analyst Intern | Mooresville, NC |  | Sep 15 | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Merchandising-Analyst---Undergrad-Internship---Summer-2027_JR-02650526) |
 | [URBN](https://internscout.org/internships/at/urbn/) | FP Movement Summer 2027 Apparel Design Intern | Philadelphia, PA | Paid | Sep 14 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/31334/fp-movement-summer-2027-apparel-design-intern/job) |

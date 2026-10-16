@@ -1,11 +1,12 @@
 # Hardware Engineering: Summer 2027 Internships
 
-188 open Summer 2027 hardware engineering roles, newest first (all 188). **Updated October 16, 2026.** [Back to every major](../README.md) · [See all 548 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+189 open Summer 2027 hardware engineering roles, newest first (all 189). **Updated October 16, 2026.** [Back to every major](../README.md) · [See all 552 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Inversion Space](https://internscout.org/internships/at/inversion-space/) | Avionics Embedded Software Engineer Intern | Playa Vista, LA +1 |  | Oct 16 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4744391005) |
 | [Together AI](https://internscout.org/internships/at/together-ai/) | Hardware Security Engineer Intern (Summer 2027) | San Francisco |  | Oct 16 | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5238469007) |
+| [Nissan](https://internscout.org/internships/at/nissan/) | Robotics Programmer Intern - Summer 2027 - Smyrna, TN | Smyrna, Tennessee - United States of America |  | Oct 16 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Robotics-Programmer-Intern---Summer-2027---Smyrna--TN_R00214302) |
 | [onsemi](https://internscout.org/internships/at/onsemi/) | Semiconductor AI Specialist Intern | Gresham, OR |  | Oct 14 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506918) |
 | [Formlabs](https://internscout.org/internships/at/formlabs/) | Hardware Systems Integration Intern | Somerville, MA | Paid | Oct 14 | [Apply](https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | Firmware Engineer Intern | Costa Mesa, CA +1 | Paid | Oct 14 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265158007) |
@@ -47,7 +48,7 @@
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Electrical Engineering Intern - FPGA | El Segundo, CA +1 |  | Oct 3 | [Apply](https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply) |
 | [Arc](https://internscout.org/internships/at/arc/) | Electrical Hardware Engineering Intern | Torrance, CA |  | Oct 2 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008) |
 | [Lyft](https://internscout.org/internships/at/lyft/) | Hardware Field Quality Engineer Intern (Summer 2027) | Longueuil, Canada |  | Oct 2 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002) |
-| Hitachi Energy | Hardware Test Engineering Intern | Toronto, ON, Canada |  | Oct 2 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) |
+| [Hitachi](https://internscout.org/internships/at/hitachi/) | Hardware Test Engineering Intern (Summer 2027, 16months) | Toronto, Ontario, Canada +1 | Paid | Oct 2 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) |
 | [Space Dynamics Laboratory](https://internscout.org/internships/at/space-dynamics-laboratory/) | CVS: FPGA Electrical Engineer Intern | North Logan, UT |  | Oct 1 | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/SznZA6uzbW/CVS-FPGA-Electrical-Engineer-Intern) |
 | [CoStar Group](https://internscout.org/internships/at/costar-group/) | Embedded Software Engineering Intern | Sunnyvale (US) +1 |  | Oct 1 | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Firmware Engineer Intern - MS - Summer 2027 | Santa Clara, CA |  | Oct 1 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1) |

@@ -1,6 +1,6 @@
 # Media: Summer 2027 Internships
 
-29 open Summer 2027 media roles, newest first (all 29). **Updated October 16, 2026.** [Back to every major](../README.md) · [See all 100 media internships on InternScout](https://internscout.org/internships/media/)
+28 open Summer 2027 media roles, newest first (all 28). **Updated October 16, 2026.** [Back to every major](../README.md) · [See all 99 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -18,7 +18,6 @@
 | [Hearst](https://internscout.org/internships/at/hearst/) | Houston Chronicle Visuals Internship | Houston, TX |  | Sep 25 | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027533) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Audience Intern | Houston, TX |  | Sep 25 | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027541) |
 | [URBN](https://internscout.org/internships/at/urbn/) | Terrain Creative Video Editor Intern | Philadelphia, PA | Paid | Sep 23 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/30762/terrain-creative-video-editor-intern/job) |
-| [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Marketing-Creative Content Strategist | Bloomington, Illinois |  | Sep 23 | [Apply](https://jobs.statefarm.com/jobs/45505) |
 | [Bloomberg Industry Group](https://internscout.org/internships/at/bloomberg-industry-group/) | 2027 Summer News Internship: Graphics - Graphics/Data Visualization Journalist | Arlington, VA - 1801 S Bell (INDG) |  | Sep 23 | [Apply](https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington-VA---1801-S-Bell-INDG/XMLNAME-2027-Summer-News-Internship--Graphics---Graphics-Data-Visualization-Journalist_144776) |
 | [Bloomberg Industry Group](https://internscout.org/internships/at/bloomberg-industry-group/) | 2027 Summer News Internship - Video Journalist | Arlington, VA - 1801 S Bell (INDG) |  | Sep 23 | [Apply](https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington-VA---1801-S-Bell-INDG/XMLNAME-2027-Summer-News-Internship---Video-Journalist_144777) |
 | [URBN](https://internscout.org/internships/at/urbn/) | Anthropologie Creative Digital Design Intern | Philadelphia, PA | Paid | Sep 14 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/30763/anthropologie-creative-digital-design-intern/job) |

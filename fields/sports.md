@@ -1,10 +1,11 @@
 # Sports: Summer 2027 Internships
 
-7 open Summer 2027 sports roles, newest first (all 7). **Updated October 16, 2026.** [Back to every major](../README.md) · [See all 54 sports internships on InternScout](https://internscout.org/internships/sports/)
+8 open Summer 2027 sports roles, newest first (all 8). **Updated October 16, 2026.** [Back to every major](../README.md) · [See all 56 sports internships on InternScout](https://internscout.org/internships/sports/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Arc](https://internscout.org/internships/at/arc/) | Mechanical Engineering Intern - Recreational | Torrance, CA | \$36 per hour | Oct 7 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5445312008) |
+| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Team Sports/Sales | Baltimore, MD |  | Sep 28 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Team-SportsSales-MD-21230/1434355500/) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX Internship Program - Sports Production, New York | New York, New York, USA |  | Sep 28 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-Internship-Program---Sports-Production--New-York_R50033975) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX Sports Internship Program - Charlotte | Charlotte, North Carolina, USA |  | Sep 28 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Charlotte-North-Carolina-USA/Summer-2027-FOX-Sports-Internship-Program---Charlotte_R50033963) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX Sports Internship Program - Los Angeles | Los Angeles, California, USA |  | Sep 28 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Summer-2027-FOX-Sports-Internship-Program---Los-Angeles_R50033964) |
