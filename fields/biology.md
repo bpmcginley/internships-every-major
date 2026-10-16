@@ -1,9 +1,10 @@
 # Biology: Summer 2027 Internships
 
-15 open Summer 2027 biology roles, newest first (all 15). **Updated October 16, 2026.** [Back to every major](../README.md) · [See all 146 biology internships on InternScout](https://internscout.org/internships/biology/)
+16 open Summer 2027 biology roles, newest first (all 16). **Updated October 16, 2026.** [Back to every major](../README.md) · [See all 151 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Cigna Group](https://internscout.org/internships/at/cigna-group/) | Pharmacy Underwriting Summer Internship Program | Morris Plains, NJ +1 | \$25 / hr | Oct 16 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Pharmacy-Underwriting-Summer-Internship-Program_26009219) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Devens Biologics Summer 2027 Internship – Supply Chain | Devens - MA - US |  | Oct 14 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Devens---MA---US/Devens-Biologics-Summer-2027-Internship---Supply-Chain_R1606928) |
 | [Haleon](https://internscout.org/internships/at/haleon/) | 2027: Summer Intern: VCU School of Pharmaceutical Sciences Intern | USA - Virginia - Richmond |  | Oct 12 | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---Virginia---Richmond/XMLNAME-2027--Summer-Intern--VCU-School-of-Pharmaceutical-Sciences-Intern_548425) |
 | [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program – Drug Metabolism and Pharmacokinetics – Co-op | USA - California - South San Francisco (Grand Ave) | \$39,108 | Oct 12 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Drug-Metabolism-and-Pharmacokinetics---Co-op_R412928) |

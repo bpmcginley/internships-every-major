@@ -1,6 +1,6 @@
 # Law and Legal: Summer 2027 Internships
 
-118 open Summer 2027 law and legal roles, newest first (all 118). **Updated October 16, 2026.** [Back to every major](../README.md) · [See all 291 law and legal internships on InternScout](https://internscout.org/internships/law/)
+118 open Summer 2027 law and legal roles, newest first (all 118). **Updated October 16, 2026.** [Back to every major](../README.md) · [See all 292 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

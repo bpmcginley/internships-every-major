@@ -1,9 +1,11 @@
 # Operations: Summer 2027 Internships
 
-322 open Summer 2027 operations roles, newest first (the 200 newest of 322). **Updated October 16, 2026.** [Back to every major](../README.md) · [See all 787 operations internships on InternScout](https://internscout.org/internships/operations/)
+322 open Summer 2027 operations roles, newest first (the 200 newest of 322). **Updated October 16, 2026.** [Back to every major](../README.md) · [See all 790 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Uber Freight | TM Operations Intern - Summer 2027 | Chicago, IL 60607, United States +3 | Paid | Oct 16 | [Apply](https://job-boards.greenhouse.io/uberfreight/jobs/5443939008) |
+| Uber Freight | Finance Operations Intern - Summer 2027 | Chicago, IL 60607, United States +1 | Paid | Oct 16 | [Apply](https://job-boards.greenhouse.io/uberfreight/jobs/5437020008) |
 | Nutanix | Support Analytics & Operations Intern | Durham, NC +1 |  | Oct 16 | [Apply](https://jobs.jobvite.com/nutanix/job/oqjOAfwR?nl=1&nl=1&fr=false) |
 | [Axiom Space](https://internscout.org/internships/at/axiom-space/) | Mission Operations Engineering Intern (Summer 2027) | Houston |  | Oct 15 | [Apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Mission-Operations-Engineering-Intern--Summer-2027-_JR100765) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Project Management Intern - Kennett Square, PA | Kennett Square, Pennsylvania | Paid | Oct 15 | [Apply](https://jobs.constellationenergy.com/jobs/139996) |
@@ -26,7 +28,7 @@
 | [Uline](https://internscout.org/internships/at/uline/) | Packaging Project Management Internship | Pleasant Prairie, WI +4 | Paid | Oct 13 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Private-Label-Associate-Internship---Summer-2027_R265820) |
 | [ADT](https://internscout.org/internships/at/adt/) | Product Management & Product Operations Internship | Boca Raton, FL |  | Oct 12 | [Apply](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393) |
 | Corewell Health | Digital Services Development Support and Operations Internship | Grand Rapids, MI +2 |  | Oct 12 | [Apply](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Digital-Services-Development-Support-and-Operations-Internship-Summer-2027_R227468) |
-| American Family Insurance Group | Data Analyst Intern - Agency Performance, Insights and Operations | Madison, WI |  | Oct 12 | [Apply](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Data-Analyst-Intern---Agency-Performance--Insights-and-Operations_R39513) |
+| [American Family Insurance Group](https://internscout.org/internships/at/american-family-insurance-group/) | Data Analyst Intern - Agency Performance, Insights and Operations | Madison, WI |  | Oct 12 | [Apply](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Data-Analyst-Intern---Agency-Performance--Insights-and-Operations_R39513) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Program Operations (New York, NY; Boston, MA) | Albany, NY +2 | \$23 per hour | Oct 12 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Albany-NY/XMLNAME-2027-Summer-Intern--Program-Operations--New-York--NY--Upstate--NY--Boston--MA-_R2603470) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Program Operations (Atlanta, GA; South Carolina) | Atlanta, GA +2 | \$23 per hour | Oct 12 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Atlanta-GA/XMLNAME-2027-Summer-Intern--Program-Operations--Atlanta--GA--South-Carolina-_R2603472) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Program Operations (MD; VA; SC; GA) | Columbia, MD +3 | \$23 per hour | Oct 12 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Columbia-MD/XMLNAME-2027-Summer-Intern--Program-Operations--MD--VA--SC--GA-_R2603469) |
@@ -139,7 +141,6 @@
 | [POET](https://internscout.org/internships/at/poet/) | Procurement Intern - Summer 2027 | Sioux Falls, SD |  | Sep 17 | [Apply](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Procurement-Intern---Summer-2027_R101756) |
 | [Republic Airways](https://internscout.org/internships/at/republic-airways/) | Strategic Operations Intern | Carmel, IN |  | Sep 17 | [Apply](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Strategic-Operations-Intern---Summer-2027_JR-007635) |
 | AI Intern to the CEO | Data Operations Intern (Summer 2027) | Boston, Massachusetts +3 |  | Sep 16 | [Apply](https://jobs.ashbyhq.com/cyvl/f44bb1cf-7100-46f7-b3c2-6d2a566d4b0d/application) |
-| [NJM Insurance Group](https://internscout.org/internships/at/njm-insurance-group/) | Marketing Operations Intern | NJM - Trenton, NJ | Paid | Sep 16 | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Marketing-Operations-Intern_R2008287) |
 | [Momentive](https://internscout.org/internships/at/momentive/) | Summer 2027 Global Business Operations Partner Intern | Friendly, WV +1 |  | Sep 16 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Global-Business-Operations-Partner-Intern_R9898) |
 | [Emergent Holdings](https://internscout.org/internships/at/emergent-holdings/) | Summer 2027 Intern - Project/Portfolio/Operations | Detroit, MI |  | Sep 16 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14709) |
 | [ATC](https://internscout.org/internships/at/atc/) | Intern-Construction Project Management Summer 2027 | Pewaukee, WI +2 | \$21-23/hr | Sep 16 | [Apply](https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern-Construction-Project-Management-Summer-2027_R0003296) |
@@ -152,6 +153,7 @@
 | [Antares Nuclear](https://internscout.org/internships/at/antares-nuclear/) | Nuclear Operations & Licensing Engineering Intern - Summer 2027 | Idaho Falls +1 |  | Sep 14 | [Apply](https://jobs.ashbyhq.com/Antares/ec96a761-509f-44e9-90aa-e1fee5388aa1/application) |
 | [Antares Nuclear](https://internscout.org/internships/at/antares-nuclear/) | Business Operations Finance Intern - Summer 2027 | Los Angeles +1 |  | Sep 14 | [Apply](https://jobs.ashbyhq.com/Antares/9976c2a9-3667-4152-a4ea-affa8b637026/application) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Nuclear Human Resources Operations Intern (Lusby, MD) | Lusby, Maryland |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138707) |
+| [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Technology and Digital Quality Intern | Horsham, PA +1 |  | Sep 14 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/TDQ-Intern_R-098463) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Operations Automation Internship | West Dundee, Illinois +1 | Paid | Sep 14 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36205) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Nuclear Human Resources Operations Intern (Oswego, NY) | Oswego, New York |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138706) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Quality Programs Internship | Grand Rapids, Michigan | Paid | Sep 14 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36201) |
@@ -174,7 +176,6 @@
 | Fairlife | Continuous Improvement Intern (Summer 2027) | Coopersville, Michigan, United States |  | Sep 4 | [Apply](https://job-boards.greenhouse.io/fairlife/jobs/5231464007) |
 | [Schonfeld](https://internscout.org/internships/at/schonfeld/) | 2027 Core Operations Intern | Miami, Florida, United States |  | Sep 4 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8172070) |
 | [Schonfeld](https://internscout.org/internships/at/schonfeld/) | 2027 Cybersecurity Operations Intern | New York, New York, United States |  | Sep 4 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171696) |
-| [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027-BOLT Intern-Procurement (Fleet) | HOUSTON, Texas |  | Sep 4 | [Apply](https://careers.kindermorgan.com/jobs/6213) |
 | [DIRECTV](https://internscout.org/internships/at/directv/) | Customer Operations Intern | El Segundo, CA | \$25 - \$34 per hour | Sep 4 | [Apply](https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/Customer-Operations-Intern_R260273) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Food Safety & Quality Intern - Summer 2027 - Campus Recruiting (Multiple Locations) | Austin, MN +10 |  | Sep 4 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35738) |
 | [V2X](https://internscout.org/internships/at/v2x/) | Program Operations Intern, Summer 2027 | Indianapolis, Indiana | Paid | Sep 3 | [Apply](https://careers.gov2x.com/jobs/62785) |
@@ -203,7 +204,6 @@
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program – Office of the COO (Los Angeles, CA) | Los Angeles, CA |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81263) |
 | [Springs Window Fashions](https://internscout.org/internships/at/springs-window-fashions/) | Dealer Business Operations & Analytics Intern - Summer 2027 | Middleton, WI +1 |  | Aug 22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12886/job?mobile=true&needsRedirect=false) |
 | [Springs Window Fashions](https://internscout.org/internships/at/springs-window-fashions/) | Sales Operations Internship - Summer 2027 | LONG ISLAND CITY, NY | \$23.00/hr | Aug 22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12894/sales-operations-internship---summer-2027/job) |
-| [TikTok](https://internscout.org/internships/at/tiktok/) | Product Solutions and Operations Intern - Commerce Ads | San Jose, CA |  | Aug 14 | [Apply](https://lifeattiktok.com/search/7673340525029673221) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

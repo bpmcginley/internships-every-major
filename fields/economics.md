@@ -1,9 +1,10 @@
 # Economics: Summer 2027 Internships
 
-17 open Summer 2027 economics roles, newest first (all 17). **Updated October 16, 2026.** [Back to every major](../README.md) · [See all 45 economics internships on InternScout](https://internscout.org/internships/economics/)
+18 open Summer 2027 economics roles, newest first (all 18). **Updated October 16, 2026.** [Back to every major](../README.md) · [See all 46 economics internships on InternScout](https://internscout.org/internships/economics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Compass Lexecon | 2027 Analyst Interns - US | Washington, DC +3 | \$50.00 | Oct 16 | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Chicago---CL/XMLNAME-2027-Analyst-Interns---US_JR261385) |
 | [American Bankers Association](https://internscout.org/internships/at/american-bankers-association/) | Intern, Banking Policy and Economic Research | Main Office, DC +1 | \$25/hour | Oct 16 | [Apply](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Banking-Policy-and-Economic-Research_R625) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Academic Research Internship | Richmond, VA |  | Oct 15 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Richmond-VA/Summer-2027-Academic-Research-Internship_R-0000033215-1) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Economics Research Intern | Washington, DC |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6068/summer-2027-economics-research-intern/job) |
@@ -17,7 +18,7 @@
 | [The Brattle Group](https://internscout.org/internships/at/the-brattle-group/) | Energy Analyst Intern - Economics | Boston, MA +2 |  | Sep 18 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735999005) |
 | [The Brattle Group](https://internscout.org/internships/at/the-brattle-group/) | Energy Analyst Intern - Economics - Multiple Teams | Toronto, ON, Canada |  | Sep 18 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005) |
 | [The Brattle Group](https://internscout.org/internships/at/the-brattle-group/) | Research Analyst Intern (Economics) - Summer 2027 | New York, New York, United States | \$1,850.00 per week | Sep 18 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735674005) |
-| [The Brattle Group](https://internscout.org/internships/at/the-brattle-group/) | Research Analyst Intern (Economics & Finance) - Summer 2027 | New York, New York, United States +2 |  | Sep 18 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735518005) |
+| [The Brattle Group](https://internscout.org/internships/at/the-brattle-group/) | Research Analyst Intern (Economics & Finance) - Summer 2027 | New York, New York, United States |  | Sep 18 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735519005) |
 | [GM financial](https://internscout.org/internships/at/gm-financial/) | Intern - Economic Analysis | Fort Worth, TX |  | Sep 16 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260811) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Health Policy Analysis | Portland, ME | \$30 per hour | Oct 16, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3974/summer-2027-consulting-internship---health-policy-analysis/job) |
 | [Walmart](https://internscout.org/internships/at/walmart/) | Summer 2027 Corporate Intern: Economist | (USA) 121 HOBOKEN NJ HOBOKEN Home Office | \$25.00 - \$48.00 | Sep 18 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-121-HOBOKEN-NJ-HOBOKEN-Home-Office/Summer-2027-Corporate-Intern--Economist_R-2630169) |

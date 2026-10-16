@@ -1,15 +1,15 @@
 # Sales: Summer 2027 Internships
 
-202 open Summer 2027 sales roles, newest first (the 200 newest of 202). **Updated October 16, 2026.** [Back to every major](../README.md) · [See all 418 sales internships on InternScout](https://internscout.org/internships/sales/)
+203 open Summer 2027 sales roles, newest first (the 200 newest of 203). **Updated October 16, 2026.** [Back to every major](../README.md) · [See all 417 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management and Sales Intern - Cincinnati/Dayton | Cincinnati, OH +1 |  | Oct 16 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620082) |
+| [RSM](https://internscout.org/internships/at/rsm/) | State and Local Tax - Sales and Use Intern - Summer 2027 | Seattle +1 |  | Oct 16 | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Seattle/State-and-Local-Tax---Sales-and-Use-Intern---Summer-2027_JR121121) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management and Sales Intern (Chicago Metro - South Suburbs and NW Indiana) | Schaumburg, IL +22 |  | Oct 15 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621837) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management and Sales Intern (Chicago Metro - West Suburbs) | Schaumburg, IL +22 |  | Oct 15 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621847) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management and Sales Intern (Chicago Metro - City of Chicago) | Schaumburg, IL +9 |  | Oct 15 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621831) |
 | [Q2](https://internscout.org/internships/at/q2/) | 2027 Summer Internship - Sales/Customer Success | Austin, Texas |  | Oct 15 | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Sales-Customer-Success_REQ-12905) |
-| [RSM](https://internscout.org/internships/at/rsm/) | State and Local Tax - Sales and Use Intern - Summer 2027 | Los Angeles-515 S Flower Street, 17th FL, CA +1 |  | Oct 15 | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/USA-CA-Los-Angeles-515-S-Flower-Street-17th-FL/State-and-Local-Tax---Sales-and-Use-Intern---Summer-2027_JR118281) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | INFINITI Sales Operations Intern - Franklin, TN - Summer 2027 | Franklin, Tennessee - United States of America |  | Oct 14 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/INFINITI-Sales-Operations-Intern---Franklin--TN---Summer-2027_R00214231) |
 | [DuCharme, McMillen & Associates](https://internscout.org/internships/at/ducharme-mcmillen-associates/) | Canada Sales Tax Intern - Summer 2027 | Toronto +1 |  | Oct 14 | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Toronto/Canada-Sales-Tax-Intern---Summer-2027_REQ669) |
 | Zoetis | Pork Sales Intern | Remote | \$16.00 per hour | Oct 13 | [Apply](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/US-Remote/Pork-Sales-Intern_JR00021545-1) |
@@ -141,6 +141,7 @@
 | [Cvent](https://internscout.org/internships/at/cvent/) | Sales Intern (Summer 2027) | Tysons Corner, Virginia | Paid | Aug 24 | [Apply](https://careers.cvent.com/jobs/10703) |
 | [Springs Window Fashions](https://internscout.org/internships/at/springs-window-fashions/) | Sales Operations Internship - Summer 2027 | LONG ISLAND CITY, NY | \$23.00/hr | Aug 22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12894/sales-operations-internship---summer-2027/job) |
 | [Arthur J. Gallagher & Co.](https://internscout.org/internships/at/arthur-j-gallagher-co/) | Canada Internship - Sales | Toronto, Ontario, Canada |  | Aug 17 | [Apply](https://jobs.ajg.com/jobs/57699) |
+| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL |  | Aug 15 | [Apply](https://higher.gs.com/roles/181628?type=students) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Sales Data Analytics Intern - Summer 2027 | Westerville, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279293) |
 | [StepStone Group](https://internscout.org/internships/at/stepstone-group/) | 2027 Venture Capital Business Development Summer Associate | Baltimore |  | Aug 3 | [Apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8095092) |
 | [Uline](https://internscout.org/internships/at/uline/) | Sales Analyst Intern | Waukegan, IL +4 | Paid | Aug 3 | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Sales-Analyst-Internship---Summer-2027_R265911) |
@@ -203,7 +204,6 @@
 | [Polaris](https://internscout.org/internships/at/polaris/) | Sales Internship - Summer 2027 | Plymouth, MN, USA +1 |  | Sep 18 | [Apply](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Plymouth-MN-USA/Sales-Internship---Summer-2027_R30417) |
 | [McKesson](https://internscout.org/internships/at/mckesson/) | McKesson Health Systems (MHS) Field Sales Support Intern - Summer 2027 | USA, TX | Paid | Sep 18 | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/McKesson-Health-Systems--MHS--Field-Sales-Support-Intern---Summer-2027_JR0152595) |
 | [3M](https://internscout.org/internships/at/3m/) | Internship – 2027 Undergraduate Sales Enablement, Operations & Analytics Intern - Safety & Industrial Business Group (S… | Maplewood, MN +1 |  | Sep 18 | [Apply](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Sales-Enablement--Operations---Analytics-Intern---Safety---Industrial-Business-Group--SIBG-_R01171043) |
-| [Amgen](https://internscout.org/internships/at/amgen/) | Undergrad Intern - Business Development – Thousand Oaks, CA (Summer 2027) | US - California - Thousand Oaks |  | Sep 18 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Undergrad-Intern---Business-Development---Thousand-Oaks--CA--Summer-2027-_R-254845) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

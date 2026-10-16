@@ -1,9 +1,10 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-315 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 315). **Updated October 16, 2026.** [Back to every major](../README.md) · [See all 751 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+316 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 316). **Updated October 16, 2026.** [Back to every major](../README.md) · [See all 761 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship - AI & Data Science - Analytic Capabilities | Laurel, Maryland +1 | Paid | Oct 16 | [Apply](https://careers.jhuapl.edu/jobs/60008) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern, AI Research, Embodied AI (Masters) | Sunnyvale, California, United States of America +1 |  | Oct 15 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI--Masters-_JR-202622535) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern, Onboard Autonomy, Embodied AI (Masters) | Sunnyvale, California, United States of America | \$11,800 per month | Oct 15 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI--Masters-_JR-202622543) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern, AI Research, Embodied AI (PhD) | Sunnyvale, California, United States of America +1 |  | Oct 15 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI_JR-202622146) |
@@ -29,6 +30,7 @@
 | Boston Consulting Group | Forward Deployed AI Engineer Intern | Boston, MA +3 |  | Oct 13 | [Apply](https://careers.bcg.com/global/en/job/59702) |
 | ServiceNow | AI Engineering Associate Software Engineer Intern | Santa Clara, CA +3 |  | Oct 13 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000155345889) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction | Mountain View, CA, USA | Paid | Oct 13 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8279620) |
+| [KLA](https://internscout.org/internships/at/kla/) | Research Scientist Intern - Plasma Light Source Characterization | Ann Arbor, MI |  | Oct 13 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-2) |
 | 7-Eleven | AI Analyst / AI Automation Specialist Intern | Irving, TX |  | Oct 13 | [Apply](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/ServiceNow-Intern_R26_6017) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | AI and Data Analytics Intern | Sterling, VA |  | Oct 13 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Sterling/AI-and-Data-Analytics-Intern_RQ230269) |
 | [Workday](https://internscout.org/internships/at/workday/) | Machine Learning Engineer Intern (Canada) | Canada, BC +6 |  | Oct 13 | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806) |
@@ -87,7 +89,7 @@
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern – Software Verification Engineer, AV/AI Platform | Warren, Michigan, United States of America |  | Oct 2 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | AI Business Process Developer Intern | Austin, TX |  | Oct 2 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865) |
 | [Hewlett Packard (HP)](https://internscout.org/internships/at/hewlett-packard-hp/) | AI Applied Engineering Intern | Vancouver, Washington, United States of America |  | Oct 2 | [Apply](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670) |
-| American Family Insurance Group | GenAI/ML Intern | Madison, WI +1 |  | Oct 2 | [Apply](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-ML-Intern_R39514) |
+| [American Family Insurance Group](https://internscout.org/internships/at/american-family-insurance-group/) | GenAI/ML Intern | Madison, WI +1 |  | Oct 2 | [Apply](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-ML-Intern_R39514) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern | Mountain View, CA, USA +1 | Paid | Oct 1 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8248060) |
 | [Veeam Software](https://internscout.org/internships/at/veeam-software/) | Competitive Intelligence AI Engineering Intern - Summer 2027 | Remote, Georgia, USA +1 |  | Oct 1 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955279101) |
 | Datacor | Summer 2027 AI Engineer Intern | Remote +1 |  | Oct 1 | [Apply](https://job-boards.greenhouse.io/datacor/jobs/5242412007) |
@@ -112,7 +114,6 @@
 | [Marvell](https://internscout.org/internships/at/marvell/) | AI-Native Development Platform Engineer Intern, MS - Summer 2027 | Santa Clara, CA | Paid | Sep 29 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1) |
 | [Q2](https://internscout.org/internships/at/q2/) | Machine Learning Engineer Intern | Cary, NC +2 |  | Sep 29 | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12800) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction | Mountain View, CA, USA +1 |  | Sep 28 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8237997) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, AI Automation | Baltimore, MD |  | Sep 28 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-AI-Automation-MD-21230/1434354900/) |
 | [H&R Block](https://internscout.org/internships/at/h-r-block/) | Embark Machine Learning Intern - S | KANSAS CITY, Missouri | \$25/hour | Sep 28 | [Apply](https://careers.hrblock.com/jobs/76992) |
 | [Cencora](https://internscout.org/internships/at/cencora/) | AI Intern | Conshohocken, PA |  | Sep 28 | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/AI-Intern_R2613670) |
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | IT Infrastructure & AI Enablement Intern (Summer 2027) | Milwaukee, WI |  | Sep 28 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020160) |
@@ -203,7 +204,6 @@
 | [Shure](https://internscout.org/internships/at/shure/) | Artificial Intelligence Engineer Intern | Niles, IL |  | Sep 3 | [Apply](https://careersus-shure.icims.com/jobs/4966/job?mobile=true&needsRedirect=false) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Research Intern - AI-Native Databases | San Jose, CA +1 |  | Sep 2 | [Apply](https://jobs.bytedance.com/en/position/7678450462765254965/detail) |
 | [TWG Global](https://internscout.org/internships/at/twg-global/) | AI Engineer Intern - Summer 2027 | Santa Monica, CA |  | Sep 1 | [Apply](https://apply.workable.com/twgai/j/772CD136FF/apply) |
-| Trane Technologies | AI Intern - AI Product Management - AI Controls Integration | Montreal, QC, Canada |  | Sep 1 | [Apply](https://careers.tranetechnologies.com/global/en/job/JR-7608) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
