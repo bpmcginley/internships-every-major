@@ -1,10 +1,10 @@
 # Physics: Summer 2027 Internships
 
-20 open Summer 2027 physics roles, newest first (all 20). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 69 physics internships on InternScout](https://internscout.org/internships/physics/)
+20 open Summer 2027 physics roles, newest first (all 20). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 68 physics internships on InternScout](https://internscout.org/internships/physics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [RTX](https://internscout.org/internships/at/rtx/) | Electro-Optics Systems Engineer Intern | Goleta, CA +1 |  | Oct 14 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880960) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Electro-Optics Systems Engineer Intern | Goleta, CA |  | Oct 14 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880960) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern – Research and Developement – Display Optical Simulation | Warren, Michigan, United States of America |  | Oct 13 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Developement---Display-Optical-Simulation_JR-202621740) |
 | [Space Dynamics Laboratory](https://internscout.org/internships/at/space-dynamics-laboratory/) | Electro-Optical Engineer Intern | North Logan, UT |  | Oct 6 | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/E1nubjCRhW/ElectroOptical-Engineer-Intern) |
 | [Corning](https://internscout.org/internships/at/corning/) | Optical Design Intern - Summer 2027 | Fairport, NY | \$1,635.00 - \$3,185.00 | Oct 6 | [Apply](https://corningjobs.corning.com/job/Fairport-Optical-Design-Intern-Summer-2027-NY-14450/1437588500/) |

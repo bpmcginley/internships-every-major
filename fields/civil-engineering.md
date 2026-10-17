@@ -1,6 +1,6 @@
 # Civil Engineering: Summer 2027 Internships
 
-163 open Summer 2027 civil engineering roles, newest first (all 163). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 326 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+163 open Summer 2027 civil engineering roles, newest first (all 163). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 327 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Stantec](https://internscout.org/internships/at/stantec/) | Geotechnical Engineering Intern - E&R (Summer 2027) | Chicago, IL | Paid | Oct 13 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008262) |
 | [ATC](https://internscout.org/internships/at/atc/) | Intern - Civil Engineering Summer 2027 | Pewaukee, WI +2 | \$23-27/hr | Oct 13 | [Apply](https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern---Engineering-Summer-2027_R0003304) |
 | [Woolpert](https://internscout.org/internships/at/woolpert/) | Water Civil Design Internship - Texas (Summer 2027) | Houston, TX | Paid | Oct 12 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4438876009) |
+| [Woolpert](https://internscout.org/internships/at/woolpert/) | Survey Internship (Summer 2027) | Albuquerque, NM +9 |  | Oct 12 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4426374009) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Bridge Design Intern - Infrastructure (Summer 2027) | Columbia, SC |  | Oct 12 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008240) |
 | SAM | Land Surveying Internship Program - Summer 2027 | Austin, Texas | \$20.00 | Oct 12 | [Apply](https://careers.sam.biz/jobs/8091) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Civil Engineering Intern, Land Development - Summer 2027 | Moon Township, PA |  | Oct 12 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310057) |
@@ -125,7 +126,6 @@
 | [Vanasse Hangen Brustlin (VHB)](https://internscout.org/internships/at/vanasse-hangen-brustlin-vhb/) | Highway Design Intern - Summer 2027 | Providence, RI | \$19 to \$30 | Oct 17, 2024 | [Apply](https://careers-vhb.icims.com/jobs/6244/highway-design-intern---summer-2027/job) |
 | [Vanasse Hangen Brustlin (VHB)](https://internscout.org/internships/at/vanasse-hangen-brustlin-vhb/) | Transportation/Traffic Intern - Summer 2027 | Washington, DC +1 | \$19 to \$30 | Oct 17, 2024 | [Apply](https://careers-vhb.icims.com/jobs/6314/transportation-traffic-intern---summer-2027/job) |
 | [Vanasse Hangen Brustlin (VHB)](https://internscout.org/internships/at/vanasse-hangen-brustlin-vhb/) | Structural Intern – Summer 2027 | Providence, RI | \$19 to \$30 | Oct 17, 2024 | [Apply](https://careers-vhb.icims.com/jobs/6243/structural-intern-%e2%80%93-summer-2027/job) |
-| [Woolpert](https://internscout.org/internships/at/woolpert/) | Survey Internship (Summer 2027) | Boston, MA +9 |  | Oct 17 | [Apply](https://www.linkedin.com/jobs/view/survey-internship-summer-2027-at-woolpert-4478565965?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [SSOE Group](https://internscout.org/internships/at/ssoe-group/) | Structural Engineering Intern - Summer 2027 | Nashville, TN |  | Oct 14 | [Apply](https://careers-ssoe.icims.com/jobs/3978/structural-engineering-intern---summer-2027/job) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | WED - Intern Civil Engineer (Summer 2027) (For Current & Recent HNTB Interns Only) (Campus Recruiting Hub Requisition) | Oakland, CA +1 | \$83,008.49 - \$124,512.74 | Oct 14 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Oakland-CA/WED---Intern-Civil-Engineer--Summer-2027---For-Current---Recent-HNTB-Interns-Only---Campus-Recruiting-Hub-Requisition-_R-31285) |
 | [STV](https://internscout.org/internships/at/stv/) | Civil Engineering Intern - Summer 2027 | Newark, New Jersey +18 | Paid | Oct 14 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Oklahoma-City-Oklahoma/Civil-Engineering---Summer-2027_JR6107) |

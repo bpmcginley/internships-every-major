@@ -1,12 +1,11 @@
 # Education: Summer 2027 Internships
 
-14 open Summer 2027 education roles, newest first (all 14). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 206 education internships on InternScout](https://internscout.org/internships/education/)
+13 open Summer 2027 education roles, newest first (all 13). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 197 education internships on InternScout](https://internscout.org/internships/education/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - National Education Specialist II | Waterloo, Ontario | \$40,950.00 | Oct 17 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---National-Education-Specialist-II_JR26080175-1) |
-| [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | DS Education & Marketing Summer Intern 2027 | Raynham, Massachusetts, United States of America +1 |  | Oct 16 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Raynham-Massachusetts-United-States-of-America/DS-Education---Marketing-Summer-Intern-2027_R-105431) |
-| [Draper](https://internscout.org/internships/at/draper/) | Acoustic and Vibration Technologies Intern - Summer 2027 | Cambridge, MA | Paid | Oct 13 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Acoustic-and-Vibration-Technologies-Intern--Summer-2027-_JR003003-1) |
+| [Draper](https://internscout.org/internships/at/draper/) | Acoustic and Vibration Technologies Intern - Summer 2027 | Cambridge, MA |  | Oct 13 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Acoustic-and-Vibration-Technologies-Intern--Summer-2027-_JR003003-1) |
 | [Motorola](https://internscout.org/internships/at/motorola/) | Global Education Intern (Summer 2027 Internship) | Chicago, IL +1 |  | Oct 8 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Global-Education-Intern--Summer-2027-Internship-_R69472) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Leadership Instructional Design Internship | IRVINE, California | Paid | Sep 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36762) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Sales Instructional Design Internship | Caledonia, Michigan | Paid | Sep 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36655) |

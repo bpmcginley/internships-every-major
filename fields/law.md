@@ -1,6 +1,6 @@
 # Law and Legal: Summer 2027 Internships
 
-114 open Summer 2027 law and legal roles, newest first (all 114). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 291 law and legal internships on InternScout](https://internscout.org/internships/law/)
+112 open Summer 2027 law and legal roles, newest first (all 112). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 282 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -16,7 +16,6 @@
 | [TIAA](https://internscout.org/internships/at/tiaa/) | 2027 Early Talent Internship: Risk & Compliance | Charlotte, NC, USA +2 | \$22.00/hr | Oct 13 | [Apply](https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Internship--Risk---Compliance_R261000124) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Ethics & Compliance Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 13 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Ethics---Compliance-Intern---Summer-2027---Franklin--TN_R00214211-1) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Legal Government Affairs Intern (Summer 2027) | USA - New York - Malta |  | Oct 13 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Legal-Government-Affairs-Intern--Summer-2027-_JR-2604245) |
-| Gentex Corporation | Summer 2027 Legal Intern | New York Hauppauge | \$21 per hour | Oct 13 | [Apply](https://gentex.wd5.myworkdayjobs.com/Gentex/job/New-York-Hauppauge/Summer-2027-Legal-Intern_REQ026814) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Legal Internship - Summer 2027 | Lansing, MI |  | Oct 13 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Legal-Internship---Summer-2027_R_14649) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern – Regulatory Reporting (Raleigh, NC) | Raleigh, North Carolina |  | Oct 12 | [Apply](https://firstcitizens.jibeapply.com/jobs/35970) |
 | [Fidelity Investments](https://internscout.org/internships/at/fidelity-investments/) | Summer 2027 Undergraduate Internship - Audit, Risk, & Compliance | Boston, MA +5 |  | Oct 12 | [Apply](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Summer-2027-Undergraduate-Internship---Audit--Risk----Compliance_2134161-1) |
@@ -80,7 +79,7 @@
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Policy Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175556?gh_jid=8175556) |
 | [Spirit AeroSystems](https://internscout.org/internships/at/spirit-aerosystems/) | Boeing - Wichita Summer 2027 Internship Program (Paid) - Supplier Quality Assurance & Compliance | Wichita, Kansas |  | Sep 8 | [Apply](https://careers.spiritaero.com/jobs/17513) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Product Material Compliance Engineering Intern (Summer 2027) | Westerville, OH |  | Sep 8 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279284) |
-| [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Law - Mount Laurel, NJ CLC | Mount Laurel, New Jersey | \$2,000 | Sep 4 | [Apply](https://jobs.statefarm.com/jobs/45496) |
+| [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | AI & Automation Intern - Regulatory | Denver, CO |  | Sep 7 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Law - Miami, FL CLC | Miami, Florida | \$33/hour | Sep 4 | [Apply](https://jobs.statefarm.com/jobs/45868) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Law - St. Petersburg, FL CLC | St. Petersburg, Florida | \$33/ hour | Sep 4 | [Apply](https://jobs.statefarm.com/jobs/45929) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Law - Fort Lauderdale, FL CLC | Fort Lauderdale, Florida | \$33/hour | Sep 4 | [Apply](https://jobs.statefarm.com/jobs/45867) |
@@ -97,7 +96,6 @@
 | [Shure](https://internscout.org/internships/at/shure/) | Spectrum and Regulatory Affairs Intern | Niles, IL | \$23-\$43 per hour | Oct 17, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4999/spectrum-and-regulatory-affairs-intern/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Trade Compliance Intern | Niles, IL |  | Oct 17, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5004/global-trade-compliance-intern/job) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - RA/QA - Regulatory Affairs - Michigan | Portage, Michigan |  | Oct 14 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---RA-QA---Regulatory-Affairs---Michigan_R572590-1) |
-| Edwards Lifesciences | Clinical & Regulatory Internship, Summer 2027 | USA IRV-1442 Alton/MIC | \$54,000 to \$72,000 | Oct 10 | [Apply](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA-IRV-1442-AltonMIC/Clinical---Regulatory-Internship--Summer-2027_Req-49745) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Law Graduate Internship - Summer 2027 | 77002, TX |  | Oct 5 | [Apply](https://aramcoservices.applytojob.com/apply/Rpx0aiDVNd/Law-Graduate-Internship-Summer-2027) |
 | [Brennan Center for Justice](https://internscout.org/internships/at/brennan-center-for-justice/) | Summer 2027 Democracy Legal Internship - NYC and DC | New York, NY |  | Oct 3 | [Apply](https://brennancenter.applytojob.com/apply/3h3CdiEdLS/Summer-2027-Democracy-Legal-Internship-NYC-And-DC) |
 | [Brennan Center for Justice](https://internscout.org/internships/at/brennan-center-for-justice/) | Summer 2027 Justice Legal Internship | New York, NY |  | Oct 3 | [Apply](https://brennancenter.applytojob.com/apply/6pmeKxkyUe/Summer-2027-Justice-Legal-Internship) |

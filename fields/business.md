@@ -1,11 +1,10 @@
 # Business: Summer 2027 Internships
 
-80 open Summer 2027 business roles, newest first (all 80). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 152 business internships on InternScout](https://internscout.org/internships/business/)
+77 open Summer 2027 business roles, newest first (all 77). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 144 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Duke Energy](https://internscout.org/internships/at/duke-energy/) | MBA Internship Summer 2027 | Charlotte, NC +1 |  | Oct 17 | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/MBA-Internship-Summer-2027_R42047) |
-| Cambridge Associates | 2027 MBA Internship Program | Boston | \$150,000 | Oct 17 | [Apply](https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/Boston/XMLNAME-2027-MBA-Internship-Program_JR0000442-1) |
 | [Guardian Life](https://internscout.org/internships/at/guardian-life/) | 2027 Guardian MBA Summer Intern, Corporate Development | New York |  | Oct 17 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-MBA-Summer-Intern---Corporate-Development_R000109979) |
 | [Medtronic](https://internscout.org/internships/at/medtronic/) | Summer 2027 Corporate Development Intern (MBA) | Minneapolis, Minnesota, United States of America |  | Oct 16 | [Apply](https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Corporate-Development-Intern--MBA-_R79679-1) |
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-op - Commercial Marine Operator (Summer 2027) | San Antonio, Texas | \$25.60 per hour | Oct 15 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/San-Antonio-Texas/Intern-Co-op---Commercial-Marine-Operator--Summer-2027-_00024663) |
@@ -56,7 +55,6 @@
 | [Citizens Financial Group](https://internscout.org/internships/at/citizens-financial-group/) | Business Insights Intern - Multiple Teams | Boston, MA +2 |  | Sep 11 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49283) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Commercial Business Solutions Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 9 | [Apply](https://jobs.constellationenergy.com/jobs/138773) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Transportation/Storage Services: Business Processes | HOUSTON, Texas |  | Sep 8 | [Apply](https://careers.kindermorgan.com/jobs/6211) |
-| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern, Global Customer Research Intern (Master/MBA Degree) | Warren, Michigan, United States of America +2 |  | Sep 8 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Global-Customer-Research-Intern--Master-MBA-Degree-_JR-202619679) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Associate Engineering Intern - ECAD (Graduate Level/MBA) (Summer 2027) | Westerville, OH |  | Sep 8 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279285) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Products Commercial | HOUSTON, Texas |  | Sep 4 | [Apply](https://careers.kindermorgan.com/jobs/6209) |
 | AlixPartners | Turnaround & Restructuring - MBA Intern | United States |  | Sep 1 | [Apply](https://www.alixpartners.com/careers/7810004003?gh_jid=7810004003) |
@@ -70,7 +68,6 @@
 | [DTCC](https://internscout.org/internships/at/dtcc/) | Business Systems Intern \[2027 Intern Program\] | Jersey City, NJ +2 |  | Aug 25 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214472) |
 | Weatherford | USA - Weatherford Summer Business Internship | Houston, TX |  | Aug 12 | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/107149) |
 | [Shure](https://internscout.org/internships/at/shure/) | Business Applications Intern | Niles, IL |  | Oct 17, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4998/business-applications-intern/job) |
-| Broadridge | Broadridge Summer 2027 Business Internship Program | New York, NY +2 | \$25-\$35 per hour | Oct 10 | [Apply](https://broadridge.wd5.myworkdayjobs.com/careers/job/New-York-NY/Broadridge-Summer-2027-Business-Internship-Program_JR1085772) |
 | [NJM Insurance Group](https://internscout.org/internships/at/njm-insurance-group/) | Business Planning & Analysis Intern | NJM - Trenton, NJ | \$21 to \$22 hour | Oct 2 | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Business-Planning---Analysis-Intern_R2008264) |
 | [Barry-Wehmiller](https://internscout.org/internships/at/barry-wehmiller/) | Future Leaders Program - MBA Internship | St. Louis, MO | Paid | Sep 18 | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/St-Louis-MO/Future-Leaders-Program---MBA-Internship_R022658) |
 | [Uline](https://internscout.org/internships/at/uline/) | Business Process Analyst Internship - Summer 2027 | Pleasant Prairie, WI |  | Sep 18 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Business-Process-Analyst-Internship---Summer-2027_R265666) |

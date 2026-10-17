@@ -1,6 +1,6 @@
 # Sports: Summer 2027 Internships
 
-8 open Summer 2027 sports roles, newest first (all 8). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 51 sports internships on InternScout](https://internscout.org/internships/sports/)
+7 open Summer 2027 sports roles, newest first (all 7). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 45 sports internships on InternScout](https://internscout.org/internships/sports/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -10,7 +10,6 @@
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX Sports Internship Program - Los Angeles | Los Angeles, California, USA |  | Sep 29 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Summer-2027-FOX-Sports-Internship-Program---Los-Angeles_R50033964) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer and Fall 2027 FOX Technology Internship Program - Live Sports Virtual Enhancement Operator | Tempe, AZ |  | Sep 29 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Summer-and-Fall-2027-FOX-Technology-Internship-Program---Live-Sports-Virtual-Enhancement-Operator_R50033973) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Team Sports/Sales | Baltimore, MD |  | Sep 28 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Team-SportsSales-MD-21230/1434355500/) |
-| PGA TOUR | 2027 PGA Tour Summer Internship Program | PGA TOUR Global Home - Ponte Vedra Beach, FL | Paid | Sep 26 | [Apply](https://pgatour.wd5.myworkdayjobs.com/PGATOURExternal/job/PGA-TOUR-Global-Home---Ponte-Vedra-Beach-FL/XMLNAME-2027-PGA-Tour-Summer-Internship-Program_R015374) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Parks, Recreation, and Libraries | Portland, ME | \$30 per hour | Oct 17, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3985/summer-2027-consulting-internship---parks%2c-recreation%2c-and-libraries/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

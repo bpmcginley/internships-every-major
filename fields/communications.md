@@ -1,6 +1,6 @@
 # Communications: Summer 2027 Internships
 
-49 open Summer 2027 communications roles, newest first (all 49). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 164 communications internships on InternScout](https://internscout.org/internships/communications/)
+49 open Summer 2027 communications roles, newest first (all 49). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 162 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Marketing and Communications | Baltimore, MD |  | Sep 28 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Marketing-and-Communications-MD-21230/1434386400/) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Internal Communications Intern | De Soto, Kansas |  | Sep 28 | [Apply](https://careers.na.panasonic.com/jobs/51288) |
 | [SouthState Bank](https://internscout.org/internships/at/southstate-bank/) | Summer 2027 Marketing and Communications Banking Intern (Remote) | Remote Opportunity - VA, NC, SC, GA, FL, AL, TX, & CO |  | Sep 24 | [Apply](https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/Summer-2027-Marketing-and-Communications-Banking-Intern--Remote-_R-06261) |
-| [Republic Airways](https://internscout.org/internships/at/republic-airways/) | Corporate Communications Intern - Summer 2027 | Indianapolis, IN |  | Sep 24 | [Apply](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Indianapolis-IN/Corporate-Communications-Intern---Summer-2027_JR-007622-1) |
+| [Republic Airways](https://internscout.org/internships/at/republic-airways/) | Corporate Communications Intern - Summer 2027 | Indianapolis, IN |  | Sep 23 | [Apply](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Indianapolis-IN/Corporate-Communications-Intern---Summer-2027_JR-007622-1) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Intern - Communications & Engagement | St. Louis, MO | \$20-\$22/hr | Sep 22 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/St-Louis-MO/XMLNAME-2027-Summer-Intern---Communications---Engagement_R-0000033464) |
 | [Ensign-Bickford Aerospace & Defense Company](https://internscout.org/internships/at/ensign-bickford-aerospace-defense-company/) | Communications Intern | Simsbury, CT |  | Sep 17 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Communications-Intern_REQ107700) |
 | [Protective Life](https://internscout.org/internships/at/protective-life/) | 2027 Communications Summer Internship Program | Birmingham, AL |  | Sep 16 | [Apply](https://jobs.lever.co/protective/76d37442-da84-4bcf-b9f3-66f9880db597/apply) |
