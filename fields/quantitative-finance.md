@@ -1,6 +1,6 @@
 # Quantitative Finance: Summer 2027 Internships
 
-136 open Summer 2027 quantitative finance roles, newest first (all 136). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 176 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
+136 open Summer 2027 quantitative finance roles, newest first (all 136). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 175 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [AQR](https://internscout.org/internships/at/aqr/) | 2027 Research and Portfolio Management Engineering Summer Analyst | Greenwich, CT |  | May 26 | [Apply](https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728) |
 | Stevens Capital Management | Quantitative Research Analyst Internship | Radnor, PA |  | May 24 | [Apply](https://job-boards.greenhouse.io/scm/jobs/721895) |
 | Voloridge Investment Management | Quantitative Developer Intern | Jupiter, FL |  | May 23 | [Apply](https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803) |
-| Susquehanna | Trading System Engineering Intern | Bala Cynwyd, PA |  | May 22 | [Apply](https://careers.sig.com/jobs/10837?lang=en-us&mode=apply&iis=LinkedIn&jr_id=69f3d11158b23a2329da8088) |
+| [Susquehanna](https://internscout.org/internships/at/susquehanna-international-group/) | Trading System Engineering Intern | Bala Cynwyd, PA |  | May 22 | [Apply](https://careers.sig.com/jobs/10837?lang=en-us&mode=apply&iis=LinkedIn&jr_id=69f3d11158b23a2329da8088) |
 | Capula | 2027 Trading and Research Summer Internship | New York, New York | Paid | Apr 30 | [Apply](https://apply.workable.com/j/A15A62A8BE/apply) |
 | [Susquehanna International Group (SIG)](https://internscout.org/internships/at/susquehanna-international-group-sig/) | Quantitative Strategy Developer Intern | Ardmore, PA +1 |  | Apr 23 | [Apply](https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false) |
 | [Susquehanna International Group (SIG)](https://internscout.org/internships/at/susquehanna-international-group-sig/) | Trading System Engineering Intern | Ardmore, PA |  | Apr 23 | [Apply](https://careers-sig.icims.com/jobs/10837/job?mobile=true&needsRedirect=false) |

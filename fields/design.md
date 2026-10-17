@@ -1,18 +1,18 @@
 # Design: Summer 2027 Internships
 
-61 open Summer 2027 design roles, newest first (all 61). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 165 design internships on InternScout](https://internscout.org/internships/design/)
+60 open Summer 2027 design roles, newest first (all 60). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 164 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Persona | Product Design, Intern (Summer 2027) | San Francisco +2 |  | Oct 16 | [Apply](https://jobs.ashbyhq.com/persona/a50a3137-1c9a-4947-9f4e-1a4ef26c2bec/application) |
-| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova - SCS Product Design Internship – Summer 2027 | Bellevue |  | Oct 14 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---SCS-Product-Design-Internship---Summer-2027_R5053219-2) |
+| Persona | Product Design Intern | San Francisco, CA +3 |  | Oct 17 | [Apply](https://jobs.ashbyhq.com/persona/a50a3137-1c9a-4947-9f4e-1a4ef26c2bec/application) |
+| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova - SCS Product Design Internship – Summer 2027 | Bellevue |  | Oct 14 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---SCS-Product-Design-Internship---Summer-2027_R5053219-1) |
 | [Electronic Arts](https://internscout.org/internships/at/electronic-arts/) | Technical Artist Co-op | Vancouver, BC, Canada |  | Oct 13 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Product Designer Intern | Costa Mesa, California, United States | Paid | Oct 13 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | UI/UX Design Intern | Delaware, OH +2 |  | Oct 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281371) |
-| [Symbotic](https://internscout.org/internships/at/symbotic/) | Intern - User Experience | USA Wilmington, MA - HQ |  | Oct 13 | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern---User-Experience_R7968) |
 | [3M](https://internscout.org/internships/at/3m/) | Internship - 2027 Undergraduate 3M Industrial Design Intern - Safety & Industrial Business Group (SIBG) | Maplewood, MN +1 |  | Oct 12 | [Apply](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-Industrial-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172241) |
 | [3M](https://internscout.org/internships/at/3m/) | Internship - 2027 Undergraduate 3M UX/UI Design Intern - Safety & Industrial Business Group (SIBG) | Maplewood, MN +1 |  | Oct 12 | [Apply](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-UX-UI-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172459) |
 | [3M](https://internscout.org/internships/at/3m/) | Internship - 2027 Undergraduate 3M Brand Design Intern - Safety & Industrial Business Group (SIBG) | Maplewood, MN +1 |  | Oct 12 | [Apply](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-Brand-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172458) |
+| [Symbotic](https://internscout.org/internships/at/symbotic/) | Intern - User Experience | USA Wilmington, MA - HQ |  | Oct 12 | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern---User-Experience_R7968) |
 | Viget | Product & Web Designer Intern (2027) | Boulder, CO |  | Oct 8 | [Apply](https://jobs.lever.co/viget/938c3301-b358-42e3-afff-123b97b6d290/apply) |
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Internship - Content Design | California - San Francisco +2 |  | Oct 7 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Internship---Content-Design_JR363232) |
 | [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Product Marketing Graphic Design Intern - Summer 2027 | Pella, IA |  | Oct 5 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253573) |
@@ -46,7 +46,6 @@
 | [DoorDash](https://internscout.org/internships/at/doordash/) | Product Design, Intern (Summer 2027) | San Francisco, CA +1 | Paid | Sep 3 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) |
 | [Roblox](https://internscout.org/internships/at/roblox/) | \[Summer 2027\] Product Design Intern | San Mateo, CA, United States | Paid | Sep 2 | [Apply](https://careers.roblox.com/jobs/8143984?gh_jid=8143984) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | Product Design Intern (Summer 2027) | Tysons Corner, Virginia | Paid | Aug 31 | [Apply](https://careers.cvent.com/jobs/10764) |
-| Virtu Financial | Frontend & User Experience Intern | New York, NY |  | Jul 30 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002) |
 | [Jump Trading Group](https://internscout.org/internships/at/jump-trading/) | Campus UI Software Engineer Intern | Chicago, IL |  | Jul 9 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8003019) |
 | [Corgan](https://internscout.org/internships/at/corgan/) | Student Interior Design Internship \| Summer 2027 | Dallas, TX +9 | \$25 - \$28 per hour | Oct 17, 2024 | [Apply](https://campus-us-corgan.icims.com/jobs/4077/student-interior-design-internship-%7c-summer-2027/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | User Experience Design (UX) Intern | Niles, IL |  | Oct 17, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5003/user-experience-design-%28ux%29-intern/job) |

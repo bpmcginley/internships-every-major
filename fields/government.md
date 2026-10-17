@@ -1,14 +1,15 @@
 # Government and Public Policy: Summer 2027 Internships
 
-57 open Summer 2027 government and public policy roles, newest first (all 57). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 313 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+58 open Summer 2027 government and public policy roles, newest first (all 58). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 313 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [RSM](https://internscout.org/internships/at/rsm/) | Federal Credits and Incentives Tax Intern - Summer 2027 | Los Angeles |  | Oct 16 | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Los-Angeles/Federal-Credits-and-Incentives-Tax-Intern---Summer-2027_JR118775) |
 | Federal Energy Regulatory Commission | Student Trainee (Legal) | District of Columbia, District of Columbia | \$70623 - \$91815 Per Year | Oct 16 | [Apply](https://www.usajobs.gov:443/job/888935900) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - PhD Dissertation Fellow | Dallas, TX |  | Oct 16 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---PhD-Dissertation-Fellow_R-0000033591) |
+| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Windows Intern | Dallas, TX |  | Oct 15 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Windows_R-0000033715) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - Industry Outreach | Dallas, TX |  | Oct 15 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Industry-Outreach_R-0000033713) |
-| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - Windows | Dallas, TX |  | Oct 15 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Windows_R-0000033715) |
+| [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | University, Digital Transformation Analyst Intern | Arlington, VA |  | Oct 15 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/University--Digital-Transformation-Analyst-Intern_R0251716) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - LBO/SIO/QOS | Dallas, TX |  | Oct 14 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---LBO-SIO-QOS_R-0000033712) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - P&C Generalist | Dallas, TX |  | Oct 14 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---P-C-Generalist_R-0000033574) |
 | [Guidehouse](https://internscout.org/internships/at/guidehouse/) | Intern – State and Local Government – Campus 2027 | US - MA +13 | \$59,000.00-\$98,000.00 | Oct 14 | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MA-Boston/Intern---State-and-Local-Government---Campus-2027_44623) |

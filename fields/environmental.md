@@ -1,6 +1,6 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-124 open Summer 2027 environmental science and engineering roles, newest first (all 124). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 311 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+124 open Summer 2027 environmental science and engineering roles, newest first (all 124). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 313 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,7 +11,6 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Renewables Engineering Intern - Oakland, MD | Oakland, Maryland | Paid | Oct 15 | [Apply](https://jobs.constellationenergy.com/jobs/140007) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Environmental Programs Intern - Eddystone, PA | Eddystone, Pennsylvania | Paid | Oct 15 | [Apply](https://jobs.constellationenergy.com/jobs/140001) |
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Health Safety and Environment Intern - Summer 2027 (For SNC Summer 2026 Interns Only) | Colorado Springs, CO |  | Oct 15 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Colorado-Springs-CO/Health-Safety-and-Environment-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031092) |
-| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova Nuclear EHS Intern - 12 month co-op | Markham | Paid | Oct 14 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Markham/GE-Vernova-Nuclear-EHS-Intern---12-month-co-op_R5055380-2) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Safety Intern | Braintree, Massachusetts +3 | Paid | Oct 13 | [Apply](https://careers.trccompanies.com/jobs/27074?icims=1) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Climate & Health Intern | Chicago, IL +1 |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6064/summer-2027-climate-%26-health-intern/job) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Climate Mobility Intern | Washington, DC |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6063/summer-2027-climate-mobility-intern/job) |
@@ -101,6 +100,7 @@
 | [Mortenson](https://internscout.org/internships/at/mortenson/) | Sustainability Intern | Denver, CO |  | Aug 10 | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23367) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Environmental Health & Safety (EHS) Internship – Summer 2027 | El Segundo, California, United States |  | Nov 13, 2025 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7527870003) |
 | [Vanasse Hangen Brustlin (VHB)](https://internscout.org/internships/at/vanasse-hangen-brustlin-vhb/) | Environmental Planning Intern - Summer 2027 | Hauppauge, NY | \$19 to \$30 | Oct 17, 2024 | [Apply](https://careers-vhb.icims.com/jobs/6339/environmental-planning-intern---summer-2027/job) |
+| [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Environmental, Health & Safety (Summer 2027) | Neenah, WI |  | Oct 17 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Environmental--Health---Safety--Summer-2027-_R040024) |
 | [Alliance Laundry Systems](https://internscout.org/internships/at/alliance-laundry-systems/) | EHS Intern | Ripon, WI |  | Sep 28 | [Apply](https://uscareeropenings-alliancelaundry.icims.com/jobs/13201/ehs-intern/job) |
 | [GE Aerospace](https://internscout.org/internships/at/ge-aerospace/) | Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 | Durham +6 | \$20/hour | Sep 19 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Environmental-Health-Safety--Facilities----Maintenance-Intern---US---Summer-2027_R5029661) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Environmental Intern (Summer 2027) | USA - New York - Malta | \$20.00 - \$40.00 | Sep 18 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Environmental-Intern--Summer-2027-_JR-2604241) |

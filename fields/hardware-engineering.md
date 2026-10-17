@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-187 open Summer 2027 hardware engineering roles, newest first (all 187). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 545 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+188 open Summer 2027 hardware engineering roles, newest first (all 188). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 547 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -23,6 +23,8 @@
 | [Skydio](https://internscout.org/internships/at/skydio/) | Embedded Software Engineer Intern | San Mateo, CA +3 | Paid | Oct 13 | [Apply](https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260/application?embed=true) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Firmware Engineer Intern, BS - Summer 2027 | Santa Clara, CA +1 |  | Oct 13 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461) |
 | [Nokia](https://internscout.org/internships/at/nokia/) | Hardware Development Co-op | New Providence, NJ +1 |  | Oct 12 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40268) |
+| Bosch | Robotics Research Intern | Sunnyvale, CA |  | Oct 12 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154911489) |
+| [Symbotic](https://internscout.org/internships/at/symbotic/) | Intern - Hardware Engineer | USA Wilmington, MA - ITC +1 |  | Oct 12 | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington-MA---ITC/Hardware-Engineer_R8101) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | PhD Research Intern, Robotics - Summer 2027 | US, WA +5 |  | Oct 12 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | PhD Research Intern, Circuits - 2027 | US, CA +5 | Paid | Oct 12 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | NVIDIA 2027 Internships: Hardware Verification | US, CA +2 | Paid | Oct 12 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500) |
@@ -47,6 +49,7 @@
 | [Cirrus Logic](https://internscout.org/internships/at/cirrus-logic/) | Embedded Firmware Engineer Intern | Phoenix, AZ +2 |  | Oct 5 | [Apply](https://jobs.eu.lever.co/cirrus/0af920c1-6ecb-447f-9b22-3eda6b8d4ed8/apply) |
 | [Cirrus Logic](https://internscout.org/internships/at/cirrus-logic/) | Design Verification Engineer Intern | Austin, TX |  | Oct 5 | [Apply](https://jobs.eu.lever.co/cirrus/c71a6365-31c7-4ba1-bdc4-9f2df1fc483e/apply) |
 | [Cirrus Logic](https://internscout.org/internships/at/cirrus-logic/) | Analog Design Engineer Intern | Austin, TX |  | Oct 5 | [Apply](https://jobs.eu.lever.co/cirrus/df033a94-155f-427f-a178-88bd18c3d5ec/apply) |
+| [General Motors](https://internscout.org/internships/at/general-motors/) | Summer Intern - AI & Hardware Analytics - Adpt | Milford, MI +3 |  | Oct 5 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756) |
 | [Arc](https://internscout.org/internships/at/arc/) | Electrical Hardware Engineering Intern | Torrance, CA |  | Oct 2 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008) |
 | [Lyft](https://internscout.org/internships/at/lyft/) | Hardware Field Quality Engineer Intern (Summer 2027) | Longueuil, Canada |  | Oct 2 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002) |
 | [Hitachi](https://internscout.org/internships/at/hitachi/) | Hardware Test Engineering Intern (Summer 2027, 16months) | Toronto, Ontario, Canada +1 | Paid | Oct 2 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) |
@@ -82,7 +85,7 @@
 | Two Sigma | Hardware Engineering Intern | NYC |  | Sep 22 | [Apply](https://twosigma.avature.net/careers/JobDetail/14289) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Analog Layout Intern - BS | Irvine, CA +1 | Paid | Sep 22 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Layout-Intern--BS---Summer-2027_2604735-1) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, BS/MS, Embedded, Software Engineer | Mountain View, CA, USA +1 |  | Sep 21 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8221198) |
-| [AeroVironment](https://internscout.org/internships/at/aerovironment/) | Summer 2027 Autonomy & Robotics Engineering Intern | Moorpark, CA +14 |  | Sep 21 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8551) |
+| [AeroVironment](https://internscout.org/internships/at/aerovironment/) | Summer 2027 Autonomy & Robotics Engineering Intern | Moorpark, CA +14 | Paid | Sep 21 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8551) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Embedded Engineering Internship - Summer 2027 | San Diego, CA +2 |  | Sep 21 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720737089) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Silicon Validation Intern | Toronto, ON, Canada |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721143274) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Hardware (CPU, GPU, SoC, Digital Design, DV) Engineering Internship – Summer 2027 | San Diego, CA +4 |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720740649) |
@@ -103,9 +106,7 @@
 | [Dell Technologies](https://internscout.org/internships/at/dell-technologies/) | Hardware Engineering Intern - Infrastructure Solutions Group | Round Rock, TX +1 |  | Sep 14 | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297770) |
 | [Bedrock Robotics](https://internscout.org/internships/at/bedrock-robotics/) | 2027 Internship Hardware Engineer, Machine Integration & Test | San Francisco, CA +2 | Paid | Sep 14 | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/c9c08251-6a42-4f9c-be4d-2621995cc8f9/application) |
 | [Micron Technology](https://internscout.org/internships/at/micron-technology/) | Semiconductor Research & Technology Development Intern | Albany, NY |  | Sep 14 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Albany-NY/Intern---Semiconductor-Research---Technology-Development_JR110876) |
-| [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Electrical Engineer Intern - Robotics R&D | Santa Clara, CA |  | Sep 14 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1) |
 | [Emerson Electric](https://internscout.org/internships/at/emerson-electric/) | Hardware Design Engineer Intern | Round Rock, TX |  | Sep 11 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010801) |
-| [Ciena](https://internscout.org/internships/at/ciena/) | NPI Hardware Co-op - 8 month | Ottawa, ON, Canada |  | Sep 11 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Hardware-Co-op--8-month---January-2027-_R031642) |
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | Embedded Software Engineering Intern - The Toro Company | Bloomington, MN |  | Sep 11 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 PhD SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op | San Jose, California +3 |  | Sep 11 | [Apply](https://careers.amd.com/jobs/92350) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 PhD Analog/Mixed-Signal SerDes Design Intern/Co-op | San Jose, California +3 |  | Sep 11 | [Apply](https://careers.amd.com/jobs/92346) |
@@ -175,7 +176,6 @@
 | [Western Digital](https://internscout.org/internships/at/western-digital/) | Hardware Engineering Intern | Fremont, CA +5 |  | Jul 31 | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000140949875) |
 | [DRW](https://internscout.org/internships/at/drw/) | FPGA Intern | Chicago, IL |  | Jul 31 | [Apply](https://www.drw.com/work-at-drw/listings/fpga-intern-3484423) |
 | [Virtu](https://internscout.org/internships/at/virtu/) | 2027 Internship- Hardware Engineer (FPGA) | Austin, TX |  | Jul 29 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657286002) |
-| [Nightwing](https://internscout.org/internships/at/nightwing/) | Software / Hardware Engineering Intern | Annapolis Junction, MD |  | Jul 28 | [Apply](https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) |
 | IMC | Hardware Engineer Intern | Chicago, IL |  | Jul 24 | [Apply](https://www.imc.com/us/careers/jobs/4823945101) |
 | [Jane Street](https://internscout.org/internships/at/jane-street/) | Hardware Engineer (FPGA/ASIC) Intern | New York, NY |  | Jul 24 | [Apply](https://www.janestreet.com/join-jane-street/position/8624440002/) |
 | Akuna Capital | Hardware Engineer Intern | Chicago, IL |  | Jul 24 | [Apply](https://akunacapital.com/careers/job/8018880/?gh_jid=8018880) |
@@ -188,8 +188,9 @@
 | Skyworks | Analog IC Design Co-op | Irvine, CA |  | Apr 20 | [Apply](https://careers.skyworksinc.com/job/Irvine-Analog-IC-Design-SummerFall-Co-Op-%28June-&apos;26-Dec-&apos;26%29-CA-92602/76295-en_US/?feedId=177100) |
 | [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering (Pro Audio Circuitry) Intern | Niles, IL | \$23-\$43 per hour | Oct 17, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5017/electrical-engineering-%28pro-audio-circuitry%29-intern/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering Intern (Digital Circuitry & Test Automation) | Niles, IL |  | Oct 17, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5028/electrical-engineering-intern-%28digital-circuitry-%26-test-automation%29/job) |
+| [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Analog Engineer (Summer 2027) | Neenah, WI +1 |  | Oct 17 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Analog-Engineer--Summer-2027-_R040980) |
 | [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering Intern (RF Circuitry) | Niles, IL |  | Sep 18 | [Apply](https://careersus-shure.icims.com/jobs/4984/electrical-engineering-intern-%28rf-circuitry%29/job) |
-| [AeroVironment](https://internscout.org/internships/at/aerovironment/) | Summer 2027 Embedded Software Engineering Intern | Simi Valley, CA |  | Sep 18 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8549) |
+| [AeroVironment](https://internscout.org/internships/at/aerovironment/) | Summer 2027 Embedded Software Engineering Intern | Simi Valley, CA +14 |  | Sep 18 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8549) |
 | [Western & Southern Financial Group](https://internscout.org/internships/at/western-southern-financial-group/) | Hardware Service Desk Intern (Summer and Fall 2027) | CINCINNATI, OH |  | Sep 18 | [Apply](https://careers-westernsouthern.icims.com/jobs/25411/hardware-service-desk-intern-%28summer-and-fall-2027%29/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

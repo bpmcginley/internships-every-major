@@ -1,6 +1,6 @@
 # Sales: Summer 2027 Internships
 
-202 open Summer 2027 sales roles, newest first (the 200 newest of 202). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 415 sales internships on InternScout](https://internscout.org/internships/sales/)
+201 open Summer 2027 sales roles, newest first (the 200 newest of 201). **Updated October 17, 2026.** [Back to every major](../README.md) · [See all 415 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -71,12 +71,11 @@
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Sales Account Manager Intern, Electrical Engineering, Santa Clara (Summer 2027) | USA - California - Santa Clara |  | Sep 30 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Sales-Account-Manager-Intern--Electrical-Engineering--Santa-Clara--Summer-2027-_JR-2604217) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Sales & Business Development Internship - Summer 2027 | San Diego, CA |  | Sep 30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721346084) |
 | [ABB](https://internscout.org/internships/at/abb/) | Sales Digital Tools & Technology Intern- Summer 2027 | Fort Smith, Arkansas, United States of America |  | Sep 30 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Sales-Digital-Tools---Technology-Intern--Summer-2027_JR00045318) |
-| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Sales and Use Tax | Sacramento +3 | \$23.70 - \$27.50 | Sep 30 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Sacramento/Summer-2027-Intern--Sales-and-Use-Tax_R0020802-1) |
+| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Sales and Use Tax | Sacramento +3 | \$23.70 - \$27.50 | Sep 30 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Sacramento/Summer-2027-Intern--Sales-and-Use-Tax_R0020802) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Sales Account Manager Intern, Electrical Engineering & Business (Summer 2027) | USA - Texas - Austin +1 | \$20.00 - \$40.00 | Sep 29 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Sales-Account-Manager-Intern--Electrical-Engineering---Business--Summer-2027-_JR-2604219) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | Management and Sales Summer Internship 2027 (Boise) | Boise, ID +7 |  | Sep 29 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2619309) |
 | [Cencora](https://internscout.org/internships/at/cencora/) | Intern, Sales & Support | Remote, Pennsylvania +1 | Paid | Sep 29 | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Pennsylvania/Intern--Sales---Support_R2613780) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | International Business Development Intern (Summer 2027) | Woodbridge, VA |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5247737007) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Team Sports/Sales | Baltimore, MD |  | Sep 28 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Team-SportsSales-MD-21230/1434355500/) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: Sales Intern | Northbrook, IL +1 | \$25.00 | Sep 28 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10626) |
 | [Highgate](https://internscout.org/internships/at/highgate/) | Intern - Sales & Events (Summer 2027) | Key West, FL | Paid | Sep 28 | [Apply](https://externalhourly-highgate.icims.com/jobs/83231/intern/job) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX Corporation Internship Program - Ad Sales - Detroit | Detroit, Michigan, USA |  | Sep 28 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Detroit-Michigan-USA/Summer-2027-FOX-Corporation-Internship-Program---Ad-Sales---Detroit_R50034001) |
@@ -204,6 +203,7 @@
 | [McKesson](https://internscout.org/internships/at/mckesson/) | McKesson Health Systems (MHS) Field Sales Support Intern - Summer 2027 | USA, TX | Paid | Sep 18 | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/McKesson-Health-Systems--MHS--Field-Sales-Support-Intern---Summer-2027_JR0152595) |
 | [3M](https://internscout.org/internships/at/3m/) | Internship – 2027 Undergraduate Sales Enablement, Operations & Analytics Intern - Safety & Industrial Business Group (S… | Maplewood, MN +1 |  | Sep 18 | [Apply](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Sales-Enablement--Operations---Analytics-Intern---Safety---Industrial-Business-Group--SIBG-_R01171043) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Undergrad Intern - Business Development – Thousand Oaks, CA (Summer 2027) | US - California - Thousand Oaks |  | Sep 18 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Undergrad-Intern---Business-Development---Thousand-Oaks--CA--Summer-2027-_R-254845) |
+| [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Sales Intern, Summer 2027 | Orrville, OH |  | Sep 18 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Sales-Intern--Summer-2027_115803) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
