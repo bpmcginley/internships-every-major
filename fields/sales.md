@@ -1,6 +1,6 @@
 # Sales: Summer 2027 Internships
 
-199 open Summer 2027 sales roles, newest first (all 199). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 413 sales internships on InternScout](https://internscout.org/internships/sales/)
+198 open Summer 2027 sales roles, newest first (all 198). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 412 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Corteva](https://internscout.org/internships/at/corteva/) | Sales Associate Intern (Locations include Alberta, Winnipeg, Manitoba, & Ontario) | Saskatchewan, Canada +3 |  | Oct 2 | [Apply](https://corteva.wd5.myworkdayjobs.com/corteva/job/Saskatchewan-Canada/Sales-Associate-Intern_248204W) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Management Consulting - Sales, Service and Marketing Senior Associate Intern - Summer 2027 | IL-Rosemont | \$84,000 - \$202,000 | Oct 2 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Management-Consulting---Sales--Service-and-Marketing-Senior-Associate-Intern---Summer-2027_765704WD) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management & Sales Summer Intern - West Texas | Lubbock, TX |  | Oct 2 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625141) |
-| [Itron](https://internscout.org/internships/at/itron/) | Intern - Product Marketing & Sales Enablement (Summer 2027) | United States of America, Washington, Liberty Lake | \$44.23/hr | Oct 1 | [Apply](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Product-Marketing---Sales-Enablement--Summer-2027-_JR102949) |
+| [Itron](https://internscout.org/internships/at/itron/) | Intern - Product Marketing & Sales Enablement (Summer 2027) | United States of America, Washington, Liberty Lake | Paid | Oct 1 | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Product-Marketing---Sales-Enablement--Summer-2027-_JR102949-1) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | Management and Sales Summer Internship 2027 (Seattle) | Seattle, WA +8 |  | Oct 1 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2619310) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management and Sales Summer Internship (Milwaukee) | Milwaukee, WI +24 |  | Oct 1 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621948) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | Management and Sales Summer Internship 2027 (Portland) | Portland, OR +8 |  | Oct 1 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2619096) |
@@ -74,7 +74,6 @@
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | Management and Sales Summer Internship 2027 (Boise) | Boise, ID +7 |  | Sep 29 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2619309) |
 | [Cencora](https://internscout.org/internships/at/cencora/) | Intern, Sales & Support | Remote, Pennsylvania +1 | Paid | Sep 29 | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Pennsylvania/Intern--Sales---Support_R2613780) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | International Business Development Intern (Summer 2027) | Woodbridge, VA |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5247737007) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Team Sports/Sales | Baltimore, MD |  | Sep 28 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Team-SportsSales-MD-21230/1434355500/) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: Sales Intern | Northbrook, IL +1 | \$25.00 | Sep 28 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10626) |
 | [Highgate](https://internscout.org/internships/at/highgate/) | Intern - Sales & Events (Summer 2027) | Key West, FL | Paid | Sep 28 | [Apply](https://externalhourly-highgate.icims.com/jobs/83231/intern/job) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX Corporation Internship Program - Ad Sales - Detroit | Detroit, Michigan, USA |  | Sep 28 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Detroit-Michigan-USA/Summer-2027-FOX-Corporation-Internship-Program---Ad-Sales---Detroit_R50034001) |

@@ -1,6 +1,6 @@
 # Retail: Summer 2027 Internships
 
-173 open Summer 2027 retail roles, newest first (all 173). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 234 retail internships on InternScout](https://internscout.org/internships/retail/)
+173 open Summer 2027 retail roles, newest first (all 173). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 235 retail internships on InternScout](https://internscout.org/internships/retail/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

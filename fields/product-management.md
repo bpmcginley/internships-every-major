@@ -1,6 +1,6 @@
 # Product Management: Summer 2027 Internships
 
-142 open Summer 2027 product management roles, newest first (all 142). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 244 product management internships on InternScout](https://internscout.org/internships/product-management/)
+142 open Summer 2027 product management roles, newest first (all 142). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 243 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | C3 AI | AI Product Manager - MBA Intern (Summer 2027) | Redwood City, California, United States +1 | \$8,000 - \$10,000 | Oct 2 | [Apply](https://c3.ai/job-description/8860563002?gh_jid=8860563002) |
 | [Pentair](https://internscout.org/internships/at/pentair/) | Product Management Leadership Development Internship Program - Summer 2027 | Golden Valley, MN +6 | Paid | Oct 2 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713) |
 | [Bedrock Robotics](https://internscout.org/internships/at/bedrock-robotics/) | Product Intern | SF +2 | Paid | Oct 1 | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/e199e72a-0361-40dc-8fd3-e02e534af85a/application?embed=true) |
-| [HNTB](https://internscout.org/internships/at/hntb/) | Program Management Intern – Summer 2027 | New York, NY |  | Oct 1 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/New-York-NY/Program-Management-Intern---Summer-2027_R-31828) |
+| [HNTB](https://internscout.org/internships/at/hntb/) | Program Management Intern – Summer 2027 | New York, NY |  | Oct 1 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/New-York-NY/Program-Management-Intern---Summer-2027_R-31828-1) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Product Management (Lake Mary, FL) | Lake Mary, FL |  | Oct 1 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82784) |
 | [Capital One](https://internscout.org/internships/at/capital-one/) | MBA Product Intern | McLean, VA +3 |  | Oct 1 | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/MBA-Product-Intern---Summer-2027_R244815-1) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Program Management (Pittsburgh, PA) | Pittsburgh, PA |  | Oct 1 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82782) |
@@ -41,7 +41,7 @@
 | [LexisNexis Risk Solutions](https://internscout.org/internships/at/lexisnexis-risk-solutions/) | Product Management Intern- Insurance | Alpharetta, GA (Alderman) +1 |  | Sep 29 | [Apply](https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Insurance_R118879) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | Product Management Intern | Northbrook, IL +1 | Paid | Sep 28 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625) |
 | [H&R Block](https://internscout.org/internships/at/h-r-block/) | Embark Product Management Intern - S | KANSAS CITY, Missouri +1 | \$25/hour | Sep 28 | [Apply](https://careers.hrblock.com/jobs/76986) |
-| [HNTB](https://internscout.org/internships/at/hntb/) | Construction Project & Program Management Intern (Summer 2027) | San Jose, CA |  | Sep 28 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/San-Jose-CA/Construction-Project---Program-Management-Intern--Summer-2027-_R-31763) |
+| [HNTB](https://internscout.org/internships/at/hntb/) | Construction Project & Program Management Intern (Summer 2027) | San Jose, CA |  | Sep 28 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/San-Jose-CA/Construction-Project---Program-Management-Intern--Summer-2027-_R-31763-1) |
 | [Cencora](https://internscout.org/internships/at/cencora/) | Intern,Technical Business Analyst / Product Owner | Carrollton, TX |  | Sep 25 | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Carrollton-TX/Intern-Technical-Business-Analyst---Product-Owner_R2613660) |
 | [Tradeweb](https://internscout.org/internships/at/tradeweb/) | Summer 2027 Data Product Manager Internship | New York, NY +1 |  | Sep 24 | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301932) |
 | [ABB](https://internscout.org/internships/at/abb/) | Product Management Intern | New Berlin, WI +1 |  | Sep 24 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280) |

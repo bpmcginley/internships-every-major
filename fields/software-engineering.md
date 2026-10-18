@@ -1,6 +1,6 @@
 # Software Engineering: Summer 2027 Internships
 
-1,193 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,193). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 2,459 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,193 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,193). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 2,458 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -118,9 +118,7 @@
 | [Bank of Montreal](https://internscout.org/internships/at/bank-of-montreal/) | BMO Capital Markets Investment Banking Summer 2027 Sophomore Analyst, Infrastructure Debt Capital Markets, Toronto | Toronto, ON, CAN | Paid | Oct 13 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Summer-2027-Sophomore-Analyst--Toronto_R260028848) |
 | [BMO](https://internscout.org/internships/at/bmo/) | BMO Capital Markets Investment Banking Summer 2027 Sophomore Analyst, Infrastructure Debt Capital Markets, Toronto | Toronto, ON, CAN | Paid | Oct 13 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Capital-Markets-Summer-2027-Sophomore-Analyst--Toronto_R260028848-1) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - System IT (Credit Risk Management) | Dallas, TX |  | Oct 13 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---System-IT--Credit-Risk-Management-_R-0000033624) |
-| [Invesco](https://internscout.org/internships/at/invesco/) | Early Career Intern - Technology (Investment) | Houston, Texas |  | Oct 13 | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Early-Career-Intern---Investment-Technology_R-15622-1) |
-| [Invesco](https://internscout.org/internships/at/invesco/) | Early Career Intern - Technology (Distribution) | Atlanta, Georgia +1 |  | Oct 13 | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1) |
-| [Invesco](https://internscout.org/internships/at/invesco/) | Early Career Intern - Technology (Investment) | Atlanta, Georgia +1 |  | Oct 13 | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621-1) |
+| [Invesco](https://internscout.org/internships/at/invesco/) | Early Career Intern - Technology (Investment) | Houston, Texas |  | Oct 13 | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Houston-Texas/Early-Career-Intern---Investment-Technology_R-15622) |
 | [SOTI](https://internscout.org/internships/at/soti/) | Software Developer Intern - SOTI MobiControl Apple HQ (January 2027 12 Months) | Mississauga, Canada – Meadowvale Office (HQ) +1 |  | Oct 13 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2) |
 | [CACI](https://internscout.org/internships/at/caci/) | Systems Engineer Intern - Summer 2027 | Ashburn, VA, US |  | Oct 13 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Systems-Engineer-Intern---Summer-2027_333048) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | End User & Infrastructure Support Intern, Summer 2027 | Andover, MA Federal Street |  | Oct 13 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Andover-MA-Federal-Street/IT-Network-Intern--Summer-2027_10017567) |
@@ -204,6 +202,8 @@
 | State Affairs | Software Engineer Intern | Washington, DC | Paid | Oct 7 | [Apply](https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009) |
 | [K2 Space](https://internscout.org/internships/at/k2-space/) | Platform Engineering Intern – Summer 2027 | Los Angeles | \$30 - \$40 per hour | Oct 7 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5447206008) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Software Engineer Intern - Embedded Systems | Redmond, WA +1 |  | Oct 7 | [Apply](https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) |
+| [Jabil](https://internscout.org/internships/at/jabil/) | Computer Systems Analyst Intern | St. Petersburg/Tampa, FL |  | Oct 7 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Computer-Systems-Analyst-Intern_J2464586-1) |
+| Rolls-Royce | Engineering and Technology Summer Internship - UK | Washington |  | Oct 7 | [Apply](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Derby/Engineering-and-Technology-Summer-Internship---UK_JR6160585) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
