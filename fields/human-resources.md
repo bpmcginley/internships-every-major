@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-117 open Summer 2027 human resources roles, newest first (all 117). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 273 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+116 open Summer 2027 human resources roles, newest first (all 116). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 272 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -89,7 +89,6 @@
 | [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Human Resources Training (Summer 2027) | Neenah, WI |  | Oct 17 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Human-Resources-Training_R041070) |
 | [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Human Resources (Summer 2027) | Neenah, WI |  | Oct 17 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Human-Resources--Summer-2027-_R040029-1) |
 | AriensCo | Intern, Human Resources | WI - Brillion |  | Oct 17 | [Apply](https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Intern--Human-Resources_R-04130) |
-| [HNTB](https://internscout.org/internships/at/hntb/) | WED - Intern Civil Engineer (Summer 2027) (For Current & Recent HNTB Interns Only) (Campus Recruiting Hub Requisition) | Oakland, CA +1 | \$83,008.49 - \$124,512.74 | Oct 14 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Oakland-CA/WED---Intern-Civil-Engineer--Summer-2027---For-Current---Recent-HNTB-Interns-Only---Campus-Recruiting-Hub-Requisition-_R-31285) |
 | [W.W. Grainger](https://internscout.org/internships/at/w-w-grainger/) | Training Intern - Summer 2027 | GREEN BAY, WI |  | Oct 13 | [Apply](https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-Training-Intern-Summer-2027-WI-54301-5160/1435287600/) |
 | [West Bend Insurance](https://internscout.org/internships/at/west-bend-insurance/) | Summer 2027 Internship - Human Resources | West Bend, WI |  | Sep 23 | [Apply](https://careers-thesilverlining.icims.com/jobs/3769/summer-2027-internship---human-resources/job) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | University - Summer 2027 - Human Resources Intern | McLean, VA |  | Sep 18 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---Summer-2027---Human-Resources-Intern_R0248552) |

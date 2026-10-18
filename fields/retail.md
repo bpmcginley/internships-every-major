@@ -1,6 +1,6 @@
 # Retail: Summer 2027 Internships
 
-172 open Summer 2027 retail roles, newest first (all 172). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 233 retail internships on InternScout](https://internscout.org/internships/retail/)
+173 open Summer 2027 retail roles, newest first (all 173). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 234 retail internships on InternScout](https://internscout.org/internships/retail/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Backend Software Engineer Intern, Global E-Commerce | San Jose, CA +1 |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7668834837268138293) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - Data Search Recommendation Global E-Commerce | Seattle, WA |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7668383643375257909) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Data Architecture - E-commerce | Seattle, WA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7668582146236631349) |
+| [CVS Health](https://internscout.org/internships/at/cvs-health/) | Retail Store Management Internship Summer 2027 - Texas - Fort Worth/North Texas | TX - Irving +11 | \$20-\$22 per hour | Oct 18 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Retail-Store-Management-Internship-Summer-2027---Texas---Fort-Worth-North-Texas_R1024461) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Retail Store Management Internship Summer 2027 - Philadelphia | PA - Philadelphia +16 | \$20-\$22 per hour | Oct 18 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Philadelphia/Retail-Store-Management-Internship-Summer-2027---Philadelphia_R1022289) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Retail Store Management Internship Summer 2027 - Greensboro/Winston-Salem | 05500 - North Carolina CVS Pharmacy, L.L.C. +12 | \$20-\$22 per hour | Oct 18 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/05500---North-Carolina-CVS-Pharmacy-LLC/Retail-Store-Management-Internship-Summer-2027---Greensboro-Winston-Salem_R1022435) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Retail Store Management Internship Summer 2027 - Raleigh/Durham | NC - Raleigh +10 | \$20-\$22 per hour | Oct 18 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NC---Raleigh/Retail-Store-Management-Internship-Summer-2027---Raleigh-Durham_R1022361) |

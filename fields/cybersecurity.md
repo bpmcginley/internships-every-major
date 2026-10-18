@@ -1,6 +1,6 @@
 # Cybersecurity: Summer 2027 Internships
 
-91 open Summer 2027 cybersecurity roles, newest first (all 91). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 194 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+91 open Summer 2027 cybersecurity roles, newest first (all 91). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 195 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -18,9 +18,9 @@
 | [Rivian](https://internscout.org/internships/at/rivian/) | Cybersecurity - Summer 2027 Internships | Palo Alto, California +4 | \$33.00-51.00 per hour | Oct 9 | [Apply](https://careers.rivian.com/jobs/34316) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Corporate Security Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 9 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Corporate-Security-Intern---Summer-2027---Franklin--TN_R00214220) |
 | [CACI](https://internscout.org/internships/at/caci/) | Cyber Security Intern - Summer 2027 | Springfield, VA, US |  | Oct 9 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046) |
+| [The Boeing Company](https://internscout.org/internships/at/boeing/) | Boeing Summer 2027 Internship Program (Paid) – Security & Fire Operation (S&FO) | USA - Everett, WA +29 |  | Oct 7 | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717) |
 | [Apple Bank](https://internscout.org/internships/at/apple-bank/) | 2027 Summer Intern- Information Security | New York, NY | \$24/hr | Oct 7 | [Apply](https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern--Information-Security_2026-1416) |
 | [Mastercard](https://internscout.org/internships/at/mastercard/) | Security Infrastructure Engineering & Architecture Intern, Summer 2027 – Arlington, VA, US | Arlington, Virginia |  | Oct 7 | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Security-Infrastructure-Engineering---Architecture-Intern--Summer-2027---Arlington--VA--US_R-284924) |
-| [Boeing](https://internscout.org/internships/at/boeing/) | Boeing Summer 2027 Internship Program (Paid) – Security & Fire Operation (S&FO) | USA - Everett, WA +29 |  | Oct 7 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1) |
 | [MEMX](https://internscout.org/internships/at/memx/) | Information Security Intern, Summer 2027 (Hybrid, NYC) | United States |  | Oct 6 | [Apply](https://job-boards.greenhouse.io/memx/jobs/5445236008) |
 | [DuCharme, McMillen & Associates](https://internscout.org/internships/at/ducharme-mcmillen-associates/) | Cybersecurity Intern - Summer 2027 | Fort Wayne, IN |  | Oct 6 | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Cybersecurity-Intern---Summer-2027_REQ742) |
 | [CACI](https://internscout.org/internships/at/caci/) | Cyber Analyst Intern - Summer 2027 | Ashburn, VA, US |  | Oct 6 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Cyber-Analyst-Intern---Summer-2027_333161) |
@@ -48,7 +48,7 @@
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Security (Product, Systems, Cyber) Engineering Internship - Summer 2027 | San Diego, CA |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720740636) |
 | [Netsmart](https://internscout.org/internships/at/netsmart/) | Security Analyst Future (Summer 2027 Internship) | Overland Park, KS |  | Sep 18 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Security-Analyst-Future--Summer-2027-Internship-_R015669) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship - Military Systems Cybersecurity Engineer | Laurel, Maryland |  | Sep 17 | [Apply](https://careers.jhuapl.edu/jobs/59759) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Security Analyst Intern Summer 2027 | Middle River, MD +3 |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986963003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Security Analyst Intern Summer 2027 | Albuquerque, NM +3 |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986874003) |
 | [SimVentions](https://internscout.org/internships/at/simventions/) | 2027 Cybersecurity Intern | Fredericksburg, Virginia | Paid | Sep 15 | [Apply](https://simventions.jibeapply.com/jobs/1630) |
 | [Intuit](https://internscout.org/internships/at/intuit/) | Software Engineer Intern - Cybersecurity | Mountain View, CA |  | Sep 14 | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616) |
 | [Citizens Financial Group](https://internscout.org/internships/at/citizens-financial-group/) | Data Engineer Intern - Enterprise Technology & Security | Plano, TX +2 |  | Sep 11 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285) |
