@@ -1,6 +1,6 @@
 # Product Management: Summer 2027 Internships
 
-143 open Summer 2027 product management roles, newest first (all 143). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 245 product management internships on InternScout](https://internscout.org/internships/product-management/)
+142 open Summer 2027 product management roles, newest first (all 142). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 243 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -79,7 +79,6 @@
 | [RF-SMART](https://internscout.org/internships/at/rf-smart/) | Product Strategy Intern | Jacksonville, FL +1 | Paid | Sep 8 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5409030008) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Associate Product Manager Intern | Hybrid - San Francisco, CA +1 | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8168322?gh_jid=8168322) |
 | ID.me | Product Intern | Mountain View, CA |  | Sep 8 | [Apply](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003) |
-| [Trimble](https://internscout.org/internships/at/trimble/) | Product Management Intern | Westminster, CO +1 |  | Sep 8 | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1) |
 | Dick's Sporting Goods | Product Management Intern - Corporate Internship | Pittsburgh, PA |  | Sep 8 | [Apply](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1) |
 | [COUNTRY Financial](https://internscout.org/internships/at/country-financial/) | Auto Product Analyst Intern | Bloomington, IL |  | Sep 8 | [Apply](https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Auto-Product-Analyst-Intern_R26_0000000995) |
 | [Trimble](https://internscout.org/internships/at/trimble/) | Product Management Intern | US - CO +4 |  | Sep 8 | [Apply](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1) |

@@ -1,6 +1,6 @@
 # Engineering: Summer 2027 Internships
 
-432 open Summer 2027 engineering roles, newest first (the 200 newest of 432). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 1,226 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+432 open Summer 2027 engineering roles, newest first (the 200 newest of 432). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 1,227 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -66,7 +66,6 @@
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Supplier Quality Engineering Intern | Sparks, Nevada +1 |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51650) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Controls Engineering Intern | Sparks, Nevada +1 |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51632) |
 | [Philips](https://internscout.org/internships/at/philips/) | Co-op – System Engineering – Plymouth, MN – January 2027 | Plymouth, Minnesota, United States +1 |  | Oct 9 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406) |
-| [Jabil](https://internscout.org/internships/at/jabil/) | Automation Engineering Intern | Clinton, MA +1 | \$16.00 - \$32.00 | Oct 8 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Clinton-MA/Automation-Engineering-Intern_J2466618) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Product Safety Engineering Intern - Summer 2027 - Franklin, TN and Smyrna, TN | Franklin, Tennessee - United States of America |  | Oct 8 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Product-Safety-Engineering-Intern---Summer-2027---Franklin--TN-and-Smyrna--TN_R00214249) |
 | [Cadence](https://internscout.org/internships/at/cadence/) | CST Application Engineer Intern - Physical Systems | SAN JOSE |  | Oct 8 | [Apply](https://cadence.wd1.myworkdayjobs.com/external_careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Physical-Systems_R56702-2) |
 | [Cadence Design Systems](https://internscout.org/internships/at/cadence-design-systems/) | CST Application Engineer Intern - Physical Systems | SAN JOSE |  | Oct 8 | [Apply](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Physical-Systems_R56702-1) |
@@ -100,6 +99,7 @@
 | [CACI](https://internscout.org/internships/at/caci/) | Network Engineer Intern - Summer 2027 | High Point, NC, US |  | Oct 5 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/High-Point-NC-US/Network-Engineer-Intern---Summer-2027_332843) |
 | [Repsol](https://internscout.org/internships/at/repsol/) | Drilling Engineering Intern – Silverwind Exploration Project (Summer 2027) | Alaska |  | Oct 5 | [Apply](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Alaska/Drilling-Engineering-Intern---Silverwind-Exploration-Project--Summer-2027-_84059-1) |
 | [Motorola](https://internscout.org/internships/at/motorola/) | Prototype Engineer Intern - Summer 2027 | Plantation, FL |  | Oct 5 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Prototype-Engineer-Intern---Summer-2027_R69267-1) |
+| [Duke Energy](https://internscout.org/internships/at/duke-energy/) | Engineering Internship & Co-op Program - Summer 2027 | Charlotte, NC +12 |  | Oct 2 | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Engineering-Internship---Co-op-Program---Summer-2027_R41226) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Modular Engineering Internship – Summer 2027 | Los Altos, CA |  | Oct 2 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721246663) |
 | [Diversified Energy](https://internscout.org/internships/at/diversified-energy/) | 2027 Summer Intern- Engineer (Appalachia) | Charleston, West Virginia |  | Oct 2 | [Apply](https://careers.div.energy/jobs/2730) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Technical Engineering Intern - Morris, IL (ASSOCIATE'S DEGREE ONLY) | Morris, Illinois | Paid | Oct 2 | [Apply](https://jobs.constellationenergy.com/jobs/139593) |

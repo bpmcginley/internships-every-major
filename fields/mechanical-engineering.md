@@ -1,6 +1,6 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-217 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 217). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 671 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+216 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 216). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 667 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -195,7 +195,6 @@
 | [X-energy](https://internscout.org/internships/at/x-energy/) | Mechanical Engineering Internship - Summer 2027 | Rockville, MD |  | Sep 18 | [Apply](https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Rockville-MD/Mechanical-Engineering-Internship---Summer-2027_R101319-1) |
 | [Vermeer](https://internscout.org/internships/at/vermeer/) | Manufacturing Engineer Intern - Summer 2027 | Pella, Iowa, USA - The Center |  | Sep 18 | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---The-Center/Manufacturing-Engineer-Intern---Summer-2027_REQ-22141) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Electrical or Mechanical Engineering (Compton) | Compton, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Compton-2027-Summer-Internship-Electrical-or-Mechanical-Engineering-%28Compton%29-CA-90220-6403/1423080200/) |
-| [AeroVironment](https://internscout.org/internships/at/aerovironment/) | Summer 2027 Manufacturing Engineering Intern | Simi Valley, CA +13 |  | Sep 18 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Summer-2027-Manufacturing-Engineering-Intern_8608) |
 | [Empirical Foods](https://internscout.org/internships/at/empirical-foods/) | Machine Shop Intern - Summer 2027 | South Sioux City, NE |  | Sep 18 | [Apply](https://careers-empiricalfoods.icims.com/jobs/4121/machine-shop-intern---summer-2027/job) |
 | [Ruekert & Mielke](https://internscout.org/internships/at/ruekert-mielke/) | Civil 3D CAD Student Intern (Summer 2027) | Waukesha, Wisconsin |  | Sep 18 | [Apply](https://ruekertmielke.bamboohr.com/careers/308) |
 | [Michelin](https://internscout.org/internships/at/michelin/) | Summer 2027 Internship: Mechanical Engineer (Emporia, KS) | EMPORIA, KS |  | Sep 18 | [Apply](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EMPORIA-KS/XMLNAME-2027-Summer-Mechanical-Engineer--Emporia--KS-_R-2026030587) |
@@ -204,6 +203,7 @@
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Summer 2027 Mechanical Engineer Intern- Bachelor's (Austin, TX) | Austin,TX | Paid | Sep 18 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093) |
 | [GE Appliances](https://internscout.org/internships/at/ge-appliances/) | Engineering/Manufacturing Co-op\_Summer 2027 | Louisville, KY +2 |  | Sep 18 | [Apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Engineering-Manufacturing-Co-op-Summer-2027_REQ-26424) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | 2027 Manufacturing Engineer Summer Internship (Bachelors Austin, TX) | Austin,TX | Paid | Sep 18 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2027-Manufacturing-Engineer-Summer-Internship--Bachelors-Austin--TX-_R2626242) |
+| Sensata | Mechanical Engineer Intern (Dynapower) - Summer 2027 | Dynapower South Burlington, VT | \$25.00 | Sep 18 | [Apply](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Dynapower-South-Burlington-VT/Mechanical-Engineer-Intern--Dynapower----Summer-2027_IRC98334) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

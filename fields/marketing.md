@@ -1,6 +1,6 @@
 # Marketing: Summer 2027 Internships
 
-225 open Summer 2027 marketing roles, newest first (the 200 newest of 225). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 633 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+225 open Summer 2027 marketing roles, newest first (the 200 newest of 225). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 632 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -31,7 +31,6 @@
 | [3M](https://internscout.org/internships/at/3m/) | Internship - 2027 Undergraduate 3M Brand Design Intern - Safety & Industrial Business Group (SIBG) | Maplewood, MN +1 |  | Oct 12 | [Apply](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-Brand-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172458) |
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | AI Marketing and Branding Intern – Summer 2027 | US.CO.Denver |  | Oct 12 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/AI-Marketing-and-Branding-Intern---Summer-2027_R-162350-1) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Strategic Pricing & AI Analytics Intern (Summer 2027) | USA - Texas - Austin |  | Oct 11 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Strategic-Pricing---AI-Analytics-Intern--Summer-2027-_JR-2605139) |
-| [Jabil](https://internscout.org/internships/at/jabil/) | Marketing & Communications Intern | Austin, TX |  | Oct 9 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Marketing---Communications-Intern_J2467203) |
 | Kyndryl | Marketing Internship, Generalist | New York, NY, USA | \$30/hour | Oct 9 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Generalist_R-70009) |
 | [URBN](https://internscout.org/internships/at/urbn/) | Anthropologie Store Communications & Design Intern | Philadelphia, PA | Paid | Oct 9 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/33525/anthropologie-store-communications-%26-design-intern/job) |
 | Kyndryl | Marketing Intern - Marketing Analysis | NYC |  | Oct 9 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analysis_R-70007-1) |
@@ -180,6 +179,7 @@
 | [The Boeing Company](https://internscout.org/internships/at/boeing/) | Boeing Summer 2027 Internship Program (Paid) - Sales and Marketing | USA - Seattle, WA +9 |  | Sep 18 | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Sales-and-Marketing_JR2026518830) |
 | [Ensign-Bickford Industries](https://internscout.org/internships/at/ensign-bickford-industries/) | Communications Intern | Simsbury, CT |  | Sep 18 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Communications-Intern_REQ107700-1) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | Marketing Intern - US Farm Animal (Summer 2027) | Indianapolis, IN |  | Sep 18 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Marketing-Intern---US-Farm-Animal--Summer-2027-_R0026873) |
+| [Ensign-Bickford Aerospace & Defense Company](https://internscout.org/internships/at/ensign-bickford-aerospace-defense-company/) | Communications Intern | Simsbury, CT |  | Sep 18 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Communications-Intern_REQ107700) |
 | [Momentive](https://internscout.org/internships/at/momentive/) | Summer 2027 Intern - Healthcare Marketing | Niskayuna, NY | \$22.00 - \$26.00 | Sep 18 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Healthcare-Marketing_R9733) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Downstream Marketing Intern - Texas | Flower Mound, Texas |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/Summer-2027-Internship---Downstream-Marketing-Intern---Texas_R572807) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Intern - Marketing - Minnesota | Bloomington, Minnesota |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Bloomington-Minnesota/Summer-2027-Intern---Marketing---Minnesota_R572990) |

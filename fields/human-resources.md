@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-117 open Summer 2027 human resources roles, newest first (all 117). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 272 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+117 open Summer 2027 human resources roles, newest first (all 117). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 273 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - People, Engagement, and Impact (New York, NY) | New York, NY |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81243) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - People, Engagement, and Impact (Pittsburgh, PA) | Pittsburgh, PA |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81246) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Intelligent Sensing Intern - Global Frontier Tech Recruitment Program | San Jose, CA |  | Jun 4 | [Apply](https://jobs.bytedance.com/en/position/7629210458173556997/detail) |
+| [The Boeing Company](https://internscout.org/internships/at/boeing/) | Boeing Business Internship Program (Paid) Summer 2027 - Human Resources | USA - Everett, WA +12 |  | Oct 18 | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/Boeing-Business-Internship-Program--Paid--Summer-2027---Human-Resources_JR2026520801) |
 | [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Human Resources Training (Summer 2027) | Neenah, WI |  | Oct 17 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Human-Resources-Training_R041070) |
 | [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Human Resources (Summer 2027) | Neenah, WI |  | Oct 17 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Human-Resources--Summer-2027-_R040029-1) |
 | AriensCo | Intern, Human Resources | WI - Brillion |  | Oct 17 | [Apply](https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Intern--Human-Resources_R-04130) |
@@ -95,7 +96,6 @@
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Total Rewards and HRIS Intern, Summer 2027 | Boston, MA +3 |  | Sep 18 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Boston-MA/Total-Rewards-and-HRIS--Intern-2027_10017569) |
 | [Newrez](https://internscout.org/internships/at/newrez/) | 2027 Summer Internship – HR Benefits | TX, Coppell |  | Sep 18 | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---HR-Benefits_R10377) |
 | [Hy-Vee](https://internscout.org/internships/at/hy-vee/) | Human Resources Intern - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA |  | Sep 18 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Human-Resources-Intern---Summer-2027_R251134) |
-| [Boeing](https://internscout.org/internships/at/boeing/) | Boeing Business Internship Program (Paid) Summer 2027 - Human Resources | USA - Everett, WA +12 |  | Sep 18 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Business-Internship-Program--Paid--Summer-2027---Human-Resources_JR2026520801-1) |
 | [Hy-Vee](https://internscout.org/internships/at/hy-vee/) | HRIS Intern - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA |  | Sep 18 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/HRIS-Intern---Summer-2027_R251135) |
 | [Oshkosh](https://internscout.org/internships/at/oshkosh/) | Human Resources Intern (Summer 2027) | Appleton, Wisconsin, United States |  | Sep 18 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Human-Resources-Intern--Summer-2027-_R49896) |
 | [Hitachi](https://internscout.org/internships/at/hitachi/) | 2027 Summer HR Intern - Jefferson City | Jefferson City, Missouri, United States of America |  | Sep 18 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Jefferson-City-Missouri-United-States-of-America/XMLNAME-2027-Summer-HR-Intern---Jefferson-City_R0143633) |

@@ -1,6 +1,6 @@
 # Software Engineering: Summer 2027 Internships
 
-1,196 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,196). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 2,469 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,192 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,192). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 2,460 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -201,9 +201,9 @@
 | State Affairs | Software Engineer Intern | Washington, DC | Paid | Oct 7 | [Apply](https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009) |
 | [K2 Space](https://internscout.org/internships/at/k2-space/) | Platform Engineering Intern – Summer 2027 | Los Angeles | \$30 - \$40 per hour | Oct 7 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5447206008) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Software Engineer Intern - Embedded Systems | Redmond, WA +1 |  | Oct 7 | [Apply](https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) |
-| [Jabil](https://internscout.org/internships/at/jabil/) | Computer Systems Analyst Intern | St. Petersburg/Tampa, FL |  | Oct 7 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Computer-Systems-Analyst-Intern_J2464586-1) |
 | Rolls-Royce | Engineering and Technology Summer Internship - UK | Washington |  | Oct 7 | [Apply](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Derby/Engineering-and-Technology-Summer-Internship---UK_JR6160585) |
 | [Nissan Global](https://internscout.org/internships/at/nissan-global/) | Systems Engineer Intern - Summer 2027 | Canton, MS |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882) |
+| [Nissan](https://internscout.org/internships/at/nissan/) | Systems Engineer Intern - Summer 2027 - Canton, MS | Canton, Mississippi - United States of America +1 |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

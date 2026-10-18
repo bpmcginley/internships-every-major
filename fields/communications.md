@@ -1,6 +1,6 @@
 # Communications: Summer 2027 Internships
 
-49 open Summer 2027 communications roles, newest first (all 49). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 162 communications internships on InternScout](https://internscout.org/internships/communications/)
+49 open Summer 2027 communications roles, newest first (all 49). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 161 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -12,7 +12,6 @@
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Marketing - Copywriter | Bloomington, Illinois |  | Oct 14 | [Apply](https://jobs.statefarm.com/jobs/46413) |
 | [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program - Global Communications Intern (AI focus) - Intern | USA - New Jersey - Rahway |  | Oct 14 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Communications-Intern--AI-focus----Intern_R422423) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 E2 Communications Intern | San Francisco, CA |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6052/summer-2027-e2-communications-intern/job) |
-| [Jabil](https://internscout.org/internships/at/jabil/) | Marketing & Communications Intern | Austin, TX |  | Oct 9 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Marketing---Communications-Intern_J2467203) |
 | [URBN](https://internscout.org/internships/at/urbn/) | Anthropologie Store Communications & Design Intern | Philadelphia, PA | Paid | Oct 9 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/33525/anthropologie-store-communications-%26-design-intern/job) |
 | [Huntington Bancshares](https://internscout.org/internships/at/huntington-bancshares/) | Summer 2027 Communications Internship | Columbus, OH +1 |  | Oct 8 | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Communications-Internship_R0075593) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | NMAC Marketing Communications Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/NMAC-Marketing-Communications-Intern---Summer-2027---Franklin--TN_R00214252) |
@@ -43,6 +42,7 @@
 | [HNTB](https://internscout.org/internships/at/hntb/) | Communications & Engagement Intern - Summer 2027 | Columbus, OH +2 | \$19.12 - \$28.68 | Oct 3 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Columbus-OH/Communications---Engagement-Intern---Summer-2027_R-31327-1) |
 | [The Boeing Company](https://internscout.org/internships/at/boeing/) | Boeing Summer 2027 Internship Program (Paid) – Communications Intern | USA - Arlington, VA +6 |  | Sep 18 | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Communications-Intern_JR2026518829-1) |
 | [Ensign-Bickford Industries](https://internscout.org/internships/at/ensign-bickford-industries/) | Communications Intern | Simsbury, CT |  | Sep 18 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Communications-Intern_REQ107700-1) |
+| [Ensign-Bickford Aerospace & Defense Company](https://internscout.org/internships/at/ensign-bickford-aerospace-defense-company/) | Communications Intern | Simsbury, CT |  | Sep 18 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Communications-Intern_REQ107700) |
 | [Hy-Vee](https://internscout.org/internships/at/hy-vee/) | Content Writer Intern - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA |  | Sep 18 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Content-Writer-Intern---Summer-2027_R249894) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Communications & Graphics Intern - Summer 2027 | Raleigh, NC |  | Sep 18 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Raleigh-NC/Communications---Graphics-Intern---Summer-2027_R-31513-1) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Communications Intern - Summer 2027 | Nashville, TN (City Center) |  | Sep 18 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Nashville-TN-City-Center/Communications-Intern---Summer-2027_R-31413-1) |

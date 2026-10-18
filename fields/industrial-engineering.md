@@ -1,6 +1,6 @@
 # Industrial Engineering: Summer 2027 Internships
 
-244 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 244). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 612 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+243 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 243). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 609 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -187,7 +187,6 @@
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern- Industrial Engineering | Pascagoula, Mississippi |  | Oct 6 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-INDUSTRIAL-ENGINEERING-Miss/1437347600/) |
 | [Medline](https://internscout.org/internships/at/medline/) | MBA Intern, Supply Chain Optimization - Summer 2027 | Northfield, Illinois | \$92,000.00 - \$138,000.00 | Oct 6 | [Apply](https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/MBA-Intern--Supply-Chain-Optimization---Summer-2027_R2615857) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Supply Chain Internship - Summer 2027 | Eden Prairie, MN |  | Oct 5 | [Apply](https://uscareers-idemia.icims.com/jobs/8636/supply-chain-internship---summer-2027/job) |
-| [The Boeing Company](https://internscout.org/internships/at/boeing/) | Boeing Summer 2027 Internship Program (Paid) - Supply Chain | USA - Everett, WA +32 |  | Oct 4 | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Supply-Chain_JR2026519410) |
 | [American Rare Earths](https://internscout.org/internships/at/american-rare-earths/) | Supply Chain Intern (Summer 2027) | Stillwater, OK |  | Oct 1 | [Apply](https://ats.rippling.com/usare/jobs/0175fd2a-3020-4197-9b67-8ac864cf4bd5) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern, Supply Chain, Summer 2027 | New Orleans, Louisiana +1 |  | Sep 26 | [Apply](https://jobs.entergy.com/job/New-Orleans-Student%2C-Intern%2C-Supply-Chain%2C-Summer-2027-Loui/1434119800/) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Supply Chain and Logistics Intern – Distribution Center Experience - Summer 2027 | RI - Woonsocket +4 | \$26 per hour | Sep 19 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Supply-Chain-and-Logistics-Intern---Distribution-Center-Experience---Summer-2027_R1033260) |
@@ -203,6 +202,7 @@
 | [Elanco](https://internscout.org/internships/at/elanco/) | Operational Excellence Intern – Elwood, Kansas (Summer 2027) | Elwood, KS |  | Sep 18 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Elwood-KS/Operational-Excellence-Intern---Elwood--Kansas--Summer-2027-_R0026902) |
 | [Hy-Vee](https://internscout.org/internships/at/hy-vee/) | IT Supply Chain Intern - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA |  | Sep 18 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/IT-Supply-Chain-Intern---Summer-2027_R250143) |
 | [Becton Dickinson](https://internscout.org/internships/at/becton-dickinson/) | BD 2027 Summer Internship - Supply Chain Development Program | Franklin Lakes, NJ |  | Sep 18 | [Apply](https://bdx.wd1.myworkdayjobs.com/US_EARLY_TALENT_SITE/job/USA-NJ---Franklin-Lakes/BD-2027-Summer-Internship---Supply-Chain-Development-Program_R-552409) |
+| [Boeing](https://internscout.org/internships/at/boeing/) | Boeing Summer 2027 Internship Program (Paid) - Supply Chain | USA - Everett, WA +32 |  | Sep 18 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Supply-Chain_JR2026519410-1) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | Supply Chain Intern (Summer 2027) - Clinton, Indiana | Clinton, IN |  | Sep 18 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Clinton-IN/Supply-Chain-Intern--Summer-2027----Clinton--Indiana_R0027061) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
