@@ -1,9 +1,10 @@
 # Government and Public Policy: Summer 2027 Internships
 
-58 open Summer 2027 government and public policy roles, newest first (all 58). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 312 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+59 open Summer 2027 government and public policy roles, newest first (all 59). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 314 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Legislative and Regulatory Department Undergraduate Intern | Camp Hill PA, 17011, Center Street Building 1B |  | Oct 19 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Camp-Hill-PA-17011-Center-Street-Building-1B/Summer-2027-Legislative-and-Regulatory-Department-Undergraduate-Intern_J286835) |
 | [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Federal Project Management | Manassas 1 DC5, VA |  | Oct 19 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-VA-Manassas-1-DC5/Summer-2027-Internship--Federal-Project-Management_R2026-2299) |
 | [RSM](https://internscout.org/internships/at/rsm/) | Federal Credits and Incentives Tax Intern - Summer 2027 | Los Angeles |  | Oct 16 | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Los-Angeles/Federal-Credits-and-Incentives-Tax-Intern---Summer-2027_JR118775) |
 | Federal Energy Regulatory Commission | Student Trainee (Legal) | District of Columbia, District of Columbia | \$70623 - \$91815 Per Year | Oct 16 | [Apply](https://www.usajobs.gov:443/job/888935900) |
@@ -25,7 +26,7 @@
 | Office of the Secretary of Defense | Student Trainee (Legal) | Arlington, Virginia | \$57736 - \$91815 Per Year | Oct 8 | [Apply](https://www.usajobs.gov:443/job/887905200) |
 | [Plante Moran](https://internscout.org/internships/at/plante-moran/) | 2027 Governmental Accounting Practice Summer Intern | Detroit +1 |  | Oct 8 | [Apply](https://plantemoran.wd1.myworkdayjobs.com/pmexternalcareers/job/Southfield/XMLNAME-2027-Governmental-Accounting-Practice-Summer-Intern_JR-03325) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - Cash Services | Houston, TX +1 |  | Oct 6 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Houston-TX/XMLNAME-2027-Intern---Cash-Services_R-0000033573) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Government Operations Intern Summer 2027 | Littleton, CO +1 |  | Oct 2 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8001401003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Government Operations Intern Summer 2027 | Washington, DC +1 | \$22.00 | Oct 2 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7992754003) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Internship- Public Affairs | HOUSTON, Texas |  | Sep 30 | [Apply](https://careers.kindermorgan.com/jobs/6224) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Public Policy (Detroit) | Detroit, MI |  | Sep 30 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14729) |
 | [Internal Revenue Service](https://internscout.org/internships/at/internal-revenue-service/) | Summer Intern (Legal Administrative Specialist) | Birmingham, Alabama +45 | \$61722 - \$100315 Per Year | Sep 29 | [Apply](https://www.usajobs.gov:443/job/886742000) |

@@ -1,10 +1,11 @@
 # Retail: Summer 2027 Internships
 
-172 open Summer 2027 retail roles, newest first (all 172). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 235 retail internships on InternScout](https://internscout.org/internships/retail/)
+173 open Summer 2027 retail roles, newest first (all 173). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 236 retail internships on InternScout](https://internscout.org/internships/retail/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Target](https://internscout.org/internships/at/target/) | Store Executive Intern (Store Leadership Intern) – Greater Pasadena, CA (Starting Summer 2027) | 777 E Colorado Blvd, Pasadena,CA 91101-2104 +2 | \$28.50- \$30.00 | Oct 19 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/777-E-Colorado-Blvd-PasadenaCA-91101-2104/Store-Executive-Intern--Store-Leadership-Intern----Greater-Pasadena--CA--Starting-Summer-2027-_R0000449492) |
+| Ace Hardware | Buyer/Merchandising Internship – Summer 2027, Full Time/Paid/12 Weeks | IL - Oak Brook | \$22.00 per hour | Oct 19 | [Apply](https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/Buyer-Merchandising-Internship---Summer-2027--Full-Time-Paid-12-Weeks_REQ-34787) |
 | [Apple Bank](https://internscout.org/internships/at/apple-bank/) | 2027 Summer Intern - Retail Banking | New York, NY | \$24/hr | Oct 19 | [Apply](https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2026-Summer-Intern----Retail-Banking_2026-1415) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694360101507762485) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Recommendation Video | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694362230074673461) |

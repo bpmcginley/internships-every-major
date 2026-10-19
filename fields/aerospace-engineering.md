@@ -1,6 +1,6 @@
 # Aerospace Engineering: Summer 2027 Internships
 
-32 open Summer 2027 aerospace engineering roles, newest first (all 32). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 68 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
+31 open Summer 2027 aerospace engineering roles, newest first (all 31). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 68 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -35,7 +35,6 @@
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Aerospace Engineering Internship Summer 2027 | Centennial, CO |  | Sep 18 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Aerospace-Engineering-Internship-Summer-2027-CO-80112/1427399400/) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern Eng - Structural & Aerospace Engineering | Pascagoula, Mississippi |  | Sep 18 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-ENG-STRUCTURAL-&-AEROSPACE-ENGINEERING-Miss/1430053500/) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Avionics & Electrical Engineering Internship Summer 2027 | Centennial, CO |  | Sep 18 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Avionics-&-Electrical-Engineering-Internship-Summer-2027-CO-80112/1427399200/) |
-| [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Aerospace Engineering Intern (Summer 2027) | Hagerstown, MD +3 | \$16.48 - \$28.84 | Sep 18 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Aerospace-Engineering-Intern--Summer-2027-_R0030737) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

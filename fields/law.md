@@ -1,9 +1,10 @@
 # Law and Legal: Summer 2027 Internships
 
-107 open Summer 2027 law and legal roles, newest first (all 107). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 260 law and legal internships on InternScout](https://internscout.org/internships/law/)
+108 open Summer 2027 law and legal roles, newest first (all 108). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 261 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Legislative and Regulatory Department Undergraduate Intern | Camp Hill PA, 17011, Center Street Building 1B |  | Oct 19 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Camp-Hill-PA-17011-Center-Street-Building-1B/Summer-2027-Legislative-and-Regulatory-Department-Undergraduate-Intern_J286835) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Intern - Legal | Bridgeton, Missouri |  | Oct 16 | [Apply](https://careers.na.panasonic.com/jobs/51789) |
 | Federal Energy Regulatory Commission | Student Trainee (Legal) | District of Columbia, District of Columbia | \$70623 - \$91815 Per Year | Oct 16 | [Apply](https://www.usajobs.gov:443/job/888935900) |
 | [Axiom Space](https://internscout.org/internships/at/axiom-space/) | Legal Intern (Summer 2027) | Houston |  | Oct 15 | [Apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Legal-Intern--Summer-2027-_JR100763) |

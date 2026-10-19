@@ -1,9 +1,11 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-339 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 339). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 765 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+341 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 341). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 769 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| The Allen Institute for AI | Research Internship, AI for Science | Seattle, WA | \$94,320 | Oct 19 | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293615) |
+| Scale AI | Machine Learning Research Intern (Summer 2027) | New York, NY +1 |  | Oct 19 | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) |
 | [Inversion Space](https://internscout.org/internships/at/inversion-space/) | AI & Internal Tools Software Engineer - Summer Internship 2027 | Playa Vista, California, United States |  | Oct 19 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4745076005) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, PhD, Research Scientist, Visual Reasoning | Mountain View, CA, USA |  | Oct 19 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8292367) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - AI | Toronto, Ontario |  | Oct 19 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688-1) |
@@ -148,8 +150,8 @@
 | [DoorDash](https://internscout.org/internships/at/doordash/) | Machine Learning Intern - PhD | Seattle, WA +5 | Paid | Sep 25 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Perception, Machine Learning | Mountain View, CA, USA +1 | Paid | Sep 25 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8227411) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning | Mountain View, CA, USA +1 |  | Sep 25 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8233746) |
-| [Rockwell Automation](https://internscout.org/internships/at/rockwell-automation/) | Co-op, AI Software Engineering (6-8 months) | Mayfield Heights, Ohio, United States +3 |  | Sep 25 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982) |
-| [Rockwell Automation](https://internscout.org/internships/at/rockwell-automation/) | Intern, AI Software Engineering (June-August 2027) | Mayfield Heights, Ohio, United States +3 | Paid | Sep 25 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980) |
+| [Rockwell Automation](https://internscout.org/internships/at/rockwell-automation/) | AI Software Engineering Co-op - 6 months - 8 months | Mayfield Heights, OH +1 |  | Sep 25 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982) |
+| [Rockwell Automation](https://internscout.org/internships/at/rockwell-automation/) | AI Software Engineer Intern | Mayfield Heights, OH +1 |  | Sep 25 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980) |
 | [Lazard](https://internscout.org/internships/at/lazard/) | AI & Data Transformation Intern | New York +1 |  | Sep 24 | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6650) |
 | [Klaviyo](https://internscout.org/internships/at/klaviyo/) | Machine Learning Engineer Intern | Palo Alto, CA |  | Sep 23 | [Apply](https://job-boards.greenhouse.io/klaviyocampus/jobs/7999274003) |
 | [DoorDash](https://internscout.org/internships/at/doordash/) | Machine Learning Intern (Masters) - Summer 2027 | San Francisco, CA +5 | Paid | Sep 23 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8204111) |
@@ -202,8 +204,6 @@
 | [Veeam Software](https://internscout.org/internships/at/veeam-software/) | AI/ML Intern Summer 2027 | San Jose, CA, USA +1 |  | Sep 11 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4971207101) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Undergrad Intern – Software Engineer – Technology, AI & Data (Summer 2027) | Remote +1 |  | Sep 11 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Undergrad Intern – Digital Product – Technology, AI & Data (Summer 2027) | Remote +1 |  | Sep 11 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711) |
-| [Amgen](https://internscout.org/internships/at/amgen/) | Undergrad Intern – Data Scientist – Technology, AI & Data (Summer 2027) | Remote +1 |  | Sep 11 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704) |
-| [Amgen](https://internscout.org/internships/at/amgen/) | Grad Intern – Machine Learning Engineer – Technology, AI & Data (Summer 2027) | Remote +1 |  | Sep 11 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

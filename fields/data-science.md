@@ -1,10 +1,11 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-432 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 432). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 834 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+433 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 433). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 835 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: People Services Data Analytics | Ashburn 1 DC1, VA |  | Oct 19 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-VA-Ashburn-1-DC1/Summer-2027-Internship--People-Services-Data-Analytics_R2026-2307) |
+| [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Data Analyst Undergraduate Intern | Pittsburgh PA, 15222, FAP, 5th Avenue Place |  | Oct 19 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Data-Analyst-Undergraduate-Intern_J288017) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Data Science R&D Graduate Intern | PA, Working at Home - Pennsylvania +49 |  | Oct 19 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Data-Science-R-D-Graduate-Intern_J287175) |
 | [Systems Planning and Analysis (SPA)](https://internscout.org/internships/at/systems-planning-and-analysis-spa/) | Integrated Analytics Intern (Summer 2027) | Alexandria, Virginia |  | Oct 19 | [Apply](https://spa.jibeapply.com/jobs/23729) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | AI Data Science Intern, MS - Summer 2027 | Santa Clara, CA | Paid | Oct 19 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846-1) |
@@ -203,7 +204,6 @@
 | [onsemi](https://internscout.org/internships/at/onsemi/) | Data and Visualization Intern | Hopewell Junction, NY |  | Sep 17 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506638) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Product Marketing Data Analyst Intern | North Andover, MA |  | Sep 17 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Product-Data-Analyst--Marketing-Intern_10017538) |
 | [Gordon Food Service](https://internscout.org/internships/at/gordon-food-service/) | Data Engineering Internship | Atlanta, Georgia +1 |  | Sep 17 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Engineering-Internship_R-57330) |
-| [Gordon Food Service](https://internscout.org/internships/at/gordon-food-service/) | Vendor & Customer Master Data Internship | Wyoming, Michigan +1 |  | Sep 17 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Vendor---Customer-Master-Data-Internship_R-57341) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

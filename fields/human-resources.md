@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-115 open Summer 2027 human resources roles, newest first (all 115). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 272 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+116 open Summer 2027 human resources roles, newest first (all 116). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 272 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Learning and Development Programs Administrator | Duluth, GA |  | Sep 18 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Duluth-GA/Summer-2027-Internship--Learning-and-Development-Programs-Administrator_R2026-2017) |
 | [Geico](https://internscout.org/internships/at/geico/) | Human Resources Intern | Bethesda, MD |  | Sep 18 | [Apply](https://geico.wd1.myworkdayjobs.com/External/job/Bethesda-MD/Human-Resources-Intern_R0065717) |
 | [Springs Window Fashions](https://internscout.org/internships/at/springs-window-fashions/) | Talent Management Internship - Summer 2027 | MIDDLETON, WI |  | Sep 18 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12846/talent-management-internship---summer-2027/job) |
+| [Medline](https://internscout.org/internships/at/medline/) | MBA Intern, Human Resources - Summer 2027 | Northfield, Illinois | \$92,000.00 - \$138,000.00 | Sep 18 | [Apply](https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/MBA-Intern--Human-Resources---Summer-2027_R2615784) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Human Resources - 2027 Summer Student Program | Houston, TX |  | Sep 18 | [Apply](https://aramcoservices.applytojob.com/apply/zlkOvphMB7/Human-Resources-2027-Summer-Student-Program) |
 | [Springs Window Fashions](https://internscout.org/internships/at/springs-window-fashions/) | Human Resources Internship - Summer 2027 | MIDDLETON, WI |  | Sep 18 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12847/human-resources-internship---summer-2027/job) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Human Resources Internship - Summer 2027 | Centennial, CO |  | Sep 18 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Human-Resources-Internship-Summer-2027-CO-80112/1427396300/) |
