@@ -1,10 +1,10 @@
 # Psychology: Summer 2027 Internships
 
-6 open Summer 2027 psychology roles, newest first (all 6). **Updated October 18, 2026.** [Back to every major](../README.md) · [See all 36 psychology internships on InternScout](https://internscout.org/internships/psychology/)
+6 open Summer 2027 psychology roles, newest first (all 6). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 35 psychology internships on InternScout](https://internscout.org/internships/psychology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [Excellus BCBS](https://internscout.org/internships/at/excellus-bcbs/) | College Intern - Summer 2027 - Behavioral Health Provider Relations | Buffalo +2 | Paid | Sep 23 | [Apply](https://lthc.wd1.myworkdayjobs.com/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Behavioral-Health-Provider-Relations_JR104057-2) |
+| [Excellus BCBS](https://internscout.org/internships/at/excellus-bcbs/) | College Intern - Summer 2027 - Behavioral Health Provider Relations | Buffalo +2 | Paid | Sep 24 | [Apply](https://lthc.wd1.myworkdayjobs.com/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Behavioral-Health-Provider-Relations_JR104057-2) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics | Mountain View, CA, USA +1 |  | Sep 14 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8197899) |
 | [Lyft](https://internscout.org/internships/at/lyft/) | UX Research Intern (Summer 2027) | Toronto, Canada |  | Sep 11 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002) |
 | Rogers Behavioral Health | Summer 2027 Start Experiential Therapist Internship | Oconomowoc Main Campus, Oconomowoc, WI +2 |  | Oct 16 | [Apply](https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Oconomowoc-Main-Campus-Oconomowoc-WI/Summer-2027-Start-Experiential-Therapist-Internship_R8356-1) |
