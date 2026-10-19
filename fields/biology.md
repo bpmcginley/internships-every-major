@@ -1,6 +1,6 @@
 # Biology: Summer 2027 Internships
 
-14 open Summer 2027 biology roles, newest first (all 14). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 136 biology internships on InternScout](https://internscout.org/internships/biology/)
+14 open Summer 2027 biology roles, newest first (all 14). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 138 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

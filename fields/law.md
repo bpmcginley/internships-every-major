@@ -1,6 +1,6 @@
 # Law and Legal: Summer 2027 Internships
 
-109 open Summer 2027 law and legal roles, newest first (all 109). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 259 law and legal internships on InternScout](https://internscout.org/internships/law/)
+107 open Summer 2027 law and legal roles, newest first (all 107). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 260 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -87,7 +87,6 @@
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Risk and Compliance (New York, NY) | New York, NY |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81271) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Risk and Compliance (Pittsburgh, PA) | Pittsburgh, PA |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81276) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Risk and Compliance (Lake Mary, FL) | Lake Mary, FL |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81277) |
-| Old Mission Capital | Legal Intern - Summer 2027 | Chicago, IL, United States | \$30–\$35/hr | Aug 10 | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=7832843003) |
 | [Shure](https://internscout.org/internships/at/shure/) | Information Security Governance, Risk & Compliance Intern | Niles, IL |  | Oct 19, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Spectrum and Regulatory Affairs Intern | Niles, IL | \$23-\$43 per hour | Oct 19, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4999/spectrum-and-regulatory-affairs-intern/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Trade Compliance Intern | Niles, IL |  | Oct 19, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5004/global-trade-compliance-intern/job) |
@@ -102,7 +101,6 @@
 | [Dallas Fort Worth International Airport](https://internscout.org/internships/at/dallas-fort-worth-international-airport/) | 2027 Undergraduate Summer Internship - Fire Regulatory Compliance & Planning | DPS Headquarters, TX |  | Sep 23 | [Apply](https://dfwairport.wd5.myworkdayjobs.com/External/job/DPS-Headquarters/XMLNAME-2027-Undergraduate-Summer-Internship---Fire-Regulatory-Compliance---Planning_JR102115) |
 | [Weyerhaeuser](https://internscout.org/internships/at/weyerhaeuser/) | Income Tax Compliance Internship | Seattle, WA |  | Sep 21 | [Apply](https://weyerhaeuser.taleo.net/careersection/100002/jobdetail.ftl?job=01024962) |
 | [DuCharme, McMillen & Associates](https://internscout.org/internships/at/ducharme-mcmillen-associates/) | Transaction Tax Compliance Intern - Summer 2027 | Indianapolis, IN |  | Sep 18 | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Indianapolis-IN/Transaction-Tax-Compliance-Intern---Summer-2027_REQ620) |
-| [DuCharme, McMillen & Associates](https://internscout.org/internships/at/ducharme-mcmillen-associates/) | Property Tax Compliance Intern - Summer 2027 | Indianapolis, IN |  | Sep 18 | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Indianapolis-IN/Property-Tax-Compliance-Intern---Summer-2027_REQ643) |
 | [Uline](https://internscout.org/internships/at/uline/) | International Trade Compliance Internship - Summer 2027 | Pleasant Prairie, WI +4 | Paid | Sep 18 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/International-Trade-Compliance-Internship---Summer-2027_R265917) |
 | [Newrez](https://internscout.org/internships/at/newrez/) | 2027 Summer Internship – Homeowner Advocate - Regulatory Resolution | TX, Coppell |  | Sep 18 | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Homeowner-Advocate---Regulatory-Resolution_R10374) |
 | [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Legal Assistant | Overland Park, KS |  | Sep 18 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Summer-2027-Internship--Legal-Assistant_R2026-1969) |

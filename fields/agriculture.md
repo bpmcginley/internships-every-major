@@ -1,6 +1,6 @@
 # Agriculture: Summer 2027 Internships
 
-16 open Summer 2027 agriculture roles, newest first (all 16). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 45 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
+18 open Summer 2027 agriculture roles, newest first (all 18). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 52 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,6 +11,8 @@
 | [Elanco](https://internscout.org/internships/at/elanco/) | Beef Veterinarian Intern - US Farm Animal (Summer 2027) | US Territory Field based |  | Oct 2 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/US-Territory-Field-based/Beef-Veterinarian-Intern---US-Farm-Animal--Summer-2027-_R0027425) |
 | [The Mosaic Company](https://internscout.org/internships/at/the-mosaic-company/) | Mosaic Biosciences Agronomy Co-Op/Intern – Summer 2027 | Remote | \$19.20/hr | Sep 29 | [Apply](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/Virtual---US/Co-op-Student-Admin_65109) |
 | [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Petcare Quality and Food Safety Internship - Ft. Smith, Arkansas | USA-Arkansas-Ft. Smith |  | Sep 25 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Arkansas-Ft-Smith/Summer-2027-Mars-Petcare-Quality-and-Food-Safety-Internship---Ft-Smith--Arkansas_R167867-1) |
+| [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Forestry Field Office Internship – Emerging Talent Summer Experience Program | Junction City, OR |  | Sep 21 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792106) |
+| [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Forestry Finance Internship – Emerging Talent Summer Experience Program | Portland, OR |  | Sep 21 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792086) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Food Safety & Quality Intern - Summer 2027 - Campus Recruiting (Multiple Locations) | Austin, MN +10 |  | Sep 4 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35738) |
 | [Post Holdings](https://internscout.org/internships/at/post-holdings/) | Quality & Food Safety (QFS) Intern - Summer 2027 | Northfield, Minnesota |  | Sep 1 | [Apply](https://jobs.postholdings.com/jobs/31914) |
 | [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Sensory and Products Research Intern - Summer 2027 | Orrville, OH |  | Aug 25 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Sensory-and-Products-Research-Intern--Summer-2027_115677) |

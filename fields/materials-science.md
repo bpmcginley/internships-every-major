@@ -1,9 +1,10 @@
 # Materials Science: Summer 2027 Internships
 
-14 open Summer 2027 materials science roles, newest first (all 14). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 33 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
+15 open Summer 2027 materials science roles, newest first (all 15). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 34 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Charter Manufacturing](https://internscout.org/internships/at/charter-manufacturing/) | Materials Engineer Intern (Summer 2027) | Charter Aarrowcast - Shawano, WI |  | Oct 19 | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Aarrowcast---Shawano-WI/Materials-Engineer-Intern--Summer-2027-_R08192) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Research and Development - Computational Materials Science: Continuum Scales and Materials Discove… | Warren, Michigan, United States of America |  | Oct 12 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Computational-Materials-Science--Continuum-Scales-and-Materials-Discovery_JR-202621642) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Research and Development - Physical Metallurgist (Steels) | Warren, Michigan, United States of America |  | Oct 12 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Physical-Metallurgist--Steels-_JR-202621636) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Materials Engineering Intern | Sparks, Nevada |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51631) |

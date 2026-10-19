@@ -1,6 +1,6 @@
 # Health: Summer 2027 Internships
 
-40 open Summer 2027 health roles, newest first (all 40). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 220 health internships on InternScout](https://internscout.org/internships/health/)
+39 open Summer 2027 health roles, newest first (all 39). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 225 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -41,7 +41,6 @@
 | [Abbott](https://internscout.org/internships/at/abbott/) | Abbott Nutrition Inside Sales Internship Health Care Professionals (HCP) Summer 2027 | United States - Ohio - Columbus |  | Sep 18 | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Abbott-Nutrition-Inside-Sales-Internship-Health-Care-Professionals--HCP--Summer-2027_31160320) |
 | BRG | 2027 Summer Associate (Intern) - Corporate Finance - Healthcare Transaction Advisory - Nashville, TN | Nashville, TN |  | Sep 18 | [Apply](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Nashville-TN/XMLNAME-2027-Summer-Associate--Intern----Corporate-Finance---Healthcare-Transaction-Advisory---Nashville--TN_JR101035) |
 | [McKesson](https://internscout.org/internships/at/mckesson/) | Health Systems Optimization Intern - Summer 2027 | USA, TX, Remote | Paid | Sep 18 | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Remote/Health-Systems-Optimization-Intern---Summer-2027_JR0152892) |
-| [Amgen](https://internscout.org/internships/at/amgen/) | Undergrad intern - U.S. Value & Access (Summer 2027) | Remote |  | Sep 18 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-intern---US-Value---Access--Summer-2027-_R-253424) |
 | [McKesson](https://internscout.org/internships/at/mckesson/) | McKesson Health Systems (MHS) Marketing Intern - Summer 2027 | USA, TX | Paid | Sep 18 | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/McKesson-Health-Systems--MHS--Marketing-Intern---Summer-2027_JR0153137) |
 | [McKesson](https://internscout.org/internships/at/mckesson/) | McKesson Health Systems (MHS) Field Sales Support Intern - Summer 2027 | USA, TX | Paid | Sep 18 | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/McKesson-Health-Systems--MHS--Field-Sales-Support-Intern---Summer-2027_JR0152595) |
 

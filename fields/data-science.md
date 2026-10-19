@@ -4,6 +4,9 @@
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: People Services Data Analytics | Ashburn 1 DC1, VA |  | Oct 19 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-VA-Ashburn-1-DC1/Summer-2027-Internship--People-Services-Data-Analytics_R2026-2307) |
+| [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Data Science R&D Graduate Intern | PA, Working at Home - Pennsylvania +49 |  | Oct 19 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Data-Science-R-D-Graduate-Intern_J287175) |
+| [Systems Planning and Analysis (SPA)](https://internscout.org/internships/at/systems-planning-and-analysis-spa/) | Integrated Analytics Intern (Summer 2027) | Alexandria, Virginia |  | Oct 19 | [Apply](https://spa.jibeapply.com/jobs/23729) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | AI Data Science Intern, MS - Summer 2027 | Santa Clara, CA | Paid | Oct 19 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846-1) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | AI Data Science Intern | Santa Clara, CA |  | Oct 19 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846) |
 | [GM financial](https://internscout.org/internships/at/gm-financial/) | Intern - Portfolio Analytics | Fort Worth, TX |  | Oct 19 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260773) |
@@ -14,7 +17,6 @@
 | [Boston Scientific](https://internscout.org/internships/at/boston-scientific/) | AI/Data Science Intern | Maple Grove, MN |  | Oct 16 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813519129) |
 | CenturyLink | Data Intern, Analytics & Decision Science | Remote |  | Oct 16 | [Apply](https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors) |
 | [Electronic Arts](https://internscout.org/internships/at/electronic-arts/) | Analytics Intern | Vancouver, BC, Canada +1 |  | Oct 16 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216232) |
-| Nutanix | Support Analytics & Operations Intern | Durham, NC +1 |  | Oct 16 | [Apply](https://jobs.jobvite.com/nutanix/job/oqjOAfwR?nl=1&nl=1&fr=false) |
 | [Gilead Sciences](https://internscout.org/internships/at/gilead-sciences/) | Research Intern, Data Sciences - AI | Foster City, CA |  | Oct 16 | [Apply](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Data-Sciences---AI_R0055524) |
 | [Veeam Software](https://internscout.org/internships/at/veeam-software/) | Data & Analytics Engineering Intern | Alpharetta, GA +1 |  | Oct 16 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101) |
 | [American Family Insurance Group](https://internscout.org/internships/at/american-family-insurance-group/) | Summer 2027 Intern - Data Engineering | WI Madison +1 |  | Oct 16 | [Apply](https://amfam.wd1.myworkdayjobs.com/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineering_R39674) |
@@ -137,7 +139,6 @@
 | [Dallas Fort Worth International Airport](https://internscout.org/internships/at/dallas-fort-worth-international-airport/) | Undergraduate Intern - Enterprise Data & Analytics | Texas +1 |  | Sep 30 | [Apply](https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Summer-Internship---Enterprise-Data---Analytics_JR102162-1) |
 | [POET](https://internscout.org/internships/at/poet/) | Data Engineering Intern - Summer 2027 | Sioux Falls, SD |  | Sep 30 | [Apply](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787) |
 | [ibotta](https://internscout.org/internships/at/ibotta/) | Business Intelligence Intern | Denver, CO +3 | Paid | Sep 29 | [Apply](https://jobs.ashbyhq.com/ibotta/3a27a6fc-5d2c-4b88-8b19-8f9f7094f899/application?embed=true) |
-| Perchwell | Data Analytics Engineering Intern | New York Office +2 |  | Sep 29 | [Apply](https://jobs.ashbyhq.com/Perchwell/9d34fc9d-e235-44fc-bdf9-42e75223839a/application) |
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | eCommerce Data Analytics Intern - The Toro Company | Bloomington, MN |  | Sep 29 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/eCommerce-Data-Analytics-Intern---The-Toro-Company_JR17458) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | E-Commerce Analytics & Web Intern, Summer 2027 | North Andover, MA |  | Sep 29 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/B2C-E-Commerce-Analytics---Website-Intern--Summer-2027_10017536) |
 | [Walmart](https://internscout.org/internships/at/walmart/) | Summer 2027 Intern:: Data Science III | (USA) ISD Office - DGTC AR BENTONVILLE Home Office +1 |  | Sep 29 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030) |
@@ -203,7 +204,6 @@
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Product Marketing Data Analyst Intern | North Andover, MA |  | Sep 17 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Product-Data-Analyst--Marketing-Intern_10017538) |
 | [Gordon Food Service](https://internscout.org/internships/at/gordon-food-service/) | Data Engineering Internship | Atlanta, Georgia +1 |  | Sep 17 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Engineering-Internship_R-57330) |
 | [Gordon Food Service](https://internscout.org/internships/at/gordon-food-service/) | Vendor & Customer Master Data Internship | Wyoming, Michigan +1 |  | Sep 17 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Vendor---Customer-Master-Data-Internship_R-57341) |
-| [Clarios](https://internscout.org/internships/at/clarios/) | Data Science Intern | Milwaukee, WI +1 |  | Sep 17 | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Data-Science-Intern--Summer-2027-_WD50211) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

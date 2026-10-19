@@ -1,9 +1,10 @@
 # Architecture: Summer 2027 Internships
 
-38 open Summer 2027 architecture roles, newest first (all 38). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 83 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+39 open Summer 2027 architecture roles, newest first (all 39). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 84 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Adobe](https://internscout.org/internships/at/adobe/) | 2027 Intern - AI & Architecture | San Jose |  | Oct 19 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Summer 2027 Architecture & Design Intern | Detroit, MI |  | Oct 15 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Summer-2027-Architecture---Design-Intern_R-085043) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Landscape Architecture- Summer 2027 | Baltimore, MD | Paid | Oct 15 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97459) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | NVIDIA 2027 Internships: Deep Learning Computer Architecture | US, CA +2 | Paid | Oct 12 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491) |

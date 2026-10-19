@@ -1,9 +1,10 @@
 # Product Management: Summer 2027 Internships
 
-141 open Summer 2027 product management roles, newest first (all 141). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 240 product management internships on InternScout](https://internscout.org/internships/product-management/)
+141 open Summer 2027 product management roles, newest first (all 141). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 238 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [NVIDIA](https://internscout.org/internships/at/nvidia/) | Product Manager MBA Intern, Enterprise AI - Summer 2027 | US, CA +1 |  | Oct 19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707) |
 | ROCKWOOL Group | Associate Product Management Intern | Chicago, IL +1 | Paid | Oct 15 | [Apply](https://rockwoolgroup.wd3.myworkdayjobs.com/en-US/ROCKWOOL/job/Chicago-Illinois/Associate-Product-Management-Intern_R0036805-2) |
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Program Management Intern - Summer 2027 (For SNC Summer 2026 Interns Only) | Lone Tree, CO |  | Oct 15 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Program-Management-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031093) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Product Management MBA Intern, Laptop - Summer 2027 | US, CA +2 |  | Oct 15 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905) |
@@ -59,7 +60,7 @@
 | W.R. Berkley | Product Management Analyst Intern - Claims | Manassas, VA |  | Sep 17 | [Apply](https://careers-berkley.icims.com/jobs/14439/job?mobile=true&needsRedirect=false) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Product Specialist Intern | Fort Worth, TX +1 |  | Sep 17 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Product-Specialist-Intern-2027_10017586) |
 | [Gordon Food Service](https://internscout.org/internships/at/gordon-food-service/) | Digital Product Management Intern | Wyoming, MI +1 |  | Sep 17 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336) |
-| [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Product Management Intern | Paso Robles, CA +1 |  | Sep 17 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109) |
+| [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Product Management Intern | Paso Robles, CA +2 |  | Sep 17 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109) |
 | [AspenTech](https://internscout.org/internships/at/aspentech/) | Product Owner Intern - Product Management | Houston, TX +3 | Paid | Sep 16 | [Apply](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern---Product-Management----Summer-2027_R9471) |
 | Illinois Tool Works | Product Management Intern | Troy, OH |  | Sep 15 | [Apply](https://careers.itw.com/global/en/job/JR10105) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MBA, Salesforce Product Owner | Los Angeles, California, United States +1 | Paid | Sep 15 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8198582) |
@@ -80,7 +81,6 @@
 | ID.me | Product Intern | Mountain View, CA |  | Sep 8 | [Apply](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003) |
 | Dick's Sporting Goods | Product Management Intern - Corporate Internship | Pittsburgh, PA |  | Sep 8 | [Apply](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1) |
 | [COUNTRY Financial](https://internscout.org/internships/at/country-financial/) | Auto Product Analyst Intern | Bloomington, IL |  | Sep 8 | [Apply](https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Auto-Product-Analyst-Intern_R26_0000000995) |
-| [Trimble](https://internscout.org/internships/at/trimble/) | Product Management Intern | US - CO +4 |  | Sep 8 | [Apply](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | R&D Product Development Intern (Northbrook IL) - Summer 2027 - Campus Recruiting | Northbrook, IL |  | Sep 8 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35735) |
 | [Ernst & Young](https://internscout.org/internships/at/ernst-young/) | Product Manager Intern - Tax - Other Tax | NYC |  | Sep 4 | [Apply](https://eyglobal.yello.co/jobs/ScWvvhAQZFvHMXityc1Mgw?job_board_id=c1riT--B2O-KySgYWsZO1Q) |
 | [DIRECTV](https://internscout.org/internships/at/directv/) | DIRECTV for Business Product Development Intern | Clarksburg, MD | \$25 - \$34 per hour | Sep 4 | [Apply](https://directv.wd1.myworkdayjobs.com/careers/job/Clarksburg-MD/DIRECTV-for-Business-Product-Development-Intern_R260276) |

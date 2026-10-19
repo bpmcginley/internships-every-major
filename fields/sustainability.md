@@ -1,6 +1,6 @@
 # Sustainability: Summer 2027 Internships
 
-89 open Summer 2027 sustainability roles, newest first (all 89). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 130 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+88 open Summer 2027 sustainability roles, newest first (all 88). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 137 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Clean Energy Business Intern | Washington, DC +2 |  | Oct 15 | [Apply](https://careers-nrdc.icims.com/jobs/6072/summer-2027-clean-energy-business-intern/job) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern, Capital Projects, Summer 2027 | The Woodlands, Texas |  | Oct 15 | [Apply](https://jobs.entergy.com/job/The-Woodlands-Student%2C-Intern%2C-Capital-Projects%2C-Summer-2027-Texa/1440487600/) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | BIM Technician Intern - Buildings (Summer 2027) | Denver, CO +5 |  | Oct 15 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008294) |
-| [Stantec](https://internscout.org/internships/at/stantec/) | Transportation Roadway Intern (Summer 2027) | Cincinnati, OH +4 |  | Oct 14 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007531) |
+| [Stantec](https://internscout.org/internships/at/stantec/) | Transportation Roadway Intern (Summer 2027) | Cincinnati, OH +3 |  | Oct 14 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007531) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Climate & Health Intern | Chicago, IL +1 |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6064/summer-2027-climate-%26-health-intern/job) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Clean Energy Research Intern | Washington, DC |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6055/summer-2027-clean-energy-research-intern/job) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Climate Mobility Intern | Washington, DC |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6063/summer-2027-climate-mobility-intern/job) |
@@ -34,6 +34,7 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Tech Internship - Marseilles, IL (ASSOCIATE'S DEGREES ONLY) | Marseilles, Illinois | Paid | Oct 7 | [Apply](https://jobs.constellationenergy.com/jobs/139443) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Tech Internship - Ontario, NY (ASSOCIATE'S DEGREES ONLY) | Ontario, New York | Paid | Oct 7 | [Apply](https://jobs.constellationenergy.com/jobs/139258) |
 | [S&C Electric Company](https://internscout.org/internships/at/s-c-electric-company/) | Environmental and Sustainability Intern | Chicago, IL | \$22 - 30 per hour | Oct 7 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107375) |
+| [Stantec](https://internscout.org/internships/at/stantec/) | Water/Wastewater Student Intern - Summer 2027 | Winnipeg, MB, Canada +1 |  | Oct 6 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008187) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Supply Intern (Warrenville, IL) | Warrenville, Illinois |  | Oct 6 | [Apply](https://jobs.constellationenergy.com/jobs/139036) |
 | Northwestern Mutual | Enterprise Sustainability & Impact Intern - Modeling & Analytics | Milwaukee, WI +1 |  | Oct 6 | [Apply](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Enterprise-Sustainability---Impact-Intern---Modeling---Analytics--Summer-2027_JR-46171) |
 | [Diversified Energy](https://internscout.org/internships/at/diversified-energy/) | 2027 Summer Intern- Sustainability/Environmental, Social, and Corporate Governance (ESG) | Birmingham, Alabama |  | Oct 2 | [Apply](https://careers.div.energy/jobs/2729) |
@@ -85,12 +86,10 @@
 | [IMEG](https://internscout.org/internships/at/imeg/) | Sustainability & Energy Engineering Intern | Naperville, IL +8 | \$22.00–\$24.00 per hour | Sep 18 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Naperville-IL/Sustainability---Energy-Engineering-Intern_R-16761) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student Intern, Customer Service, Summer 2027 | Little Rock, Arkansas |  | Sep 18 | [Apply](https://jobs.entergy.com/job/Little-Rock-Student-Intern%2C-Customer-Service%2C-Summer-2027-Arka/1426997200/) |
 | [The Andersons](https://internscout.org/internships/at/the-andersons/) | Renewables Engineering Intern (Summer 2027) | Albion, MI +1 |  | Sep 18 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Albion-MI/Renewables-Engineering-Intern--Summer-2027-_R12499) |
-| [Entergy](https://internscout.org/internships/at/entergy/) | Student , Intern Nuclear Summer 2027 | Port Gibson, Mississippi |  | Sep 18 | [Apply](https://jobs.entergy.com/job/Port-Gibson-Student-%2C-Intern-Nuclear-Summer-2027-Miss/1428695800/) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Strategy, Relations and Planning - 2027 Summer Student Program | Houston, TX |  | Sep 18 | [Apply](https://aramcoservices.applytojob.com/apply/CrbvWOINl5/Strategy-Relations-And-Planning-2027-Summer-Student-Program) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Fuels Affiliate Management - 2027 Summer Student Program | Houston, TX |  | Sep 18 | [Apply](https://aramcoservices.applytojob.com/apply/9nuMc9WH55/Fuels-Affiliate-Management-2027-Summer-Student-Program) |
 | [Moss & Associates](https://internscout.org/internships/at/moss-associates/) | Energy Internship: Summer 2027 | FLORIDA | \$20/HR | Sep 18 | [Apply](https://mosscm.wd1.myworkdayjobs.com/moss_careers/job/FLORIDA/Energy-Internship--Summer-2027_R-2719) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern - Infrastructure & Sustainability | Pascagoula, Mississippi |  | Sep 18 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-INFRASTRUCTURE-&-SUSTAINABILITY-Miss/1430056400/) |
-| [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern Transmission Customer Service Summer 2027 | Little Rock, Arkansas |  | Sep 18 | [Apply](https://jobs.entergy.com/job/Little-Rock-Student%2C-Intern-Transmission-Customer-Service-Summer-2027-Arka/1426674800/) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Technical Services - 2027 Summer Student Program | Houston, TX |  | Sep 18 | [Apply](https://aramcoservices.applytojob.com/apply/KVQYkcqzGr/Technical-Services-2027-Summer-Student-Program) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern, Project Delivery, Summer 2027 | New Orleans, Louisiana |  | Sep 18 | [Apply](https://jobs.entergy.com/job/New-Orleans-Student%2C-Intern%2C-Project-Delivery%2C-Summer-2027-Loui/1432780100/) |
 

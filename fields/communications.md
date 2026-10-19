@@ -1,6 +1,6 @@
 # Communications: Summer 2027 Internships
 
-50 open Summer 2027 communications roles, newest first (all 50). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 160 communications internships on InternScout](https://internscout.org/internships/communications/)
+49 open Summer 2027 communications roles, newest first (all 49). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 162 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,7 +11,6 @@
 | Capstone Investment Advisors | Summer 2027 - Marketing & Communications Internship | New York, New York | Paid | Oct 14 | [Apply](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8888414002) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Marketing - Copywriter | Bloomington, Illinois |  | Oct 14 | [Apply](https://jobs.statefarm.com/jobs/46413) |
 | [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program - Global Communications Intern (AI focus) - Intern | USA - New Jersey - Rahway |  | Oct 14 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Communications-Intern--AI-focus----Intern_R422423) |
-| [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 E2 Communications Intern | San Francisco, CA |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6052/summer-2027-e2-communications-intern/job) |
 | [Jabil](https://internscout.org/internships/at/jabil/) | Marketing & Communications Intern | Austin, TX |  | Oct 9 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Marketing---Communications-Intern_J2467203) |
 | [URBN](https://internscout.org/internships/at/urbn/) | Anthropologie Store Communications & Design Intern | Philadelphia, PA | Paid | Oct 9 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/33525/anthropologie-store-communications-%26-design-intern/job) |
 | [Huntington Bancshares](https://internscout.org/internships/at/huntington-bancshares/) | Summer 2027 Communications Internship | Columbus, OH +1 |  | Oct 8 | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Communications-Internship_R0075593) |

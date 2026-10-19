@@ -1,9 +1,10 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-124 open Summer 2027 environmental science and engineering roles, newest first (all 124). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 312 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+125 open Summer 2027 environmental science and engineering roles, newest first (all 125). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 316 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [CAE](https://internscout.org/internships/at/cae/) | C-SSE-150 Environment, Health & Safety Intern | Montreal (St. Laurent) |  | Oct 19 | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-SSE-150-Environment--Health---Safety-Intern_124200) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Intern, Water Resources -Summer 2027 | Moon Township, PA +1 |  | Oct 19 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310079) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Electrical Engineering (Renewable Transmission Interconnections) Intern – Summer 2027 | Billings, MT |  | Oct 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96761) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil/Structural Engineering Intern (Renewable Transmission Interconnections) - Summer 2027 | Billings, MT |  | Oct 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96768) |
@@ -12,7 +13,7 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Renewables Engineering Intern - Oakland, MD | Oakland, Maryland | Paid | Oct 15 | [Apply](https://jobs.constellationenergy.com/jobs/140007) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Environmental Programs Intern - Eddystone, PA | Eddystone, Pennsylvania | Paid | Oct 15 | [Apply](https://jobs.constellationenergy.com/jobs/140001) |
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Health Safety and Environment Intern - Summer 2027 (For SNC Summer 2026 Interns Only) | Colorado Springs, CO |  | Oct 15 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Colorado-Springs-CO/Health-Safety-and-Environment-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031092) |
-| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova Nuclear EHS Intern - 12 month co-op | Markham | Paid | Oct 14 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Markham/GE-Vernova-Nuclear-EHS-Intern---12-month-co-op_R5055380-1) |
+| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova Nuclear EHS Intern - 12 month co-op | Markham | Paid | Oct 14 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Markham/GE-Vernova-Nuclear-EHS-Intern---12-month-co-op_R5055380-2) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Safety Intern | Braintree, Massachusetts +3 | Paid | Oct 13 | [Apply](https://careers.trccompanies.com/jobs/27074?icims=1) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Climate & Health Intern | Chicago, IL +1 |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6064/summer-2027-climate-%26-health-intern/job) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Climate Mobility Intern | Washington, DC |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6063/summer-2027-climate-mobility-intern/job) |
@@ -86,7 +87,7 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - (Summer 2027) | Raleigh, North Carolina +2 |  | Sep 7 | [Apply](https://careers.cdmsmith.com/jobs/4265) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Water Resources Engineering Intern (Summer 2027!) | Denver, Colorado |  | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4186) |
 | [Hunt Oil Company](https://internscout.org/internships/at/hunt-oil-company/) | Geoscience Intern - Summer 2027 | Dallas, TX |  | Sep 4 | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1059) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern (Summer 2027!) | Edison, New Jersey +8 |  | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4145) |
+| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern (Summer 2027!) | Edison, New Jersey +7 |  | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4145) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027) | Dallas, Texas +1 |  | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4311) |
 | [Shure](https://internscout.org/internships/at/shure/) | Data-Driven Sustainability Intern | Niles, IL |  | Sep 3 | [Apply](https://careersus-shure.icims.com/jobs/4979/job?mobile=true&needsRedirect=false) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Geology/Geological Engineering - Hydro & Dams Engineering Intern(Summer 2027) | Denver, CO |  | Sep 3 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007472) |

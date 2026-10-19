@@ -1,9 +1,10 @@
 # Urban Planning: Summer 2027 Internships
 
-36 open Summer 2027 urban planning roles, newest first (all 36). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 75 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+38 open Summer 2027 urban planning roles, newest first (all 38). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 78 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Xcel Energy | Resource Planning Intern- CO | Denver, CO, 80205 +1 |  | Oct 19 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Resource-Planning-Intern--CO_JR115820-1) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - Community Development | Dallas, TX |  | Oct 15 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Community-Development_R-0000033566) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Aftersales Business Planning Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America +1 |  | Oct 14 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Aftersales-Business-Planning-Intern---Summer-2027---Franklin--TN_R00214226) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Community Development Finance/Loan Origination (Boston, MA) | Boston, Massachusetts | \$18.14/hr | Oct 13 | [Apply](https://firstcitizens.jibeapply.com/jobs/35966) |
@@ -16,6 +17,7 @@
 | [Life Fitness](https://internscout.org/internships/at/life-fitness/) | Transportation Planning Intern | Rosemont, IL |  | Sep 30 | [Apply](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Transportation-Planning-Intern_JR-025257-1) |
 | [Freese and Nichols](https://internscout.org/internships/at/freese-and-nichols/) | Summer 2027 Internships - GIS | Houston, Texas |  | Sep 30 | [Apply](https://freese.wd1.myworkdayjobs.com/Freese_Nichols_External/job/Houston-Texas/Summer-2027-Internships---GIS_JR103911) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | GIS Intern | Seattle, WA +6 | Paid | Sep 25 | [Apply](https://careers.trccompanies.com/jobs/26961?icims=1) |
+| [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Co-op Student - Community Development (Summer 2027) – 16 Month Term | Calgary, AB, Canada |  | Sep 24 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007907) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Planning Intern | Milwaukee, WI +2 |  | Sep 24 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309938) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Community Engagement and Planning Intern – Summer 2027 | Boston, MA |  | Sep 23 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Boston-MA/Community-Engagement-and-Planning-Intern---Summer-2027_R-31583) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Federal Reserve Summer 2027 Community Development Internship | Richmond, VA |  | Sep 22 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Research-Outreach-Intern_R-0000033219) |
