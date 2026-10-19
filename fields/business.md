@@ -1,9 +1,10 @@
 # Business: Summer 2027 Internships
 
-79 open Summer 2027 business roles, newest first (all 79). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 146 business internships on InternScout](https://internscout.org/internships/business/)
+80 open Summer 2027 business roles, newest first (all 80). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 148 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Business Systems & Applications Associate (Reston, VA) | Reston, VA |  | Oct 19 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Business-Systems---Applications-Associate--Reston--VA-_R2603584) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | Summer 2027 MBA Interns \| Business Leadership Development Program (BuiLD) | TARRYTOWN +1 | \$70.40/hr | Oct 19 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/Summer-2027-MBA-Interns---Business-Leadership-Development-Program--BuiLD-_R49784-1) |
 | Cambridge Associates | 2027 MBA Internship Program | Boston | \$150,000 | Oct 16 | [Apply](https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/Boston/XMLNAME-2027-MBA-Internship-Program_JR0000442-1) |
 | [Duke Energy](https://internscout.org/internships/at/duke-energy/) | MBA Internship Summer 2027 | Charlotte, NC +1 |  | Oct 16 | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/MBA-Internship-Summer-2027_R42047) |

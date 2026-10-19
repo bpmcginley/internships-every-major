@@ -1,12 +1,13 @@
 # Marketing: Summer 2027 Internships
 
-225 open Summer 2027 marketing roles, newest first (the 200 newest of 225). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 633 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+225 open Summer 2027 marketing roles, newest first (the 200 newest of 225). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 630 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Nissan](https://internscout.org/internships/at/nissan/) | Marketing and Sales Intern - Summer 2027 - Aurora, IL | Aurora, Illinois - United States of America |  | Oct 19 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Aurora-Illinois---United-States-of-America/Marketing-and-Sales-Intern---Summer-2027---Aurora--IL_R00214230) |
 | [H&R Block](https://internscout.org/internships/at/h-r-block/) | Embark Product Marketing Intern - S | KANSAS CITY, Missouri | \$25/hour | Oct 19 | [Apply](https://careers.hrblock.com/jobs/79261) |
 | [Royal Bank of Canada](https://internscout.org/internships/at/royal-bank-of-canada/) | Summer 2027 Global Asset Management Marketing Internship - Boston, MA | Boston, Massachusetts, United States of America | \$34 per hour | Oct 19 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Boston-Massachusetts-United-States-of-America/XMLNAME-2027-Summer-Internship---GAM-Marketing_R-0000189965) |
+| [Veeam Software](https://internscout.org/internships/at/veeam-software/) | Field Marketing Intern - Summer 2027 | Remote, Virginia, USA +1 |  | Oct 16 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5009115101) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Product Marketing Management MBA Intern - Summer 2027 | US, CA +1 |  | Oct 16 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-Management-MBA-Intern---Summer-2027_JR2025672) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Summer 2027 Internships - Marketing, Public Relations/Communications, Accounting, or Information Technology | Detroit, MI |  | Oct 16 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Summer-2027-Internships---Marketing--Accounting--or-Information-Technology_R-085042-1) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Marketing and Communications | Philadelphia, PA |  | Oct 16 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Philadelphia-PA/XMLNAME-2027-Summer-Internship---Corporate-Communications_R-104149-2) |
@@ -118,7 +119,6 @@
 | [Veeam Software](https://internscout.org/internships/at/veeam-software/) | Launch Strategy Marketing Intern - Summer 2027 | Remote, Georgia, USA |  | Sep 11 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955350101) |
 | [Veeam Software](https://internscout.org/internships/at/veeam-software/) | Campaign Marketing Intern - Summer 2027 | Remote, Georgia, USA |  | Sep 11 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955286101) |
 | [Veeam Software](https://internscout.org/internships/at/veeam-software/) | Talent Growth and Inclusion Intern- Summer 2027 | Remote, Washington, USA |  | Sep 11 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4971204101) |
-| [Veeam Software](https://internscout.org/internships/at/veeam-software/) | Field Marketing Intern - Summer 2027 | Remote, Georgia, USA +1 |  | Sep 11 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4952602101) |
 | [Veeam Software](https://internscout.org/internships/at/veeam-software/) | CoE Program & Content Intern - Summer 2027 | Remote, Georgia, USA |  | Sep 11 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4964357101) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Internship- Corporate Communications | HOUSTON, Texas |  | Sep 10 | [Apply](https://careers.kindermorgan.com/jobs/6223) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Mid Marketing Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 10 | [Apply](https://jobs.constellationenergy.com/jobs/138759) |

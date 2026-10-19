@@ -1,9 +1,10 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-217 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 217). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 686 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+216 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 216). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 686 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Draper](https://internscout.org/internships/at/draper/) | Mechanical Engineering & System Packaging Intern (Summer 2027) | Cambridge, MA |  | Oct 19 | [Apply](https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern--Summer-2027-_JR002943) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Mechanical & Electrical Engineer Intern - Summer 2027 - Canton, MS | Canton, Mississippi - United States of America |  | Oct 19 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Canton-Mississippi---United-States-of-America/Mechanical---Electrical-Engineer-Intern---Summer-2027---Canton--MS_R00214259) |
 | [CACI](https://internscout.org/internships/at/caci/) | Mechanical Engineering Intern - Summer 2027 | Dulles, VA, US |  | Oct 19 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Dulles-VA-US/Mechanical-Engineering-Intern---Summer-2027_333564) |
 | [S&C Electric Company](https://internscout.org/internships/at/s-c-electric-company/) | Manufacturing Engineer Intern | Chicago, IL +1 | \$22 - 30 per hour | Oct 19 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107433) |
@@ -107,6 +108,7 @@
 | [Antares Nuclear](https://internscout.org/internships/at/antares-nuclear/) | Space Mechanical Design Engineering Intern - Summer 2027 | Los Angeles +1 |  | Sep 18 | [Apply](https://jobs.ashbyhq.com/Antares/7feb2782-3bdc-4efe-b459-9751db944f81/application) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Mechanical Engineering Internship – Summer 2027 | San Diego, CA +2 |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720741704) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Middle River, MD +2 |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7988835003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Mechanical Engineering Intern Summer 2027 | Silver Spring, MD +2 |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989904003) |
 | [Rendezvous Robotics](https://internscout.org/internships/at/rendezvous-robotics/) | Mechanical Engineering Intern (Summer 2027) | Golden, CO |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408601009) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Mechanical Engineering Internship | Austin, TX +1 |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/042f3a1d-5fc1-44ef-8f12-57044eaa4db2/apply) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Manufacturing Internship | Austin, TX |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/79d56d02-19bb-42fa-a7c6-ae19659120d6/apply) |
@@ -114,7 +116,6 @@
 | [Emerson Electric](https://internscout.org/internships/at/emerson-electric/) | Mechanical Engineering Co-op (Summer 2027) | Elyria, OH +1 |  | Sep 16 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011001) |
 | [Antares Nuclear](https://internscout.org/internships/at/antares-nuclear/) | Manufacturing Engineering Intern - Summer 2027 | Los Angeles +1 |  | Sep 14 | [Apply](https://jobs.ashbyhq.com/Antares/d953d3f2-0ca8-4f13-ae88-4d0eb714e851/application) |
 | [Xcimer Energy](https://internscout.org/internships/at/xcimer-energy/) | Summer 2027 Internship - Mechanical Engineering | Denver, CO |  | Sep 11 | [Apply](https://jobs.lever.co/xcimer/c672a37e-007d-45ee-a4f9-b5d4dd25a2e3/apply) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Mechanical Engineering Intern Summer 2027 | Toronto, CAN +2 |  | Sep 11 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7991769003) |
 | [Antares Nuclear](https://internscout.org/internships/at/antares-nuclear/) | Mechanical Engineering Design Intern - Summer 2027 | Los Angeles +1 |  | Sep 10 | [Apply](https://jobs.ashbyhq.com/Antares/9accca59-103b-4f54-978a-d5bb46bd9c62/application) |
 | [Garmin](https://internscout.org/internships/at/garmin/) | Mechanical Engineering Intern | Tulsa, Oklahoma +1 |  | Sep 10 | [Apply](https://careers.garmin.com/jobs/19940) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | Eagan, Minnesota +6 | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36106) |
@@ -203,7 +204,6 @@
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern- Mechanical Engineering | Pascagoula, Mississippi |  | Sep 18 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-MECHANICAL-ENGINEERING-Miss/1430054800/) |
 | [Lunar Outpost](https://internscout.org/internships/at/lunar-outpost/) | Mechanical Engineering Intern - Summer 2027 | Golden, Colorado |  | Sep 18 | [Apply](https://lunaroutpost.bamboohr.com/careers/394) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Summer 2027 Mechanical Engineer Intern- Bachelor's (Austin, TX) | Austin,TX | Paid | Sep 18 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093) |
-| [GE Appliances](https://internscout.org/internships/at/ge-appliances/) | Engineering/Manufacturing Co-op\_Summer 2027 | Louisville, KY +2 |  | Sep 18 | [Apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Engineering-Manufacturing-Co-op-Summer-2027_REQ-26424) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

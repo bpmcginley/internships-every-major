@@ -4,7 +4,7 @@
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Xcel Energy | Resource Planning Intern- CO | Denver, CO, 80205 +1 |  | Oct 19 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Resource-Planning-Intern--CO_JR115820-1) |
+| [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | Resource Planning Intern- CO | Denver, CO, 80205 +1 |  | Oct 19 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Resource-Planning-Intern--CO_JR115820-1) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - Community Development | Dallas, TX |  | Oct 15 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Community-Development_R-0000033566) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Aftersales Business Planning Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America +1 |  | Oct 14 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Aftersales-Business-Planning-Intern---Summer-2027---Franklin--TN_R00214226) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Community Development Finance/Loan Origination (Boston, MA) | Boston, Massachusetts | \$18.14/hr | Oct 13 | [Apply](https://firstcitizens.jibeapply.com/jobs/35966) |

@@ -1,9 +1,10 @@
 # Biology: Summer 2027 Internships
 
-14 open Summer 2027 biology roles, newest first (all 14). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 138 biology internships on InternScout](https://internscout.org/internships/biology/)
+15 open Summer 2027 biology roles, newest first (all 15). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 138 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | TDS Proteins DPD&D Biopharmaceutics Co-Op | Malvern, Pennsylvania, United States of America |  | Oct 19 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Proteins-DPD-D-Biopharmaceutics-Co-Op_R-098671) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Devens Biologics Summer 2027 Internship – Supply Chain | Devens - MA - US |  | Oct 14 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Devens---MA---US/Devens-Biologics-Summer-2027-Internship---Supply-Chain_R1606928) |
 | [Haleon](https://internscout.org/internships/at/haleon/) | 2027: Summer Intern: VCU School of Pharmaceutical Sciences Intern | USA - Virginia - Richmond |  | Oct 12 | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---Virginia---Richmond/XMLNAME-2027--Summer-Intern--VCU-School-of-Pharmaceutical-Sciences-Intern_548425) |
 | [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program – Drug Metabolism and Pharmacokinetics – Co-op | USA - California - South San Francisco (Grand Ave) | \$39,108 | Oct 12 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Drug-Metabolism-and-Pharmacokinetics---Co-op_R412928) |

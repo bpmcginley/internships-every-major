@@ -1,6 +1,6 @@
 # Hospitality: Summer 2027 Internships
 
-22 open Summer 2027 hospitality roles, newest first (all 22). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 80 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
+21 open Summer 2027 hospitality roles, newest first (all 21). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 79 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -10,7 +10,6 @@
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Product Line Management | Baltimore, MD | \$23 per hour | Sep 28 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Product-Line-Management-MD-21230/1434387800/) |
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Hotel Franchise Finance | Phoenix, AZ |  | Sep 28 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Hotel-Franchise-Finance_R13954) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Food & Events Intern - Summer 2027 | Dallas, TX |  | Sep 23 | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027546) |
-| [Protective Life](https://internscout.org/internships/at/protective-life/) | 2027 Meetings & Events Summer Internship Program | Birmingham, AL |  | Sep 16 | [Apply](https://jobs.lever.co/protective/bb4be769-674e-415c-a6df-39e045b638c4/apply) |
 | [Marriott International](https://internscout.org/internships/at/marriott-international/) | Front Desk University Intern-US Summer 2027 | Park City, UT |  | Sep 9 | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26115549) |
 | [Marriott International](https://internscout.org/internships/at/marriott-international/) | Butler University Intern-US Summer 2027 | Park City, UT |  | Sep 9 | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26115552) |
 | [Marriott International](https://internscout.org/internships/at/marriott-international/) | Front Office Intern Summer 2027 | Pittsburgh, PA |  | Sep 8 | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26115267) |

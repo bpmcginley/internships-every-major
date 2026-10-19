@@ -1,10 +1,11 @@
 # Hardware Engineering: Summer 2027 Internships
 
-193 open Summer 2027 hardware engineering roles, newest first (all 193). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 547 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+194 open Summer 2027 hardware engineering roles, newest first (all 194). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 552 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | The Allen Institute for AI | Research Internship, Robotics | Seattle, WA | \$94,320 | Oct 19 | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293641) |
+| [NVIDIA](https://internscout.org/internships/at/nvidia/) | ASIC Verification Intern - Summer 2027 | Canada, Toronto |  | Oct 19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982) |
 | [Clera](https://internscout.org/internships/at/clera/) | Computer Vision & Robotics Intern | San Francisco, CA +2 |  | Oct 17 | [Apply](https://jobs.ashbyhq.com/clera/697c2212-e39d-4e6e-92c2-12e6603a61d0/application) |
 | AGCO | Embedded Software Engineer Intern | Hesston, KS +1 |  | Oct 16 | [Apply](https://careers.agcocorp.com/job/Hesston-Embedded-Software-Engineering-Intern-Summer-2027-KS-67062/1440993300/?ats=successfactors) |
 | [Boston Scientific](https://internscout.org/internships/at/boston-scientific/) | R&D Electrical Hardware Engineer Intern | Arden Hills, MN |  | Oct 16 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813563527) |

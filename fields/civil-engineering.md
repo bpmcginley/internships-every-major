@@ -1,16 +1,17 @@
 # Civil Engineering: Summer 2027 Internships
 
-166 open Summer 2027 civil engineering roles, newest first (all 166). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 326 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+167 open Summer 2027 civil engineering roles, newest first (all 167). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 327 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [STV](https://internscout.org/internships/at/stv/) | Structural Engineering Intern (Water/Wastewater) – Summer 2027 | Austin, Texas +3 | \$47,959.00 - \$54,498.00 | Oct 19 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Austin-Texas/Structural-Engineering-Intern--Water-Wastewater----Summer-2027_JR6403) |
 | [American Electric Power](https://internscout.org/internships/at/american-electric-power/) | Construction Management Intern - Summer 2027 | Louisa, KY +8 |  | Oct 19 | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Louisa-KY/Construction-Management-Intern_R19754) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Structural Engineering Intern- Summer 2027 | Glastonbury, CT +6 |  | Oct 19 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97807) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil/Structural Engineering Intern (Renewable Transmission Interconnections) - Summer 2027 | Billings, MT |  | Oct 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96768) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering (Renewables) Intern - Summer 2027 | Las Vegas, NV +3 |  | Oct 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97678) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Traffic Engineering Intern- Summer 2027 | New York, NY |  | Oct 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97804) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering Intern - Summer 2027 | New York, NY +13 | \$24.76 - \$32.22 per hour | Oct 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97692) |
-| [STV](https://internscout.org/internships/at/stv/) | Traffic Engineering Intern - Summer 2027 | Charlotte, North Carolina +1 | \$45,675.00 - \$51,903.00 | Oct 15 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Charlotte-North-Carolina/Traffic-Engineering-Intern---Summer-2027_JR6396) |
+| [STV](https://internscout.org/internships/at/stv/) | Traffic Engineering Intern - Summer 2027 | Charlotte, North Carolina +3 | \$45,675.00 - \$51,903.00 | Oct 15 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Charlotte-North-Carolina/Traffic-Engineering-Intern---Summer-2027_JR6396) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Water (Summer 2027) | Orlando, FL +10 |  | Oct 15 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008302) |
 | [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Construction Project Development Engineer | Phoenix 2 DC2, AZ |  | Oct 14 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-AZ-Phoenix-2-DC2/Summer-2027-Internship--Construction-Project-Development-Engineer_R2026-2266) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Structural Engineering Intern - Buildings (Summer 2027) | Los Angeles, CA +6 |  | Oct 14 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008287) |

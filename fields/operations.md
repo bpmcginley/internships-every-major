@@ -1,11 +1,12 @@
 # Operations: Summer 2027 Internships
 
-313 open Summer 2027 operations roles, newest first (the 200 newest of 313). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 759 operations internships on InternScout](https://internscout.org/internships/operations/)
+314 open Summer 2027 operations roles, newest first (the 200 newest of 314). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 762 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Enterprise Risk & Governance Program & Project Management Undergraduate Intern | Pittsburgh PA, 15222, FAP, 5th Avenue Place |  | Oct 19 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Enterprise-Risk---Governance-Program---Project-Management-Undergraduate-Intern_J287985) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Sales Operations Intern - Summer 2027 | US, CA +1 |  | Oct 19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sales-Operations-Intern---Summer-2027_JR2027840) |
+| [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Operations Associate (Reston, VA) | Reston, VA |  | Oct 19 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Operations-Associate--Reston--VA-_R2603586) |
 | [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Federal Project Management | Manassas 1 DC5, VA |  | Oct 19 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-VA-Manassas-1-DC5/Summer-2027-Internship--Federal-Project-Management_R2026-2299) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Procurement Data & Analytics Intern (Raleigh, NC) | Raleigh, North Carolina |  | Oct 17 | [Apply](https://firstcitizens.jibeapply.com/jobs/35828) |
 | [Nucor](https://internscout.org/internships/at/nucor/) | Operations and Sales Rotating Internship (Summer 2027) | Orlando, FL | \$27.00/hr | Oct 17 | [Apply](https://jobs.nucor.com/job/Orlando-Operations-and-Sales-Rotating-Internship-%28Summer-2027%29-FL-32819/1421589800/) |
@@ -71,7 +72,7 @@
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Operations & Supply Chain Intern (Summer 2027) | Norcross, GA +1 |  | Oct 5 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Norcross-GA/Intern-Operations-Supply-Chain_REQ-020129) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | People Operations Intern (Summer 2027) | Mountain View, CA | \$40/hour | Oct 2 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5255938007) |
 | xAI | Summer 2027 Business Operations Internship/Co-op | Palo Alto, CA +1 | \$24.50 | Oct 2 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255116007) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Government Operations Intern Summer 2027 | Washington, DC +1 | \$22.00 | Oct 2 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7992754003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Government Operations Intern Summer 2027 | Littleton, CO +1 |  | Oct 2 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8001401003) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Logistics Operations Intern (Summer 2027) | USA - New York - Malta | \$20.00 - \$40.00 | Oct 2 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Logistics-Operations-Intern--Summer-2027-_JR-2604469) |
 | [CACI](https://internscout.org/internships/at/caci/) | Technical Project Manager Intern - Summer 2027 | High Point, NC, US |  | Oct 2 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/High-Point-NC-US/Technical-Project-Manager-Intern---Summer-2027_333027) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | Precision Medicine Operations Co-op | Armonk, NY +1 | Paid | Oct 2 | [Apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/Armonk/XMLNAME-2027-Co-op-Precision-Medicine-Operations_R51082-1) |
@@ -203,7 +204,6 @@
 | [Jane Street](https://internscout.org/internships/at/jane-street/) | Trading Desk Operations Engineer Intern | New York, NY |  | Jul 24 | [Apply](https://www.janestreet.com/join-jane-street/position/8621450002/) |
 | [Optiver](https://internscout.org/internships/at/optiver/) | Trading Automation and Operations Intern | Chicago, IL +1 |  | Jul 16 | [Apply](https://www.optiver.com/join-us/jobs/8489582002/?gh_jid=8489582002) |
 | [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Operations Analyst Program - Summer Analyst (AZ, DE, FL, OH, TX) | Newark, DE +4 |  | Jul 7 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765972) |
-| [AMCA](https://internscout.org/internships/at/amca/) | Engineering Internship, Business Operations (Summer 2027) | El Segundo, CA | Paid | May 20 | [Apply](https://job-boards.greenhouse.io/amca/jobs/4253828009) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
