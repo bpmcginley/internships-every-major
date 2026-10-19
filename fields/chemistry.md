@@ -1,9 +1,10 @@
 # Chemistry: Summer 2027 Internships
 
-11 open Summer 2027 chemistry roles, newest first (all 11). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 31 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
+12 open Summer 2027 chemistry roles, newest first (all 12). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 31 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Sanofi](https://internscout.org/internships/at/sanofi/) | 2027 Summer Co-op Process Chemistry, Cambridge, MA | Cambridge, MA |  | Oct 19 | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Co-op-Process-Chemistry--Cambridge--MA_R2865521) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | 2027 Summer Intern PhD Student - Drug Product Development Analytical Sciences | New Brunswick - NJ - US |  | Oct 14 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/New-Brunswick---NJ---US/XMLNAME-2027-Summer-Intern-PhD-Student---Drug-Product-Development-Analytical-Sciences_R1607526) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | PhD Research Intern, Quantum and AI for Chemistry - 2027 | Canada, Toronto +1 |  | Oct 12 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997) |
 | [Haleon](https://internscout.org/internships/at/haleon/) | 2027 Summer Intern: Product Chemistry and Modeling | USA - Virginia - Richmond |  | Oct 9 | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---Virginia---Richmond/XMLNAME-2027-Summer-Intern--Product-Chemistry-and-Modeling_548427) |

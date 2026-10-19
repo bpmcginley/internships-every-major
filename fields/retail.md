@@ -1,9 +1,10 @@
 # Retail: Summer 2027 Internships
 
-172 open Summer 2027 retail roles, newest first (all 172). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 234 retail internships on InternScout](https://internscout.org/internships/retail/)
+172 open Summer 2027 retail roles, newest first (all 172). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 233 retail internships on InternScout](https://internscout.org/internships/retail/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Apple Bank](https://internscout.org/internships/at/apple-bank/) | 2027 Summer Intern - Retail Banking | New York, NY | \$24/hr | Oct 19 | [Apply](https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2026-Summer-Intern----Retail-Banking_2026-1415) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694360101507762485) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Recommendation Video | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694362230074673461) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Recommendation Live | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694360097210861829) |
@@ -24,7 +25,6 @@
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | eCommerce Data Analytics Intern - The Toro Company | Bloomington, MN |  | Sep 29 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/eCommerce-Data-Analytics-Intern---The-Toro-Company_JR17458) |
 | [Huntington Bancshares](https://internscout.org/internships/at/huntington-bancshares/) | Summer 2027 Retail Banking Internship | Columbus, OH |  | Sep 29 | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/XMLNAME-2027-Summer-Retail-Banking-Internship_R0075658) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | E-Commerce Analytics & Web Intern, Summer 2027 | North Andover, MA |  | Sep 29 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/B2C-E-Commerce-Analytics---Website-Intern--Summer-2027_10017536) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Merchandising | Baltimore, MD |  | Sep 28 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Merchandising-MD-21230/1434378900/) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Design (Apparel and Footwear) | Baltimore, MD |  | Sep 28 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Design-%28Apparel-and-Footwear%29-MD-21230/1434389000/) |
 | [Polaris](https://internscout.org/internships/at/polaris/) | Technical Apparel/Gear Internship \| Summer 2027 \| Klim & 509 | Rigby, ID, USA |  | Sep 24 | [Apply](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Rigby-ID-USA/Technical-Apparel-Gear-Internship---Summer-2027---Klim---509_R31300-1) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Amazon & E-Commerce Marketplace Intern, Summer 2027 | North Andover, MA |  | Sep 24 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Amazon---E-Commerce-Marketplace-Intern--Summer-2027_10017535) |

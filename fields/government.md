@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Federal Project Management | Manassas 1 DC5, VA |  | Oct 19 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-VA-Manassas-1-DC5/Summer-2027-Internship--Federal-Project-Management_R2026-2299) |
 | [RSM](https://internscout.org/internships/at/rsm/) | Federal Credits and Incentives Tax Intern - Summer 2027 | Los Angeles |  | Oct 16 | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Los-Angeles/Federal-Credits-and-Incentives-Tax-Intern---Summer-2027_JR118775) |
 | Federal Energy Regulatory Commission | Student Trainee (Legal) | District of Columbia, District of Columbia | \$70623 - \$91815 Per Year | Oct 16 | [Apply](https://www.usajobs.gov:443/job/888935900) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - PhD Dissertation Fellow | Dallas, TX |  | Oct 16 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---PhD-Dissertation-Fellow_R-0000033591) |
@@ -53,7 +54,6 @@
 | Deloitte | AI and Data Engineering Summer Scholar Intern - Government & Public Services | Austin, TX |  | Aug 11 | [Apply](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Oct 19, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Health Policy Analysis | Portland, ME | \$30 per hour | Oct 19, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3974/summer-2027-consulting-internship---health-policy-analysis/job) |
-| Blackstone | 2027 Blackstone Government Relations Summer Analyst | DC | \$85,000 - \$85,000 | Oct 17 | [Apply](https://blackstone.wd1.myworkdayjobs.com/bx_external_site/job/DC/XMLNAME-2027-Blackstone-Government-Relations-Summer-Analyst_45577-1) |
 | RAND Corporation | RAND Summer Associate Program - POLICY Research | Santa Monica, CA (Greater Los Angeles Area) +4 |  | Oct 17 | [Apply](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Santa-Monica-CA-Greater-Los-Angeles-Area/RAND-Summer-Associate-Program---POLICY-Research_R3660) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Government Relations Internship - Summer 2027 | Reston, VA |  | Oct 13 | [Apply](https://uscareers-idemia.icims.com/jobs/8689/government-relations-internship---summer-2027/job) |
 | [Land O'Lakes](https://internscout.org/internships/at/land-o-lakes/) | Government Relations Intern | Remote | \$23/ hr | Sep 18 | [Apply](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Virtual-USA/Government-Relations-Intern_R-40406) |

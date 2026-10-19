@@ -1,6 +1,6 @@
 # Product Management: Summer 2027 Internships
 
-141 open Summer 2027 product management roles, newest first (all 141). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 243 product management internships on InternScout](https://internscout.org/internships/product-management/)
+141 open Summer 2027 product management roles, newest first (all 141). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 240 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Global Petcare R&D Product Development Internship | USA-Tennessee-Franklin |  | Oct 13 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Tennessee-Franklin/Summer-2027-Mars-Global-Petcare-R-D-Product-Development-Internship_R169633-1) |
 | [CoStar Group](https://internscout.org/internships/at/costar-group/) | Product Intern - Richmond, VA (Summer 2027) | US-VA Richmond - CoStar Tower +1 |  | Oct 13 | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Product-Intern---Richmond--VA--Summer-2027-_R39900) |
 | [Workday](https://internscout.org/internships/at/workday/) | Product Manager Intern (Canada) | Canada, BC +3 |  | Oct 13 | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808) |
-| Amperesand | Technical Program Manager Intern | Reno, NV +1 |  | Oct 12 | [Apply](https://job-boards.greenhouse.io/amperesand/jobs/4448972009) |
+| Amperesand | Technical Program Manager Intern | Reno, NV |  | Oct 12 | [Apply](https://job-boards.greenhouse.io/amperesand/jobs/4448972009) |
 | [ADT](https://internscout.org/internships/at/adt/) | Product Management & Product Operations Internship | Boca Raton, FL |  | Oct 12 | [Apply](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Business and Administrative Intern - Strategy Analyst, CCO Strategy and Program Management | Palo Alto, California |  | Oct 12 | [Apply](https://careers.rivian.com/jobs/34239) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern – Program Management, GM Defense , | Warren, Michigan, United States of America |  | Oct 12 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Program-Management--GM-Defense--_JR-202622043) |
@@ -71,7 +71,7 @@
 | [Momentive](https://internscout.org/internships/at/momentive/) | Summer 2027 Product Management Intern | Friendly, WV |  | Sep 11 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Product-Management-Intern_R9816) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Information Technology DEX Product Intern (Remote) | Baltimore, Maryland |  | Sep 11 | [Apply](https://jobs.constellationenergy.com/jobs/138703) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Grad Intern – Digital Product – Technology, AI & Data (Summer 2027) | Remote +1 |  | Sep 11 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744) |
-| Robert Bosch Venture Capital | Product Management AI-Tool Intern - 8 months/40hrs per week | Farmington Hills, MI |  | Sep 9 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148575999) |
+| [Robert Bosch Venture Capital](https://internscout.org/internships/at/robert-bosch-venture-capital/) | Product Management AI-Tool Intern - 8 months/40hrs per week | Farmington Hills, MI |  | Sep 9 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148575999) |
 | [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Summer Associate Internship (Technical Product Analyst) | Vienna, VA |  | Sep 9 | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32305) |
 | [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Summer Associate Internship (Product Strategist) | Vienna, VA |  | Sep 9 | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32309) |
 | [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Summer Associate Internship (Product Strategist - Student Loans) | Vienna, VA |  | Sep 9 | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32361) |

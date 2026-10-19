@@ -1,9 +1,13 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-428 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 428). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 832 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+432 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 432). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 834 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Marvell](https://internscout.org/internships/at/marvell/) | AI Data Science Intern, MS - Summer 2027 | Santa Clara, CA | Paid | Oct 19 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846-1) |
+| [Marvell](https://internscout.org/internships/at/marvell/) | AI Data Science Intern | Santa Clara, CA |  | Oct 19 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846) |
+| [GM financial](https://internscout.org/internships/at/gm-financial/) | Intern - Portfolio Analytics | Fort Worth, TX |  | Oct 19 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260773) |
+| Noblis | Summer 2027 - Data Innovations Intern | Reston, Virginia +1 |  | Oct 19 | [Apply](https://careers.noblis.org/jobs/28005) |
 | [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Quality Data Science Co-op | Cincinnati, OH +1 |  | Oct 19 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629) |
 | [HCSC](https://internscout.org/internships/at/hcsc/) | Early Careers - Finance Data & Analytics Developer Intern | IL - Chicago +3 | Paid | Oct 17 | [Apply](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Data---Analytics-Developer-Intern_R0059478) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Procurement Data & Analytics Intern (Raleigh, NC) | Raleigh, North Carolina |  | Oct 17 | [Apply](https://firstcitizens.jibeapply.com/jobs/35828) |
@@ -200,10 +204,6 @@
 | [Gordon Food Service](https://internscout.org/internships/at/gordon-food-service/) | Data Engineering Internship | Atlanta, Georgia +1 |  | Sep 17 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Engineering-Internship_R-57330) |
 | [Gordon Food Service](https://internscout.org/internships/at/gordon-food-service/) | Vendor & Customer Master Data Internship | Wyoming, Michigan +1 |  | Sep 17 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Vendor---Customer-Master-Data-Internship_R-57341) |
 | [Clarios](https://internscout.org/internships/at/clarios/) | Data Science Intern | Milwaukee, WI +1 |  | Sep 17 | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Data-Science-Intern--Summer-2027-_WD50211) |
-| [Republic Airways](https://internscout.org/internships/at/republic-airways/) | Data Analytics Intern | Carmel, IN |  | Sep 17 | [Apply](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Data-Analytics-Intern---Summer-2027_JR-007628) |
-| [OCC](https://internscout.org/internships/at/occ/) | Data Intern - Data | Chicago, IL |  | Sep 17 | [Apply](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Data_REQ-4844) |
-| [Generac](https://internscout.org/internships/at/generac/) | Data Science Intern - Summer 2027 | Pewaukee, WI +3 |  | Sep 17 | [Apply](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Data-Science-Intern---Summer-2027_JR17001) |
-| AI Intern to the CEO | Data Operations Intern (Summer 2027) | Boston, Massachusetts +3 |  | Sep 16 | [Apply](https://jobs.ashbyhq.com/cyvl/f44bb1cf-7100-46f7-b3c2-6d2a566d4b0d/application) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

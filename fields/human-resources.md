@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-114 open Summer 2027 human resources roles, newest first (all 114). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 270 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+114 open Summer 2027 human resources roles, newest first (all 114). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 269 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Intern - HR Operations | Bridgeton, Missouri |  | Sep 1 | [Apply](https://careers.na.panasonic.com/jobs/50762) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Human Resources | Detroit, MI |  | Sep 1 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14626) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Retail Sales Intern - Summer 2027 (Multiple Locations) - Campus Recruiting | Austin, MN +2 |  | Sep 1 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35338) |
-| [Textron](https://internscout.org/internships/at/textron/) | 2027 Intern - Human Resources - Wilmington, MA | Wilmington, Massachusetts +1 |  | Sep 1 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342680) |
+| [Textron](https://internscout.org/internships/at/textron/) | 2027 Intern - Human Resources - Hunt Valley, MD | Wilmington, Massachusetts |  | Sep 1 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342662) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Foodservice Marketing Intern - Summer 2027 - Campus Recruiting | Austin, MN |  | Sep 1 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35268) |
 | [Exelon](https://internscout.org/internships/at/exelon/) | 2027 Summer Internship - Human Resources (Various Exelon Locations) | CHICAGO, Illinois +6 | \$20.00/Hr | Aug 31 | [Apply](https://careers.comed.com/jobs/30145) |
 | [Stryten](https://internscout.org/internships/at/stryten/) | 2027 Summer Intern - Human Resources | Alpharetta, Georgia | Paid | Aug 30 | [Apply](https://jobs.stryten.com/jobs/5789) |

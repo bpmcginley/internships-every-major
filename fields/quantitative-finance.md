@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Graviton | Quantitative Researcher Intern | NYC +1 |  | Oct 19 | [Apply](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002) |
 | [LSEG](https://internscout.org/internships/at/lseg/) | Quantitative Services Intern | Boston, MA |  | Oct 14 | [Apply](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Boston-Massachusetts/Intern---Quantitative-Services_R0124310-2) |
 | Acadian Asset Management | Quantitative Investment Intern | Boston, MA |  | Oct 13 | [Apply](https://www.acadian-asset.com/careers/open-positions?gh_jid=4720681006) |
 | [Jain Global](https://internscout.org/internships/at/jain-global/) | Quantitative Developer Intern | NYC |  | Oct 13 | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quantitative-Developer-Intern--Summer-2027---New-York-_JR100608) |
@@ -100,9 +101,8 @@
 | [Tower Research Capital](https://internscout.org/internships/at/tower-research-capital/) | Quantitative Developer Intern | Chicago, IL +4 | Paid | Jul 5 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8044334) |
 | [Tower Research Capital](https://internscout.org/internships/at/tower-research-capital/) | Quantitative Trader/Researcher Intern - Summer 2027 | New York +3 | \$3,500-5,700 | Jul 5 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8024128) |
 | [IMC Trading](https://internscout.org/internships/at/imc-trading/) | Quantitative Trader Intern | Chicago, IL +1 | Paid | Jul 1 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) |
-| [Optiver](https://internscout.org/internships/at/optiver/) | Quantitative Research Intern | Austin, TX +2 |  | Jul 1 | [Apply](https://www.optiver.com/join-us/jobs/8451781002/?gh_jid=8451781002) |
 | [Optiver](https://internscout.org/internships/at/optiver/) | Quantitative Intern | Austin, TX +3 |  | Jul 1 | [Apply](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002) |
-| [Optiver](https://internscout.org/internships/at/optiver/) | Quantitative Research Intern, PhD (Summer 2027) | Austin, Texas, United States +1 |  | Jul 1 | [Apply](https://www.optiver.com/join-us/jobs/8451782002/?gh_jid=8451782002) |
+| [Optiver](https://internscout.org/internships/at/optiver/) | Quantitative Research Intern, PhD (Summer 2027) | Chicago, Illinois, United States +4 |  | Jul 1 | [Apply](https://www.optiver.com/join-us/jobs/8451781002/?gh_jid=8451781002) |
 | [IMC Trading](https://internscout.org/internships/at/imc-trading/) | Quantitative Research Intern (PhD) - Summer 2027 | Chicago, United States +1 | \$250,000 | Jul 1 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907400101) |
 | [IMC Trading](https://internscout.org/internships/at/imc-trading/) | Quantitative Research Intern (BS/MS) - Summer 2027 | Chicago, United States | \$250,000 | Jul 1 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) |
 | [Susquehanna International Group (SIG)](https://internscout.org/internships/at/susquehanna-international-group-sig/) | Quantitative Systematic Trading Intern - PhD | Philadelphia, PA +1 |  | Jun 29 | [Apply](https://careers-sig.icims.com/jobs/10822/job?mobile=true&needsRedirect=false) |

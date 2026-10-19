@@ -1,9 +1,10 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-124 open Summer 2027 environmental science and engineering roles, newest first (all 124). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 309 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+124 open Summer 2027 environmental science and engineering roles, newest first (all 124). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 312 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Intern, Water Resources -Summer 2027 | Moon Township, PA +1 |  | Oct 19 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310079) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Electrical Engineering (Renewable Transmission Interconnections) Intern – Summer 2027 | Billings, MT |  | Oct 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96761) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil/Structural Engineering Intern (Renewable Transmission Interconnections) - Summer 2027 | Billings, MT |  | Oct 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96768) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Environmental Health and Safety Intern - Chicago, IL | Chicago, IL +4 |  | Oct 16 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625197) |
@@ -92,7 +93,6 @@
 | [Olsson](https://internscout.org/internships/at/olsson/) | Student Internship - Environmental Sciences | North Kansas City, MO |  | Sep 1 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5412829008) |
 | [Textron](https://internscout.org/internships/at/textron/) | 2027 Intern- EHS - Williamsport, PA | Williamsport, Pennsylvania |  | Sep 1 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342599) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Engineering Internship - Water Resources | Dallas, TX |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5399436008) |
-| [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Water Resources Intern | Detroit, MI |  | Aug 31 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309782) |
 | [Elk Valley Resources](https://internscout.org/internships/at/elk-valley-resources/) | May 2027 Geographic Information Systems (GIS) Co-op | Calgary, AB +1 |  | Aug 26 | [Apply](https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Environmental, Health & Safety (EHS) | Los Angeles, CA | \$28–\$36 per hour | Aug 26 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5376633008) |
 | [Springs Window Fashions](https://internscout.org/internships/at/springs-window-fashions/) | Sustainability Data and Marketing Specialist Internship - Summer 2027 | LONG ISLAND CITY, NY | \$23.00/hr | Aug 22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12896/sustainability-data-and-marketing-specialist-internship---summer-2027/job) |

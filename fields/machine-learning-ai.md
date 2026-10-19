@@ -1,9 +1,11 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-331 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 331). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 759 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+333 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 333). **Updated October 19, 2026.** [Back to every major](../README.md) · [See all 755 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Marvell](https://internscout.org/internships/at/marvell/) | AI Data Science Intern, MS - Summer 2027 | Santa Clara, CA | Paid | Oct 19 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846-1) |
+| [Marvell](https://internscout.org/internships/at/marvell/) | AI Data Science Intern | Santa Clara, CA |  | Oct 19 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846) |
 | [Eulerity](https://internscout.org/internships/at/eulerity/) | AI Intern - Office of CEO & Head of Product | New York, NY | \$18.00 – \$20.00 / hour | Oct 17 | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4722871006) |
 | [Clera](https://internscout.org/internships/at/clera/) | Computer Vision & Robotics Intern | San Francisco, CA +2 |  | Oct 17 | [Apply](https://jobs.ashbyhq.com/clera/697c2212-e39d-4e6e-92c2-12e6603a61d0/application) |
 | [Boston Scientific](https://internscout.org/internships/at/boston-scientific/) | AI/Data Science Intern | Maple Grove, MN |  | Oct 16 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813519129) |
@@ -202,8 +204,6 @@
 | [Oshkosh](https://internscout.org/internships/at/oshkosh/) | AI Intern | Oshkosh, Wisconsin, United States +1 |  | Sep 11 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Undergrad Intern – Machine Learning Engineer – Technology, AI & Data (Summer 2027) | Remote +1 |  | Sep 11 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709) |
 | [Bedrock Robotics](https://internscout.org/internships/at/bedrock-robotics/) | 2027 Internship Onboard Infrastructure Engineer, ML Inference | San Francisco, CA +2 | Paid | Sep 10 | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8/application) |
-| [Bedrock Robotics](https://internscout.org/internships/at/bedrock-robotics/) | 2027 Internship Behavior Machine Learning Engineer, World Models | San Francisco, CA +2 | Paid | Sep 10 | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1/application) |
-| Robert Bosch Venture Capital | Product Management AI-Tool Intern - 8 months/40hrs per week | Farmington Hills, MI |  | Sep 9 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148575999) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
