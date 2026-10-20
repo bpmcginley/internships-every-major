@@ -1,6 +1,6 @@
 # Industrial Engineering: Summer 2027 Internships
 
-244 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 244). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 623 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+243 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 243). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 622 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -181,7 +181,6 @@
 | PDT Partners | Summer 2027 Systems Engineering Intern | New York, NY | \$180,000 | Jul 24 | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) |
 | [Kairos Power](https://internscout.org/internships/at/kairos-power/) | Mechanical and Manufacturing Engineering Internship - Summer 2027 | Alameda, CA +2 |  | Jul 23 | [Apply](https://job-boards.greenhouse.io/kairospower/jobs/6123676004) |
 | [Cook Group](https://internscout.org/internships/at/cook-group/) | Manufacturing Engineering - Summer 2027 Intern - Bloomington, IN | Bloomington, IN |  | Oct 19 | [Apply](https://americas-cookmedical.icims.com/jobs/19846/manufacturing-engineering---summer-2027-intern---bloomington%2c-in/job) |
-| [Ecolab](https://internscout.org/internships/at/ecolab/) | Supply Chain Intern - Engineering and Business Majors | USA - Minnesota - Saint Paul +13 | \$22 - \$25/hour | Oct 19 | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Supply-Chain-Intern---Engineering-and-Business-Majors_R00304542) |
 | [AeroVironment](https://internscout.org/internships/at/aerovironment/) | Summer 2027 Manufacturing Engineering Intern | Simi Valley, CA +13 |  | Oct 18 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Summer-2027-Manufacturing-Engineering-Intern_8608) |
 | [The Boeing Company](https://internscout.org/internships/at/boeing/) | Boeing Summer 2027 Internship Program (Paid) - Supply Chain | USA - Everett, WA +32 |  | Oct 18 | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Supply-Chain_JR2026519410) |
 | [GE Aerospace](https://internscout.org/internships/at/ge-aerospace/) | Supply Chain Operations Intern – US – Summer 2027 | Durham +6 | \$20/hour | Oct 18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Supply-Chain-Operations-Intern---US---Summer-2027_R5029660-1) |
@@ -204,6 +203,7 @@
 | [Ensign-Bickford Aerospace & Defense Company](https://internscout.org/internships/at/ensign-bickford-aerospace-defense-company/) | Electronics Manufacturing Engineer Intern | Simsbury, CT |  | Sep 18 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Electronics-Manufacturing-Engineer-Intern_REQ107696-1) |
 | [Generac](https://internscout.org/internships/at/generac/) | Industrial Engineering Intern - Summer 2027 | Waukesha, WI - USA +1 |  | Sep 18 | [Apply](https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Industrial-Engineering-Intern---Summer-2027_JR16999-1) |
 | [Uline](https://internscout.org/internships/at/uline/) | Logistics Operations Internship - Summer 2027 | Pleasant Prairie, WI +4 | Paid | Sep 18 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Logistics-Operations-Internship---Summer-2027_R265823) |
+| [Elanco](https://internscout.org/internships/at/elanco/) | Operational Excellence Intern – Elwood, Kansas (Summer 2027) | Elwood, KS |  | Sep 18 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Elwood-KS/Operational-Excellence-Intern---Elwood--Kansas--Summer-2027-_R0026902) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,6 +1,6 @@
 # Operations: Summer 2027 Internships
 
-319 open Summer 2027 operations roles, newest first (the 200 newest of 319). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 776 operations internships on InternScout](https://internscout.org/internships/operations/)
+318 open Summer 2027 operations roles, newest first (the 200 newest of 318). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 776 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [ABB](https://internscout.org/internships/at/abb/) | Manufacturing Continuous Improvement Intern - Summer 2027 | USA, NM |  | Oct 7 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NM-Albuquerque/Manufacturing-Continuous-Improvement-Intern---Summer-2027_JR00048449) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Enterprise Procurement Undergraduate Supply Chain Intern | Pittsburgh PA, 15222, FAP, 5th Avenue Place |  | Oct 6 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Enterprise-Procurement-Undergraduate-Supply-Chain-Intern_J286290) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Facilities Management | Detroit, MI |  | Oct 6 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14649) |
-| [Mastercard](https://internscout.org/internships/at/mastercard/) | Corporate Security Operations Intern, Summer 2027 – St. Louis, MO, US | O'Fallon, Missouri |  | Oct 6 | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Corporate-Security-Operations-Intern--Summer-2027---St-Louis--MO--US_R-284925) |
+| [Mastercard](https://internscout.org/internships/at/mastercard/) | Corporate Security Operations Intern, Summer 2027 – St. Louis, MO, US | O'Fallon, Missouri | \$25-30/hr | Oct 6 | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Corporate-Security-Operations-Intern--Summer-2027---St-Louis--MO--US_R-284925) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Finance Project Management & Financial Systems Analyst Intern (Summer 2027) | USA - Texas - Austin +1 |  | Oct 6 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Finance-Project-Management-Analyst-Intern--Summer-2027-_JR-2604486) |
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Sales Operations & Analytics Intern (Summer 2027) | Milwaukee, WI |  | Oct 6 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Operations---Analytics-Intern--Summer-2027-_REQ-020081-1) |
 | [Primient](https://internscout.org/internships/at/primient/) | Continuous Improvement Intern - Summer 2027 | Decatur, IL | \$1,500 to \$3,000 | Oct 6 | [Apply](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Decatur-IL/Continuous-Improvement-Intern---Summer-2027_JREQ7010) |

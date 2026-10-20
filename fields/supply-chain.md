@@ -1,6 +1,6 @@
 # Supply Chain: Summer 2027 Internships
 
-182 open Summer 2027 supply chain roles, newest first (all 182). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 443 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
+181 open Summer 2027 supply chain roles, newest first (all 181). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 442 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -114,7 +114,6 @@
 | [Honeywell](https://internscout.org/internships/at/honeywell/) | Supply Chain – Summer 2027 Intern (US Person Required) | United States |  | Aug 25 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155586) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD | Seattle, WA |  | Aug 20 | [Apply](https://lifeattiktok.com/search/7675845333947812149) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Oct 20, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
-| [Ecolab](https://internscout.org/internships/at/ecolab/) | Supply Chain Intern - Engineering and Business Majors | USA - Minnesota - Saint Paul +13 | \$22 - \$25/hour | Oct 19 | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Supply-Chain-Intern---Engineering-and-Business-Majors_R00304542) |
 | [The Boeing Company](https://internscout.org/internships/at/boeing/) | Boeing Summer 2027 Internship Program (Paid) - Supply Chain | USA - Everett, WA +32 |  | Oct 18 | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Supply-Chain_JR2026519410) |
 | [GE Aerospace](https://internscout.org/internships/at/ge-aerospace/) | Supply Chain Operations Intern – US – Summer 2027 | Durham +6 | \$20/hour | Oct 18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Supply-Chain-Operations-Intern---US---Summer-2027_R5029660-1) |
 | [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Supply Chain Regional (Summer 2027) | Neenah, WI |  | Oct 17 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Supply-Chain-Regional--Summer-2027-_R041135) |
