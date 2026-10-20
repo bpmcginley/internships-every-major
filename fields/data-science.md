@@ -1,15 +1,15 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-436 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 436). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 838 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+436 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 436). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 839 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Paccar](https://internscout.org/internships/at/paccar/) | Dealer Development Marketing Data Analytics Intern | Kirkland, WA |  | Oct 20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Dealer-Development-Marketing-Data-Analytics-Intern-WA-98033/1449209833/?ats=successfactors) |
 | [Creative Artists Agency](https://internscout.org/internships/at/creative-artists-agency/) | CAA ICON Data Analytics Intern – Summer 2027 (Denver, CO) | Denver, CO |  | Oct 20 | [Apply](https://caa.wd1.myworkdayjobs.com/Careers/job/Denver-CO/CAA-ICON-Data-Analytics-Intern---Summer-2027--Denver--CO-_JR9391) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Data Science R&D Graduate Intern | PA, Working at Home - Pennsylvania +99 |  | Oct 20 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Data-Science-R-D-Graduate-Intern_J287175) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | AI Data Science Intern, MS - Summer 2027 | Santa Clara, CA | Paid | Oct 20 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846-1) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Warranty Data Analyst Intern | Kirkland, WA | Paid | Oct 19 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Warranty-Data-Analyst-Intern-WA-98033/1449176033/?ats=successfactors) |
 | [Amplify](https://internscout.org/internships/at/amplify/) | Data Analytics Intern | Remote +1 |  | Oct 19 | [Apply](https://jobs.ashbyhq.com/amplify/7b859cc1-1354-43c5-bbd4-0571e85f7c51/application?embed=true) |
-| [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Dealer Development Marketing Data Analytics Intern | Kirkland, WA |  | Oct 19 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Dealer-Development-Marketing-Data-Analytics-Intern-WA-98033/1449209833/) |
 | Zebra Technologies | Business Analytics Intern | Holtsville, NY +1 |  | Oct 19 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Business-Analytics_JR103642) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Data Analyst Undergraduate Intern | Pittsburgh, PA +1 |  | Oct 19 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Data-Analyst-Undergraduate-Intern_J288017) |
 | [QTS](https://internscout.org/internships/at/qts/) | People Services Data Analytics Intern | Ashburn, VA +1 |  | Oct 19 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-VA-Ashburn-1-DC1/Summer-2027-Internship--People-Services-Data-Analytics_R2026-2307) |
@@ -65,7 +65,7 @@
 | [Symbotic](https://internscout.org/internships/at/symbotic/) | Intern- Data Engineer | USA Wilmington, MA - HQ |  | Oct 13 | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Data-Engineer_R7967) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | PhD Research Intern, Learning Embodied Skills from Human Data - 2027 | US, CA +2 |  | Oct 13 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Learning-Embodied-Skills-from-Human-Data---2027_JR2025405) |
 | BlueCross BlueShield of Nebraska | Data Intern - Healthcare Summer 2027 | Omaha, NE |  | Oct 13 | [Apply](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Data-Intern--Summer-2027_JR101406) |
-| [Koch Industries](https://internscout.org/internships/at/koch-industries/) | Digital Technology & Data Intern | Auburn Hills, MI |  | Oct 12 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/195465) |
+| Koch Industries | Digital Technology & Data Intern | Auburn Hills, MI |  | Oct 12 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/195465) |
 | [Electronic Arts](https://internscout.org/internships/at/electronic-arts/) | Data and AI Engineer Intern | Austin, TX |  | Oct 12 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Data-AI-Engineering-Intern-Summer-2027/216238) |
 | [MEMX](https://internscout.org/internships/at/memx/) | Data Engineering Intern, Summer 2027 (Hybrid, NYC) | United States +1 | \$30/hour | Oct 12 | [Apply](https://job-boards.greenhouse.io/memx/jobs/5450442008) |
 | [DV Group](https://internscout.org/internships/at/dv-group/) | Data Center Engineer Intern - Summer 2027 | Chicago +1 | \$40.00 per hour | Oct 12 | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4742962005) |
@@ -192,7 +192,7 @@
 | Capital Group | Data & Technology Summer Associate | NYC |  | Sep 22 | [Apply](https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Los-Angeles/CAMPUS--Data---Technology-Summer-Associate--Los-Angeles--2027-_JR7382) |
 | [Figma](https://internscout.org/internships/at/figma/) | Data Science Intern | SF +1 |  | Sep 21 | [Apply](https://boards.greenhouse.io/figma/jobs/6200626004) |
 | Viking Global | Data Science Intern | NYC +1 | Paid | Sep 21 | [Apply](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004) |
-| [Koch Industries](https://internscout.org/internships/at/koch-industries/) | Business Analytics & Insights Intern | Green Bay, WI |  | Sep 21 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/194813) |
+| Koch Industries | Business Analytics & Insights Intern | Green Bay, WI |  | Sep 21 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/194813) |
 | Zimmer Biomet Holdings | Summer Intern - Data Mesh Platform | Remote |  | Sep 21 | [Apply](https://careers.zimmerbiomet.com/us/en/job/12688) |
 | Zimmer Biomet Holdings | Data Management Intern | Warsaw, IN |  | Sep 21 | [Apply](https://careers.zimmerbiomet.com/us/en/job/12746) |
 | Erie Insurance Group | Data Intern 2 | Erie, PA |  | Sep 21 | [Apply](https://jobs.erieinsurance.com/job/Erie-Intern-II-%28Data%29-PA-16506/1432176200/?ats=successfactors) |

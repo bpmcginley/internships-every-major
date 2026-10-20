@@ -1,6 +1,6 @@
 # Operations: Summer 2027 Internships
 
-319 open Summer 2027 operations roles, newest first (the 200 newest of 319). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 775 operations internships on InternScout](https://internscout.org/internships/operations/)
+319 open Summer 2027 operations roles, newest first (the 200 newest of 319). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 776 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2027 | IL-Rosemont | \$84,000 - \$202,000 | Oct 3 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Management-Consulting---Operations---Supply-Chain-Solutions-Senior-Associate-Intern---Summer-2027_765632WD) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | People Operations Intern (Summer 2027) | Mountain View, CA | \$40/hour | Oct 2 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5255938007) |
 | xAI | Summer 2027 Business Operations Internship/Co-op | Palo Alto, CA +1 | \$24.50 | Oct 2 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255116007) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Government Operations Intern Summer 2027 | Washington, DC +1 | \$22.00 | Oct 2 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7992754003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Government Operations Intern Summer 2027 | Littleton, CO +1 |  | Oct 2 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8001401003) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | Precision Medicine Operations Co-op | Armonk, NY +1 | Paid | Oct 2 | [Apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/Armonk/XMLNAME-2027-Co-op-Precision-Medicine-Operations_R51082-1) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Procurement Corporate Internship - Summer 2027 (Undergraduate) | RI - Woonsocket |  | Oct 2 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Procurement-Corporate-Internship---Summer-2027--Undergraduate-_R1061275) |
 | [Zekelman Industries](https://internscout.org/internships/at/zekelman-industries/) | Intern, Quality Systems & Assurance | Chandler, AZ +3 |  | Oct 2 | [Apply](https://zekelman.wd12.myworkdayjobs.com/Careers/job/Chandler-AZ/Intern--Quality-Systems---Assurance_JR002855) |

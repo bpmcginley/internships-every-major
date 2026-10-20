@@ -1,6 +1,6 @@
 # Quantitative Finance: Summer 2027 Internships
 
-128 open Summer 2027 quantitative finance roles, newest first (all 128). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 167 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
+137 open Summer 2027 quantitative finance roles, newest first (all 137). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 176 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Principal Financial Group](https://internscout.org/internships/at/principal-financial-group/) | Intern - Quantitative Research, Principal Asset Allocation (Undergrad or Graduate - Summer 2027) | New York, New York +3 | \$29 - \$40 / hour | Oct 1 | [Apply](https://careers.principal.com/jobs/52721) |
 | [SouthState Bank](https://internscout.org/internships/at/southstate-bank/) | Quantitative Intern | Texas +8 |  | Sep 29 | [Apply](https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/Summer-2027-Quantitative-Intern--Remote-_R-06264) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Quantitative Analytics & Data Science Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 28 | [Apply](https://jobs.constellationenergy.com/jobs/139494) |
-| Gelber Group | Discretionary Trading Internship - Summer 2027 | Chicago +1 | \$35/hr | Sep 25 | [Apply](https://job-boards.greenhouse.io/gelberhandshake/jobs/4716802006) |
+| Gelber Group | Discretionary Trading Internship - Summer 2027 | Chicago, IL +1 | \$35/hr | Sep 25 | [Apply](https://job-boards.greenhouse.io/gelbergroup/jobs/4716779006) |
 | [Tradeweb](https://internscout.org/internships/at/tradeweb/) | Quantitative Intern | NYC |  | Sep 24 | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301931) |
 | [Neuberger Berman](https://internscout.org/internships/at/neuberger-berman/) | Quantitative 2027 Summer Intern | New York, NY +1 | Paid | Sep 24 | [Apply](https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/Quantitative-2027-Summer-Intern_R0012643) |
 | [Lazard](https://internscout.org/internships/at/lazard/) | 2027 Portfolio Manager Summer Internship | New York |  | Sep 23 | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6613) |
@@ -62,6 +62,15 @@
 | Xantium | Quantitative Researcher Intern | NYC |  | Aug 17 | [Apply](https://job-boards.greenhouse.io/xantium/jobs/4371217009) |
 | [DV Group](https://internscout.org/internships/at/dv-group/) | Trading Intern - Summer 2027 (DV Commodities) | New York +1 | \$45.00 per hour | Aug 17 | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719134005) |
 | Belvedere Trading | Quantitative Trading Intern | Chicago, IL +1 |  | Aug 17 | [Apply](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) |
+| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Quantitative Strats Analyst Intern - Americas - Investment Banking | Dallas, TX |  | Aug 15 | [Apply](https://higher.gs.com/roles/171548?type=students) |
+| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Summer Analyst Intern - Americas - Investment Banking Quantitative Strats | NYC |  | Aug 15 | [Apply](https://higher.gs.com/roles/171547?type=students) |
+| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Quantitative Strategist Intern - Americas - The Core Quantitative Strats | NYC |  | Aug 15 | [Apply](https://higher.gs.com/roles/171551?type=students) |
+| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Quantitative Strategist Intern - Americas | Dallas, TX |  | Aug 15 | [Apply](https://higher.gs.com/roles/171532?type=students) |
+| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Quantitative Strategist Intern - Multiple Teams | NYC |  | Aug 15 | [Apply](https://higher.gs.com/roles/171563?type=students) |
+| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Quantitative Strategist Associate Intern - The Core Quantitative Strats | NYC |  | Aug 15 | [Apply](https://higher.gs.com/roles/171535?type=students) |
+| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Associate Intern - The Core Quantitative Strats | Dallas, TX |  | Aug 15 | [Apply](https://higher.gs.com/roles/171546?type=students) |
+| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats | Salt Lake City, UT |  | Aug 15 | [Apply](https://higher.gs.com/roles/171549?type=students) |
+| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL |  | Aug 15 | [Apply](https://higher.gs.com/roles/181628?type=students) |
 | Quantbot Technologies | Quantitative Developer Intern | NYC |  | Aug 11 | [Apply](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) |
 | Quantbot Technologies | Data Trading Analyst Intern | NYC |  | Aug 11 | [Apply](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009) |
 | Quantbot Technologies | Quantitative Researcher Intern | NYC |  | Aug 11 | [Apply](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) |

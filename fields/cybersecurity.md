@@ -4,8 +4,8 @@
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - Software Engineer (Security/Government) | California - San Francisco +1 |  | Oct 20 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911) |
 | [Systems Planning and Analysis (SPA)](https://internscout.org/internships/at/systems-planning-and-analysis-spa/) | Cyber Security Intern - Summer 2027 | Alexandria, Virginia |  | Oct 19 | [Apply](https://spa.jibeapply.com/jobs/23731) |
-| [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - Software Engineer (Security/Government) | California - San Francisco +1 |  | Oct 19 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911) |
 | LLNL | Critical Infrastructure Analysis Intern, Cyber and Critical Infrastructure Summer Institute | Livermore, CA |  | Oct 16 | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016165496) |
 | LLNL | Cybersecurity Intern, Cyber and Critical Infrastructure Summer Institute | Livermore, CA |  | Oct 16 | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016165636) |
 | [Together AI](https://internscout.org/internships/at/together-ai/) | Hardware Security Engineer Intern (Summer 2027) | San Francisco |  | Oct 16 | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5238469007) |
@@ -48,7 +48,7 @@
 | [ibotta](https://internscout.org/internships/at/ibotta/) | Information Security Intern | Hybrid - Denver +2 | \$26.92 per hour | Sep 22 | [Apply](https://jobs.ashbyhq.com/ibotta/bc7c532d-931a-40fb-8c6c-b6939dd98582/application) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Security (Product, Systems, Cyber) Engineering Internship - Summer 2027 | San Diego, CA |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720740636) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship - Military Systems Cybersecurity Engineer | Laurel, Maryland |  | Sep 17 | [Apply](https://careers.jhuapl.edu/jobs/59759) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Security Analyst Intern Summer 2027 | Long Beach, CA +3 |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986956003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Security Analyst Intern Summer 2027 | Wallops Island, VA +3 |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986961003) |
 | [SimVentions](https://internscout.org/internships/at/simventions/) | 2027 Cybersecurity Intern | Fredericksburg, Virginia | Paid | Sep 15 | [Apply](https://simventions.jibeapply.com/jobs/1630) |
 | [Intuit](https://internscout.org/internships/at/intuit/) | Software Engineer Intern - Cybersecurity | Mountain View, CA |  | Sep 14 | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616) |
 | [Citizens Financial Group](https://internscout.org/internships/at/citizens-financial-group/) | Data Engineer Intern - Enterprise Technology & Security | Plano, TX +2 |  | Sep 11 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285) |

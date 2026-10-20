@@ -1,6 +1,6 @@
 # Communications: Summer 2027 Internships
 
-51 open Summer 2027 communications roles, newest first (all 51). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 163 communications internships on InternScout](https://internscout.org/internships/communications/)
+50 open Summer 2027 communications roles, newest first (all 50). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 164 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -44,7 +44,6 @@
 | [HNTB](https://internscout.org/internships/at/hntb/) | Communications & Engagement Intern - Summer 2027 | Columbus, OH +2 | \$19.12 - \$28.68 | Oct 3 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Columbus-OH/Communications---Engagement-Intern---Summer-2027_R-31327) |
 | [The Boeing Company](https://internscout.org/internships/at/boeing/) | Boeing Summer 2027 Internship Program (Paid) – Communications Intern | USA - Arlington, VA +6 |  | Sep 18 | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Communications-Intern_JR2026518829-1) |
 | [Ensign-Bickford Industries](https://internscout.org/internships/at/ensign-bickford-industries/) | Communications Intern | Simsbury, CT |  | Sep 18 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Communications-Intern_REQ107700-1) |
-| [Ensign-Bickford Aerospace & Defense Company](https://internscout.org/internships/at/ensign-bickford-aerospace-defense-company/) | Communications Intern | Simsbury, CT |  | Sep 18 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Communications-Intern_REQ107700) |
 | [Hy-Vee](https://internscout.org/internships/at/hy-vee/) | Content Writer Intern - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA |  | Sep 18 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Content-Writer-Intern---Summer-2027_R249894) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Communications & Graphics Intern - Summer 2027 | Raleigh, NC |  | Sep 18 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Raleigh-NC/Communications---Graphics-Intern---Summer-2027_R-31513) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Communications Intern - Summer 2027 | Nashville, TN (City Center) |  | Sep 18 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Nashville-TN-City-Center/Communications-Intern---Summer-2027_R-31413) |
