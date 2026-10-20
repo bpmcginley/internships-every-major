@@ -1,6 +1,6 @@
 # Government and Public Policy: Summer 2027 Internships
 
-64 open Summer 2027 government and public policy roles, newest first (all 64). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 314 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+64 open Summer 2027 government and public policy roles, newest first (all 64). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 316 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Oct 20, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Health Policy Analysis | Portland, ME | \$30 per hour | Oct 20, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3974/summer-2027-consulting-internship---health-policy-analysis/job) |
 | RAND Corporation | RAND Summer Associate Program - POLICY Research | Santa Monica, CA (Greater Los Angeles Area) +4 |  | Oct 17 | [Apply](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Santa-Monica-CA-Greater-Los-Angeles-Area/RAND-Summer-Associate-Program---POLICY-Research_R3660) |
-| [IDEMIA](https://internscout.org/internships/at/idemia/) | Government Relations Internship - Summer 2027 | Reston, VA |  | Oct 13 | [Apply](https://uscareers-idemia.icims.com/jobs/8689/government-relations-internship---summer-2027/job) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Government Relations Internship - Summer 2027 | Reston, VA |  | Oct 13 | [Apply](https://uscareers-idemia.icims.com/jobs/8690/government-relations-internship---summer-2027/job) |
 | [Land O'Lakes](https://internscout.org/internships/at/land-o-lakes/) | Government Relations Intern | Remote | \$23/ hr | Sep 18 | [Apply](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Virtual-USA/Government-Relations-Intern_R-40406) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Federal Reserve Summer Business 2027 Internship | Richmond, VA |  | Sep 18 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Richmond-VA/Federal-Reserve-Summer-Business-2027-Internship_R-0000033190) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Government & Political Science Internship - Summer 2027 | Arlington, VA |  | Sep 18 | [Apply](https://jobs.ulalaunch.com/job/Arlington-Government-&-Political-Science-Internship-Summer-2027-VA-22209/1427398100/) |

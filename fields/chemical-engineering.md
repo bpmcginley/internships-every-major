@@ -1,9 +1,10 @@
 # Chemical Engineering: Summer 2027 Internships
 
-58 open Summer 2027 chemical engineering roles, newest first (all 58). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 173 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+59 open Summer 2027 chemical engineering roles, newest first (all 59). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 171 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Stantec](https://internscout.org/internships/at/stantec/) | Process Engineering Intern – Energy & Resources (Summer 2027) | Bakersfield, CA |  | Oct 20 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008254) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Material/Process Engineering Intern (Summer 2027)(Onsite) | Spokane, WA |  | Oct 19 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-WA-SPOKANE-11135--11135-W-Westbow-Ln--WESTBOW/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01882373) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | 2027 Summer Intern PhD Student - Drug Product Development - Oral Formulation | New Brunswick - NJ - US | \$45/hour | Oct 16 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/New-Brunswick---NJ---US/XMLNAME-2027-Summer-Intern-PhD-Student---Drug-Product-Development-Formulation_R1607390) |
 | [Skydio](https://internscout.org/internships/at/skydio/) | Process Engineering Intern - Summer 2027 | San Mateo, California, United States +2 | Paid | Oct 14 | [Apply](https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b/application) |

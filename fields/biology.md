@@ -1,9 +1,10 @@
 # Biology: Summer 2027 Internships
 
-13 open Summer 2027 biology roles, newest first (all 13). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 138 biology internships on InternScout](https://internscout.org/internships/biology/)
+14 open Summer 2027 biology roles, newest first (all 14). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 137 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - MBA Business Value & Strategic Selling Consultant (Healthcare & Life Sciences) | New York - New York |  | Oct 20 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499) |
 | [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | TDS Proteins DPD&D Biopharmaceutics Co-Op | Malvern, Pennsylvania, United States of America |  | Oct 19 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Proteins-DPD-D-Biopharmaceutics-Co-Op_R-098671) |
 | [Haleon](https://internscout.org/internships/at/haleon/) | 2027: Summer Intern: VCU School of Pharmaceutical Sciences Intern | USA - Virginia - Richmond |  | Oct 12 | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---Virginia---Richmond/XMLNAME-2027--Summer-Intern--VCU-School-of-Pharmaceutical-Sciences-Intern_548425) |
 | [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program – Drug Metabolism and Pharmacokinetics – Co-op | USA - California - South San Francisco (Grand Ave) | \$39,108 | Oct 12 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Drug-Metabolism-and-Pharmacokinetics---Co-op_R412928) |

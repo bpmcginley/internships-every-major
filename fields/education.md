@@ -1,10 +1,11 @@
 # Education: Summer 2027 Internships
 
-12 open Summer 2027 education roles, newest first (all 12). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 212 education internships on InternScout](https://internscout.org/internships/education/)
+13 open Summer 2027 education roles, newest first (all 13). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 212 education internships on InternScout](https://internscout.org/internships/education/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Draper](https://internscout.org/internships/at/draper/) | Acoustic and Vibration Technologies Intern - Summer 2027 | Cambridge, MA | Paid | Oct 13 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Acoustic-and-Vibration-Technologies-Intern--Summer-2027-_JR003003-1) |
+| [University of Texas at Austin](https://internscout.org/internships/at/university-of-texas-at-austin/) | Sr. Student Associate, Collection Appraisal Intern | Austin, TX | \$16.00 per hour | Oct 12 | [Apply](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Sr-Student-Associate--Collection-Appraisal-Intern_R_00049286) |
 | [Motorola](https://internscout.org/internships/at/motorola/) | Global Education Intern (Summer 2027 Internship) | Chicago, IL +1 |  | Oct 7 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Global-Education-Intern--Summer-2027-Internship-_R69472) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Leadership Instructional Design Internship | IRVINE, California | Paid | Sep 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36762) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Sales Instructional Design Internship | Caledonia, Michigan | Paid | Sep 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36655) |

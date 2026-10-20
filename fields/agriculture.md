@@ -1,6 +1,6 @@
 # Agriculture: Summer 2027 Internships
 
-19 open Summer 2027 agriculture roles, newest first (all 19). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 54 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
+19 open Summer 2027 agriculture roles, newest first (all 19). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 53 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

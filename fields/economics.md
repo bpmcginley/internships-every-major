@@ -1,6 +1,6 @@
 # Economics: Summer 2027 Internships
 
-18 open Summer 2027 economics roles, newest first (all 18). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 44 economics internships on InternScout](https://internscout.org/internships/economics/)
+18 open Summer 2027 economics roles, newest first (all 18). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 45 economics internships on InternScout](https://internscout.org/internships/economics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [The Brattle Group](https://internscout.org/internships/at/the-brattle-group/) | Energy Analyst Intern - Economics - Multiple Teams | Toronto, ON, Canada |  | Sep 18 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005) |
 | [The Brattle Group](https://internscout.org/internships/at/the-brattle-group/) | Research Analyst Intern (Economics) - Summer 2027 | New York, New York, United States | \$1,850.00 per week | Sep 18 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735674005) |
 | [The Brattle Group](https://internscout.org/internships/at/the-brattle-group/) | Research Analyst Intern (Economics & Finance) - Summer 2027 | New York, New York, United States |  | Sep 18 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735519005) |
-| [GM financial](https://internscout.org/internships/at/gm-financial/) | Intern - Economic Analysis | Fort Worth, TX |  | Sep 16 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260811) |
+| [GM financial](https://internscout.org/internships/at/gm-financial/) | Economic Analysis Intern | Fort Worth, TX |  | Sep 16 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260811) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Health Policy Analysis | Portland, ME | \$30 per hour | Oct 20, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3974/summer-2027-consulting-internship---health-policy-analysis/job) |
 | The Wall Street Journal | The Wall Street Journal Summer Business, Finance & Economic Reporting Internships (2027) | Union, NJ, United States +1 |  | Oct 20 | [Apply](https://jobs.womenforhire.com/job/usa/union-nj/the-wall-street-journal-summer-business-finance-economic-reporting-internships-2027-093832/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Walmart](https://internscout.org/internships/at/walmart/) | Summer 2027 Corporate Intern: Economist | (USA) 121 HOBOKEN NJ HOBOKEN Home Office | \$25.00 - \$48.00 | Sep 18 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-121-HOBOKEN-NJ-HOBOKEN-Home-Office/Summer-2027-Corporate-Intern--Economist_R-2630169) |
