@@ -1,6 +1,6 @@
 # Chemistry: Summer 2027 Internships
 
-12 open Summer 2027 chemistry roles, newest first (all 12). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 31 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
+12 open Summer 2027 chemistry roles, newest first (all 12). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 32 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

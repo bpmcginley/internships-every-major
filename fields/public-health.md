@@ -1,6 +1,6 @@
 # Public Health: Summer 2027 Internships
 
-6 open Summer 2027 public health roles, newest first (all 6). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 15 public health internships on InternScout](https://internscout.org/internships/public-health/)
+6 open Summer 2027 public health roles, newest first (all 6). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 14 public health internships on InternScout](https://internscout.org/internships/public-health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

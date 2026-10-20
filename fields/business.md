@@ -1,6 +1,6 @@
 # Business: Summer 2027 Internships
 
-80 open Summer 2027 business roles, newest first (all 80). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 146 business internships on InternScout](https://internscout.org/internships/business/)
+79 open Summer 2027 business roles, newest first (all 79). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 147 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -22,7 +22,6 @@
 | [Marvell](https://internscout.org/internships/at/marvell/) | Business Process Mining & Intelligence Analyst Intern, BS - Summer 2027 | Santa Clara, CA | Paid | Oct 7 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Business-Process-Mining---Intelligence-Analyst-Intern--BS---Summer-2027_2603844-1) |
 | [Baird](https://internscout.org/internships/at/baird/) | Internship – Business Transformation (Milwaukee, WI Summer 2027) | WI-Milwaukee |  | Oct 7 | [Apply](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Business-Transformation--Milwaukee--WI-Summer-2027-_R20261133-1) |
 | [Abbott](https://internscout.org/internships/at/abbott/) | 2027 Abbott MBA Internship | United States - Illinois - Abbott Park +2 | \$86,700.00 – \$173,300.00 | Oct 5 | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/XMLNAME-2027-Abbott-MBA-Internship_31160732) |
-| [Centene](https://internscout.org/internships/at/centene/) | MBA Summer 2027 Intern (Graduate) | Remote-MO | \$21.00/hr | Oct 5 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/MBA-Summer-Intern--Graduate-_1660523) |
 | UNAVAILABLE | Summer Associate Intern - Generalist (MBA/MA) (2027 Start Date) | Boston, MA +6 |  | Oct 2 | [Apply](https://associatecareers-analysisgroup.icims.com/jobs/3071/summer-associate-intern---generalist-%28mba-ma%29-%282027-start-date%29/job) |
 | [Anheuser-Busch](https://internscout.org/internships/at/anheuser-busch/) | AB InBev MBA Summer 2027 Intern - PEOPLE | New York, New York | \$5K | Oct 2 | [Apply](https://abinbev.wd1.myworkdayjobs.com/USA/job/New-York-New-York/AB-InBev-MBA-Summer-2027-Intern---PEOPLE_30104488) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Business Transformation (Reston) | Reston, VA |  | Oct 2 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Business-Transformation--Reston-_R2603346) |

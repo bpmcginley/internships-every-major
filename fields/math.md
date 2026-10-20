@@ -1,6 +1,6 @@
 # Math: Summer 2027 Internships
 
-36 open Summer 2027 math roles, newest first (all 36). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 62 math internships on InternScout](https://internscout.org/internships/math/)
+35 open Summer 2027 math roles, newest first (all 35). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 60 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -33,13 +33,12 @@
 | [Pacific Life](https://internscout.org/internships/at/pacific-life/) | Summer 2027 Actuarial Intern (Omaha) | Omaha NE-6750 |  | Sep 26 | [Apply](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Omaha-NE-6750/Summer-2027-Actuarial-Intern--Omaha-_R17461) |
 | [Pacific Life](https://internscout.org/internships/at/pacific-life/) | Summer 2027 Actuarial Intern (Charlotte) | Charlotte - NC |  | Sep 26 | [Apply](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Charlotte---NC/Summer-2027-Actuarial-Intern--Charlotte-_R17462) |
 | [West Bend Insurance](https://internscout.org/internships/at/west-bend-insurance/) | Summer 2027 Internship - Actuarial | West Bend, WI |  | Sep 23 | [Apply](https://careers-thesilverlining.icims.com/jobs/3767/summer-2027-internship---actuarial/job) |
-| [Marsh](https://internscout.org/internships/at/marsh/) | Health and Benefits Actuarial Summer Intern- Southeast market- College Program 2027 | Washington - Conn Ave NW |  | Sep 19 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Atlanta---Lenox/Health-Consulting-Actuarial-Summer-Intern--Southeast-Market--College-Program-2027_R_365784) |
 | [Excellus BCBS](https://internscout.org/internships/at/excellus-bcbs/) | College Intern - Summer 2027- Actuarial (Multiple Openings!) | Buffalo +2 | Paid | Sep 18 | [Apply](https://lthc.wd1.myworkdayjobs.com/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027--Actuarial--Multiple-Openings--_JR104038) |
 | [CareBridge](https://internscout.org/internships/at/carebridge/) | Actuarial Intern - Summer 2027 | IN-INDIANAPOLIS, 220 VIRGINIA AVE |  | Sep 18 | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Actuarial-Intern---Summer-2027_JR204425) |
 | [CNA Insurance](https://internscout.org/internships/at/cna-insurance/) | Actuarial Intern – Summer 2027 | Chicago, IL, USA | \$35,000 to \$65,000 annually | Sep 18 | [Apply](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Actuarial-Intern---Summer-2027_R-8026) |
 | Everest | 2027 Everest Actuarial Internship Program | Warren, NJ +2 | \$ 900 - 1,000 per week | Sep 18 | [Apply](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Everest-Actuarial-Internship-Program_R7399) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Data Analytics/Science/Applied Math - (Pomona/Rosemead) | Rosemead, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-%28PomonaRosemead%29-CA-91770/1425208900/) |
-| [AIG](https://internscout.org/internships/at/aig/) | 2027 Early Careers: Summer Intern, Actuarial – United States, Multiple Locations | NY-New York +4 |  | Sep 18 | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/NY-New-York/XMLNAME-2027-Early-Careers--Summer-Intern--Actuarial---United-States--Multiple-Locations_JR2603637-1) |
+| [AIG](https://internscout.org/internships/at/aig/) | 2027 Early Careers: Summer Intern, Actuarial – United States, Multiple Locations | NY-New York +4 |  | Sep 18 | [Apply](https://aig.wd1.myworkdayjobs.com/early_careers/job/NY-New-York/XMLNAME-2027-Early-Careers--Summer-Intern--Actuarial---United-States--Multiple-Locations_JR2603637) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

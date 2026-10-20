@@ -1,12 +1,13 @@
 # Design: Summer 2027 Internships
 
-62 open Summer 2027 design roles, newest first (all 62). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 169 design internships on InternScout](https://internscout.org/internships/design/)
+63 open Summer 2027 design roles, newest first (all 63). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 168 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Patreon | Product Design Intern - Summer 2027 | New York +4 | Paid | Oct 20 | [Apply](https://jobs.ashbyhq.com/patreon/b492a008-4218-4ec8-91dc-0fb512027849/application) |
+| [Garmin](https://internscout.org/internships/at/garmin/) | User Interface Designer Intern | Olathe, Kansas |  | Oct 20 | [Apply](https://careers.garmin.com/jobs/19938) |
 | [Amplify](https://internscout.org/internships/at/amplify/) | Summer 2027: Product Design Intern | Remote |  | Oct 19 | [Apply](https://jobs.ashbyhq.com/amplify/0b593144-07c5-45be-b979-6c37879e6300/application) |
-| [Centene](https://internscout.org/internships/at/centene/) | Product Designer Intern (Undergraduate Summer 2027) | Remote-MO | \$18-26/hour | Oct 19 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Product-Designer-Intern--Undergraduate-Summer-2027-_1667705) |
-| Persona | Product Design Intern | San Francisco, CA +3 |  | Oct 17 | [Apply](https://jobs.ashbyhq.com/persona/a50a3137-1c9a-4947-9f4e-1a4ef26c2bec/application) |
+| Persona | Product Design Intern | San Francisco, CA |  | Oct 17 | [Apply](https://jobs.ashbyhq.com/persona/a50a3137-1c9a-4947-9f4e-1a4ef26c2bec/application) |
 | [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova - SCS Product Design Internship – Summer 2027 | Bellevue |  | Oct 14 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---SCS-Product-Design-Internship---Summer-2027_R5053219-1) |
 | [Electronic Arts](https://internscout.org/internships/at/electronic-arts/) | Technical Artist Co-op | Vancouver, BC, Canada |  | Oct 13 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Product Designer Intern | Costa Mesa, California, United States | Paid | Oct 13 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007) |

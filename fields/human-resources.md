@@ -1,9 +1,11 @@
 # Human Resources: Summer 2027 Internships
 
-118 open Summer 2027 human resources roles, newest first (all 118). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 275 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+120 open Summer 2027 human resources roles, newest first (all 120). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 280 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Polaris](https://internscout.org/internships/at/polaris/) | HR Internship - Summer 2027 | Medina, MN, USA +5 |  | Oct 20 | [Apply](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/HR-Internship---Summer-2027_R30526) |
+| [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Human Resources Training (Summer 2027) | Neenah, WI |  | Oct 20 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Human-Resources-Training_R041070) |
 | [Ursa Major](https://internscout.org/internships/at/ursa-major/) | 2027 Summer People Operations Intern | Berthoud, Colorado |  | Oct 19 | [Apply](https://ursamajor.com/careers/?gh_jid=4745117005) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Human Resources Intern | Kirkland, WA |  | Oct 19 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Human-Resources-Intern-WA-98033/1449175833/) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - HR Intern (Summer 2027) | Atlanta, Georgia |  | Oct 19 | [Apply](https://careers.cdmsmith.com/jobs/4806) |
@@ -87,9 +89,9 @@
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - People, Engagement, and Impact (Pittsburgh, PA) | Pittsburgh, PA |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81246) |
 | [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Human Resources Analyst Development Program - Summer Analyst Opportunity | Plano, TX +3 |  | Jul 6 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765224) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Intelligent Sensing Intern - Global Frontier Tech Recruitment Program | San Jose, CA |  | Jun 4 | [Apply](https://jobs.bytedance.com/en/position/7629210458173556997/detail) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Human Resources Operations Internship - Summer 2027 | Reston, VA |  | Oct 20 | [Apply](https://uscareers-idemia.icims.com/jobs/8694/human-resources-operations-internship---summer-2027/job) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | WED - Intern Civil Engineer (Summer 2027) (For Current & Recent HNTB Interns Only) (Campus Recruiting Hub Requisition) | Oakland, CA +1 | \$83,008.49 - \$124,512.74 | Oct 20 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Oakland-CA/WED---Intern-Civil-Engineer--Summer-2027---For-Current---Recent-HNTB-Interns-Only---Campus-Recruiting-Hub-Requisition-_R-31285-1) |
 | [The Boeing Company](https://internscout.org/internships/at/boeing/) | Boeing Business Internship Program (Paid) Summer 2027 - Human Resources | USA - Everett, WA +12 |  | Oct 18 | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/Boeing-Business-Internship-Program--Paid--Summer-2027---Human-Resources_JR2026520801) |
-| [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Human Resources Training (Summer 2027) | Neenah, WI |  | Oct 17 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Human-Resources-Training_R041070) |
 | [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Human Resources (Summer 2027) | Neenah, WI |  | Oct 17 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Human-Resources--Summer-2027-_R040029-1) |
 | AriensCo | Intern, Human Resources | WI - Brillion |  | Oct 17 | [Apply](https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Intern--Human-Resources_R-04130) |
 | [W.W. Grainger](https://internscout.org/internships/at/w-w-grainger/) | Training Intern - Summer 2027 | GREEN BAY, WI |  | Oct 13 | [Apply](https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-Training-Intern-Summer-2027-WI-54301-5160/1435287600/) |

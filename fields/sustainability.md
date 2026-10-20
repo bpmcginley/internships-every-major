@@ -1,6 +1,6 @@
 # Sustainability: Summer 2027 Internships
 
-87 open Summer 2027 sustainability roles, newest first (all 87). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 137 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+85 open Summer 2027 sustainability roles, newest first (all 85). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 135 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -12,8 +12,7 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Renewables Engineering Intern - Oakland, MD | Oakland, Maryland | Paid | Oct 15 | [Apply](https://jobs.constellationenergy.com/jobs/140007) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Power Technical Intern - Alexander City, AL (ASSOCIATE'S DEGREE ONLY) | Alexander City, Alabama | Paid | Oct 15 | [Apply](https://jobs.constellationenergy.com/jobs/140010) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Power Technical Internship - Darlington, MD (ASSOCIATE'S DEGREE ONLY) | Darlington, Maryland | Paid | Oct 15 | [Apply](https://jobs.constellationenergy.com/jobs/140014) |
-| [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Clean Energy Business Intern | Washington, DC +2 |  | Oct 15 | [Apply](https://careers-nrdc.icims.com/jobs/6072/summer-2027-clean-energy-business-intern/job) |
-| [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern, Capital Projects, Summer 2027 | The Woodlands, Texas |  | Oct 15 | [Apply](https://jobs.entergy.com/job/The-Woodlands-Student%2C-Intern%2C-Capital-Projects%2C-Summer-2027-Texa/1440487600/) |
+| [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern, Capital Projects, Summer 2027 | The Woodlands, Texas +2 |  | Oct 15 | [Apply](https://jobs.entergy.com/job/The-Woodlands-Student%2C-Intern%2C-Capital-Projects%2C-Summer-2027-Texa/1440487600/) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | BIM Technician Intern - Buildings (Summer 2027) | Denver, CO +5 |  | Oct 15 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008294) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Transportation Roadway Intern (Summer 2027) | Cincinnati, OH +3 |  | Oct 14 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007531) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Climate & Health Intern | Chicago, IL +1 |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6064/summer-2027-climate-%26-health-intern/job) |
@@ -26,7 +25,6 @@
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern – CO2 | MIDLAND, Texas +2 |  | Oct 13 | [Apply](https://careers.kindermorgan.com/jobs/6044) |
 | [Neuberger Berman](https://internscout.org/internships/at/neuberger-berman/) | MBA Intern, Stewardship & Sustainable Investing Summer 2027 | New York, NY | \$140,000-\$140,000 | Oct 12 | [Apply](https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/MBA-Intern--Stewardship---Sustainability-Summer-2027_R0012713) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Acoustics Intern (Summer 2027) | Chicago, IL |  | Oct 9 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008256) |
-| [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern Power Development Summer 2027 | The Woodlands, Texas |  | Oct 8 | [Apply](https://jobs.entergy.com/job/The-Woodlands-Student%2C-Intern-Power-Development-Summer-2027-Texa/1438490500/) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Sustainability Intern | Pittsburgh, Pennsylvania | Paid | Oct 8 | [Apply](https://careers.trccompanies.com/jobs/27037) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Sustainable Mobility (New York) | New York, NY +2 |  | Oct 8 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/New-York-NY/XMLNAME-2027-Summer-Intern--Sustainable-Mobility--New-York-_R2603406) |
 | [Woolpert](https://internscout.org/internships/at/woolpert/) | Site Civil/ Energy Internship (Summer 2027) | Columbus, OH +1 | Paid | Oct 7 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4426119009) |

@@ -1,9 +1,11 @@
 # Law and Legal: Summer 2027 Internships
 
-109 open Summer 2027 law and legal roles, newest first (all 109). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 266 law and legal internships on InternScout](https://internscout.org/internships/law/)
+110 open Summer 2027 law and legal roles, newest first (all 110). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 272 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - Legal and Compliance | Boston, Massachusetts | \$46,800 | Oct 20 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Legal-and-Compliance_JR26091968) |
+| [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Risk and Compliance Management Undergraduate Intern | Pittsburgh PA, 15222, FAP, 5th Avenue Place |  | Oct 20 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Risk-and-Compliance-Management-Undergraduate-Intern_J287733) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Legal Intern - Summer 2027 | Detroit, MI |  | Oct 20 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Legal-Intern---Summer-2027_R-084314) |
 | [Systems Planning and Analysis (SPA)](https://internscout.org/internships/at/systems-planning-and-analysis-spa/) | Policy Intern - Summer 2027 | Alexandria, Virginia |  | Oct 19 | [Apply](https://spa.jibeapply.com/jobs/23728) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Risk & Compliance Management Analyst Undergraduate Intern | Pittsburgh PA, 15222, FAP, 5th Avenue Place |  | Oct 19 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Risk---Compliance-Management-Analyst-Undergraduate-Intern_J288312) |
@@ -13,7 +15,6 @@
 | [Axiom Space](https://internscout.org/internships/at/axiom-space/) | Legal Intern (Summer 2027) | Houston |  | Oct 15 | [Apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Legal-Intern--Summer-2027-_JR100763) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Governance, Risk and Compliance | Philadelphia, PA +1 |  | Oct 15 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Philadelphia-PA/XMLNAME-2027-Summer-Internship---Governance--Risk-and-Compliance_R-104143-2) |
 | [Jain Global](https://internscout.org/internships/at/jain-global/) | Compliance Technology Intern | NYC |  | Oct 14 | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Compliance-Technology-Intern_JR100607) |
-| [Centene](https://internscout.org/internships/at/centene/) | Contracts & Regulatory Intern (Healthcare Law Student Summer 2027) | Remote-MO | \$30.00-35.00/hour | Oct 14 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Contracts---Regulatory-Intern--Healthcare-Law-Student-Summer-2027-_1667771) |
 | [Baker Tilly](https://internscout.org/internships/at/baker-tilly/) | Summer 2027 Compliance Advisory Intern | Albuquerque, NM |  | Oct 14 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-NM-Albuquerque/Summer-2027-Compliance-Advisory-Intern_JR108362) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Federal Climate Initiatives Legal Intern | Washington, DC |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6056/summer-2027-federal-climate-initiatives-legal-intern/job) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Safe Water Initiative Legal Intern | Washington, DC |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6048/summer-2027-safe-water-initiative-legal-intern/job) |
