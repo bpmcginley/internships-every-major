@@ -1,6 +1,6 @@
 # Cybersecurity: Summer 2027 Internships
 
-89 open Summer 2027 cybersecurity roles, newest first (all 89). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 197 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+86 open Summer 2027 cybersecurity roles, newest first (all 86). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 190 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -37,8 +37,6 @@
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Intern-Cybersecurity and Information Security | Chicago, IL | \$20 to \$33, | Oct 1 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Cybersecurity-and-Information-Security_R-0000033612-1) |
 | [PPL](https://internscout.org/internships/at/ppl/) | Summer 2027 - Cybersecurity Intern | Allentown, Pennsylvania +1 |  | Oct 1 | [Apply](https://careers.pplweb.com/jobs/15238) |
 | Iberdrola Group | 2027 Technology, Cyber & Data Internship Program | United States Of America, Connecticut, Orange +9 | Paid | Sep 29 | [Apply](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Technology--Cyber---Data-Internship-Program_R-32747) |
-| [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Undergraduate Intern, National Security Project | New York, NY |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8842752002) |
-| [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, National Security Project | Hybrid-New York City |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8846143002) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Security & Risk Intern | De Soto, Kansas +1 |  | Sep 28 | [Apply](https://careers.na.panasonic.com/jobs/51294) |
 | [Hy-Vee](https://internscout.org/internships/at/hy-vee/) | IT Security Loss Prevention Intern - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA |  | Sep 28 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/IT-Security-Loss-Prevention-Intern---Summer-2027_R250154) |
 | [Hy-Vee](https://internscout.org/internships/at/hy-vee/) | Cyber Security Intern- Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA |  | Sep 28 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Cyber-Security-Intern--Summer-2027_R250153) |
@@ -74,7 +72,6 @@
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Cybersecurity | Portland, ME |  | Oct 20, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4020/summer-2027-consulting-internship---cybersecurity/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Information Security Governance, Risk & Compliance Intern | Niles, IL |  | Oct 20, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job) |
 | [West Bend Insurance](https://internscout.org/internships/at/west-bend-insurance/) | Summer 2027 Internship - Information Security | West Bend, WI |  | Oct 6 | [Apply](https://careers-thesilverlining.icims.com/jobs/3792/summer-2027-internship---information-security/job) |
-| [Brennan Center for Justice](https://internscout.org/internships/at/brennan-center-for-justice/) | Summer 2027 Liberty and National Security Legal Internship - NYC and DC | New York, NY |  | Oct 3 | [Apply](https://brennancenter.applytojob.com/apply/n9gOj5sxRx/Summer-2027-Liberty-And-National-Security-Legal-Internship-NYC-And-DC) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | University - 2027 Summer Games Cyber Security Intern - Ft. Walton Beach, FL | Fort Walton Beach, FL | \$52,900.00 to \$108,000.00 | Sep 18 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Cyber-Security-Intern---Ft-Walton-Beach--FL_R0248416) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | University - 2027 Summer Games Cyber Security Intern - McLean, VA | McLean, VA +9 | Paid | Sep 18 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Cyber-Security-Intern---McLean--VA_R0248034) |
 | [LPL Financial Holdings](https://internscout.org/internships/at/lpl-financial-holdings/) | Intern 2027 - Cybersecurity Analyst | Austin, TX |  | Sep 18 | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Cybersecurity_R-052919) |

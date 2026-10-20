@@ -24,7 +24,7 @@ A free, automatically updated list of **6,261 open Summer 2027 internships, co-o
 | [Civil Engineering](#civil-engineering) | 171 | [fields/civil-engineering.md](fields/civil-engineering.md) |
 | [Communications](#communications) | 51 | [fields/communications.md](fields/communications.md) |
 | [Consulting](#consulting) | 98 | [fields/consulting.md](fields/consulting.md) |
-| [Cybersecurity](#cybersecurity) | 89 | [fields/cybersecurity.md](fields/cybersecurity.md) |
+| [Cybersecurity](#cybersecurity) | 86 | [fields/cybersecurity.md](fields/cybersecurity.md) |
 | [Data Science and Analytics](#data-science-and-analytics) | 436 | [fields/data-science.md](fields/data-science.md) |
 | [Design](#design) | 62 | [fields/design.md](fields/design.md) |
 | [Economics](#economics) | 18 | [fields/economics.md](fields/economics.md) |
@@ -508,7 +508,7 @@ A free, automatically updated list of **6,261 open Summer 2027 internships, co-o
 
 ## Cybersecurity
 
-89 Summer 2027 roles, the 30 newest below. [One page with all of them](fields/cybersecurity.md) · [See all 197 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+86 Summer 2027 roles, the 30 newest below. [One page with all of them](fields/cybersecurity.md) · [See all 190 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
