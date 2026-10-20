@@ -1,6 +1,6 @@
 # Business: Summer 2027 Internships
 
-80 open Summer 2027 business roles, newest first (all 80). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 149 business internships on InternScout](https://internscout.org/internships/business/)
+80 open Summer 2027 business roles, newest first (all 80). **Updated October 20, 2026.** [Back to every major](../README.md) · [See all 148 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - MBA (Pomona/Rosemead) | Rosemead, CA |  | Sep 23 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-MBA-%28PomonaRosemead%29-CA-91770-3714/1423266700/) |
 | [Commerce Bank](https://internscout.org/internships/at/commerce-bank/) | Intern - Commercial Loan Servicing (Summer 2027) | Kansas City Downtown/Plaza - Kansas City - KC Downtown, MO | \$20.00 - \$20.00 | Sep 22 | [Apply](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-811-Main-825-Main-64105/Intern-Commercial-Loan-Servicing-Summer-2027_38469) |
 | [Commerce Bank](https://internscout.org/internships/at/commerce-bank/) | Intern - Commercial Payments (Summer 2027) | Kansas City Downtown/Plaza - Kansas City - KC Downtown Bank Building (1000 Walnut), MO | \$20.00 - \$20.00 | Sep 22 | [Apply](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Bank-Building-1000-Walnut-64106/Intern-Commercial-Payments-Summer-2027_38466) |
-| [LSEG](https://internscout.org/internships/at/lseg/) | Business Management Summer Internship | New York City, United States |  | Sep 22 | [Apply](https://lseg.wd3.myworkdayjobs.com/Careers/job/New-York-City-United-States/Business-Management-and-Sales-Summer-Internship_R0123464-1) |
+| [LSEG](https://internscout.org/internships/at/lseg/) | Business Management Summer Internship | New York City, United States |  | Sep 22 | [Apply](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Business-Management-and-Sales-Summer-Internship_R0123464) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Intern - Business Generalist | St. Louis, MO |  | Sep 22 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/St-Louis-MO/XMLNAME-2027-Summer-Intern---Business-Generalist_R-0000033455) |
 | [Protective Life](https://internscout.org/internships/at/protective-life/) | 2027 Business Systems Summer Internship Program | Birmingham, AL |  | Sep 21 | [Apply](https://jobs.lever.co/protective/fe5fdc30-61b5-4296-b6fe-be5102849c73/apply) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Masters Summer Internship Program - 2027 Business Strategy, Global Servicing- Phoenix, AZ | Phoenix, AZ +1 |  | Sep 16 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014094) |
