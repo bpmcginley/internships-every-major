@@ -1,9 +1,10 @@
 # Design: Summer 2027 Internships
 
-63 open Summer 2027 design roles, newest first (all 63). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 173 design internships on InternScout](https://internscout.org/internships/design/)
+64 open Summer 2027 design roles, newest first (all 64). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 174 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [KeyBank](https://internscout.org/internships/at/keybank/) | 2027 Summer Graphic Design Internship | Brooklyn, OH |  | Oct 21 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Graphic-Design-Internship_R-42823) |
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | Packaging Science Engineering Intern, Graphics/Graphic Design - Summer 2027 | Towson, MD, United States | \$22.00- \$27.00 per hour | Oct 21 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Packaging-Science-Engineering-Intern--Graphics-Graphic-Design---Summer-2027_REQ-1000052821) |
 | Patreon | Product Design Intern - Summer 2027 | New York +4 | Paid | Oct 20 | [Apply](https://jobs.ashbyhq.com/patreon/b492a008-4218-4ec8-91dc-0fb512027849/application) |
 | Zillow | Product Design Intern | Seattle-WA-2nd Ave | \$104,000.00 - \$166,000.00 annually | Oct 20 | [Apply](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Product-Design-Intern_P751613) |

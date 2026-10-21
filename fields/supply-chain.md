@@ -1,9 +1,11 @@
 # Supply Chain: Summer 2027 Internships
 
-179 open Summer 2027 supply chain roles, newest first (all 179). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 439 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
+182 open Summer 2027 supply chain roles, newest first (all 182). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 445 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Product Sourcing Engineer Intern | Costa Mesa, California, United States +2 |  | Oct 21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007) |
+| [Campbell Soup Company](https://internscout.org/internships/at/campbell-soup-company/) | Supply Chain Internship Program - Summer 2027 | Camden, NJ |  | Oct 21 | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Supply-Chain-Internship-Program---Summer-2027_Req-67868) |
 | [DP World](https://internscout.org/internships/at/dp-world/) | Procurement intern | Charlotte, NC |  | Oct 21 | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27446) |
 | [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Kentucky Distribution Center Summer 2027 Intern | Shepherdsville, Kentucky, United States of America |  | Oct 21 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Shepherdsville-Kentucky-United-States-of-America/Kentucky-Distribution-Center-Summer-2027-Intern_R-096263) |
 | [SpartanNash](https://internscout.org/internships/at/spartannash/) | Strategic Sourcing Intern - Summer 2027 | Byron Center, Michigan |  | Oct 21 | [Apply](https://spartannash.wd1.myworkdayjobs.com/SpartanNash_Careers/job/Byron-Center-Michigan/Strategic-Sourcing-Intern---Summer-2027_R90583) |
@@ -119,6 +121,7 @@
 | [Honeywell](https://internscout.org/internships/at/honeywell/) | Supply Chain – Summer 2027 Intern (US Person Required) | United States |  | Aug 25 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155586) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD | Seattle, WA |  | Aug 20 | [Apply](https://lifeattiktok.com/search/7675845333947812149) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Oct 21, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
+| [Medline](https://internscout.org/internships/at/medline/) | MBA Intern, Supply Chain Optimization - Summer 2027 | Northfield, Illinois | \$92,000.00 - \$138,000.00 | Oct 21 | [Apply](https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/MBA-Intern--Supply-Chain-Optimization---Summer-2027_R2615857) |
 | [Ecolab](https://internscout.org/internships/at/ecolab/) | Supply Chain Intern - Engineering and Business Majors | USA - Minnesota - Saint Paul +13 | \$22 - \$25/hour | Oct 20 | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Supply-Chain-Intern---Engineering-and-Business-Majors_R00304542) |
 | [The Boeing Company](https://internscout.org/internships/at/boeing/) | Boeing Summer 2027 Internship Program (Paid) - Supply Chain | USA - Everett, WA +32 |  | Oct 18 | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Supply-Chain_JR2026519410) |
 | [GE Aerospace](https://internscout.org/internships/at/ge-aerospace/) | Supply Chain Operations Intern – US – Summer 2027 | Durham +6 | \$20/hour | Oct 18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Supply-Chain-Operations-Intern---US---Summer-2027_R5029660-1) |

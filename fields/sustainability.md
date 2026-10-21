@@ -1,9 +1,10 @@
 # Sustainability: Summer 2027 Internships
 
-84 open Summer 2027 sustainability roles, newest first (all 84). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 133 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+85 open Summer 2027 sustainability roles, newest first (all 85). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 135 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Spirit AeroSystems](https://internscout.org/internships/at/spirit-aerosystems/) | Boeing - Wichita Summer 2027 Internship Program (Paid) - Environment, Health, Safety & Sustainability | Wichita, Kansas |  | Oct 21 | [Apply](https://careers.spiritaero.com/jobs/17507) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Electrical Engineering (Renewable Transmission Interconnections) Intern – Summer 2027 | Billings, MT |  | Oct 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96761) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil/Structural Engineering Intern (Renewable Transmission Interconnections) - Summer 2027 | Billings, MT |  | Oct 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96768) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering (Renewables) Intern - Summer 2027 | Las Vegas, NV +3 |  | Oct 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97678) |
@@ -33,7 +34,7 @@
 | [S&C Electric Company](https://internscout.org/internships/at/s-c-electric-company/) | Environmental and Sustainability Intern | Chicago, IL | \$22 - 30 per hour | Oct 7 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107375) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Water/Wastewater Student Intern - Summer 2027 | Winnipeg, MB, Canada +1 |  | Oct 6 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008187) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Supply Intern (Warrenville, IL) | Warrenville, Illinois |  | Oct 6 | [Apply](https://jobs.constellationenergy.com/jobs/139036) |
-| Northwestern Mutual | Enterprise Sustainability & Impact Intern - Modeling & Analytics | Milwaukee, WI +1 |  | Oct 6 | [Apply](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Enterprise-Sustainability---Impact-Intern---Modeling---Analytics--Summer-2027_JR-46171) |
+| [Northwestern Mutual](https://internscout.org/internships/at/northwestern-mutual/) | Enterprise Sustainability & Impact Intern - Modeling & Analytics | Milwaukee, WI +1 |  | Oct 6 | [Apply](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Enterprise-Sustainability---Impact-Intern---Modeling---Analytics--Summer-2027_JR-46171) |
 | [Diversified Energy](https://internscout.org/internships/at/diversified-energy/) | 2027 Summer Intern- Sustainability/Environmental, Social, and Corporate Governance (ESG) | Birmingham, Alabama |  | Oct 2 | [Apply](https://careers.div.energy/jobs/2729) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Sustainability CP&I - Senior Associate Intern - Summer 2027 | IL-Rosemont | \$84,000 - \$202,000 | Oct 2 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Sustainability-CP-I---Senior-Associate-Intern---Summer-2027_765702WD) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Sustainability Strategy - Senior Associate Intern - Summer 2027 | IL-Rosemont | \$84,000 - \$202,000 | Oct 2 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Sustainability-Strategy---Senior-Associate-Intern---Summer-2027_765703WD) |

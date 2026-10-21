@@ -1,9 +1,10 @@
 # Government and Public Policy: Summer 2027 Internships
 
-61 open Summer 2027 government and public policy roles, newest first (all 61). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 331 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+62 open Summer 2027 government and public policy roles, newest first (all 62). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 334 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [LPL Financial Holdings](https://internscout.org/internships/at/lpl-financial-holdings/) | Intern 2027 - Government Relations | Washington, DC |  | Oct 21 | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Washington-DC/Intern-2027---Government-Relations_R-054560) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - Community, Engagement & Development (Houston) | Houston, TX |  | Oct 20 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Houston-TX/XMLNAME-2027-Intern---Community--Engagement---Development--Houston-_R-0000033568) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - Policy & Analysis | Dallas, TX |  | Oct 20 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Policy---Analysis_R-0000033766) |
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | Software Engineer Intern, Security/Government | San Francisco, CA +3 |  | Oct 19 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911) |

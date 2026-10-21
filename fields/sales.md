@@ -1,11 +1,11 @@
 # Sales: Summer 2027 Internships
 
-221 open Summer 2027 sales roles, newest first (the 200 newest of 221). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 440 sales internships on InternScout](https://internscout.org/internships/sales/)
+221 open Summer 2027 sales roles, newest first (the 200 newest of 221). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 443 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Sales Enablement & Learning | Wilmington, DE |  | Oct 21 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Sales-Enablement---Learning_R-104115-2) |
-| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Sales and Use Tax | Sacramento +3 | \$23.70 - \$27.50 | Oct 21 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Sacramento/Summer-2027-Intern--Sales-and-Use-Tax_R0020802) |
+| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Sales and Use Tax | Sacramento +3 | \$23.70 - \$27.50 | Oct 21 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Sacramento/Summer-2027-Intern--Sales-and-Use-Tax_R0020802-1) |
 | [Uline](https://internscout.org/internships/at/uline/) | Outside Sales Internship - Summer 2027 | New York City, New York +59 | \$22 to \$23 per hour | Oct 21 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Columbus-OH/Outside-Sales-Internship---Summer-2027_R265480) |
 | [Datadog](https://internscout.org/internships/at/datadog/) | Sales Development Representative - Summer 2027 Graduates (Boston) | Boston, Massachusetts, USA | \$50,000 | Oct 20 | [Apply](https://careers.datadoghq.com/detail/8287316/?gh_jid=8287316) |
 | [The Hartford](https://internscout.org/internships/at/the-hartford/) | 2027 Summer Intern - Internal Sales Desk | Wayne, PA | \$20.00 - \$25.00 | Oct 20 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Wayne-PA/XMLNAME-2027-Summer-Intern---Internal-Sales-Desk_R2627499) |
@@ -162,10 +162,10 @@
 | [Uline](https://internscout.org/internships/at/uline/) | Sales Analyst Intern | Waukegan, IL +4 | Paid | Aug 3 | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Sales-Analyst-Internship---Summer-2027_R265911) |
 | [Jane Street](https://internscout.org/internships/at/jane-street/) | Sales and Trading Intern | New York, NY |  | Jul 24 | [Apply](https://www.janestreet.com/join-jane-street/position/8347385002/) |
 | [AQR](https://internscout.org/internships/at/aqr/) | 2027 Business Development Summer Analyst | Greenwich, CT |  | May 15 | [Apply](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) |
-| [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Southeast - Sales Internship (Comparion) - Summer 2027 | Kennesaw, GA +7 |  | Oct 21, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261750/southeast---sales-internship-%28comparion%29---summer-2027/job) |
 | [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | PacWest - Sales Internship (Comparion) - Summer 2027 | Chandler, AZ +3 |  | Oct 21, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261753/pacwest---sales-internship-%28comparion%29---summer-2027/job) |
 | [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Northeast - Sales Internship (Comparion) - Summer 2027 | Glastonbury, CT +10 |  | Oct 21, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261749/northeast---sales-internship-%28comparion%29---summer-2027/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Sales Enablement Intern | Niles, IL |  | Oct 21, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5009/global-sales-enablement-intern/job) |
+| [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Southeast - Sales Internship GA/TN/KY (Comparion) - Summer 2027 | Kennesaw, GA +6 |  | Oct 21 | [Apply](https://campus-libertymutual.icims.com/jobs/261750/southeast---sales-internship-ga-tn-ky-%28comparion%29---summer-2027/job) |
 | [Ecolab](https://internscout.org/internships/at/ecolab/) | Mining Engineering Technical Sales Intern | USA - Virginia - Blacksburg +2 | Paid | Oct 20 | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Virginia---Blacksburg/Mining-Engineering-Technical-Sales-Intern_R00303116-1) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Sales Planning & Operations Intern | Kirkland, WA |  | Oct 20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Sales-Planning-&-Operations-Intern-WA-98033/1449176633/) |
 | Otis Elevator Co. | Sales Interns | New York, NY | \$20/hr | Oct 20 | [Apply](https://www.linkedin.com/jobs/view/sales-interns-at-otis-elevator-co-4478151386?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |

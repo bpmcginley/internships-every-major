@@ -1,11 +1,12 @@
 # Product Management: Summer 2027 Internships
 
-144 open Summer 2027 product management roles, newest first (all 144). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 238 product management internships on InternScout](https://internscout.org/internships/product-management/)
+145 open Summer 2027 product management roles, newest first (all 145). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 240 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | GoFundMe | MBA Product Management Intern | SF +1 | Paid | Oct 21 | [Apply](https://job-boards.greenhouse.io/gofundme/jobs/8304644) |
-| DriveWealth | AI Consulting Associate Program Product Owner Intern | Chicago, IL +1 |  | Oct 20 | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8038087003) |
+| [DriveWealth](https://internscout.org/internships/at/drivewealth/) | Product Owner Intern, AI Consulting Associate Program | Chicago, IL +1 |  | Oct 20 | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8038087003) |
+| [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program Product Owner Intern | Chicago, IL +1 |  | Oct 20 | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8038087003) |
 | [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | Supplies & Sensors Product Manager Intern - US | Lincolnshire, IL +1 | Paid | Oct 20 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640) |
 | [Amplify](https://internscout.org/internships/at/amplify/) | Product Management Intern | Remote +1 |  | Oct 19 | [Apply](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application?embed=true) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Technical Program Manager Intern | Costa Mesa, California, United States +4 |  | Oct 19 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007) |

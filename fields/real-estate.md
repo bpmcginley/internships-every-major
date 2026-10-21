@@ -1,6 +1,6 @@
 # Real Estate: Summer 2027 Internships
 
-18 open Summer 2027 real estate roles, newest first (all 18). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 33 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
+18 open Summer 2027 real estate roles, newest first (all 18). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 34 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

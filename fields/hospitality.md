@@ -1,9 +1,10 @@
 # Hospitality: Summer 2027 Internships
 
-21 open Summer 2027 hospitality roles, newest first (all 21). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 95 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
+22 open Summer 2027 hospitality roles, newest first (all 22). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 96 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Nasdaq | MarketSite Events Intern - 2027 Summer Internship | USA - New York City - New York |  | Oct 21 | [Apply](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/MarketSite-Events-Intern---2027-Summer-Internship_R0027147) |
 | [Royal Caribbean Group](https://internscout.org/internships/at/royal-caribbean-group/) | Intern, Newbuild Solutions (Summer 2027) | Miami, FL |  | Oct 20 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miami-Intern%2C-Newbuild-Solutions-%28Summer-2027%29-FL-33132/1441986900/) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - Meeting & Event Management | Toronto, Ontario | \$40,950 | Oct 8 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Meeting---Event-Management_JR26081286) |
 | [Baird](https://internscout.org/internships/at/baird/) | Internship – Hospitality (Louisville, KY Summer 2027) | KY-Louisville |  | Oct 2 | [Apply](https://baird.wd1.myworkdayjobs.com/careers/job/KY-Louisville/Internship---Hospitality--Louisville--KY-Summer-2027-_R20261112-1) |

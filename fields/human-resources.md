@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-118 open Summer 2027 human resources roles, newest first (all 118). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 272 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+119 open Summer 2027 human resources roles, newest first (all 119). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 274 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - People, Engagement, and Impact (Pittsburgh, PA) | Pittsburgh, PA |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81246) |
 | [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Human Resources Analyst Development Program - Summer Analyst Opportunity | Plano, TX +3 |  | Jul 6 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765224) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Intelligent Sensing Intern - Global Frontier Tech Recruitment Program | San Jose, CA |  | Jun 4 | [Apply](https://jobs.bytedance.com/en/position/7629210458173556997/detail) |
+| [Medline](https://internscout.org/internships/at/medline/) | MBA Intern, Human Resources - Summer 2027 | Northfield, Illinois | \$92,000.00 - \$138,000.00 | Oct 21 | [Apply](https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/MBA-Intern--Human-Resources---Summer-2027_R2615784) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Human Resources Operations Internship - Summer 2027 | Reston, VA |  | Oct 20 | [Apply](https://uscareers-idemia.icims.com/jobs/8694/human-resources-operations-internship---summer-2027/job) |
 | [The Boeing Company](https://internscout.org/internships/at/boeing/) | Boeing Business Internship Program (Paid) Summer 2027 - Human Resources | USA - Everett, WA +12 |  | Oct 18 | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/Boeing-Business-Internship-Program--Paid--Summer-2027---Human-Resources_JR2026520801) |
 | [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Human Resources (Summer 2027) | Neenah, WI |  | Oct 17 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Human-Resources--Summer-2027-_R040029-1) |

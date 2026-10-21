@@ -1,9 +1,11 @@
 # Insurance: Summer 2027 Internships
 
-90 open Summer 2027 insurance roles, newest first (all 90). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 167 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+92 open Summer 2027 insurance roles, newest first (all 92). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 170 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Definity Financial](https://internscout.org/internships/at/definity-financial/) | Actuarial Analyst - Summer 2027 Co-op/Intern | Waterloo, ONT, Canada | Paid | Oct 21 | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9445) |
+| Revantage Corporate Services | Insurance & Alternative Solutions Intern, Summer 2027 | Dallas, TX |  | Oct 21 | [Apply](https://revantage.wd1.myworkdayjobs.com/Revantage/job/Dallas-TX/Insurance---Alternative-Solutions-Intern--Summer-2027_JR104457) |
 | [Everest](https://internscout.org/internships/at/everest/) | 2027 Underwriter Summer Internship Program | Warren, NJ +2 | \$800 - \$1,000 per week | Oct 21 | [Apply](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Underwriter-Summer-Internship-Program_R7400) |
 | [Everest](https://internscout.org/internships/at/everest/) | 2027 Everest Actuarial Internship Program | Warren, NJ | \$900 - 1,000 per week | Oct 21 | [Apply](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Everest-Actuarial-Internship-Program_R7399) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Commercial Lines Underwriting Internship - Summer 2027 | Fargo, ND +1 |  | Oct 20 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Fargo-ND/Commercial-Lines-Underwriting-Internship---Summer-2027_R_14372) |
@@ -13,7 +15,7 @@
 | [Sun Life](https://internscout.org/internships/at/sun-life/) | Actuarial Intern - Summer 2027 | Wellesley Hills, Massachusetts +4 |  | Oct 16 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Wellesley-Hills-Massachusetts/Actuarial-Intern---Summer-2027_JR00127870) |
 | [Zurich Insurance](https://internscout.org/internships/at/zurich-insurance/) | Underwriting Internship - NYC - Summer 2027 | New York, NY | \$21.00 - \$23.00 | Oct 16 | [Apply](https://www.careers.zurich.com/job/New-York-Underwriting-Internship-NYC-Summer-2027-NY-10001/1372389257/) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Personal Lines Underwriting Internship - Summer 2027 | Traverse City, MI +11 | Paid | Oct 16 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Traverse-City-MI/Personal-Lines-Underwriting-Internship---Summer-2027_R_14399) |
-| Northwestern Mutual | Underwriting Research Intern | Milwaukee, WI +1 |  | Oct 15 | [Apply](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Underwriting-Research-Intern--Summer-2027_JR-46209) |
+| [Northwestern Mutual](https://internscout.org/internships/at/northwestern-mutual/) | Underwriting Research Intern | Milwaukee, WI +1 |  | Oct 15 | [Apply](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Underwriting-Research-Intern--Summer-2027_JR-46209) |
 | [Humana](https://internscout.org/internships/at/humana/) | Summer 2027 MBA Internship – Insurance Services | Louisville, KY +3 |  | Oct 15 | [Apply](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Summer-2027-MBA-Internship---Insurance-Services_R-433591) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Insurance Policy Research Intern | New York, NY +1 |  | Oct 15 | [Apply](https://careers-nrdc.icims.com/jobs/6053/summer-2027-insurance-policy-research-intern/job) |
 | Howden | Underwriting Intern, Transactional Risk | New York – 1350 Avenue Of The Americas | \$22.00/hr | Oct 14 | [Apply](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/New-York--1350-Avenue-Of-The-Americas/Underwriting-Intern_R0019769) |

@@ -1,9 +1,10 @@
 # Nonprofit: Summer 2027 Internships
 
-27 open Summer 2027 nonprofit roles, newest first (all 27). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 108 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
+28 open Summer 2027 nonprofit roles, newest first (all 28). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 106 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Community Impact | Wilmington, DE |  | Oct 21 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Community-Impact_R-104110-2) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Principal Gifts Intern | New York, NY |  | Oct 19 | [Apply](https://careers-nrdc.icims.com/jobs/6076/summer-2027-principal-gifts-intern/job) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Chief Program Office Intern | Washington, DC |  | Oct 15 | [Apply](https://careers-nrdc.icims.com/jobs/6073/summer-2027-chief-program-office-intern/job) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - Community Engagement | Dallas, TX |  | Oct 15 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Community-Engagement_R-0000033569) |

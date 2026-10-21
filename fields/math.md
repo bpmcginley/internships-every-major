@@ -1,9 +1,10 @@
 # Math: Summer 2027 Internships
 
-34 open Summer 2027 math roles, newest first (all 34). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 58 math internships on InternScout](https://internscout.org/internships/math/)
+35 open Summer 2027 math roles, newest first (all 35). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 60 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Definity Financial](https://internscout.org/internships/at/definity-financial/) | Actuarial Analyst - Summer 2027 Co-op/Intern | Waterloo, ONT, Canada | Paid | Oct 21 | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9445) |
 | [Everest](https://internscout.org/internships/at/everest/) | 2027 Everest Actuarial Internship Program | Warren, NJ | \$900 - 1,000 per week | Oct 21 | [Apply](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Everest-Actuarial-Internship-Program_R7399) |
 | [Centene](https://internscout.org/internships/at/centene/) | Actuarial Summer 2027 Intern (Undergraduate) | Remote-MO | \$21.00 - \$26.00 per hour | Oct 19 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Actuarial-Summer-2027-Intern--Undergraduate-_1660519) |
 | [Sun Life](https://internscout.org/internships/at/sun-life/) | Actuarial Intern - Summer 2027 | Wellesley Hills, Massachusetts +4 |  | Oct 16 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Wellesley-Hills-Massachusetts/Actuarial-Intern---Summer-2027_JR00127870) |

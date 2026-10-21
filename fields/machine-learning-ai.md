@@ -1,19 +1,27 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-354 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 354). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 785 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+360 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 360). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 795 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Aon](https://internscout.org/internships/at/aon/) | 2027 IT / AI Engineer Intern - Chicago, IL | Chicago, Illinois |  | Oct 21 | [Apply](https://jobs.aon.com/jobs/110099) |
+| [Smith+Nephew](https://internscout.org/internships/at/smith-nephew/) | Intern Computer Vision Software Engineering | Andover, MA |  | Oct 21 | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Computer-Vision-Software-Engineering_R92964) |
+| [Smith+Nephew](https://internscout.org/internships/at/smith-nephew/) | Intern Agentic AI Software Engineering | Andover, MA |  | Oct 21 | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953) |
 | [CACI](https://internscout.org/internships/at/caci/) | AI Prompt Engineer High School Intern - Summer 2027 | Ashburn, VA, US +1 |  | Oct 21 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1) |
-| DriveWealth | AI Consulting Associate Program Product Owner Intern | Chicago, IL +1 |  | Oct 20 | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8038087003) |
-| DriveWealth | AI Consulting Associate Program – AI Engineer Intern | Chicago, IL +1 |  | Oct 20 | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8039350003) |
-| DriveWealth | AI Consulting Associate Program Brokerage Intern | Chicago, IL |  | Oct 20 | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8039368003) |
+| [AMD](https://internscout.org/internships/at/amd/) | 2027 PhD AI Model Optimization & Software Engineer Intern/Co-op | San Jose, California +5 |  | Oct 21 | [Apply](https://careers.amd.com/jobs/92522) |
+| [DriveWealth](https://internscout.org/internships/at/drivewealth/) | Product Owner Intern, AI Consulting Associate Program | Chicago, IL +1 |  | Oct 20 | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8038087003) |
+| [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program Product Owner Intern | Chicago, IL +1 |  | Oct 20 | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8038087003) |
+| [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program – AI Engineer Intern | Chicago, IL +1 |  | Oct 20 | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8039350003) |
+| [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Engineer Intern, AI Consulting Associate Program | Chicago, IL +1 |  | Oct 20 | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8039350003) |
+| [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program Brokerage Intern | Chicago, IL |  | Oct 20 | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8039368003) |
+| K1 | AI Intern | Manhattan Beach, CA |  | Oct 20 | [Apply](https://k1im.applytojob.com/apply/mCBPNVUJu4/AI-Intern) |
 | Sony | Research Engineer Intern, Ethical Creative and Protective AI Lab | Remote |  | Oct 20 | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784) |
 | [Space Dynamics Laboratory](https://internscout.org/internships/at/space-dynamics-laboratory/) | AI-Enabled Requirements Engineering Intern | North Logan, UT |  | Oct 20 | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/HgIOie6SBP/AIEnabled-Requirements-Engineering-Intern) |
 | [AeroVironment](https://internscout.org/internships/at/aerovironment/) | Machine Learning Engineering Intern | Centreville, VA |  | Oct 20 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Centreville-VA/Machine-Learning-Engineering-Intern_8941) |
 | [Micron Technology](https://internscout.org/internships/at/micron-technology/) | SMAI Probe AI Engineer Intern | Boise, ID +1 |  | Oct 20 | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094) |
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | AI Research Intern | Palo Alto, CA +1 |  | Oct 20 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1) |
 | [Intel](https://internscout.org/internships/at/intel/) | AI Data Science / Software Engineering PhD Intern | Hillsboro, OR |  | Oct 20 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288139) |
+| [Micron Technology](https://internscout.org/internships/at/micron-technology/) | Machine Learning Engineering Intern | Richardson, TX |  | Oct 20 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750) |
 | [Constellation Brands](https://internscout.org/internships/at/constellation-brands/) | AI Enablement Intern | Rochester, NY +1 |  | Oct 20 | [Apply](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--AI-Enablement_R-41526) |
 | [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Machine Learning Center of Excellence (NLP) - Summer Associate | New York, NY +3 |  | Oct 20 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | AI Agent Architect Intern - Summer 2027 - Farmington Hills, MI | Farmington Hills, Michigan - United States of America +1 |  | Oct 20 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Farmington-Hills-Michigan---United-States-of-America/AI-Agent-Architect---Summer-2027---Farmington-Hills--MI_R00214218) |
@@ -26,7 +34,7 @@
 | [Adobe](https://internscout.org/internships/at/adobe/) | AI & Architecture Intern | San Jose, CA +1 |  | Oct 19 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998) |
 | Scale AI | Machine Learning Research Intern | New York, NY +3 |  | Oct 19 | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, PhD, Machine Learning - Simulation & Closed-Loop Training | Mountain View, California, United States +1 |  | Oct 19 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8283558) |
-| [Robert Bosch Venture Capital](https://internscout.org/internships/at/robert-bosch-venture-capital/) | AI Research Intern, Wireless Foundation Models | Pittsburgh, PA |  | Oct 19 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000156323136) |
+| [Bosch](https://internscout.org/internships/at/bosch/) | AI Research Intern, Wireless Foundation Models | Pittsburgh, PA |  | Oct 19 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000156323136) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, PhD, Research Scientist, Visual Reasoning | Mountain View, CA, USA |  | Oct 19 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8292367) |
 | [Navy Federal](https://internscout.org/internships/at/navy-federal/) | AI Engineering Intern | Vienna, VA |  | Oct 19 | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32645) |
 | MITRE | AI Engineering Intern | Bedford, MA |  | Oct 19 | [Apply](https://careers.mitre.org/us/en/job/R117620/AI-Engineering-Intern) |
@@ -154,7 +162,6 @@
 | [Acuity](https://internscout.org/internships/at/acuity/) | Finance AI Product Management Intern | Atlanta, GA |  | Sep 29 | [Apply](https://careers.acuityinc.com/job/Atlanta-Finance-AI-Product-Management-Intern-Onsite-GA-30309/1434874300/?ats=successfactors) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, PhD, Planner Machine Learning | San Francisco, California +1 |  | Sep 29 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8234876) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Digital & AI Experience Intern – Summer 2027 | Addison, TX +1 |  | Sep 29 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403876009) |
-| [H&R Block](https://internscout.org/internships/at/h-r-block/) | Machine Learning Intern | Kansas City, MO |  | Sep 29 | [Apply](https://careers-hrblock.icims.com/jobs/76992/job?mobile=true&needsRedirect=false) |
 | [Itron](https://internscout.org/internships/at/itron/) | Intern - Artificial Intelligence | United States of America, Washington, Liberty Lake +2 | \$44.23/hr | Sep 29 | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Artificial-Intelligence_JR102924) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, AI Engineer (Reston, VA) | Reston, VA |  | Sep 29 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | AI-Native Development Platform Engineer Intern, MS - Summer 2027 | Santa Clara, CA | Paid | Sep 29 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1) |
@@ -197,13 +204,6 @@
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | FY27 Intern - Low Power AI Software Development Internship - Canada (16 months) | Markham, ON, Canada |  | Sep 17 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721143440) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | FY27 Intern - Low-Power AI, Audio, and Sensors Subsystem Engineering Internship - ASIC Firmware / Embedded - Canada (12… | Markham, ON, Canada |  | Sep 17 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721109168) |
 | [Church & Dwight](https://internscout.org/internships/at/church-dwight/) | AI Developer Co-op - Graduate Program (9 Months) | Ewing, NJ +1 |  | Sep 17 | [Apply](https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686) |
-| CoVar | Machine Learning Intern | Durham, NC |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/covar/jobs/5240360007) |
-| Gecko Robotics | AI/Machine Learning Engineering Intern | New York City +2 |  | Sep 16 | [Apply](https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application) |
-| [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, PhD, Machine Learning, Computer Vision | Mountain View, California, United States +1 |  | Sep 16 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8202025) |
-| [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation | Mountain View, California, USA +1 | Paid | Sep 16 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8202801) |
-| [AMD](https://internscout.org/internships/at/amd/) | 2027 PhD AI Model Optimization & Software Engineer Intern/Co-op | San Jose, California +5 |  | Sep 16 | [Apply](https://careers.amd.com/jobs/92522) |
-| [V2X](https://internscout.org/internships/at/v2x/) | Artificial Intelligence Intern 2027 | Indianapolis, Indiana +1 | Paid | Sep 16 | [Apply](https://careers.gov2x.com/jobs/62843) |
-| Apera AI | Machine Learning Applied Scientist (Co-op) | Vancouver, British Columbia +1 |  | Sep 15 | [Apply](https://job-boards.greenhouse.io/aperaaiinc/jobs/5239440007) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

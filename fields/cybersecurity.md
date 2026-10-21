@@ -1,13 +1,16 @@
 # Cybersecurity: Summer 2027 Internships
 
-90 open Summer 2027 cybersecurity roles, newest first (all 90). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 198 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+93 open Summer 2027 cybersecurity roles, newest first (all 93). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 201 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Aerospace Corporation](https://internscout.org/internships/at/the-aerospace-corporation/) | Hardware Security Engineering Intern | El Segundo, CA +1 |  | Oct 21 | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954) |
+| [Aon](https://internscout.org/internships/at/aon/) | 2027 IT / Cybersecurity Engineer Intern - Chicago, IL | Chicago, Illinois |  | Oct 21 | [Apply](https://jobs.aon.com/jobs/110098) |
 | [Duke Energy](https://internscout.org/internships/at/duke-energy/) | Nuclear Cybersecurity 2027 Summer Internship | Hartsville, SC |  | Oct 21 | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099) |
 | [CoStar Group](https://internscout.org/internships/at/costar-group/) | Security Engineer Intern | Arlington, VA +2 |  | Oct 20 | [Apply](https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727) |
 | Illumio | Security Research Intern | Sunnyvale, CA |  | Oct 20 | [Apply](https://jobs.ashbyhq.com/illumio/09d4895b-6de4-4d22-bbc3-aa45f2b24260) |
 | Illumio | Engineering Intern, Product Security | Sunnyvale, CA |  | Oct 20 | [Apply](https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d) |
+| T-Mobile | Software Engineer Intern, Cloud Security | Atlanta, GA +1 |  | Oct 20 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineer---Cloud-Security-Summer-Internship_REQ379190) |
 | [Northrop Grumman](https://internscout.org/internships/at/northrop-grumman/) | Cyber Systems Engineer Intern | Tampa, FL |  | Oct 20 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196) |
 | [Centene](https://internscout.org/internships/at/centene/) | Cybersecurity Summer 2027 Intern (Undergraduate) | Remote-MO | \$21.00 - \$26.00 per hour | Oct 20 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514) |
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | Software Engineer Intern, Security/Government | San Francisco, CA +3 |  | Oct 19 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911) |
@@ -19,7 +22,7 @@
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Information Security Engineer Intern | Los Angeles, CA |  | Oct 15 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5448019008) |
 | [QTS](https://internscout.org/internships/at/qts/) | Information Security Operations Analyst Intern | Atlanta Suwanee 1 DC1, GA |  | Oct 14 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/US-GA-Atlanta-Suwanee-1-DC1/Summer-2027-Internship--Information-Security-Operations-Analyst_R2026-2273) |
 | Howden | Underwriting Intern, Cyber | New York – 1350 Avenue Of The Americas | \$22.00/hr | Oct 14 | [Apply](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/New-York--1350-Avenue-Of-The-Americas/Underwriting-Intern_R0019772-1) |
-| Bosch | Information Security and Privacy Intern | Farmington Hills, MI |  | Oct 13 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155120934) |
+| [Bosch](https://internscout.org/internships/at/bosch/) | Information Security and Privacy Intern | Farmington Hills, MI |  | Oct 13 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155120934) |
 | [General Dynamics Mission Systems](https://internscout.org/internships/at/general-dynamics-mission-systems-inc/) | Cyber Engineering Intern | Middletown, RI | Paid | Oct 13 | [Apply](https://careers-gdms.icims.com/jobs/75514/cyber-engineering-intern-%28summer-2027%29/job) |
 | [Draper](https://internscout.org/internships/at/draper/) | Classified Cybersecurity/IT Intern | Cambridge, MA |  | Oct 13 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021) |
 | [Expedia Group](https://internscout.org/internships/at/expedia-group/) | Security Engineering Intern - 2027 - Seattle | Washington - Seattle Campus +1 |  | Oct 12 | [Apply](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Security-Engineering-Intern---2027---Seattle_R-110310-1) |
@@ -50,7 +53,7 @@
 | [ibotta](https://internscout.org/internships/at/ibotta/) | Information Security Intern | Hybrid - Denver +2 | \$26.92 per hour | Sep 22 | [Apply](https://jobs.ashbyhq.com/ibotta/bc7c532d-931a-40fb-8c6c-b6939dd98582/application) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Security (Product, Systems, Cyber) Engineering Internship - Summer 2027 | San Diego, CA |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720740636) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship - Military Systems Cybersecurity Engineer | Laurel, Maryland |  | Sep 17 | [Apply](https://careers.jhuapl.edu/jobs/59759) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Security Analyst Intern Summer 2027 | Wallops Island, VA +3 |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986961003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Security Analyst Intern Summer 2027 | Albuquerque, NM +3 |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986874003) |
 | [SimVentions](https://internscout.org/internships/at/simventions/) | 2027 Cybersecurity Intern | Fredericksburg, Virginia | Paid | Sep 15 | [Apply](https://simventions.jibeapply.com/jobs/1630) |
 | [Intuit](https://internscout.org/internships/at/intuit/) | Software Engineer Intern - Cybersecurity | Mountain View, CA |  | Sep 14 | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616) |
 | [Citizens Financial Group](https://internscout.org/internships/at/citizens-financial-group/) | Data Engineer Intern - Enterprise Technology & Security | Plano, TX +2 |  | Sep 11 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285) |
