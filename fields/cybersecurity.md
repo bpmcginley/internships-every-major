@@ -1,9 +1,10 @@
 # Cybersecurity: Summer 2027 Internships
 
-89 open Summer 2027 cybersecurity roles, newest first (all 89). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 195 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+90 open Summer 2027 cybersecurity roles, newest first (all 90). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 198 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Duke Energy](https://internscout.org/internships/at/duke-energy/) | Nuclear Cybersecurity 2027 Summer Internship | Hartsville, SC |  | Oct 21 | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099) |
 | [CoStar Group](https://internscout.org/internships/at/costar-group/) | Security Engineer Intern | Arlington, VA +2 |  | Oct 20 | [Apply](https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727) |
 | Illumio | Security Research Intern | Sunnyvale, CA |  | Oct 20 | [Apply](https://jobs.ashbyhq.com/illumio/09d4895b-6de4-4d22-bbc3-aa45f2b24260) |
 | Illumio | Engineering Intern, Product Security | Sunnyvale, CA |  | Oct 20 | [Apply](https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d) |

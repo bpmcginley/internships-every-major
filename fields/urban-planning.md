@@ -1,6 +1,6 @@
 # Urban Planning: Summer 2027 Internships
 
-39 open Summer 2027 urban planning roles, newest first (all 39). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 79 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+38 open Summer 2027 urban planning roles, newest first (all 38). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 78 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -25,7 +25,6 @@
 | [HNTB](https://internscout.org/internships/at/hntb/) | GIS Intern | Nashville, TN +1 |  | Sep 11 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Nashville-TN-City-Center/GIS-Intern---Summer-2027_R-31562) |
 | [Pilot Company](https://internscout.org/internships/at/pilot-company/) | GIS Intern - GIS | Knoxville, TN |  | Sep 9 | [Apply](https://jobs.smartrecruiters.com/PilotCompany/744000148576444) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors or Masters - Transportation Planning Intern (Summer 2027!) | Orlando, Florida +1 |  | Sep 9 | [Apply](https://careers.cdmsmith.com/jobs/4439) |
-| [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | Resource Planning Intern | Denver, CO |  | Sep 7 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Resource-Planning-Intern--CO_JR115820-1) |
 | [Southern Star Central Gas Pipeline](https://internscout.org/internships/at/southern-star-central-gas-pipeline/) | GIS Analyst Intern | Owensboro, KY |  | Sep 1 | [Apply](https://careers-sscgp.icims.com/jobs/3036/job?mobile=true&needsRedirect=false) |
 | [Elk Valley Resources](https://internscout.org/internships/at/elk-valley-resources/) | May 2027 Geographic Information Systems (GIS) Co-op | Calgary, AB +1 |  | Aug 26 | [Apply](https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply) |
 | [Vanasse Hangen Brustlin (VHB)](https://internscout.org/internships/at/vanasse-hangen-brustlin-vhb/) | Environmental Planning Intern - Summer 2027 | Hauppauge, NY | \$19 to \$30 | Oct 21, 2024 | [Apply](https://careers-vhb.icims.com/jobs/6339/environmental-planning-intern---summer-2027/job) |

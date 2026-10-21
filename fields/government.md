@@ -1,6 +1,6 @@
 # Government and Public Policy: Summer 2027 Internships
 
-62 open Summer 2027 government and public policy roles, newest first (all 62). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 329 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+61 open Summer 2027 government and public policy roles, newest first (all 61). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 331 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -24,7 +24,6 @@
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Civil Engineering Intern, Federal - Summer 2027 | Jacksonville, FL |  | Oct 13 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310064) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - Consumer Affairs | Dallas, TX |  | Oct 13 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Consumer-Affairs_R-0000033711) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - Integrated Policy | Dallas, TX |  | Oct 13 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Integrated-Policy_R-0000033718) |
-| [Philips](https://internscout.org/internships/at/philips/) | Intern – Government Marketing – Cambridge, MA – Summer 2027 | Cambridge (US), Massachusetts, United States | \$26.00 to \$30.00 | Oct 13 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Government-Marketing---Cambridge--MA---Summer-2027_593516) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Legal Government Affairs Intern (Summer 2027) | USA - New York - Malta |  | Oct 12 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Legal-Government-Affairs-Intern--Summer-2027-_JR-2604245) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | JR-2502836 Government Affairs Intern (Summer 2027) | USA - New York - Malta |  | Oct 8 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/JR-2502836-Government-Affairs-Intern--Summer-2027-_JR-2604238) |
 | Office of the Secretary of Defense | Student Trainee (Legal) | Arlington, Virginia | \$57736 - \$91815 Per Year | Oct 8 | [Apply](https://www.usajobs.gov:443/job/887905200) |

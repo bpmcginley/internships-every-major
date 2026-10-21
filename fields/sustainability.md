@@ -1,6 +1,6 @@
 # Sustainability: Summer 2027 Internships
 
-85 open Summer 2027 sustainability roles, newest first (all 85). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 136 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+84 open Summer 2027 sustainability roles, newest first (all 84). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 133 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -62,7 +62,6 @@
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Midstream Scheduling | HOUSTON, Texas |  | Sep 10 | [Apply](https://careers.kindermorgan.com/jobs/6230) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Technical Internship - Cordova, IL (ASSOCIATE'S DEGREE ONLY) | Cordova, Illinois | Paid | Sep 9 | [Apply](https://jobs.constellationenergy.com/jobs/138838) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Research and Development Intern - Detroit Research Center - Summer Student Program | Detroit, MI |  | Sep 8 | [Apply](https://aramcoservices.applytojob.com/apply/ycFkgdZtKy/Research-And-Development-Detroit-Research-Center-2027-Summer-Student-Program) |
-| [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Research and Development Intern - Houston Research Center - Summer Student Program | Houston, TX |  | Sep 8 | [Apply](https://aramcoservices.applytojob.com/apply/rbnifQQ0X6/Research-And-Development-Houston-Research-Center-2027-Summer-Student-Program) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Transportation/Storage Services: Scheduling | HOUSTON, Texas |  | Sep 8 | [Apply](https://careers.kindermorgan.com/jobs/6219) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Nuclear Technician Internship - Oswego, NY (ASSOCIATE'S DEGREE ONLY) | Oswego, New York | Paid | Sep 8 | [Apply](https://jobs.constellationenergy.com/jobs/138599) |
 | Burlington Stores | Sustainability Intern | Burlington, VT |  | Sep 8 | [Apply](https://burlington.wd5.myworkdayjobs.com/BurlingtonCareers/job/00000---Burlington-Corporate-Office/Sustainability-Intern---Summer-2027_R104521) |
@@ -82,7 +81,7 @@
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Transformation Office - 2027 Summer Student Program | Houston, TX |  | Sep 18 | [Apply](https://aramcoservices.applytojob.com/apply/gobJmdlfol/Transformation-Office-2027-Summer-Student-Program) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Sustainability & Energy Engineering Intern | Naperville, IL +8 | \$22.00–\$24.00 per hour | Sep 18 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Naperville-IL/Sustainability---Energy-Engineering-Intern_R-16761) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student Intern, Customer Service, Summer 2027 | Little Rock, Arkansas |  | Sep 18 | [Apply](https://jobs.entergy.com/job/Little-Rock-Student-Intern%2C-Customer-Service%2C-Summer-2027-Arka/1426997200/) |
-| [The Andersons](https://internscout.org/internships/at/the-andersons/) | Renewables Engineering Intern (Summer 2027) | Albion, MI +1 |  | Sep 18 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Albion-MI/Renewables-Engineering-Intern--Summer-2027-_R12499) |
+| [The Andersons](https://internscout.org/internships/at/the-andersons/) | Renewables Engineering Intern (Summer 2027) | Logansport, IN |  | Sep 18 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Logansport-IN/Renewables-Engineering-Intern--Summer-2027-_R12498) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Strategy, Relations and Planning - 2027 Summer Student Program | Houston, TX |  | Sep 18 | [Apply](https://aramcoservices.applytojob.com/apply/CrbvWOINl5/Strategy-Relations-And-Planning-2027-Summer-Student-Program) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Fuels Affiliate Management - 2027 Summer Student Program | Houston, TX |  | Sep 18 | [Apply](https://aramcoservices.applytojob.com/apply/9nuMc9WH55/Fuels-Affiliate-Management-2027-Summer-Student-Program) |
 | [Moss & Associates](https://internscout.org/internships/at/moss-associates/) | Energy Internship: Summer 2027 | FLORIDA | \$20/HR | Sep 18 | [Apply](https://mosscm.wd1.myworkdayjobs.com/moss_careers/job/FLORIDA/Energy-Internship--Summer-2027_R-2719) |

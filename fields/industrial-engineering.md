@@ -1,9 +1,10 @@
 # Industrial Engineering: Summer 2027 Internships
 
-239 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 239). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 614 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+240 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 240). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 616 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [ABB](https://internscout.org/internships/at/abb/) | Manufacturing Supply Chain Intern Westville, OK- Summer 2027 | USA, OK |  | Oct 21 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-OK-Westville/Manufacturing-Supply-Chain-Intern-Westville--OK--Summer-2027_JR00050263-1) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Supply Chain Intern (Summer 2027) | Cedar Rapids, IA |  | Oct 20 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Supply-Chain-Intern--Summer-2027-_01878201) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Governance & Operational Excellence Corporate Internship – Summer 2027 (Undergraduate) | CT - Hartford | \$26/hr | Oct 20 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Governance---Operational-Excellence-Corporate-Internship---Summer-2027--Undergraduate-_R1080161) |
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Systems Engineering Intern (Summer 2027) | Lone Tree, CO |  | Oct 20 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0031166-1) |
@@ -136,7 +137,7 @@
 | [URBN](https://internscout.org/internships/at/urbn/) | URBN Supply Chain Intern - KC3 | Raymore, MO | Paid | Sep 14 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/30748/urbn-supply-chain-intern---kc3/job) |
 | [URBN](https://internscout.org/internships/at/urbn/) | URBN Supply Chain Intern - BFC (Nuuly) | Levittown, PA | Paid | Sep 14 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/30746/urbn-supply-chain-intern---bfc-%28nuuly%29/job) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 Undergrad Supply Chain Co-Op/Intern | Austin, Texas |  | Sep 10 | [Apply](https://careers.amd.com/jobs/92244) |
-| [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | Eagan, Minnesota +6 | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36106) |
+| [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | Eagan, Minnesota +5 | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36106) |
 | [General Dynamics Mission Systems](https://internscout.org/internships/at/general-dynamics-mission-systems-inc/) | Payload Control System Software/Systems Engineering Intern - Summer 2027 | Middletown, RI +1 |  | Sep 9 | [Apply](https://careers-gdms.icims.com/jobs/74848/job?mobile=true&needsRedirect=false) |
 | [Saronic](https://internscout.org/internships/at/saronic/) | Manufacturing Engineer Intern (Summer 2027) | Franklin, LA +3 |  | Sep 9 | [Apply](https://jobs.ashbyhq.com/saronic/2b037fca-754c-4077-b224-eb35cf2b2b97/application) |
 | [Pacific Fusion](https://internscout.org/internships/at/pacific-fusion/) | Summer 2027 Internship- Supply Chain | San Leandro, CA/Fremont, CA +1 | Paid | Sep 9 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4398408009) |
@@ -203,7 +204,6 @@
 | [Ensign-Bickford Aerospace & Defense Company](https://internscout.org/internships/at/ensign-bickford-aerospace-defense-company/) | Electronics Manufacturing Engineer Intern | Simsbury, CT |  | Sep 18 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Electronics-Manufacturing-Engineer-Intern_REQ107696-1) |
 | [Generac](https://internscout.org/internships/at/generac/) | Industrial Engineering Intern - Summer 2027 | Waukesha, WI - USA +1 |  | Sep 18 | [Apply](https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Industrial-Engineering-Intern---Summer-2027_JR16999-1) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | Operational Excellence Intern – Elwood, Kansas (Summer 2027) | Elwood, KS |  | Sep 18 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Elwood-KS/Operational-Excellence-Intern---Elwood--Kansas--Summer-2027-_R0026902) |
-| [Hy-Vee](https://internscout.org/internships/at/hy-vee/) | IT Supply Chain Intern - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA |  | Sep 18 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/IT-Supply-Chain-Intern---Summer-2027_R250143) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

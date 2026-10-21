@@ -1,6 +1,6 @@
 # Real Estate: Summer 2027 Internships
 
-20 open Summer 2027 real estate roles, newest first (all 20). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 35 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
+18 open Summer 2027 real estate roles, newest first (all 18). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 33 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -17,12 +17,10 @@
 | Houlihan Lokey | 2027 Summer Associate – Real Estate, Lodging & Leisure – New York | New York, NY, USA | Paid | Sep 28 | [Apply](https://hl.wd1.myworkdayjobs.com/Campus/job/New-York-NY-USA/XMLNAME-2027-Summer-Associate---Real-Estate--Lodging---Leisure---New-York_R3621) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Real Estate & Builds Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175507?gh_jid=8175507) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Masters Summer Internship Program - 2027 Global Real Estate & Workplace Experience, Enterprise Shared S… | New York, NY |  | Aug 31 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012153) |
-| PGIM | PGIM: 2027 Real Estate, Sophomore Externship Program | Newark, NJ, USA | Paid | Oct 17 | [Apply](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Sophomore-Externship-Program_R-124904) |
-| Prudential Financial | PGIM: 2027 Real Estate, Sophomore Externship Program | Newark, NJ, USA | Paid | Oct 17 | [Apply](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Sophomore-Externship-Program_R-124904-2) |
 | [Thrivent](https://internscout.org/internships/at/thrivent/) | Commercial Mortgages and Securitized Real Estate Assets Intern - Summer 2027 | MN - Minneapolis |  | Sep 19 | [Apply](https://thrivent.wd5.myworkdayjobs.com/external/job/MN---Minneapolis/Commercial-Mortgages-and-Securitized-Real-Estate-Assets-Intern---Summer-2027_REQ-48063) |
 | [The Boeing Company](https://internscout.org/internships/at/boeing/) | Boeing Summer 2027 Internship Program (Paid) - Global Real Estate and Facilities & Property Management | USA - Everett, WA +14 |  | Sep 18 | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Global-Real-Estate-and-Facilities---Property-Management_JR2026520992) |
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | Real Estate Intern Summer 2027 Procurement | US - UPS CORPORATE OFFICES (GACOR) |  | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Real-Estate-Intern-Summer-2026-Procurement_R26030587) |
-| [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Banking and Commercial Real Estate | Chicago, IL +8 | \$25.00 per hour | Sep 18 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Commercial-Banking-and-Commercial-Real-Estate_2618394-1) |
+| [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Banking and Commercial Real Estate | Chicago, IL +8 | \$25.00 per hour | Sep 18 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Commercial-Banking-and-Commercial-Real-Estate_2618394) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Corporate Real Estate Internship - Summer 2027 | Lansing, MI |  | Sep 18 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Corporate-Real-Estate-Internship---Summer-2027_R_14484) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

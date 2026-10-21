@@ -1,6 +1,6 @@
 # Nonprofit: Summer 2027 Internships
 
-27 open Summer 2027 nonprofit roles, newest first (all 27). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 107 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
+27 open Summer 2027 nonprofit roles, newest first (all 27). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 108 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -21,10 +21,10 @@
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Green Finance Advocacy Intern | Washington, DC |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6069/summer-2027-green-finance-advocacy-intern/job) |
 | [EQT Corporation](https://internscout.org/internships/at/eqt-corporation/) | Community Relations Intern | Canonsburg, PA |  | Oct 9 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5448044008) |
 | [Draper](https://internscout.org/internships/at/draper/) | Corporate and Community Engagement Intern (Summer 2027) | Cambridge, MA |  | Oct 9 | [Apply](https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Corporate-and-Community-Engagement-Intern--Summer-2027-_JR003016) |
-| [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Community Impact | Wilmington, DE |  | Oct 8 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Community-Impact_R-104110-2) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Sustainability and Philanthropy Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Sustainability-and-Philanthropy-Intern---Summer-2027---Franklin--TN_R00214221) |
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Undergraduate Intern, National Security Project | New York, NY |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8842752002) |
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Undergraduate Intern, National Prison Project | Remote/Hybrid-Washington D.C. |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8846060002) |
+| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Community Impact | Baltimore, MD |  | Sep 28 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Community-Impact-MD-21230/1434384000/) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Community Engagement and Planning Intern – Summer 2027 | Boston, MA |  | Sep 23 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Boston-MA/Community-Engagement-and-Planning-Intern---Summer-2027_R-31583-1) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Philanthropy Intern (Multiple Locations) | Baltimore, Maryland |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138724) |
 | [AARP](https://internscout.org/internships/at/aarp/) | Foundation Litigation Intern (Summer 2027) | Washington, DC | Paid | Jul 30 | [Apply](https://careers.aarp.org/jobs/7733) |

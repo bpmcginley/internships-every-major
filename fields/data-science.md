@@ -1,10 +1,11 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-442 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 442). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 845 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+438 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 438). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 832 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Shield AI](https://internscout.org/internships/at/shield-ai/) | Summer 2027 - Data Science Intern (R6324) | San Diego, California +1 | Paid | Oct 21 | [Apply](https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797/apply) |
+| [ABB](https://internscout.org/internships/at/abb/) | Power BI Intern- Summer 2027 | USA, NC |  | Oct 21 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Power-BI-Intern--Summer-2027_JR00047437) |
 | [American Electric Power](https://internscout.org/internships/at/american-electric-power/) | Data Scientist Intern | Columbus, OH |  | Oct 20 | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R20499) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Field Service Data Analyst Intern | Kirkland, WA | Paid | Oct 20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Field-Service-Data-Analyst-Intern-WA-98033/1449526633/?ats=successfactors) |
 | [Verizon Communications](https://internscout.org/internships/at/verizon-communications/) | Data Science Intern, Verizon Consumer Group | Basking Ridge, NJ |  | Oct 20 | [Apply](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417) |
@@ -165,11 +166,7 @@
 | Iberdrola Group | 2027 Technology, Cyber & Data Internship Program | United States Of America, Connecticut, Orange +9 | Paid | Sep 29 | [Apply](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Technology--Cyber---Data-Internship-Program_R-32747) |
 | Neighbor | Data Science Internship (Current PhD) - Summer 2027 | Lehi, UT | Paid | Sep 28 | [Apply](https://jobs.lever.co/neighbor/b5f73774-1d5a-4edc-a184-d1734731cd9c/apply) |
 | [H&R Block](https://internscout.org/internships/at/h-r-block/) | Financial Services Data Analytics Intern | Kansas City, MO |  | Sep 28 | [Apply](https://careers-hrblock.icims.com/jobs/76989/job?mobile=true&needsRedirect=false) |
-| [H&R Block](https://internscout.org/internships/at/h-r-block/) | Embark Financial Services Data Analytics Intern - S | KANSAS CITY, Missouri | \$25/hour | Sep 28 | [Apply](https://careers.hrblock.com/jobs/76989) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Quantitative Analytics & Data Science Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 28 | [Apply](https://jobs.constellationenergy.com/jobs/139494) |
-| [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Data Analytics, Program Performance | Detroit, MI |  | Sep 28 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14841) |
-| [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Data Analytics, HEDIS | Detroit, MI |  | Sep 28 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14838) |
-| [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Intern - Data Science / Biostatistician | Detroit, MI |  | Sep 28 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14837) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX News Media Internship Program - Data Analytics - New York | New York, New York, USA |  | Sep 28 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50033981) |
 | [Walmart](https://internscout.org/internships/at/walmart/) | Summer 2027 Intern: Intern: Sr Data Science | (USA) ISD Office - DGTC AR BENTONVILLE Home Office +1 |  | Sep 28 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | GDIT Summer Internship Program – Summer 2027 AI/ML Data Science and Engineering Internship | Bossier City, LA |  | Sep 26 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Data-Science-and-Engineering-Internship_RQ228936) |
@@ -204,6 +201,9 @@
 | Capital Group | Data & Technology Summer Associate | NYC |  | Sep 22 | [Apply](https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Los-Angeles/CAMPUS--Data---Technology-Summer-Associate--Los-Angeles--2027-_JR7382) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Data Engineering - Indiana | Fort Wayne, Indiana +1 |  | Sep 22 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901) |
 | [Clorox](https://internscout.org/internships/at/clorox/) | Enterprise Data & Technology (EDT) Intern ( Summer 2027) | Durham, NC - USA (Strickland Bldg) +1 | \$24 - \$39/hr | Sep 22 | [Apply](https://wd1.myworkdaysite.com/recruiting/clorox/Clorox/job/Durham-NC---USA-Strickland-Bldg/Enterprise-Data----Technology--EDT--Intern---Summer-2027-_JR23483) |
+| [Figma](https://internscout.org/internships/at/figma/) | Data Science Intern | SF +1 |  | Sep 21 | [Apply](https://boards.greenhouse.io/figma/jobs/6200626004) |
+| Viking Global | Data Science Intern | NYC +1 | Paid | Sep 21 | [Apply](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004) |
+| Koch Industries | Business Analytics & Insights Intern | Green Bay, WI |  | Sep 21 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/194813) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

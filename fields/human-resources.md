@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-119 open Summer 2027 human resources roles, newest first (all 119). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 276 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+118 open Summer 2027 human resources roles, newest first (all 118). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 272 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -39,7 +39,6 @@
 | [Primient](https://internscout.org/internships/at/primient/) | Human Resources Intern - Summer 2027 | Schaumburg, IL | \$22.00/hr | Sep 29 | [Apply](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/Human-Resources-Intern---Summer-2027_JREQ7049) |
 | [Thrivent](https://internscout.org/internships/at/thrivent/) | Recruiting Specialist Intern - Summer 2027 | Remote-Minnesota-Minneapolis Metro +7 | \$23.00-\$26.00 per hour | Sep 29 | [Apply](https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota-Minneapolis-Metro/Recruiting-Specialist-Intern---Summer-2027_REQ-48512) |
 | [Pentair](https://internscout.org/internships/at/pentair/) | Human Resources Leadership Development Internship Program – Summer 2027 | Golden Valley, MN |  | Sep 29 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Human-Resources-Leadership-Development-Intern-Program---Summer-2027_R23699) |
-| [H&R Block](https://internscout.org/internships/at/h-r-block/) | Embark Corporate Recruiter, Intern - S | KANSAS CITY, Missouri | \$25/hour | Sep 28 | [Apply](https://careers.hrblock.com/jobs/76993) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: HR Compliance Intern | Northbrook, IL +1 |  | Sep 28 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10729) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Human Resources | Baltimore, MD |  | Sep 28 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Human-Resources-MD-21230/1434321700/) |
 | [Piper Sandler](https://internscout.org/internships/at/piper-sandler/) | Campus Recruiting - 2027 Investment Banking Summer Analyst - Restructuring | New York, NY | \$110,000 per year | Sep 28 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/New-York-NY/Campus-Recruiting---2027-Investment-Banking-Summer-Analyst---Restructuring_R-100721) |

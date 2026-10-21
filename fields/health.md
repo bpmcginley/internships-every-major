@@ -1,6 +1,6 @@
 # Health: Summer 2027 Internships
 
-42 open Summer 2027 health roles, newest first (all 42). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 234 health internships on InternScout](https://internscout.org/internships/health/)
+43 open Summer 2027 health roles, newest first (all 43). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 236 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT | Tarrytown, NY |  | Oct 2 | [Apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1) |
 | [Medpace](https://internscout.org/internships/at/medpace/) | Vendor Management Internship - Summer 2027 | Cincinnati, Ohio |  | Oct 2 | [Apply](https://careers.medpace.com/jobs/12959) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Organizational Effectiveness Corporate Internship – Summer 2027 (Undergraduate) | CT - Hartford |  | Sep 30 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Organizational-Effectiveness-Corporate-Internship---Summer-2027--Undergraduate-_R1051253) |
+| Moderna | Biometrics Intern | Cambridge, MA |  | Sep 29 | [Apply](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/Intern--Biometrics_R19865) |
 | UNAVAILABLE | Summer Associate Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date) | Boston, MA +2 |  | Sep 28 | [Apply](https://associatecareers-analysisgroup.icims.com/jobs/3067/summer-associate-intern---health-care-%28heor%2c-epidemiology-%26-market-access%29-%282027-start-date%29/job) |
 | Analysis Group | Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date) | Boston, MA +2 |  | Sep 28 | [Apply](https://analystcareers-analysisgroup.icims.com/jobs/3064/summer-analyst-intern---health-care-%28heor%2c-epidemiology-%26-market-access%29-%282027-start-date%29/job) |
 | [Medtronic](https://internscout.org/internships/at/medtronic/) | Associate Clinical Experience (ACE) Intern – Summer 2027 | State of Minnesota, United States of America +48 | Paid | Sep 25 | [Apply](https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501-1) |

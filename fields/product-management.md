@@ -1,6 +1,6 @@
 # Product Management: Summer 2027 Internships
 
-146 open Summer 2027 product management roles, newest first (all 146). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 240 product management internships on InternScout](https://internscout.org/internships/product-management/)
+144 open Summer 2027 product management roles, newest first (all 144). **Updated October 21, 2026.** [Back to every major](../README.md) · [See all 238 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -45,7 +45,6 @@
 | [Acuity](https://internscout.org/internships/at/acuity/) | Product Management Technology Intern | Conyers, GA |  | Sep 29 | [Apply](https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors) |
 | [Acuity](https://internscout.org/internships/at/acuity/) | Finance AI Product Management Intern | Atlanta, GA |  | Sep 29 | [Apply](https://careers.acuityinc.com/job/Atlanta-Finance-AI-Product-Management-Intern-Onsite-GA-30309/1434874300/?ats=successfactors) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | Product Management Intern | Northbrook, IL +1 | Paid | Sep 28 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625) |
-| [H&R Block](https://internscout.org/internships/at/h-r-block/) | Embark Product Management Intern - S | KANSAS CITY, Missouri +1 | \$25/hour | Sep 28 | [Apply](https://careers.hrblock.com/jobs/76986) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Construction Project & Program Management Intern (Summer 2027) | San Jose, CA |  | Sep 28 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/San-Jose-CA/Construction-Project---Program-Management-Intern--Summer-2027-_R-31763-1) |
 | [Cencora](https://internscout.org/internships/at/cencora/) | Intern,Technical Business Analyst / Product Owner | Carrollton, TX |  | Sep 25 | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Carrollton-TX/Intern-Technical-Business-Analyst---Product-Owner_R2613660) |
 | [Tradeweb](https://internscout.org/internships/at/tradeweb/) | Summer 2027 Data Product Manager Internship | New York, NY +1 |  | Sep 24 | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301932) |
@@ -106,7 +105,7 @@
 | [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Masters Summer Internship Program - 2027 Product Management, Global Commercial Services - New York, NY | New York, NY +1 |  | Aug 31 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012558) |
 | [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | Product Management Intern - Controls Lifecare Services | Longmont, CO +1 |  | Aug 30 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-2) |
 | TELUS Digital | Product Analyst Intern | Columbus, OH +3 |  | Aug 27 | [Apply](https://jobs.ashbyhq.com/telus-digital/e1dfd8b7-fb8a-4ce9-957f-0706b13195c7/application?embed=true) |
-| [Johns Manville (JM)](https://internscout.org/internships/at/johns-manville-jm/) | Product Management Intern- Summer 2027 | Denver CO WHQ +1 |  | Aug 27 | [Apply](https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Product-Management-Intern--Summer-2027_R26_1432) |
+| Johns Manville | Product Management Intern | Denver, CO |  | Aug 27 | [Apply](https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Product-Management-Intern--Summer-2027_R26_1432) |
 | [DTCC](https://internscout.org/internships/at/dtcc/) | Product Management Intern - 2027 Internship Program | Tampa, FL +1 |  | Aug 25 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214410) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | DC Power Product Management Intern - Summer 2027 | Delaware, OH |  | Aug 25 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279952) |
 | [Brunswick](https://internscout.org/internships/at/brunswick/) | Mercury Marine: Product Management Intern – Oils & Lubricants | Fond du Lac, WI |  | Aug 25 | [Apply](https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213) |
@@ -130,7 +129,6 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Product Manager Intern - Signal and Identity Product | San Jose, CA |  | Aug 12 | [Apply](https://lifeattiktok.com/search/7672554809555192117) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Product Manager Intern - Commerce Ads | San Jose, CA |  | Aug 12 | [Apply](https://lifeattiktok.com/search/7672557943224961333) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Product Manager Intern - Ads Interface and Platform | San Jose, CA +1 |  | Aug 12 | [Apply](https://lifeattiktok.com/search/7672562486917286149) |
-| [AQR](https://internscout.org/internships/at/aqr/) | 2027 Research Product Specialist Summer Analyst | Greenwich, CT |  | Aug 11 | [Apply](https://careers.aqr.com/jobs?gh_jid=8123095&gh_jid=8123095) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams | San Jose, CA |  | Aug 11 | [Apply](https://lifeattiktok.com/search/7670529537944766773) |
 | [LPL Financial Holdings](https://internscout.org/internships/at/lpl-financial-holdings/) | Intern 2027 - Product Analyst | Austin, TX +1 |  | Aug 10 | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Product_R-052918) |
 | Chamberlain Group | Community Product Management Intern - Summer 2027 | Oak Brook, IL | Paid | Aug 10 | [Apply](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309) |
