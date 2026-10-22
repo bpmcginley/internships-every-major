@@ -1,6 +1,6 @@
 # Social Work: Summer 2027 Internships
 
-5 open Summer 2027 social work roles, newest first (all 5). **Updated October 22, 2026.** [Back to every major](../README.md) · [See all 45 social work internships on InternScout](https://internscout.org/internships/social-work/)
+5 open Summer 2027 social work roles, newest first (all 5). **Updated October 22, 2026.** [Back to every major](../README.md) · [See all 40 social work internships on InternScout](https://internscout.org/internships/social-work/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

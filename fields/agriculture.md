@@ -1,9 +1,10 @@
 # Agriculture: Summer 2027 Internships
 
-18 open Summer 2027 agriculture roles, newest first (all 18). **Updated October 22, 2026.** [Back to every major](../README.md) · [See all 52 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
+19 open Summer 2027 agriculture roles, newest first (all 19). **Updated October 22, 2026.** [Back to every major](../README.md) · [See all 53 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Petcare Quality and Food Safety Internship | USA-Tennessee-Lebanon |  | Oct 22 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Tennessee-Lebanon/Summer-2027-Mars-Petcare-Quality-and-Food-Safety-Internship_R170548-1) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | R&D Veterinary Services Intern - Fort Dodge, IA (Summer 2027) | Fort Dodge, IA |  | Oct 19 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Fort-Dodge-IA/R-D-Veterinary-Services-Intern---Fort-Dodge--IA--Summer-2027-_R0027485-1) |
 | AGCO | Agricultural Business Analytics Intern | Champaign, IL |  | Oct 14 | [Apply](https://careers.agcocorp.com/job/Champaign-Agricultural-Business-Analytics-Intern-Summer-2027-IL/1440135500/?ats=successfactors) |
 | [Land O'Lakes](https://internscout.org/internships/at/land-o-lakes/) | WinField United Market Development Agronomist Intern, Summer 2027 | Remote +3 | \$25.00/hour | Oct 13 | [Apply](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Virtual-USA/WinField-United-Market-Development-Agronomist-Intern--Summer-2027_R-40235) |

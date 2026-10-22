@@ -1,11 +1,12 @@
 # Biology: Summer 2027 Internships
 
-15 open Summer 2027 biology roles, newest first (all 15). **Updated October 22, 2026.** [Back to every major](../README.md) · [See all 139 biology internships on InternScout](https://internscout.org/internships/biology/)
+16 open Summer 2027 biology roles, newest first (all 16). **Updated October 22, 2026.** [Back to every major](../README.md) · [See all 139 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| LabCorp | Intern - Bioinformatics | Baltimore MD +1 | Paid | Oct 22 | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Baltimore-MD/Intern---Bioinformatics_2634135) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Pharmaceutical Lab Internship (Crystallization) Summer 2027 | El Segundo, California, United States |  | Oct 21 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8040897003) |
-| [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - MBA Business Value & Strategic Selling Consultant (Healthcare & Life Sciences) | New York - New York |  | Oct 20 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499-1) |
+| [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - MBA Business Value & Strategic Selling Consultant (Healthcare & Life Sciences) | New York - New York |  | Oct 20 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499) |
 | [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | TDS Proteins DPD&D Biopharmaceutics Co-Op | Malvern, Pennsylvania, United States of America |  | Oct 19 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Proteins-DPD-D-Biopharmaceutics-Co-Op_R-098671) |
 | [Gilead Sciences](https://internscout.org/internships/at/gilead-sciences/) | Research Intern, Clinical Virology - AI | Foster City, CA |  | Oct 16 | [Apply](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Clinical-Virology---AI_R0055526) |
 | [Haleon](https://internscout.org/internships/at/haleon/) | 2027: Summer Intern: VCU School of Pharmaceutical Sciences Intern | USA - Virginia - Richmond |  | Oct 12 | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---Virginia---Richmond/XMLNAME-2027--Summer-Intern--VCU-School-of-Pharmaceutical-Sciences-Intern_548425) |

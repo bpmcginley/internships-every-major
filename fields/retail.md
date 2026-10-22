@@ -1,9 +1,10 @@
 # Retail: Summer 2027 Internships
 
-170 open Summer 2027 retail roles, newest first (all 170). **Updated October 22, 2026.** [Back to every major](../README.md) · [See all 237 retail internships on InternScout](https://internscout.org/internships/retail/)
+171 open Summer 2027 retail roles, newest first (all 171). **Updated October 22, 2026.** [Back to every major](../README.md) · [See all 238 retail internships on InternScout](https://internscout.org/internships/retail/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Target](https://internscout.org/internships/at/target/) | Store Executive Intern (Store Leadership Intern) – Greater San Diego, CA (Starting Summer 2027) | 1288 Camino Del Rio N, San Diego,CA 92108-1511 | \$28.50- \$28.50 | Oct 22 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/1288-Camino-Del-Rio-N-San-DiegoCA-92108-1511/Store-Executive-Intern--Store-Leadership-Intern----Southern-San-Diego--CA--Starting-Summer-2027-_R0000450290) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Retail Delivery | Wilmington, DE |  | Oct 21 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Retail-Delivery_R-104112-2) |
 | [Meijer](https://internscout.org/internships/at/meijer/) | Retail Design Intern- Summer 2027 | Grand Rapids, MI |  | Oct 21 | [Apply](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Retail-Design-Intern--Summer-2027_R000711864) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Retail Market Performance Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 20 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Retail-Market-Performance---Summer-2027---Franklin--TN_R00214228) |
