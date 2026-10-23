@@ -1,6 +1,6 @@
 # Communications: Summer 2027 Internships
 
-55 open Summer 2027 communications roles, newest first (all 55). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 172 communications internships on InternScout](https://internscout.org/internships/communications/)
+56 open Summer 2027 communications roles, newest first (all 56). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 172 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Internship- Corporate Communications | HOUSTON, Texas |  | Sep 10 | [Apply](https://careers.kindermorgan.com/jobs/6223) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Communications | Detroit, MI |  | Sep 8 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14716) |
 | [Shure](https://internscout.org/internships/at/shure/) | Unified Communications Technology Intern | Skokie, IL |  | Sep 3 | [Apply](https://careersus-shure.icims.com/jobs/5002/job?mobile=true&needsRedirect=false) |
+| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | Hardware Engineer Intern - Critical Infrastructure Communications | Rochester, NY |  | Sep 3 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-1) |
 | [Exelon](https://internscout.org/internships/at/exelon/) | 2027 Summer Internship - Communications & Marketing (Various Exelon Locations) | CHICAGO, Illinois +6 | \$20.00/Hr | Aug 31 | [Apply](https://careers.comed.com/jobs/30146) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Technical Writer Intern, BS/BA - Summer 2027 | Santa Clara, CA | Paid | Oct 10 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Technical-Writer-Intern--BS-BA---Summer-2027_2604149) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Communications Internship - Summer 2027 | Reston, VA |  | Oct 7 | [Apply](https://uscareers-idemia.icims.com/jobs/8686/communications-internship---summer-2027/job) |

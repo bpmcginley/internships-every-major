@@ -1,17 +1,14 @@
 # Media: Summer 2027 Internships
 
-33 open Summer 2027 media roles, newest first (all 33). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 110 media internships on InternScout](https://internscout.org/internships/media/)
+30 open Summer 2027 media roles, newest first (all 30). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 105 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | OpenArt AI | Early Adopter & Product Builder Intern, Creative AI | San Carlos, CA |  | Oct 22 | [Apply](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254/application?embed=true) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Product Management MBA Intern - Gaming, Content Creation, And PC AI | Canada +4 |  | Oct 21 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) |
 | Sony | Research Engineer Intern, Ethical Creative and Protective AI Lab | Remote |  | Oct 20 | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784) |
-| [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Recommendation Video | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694362230074673461) |
 | [David Yurman](https://internscout.org/internships/at/david-yurman/) | Video Editing Intern | New York, NY | \$25/hour | Oct 14 | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Video-Editing-Intern_R-101115) |
 | [Dow Jones](https://internscout.org/internships/at/dow-jones/) | Summer 2027 Internship Program – Research Analyst Intern | Houston, TX - OPIS +1 |  | Oct 14 | [Apply](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55872) |
-| [TikTok](https://internscout.org/internships/at/tiktok/) | Creative Product Operations Intern - Multiple Teams | San Jose, CA |  | Oct 9 | [Apply](https://lifeattiktok.com/search/7693727532178229509) |
-| [TikTok](https://internscout.org/internships/at/tiktok/) | Creative Product Manager Intern - Multiple Teams | San Jose, CA |  | Oct 9 | [Apply](https://lifeattiktok.com/search/7693732178706974981) |
 | [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Photo and Video Marketing Production | Overland Park, KS |  | Oct 6 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Summer-2027-Internship--Photo-and-Video-Marketing-Production_R2026-2015) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Intern - Marketing, Communications, Journalism Majors | Chicago, IL | \$20 to \$33, | Oct 1 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern---Marketing--Communications--Journalism-Majors_R-0000033618-1) |
 | [Politico](https://internscout.org/internships/at/politico/) | Reporting Intern, HQ (Summer 2027) | Arlington, VA |  | Sep 25 | [Apply](https://politico.wd108.myworkdayjobs.com/POLITICO/job/Arlington-VA/Reporting-Intern--HQ--Summer-2027-_JR100567) |

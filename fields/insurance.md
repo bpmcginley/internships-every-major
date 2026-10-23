@@ -1,9 +1,10 @@
 # Insurance: Summer 2027 Internships
 
-87 open Summer 2027 insurance roles, newest first (all 87). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 161 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+87 open Summer 2027 insurance roles, newest first (all 87). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 159 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Trucking Claims Intern (Summer 2027) | Cincinnati, OH (USA) |  | Oct 23 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Trucking-Claims-Intern--Summer-2027-_R9775) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Underwriting Internship - Summer 2027 | Pittsburgh, PA +7 | \$21.00 per hour | Oct 22 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Pittsburgh-PA/Underwriting-Internship---Summer-2027_R_14384) |
 | MSI | Underwriting Intern, MSI | Hallandale Beach, Florida, US |  | Oct 22 | [Apply](https://baldwin.wd1.myworkdayjobs.com/MSI/job/Hallandale-Beach-Florida-US/Underwriting-Intern--MSI_JR110197) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Home Office Underwriting/Audit Internship - Summer 2027 | Lansing, MI |  | Oct 22 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Home-Office-Underwriting-Audit-Internship---Summer-2027_R_14361) |
@@ -27,7 +28,6 @@
 | [Zurich Insurance](https://internscout.org/internships/at/zurich-insurance/) | Underwriting Internship - Summer 2027 - Maitland | Maitland, FL | \$21.00 - \$23.00 | Oct 14 | [Apply](https://www.careers.zurich.com/job/Maitland-Underwriting-Internship-Summer-2027-Maitland-FL-32751/1372140057/) |
 | [WTW](https://internscout.org/internships/at/wtw/) | Early Careers: ADML Insurance & Financial Consulting Internship - Northeast - Summer 2027 | Boston, MA +1 |  | Oct 13 | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606594) |
 | [Zurich Insurance](https://internscout.org/internships/at/zurich-insurance/) | Underwriting Internship - Boston - Summer 2027 | Boston, MA | \$21.00 - \$23.00 | Oct 13 | [Apply](https://www.careers.zurich.com/job/Boston-Underwriting-Internship-Boston-Summer-2027-MA-02108/1374762457/) |
-| [NJM Insurance Group](https://internscout.org/internships/at/njm-insurance-group/) | Actuarial Intern | NJM - Trenton, NJ | \$21- \$25 hour | Oct 12 | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Actuarial-Intern_R2008177-1) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Underwriting Undergraduate Intern | PA, Working at Home - Pennsylvania +49 |  | Oct 12 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Underwriting-Undergraduate-Intern_J286842) |
 | [Sentry Insurance](https://internscout.org/internships/at/sentry-insurance/) | Claims Internship Summer 2027 - Nashville, TN | Nashville, TN +1 |  | Oct 9 | [Apply](https://sentryinsurance.wd1.myworkdayjobs.com/SentryCareers/job/Nashville-TN/Claims-Internship-Summer-2027---Nashville--TN_JR-142840) |
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Actuarial Intern- Summer 2027 | Richfield, OH (USA) |  | Oct 8 | [Apply](https://gaig.wd1.myworkdayjobs.com/National_Interstate_External/job/Richfield-OH-USA/Actuarial-Intern--Summer-2027_R9665) |

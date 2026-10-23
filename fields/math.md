@@ -1,6 +1,6 @@
 # Math: Summer 2027 Internships
 
-34 open Summer 2027 math roles, newest first (all 34). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 56 math internships on InternScout](https://internscout.org/internships/math/)
+33 open Summer 2027 math roles, newest first (all 33). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 54 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -8,7 +8,6 @@
 | [Definity Financial](https://internscout.org/internships/at/definity-financial/) | Actuarial Analyst - Summer 2027 Co-op/Intern | Waterloo, ONT, Canada | Paid | Oct 21 | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9445) |
 | [Everest](https://internscout.org/internships/at/everest/) | 2027 Everest Actuarial Internship Program | Warren, NJ | \$900 - 1,000 per week | Oct 21 | [Apply](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Everest-Actuarial-Internship-Program_R7399) |
 | [Sun Life](https://internscout.org/internships/at/sun-life/) | Actuarial Intern - Summer 2027 | Wellesley Hills, Massachusetts +4 |  | Oct 16 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Wellesley-Hills-Massachusetts/Actuarial-Intern---Summer-2027_JR00127870) |
-| [NJM Insurance Group](https://internscout.org/internships/at/njm-insurance-group/) | Actuarial Intern | NJM - Trenton, NJ | \$21- \$25 hour | Oct 12 | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Actuarial-Intern_R2008177-1) |
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Actuarial Intern- Summer 2027 | Richfield, OH (USA) |  | Oct 8 | [Apply](https://gaig.wd1.myworkdayjobs.com/National_Interstate_External/job/Richfield-OH-USA/Actuarial-Intern--Summer-2027_R9665) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Actuarial Intern- Summer 2027 | Richfield, OH (USA) |  | Oct 8 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Richfield-OH-USA/Actuarial-Intern--Summer-2027_R9665-1) |
 | [Marsh](https://internscout.org/internships/at/marsh/) | Oliver Wyman Actuarial - Internship - Summer 2027 | New York - 1166 +2 | \$1,350 – 1,600 | Oct 7 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Oliver-Wyman-Actuarial---Internship---Summer-2027_R_356561) |

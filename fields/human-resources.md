@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-117 open Summer 2027 human resources roles, newest first (all 117). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 266 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+114 open Summer 2027 human resources roles, newest first (all 114). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 263 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -22,7 +22,6 @@
 | [RF-SMART](https://internscout.org/internships/at/rf-smart/) | Human Resource Intern - Summer 2027 | Jacksonville, Florida, United States | \$20/hour | Oct 12 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5433175008) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Summer 2027 HR Intern | Cleveland, OH +1 |  | Oct 12 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119771) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Forward Deployed Engineer Intern - HR Technology | NYC +1 | Paid | Oct 9 | [Apply](https://boards.greenhouse.io/embed/job_app?token=8175510) |
-| [Itron](https://internscout.org/internships/at/itron/) | HR AI Data Science Intern | Austin, TX +1 |  | Oct 9 | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034-1) |
 | [Clarios](https://internscout.org/internships/at/clarios/) | HR Intern (Summer 2027) | United States, Wisconsin, Milwaukee |  | Oct 9 | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/HR-Intern--Summer-2027-_WD50800) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Human Resource Intern | Sparks, Nevada +1 |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51651) |
 | [Arc](https://internscout.org/internships/at/arc/) | People Operations Intern | Torrance, CA | \$32 per hour | Oct 7 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5447151008) |
@@ -58,7 +57,6 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Nuclear Human Resources Operations Intern (Lusby, MD) | Lusby, Maryland |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138707) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Nuclear Human Resources Operations Intern (Oswego, NY) | Oswego, New York |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138706) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Ecommerce Intern - Summer 2027 - Campus Recruiting | Austin, MN |  | Sep 9 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35361) |
-| [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | R&D Product Development Intern - Campus Recruiting | Northbrook, IL |  | Sep 8 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35735) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Learning & Development Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175514?gh_jid=8175514) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Employee and Workplace Experience Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175429?gh_jid=8175429) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | R&D Packaging Engineering Intern (Austin MN) - Summer 2027 - Campus Recruiting | Austin, MN |  | Sep 8 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35726) |
@@ -96,7 +94,6 @@
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | University - Summer 2027 - Human Resources Intern | McLean, VA |  | Sep 18 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---Summer-2027---Human-Resources-Intern_R0248552) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Total Rewards and HRIS Intern, Summer 2027 | Boston, MA +3 |  | Sep 18 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Boston-MA/Total-Rewards-and-HRIS--Intern-2027_10017569) |
 | [Newrez](https://internscout.org/internships/at/newrez/) | 2027 Summer Internship – HR Benefits | TX, Coppell |  | Sep 18 | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---HR-Benefits_R10377) |
-| [Hy-Vee](https://internscout.org/internships/at/hy-vee/) | Human Resources Intern - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA |  | Sep 18 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Human-Resources-Intern---Summer-2027_R251134) |
 | [Boeing](https://internscout.org/internships/at/boeing/) | Boeing Business Internship Program (Paid) Summer 2027 - Human Resources | USA - Everett, WA +12 |  | Sep 18 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Business-Internship-Program--Paid--Summer-2027---Human-Resources_JR2026520801-1) |
 | [Commerce Bank](https://internscout.org/internships/at/commerce-bank/) | Intern - Human Resources (Summer 2027) | Kansas City Downtown/Plaza - Kansas City - KC Downtown Trust Building (922 Walnut), MO | \$20.00 - \$20.00 | Sep 18 | [Apply](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern---Human-Resources--Summer-2027-_38477) |
 | [Hy-Vee](https://internscout.org/internships/at/hy-vee/) | HRIS Intern - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA |  | Sep 18 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/HRIS-Intern---Summer-2027_R251135) |
