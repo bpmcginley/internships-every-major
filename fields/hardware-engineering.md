@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-223 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 223). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 604 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+222 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 222). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 600 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -79,7 +79,6 @@
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | PCIe Design Verification Intern | Austin, TX +2 |  | Oct 6 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/PCIe-Design-Verification-Intern---Summer-2027_JR2026708) |
 | [Cadence Design Systems](https://internscout.org/internships/at/cadence-design-systems/) | CST Application Engineer Intern - Silicon | SAN JOSE |  | Oct 6 | [Apply](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Silicon_R56655) |
 | [Cadence](https://internscout.org/internships/at/cadence/) | CST Application Engineer Intern - Silicon | SAN JOSE |  | Oct 6 | [Apply](https://cadence.wd1.myworkdayjobs.com/external_careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Silicon_R56655-1) |
-| [Cirrus Logic](https://internscout.org/internships/at/cirrus-logic/) | Embedded Firmware Engineer Intern | Phoenix, AZ |  | Oct 5 | [Apply](https://jobs.eu.lever.co/cirrus/0af920c1-6ecb-447f-9b22-3eda6b8d4ed8/apply) |
 | [Cirrus Logic](https://internscout.org/internships/at/cirrus-logic/) | Design Verification Engineer Intern | Austin, TX |  | Oct 5 | [Apply](https://jobs.eu.lever.co/cirrus/c71a6365-31c7-4ba1-bdc4-9f2df1fc483e/apply) |
 | [Cirrus Logic](https://internscout.org/internships/at/cirrus-logic/) | Analog Design Engineer Intern | Austin, TX |  | Oct 5 | [Apply](https://jobs.eu.lever.co/cirrus/df033a94-155f-427f-a178-88bd18c3d5ec/apply) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | Summer Intern - AI & Hardware Analytics - Adpt | Milford, MI +3 |  | Oct 5 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756) |
@@ -204,6 +203,7 @@
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 Undergrad Hardware Design Verification Engineering Co-op/Intern | Austin, Texas +6 |  | Aug 20 | [Apply](https://careers.amd.com/jobs/90811) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 Masters Hardware Engineering intern/co-op | Austin, Texas +13 |  | Aug 20 | [Apply](https://careers.amd.com/jobs/91182) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 Undergrad Firmware Engineering Co-op/Intern | Austin, Texas +8 |  | Aug 20 | [Apply](https://careers.amd.com/jobs/90807) |
+| [AMD](https://internscout.org/internships/at/amd/) | 2027 Masters Firmware Engineering Intern/Co-op | Austin, Texas +8 |  | Aug 20 | [Apply](https://careers.amd.com/jobs/90805) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

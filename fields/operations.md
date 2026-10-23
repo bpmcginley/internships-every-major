@@ -1,6 +1,6 @@
 # Operations: Summer 2027 Internships
 
-330 open Summer 2027 operations roles, newest first (the 200 newest of 330). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 810 operations internships on InternScout](https://internscout.org/internships/operations/)
+329 open Summer 2027 operations roles, newest first (the 200 newest of 329). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 812 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -27,7 +27,6 @@
 | [Stifel](https://internscout.org/internships/at/stifel/) | Bank Operations & Fraud Intern- Summer 2027 | Saint Louis, MO |  | Oct 21 | [Apply](https://careers-stifel.icims.com/jobs/10032/bank-operations-%26-fraud-intern--summer-2027/job) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Project Management | Philadelphia, PA +2 |  | Oct 21 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Philadelphia-PA/XMLNAME-2027-Summer-Internship---Project-Management_R-104163-2) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Systems/Process Engineering Intern - Tapeout Operations | USA - Vermont - Essex Junction |  | Oct 21 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Systems-Process-Engineering--Tapeout-Operations-Summer-2027-_JR-2604924) |
-| [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Strategic Operations | USA - Holtsville, New York |  | Oct 21 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/USA---Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Strategic-Operations_JR103656) |
 | [Genentech](https://internscout.org/internships/at/genentech/) | 2027 Summer Intern - Hillsboro Technical Operations | Hillsboro, CA |  | Oct 21 | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/Hillsboro/XMLNAME-2027-Summer-Intern---Hillsboro-Technical-Operations_202610-125110) |
 | [DP World](https://internscout.org/internships/at/dp-world/) | Procurement intern | Charlotte, NC |  | Oct 21 | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27446) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Technology Project Management | Berwyn, PA |  | Oct 21 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Berwyn-PA/XMLNAME-2027-Summer-Internship---Technology-Project-Management_R-104142-2) |
@@ -204,6 +203,7 @@
 | [Textron](https://internscout.org/internships/at/textron/) | 2027 Intern - Procurement (Lycoming) - Williamsport, PA | Williamsport, Pennsylvania |  | Sep 1 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342718) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Intern - HR Operations | Bridgeton, Missouri |  | Sep 1 | [Apply](https://careers.na.panasonic.com/jobs/50762) |
 | [Exelon](https://internscout.org/internships/at/exelon/) | 2027 Summer Internship - Project Management (Various Exelon Locations) | Baltimore, Maryland +6 | \$20.00/Hr | Aug 31 | [Apply](https://careers.comed.com/jobs/30124) |
+| [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Masters Summer Internship Program - 2027 Global Real Estate & Workplace Experience, Enterprise Shared S… | New York, NY |  | Aug 31 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012153) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

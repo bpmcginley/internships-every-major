@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-117 open Summer 2027 human resources roles, newest first (all 117). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 268 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+116 open Summer 2027 human resources roles, newest first (all 116). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 267 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -30,7 +30,6 @@
 | [Arc](https://internscout.org/internships/at/arc/) | People Operations Intern | Torrance, CA | \$32 per hour | Oct 7 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5447151008) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Talent Management Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Talent-Management-Intern---Summer-2027---Franklin--TN_R00214299) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Dealer & Field Training Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Dealer---Field-Training-Intern---Summer-2027---Franklin--TN_R00214243) |
-| [S&C Electric Company](https://internscout.org/internships/at/s-c-electric-company/) | Human Resource Business Partner Intern | Chicago, IL | \$22 - 30 per hour | Oct 7 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107369) |
 | [Midland States Bank](https://internscout.org/internships/at/midland-states-bank/) | Intern - HR - Talent Acquisition | Effingham, IL | Paid | Oct 5 | [Apply](https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---HR---Talent-Acquisition_JR1460) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | People Operations Intern (Summer 2027) | Mountain View, CA | \$40/hour | Oct 2 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5255938007) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Summer Internship Program - 2027 Human Resources Leadership Development Program, Colleague Experience G… | New York, NY |  | Oct 2 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012302) |

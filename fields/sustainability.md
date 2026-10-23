@@ -1,9 +1,10 @@
 # Sustainability: Summer 2027 Internships
 
-83 open Summer 2027 sustainability roles, newest first (all 83). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 133 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+84 open Summer 2027 sustainability roles, newest first (all 84). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 134 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [KCI Technologies](https://internscout.org/internships/at/kci-technologies/) | Clean Energy Engineering Intern (Summer 2027) | Sparks, MD |  | Oct 23 | [Apply](https://careers-kci.icims.com/jobs/8222/clean-energy-engineering-intern-%28summer-2027%29/job) |
 | [Arch Capital Group](https://internscout.org/internships/at/arch-capital-group/) | Sustainability Reporting & Strategy Summer Intern | White Plains, NY United States of America | Paid | Oct 22 | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/White-Plains-NY-United-States-of-America/Sustainability-Reporting---Strategy-Summer-Intern_R26_802) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | PhD Research Intern, AI for Climate and Weather Simulation - 2027 | US, CA +4 |  | Oct 21 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949) |
 | Spirit AeroSystems | Boeing - Wichita Summer 2027 Internship Program (Paid) - Environment, Health, Safety & Sustainability | Wichita, Kansas |  | Oct 21 | [Apply](https://careers.spiritaero.com/jobs/17507) |

@@ -1,6 +1,6 @@
 # Software Engineering: Summer 2027 Internships
 
-1,290 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,290). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 2,583 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,289 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,289). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 2,578 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -140,7 +140,6 @@
 | [Philips](https://internscout.org/internships/at/philips/) | Intern – R&D Front-End Innovation Intern - Oral Healthcare – Bothell, WA – Summer 2027 | Bothell, Washington, United States | \$29.00 to \$32.00 | Oct 20 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---R-D-Front-End-Innovation-Intern---Oral-Healthcare---Bothell--WA---Summer-2027_593146) |
 | [The Hartford](https://internscout.org/internships/at/the-hartford/) | 2027 Summer Intern - Rotational (IT, Operations, Risk, and Fund Treasury) | Wayne, PA | \$20.00 - \$25.00 | Oct 20 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Wayne-PA/XMLNAME-2027-Summer-Intern---Rotational--IT--Operations--Risk--and-Fund-Treasury-_R2627500) |
 | [Motorola](https://internscout.org/internships/at/motorola/) | Presale Systems Engineer - Summer 2027 Internship | Massachusetts Remote Work +19 |  | Oct 20 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Massachusetts-Remote-Work/Presale-Systems-Engineer---Summer-2027-Internship_R69640) |
-| [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Marketing Technology | Lincolnshire, Illinois |  | Oct 20 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Marketing-Technology_JR103612) |
 | [Assurant](https://internscout.org/internships/at/assurant/) | Summer 2027 Intern: Software Engineering Intern | Atlanta, GA +2 | \$20 - \$25/hour | Oct 20 | [Apply](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727-1) |
 | [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Software Engineering Intern - Compiler | United States +1 |  | Oct 20 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103) |
 | [GM financial](https://internscout.org/internships/at/gm-financial/) | Intern - Software Development Engineer | Arlington, TX |  | Oct 20 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260795) |
@@ -168,7 +167,7 @@
 | [Robert Bosch Venture Capital](https://internscout.org/internships/at/robert-bosch-venture-capital/) | Software Engineering Co-op | Fountain Inn, SC |  | Oct 19 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000156311682) |
 | [National Information Solutions Cooperative (NISC)](https://internscout.org/internships/at/national-information-solutions-cooperative-nisc/) | Intern - Application Analyst (Financials Software) | Mandan, ND |  | Oct 19 | [Apply](https://job-boards.greenhouse.io/nisc/jobs/8301304) |
 | [Ursa Major](https://internscout.org/internships/at/ursa-major/) | 2027 Summer Test Engineering Internship | Berthoud, Colorado |  | Oct 19 | [Apply](https://ursamajor.com/careers/?gh_jid=4745111005) |
-| [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | Software Engineer Intern | Holtsville, NY +1 |  | Oct 19 | [Apply](https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625) |
+| [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | Software Engineer Intern | Holtsville, NY |  | Oct 19 | [Apply](https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625) |
 | Interclypse | Junior Full Stack Software Engineer Intern | Annapolis Junction, MD |  | Oct 19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4595767) |
 | BMO | Junior Cloud Engineer, Summer 2027 (Co-op/Internship) - 16 months | Toronto, ON, CAN |  | Oct 19 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-2) |
 | [Trimble](https://internscout.org/internships/at/trimble/) | Hardware/Software Testing Intern | US - CO +7 |  | Oct 19 | [Apply](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1) |
@@ -204,6 +203,7 @@
 | [Northrop Grumman](https://internscout.org/internships/at/northrop-grumman/) | Software Engineering Intern | Aurora, CO +2 |  | Oct 16 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243) |
 | [onsemi](https://internscout.org/internships/at/onsemi/) | Technology Development Intern | Hopewell Junction, NY |  | Oct 16 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506991) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern, Recommendation Performance Efficiency | San Jose, CA |  | Oct 16 | [Apply](https://lifeattiktok.com/search/7673636206961641781) |
+| [Keysight Technologies](https://internscout.org/internships/at/keysight-technologies/) | R&D Software Engineer Intern | Santa Rosa, CA +2 | Paid | Oct 16 | [Apply](https://jobs.keysight.com/jobs/54673?icims=1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

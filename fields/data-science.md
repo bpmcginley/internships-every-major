@@ -1,6 +1,6 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-458 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 458). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 873 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+457 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 457). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 873 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -99,7 +99,6 @@
 | [National Life](https://internscout.org/internships/at/national-life/) | Data Science Intern | Addison, TX +1 |  | Oct 14 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4449670009) |
 | [Kensington](https://internscout.org/internships/at/kensington/) | Analytics Intern | Toronto, ON +1 | Paid | Oct 14 | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5262680007) |
 | [American Century Investments](https://internscout.org/internships/at/american-century-investments/) | Enterprise Data Intern | Kansas City, MO +1 |  | Oct 14 | [Apply](https://americancentury.wd5.myworkdayjobs.com/en-US/americancenturyinvestments/job/Kansas-City-Missouri/Enterprise-Data-Intern_R0005751) |
-| Brookfield | Analytics Modelling Intern | NYC |  | Oct 14 | [Apply](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/New-York-New-York/Intern--Analytics-Modelling---Brookfield-Wealth-Solutions_R2053354) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Human Resources Intern - HR Analytics | Malta, NY +1 |  | Oct 14 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Human-Resources-Intern--HR-Analytics--Summer-2027-_JR-2604494) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | People Analytics Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America +1 |  | Oct 14 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/People-Analytics-Intern---Summer-2027---Franklin--TN_R00214301) |
 | [Assurant](https://internscout.org/internships/at/assurant/) | Data Support Analyst Intern | Chicago, IL +1 |  | Oct 14 | [Apply](https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Illinois-Virtual/Summer-2027-Intern--Data-Support-Analyst_R-115717) |
@@ -204,6 +203,7 @@
 | Airbus | Operational Excellence Analyst Intern - Data Analytics - Operational Excellence | Mobile, AL |  | Sep 28 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Summer-Internship-2027---Data-Analytics---Operational-Excellence_JR10442492) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Quantitative Analytics & Data Science Intern (Baltimore, MD) | Baltimore, Maryland +1 |  | Sep 28 | [Apply](https://jobs.constellationenergy.com/jobs/139494) |
 | [Itron](https://internscout.org/internships/at/itron/) | Data Science Intern - Distributed Intelligence | Liberty Lake, WA +1 |  | Sep 28 | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942) |
+| [IAT Insurance Group](https://internscout.org/internships/at/iat-insurance-group/) | Data Engineering & Visualization Intern | Raleigh, NC +1 |  | Sep 28 | [Apply](https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Raleigh-NC/Data-Engineering---Visualization-Internship_JR100441) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

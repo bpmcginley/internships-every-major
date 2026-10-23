@@ -1,9 +1,10 @@
 # Sales: Summer 2027 Internships
 
-233 open Summer 2027 sales roles, newest first (the 200 newest of 233). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 457 sales internships on InternScout](https://internscout.org/internships/sales/)
+234 open Summer 2027 sales roles, newest first (the 200 newest of 234). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 457 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | ISO Sales Intern - Summer 2027 | Atlanta, GA, USA |  | Oct 23 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/ISO-Sales-Intern---Summer-2027_R26_0000035660) |
 | [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | Commercial Sales Operations Intern - Summer 2027 | Atlanta, GA, USA |  | Oct 23 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Commercial-Sales-Operations-Intern---Summer-2027_R26_0000035643) |
 | [S&P Global](https://internscout.org/internships/at/s-p-global/) | Market Intelligence Sales Associate Internship | New York, NY |  | Oct 23 | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Market-Intelligence-Sales-Associate-Internship_332491-1) |
 | [ABB](https://internscout.org/internships/at/abb/) | Engineering Sales Intern - Summer 2027 | USA, MA |  | Oct 23 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-MA-Quincy/Engineering-Sales-Intern---Summer-2027_JR00051359) |
@@ -19,7 +20,7 @@
 | [Uline](https://internscout.org/internships/at/uline/) | Sales Training Internship - Summer 2027 | Pleasant Prairie, WI +4 | Paid | Oct 22 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Sales-Training-Internship---Summer-2027_R268540) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Sales Application Intern | Kirkland, WA |  | Oct 21 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Sales-Application-Intern-WA-98033/1450066333/) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Sales Enablement & Learning | Wilmington, DE |  | Oct 21 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Sales-Enablement---Learning_R-104115-2) |
-| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Sales and Use Tax | Sacramento CA +5 | Paid | Oct 21 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Sacramento/Summer-2027-Intern--Sales-and-Use-Tax_R0020802) |
+| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Sales and Use Tax | Sacramento +4 | \$23.70 - \$27.50 | Oct 21 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Sacramento/Summer-2027-Intern--Sales-and-Use-Tax_R0020802-1) |
 | [Datadog](https://internscout.org/internships/at/datadog/) | Sales Development Representative - Summer 2027 Graduates (Boston) | Boston, Massachusetts, USA | \$50,000 | Oct 20 | [Apply](https://careers.datadoghq.com/detail/8287316/?gh_jid=8287316) |
 | [The Hartford](https://internscout.org/internships/at/the-hartford/) | 2027 Summer Intern - Internal Sales Desk | Wayne, PA | \$20.00 - \$25.00 | Oct 20 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Wayne-PA/XMLNAME-2027-Summer-Intern---Internal-Sales-Desk_R2627499) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management and Sales Summer Internship (Fresno) | Fresno, CA |  | Oct 20 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627066) |
@@ -203,7 +204,6 @@
 | [Clarios](https://internscout.org/internships/at/clarios/) | OE Sales Intern (Summer 2027) | United States, Michigan, Plymouth |  | Sep 18 | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Michigan-Plymouth/OE-Sales-Intern--Summer-2027-_WD49961) |
 | Crowdstrike | Sales Excellence Elite Intern, LATAM (Summer 2027) | USA - Austin, TX | Paid | Sep 18 | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Austin-TX/Sales-Excellence-Elite-Intern--LATAM--Summer-2027-_R30135) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Customer Success - Michigan | Portage, Michigan |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Customer-Success---Michigan_R572633) |
-| [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Joint Replacement Sales - St. Louis, MO | St Louis, Missouri |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/St-Louis-Missouri/Summer-2027-Internship---Joint-Replacement-Sales---St-Louis--MO_R572777) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

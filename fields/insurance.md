@@ -1,12 +1,13 @@
 # Insurance: Summer 2027 Internships
 
-89 open Summer 2027 insurance roles, newest first (all 89). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 165 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+90 open Summer 2027 insurance roles, newest first (all 90). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 165 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Middle Market Underwriting/Portfolio Management (San Diego, CA) | San Diego, California | \$18.50/hr | Oct 23 | [Apply](https://firstcitizens.jibeapply.com/jobs/35637) |
 | [Marsh](https://internscout.org/internships/at/marsh/) | Marsh Risk Early Career Program, Summer Intern 2027 – Actuarial Analytics, NYC and Chicago | New York - 1166 |  | Oct 23 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Chicago---155-Wacker/Marsh-Risk-Early-Career-Program--Summer-Intern-2027---Actuarial-Analytics--NYC-and-Chicago_R_370673) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Trucking Claims Intern (Summer 2027) | Cincinnati, OH (USA) |  | Oct 23 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Trucking-Claims-Intern--Summer-2027-_R9775) |
+| [TIAA](https://internscout.org/internships/at/tiaa/) | 2027 Early Talent Internship: Insurance Solutions & New Markets | Charlotte, NC, USA +1 |  | Oct 23 | [Apply](https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Internship--Insurance-Solutions---New-Markets_R261000120-2) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Underwriting Internship - Summer 2027 | Pittsburgh, PA +7 | \$21.00 per hour | Oct 22 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Pittsburgh-PA/Underwriting-Internship---Summer-2027_R_14384) |
 | MSI | Underwriting Intern, MSI | Hallandale Beach, Florida, US |  | Oct 22 | [Apply](https://baldwin.wd1.myworkdayjobs.com/MSI/job/Hallandale-Beach-Florida-US/Underwriting-Intern--MSI_JR110197) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Home Office Underwriting/Audit Internship - Summer 2027 | Lansing, MI |  | Oct 22 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Home-Office-Underwriting-Audit-Internship---Summer-2027_R_14361) |
@@ -51,7 +52,7 @@
 | Markel Group, Inc. | Actuarial Intern | Richmond, VA +1 | \$24-\$28.50/hr | Sep 28 | [Apply](https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Richmond-VA/Actuarial-Intern_R0023907) |
 | [SCOR](https://internscout.org/internships/at/scor/) | Actuarial Intern | Charlotte, North Carolina |  | Sep 25 | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5435) |
 | [EMC Insurance](https://internscout.org/internships/at/emc-insurance/) | Claims Intern - Property | Iowa |  | Sep 21 | [Apply](https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Claims--Property-_R6553-1) |
-| [EMC Insurance](https://internscout.org/internships/at/emc-insurance/) | Claims Intern - Workers' Compensation | Iowa |  | Sep 21 | [Apply](https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa---Work-From-Home/Claims-Intern---Worker-s-Compensation_R6548) |
+| [EMC Insurance](https://internscout.org/internships/at/emc-insurance/) | Claims Intern - Workers' Compensation | Iowa +1 |  | Sep 21 | [Apply](https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa---Work-From-Home/Claims-Intern---Worker-s-Compensation_R6548) |
 | [EMC Insurance](https://internscout.org/internships/at/emc-insurance/) | Claims Intern - Data | Iowa |  | Sep 21 | [Apply](https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Claims--Data-_R6552-1) |
 | [NJM Insurance Group](https://internscout.org/internships/at/njm-insurance-group/) | Insurance Product Management Analyst Intern | NJM - Trenton, NJ +1 | \$21-\$25 hour | Sep 1 | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst-Intern-3_R2008190) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Actuarial Intern - Summer 2027 | Addison, TX +1 | Paid | Aug 19 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4376293009) |
