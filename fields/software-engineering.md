@@ -1,12 +1,13 @@
 # Software Engineering: Summer 2027 Internships
 
-1,289 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,289). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 2,582 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,290 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,290). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 2,583 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | ASML | Software Engineer In Test Intern, MOD | San Jose, CA +1 | Paid | Oct 23 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Engineer-In-Test--MOD-_J-00354568) |
 | [KLA](https://internscout.org/internships/at/kla/) | Software Engineering Intern, AI/ML for Diagnostics & Calibration | Milpitas, CA |  | Oct 23 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1) |
 | TELUS Digital | Software Engineering Intern/Co-op (Canada) - Summer 2027 | Vancouver +2 |  | Oct 23 | [Apply](https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2/application) |
+| [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency | Mountain View, CA, USA |  | Oct 23 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8287385) |
 | MongoDB | Software Engineer Intern | Palo Alto, CA +4 |  | Oct 23 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8209134) |
 | [Altera](https://internscout.org/internships/at/altera/) | Software Intern | Toronto, Canada +2 | Paid | Oct 23 | [Apply](https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Software-Intern_R03373) |
 | [Rivian and Volkswagen Group Technologies](https://internscout.org/internships/at/rivian-and-volkswagen-group-technologies/) | Software Engineering Intern, Applications | Vancouver, Canada +7 |  | Oct 23 | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/b142f138-e300-4e84-8aa5-50ed506d288b/application) |
@@ -203,7 +204,6 @@
 | [Northrop Grumman](https://internscout.org/internships/at/northrop-grumman/) | Software Engineering Intern | Aurora, CO +2 |  | Oct 16 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243) |
 | [onsemi](https://internscout.org/internships/at/onsemi/) | Technology Development Intern | Hopewell Junction, NY |  | Oct 16 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506991) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern, Recommendation Performance Efficiency | San Jose, CA |  | Oct 16 | [Apply](https://lifeattiktok.com/search/7673636206961641781) |
-| [Keysight Technologies](https://internscout.org/internships/at/keysight-technologies/) | R&D Software Engineer Intern | Santa Rosa, CA +2 | Paid | Oct 16 | [Apply](https://jobs.keysight.com/jobs/54673?icims=1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

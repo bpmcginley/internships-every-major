@@ -1,6 +1,6 @@
 # Biology: Summer 2027 Internships
 
-18 open Summer 2027 biology roles, newest first (all 18). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 141 biology internships on InternScout](https://internscout.org/internships/biology/)
+17 open Summer 2027 biology roles, newest first (all 17). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 140 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -16,7 +16,6 @@
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Wildlife Biologist (Austin, TX) | Austin, TX (TX18) +1 |  | Oct 8 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Austin-TX-TX18/XMLNAME-2027-Summer-Intern--Wildlife-Biologist--Austin--TX-_R2603412) |
 | [WTW](https://internscout.org/internships/at/wtw/) | Early Careers: Pharmacy Benefits Consulting Internship - Chicago - Summer 2027 | Chicago, IL |  | Oct 8 | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606458) |
 | [Emergent Holdings](https://internscout.org/internships/at/emergent-holdings/) | Summer 2027 Intern - Pharmacy Services | United States | Paid | Oct 8 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14811) |
-| [Centene](https://internscout.org/internships/at/centene/) | Pharmacy Grad Summer 2027 Intern (Grad) | Remote-MO |  | Oct 5 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Pharmacy-Grad-Summer-2027-Intern--Grad-_1663881) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Pharmacy Intern – Emerging Therapies and Health Outcomes | Detroit, MI |  | Sep 22 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14836) |
 | [Marsh](https://internscout.org/internships/at/marsh/) | Oliver Wyman - 2027 MBA Summer Associate - Health & Life Sciences | New York - 1166 |  | Sep 19 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Oliver-Wyman---2027-MBA-Summer-Associate---Health---Life-Sciences_R_363378) |
 | [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Microbiology Intern, Summer 2027 | Orrville, OH |  | Sep 18 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Microbiology-Intern--Summer-2027_115676) |

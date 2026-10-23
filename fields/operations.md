@@ -1,12 +1,16 @@
 # Operations: Summer 2027 Internships
 
-327 open Summer 2027 operations roles, newest first (the 200 newest of 327). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 808 operations internships on InternScout](https://internscout.org/internships/operations/)
+330 open Summer 2027 operations roles, newest first (the 200 newest of 330). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 810 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | Procurement/Sourcing Intern - Summer 2027 | Atlanta, GA, USA |  | Oct 23 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Procurement-Sourcing-Intern---Summer-2027_R26_0000035649) |
+| [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | Supplier Quality Intern - Summer 2027 | Atlanta, GA, USA |  | Oct 23 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Supplier-Quality-Intern---Summer-2027_R26_0000035650) |
+| [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | Commercial Sales Operations Intern - Summer 2027 | Atlanta, GA, USA |  | Oct 23 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Commercial-Sales-Operations-Intern---Summer-2027_R26_0000035643) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Tapeout Engineering Intern, Tapeout Operations (Summer 2027) | USA - Vermont - Essex Junction |  | Oct 23 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Tapeout-Engineering-Intern--Tapeout-Operations--Summer-2027-_JR-2604923) |
 | [Philips](https://internscout.org/internships/at/philips/) | Intern – Marketing Operations – Cambridge, MA – Summer 2027 | Cambridge (US), Massachusetts, United States +1 | \$26 – 30 | Oct 23 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Marketing-Operations---Cambridge--MA---Summer-2027_593458) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Grad Intern - Operations - New Albany, OH (Summer 2027) | US - Ohio - New Albany |  | Oct 23 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---Ohio---New-Albany/Grad-Intern---Operations---New-Albany--OH--Summer-2027-_R-258687) |
+| [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Program Operations (MO, AR, IL, TX) | Jefferson City, MO +3 | \$23 per hour | Oct 23 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Jefferson-City-MO/XMLNAME-2027-Summer-Intern--Program-Operations--Remote-_R2603391) |
 | Northwood Space | Supply Chain Operations Intern (2027 Summer Internship) | Torrance, CA +2 |  | Oct 22 | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/7bfa4ec0-7d5a-475b-aa2b-0cd0741e1549/application) |
 | [Cisco](https://internscout.org/internships/at/cisco/) | AI Operations Engineer I Intern | San Jose, CA +3 |  | Oct 22 | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/AI-Operations-Engineer-I--Intern----United-States_2026804) |
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Project Management Intern (Summer 2027) | Plano, TX |  | Oct 22 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Project-Management-Intern--Summer-2027-_R0031185) |
@@ -86,7 +90,6 @@
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Program Operations (MI, MN, IN, WI) | Lansing, MI +3 | \$23 per hour | Oct 9 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Lansing-MI/XMLNAME-2027-Summer-Intern--Program-Operations--MI--MN--IN--WI-_R2603394) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Facilities Intern | Sparks, Nevada +1 |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51643) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - CIT Rail Financial Operations (Chicago, IL) | Chicago, Illinois | \$20.57/hr | Oct 8 | [Apply](https://firstcitizens.jibeapply.com/jobs/35831) |
-| [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Program Operations (MO, AK, IL, TX) | Jefferson City, MO +3 | \$23 per hour | Oct 8 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Jefferson-City-MO/XMLNAME-2027-Summer-Intern--Program-Operations--Remote-_R2603391) |
 | [Advanced Space](https://internscout.org/internships/at/advanced-space/) | 2027 Project Management Summer Internship | Westminster, CO |  | Oct 7 | [Apply](https://job-boards.greenhouse.io/advancedspace/jobs/4376384009) |
 | [K2 Space](https://internscout.org/internships/at/k2-space/) | Space Operations Engineering Intern – Summer 2027 | Los Angeles | \$30 - \$40 per hour | Oct 7 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5447292008) |
 | [Arc](https://internscout.org/internships/at/arc/) | People Operations Intern | Torrance, CA | \$32 per hour | Oct 7 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5447151008) |
@@ -201,9 +204,6 @@
 | [Textron](https://internscout.org/internships/at/textron/) | 2027 Intern - Procurement (Lycoming) - Williamsport, PA | Williamsport, Pennsylvania |  | Sep 1 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342718) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Intern - HR Operations | Bridgeton, Missouri |  | Sep 1 | [Apply](https://careers.na.panasonic.com/jobs/50762) |
 | [Exelon](https://internscout.org/internships/at/exelon/) | 2027 Summer Internship - Project Management (Various Exelon Locations) | Baltimore, Maryland +6 | \$20.00/Hr | Aug 31 | [Apply](https://careers.comed.com/jobs/30124) |
-| [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Masters Summer Internship Program - 2027 Global Real Estate & Workplace Experience, Enterprise Shared S… | New York, NY |  | Aug 31 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012153) |
-| [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Intern - Sales Operations (Quoting) | Bridgeton, Missouri |  | Aug 31 | [Apply](https://careers.na.panasonic.com/jobs/50747) |
-| [CSX](https://internscout.org/internships/at/csx/) | Procurement & Supply Chain Internship - Summer 2027 (Paid) | Jacksonville, FL |  | Aug 27 | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54820) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
