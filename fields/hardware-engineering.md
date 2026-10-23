@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-222 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 222). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 604 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+223 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 223). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 604 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -131,8 +131,9 @@
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | FY27 Intern - Firmware/Embedded Software Engineering Internship - Canada (12 or 16 months) | Toronto, ON, Canada |  | Sep 17 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721141411) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | FY27 Intern - Low-Power AI, Audio, and Sensors Subsystem Engineering Internship - ASIC Firmware / Embedded - Canada (12… | Markham, ON, Canada |  | Sep 17 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721109168) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Analog Layout Co-op Intern | Toronto, ON, Canada |  | Sep 17 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Toronto-Canada/Analog-Layout-Intern---BS-MS---Summer-2027-Co-Op_2604789) |
+| [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Electrical Engineer Intern - Hardware | Austin, TX +1 |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/6a953cbc-af69-452c-b357-1a0a3db80bbf/apply) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Embedded Software Engineering Internship | Westminster, CO +1 |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/96e97f22-a5b2-4e95-af84-b4f765343663/apply) |
-| [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Electrical Engineering Internship, Hardware | Austin, TX +1 |  | Sep 15 | [Apply](https://jobs.lever.co/CesiumAstro/6a953cbc-af69-452c-b357-1a0a3db80bbf/apply) |
+| [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Electrical Engineering Internship, Hardware | Westminster, CO |  | Sep 15 | [Apply](https://jobs.lever.co/CesiumAstro/ccb0f99f-0cc7-4517-8d1c-faeca53b5e5c/apply) |
 | [Lunar Outpost](https://internscout.org/internships/at/lunar-outpost/) | Robotics Engineering Intern - Summer 2027 | Golden, Colorado +1 |  | Sep 15 | [Apply](https://lunaroutpost.bamboohr.com/careers/391) |
 | [Lunar Outpost](https://internscout.org/internships/at/lunar-outpost/) | Embedded Software Engineering Intern - Summer 2027 | Golden, Colorado +1 |  | Sep 15 | [Apply](https://lunaroutpost.bamboohr.com/careers/392) |
 | [Keysight Technologies](https://internscout.org/internships/at/keysight-technologies/) | ASIC Design-for-Test (DFT) Engineer Intern | Colorado Springs, Colorado +1 |  | Sep 15 | [Apply](https://jobs.keysight.com/jobs/54276) |
@@ -203,7 +204,6 @@
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 Undergrad Hardware Design Verification Engineering Co-op/Intern | Austin, Texas +6 |  | Aug 20 | [Apply](https://careers.amd.com/jobs/90811) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 Masters Hardware Engineering intern/co-op | Austin, Texas +13 |  | Aug 20 | [Apply](https://careers.amd.com/jobs/91182) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 Undergrad Firmware Engineering Co-op/Intern | Austin, Texas +8 |  | Aug 20 | [Apply](https://careers.amd.com/jobs/90807) |
-| [AMD](https://internscout.org/internships/at/amd/) | 2027 Masters Firmware Engineering Intern/Co-op | Austin, Texas +8 |  | Aug 20 | [Apply](https://careers.amd.com/jobs/90805) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

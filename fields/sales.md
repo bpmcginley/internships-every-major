@@ -1,6 +1,6 @@
 # Sales: Summer 2027 Internships
 
-233 open Summer 2027 sales roles, newest first (the 200 newest of 233). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 457 sales internships on InternScout](https://internscout.org/internships/sales/)
+232 open Summer 2027 sales roles, newest first (the 200 newest of 232). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 456 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -168,7 +168,6 @@
 | [AQR](https://internscout.org/internships/at/aqr/) | 2027 Business Development Summer Analyst | Greenwich, CT |  | May 15 | [Apply](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) |
 | [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Northeast - Sales Internship MA-NH-ME-VT-RI (Comparion) - Summer 2027 | Glastonbury, CT +19 |  | Oct 23, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/262369/sales-internship-program/job) |
 | [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | PacWest - Sales Internship (Comparion) - Summer 2027 | Chandler, AZ +6 |  | Oct 23, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261753/pacwest---sales-internship-%28comparion%29---summer-2027/job) |
-| [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Northeast - Sales Internship (Comparion) - Summer 2027 | Glastonbury, CT +10 |  | Oct 23, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261749/northeast---sales-internship-%28comparion%29---summer-2027/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Sales Enablement Intern | Niles, IL |  | Oct 23, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5009/global-sales-enablement-intern/job) |
 | Federal Express Corporation | Sales Intern (Summer 2027) - Miami, FL | Miami, FL |  | Oct 23 | [Apply](https://careers.fedex.com/sales-intern-summer-2027-miami-fl/job/P25-379043-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | The Bozzuto Group | Sales & Marketing Intern - Washington, DC (Summer 2027) | Washington, DC | Paid | Oct 23 | [Apply](https://www.bozzuto.com/careers/job-search/5418552008?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -204,6 +203,7 @@
 | Crowdstrike | Sales Excellence Elite Intern, LATAM (Summer 2027) | USA - Austin, TX | Paid | Sep 18 | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Austin-TX/Sales-Excellence-Elite-Intern--LATAM--Summer-2027-_R30135) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Customer Success - Michigan | Portage, Michigan |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Customer-Success---Michigan_R572633) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Joint Replacement Sales - St. Louis, MO | St Louis, Missouri |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/St-Louis-Missouri/Summer-2027-Internship---Joint-Replacement-Sales---St-Louis--MO_R572777) |
+| [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Joint Replacement Sales - Lenexa. KS | Lenexa, Kansas |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Lenexa-Kansas/Summer-2027-Internship---Joint-Replacement-Sales---Lenexa-KS_R572778) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

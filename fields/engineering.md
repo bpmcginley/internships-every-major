@@ -1,6 +1,6 @@
 # Engineering: Summer 2027 Internships
 
-471 open Summer 2027 engineering roles, newest first (the 200 newest of 471). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 1,289 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+470 open Summer 2027 engineering roles, newest first (the 200 newest of 470). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 1,288 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -9,7 +9,6 @@
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | NPD Engineer Intern, Summer 2027 | Fort Worth, TX |  | Oct 23 | [Apply](https://wattswater.wd5.myworkdayjobs.com/external/job/Fort-Worth-TX/NPD-Engineer-Intern--Summer-2027_10017809) |
 | [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | R&D Engineer Intern WCH | Raritan, New Jersey, United States of America |  | Oct 23 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/R-D-Engineer-Intern-WCH_R-103053) |
 | [Global Infrastructure](https://internscout.org/internships/at/global-infrastructure/) | Engineering Intern, Buildings | US +4 | \$20 - \$30 hour | Oct 23 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--CA--Los-Angeles---707-Wilshire-Boulevard/Engineering-Intern--Buildings_6567) |
-| [Baker Hughes](https://internscout.org/internships/at/baker-hughes/) | Intern - Field Engineer - 16 Month 2027 Opportunities (Role was changed to Summer internship) | CA-AB-CALGARY-6820 36 STREET SE | Paid | Oct 23 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/CA-AB-CALGARY-6820-36-STREET-SE/Intern---Field-Engineer---12-Month-2027-Opportunities_R168913-1) |
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | Engineering Intern, Manuals Tech Writer Team - Summer 2027 | Valley City, OH, United States |  | Oct 23 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Intern--Manuals-Tech-Writer-Team---Summer-2027_REQ-1000052836) |
 | [Rivian and Volkswagen Group Technologies](https://internscout.org/internships/at/rivian-and-volkswagen-group-technologies/) | Electromechanical Design Engineering Intern (Summer 2027) | Palo Alto, California +4 |  | Oct 22 | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/e05c3bd0-caf9-45c0-98e4-c8944eaf5ac7/application) |
 | [S&C Electric Company](https://internscout.org/internships/at/s-c-electric-company/) | Electronics Engineering Intern - TBI | Chicago, IL | Paid | Oct 22 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107453) |
@@ -159,8 +158,8 @@
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Aerodynamics & Analysis Engineering Internship - Summer 2027 | El Segundo, California, United States | \$33.00 | Oct 1 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010632003) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Guidance, Navigation & Controls (GNC) Internship - Summer 2027 | El Segundo, California, United States |  | Oct 1 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7865601003) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Structures Engineering Internship - Summer 2027 | El Segundo, California, United States |  | Oct 1 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010167003) |
-| [HNTB](https://internscout.org/internships/at/hntb/) | Intern Engineer: Highway and Traffic - Summer 2027 | New York, NY |  | Oct 1 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/New-York-NY/Intern-Engineer--Highway-and-Traffic---Summer-2027_R-31829) |
-| [HNTB](https://internscout.org/internships/at/hntb/) | Intern Engineer: Rail & Transit – Summer 2027 | New York, NY |  | Oct 1 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/New-York-NY/Intern-Engineer--Rail---Transit---Summer-2027_R-31826) |
+| [HNTB](https://internscout.org/internships/at/hntb/) | Intern Engineer: Highway and Traffic - Summer 2027 | New York, NY |  | Oct 1 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/New-York-NY/Intern-Engineer--Highway-and-Traffic---Summer-2027_R-31829-1) |
+| [HNTB](https://internscout.org/internships/at/hntb/) | Intern Engineer: Rail & Transit – Summer 2027 | New York, NY |  | Oct 1 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/New-York-NY/Intern-Engineer--Rail---Transit---Summer-2027_R-31826-1) |
 | [Global Infrastructure](https://internscout.org/internships/at/global-infrastructure/) | Intern Engineering Designer, Water | US +3 | \$25.00-\$27.00 | Oct 1 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IL--Chicago---200-South-Wacker-Drive/Intern-Engineering-Designer--Water_6440) |
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | Engineering Co-Op; Summer and Fall 2027 | Valley City, OH, United States |  | Oct 1 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Co-Op--Summer-and-Fall-2027_REQ-1000052850) |
 | [PPL](https://internscout.org/internships/at/ppl/) | Nuclear Engineering Intern | Lexington, Kentucky +3 |  | Oct 1 | [Apply](https://careers.pplweb.com/jobs/15316) |
@@ -204,6 +203,7 @@
 | [Bedrock Robotics](https://internscout.org/internships/at/bedrock-robotics/) | 2027 Internship Safety Engineer, Agentic Safety Case Assessment | San Francisco, CA +2 | Paid | Sep 25 | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/cb06dc4f-3e78-4546-897d-b39ba12a9178/application) |
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Bridge Engineering Intern – Summer 2027 | US.FL.Orlando.482 S Keller Rd | \$25 - \$31 hour | Sep 25 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USFLOrlando482-S-Keller-Rd/Bridge-Engineering-Intern---Summer-2027_R-164421) |
 | Barrios | Engineering Intern - Summer 2027 | Houston, TX |  | Sep 25 | [Apply](https://careers-barrios.icims.com/jobs/2896/engineering-intern---summer-2027/job) |
+| [Corning](https://internscout.org/internships/at/corning/) | Measurements Engineering Intern - Summer 2027 | Corning, NY |  | Sep 24 | [Apply](https://corningjobs.corning.com/job/Corning-Intern,-Measurements-Summer-2027-NY-14831/1433453700/?ats=successfactors) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

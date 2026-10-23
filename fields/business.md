@@ -1,6 +1,6 @@
 # Business: Summer 2027 Internships
 
-76 open Summer 2027 business roles, newest first (all 76). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 147 business internships on InternScout](https://internscout.org/internships/business/)
+76 open Summer 2027 business roles, newest first (all 76). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 146 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | Broadridge | Broadridge Summer 2027 Business Internship Program | New York, NY +2 | \$25-\$35 per hour | Oct 17 | [Apply](https://broadridge.wd5.myworkdayjobs.com/careers/job/New-York-NY/Broadridge-Summer-2027-Business-Internship-Program_JR1085772) |
 | [Commerce Bank](https://internscout.org/internships/at/commerce-bank/) | Intern - Commercial Loan Servicing (Summer 2027) | Kansas City Downtown/Plaza - Kansas City - KC Downtown, MO | \$20.00 - \$20.00 | Sep 21 | [Apply](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-811-Main-825-Main-64105/Intern-Commercial-Loan-Servicing-Summer-2027_38469) |
 | [Commerce Bank](https://internscout.org/internships/at/commerce-bank/) | Intern - Commercial Payments (Summer 2027) | Kansas City Downtown/Plaza - Kansas City - KC Downtown Bank Building (1000 Walnut), MO | \$20.00 - \$20.00 | Sep 21 | [Apply](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Bank-Building-1000-Walnut-64106/Intern-Commercial-Payments-Summer-2027_38466) |
-| [LSEG](https://internscout.org/internships/at/lseg/) | Business Management Summer Internship | New York City, United States |  | Sep 21 | [Apply](https://lseg.wd3.myworkdayjobs.com/Careers/job/New-York-City-United-States/Business-Management-and-Sales-Summer-Internship_R0123464-1) |
+| [LSEG](https://internscout.org/internships/at/lseg/) | Business Management Summer Internship | New York City, United States |  | Sep 21 | [Apply](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Business-Management-and-Sales-Summer-Internship_R0123464) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Intern - Business Generalist | St. Louis, MO |  | Sep 21 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/St-Louis-MO/XMLNAME-2027-Summer-Intern---Business-Generalist_R-0000033455) |
 | [Barry-Wehmiller](https://internscout.org/internships/at/barry-wehmiller/) | Future Leaders Program - MBA Internship | St. Louis, MO | Paid | Sep 18 | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/St-Louis-MO/Future-Leaders-Program---MBA-Internship_R022658) |
 | [Uline](https://internscout.org/internships/at/uline/) | Business Process Analyst Internship - Summer 2027 | Pleasant Prairie, WI |  | Sep 18 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Business-Process-Analyst-Internship---Summer-2027_R265666) |

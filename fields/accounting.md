@@ -1,10 +1,11 @@
 # Accounting: Summer 2027 Internships
 
-204 open Summer 2027 accounting roles, newest first (the 200 newest of 204). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 456 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+205 open Summer 2027 accounting roles, newest first (the 200 newest of 205). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 456 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Philips](https://internscout.org/internships/at/philips/) | Intern– Design Assurance Engineer – Colorado Springs, CO – Summer 2027 | Colorado Springs, Colorado, United States |  | Oct 23 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Colorado-Springs-Colorado-United-States/Intern--Design-Assurance-Engineer---Colorado-Springs--CO---Summer-2027_591948) |
+| Grant Thornton | Enterprise Assurance Services Intern - Summer 2027 | Chicago, IL |  | Oct 23 | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115837) |
 | [Arch Capital Group](https://internscout.org/internships/at/arch-capital-group/) | Corporate Tax Summer Intern | White Plains, NY United States of America | Paid | Oct 23 | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/White-Plains-NY-United-States-of-America/Corporate-Tax-Summer-Intern_R26_791) |
 | Chicago Trading Company | Accounting Internship - Summer 2027 | Chicago | \$85,000 | Oct 22 | [Apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4745145005) |
 | [Santander](https://internscout.org/internships/at/santander/) | 2027 Finance and Accounting Summer Analyst Program - Miami | Miami |  | Oct 22 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/XMLNAME-2027-Finance-and-Accounting-Summer-Analyst-Program---Miami_Req1628626) |
@@ -113,7 +114,7 @@
 | [Assured Guaranty](https://internscout.org/internships/at/assured-guaranty/) | Tax Intern - Summer 2027 | New York, NY, United States | \$30 per hour | Sep 21 | [Apply](https://boards.greenhouse.io/assuredguaranty/jobs/8827486002?gh_jid=8827486002) |
 | [Assured Guaranty](https://internscout.org/internships/at/assured-guaranty/) | Municipal Surveillance Intern - Special Tax and Special Districts - Summer 2027 | New York, NY, United States | \$30 per hour | Sep 21 | [Apply](https://boards.greenhouse.io/assuredguaranty/jobs/8817736002?gh_jid=8817736002) |
 | [Assured Guaranty](https://internscout.org/internships/at/assured-guaranty/) | Financial Reporting Accounting Intern - Summer 2027 | New York, NY, United States | \$30 per hour | Sep 21 | [Apply](https://boards.greenhouse.io/assuredguaranty/jobs/8817706002?gh_jid=8817706002) |
-| [Waters Corporation](https://internscout.org/internships/at/waters-corporation/) | Accounting Intern | Milford, MA +1 | \$22-25 per hour | Sep 21 | [Apply](https://uscareers-waters.icims.com/jobs/27743/2026-27743/job) |
+| [Waters Corporation](https://internscout.org/internships/at/waters-corporation/) | Accounting Intern | Milford, MA +1 | \$22-25 per hour | Sep 21 | [Apply](https://uscareers-waters.icims.com/jobs/27743/accounting-intern/job) |
 | [Textron](https://internscout.org/internships/at/textron/) | 2027 Textron Leadership Development Internship Program – Finance & Accounting | United States |  | Sep 21 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342976) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Intern – Financial Accounting Services (FAS) | Pittsburgh, PA |  | Sep 21 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119524) |
 | [AutoZone](https://internscout.org/internships/at/autozone/) | AutoZone 2027 Summer Internship – Internal Audit | Memphis, TN |  | Sep 21 | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155456) |
@@ -195,7 +196,7 @@
 | [Shure](https://internscout.org/internships/at/shure/) | Accounting Intern | Niles, IL |  | Sep 18 | [Apply](https://careersus-shure.icims.com/jobs/4959/accounting-intern/job) |
 | [Crowe](https://internscout.org/internships/at/crowe/) | Audit IT Assurance Intern Summer 2027 | Dallas TX USA +5 |  | Sep 18 | [Apply](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Dallas-TX-USA/Audit-IT-Assurance-Intern-Summer-2027_R-49328) |
 | [Air Products](https://internscout.org/internships/at/air-products/) | Summer Intern- IT & Cyber Audit (2027) | Allentown, Pennsylvania |  | Sep 18 | [Apply](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Allentown-Pennsylvania/Summer-Intern--IT---Cyber-Audit--2027-_JR-2026-21954) |
-| [AIG](https://internscout.org/internships/at/aig/) | 2027 Early Careers: Summer Intern, Forensic Accounting – United States, Dallas, TX & Chicago, IL | IL-Chicago +1 |  | Sep 18 | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/IL-Chicago/XMLNAME-2027-Early-Careers--Summer-Intern--Forensic-Accounting---United-States--Dallas--TX---Chicago--IL_JR2603648-1) |
+| [AIG](https://internscout.org/internships/at/aig/) | 2027 Early Careers: Summer Intern, Forensic Accounting – United States, Dallas, TX & Chicago, IL | IL-Chicago +1 |  | Sep 18 | [Apply](https://aig.wd1.myworkdayjobs.com/early_careers/job/IL-Chicago/XMLNAME-2027-Early-Careers--Summer-Intern--Forensic-Accounting---United-States--Dallas--TX---Chicago--IL_JR2603648) |
 | [Ragle Inc](https://internscout.org/internships/at/ragle-inc/) | Accounting Intern- Summer 2027 | North Richland Hills, TX |  | Sep 18 | [Apply](https://ragleinc.applytojob.com/apply/5T7ZXY0jov/Accounting-Intern-Summer-2027) |
 | [POET](https://internscout.org/internships/at/poet/) | Accounting Intern - Summer 2027 | Wichita, KS |  | Sep 18 | [Apply](https://poet.wd1.myworkdayjobs.com/POET/job/Wichita-KS/Accounting-Intern---Summer-2027_R101664) |
 | [UHY](https://internscout.org/internships/at/uhy/) | 2027 Summer Tax Internship - West Des Moines | West Des Moines, IA |  | Sep 18 | [Apply](https://uhyus.wd12.myworkdayjobs.com/uhy/job/West-Des-Moines-IA/XMLNAME-2027-Summer-Tax-Internship---West-Des-Moines_JR102036-1) |
@@ -203,7 +204,6 @@
 | [Transamerica](https://internscout.org/internships/at/transamerica/) | Expense Management Intern (Summer 2027) | Cedar Rapids, Iowa |  | Sep 18 | [Apply](https://transamerica.wd5.myworkdayjobs.com/US/job/Cedar-Rapids-Iowa/Expense-Management--Summer-2027-_INT001688) |
 | [The Andersons](https://internscout.org/internships/at/the-andersons/) | Accounting Intern (Summer 2027) | Maumee, OH |  | Sep 18 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Accounting-Intern--Summer-2027-_R12482) |
 | [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Severance Tax Consulting Intern - Houston, TX | Houston | Paid | Sep 18 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Houston/Summer-2025-Tax-Consulting-Intern---Houston--TX_R0015214-2) |
-| [The Andersons](https://internscout.org/internships/at/the-andersons/) | Tax Intern (Summer 2027) | Maumee, OH |  | Sep 18 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Tax-Intern--Summer-2027-_R12483) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

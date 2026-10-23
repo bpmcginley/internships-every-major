@@ -1,11 +1,12 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-457 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 457). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 873 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+458 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 458). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 873 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | ID.me | Summer Intern 2027 - Analytics Engineer Intern | Mountain View, CA |  | Oct 23 | [Apply](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8041991003) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Aftersales Data Analyst Intern | Kirkland, WA | Paid | Oct 23 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-AfterSales-Data-Analyst-Intern-WA-98033/1450518033/?ats=successfactors) |
+| [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | Product Pricing Analytics Intern - Summer 2027 | Atlanta, GA, USA |  | Oct 23 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Product-Pricing-Analytics-Intern---Summer-2027_R26_0000035647) |
 | [Marsh](https://internscout.org/internships/at/marsh/) | Marsh Risk Early Career Program, Summer Intern 2027 – Actuarial Analytics, NYC and Chicago | New York - 1166 |  | Oct 23 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Chicago---155-Wacker/Marsh-Risk-Early-Career-Program--Summer-Intern-2027---Actuarial-Analytics--NYC-and-Chicago_R_370673) |
 | [Philips](https://internscout.org/internships/at/philips/) | Intern-Customer Experience Analytics (Health Systems Strategy and Growth) Nashville, TN-Summer 2027 | Nashville, Tennessee, United States |  | Oct 23 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern-Customer-Experience--Health-Systems-Strategy-and-Growth--Cambridge--MA-Summer-2027_593456) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Innovation & Technology Internship - Data Science - Summer 2027 (Undergraduate) | NY - New York +1 | Paid | Oct 23 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Undergraduate-_R1081067) |
@@ -203,7 +204,6 @@
 | Airbus | Operational Excellence Analyst Intern - Data Analytics - Operational Excellence | Mobile, AL |  | Sep 28 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Summer-Internship-2027---Data-Analytics---Operational-Excellence_JR10442492) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Quantitative Analytics & Data Science Intern (Baltimore, MD) | Baltimore, Maryland +1 |  | Sep 28 | [Apply](https://jobs.constellationenergy.com/jobs/139494) |
 | [Itron](https://internscout.org/internships/at/itron/) | Data Science Intern - Distributed Intelligence | Liberty Lake, WA +1 |  | Sep 28 | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942) |
-| [IAT Insurance Group](https://internscout.org/internships/at/iat-insurance-group/) | Data Engineering & Visualization Intern | Raleigh, NC +1 |  | Sep 28 | [Apply](https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Raleigh-NC/Data-Engineering---Visualization-Internship_JR100441) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,6 +1,6 @@
 # Marketing: Summer 2027 Internships
 
-252 open Summer 2027 marketing roles, newest first (the 200 newest of 252). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 670 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+251 open Summer 2027 marketing roles, newest first (the 200 newest of 251). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 669 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | HarperCollins | 2027 Summer Internship - Marketing Operations ( Nashville, TN Hybrid) | Nashville, TN |  | Oct 12 | [Apply](https://careers-harpercollins.icims.com/jobs/5467/2027-summer-internship---marketing-operations-%28-nashville%2c-tn-hybrid%29/job) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Marketing & Events Internship - Summer 2027 | Reston, VA |  | Oct 8 | [Apply](https://uscareers-idemia.icims.com/jobs/8676/marketing-%26-events-internship---summer-2027/job) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Communications Internship - Summer 2027 | Reston, VA |  | Oct 7 | [Apply](https://uscareers-idemia.icims.com/jobs/8686/communications-internship---summer-2027/job) |
-| [HNTB](https://internscout.org/internships/at/hntb/) | Communications & Engagement Intern - Summer 2027 | Columbus, OH +2 | \$19.12 - \$28.68 | Oct 3 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Columbus-OH/Communications---Engagement-Intern---Summer-2027_R-31327) |
+| [HNTB](https://internscout.org/internships/at/hntb/) | Communications & Engagement Intern - Summer 2027 | Columbus, OH +2 | \$19.12 - \$28.68 | Oct 3 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Columbus-OH/Communications---Engagement-Intern---Summer-2027_R-31327-1) |
 | [Commerce Bank](https://internscout.org/internships/at/commerce-bank/) | Intern - Commercial Marketing (Summer 2027) | Kansas City Downtown/Plaza - Kansas City - KC Downtown Bank Building (1000 Walnut), MO | \$20.00 - \$20.00 | Sep 21 | [Apply](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Bank-Building-1000-Walnut-64106/Intern-Commercial-Marketing-Summer-2027_38462) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Intern - Communications & Engagement | St. Louis, MO | \$20-\$22/hr | Sep 21 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/St-Louis-MO/XMLNAME-2027-Summer-Intern---Communications---Engagement_R-0000033464) |
 | [TD Bank](https://internscout.org/internships/at/td-bank/) | 2027 Summer Internship Graduate Leadership Program- Marketing | New York, New York +1 | \$65.00 - \$67.00 | Sep 19 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/US-Graduate-Leadership-Intern-Program-Marketing_R_1508603) |
@@ -201,9 +201,9 @@
 | [Guardian Life](https://internscout.org/internships/at/guardian-life/) | 2027 Guardian Summer Intern, Group Benefits Marketing | New York | \$20.00 - \$35.00 | Sep 18 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Group-Benefits-Marketing_R000110242) |
 | [Newrez](https://internscout.org/internships/at/newrez/) | 2027 Summer Internship – Recapture Marketing | PA, Fort Washington |  | Sep 18 | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/PA-Fort-Washington/XMLNAME-2027-Summer-Internship---Recapture-Marketing_R10439) |
 | [Momentive](https://internscout.org/internships/at/momentive/) | Summer 2027 Intern - Coatings Marketing | Niskayuna, NY | \$22.00 - \$26.00 | Sep 18 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Coatings-Marketing_R9826) |
-| [Elanco](https://internscout.org/internships/at/elanco/) | Marketing Intern - US Pet Health (Summer 2027) | Indianapolis, IN |  | Sep 18 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Marketing-Intern---US-Pet-Health--Summer-2027-_R0026896) |
 | [Dimensional Fund Advisors](https://internscout.org/internships/at/dimensional-fund-advisors/) | Internship in Marketing (Undergraduate & Master's) | Austin +1 |  | Sep 18 | [Apply](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Marketing--Undergraduate---Master-s-_2026-9034) |
 | [Hy-Vee](https://internscout.org/internships/at/hy-vee/) | Marketing Strategy Intern - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA |  | Sep 18 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Marketing-Strategy-Intern---Summer-2027_R249892) |
+| [Ensign-Bickford Industries](https://internscout.org/internships/at/ensign-bickford-industries/) | Communications Intern | Simsbury, CT |  | Sep 18 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Communications-Intern_REQ107700-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
