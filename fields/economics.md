@@ -1,17 +1,15 @@
 # Economics: Summer 2027 Internships
 
-21 open Summer 2027 economics roles, newest first (all 21). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 49 economics internships on InternScout](https://internscout.org/internships/economics/)
+19 open Summer 2027 economics roles, newest first (all 19). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 47 economics internships on InternScout](https://internscout.org/internships/economics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Amazon](https://internscout.org/internships/at/amazon/) | Economics Intern - Structural IO | Seattle, WA +3 |  | Oct 23 | [Apply](https://amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | PhD Economics Intern - Reduced Form Causal Inference | Seattle, WA +3 |  | Oct 23 | [Apply](https://amazon.jobs/en/jobs/10564111/phd-economics-intern-reduced-form-causal-inference-summer-2027) |
-| Zillow | Applied Scientist Intern - Economics | Seattle, WA |  | Oct 20 | [Apply](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1) |
+| Zillow | Applied Scientist Intern - Economics | Seattle, WA +1 |  | Oct 20 | [Apply](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1) |
 | Compass Lexecon | 2027 Analyst Interns - US | Washington, DC +3 | \$50.00 | Oct 16 | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Chicago---CL/XMLNAME-2027-Analyst-Interns---US_JR261385) |
 | [American Bankers Association](https://internscout.org/internships/at/american-bankers-association/) | Intern, Banking Policy and Economic Research | Main Office, DC +1 | \$25/hour | Oct 16 | [Apply](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Banking-Policy-and-Economic-Research_R625) |
-| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Academic Research Internship | Richmond, VA |  | Oct 15 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Richmond-VA/Summer-2027-Academic-Research-Internship_R-0000033215-1) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Economics Research Intern | Washington, DC |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6068/summer-2027-economics-research-intern/job) |
-| [Centene](https://internscout.org/internships/at/centene/) | Medical Economics Intern | Missouri |  | Oct 2 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662091) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Intern - Economic Research - Chicago | Chicago, IL | \$20 to \$33, | Oct 1 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern---Economic-Research---Chicago_R-0000033628-1) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Research Intern | Cleveland, OH +1 |  | Oct 1 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Research-Intern---2027_R-0000033640) |
 | International Monetary Fund | 2027 Fund Internship Program (FIP) - Economists | USA, Washington DC | Paid | Sep 28 | [Apply](https://imf.wd5.myworkdayjobs.com/IMF/job/USA-Washington-DC/XMLNAME-2027-Fund-Internship-Program--FIP----Economists_26-R9863) |

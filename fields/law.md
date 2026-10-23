@@ -1,9 +1,10 @@
 # Law and Legal: Summer 2027 Internships
 
-116 open Summer 2027 law and legal roles, newest first (all 116). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 269 law and legal internships on InternScout](https://internscout.org/internships/law/)
+118 open Summer 2027 law and legal roles, newest first (all 118). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 270 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | Summer 2027 Summer Government Compliance Internship | Falls Church, VA |  | Oct 23 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Summer-Government-Compliance-Internship_RQ226014) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Law - Jacksonville, FL CLC | Jacksonville, Florida | \$2,000 | Oct 23 | [Apply](https://jobs.statefarm.com/jobs/45887) |
 | [Stifel](https://internscout.org/internships/at/stifel/) | Compliance Training & Education Intern- Summer 2027 | Saint Louis, MO |  | Oct 21 | [Apply](https://careers-stifel.icims.com/jobs/10055/compliance-training-%26-education-intern--summer-2027/job) |
 | [Stifel](https://internscout.org/internships/at/stifel/) | Compliance-AML Fraud Intern- Summer 2027 | Saint Louis, MO |  | Oct 21 | [Apply](https://careers-stifel.icims.com/jobs/10054/compliance-aml-fraud-intern--summer-2027/job) |
@@ -24,6 +25,7 @@
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Intern - Legal | Bridgeton, Missouri |  | Oct 16 | [Apply](https://careers.na.panasonic.com/jobs/51789) |
 | Federal Energy Regulatory Commission | Student Trainee (Legal) | District of Columbia, District of Columbia | \$70623 - \$91815 Per Year | Oct 16 | [Apply](https://www.usajobs.gov:443/job/888935900) |
 | [Axiom Space](https://internscout.org/internships/at/axiom-space/) | Legal Intern (Summer 2027) | Houston |  | Oct 15 | [Apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Legal-Intern--Summer-2027-_JR100763) |
+| [Jain Global](https://internscout.org/internships/at/jain-global/) | Compliance Technology Intern | NYC |  | Oct 14 | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Compliance-Technology-Intern_JR100607) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Federal Climate Initiatives Legal Intern | Washington, DC |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6056/summer-2027-federal-climate-initiatives-legal-intern/job) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Safe Water Initiative Legal Intern | Washington, DC |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6048/summer-2027-safe-water-initiative-legal-intern/job) |
 | Gentex Corporation | Summer 2027 Legal Intern | New York Hauppauge | \$21 per hour | Oct 12 | [Apply](https://gentex.wd5.myworkdayjobs.com/Gentex/job/New-York-Hauppauge/Summer-2027-Legal-Intern_REQ026814) |

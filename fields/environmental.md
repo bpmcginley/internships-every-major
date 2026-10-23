@@ -1,6 +1,6 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-134 open Summer 2027 environmental science and engineering roles, newest first (all 134). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 322 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+135 open Summer 2027 environmental science and engineering roles, newest first (all 135). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 325 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Summer 2027 EHS Intern | Cleveland, OH +1 |  | Oct 7 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119770) |
 | [S&C Electric Company](https://internscout.org/internships/at/s-c-electric-company/) | Health & Safety Intern | Chicago, IL | \$22 - 30 per hour | Oct 7 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107376) |
 | [S&C Electric Company](https://internscout.org/internships/at/s-c-electric-company/) | Environmental and Sustainability Intern | Chicago, IL | \$22 - 30 per hour | Oct 7 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107375) |
+| [Northwestern Mutual](https://internscout.org/internships/at/northwestern-mutual/) | Enterprise Sustainability & Impact Intern - Modeling & Analytics | Milwaukee, WI +1 |  | Oct 6 | [Apply](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Enterprise-Sustainability---Impact-Intern---Modeling---Analytics--Summer-2027_JR-46171) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Global Workplace Safety | Warren, Michigan, United States of America |  | Oct 6 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Workplace-Safety_JR-202619201) |
 | [Hitachi](https://internscout.org/internships/at/hitachi/) | Product HSE Compliance Engineering Intern (Summer 2027, 16months) | Toronto, Ontario, Canada | Paid | Oct 5 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Product-HSE-Compliance-Engineering-Intern--Summer-2027--16months-_R0145360) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Hydrogeologist Engineering Intern - Energy & Resources (Summer 2027) | Denver, CO +1 |  | Oct 5 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008074) |

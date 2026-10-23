@@ -1,9 +1,10 @@
 # Architecture: Summer 2027 Internships
 
-39 open Summer 2027 architecture roles, newest first (all 39). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 85 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+40 open Summer 2027 architecture roles, newest first (all 40). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 88 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Western & Southern Financial Group](https://internscout.org/internships/at/western-southern-financial-group/) | Enterprise Architecture Information Technology Intern (Full Year 2027) | CINCINNATI, OH +1 |  | Oct 22 | [Apply](https://careers-westernsouthern.icims.com/jobs/25347/enterprise-architecture-information-technology-intern-%28full-year-2027%29/job) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Summer 2027 Urban Planning/Development Intern | Detroit, MI |  | Oct 22 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Summer-2027-Urban-Planning-Development-Intern_R-085098) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Summer 2027 Architecture & Design Intern | Detroit, MI |  | Oct 22 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Summer-2027-Architecture---Design-Intern_R-085043) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | NVIDIA 2027 Internships: Deep Learning Computer Architecture | US, CA +2 | Paid | Oct 22 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491) |
@@ -11,6 +12,7 @@
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | FY27 Intern - Edge AI and Display Hardware Architecture Development Engineering Internship - Canada (16 months) | Markham, ON, Canada |  | Oct 21 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721661830) |
 | [Adobe](https://internscout.org/internships/at/adobe/) | AI & Architecture Intern | San Jose, CA +1 |  | Oct 19 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Landscape Architecture- Summer 2027 | Baltimore, MD | Paid | Oct 15 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97459) |
+| [Tenstorrent](https://internscout.org/internships/at/tenstorrent/) | Systems Intern, Validation, Software, Design, Architecture & Packaging | Austin, TX +3 |  | Oct 14 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | PhD Research Intern, Architecture – 2027 | US, CA +7 |  | Oct 12 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Architecture---2027_JR2025395) |
 | [The Aerospace Corporation](https://internscout.org/internships/at/the-aerospace-corporation/) | 2027 Space Systems Architecture Undergrad Intern | Chantilly, VA +2 |  | Oct 8 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Space-Systems-Architecture-Undergrad-Intern_R016772) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Electrical Engineering Intern – Product Architecture (Summer 2027) | Delaware, OH |  | Oct 2 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281025) |
@@ -19,7 +21,6 @@
 | [Marvell](https://internscout.org/internships/at/marvell/) | Architecture Intern | Burlington, VT |  | Sep 28 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Architecture-Intern--MS---Summer-2027_2604613-1) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Technology Architecture Engineering Intern (Summer 2027) | USA - New York - Malta +1 |  | Sep 28 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Technology-Architecture-Engineering-Intern--Summer-2027-_JR-2604362) |
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Architecture Intern - Summer 2027 | US.VA.Alexandria.1925 Ballenger Ave, Suite 400 |  | Sep 24 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USVAAlexandria1925-Ballenger-Ave-Suite-400/Architecture-Intern---Summer-2027_R-162315-1) |
-| [Western Digital](https://internscout.org/internships/at/western-digital/) | Systems Architecture Co-op - AI Systems Strategy | Rochester, MN |  | Sep 14 | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000149367234) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Enterprise Architecture Intern (Chicago, IL) | Chicago, Illinois |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138733) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 PhD SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op | San Jose, California +3 |  | Sep 11 | [Apply](https://careers.amd.com/jobs/92350) |
 | AArete | Data Architecture & Engineering Intern | Chicago, IL +1 |  | Sep 8 | [Apply](https://jobs.jobvite.com/aarete/job/otGLAfwe?nl=1&nl=1&fr=false) |

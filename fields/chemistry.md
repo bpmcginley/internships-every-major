@@ -1,9 +1,10 @@
 # Chemistry: Summer 2027 Internships
 
-11 open Summer 2027 chemistry roles, newest first (all 11). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 36 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
+12 open Summer 2027 chemistry roles, newest first (all 12). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 38 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [KLA](https://internscout.org/internships/at/kla/) | Chemistry R&D Intern | Totowa, NJ |  | Oct 23 | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Totowa-NJ/Chemistry-R-D-Intern_2642152) |
 | [Haleon](https://internscout.org/internships/at/haleon/) | 2027 Summer Intern: Product Chemistry | USA - Virginia - Richmond |  | Oct 22 | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---Virginia---Richmond/XMLNAME-2027-Summer-Intern--Product-Chemistry_548428) |
 | [Sanofi](https://internscout.org/internships/at/sanofi/) | 2027 Summer Co-op Process Chemistry, Cambridge, MA | Cambridge, MA |  | Oct 19 | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Co-op-Process-Chemistry--Cambridge--MA_R2865521) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | 2027 Summer Intern PhD Student - Drug Product Development Analytical Sciences | New Brunswick - NJ - US |  | Oct 14 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/New-Brunswick---NJ---US/XMLNAME-2027-Summer-Intern-PhD-Student---Drug-Product-Development-Analytical-Sciences_R1607526) |

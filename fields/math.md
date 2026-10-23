@@ -1,9 +1,10 @@
 # Math: Summer 2027 Internships
 
-33 open Summer 2027 math roles, newest first (all 33). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 54 math internships on InternScout](https://internscout.org/internships/math/)
+34 open Summer 2027 math roles, newest first (all 34). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 55 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Marsh](https://internscout.org/internships/at/marsh/) | Marsh Risk Early Career Program, Summer Intern 2027 – Actuarial Analytics, NYC and Chicago | New York - 1166 |  | Oct 23 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Chicago---155-Wacker/Marsh-Risk-Early-Career-Program--Summer-Intern-2027---Actuarial-Analytics--NYC-and-Chicago_R_370673) |
 | [Aon](https://internscout.org/internships/at/aon/) | Early Careers: Retirement Actuarial Intern | Dallas, Texas |  | Oct 21 | [Apply](https://jobs.aon.com/jobs/105687) |
 | [Definity Financial](https://internscout.org/internships/at/definity-financial/) | Actuarial Analyst - Summer 2027 Co-op/Intern | Waterloo, ONT, Canada | Paid | Oct 21 | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9445) |
 | [Everest](https://internscout.org/internships/at/everest/) | 2027 Everest Actuarial Internship Program | Warren, NJ | \$900 - 1,000 per week | Oct 21 | [Apply](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Everest-Actuarial-Internship-Program_R7399) |
@@ -36,7 +37,7 @@
 | [CareBridge](https://internscout.org/internships/at/carebridge/) | Actuarial Intern - Summer 2027 | IN-INDIANAPOLIS, 220 VIRGINIA AVE |  | Sep 18 | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Actuarial-Intern---Summer-2027_JR204425) |
 | [CNA Insurance](https://internscout.org/internships/at/cna-insurance/) | Actuarial Intern – Summer 2027 | Chicago, IL, USA | \$35,000 to \$65,000 annually | Sep 18 | [Apply](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Actuarial-Intern---Summer-2027_R-8026) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Data Analytics/Science/Applied Math - (Pomona/Rosemead) | Rosemead, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-%28PomonaRosemead%29-CA-91770/1425207700/) |
-| [AIG](https://internscout.org/internships/at/aig/) | 2027 Early Careers: Summer Intern, Actuarial – United States, Multiple Locations | NY-New York +4 |  | Sep 18 | [Apply](https://aig.wd1.myworkdayjobs.com/early_careers/job/NY-New-York/XMLNAME-2027-Early-Careers--Summer-Intern--Actuarial---United-States--Multiple-Locations_JR2603637) |
+| [AIG](https://internscout.org/internships/at/aig/) | 2027 Early Careers: Summer Intern, Actuarial – United States, Multiple Locations | NY-New York +4 |  | Sep 18 | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/NY-New-York/XMLNAME-2027-Early-Careers--Summer-Intern--Actuarial---United-States--Multiple-Locations_JR2603637-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,6 +1,6 @@
 # Urban Planning: Summer 2027 Internships
 
-40 open Summer 2027 urban planning roles, newest first (all 40). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 80 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+40 open Summer 2027 urban planning roles, newest first (all 40). **Updated October 23, 2026.** [Back to every major](../README.md) · [See all 81 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -8,7 +8,6 @@
 | [David Yurman](https://internscout.org/internships/at/david-yurman/) | Demand Planning Intern | New York, NY | \$25/hour | Oct 21 | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Demand-Planning-Intern_R-101150) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Internship - Community Development (Summer 2027) | Chicago, IL +3 |  | Oct 21 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008437) |
 | [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | GIS, Grid Data Intern - MN | Minneapolis, MN, 55418 +1 |  | Oct 20 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Grid-Data-Intern---MN_JR115742-1) |
-| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - Community Development | Dallas, TX |  | Oct 15 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Community-Development_R-0000033566) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Aftersales Business Planning Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America +1 |  | Oct 14 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Aftersales-Business-Planning-Intern---Summer-2027---Franklin--TN_R00214226) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Community Development Finance/Loan Origination (Boston, MA) | Boston, Massachusetts | \$18.14/hr | Oct 13 | [Apply](https://firstcitizens.jibeapply.com/jobs/35966) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | RPP Supply Planning Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 12 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/RPP-Supply-Planning-Intern---Summer-2027---Franklin--TN_R00214294) |
@@ -29,6 +28,7 @@
 | [Southern Star Central Gas Pipeline](https://internscout.org/internships/at/southern-star-central-gas-pipeline/) | GIS Analyst Intern | Owensboro, KY |  | Sep 1 | [Apply](https://careers-sscgp.icims.com/jobs/3036/job?mobile=true&needsRedirect=false) |
 | [Elk Valley Resources](https://internscout.org/internships/at/elk-valley-resources/) | May 2027 Geographic Information Systems (GIS) Co-op | Calgary, AB +1 |  | Aug 26 | [Apply](https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply) |
 | [Vanasse Hangen Brustlin (VHB)](https://internscout.org/internships/at/vanasse-hangen-brustlin-vhb/) | Environmental Planning Intern - Summer 2027 | Hauppauge, NY | \$19 to \$30 | Oct 23, 2024 | [Apply](https://careers-vhb.icims.com/jobs/6339/environmental-planning-intern---summer-2027/job) |
+| [Vanasse Hangen Brustlin (VHB)](https://internscout.org/internships/at/vanasse-hangen-brustlin-vhb/) | Planning Intern Summer 2027 | Charlotte, NC |  | Oct 23 | [Apply](https://careers-vhb.icims.com/jobs/6443/planning-intern-summer-2027/job) |
 | [Corning](https://internscout.org/internships/at/corning/) | Global Planning Intern - Summer 2027 | Charlotte, NC |  | Oct 10 | [Apply](https://corningjobs.corning.com/job/Charlotte-Global-Planning-Intern-Summer-2027-NC-28216/1438920300/) |
 | [KCI Technologies](https://internscout.org/internships/at/kci-technologies/) | Planning Intern (Summer 2027) | Nashville, TN |  | Oct 8 | [Apply](https://careers-kci.icims.com/jobs/8144/planning-intern-%28summer-2027%29/job) |
 | [Vanasse Hangen Brustlin (VHB)](https://internscout.org/internships/at/vanasse-hangen-brustlin-vhb/) | Transportation Planning Intern - Summer 2027 | Atlanta, GA |  | Oct 1 | [Apply](https://careers-vhb.icims.com/jobs/6380/transportation-planning-intern---summer-2027/job) |
