@@ -1,12 +1,13 @@
 # Math: Summer 2027 Internships
 
-34 open Summer 2027 math roles, newest first (all 34). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 58 math internships on InternScout](https://internscout.org/internships/math/)
+35 open Summer 2027 math roles, newest first (all 35). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 59 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [AstraZeneca](https://internscout.org/internships/at/astrazeneca/) | Preclinical Mathematical Modeling Internship | US - Cambridge Kendall SQ - MA | \$37 per hour | Oct 24 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Preclinical-Mathematical-Modeling-Internship_R-262630) |
 | [Marsh](https://internscout.org/internships/at/marsh/) | Marsh Risk Early Career Program, Summer Intern 2027 – Actuarial Analytics, NYC and Chicago | New York - 1166 | \$28.50/hr | Oct 24 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Chicago---155-Wacker/Marsh-Risk-Early-Career-Program--Summer-Intern-2027---Actuarial-Analytics--NYC-and-Chicago_R_370673) |
 | [Everest](https://internscout.org/internships/at/everest/) | 2027 Everest Actuarial Internship Program | Warren, NJ | \$900 - 1,000 per week | Oct 22 | [Apply](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Everest-Actuarial-Internship-Program_R7399) |
+| [Definity Financial](https://internscout.org/internships/at/definity-financial/) | Actuarial Analyst - Summer 2027 Co-op/Intern | Waterloo, ONT, Canada | Paid | Oct 21 | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9445) |
 | [Aon](https://internscout.org/internships/at/aon/) | Early Careers: Retirement Actuarial Intern | Dallas, Texas | \$25.00 - \$35.00 hour | Oct 21 | [Apply](https://jobs.aon.com/jobs/105687) |
 | [Sun Life](https://internscout.org/internships/at/sun-life/) | Actuarial Intern - Summer 2027 | Wellesley Hills, Massachusetts +4 |  | Oct 17 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Wellesley-Hills-Massachusetts/Actuarial-Intern---Summer-2027_JR00127870) |
 | National Interstate Insurance | Actuarial Intern- Summer 2027 | Richfield, OH (USA) |  | Oct 9 | [Apply](https://gaig.wd1.myworkdayjobs.com/National_Interstate_External/job/Richfield-OH-USA/Actuarial-Intern--Summer-2027_R9665) |

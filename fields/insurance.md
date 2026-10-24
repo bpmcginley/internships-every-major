@@ -1,6 +1,6 @@
 # Insurance: Summer 2027 Internships
 
-120 open Summer 2027 insurance roles, newest first (all 120). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 237 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+121 open Summer 2027 insurance roles, newest first (all 121). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 239 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | Revantage Corporate Services | Insurance & Alternative Solutions Intern, Summer 2027 | Dallas, TX | \$25.00 To \$25.00 Hour | Oct 22 | [Apply](https://revantage.wd1.myworkdayjobs.com/Revantage/job/Dallas-TX/Insurance---Alternative-Solutions-Intern--Summer-2027_JR104457) |
 | [Everest](https://internscout.org/internships/at/everest/) | 2027 Underwriter Summer Internship Program | Warren, NJ +2 | \$800 - \$1,000 per week | Oct 22 | [Apply](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Underwriter-Summer-Internship-Program_R7400) |
 | [Everest](https://internscout.org/internships/at/everest/) | 2027 Everest Actuarial Internship Program | Warren, NJ | \$900 - 1,000 per week | Oct 22 | [Apply](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Everest-Actuarial-Internship-Program_R7399) |
+| [Definity Financial](https://internscout.org/internships/at/definity-financial/) | Actuarial Analyst - Summer 2027 Co-op/Intern | Waterloo, ONT, Canada | Paid | Oct 21 | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9445) |
 | [Aon](https://internscout.org/internships/at/aon/) | Early Careers: Retirement Actuarial Intern | Dallas, Texas | \$25.00 - \$35.00 hour | Oct 21 | [Apply](https://jobs.aon.com/jobs/105687) |
 | [Arch Capital Group](https://internscout.org/internships/at/arch-capital-group/) | Property Facultative Underwriting Summer Intern | Farmington, CT United States of America | Paid | Oct 21 | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/Farmington-CT-United-States-of-America/Property-Facultative-Underwriting-Summer-Intern_R26_824) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Commercial Lines Underwriting Internship - Summer 2027 | Fargo, ND |  | Oct 21 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Fargo-ND/Commercial-Lines-Underwriting-Internship---Summer-2027_R_14372) |

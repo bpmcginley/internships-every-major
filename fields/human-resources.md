@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-126 open Summer 2027 human resources roles, newest first (all 126). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 283 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+128 open Summer 2027 human resources roles, newest first (all 128). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 286 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Itron](https://internscout.org/internships/at/itron/) | Intern - HR AI Data Science (Summer 2027) | United States of America, Texas, Austin +1 |  | Oct 10 | [Apply](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034) |
 | [Clarios](https://internscout.org/internships/at/clarios/) | HR Intern (Summer 2027) | United States, Wisconsin, Milwaukee |  | Oct 10 | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/HR-Intern--Summer-2027-_WD50800) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Forward Deployed Engineer Intern (HR Technology) | Hybrid - New York, NY +1 | Paid | Oct 9 | [Apply](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510) |
-| [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Human Resource Intern | Sparks, Nevada +1 |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51651) |
+| [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Human Resource Intern | Sparks, Nevada |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51651) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Talent Management Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 8 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Talent-Management-Intern---Summer-2027---Franklin--TN_R00214299) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Dealer & Field Training Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 8 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Dealer---Field-Training-Intern---Summer-2027---Franklin--TN_R00214243) |
 | [Arc](https://internscout.org/internships/at/arc/) | People Operations Intern | Torrance, CA | \$32 per hour | Oct 7 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5447151008) |
@@ -41,6 +41,7 @@
 | Thrivent | Recruiting Specialist Intern - Summer 2027 | Remote-Minnesota-Minneapolis Metro +7 | \$23.00-\$26.00 per hour | Sep 30 | [Apply](https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota-Minneapolis-Metro/Recruiting-Specialist-Intern---Summer-2027_REQ-48512) |
 | [Pentair](https://internscout.org/internships/at/pentair/) | Human Resources Leadership Development Internship Program – Summer 2027 | Golden Valley, MN |  | Sep 30 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Human-Resources-Leadership-Development-Intern-Program---Summer-2027_R23699) |
 | [Piper Sandler](https://internscout.org/internships/at/piper-sandler/) | Campus Recruiting - 2027 Investment Banking Summer Analyst - Restructuring | New York, NY | \$110,000 per year | Sep 29 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/New-York-NY/Campus-Recruiting---2027-Investment-Banking-Summer-Analyst---Restructuring_R-100721) |
+| [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Human Resource Intern | De Soto, Kansas |  | Sep 28 | [Apply](https://careers.na.panasonic.com/jobs/51279) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: HR Compliance Intern | Northbrook, IL +1 | \$25.00 | Sep 28 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10729) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Human Resources | Baltimore, MD |  | Sep 28 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Human-Resources-MD-21230/1434321700/) |
 | [Highgate](https://internscout.org/internships/at/highgate/) | Intern - Human Resources (Summer 2027) | Key West, FL | Paid | Sep 28 | [Apply](https://externalhourly-highgate.icims.com/jobs/83232/intern/job) |
@@ -50,7 +51,8 @@
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern- Human Resources (Payroll/Benefits) | HOUSTON, Texas |  | Sep 24 | [Apply](https://careers.kindermorgan.com/jobs/6310) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern- Human Resources (Compensation) | HOUSTON, Texas |  | Sep 24 | [Apply](https://careers.kindermorgan.com/jobs/6309) |
 | [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Human Resources Intern- Buffalo, NY, Summer 2027 | Buffalo, NY | \$18-24/hour | Sep 24 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Buffalo-NY/Human-Resources-Intern--Buffalo--NY--Summer-2027_115886) |
-| [AMD](https://internscout.org/internships/at/amd/) | AI Research Infrastructure – Reinforcement Learning Post-Training Intern | Santa Clara, CA |  | Sep 21 | [Apply](https://careers.amd.com/jobs/90950?icims=1) |
+| [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 Master's AI Research, Reinforcement Learning and LLM Post-Training Intern | Santa Clara, California +1 |  | Sep 21 | [Apply](https://careers.amd.com/jobs/91013) |
+| [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 PhD AI Research Infrastructure, RL Post-Training Intern | Santa Clara, California +1 |  | Sep 21 | [Apply](https://careers.amd.com/jobs/90950) |
 | [AutoZone](https://internscout.org/internships/at/autozone/) | AutoZone 2027 Summer Internship – Human Resources | Memphis, TN |  | Sep 21 | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155429) |
 | [Post Holdings](https://internscout.org/internships/at/post-holdings/) | Talent Acquisition Intern Summer 2027 | New Albany, Ohio |  | Sep 18 | [Apply](https://jobs.postholdings.com/jobs/31978) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Talent Acquisition Intern Summer 2027 | Long Beach, CA |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990319003) |

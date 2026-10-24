@@ -1,6 +1,6 @@
 # Retail: Summer 2027 Internships
 
-212 open Summer 2027 retail roles, newest first (the 200 newest of 212). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 301 retail internships on InternScout](https://internscout.org/internships/retail/)
+212 open Summer 2027 retail roles, newest first (the 200 newest of 212). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 303 retail internships on InternScout](https://internscout.org/internships/retail/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -112,8 +112,8 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Global E-commerce-Search | Seattle, WA |  | Aug 10 | [Apply](https://lifeattiktok.com/search/7670839727059339525) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Fullstack Software Engineer Intern - Global E-Commerce | Seattle, WA +1 |  | Aug 7 | [Apply](https://lifeattiktok.com/search/7670700387322300677) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern, Data Arch - E-commerce | Seattle, WA |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7668582146236631349) |
-| [TikTok](https://internscout.org/internships/at/tiktok/) | Backend Software Engineer Intern, Global E-Commerce | San Jose, CA +1 |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7668834837268138293) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - Data Search Recommendation Global E-Commerce | Seattle, WA |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7668383643375257909) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Backend Software Engineer Intern - Global E-Commerce | San Jose, CA +1 |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7668834837268138293) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Data Architecture - E-commerce | Seattle, WA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7668582146236631349) |
 | Burlington Stores | Buying Intern - Summer 2027 | 00507 - California Corporate Buying Office | \$23 per hour | Oct 24 | [Apply](https://burlington.wd5.myworkdayjobs.com/BurlingtonCareers/job/00507---California-Corporate-Buying-Office/Buying-Intern---Summer-2027_R104358) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Retail Store Management Internship Summer 2027 - Hudson County, NJ | NJ - North Bergen +6 | \$20-\$22 per hour | Oct 24 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---North-Bergen/Retail-Store-Management-Internship-Summer-2027---Hudson-County--NJ_R1015468-1) |

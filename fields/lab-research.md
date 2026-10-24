@@ -1,9 +1,10 @@
 # Lab Research: Summer 2027 Internships
 
-15 open Summer 2027 lab research roles, newest first (all 15). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 110 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
+16 open Summer 2027 lab research roles, newest first (all 16). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 110 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Laboratory Automation Systems Intern | Spring House, Pennsylvania, United States of America +1 |  | Oct 24 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Automation-Systems-Intern_R-103027) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Pharmaceutical Lab Internship (Crystallization) Summer 2027 | El Segundo, California, United States | \$33.00 | Oct 21 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8040897003) |
 | [Genentech](https://internscout.org/internships/at/genentech/) | 2027 Summer Intern - Product Technical Development - Laboratory (Wet-Lab or Dry-Lab) Focus | South San Francisco, CA | \$2500 | Oct 21 | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Product-Technical-Development---Laboratory--Wet-Lab-or-Dry-Lab--Focus_202610-126499) |
 | Sony | Research Engineer Intern, Ethical Creative and Protective AI Lab | Remote |  | Oct 20 | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784) |

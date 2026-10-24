@@ -1,6 +1,6 @@
 # Sustainability: Summer 2027 Internships
 
-95 open Summer 2027 sustainability roles, newest first (all 95). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 146 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+96 open Summer 2027 sustainability roles, newest first (all 96). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 147 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -48,9 +48,10 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Strategic/Systems Intern - Morris, IL | Morris, Illinois | Paid | Sep 30 | [Apply](https://jobs.constellationenergy.com/jobs/139584) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - ESG & Sustainable Finance Intern | Toronto, Ontario | \$39,000.00 | Sep 29 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---ESG---Sustainable-Finance-Intern_JR26091126) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Climate Center (Reston, VA; Arlington, VA; New York, NY) | Reston, VA +2 | \$23 per hour | Sep 26 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Climate-Center--Reston--VA--Arlington--VA--New-York--NY-_R2603250) |
+| [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | Asheville, North Carolina | \$20.00 | Sep 25 | [Apply](https://careers.trccompanies.com/jobs/26953) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Renewable Energy Civil Intern (Summer 2027) | Minneapolis, MN |  | Sep 25 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008002) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Renewable Energy Civil Intern (Summer 2027) | Chicago, IL |  | Sep 25 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008000) |
-| [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | Seattle, Washington +2 | \$20.00 | Sep 25 | [Apply](https://careers.trccompanies.com/jobs/26950) |
+| [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | Seattle, Washington +1 | \$20.00 | Sep 25 | [Apply](https://careers.trccompanies.com/jobs/26950) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Technical Internship - Oswego, NY (ASSOCIATE'S DEGREE ONLY) | Oswego, New York | Paid | Sep 24 | [Apply](https://jobs.constellationenergy.com/jobs/139373) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Intern – Corporate Environmental and Sustainability (EHS) | Pittsburgh, PA |  | Sep 23 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119566) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Transportation Co-op/Intern - Fuel System (Summer 2027) | Portland, ME +1 |  | Sep 22 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007908) |
@@ -63,7 +64,7 @@
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Gas Pipelines (New Caney, TX) | NEW CANEY, Texas |  | Sep 14 | [Apply](https://careers.kindermorgan.com/jobs/6226) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Corporate Systems HRIT Intern (Remote) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138709) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Sustainability and Climate Strategy Intern (Remote) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138731) |
-| [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | ESG Intern | Houston, TX |  | Sep 11 | [Apply](https://careers.kindermorgan.com/jobs/6176?icims=1) |
+| [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern -ESG | HOUSTON, Texas +1 |  | Sep 11 | [Apply](https://careers.kindermorgan.com/jobs/6176) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Land and Right of Way (OSG) | HOUSTON, Texas |  | Sep 11 | [Apply](https://careers.kindermorgan.com/jobs/6183) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Gas Storage | HOUSTON, Texas |  | Sep 11 | [Apply](https://careers.kindermorgan.com/jobs/6212) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Origination Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 10 | [Apply](https://jobs.constellationenergy.com/jobs/138758) |

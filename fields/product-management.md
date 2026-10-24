@@ -1,6 +1,6 @@
 # Product Management: Summer 2027 Internships
 
-169 open Summer 2027 product management roles, newest first (all 169). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 281 product management internships on InternScout](https://internscout.org/internships/product-management/)
+167 open Summer 2027 product management roles, newest first (all 167). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 280 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -104,13 +104,14 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem | San Jose, CA |  | Sep 3 | [Apply](https://lifeattiktok.com/search/7677493272788683013) |
 | [Roblox](https://internscout.org/internships/at/roblox/) | \[Summer 2027\] Product Management Intern | San Mateo, CA, United States +1 | Paid | Sep 2 | [Apply](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) |
 | [Atlassian](https://internscout.org/internships/at/atlassian/) | Product Management Intern | SF |  | Sep 2 | [Apply](https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job) |
-| [AMD](https://internscout.org/internships/at/amd/) | Product Management Intern/Co-op - Multiple Teams | Calgary, AB, Canada |  | Sep 1 | [Apply](https://careers.amd.com/jobs/90411?icims=1) |
+| [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 Long Term Product Management Intern/Co-Op | CALGARY, Alberta, Canada +1 |  | Sep 1 | [Apply](https://careers.amd.com/jobs/90411) |
+| [AMD](https://internscout.org/internships/at/amd/) | Short Term 2027 Program Management Intern/Co-Op | CALGARY, Alberta, Canada |  | Sep 1 | [Apply](https://careers.amd.com/jobs/91365) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Masters Summer Internship Program - 2027 Product Management, Global Merchant & Network Services - New Y… | New York, NY +1 | Paid | Sep 1 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012636) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Masters Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- Ph… | Phoenix, AZ |  | Sep 1 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012681) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Masters Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- Ne… | New York, NY +1 |  | Sep 1 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012057) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Campus Undergraduate Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- New Y… | New York, NY +1 |  | Sep 1 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011143) |
 | [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 Long Term Program Management Intern/Co-Op | MARKHAM, Ontario, Canada |  | Sep 1 | [Apply](https://careers.amd.com/jobs/90414) |
-| [AMD](https://internscout.org/internships/at/amd/) | Short Term 2027 Program Management Intern/Co-Op | MARKHAM, Ontario, Canada +1 |  | Sep 1 | [Apply](https://careers.amd.com/jobs/91364) |
+| [AMD](https://internscout.org/internships/at/amd/) | Short Term 2027 Program Management Intern/Co-Op | MARKHAM, Ontario, Canada |  | Sep 1 | [Apply](https://careers.amd.com/jobs/91364) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Masters Summer Internship Program - 2027 Product Management, Global Merchant & Network Services - Phoen… | Phoenix, AZ |  | Sep 1 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012638) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Masters Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- Su… | Sunrise, FL |  | Sep 1 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012145) |
 | Blackhawk Network Holdings | Product Management Intern | Pleasanton, CA |  | Aug 31 | [Apply](https://careers-blackhawknetwork.icims.com/jobs/26869/job?mobile=true&needsRedirect=false) |
@@ -126,9 +127,7 @@
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Product Management (New York, NY) | New York, NY +1 |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81345) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | AI Product Manager Intern - Product Social | San Jose, CA |  | Aug 22 | [Apply](https://lifeattiktok.com/search/7675616554318596357) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Product Manager Intern - Content and Service Ads | San Jose, CA |  | Aug 22 | [Apply](https://lifeattiktok.com/search/7676283436713593093) |
-| [Vertiv](https://internscout.org/internships/at/vertiv/) | Product Management Intern | Westerville, OH |  | Aug 21 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Product Management Intern, MBA | Delaware, OH |  | Aug 21 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278958) |
-| [American Express](https://internscout.org/internships/at/american-express/) | Product Management Intern, Global Merchant & Network Services | Phoenix, AZ |  | Aug 21 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148) |
 | [Datadog](https://internscout.org/internships/at/datadog/) | Product Management Intern | New York, New York, USA +1 | \$100,000 | Aug 17 | [Apply](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Product Manager Intern - Content and Services | San Jose, CA |  | Aug 14 | [Apply](https://lifeattiktok.com/search/7673337777708550405) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Product Manager Intern - Scaled Growth | San Jose, CA |  | Aug 14 | [Apply](https://lifeattiktok.com/search/7673559305519794437) |
@@ -141,9 +140,8 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | AI Agent Product Manager Intern - Product Infrastructure-Customer Service Platform | San Jose, CA |  | Aug 7 | [Apply](https://lifeattiktok.com/search/7670010726514493749) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Strategy Product Manager Intern - Platform Responsibility | San Jose, CA |  | Aug 6 | [Apply](https://lifeattiktok.com/search/7670420287191517493) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Product Management Intern - Global Merchant & Network Services | NYC |  | Aug 5 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012152) |
+| [American Express](https://internscout.org/internships/at/american-express/) | Product Management Intern - Global Merchant & Network Services | Phoenix, AZ |  | Aug 5 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Product Development Intern - US Consumer Services | NYC |  | Aug 4 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012174) |
-| [Microsoft](https://internscout.org/internships/at/microsoft/) | Product Manager Intern | Redmond, WA +1 |  | Aug 4 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556953113) |
-| [American Express](https://internscout.org/internships/at/american-express/) | Product Management Intern | New York, NY +1 |  | Aug 4 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Recommendation Product Manager Intern - Content Ecosystem | San Jose, CA |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7667874197682899205) |
 | [Uline](https://internscout.org/internships/at/uline/) | Product Management Intern | Waukegan, IL +4 |  | Aug 3 | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2027_R265939) |
 | [Appian](https://internscout.org/internships/at/appian/) | Product Manager Intern | McLean, VA |  | Jul 24 | [Apply](https://careers.appian.com/jobs/8041243-product-manager-intern-) |

@@ -1,6 +1,6 @@
 # Marketing: Summer 2027 Internships
 
-266 open Summer 2027 marketing roles, newest first (the 200 newest of 266). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 707 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+266 open Summer 2027 marketing roles, newest first (the 200 newest of 266). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 710 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -136,8 +136,8 @@
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship - Marketing MBA | New York, NY |  | Sep 21 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92294) |
 | [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Product Marketing Intern - Summer 2027 | Pella, IA |  | Sep 21 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253576) |
 | [Alliance Laundry Systems](https://internscout.org/internships/at/alliance-laundry-systems/) | Trade Marketing Specialist Intern | United States |  | Sep 21 | [Apply](https://uscareeropenings-alliancelaundry.icims.com/jobs/13216/trade-marketing-specialist-intern/job) |
-| [AMD](https://internscout.org/internships/at/amd/) | Technical Marketing Performance Analysis Intern/Co-op | Markham, ON, Canada |  | Sep 16 | [Apply](https://careers.amd.com/jobs/91953?icims=1) |
 | [Protective Life](https://internscout.org/internships/at/protective-life/) | 2027 Communications Summer Internship Program | Birmingham, AL |  | Sep 16 | [Apply](https://jobs.lever.co/protective/76d37442-da84-4bcf-b9f3-66f9880db597/apply) |
+| [AMD](https://internscout.org/internships/at/amd/) | Short Term 2027 Technical Marketing - Performance Analysis Intern/Co-Op | MARKHAM, Ontario, Canada +1 |  | Sep 16 | [Apply](https://careers.amd.com/jobs/91953) |
 | [Emergent Holdings](https://internscout.org/internships/at/emergent-holdings/) | Summer 2027 Intern - Program Oversight/Marketing Compliance | Detroit, MI |  | Sep 16 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14772) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Digital Marketing Intern – Summer 2027 | Addison, TX +1 | Paid | Sep 14 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403684009) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Customer Experience and Transformation Intern – Summer 2027 | Addison, TX +1 | Paid | Sep 14 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403604009) |
@@ -176,10 +176,10 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Product Manager Intern - Scaled Growth | San Jose, CA |  | Aug 14 | [Apply](https://lifeattiktok.com/search/7673559305519794437) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Data Science Intern - Advertisement Team | San Jose, CA |  | Aug 13 | [Apply](https://lifeattiktok.com/search/7673226686054107445) |
 | [Mortenson](https://internscout.org/internships/at/mortenson/) | Marketing Intern - Chicago | Itasca, IL | Paid | Aug 10 | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23374) |
-| [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern, Creative Intelligence and Brand Innovation | San Jose, CA |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7668642761473902901) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern, Growth Innovation | San Jose, CA |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7667934860750063925) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - Brand Ads | San Jose, CA |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7668654528822954245) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Backend Software Engineer Intern - Innovative Growth | San Jose, CA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7667934860750063925) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Creative Intelligence and Brand Innovation | San Jose, CA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7668642761473902901) |
 | [Uline](https://internscout.org/internships/at/uline/) | Marketing Intern | Waukegan, IL +4 |  | Aug 3 | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Marketing-Internship---Summer-2027_R265940) |
 | Poshmark | Cloud Platform Engineer Intern, Growth | Redwood City, CA |  | Apr 20 | [Apply](https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Marketing Intern (Events & Content Small Scale) | Niles, IL | \$23-\$43 per hour | Oct 24, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5023/global-marketing-intern-%28events-%26-content-small-scale%29/job) |
