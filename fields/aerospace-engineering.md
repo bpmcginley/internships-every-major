@@ -1,6 +1,6 @@
 # Aerospace Engineering: Summer 2027 Internships
 
-34 open Summer 2027 aerospace engineering roles, newest first (all 34). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 71 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
+33 open Summer 2027 aerospace engineering roles, newest first (all 33). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 70 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -18,7 +18,6 @@
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Avionics Software Internship - Graduate | Los Angeles, CA +3 | \$38.00 | Oct 14 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Graduate_R71423) |
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Avionics Software Internship - Undergraduate | Denver, CO +4 | \$32.00 | Oct 14 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Undergraduate_R71424) |
 | [The Aerospace Corporation](https://internscout.org/internships/at/the-aerospace-corporation/) | 2027 Aerospace Returning Interns | El Segundo, CA +9 | \$18.00 - \$48.00 | Oct 7 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Returning-Interns_R016174) |
-| Varda Space | Avionics Engineering Intern | El Segundo, CA |  | Oct 1 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010158003) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Avionics Engineering Internship - Summer 2027 | El Segundo, California, United States | \$33.00 | Oct 1 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010158003) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Propulsion Engineering Internship - Summer 2027 | El Segundo, California, United States | \$33.00 | Oct 1 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010169003) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Propulsion Engineer Intern (Summer 2027) | San Francisco |  | Sep 23 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4713184006) |

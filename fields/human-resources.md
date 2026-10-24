@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-128 open Summer 2027 human resources roles, newest first (all 128). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 285 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+126 open Summer 2027 human resources roles, newest first (all 126). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 283 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -51,8 +51,6 @@
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern- Human Resources (Compensation) | HOUSTON, Texas |  | Sep 24 | [Apply](https://careers.kindermorgan.com/jobs/6309) |
 | [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Human Resources Intern- Buffalo, NY, Summer 2027 | Buffalo, NY | \$18-24/hour | Sep 24 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Buffalo-NY/Human-Resources-Intern--Buffalo--NY--Summer-2027_115886) |
 | [AMD](https://internscout.org/internships/at/amd/) | AI Research Infrastructure – Reinforcement Learning Post-Training Intern | Santa Clara, CA |  | Sep 21 | [Apply](https://careers.amd.com/jobs/90950?icims=1) |
-| [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 Master's AI Research, Reinforcement Learning and LLM Post-Training Intern | Santa Clara, California |  | Sep 21 | [Apply](https://careers.amd.com/jobs/91013) |
-| [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 PhD AI Research Infrastructure, RL Post-Training Intern | Santa Clara, California |  | Sep 21 | [Apply](https://careers.amd.com/jobs/90950) |
 | [AutoZone](https://internscout.org/internships/at/autozone/) | AutoZone 2027 Summer Internship – Human Resources | Memphis, TN |  | Sep 21 | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155429) |
 | [Post Holdings](https://internscout.org/internships/at/post-holdings/) | Talent Acquisition Intern Summer 2027 | New Albany, Ohio |  | Sep 18 | [Apply](https://jobs.postholdings.com/jobs/31978) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Talent Acquisition Intern Summer 2027 | Long Beach, CA |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990319003) |

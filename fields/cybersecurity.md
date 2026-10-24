@@ -1,6 +1,6 @@
 # Cybersecurity: Summer 2027 Internships
 
-117 open Summer 2027 cybersecurity roles, newest first (all 117). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 241 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+116 open Summer 2027 cybersecurity roles, newest first (all 116). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 239 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -17,7 +17,6 @@
 | [Adobe](https://internscout.org/internships/at/adobe/) | 2027 Intern - Security Engineer | San Jose +1 | \$38.00 - \$51.00 hour | Oct 21 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001) |
 | [Centene](https://internscout.org/internships/at/centene/) | Cybersecurity Summer 2027 Intern (Undergraduate) | Remote-MO | \$21.00 - \$26.00 per hour | Oct 21 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514) |
 | Illumio | Engineering Intern, Product Security | Sunnyvale, CA |  | Oct 20 | [Apply](https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d) |
-| [Centene Corporation](https://internscout.org/internships/at/centene/) | Cybersecurity Intern | Remote |  | Oct 20 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514) |
 | T-Mobile | Software Engineer Intern, Cloud Security | Atlanta, GA +1 |  | Oct 20 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineer---Cloud-Security-Summer-Internship_REQ379190) |
 | [Northrop Grumman](https://internscout.org/internships/at/northrop-grumman/) | Cyber Systems Engineer Intern | Tampa, FL |  | Oct 20 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196) |
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - Software Engineer (Security/Government) | California - San Francisco +3 | \$43 - \$52 per hour | Oct 20 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1) |
@@ -34,7 +33,7 @@
 | [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Information Security Operations Analyst | Atlanta Suwanee 1 DC1, GA |  | Oct 15 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-GA-Atlanta-Suwanee-1-DC1/Summer-2027-Internship--Information-Security-Operations-Analyst_R2026-2273) |
 | [HF Sinclair](https://internscout.org/internships/at/hf-sinclair/) | Cybersecurity Intern | Dallas, TX |  | Oct 14 | [Apply](https://careers.hfsinclair.com/job/Dallas-Cybersecurity-Intern-TX-75219/1430070200/) |
 | [Draper](https://internscout.org/internships/at/draper/) | Classified Cybersecurity/IT Internship (Summer 2027) | Cambridge, MA | \$20.00 - \$45.00 | Oct 14 | [Apply](https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021) |
-| [Bosch](https://internscout.org/internships/at/bosch/) | Information Security and Privacy Intern | Farmington Hills, MI |  | Oct 13 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155120934) |
+| Bosch | Information Security and Privacy Intern | Farmington Hills, MI |  | Oct 13 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155120934) |
 | [General Dynamics Mission Systems, Inc.](https://internscout.org/internships/at/general-dynamics-mission-systems-inc/) | Cyber Engineering Intern (Summer 2027) | Middletown, RI | \$27.50 | Oct 13 | [Apply](https://careers-gdms.icims.com/jobs/75514/cyber-engineering-intern-%28summer-2027%29/job) |
 | [Expedia Group](https://internscout.org/internships/at/expedia-group/) | Security Engineering Intern - 2027 - Seattle | Washington - Seattle Campus +1 | \$45 per hour | Oct 13 | [Apply](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Security-Engineering-Intern---2027---Seattle_R-110310-1) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: Cyber Security Intern | Northbrook, IL | \$28.50 | Oct 12 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11186) |

@@ -1,6 +1,6 @@
 # Urban Planning: Summer 2027 Internships
 
-51 open Summer 2027 urban planning roles, newest first (all 51). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 111 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+49 open Summer 2027 urban planning roles, newest first (all 49). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 108 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -12,11 +12,9 @@
 | [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | GIS, Grid Data Intern - MN | Minneapolis, MN, 55418 +1 |  | Oct 21 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Grid-Data-Intern---MN_JR115742-1) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Product Planning Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 17 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Product-Planning---Summer-2027---Franklin--TN_R00214298) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Aftersales Business Planning Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 15 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Aftersales-Business-Planning-Intern---Summer-2027---Franklin--TN_R00214226) |
-| [Nissan Global](https://internscout.org/internships/at/nissan-global/) | Aftersales Business Planning Intern | Franklin, TN |  | Oct 14 | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Aftersales-Business-Planning-Intern---Summer-2027---Franklin--TN_R00214226) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Community Development Finance/Loan Origination (Boston, MA) | Boston, Massachusetts | \$18.14/hr | Oct 13 | [Apply](https://firstcitizens.jibeapply.com/jobs/35966) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | RPP Supply Planning Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 13 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/RPP-Supply-Planning-Intern---Summer-2027---Franklin--TN_R00214294) |
 | [URBN](https://internscout.org/internships/at/urbn/) | Anthropologie Merchandise Planning Intern | Philadelphia, PA | Paid | Oct 9 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/33590/anthropologie-merchandise-planning-intern/job) |
-| [Nissan Global](https://internscout.org/internships/at/nissan-global/) | Product Planning Intern | Franklin, TN |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Product-Planning-Intern---Summer-2027---Franklin--TN_R00214297) |
 | [Clēnera](https://internscout.org/internships/at/cl-nera/) | Investment Planning Intern (Summer 2027) | Boise, Idaho, United States |  | Oct 6 | [Apply](https://job-boards.greenhouse.io/clenera/jobs/5259353007) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Community Development (Summer 2027) | Portland, OR |  | Oct 5 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008051) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Transportation Planning Intern – Summer 2027 | New York, NY |  | Oct 2 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/New-York-NY/Transportation-Planning-Intern---Summer-2027_R-31830-1) |

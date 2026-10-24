@@ -1,6 +1,6 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-274 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 274). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 891 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+271 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 271). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 884 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -86,7 +86,6 @@
 | [Nissan](https://internscout.org/internships/at/nissan/) | Trim & Chassis Manufacturing Engineering Intern - Summer 2027 - Canton, MS | Canton, Mississippi - United States of America |  | Oct 9 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Canton-Mississippi---United-States-of-America/Trim---Chassis-Manufacturing-Engineering-Intern---Summer-2027---Canton--MS_R00214255) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Manufacturing Engineering Intern | Sparks, Nevada +1 |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51638) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Summer 2027: Mechanical Engineering Intern, Shark (May to August) | Needham, MA, United States | \$30/hr | Oct 8 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718812006) |
-| [Nissan Global](https://internscout.org/internships/at/nissan-global/) | Manufacturing Digital Data Intern | Decherd, TN |  | Oct 8 | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881) |
 | [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Digital Manufacturing Operations Engineer (Summer 2027) | Neenah, WI |  | Oct 8 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Digital-Manufacuring-Opetiations-Engineer--Summer-2027-_R041222) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | Manufacturing Associate Intern – Winslow, Maine (Summer 2027) | Winslow, ME | \$20-\$40/hour | Oct 8 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Winslow-ME/Manufacturing-Associate-Intern---Winslow--Maine--Summer-2027-_R0027460) |
 | [Arc](https://internscout.org/internships/at/arc/) | Mechanical Engineering Intern - Recreational | Torrance, CA | \$36 per hour | Oct 7 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5445312008) |
@@ -187,7 +186,6 @@
 | [Hermeus](https://internscout.org/internships/at/hermeus/) | Mechanical Engineering Intern - Summer/Fall 2027 | Los Angeles, CA |  | Aug 31 | [Apply](https://jobs.lever.co/hermeus/1bc5c858-1b04-4093-80a0-2ba3491afc60/apply) |
 | Lexington Medical | Manufacturing Engineering Intern | Bedford, MA | Paid | Aug 31 | [Apply](https://job-boards.greenhouse.io/lexingtonmedical/jobs/5404584008) |
 | [Stryten](https://internscout.org/internships/at/stryten/) | Industrial or Mechanical Engineering Intern | Salina, KS |  | Aug 31 | [Apply](https://jobs.stryten.com/jobs/5809?icims=1) |
-| [Stryten](https://internscout.org/internships/at/stryten/) | 2027 Summer Intern - Industrial or Mechanical Engineer | Salina, Kansas | Paid | Aug 30 | [Apply](https://jobs.stryten.com/jobs/5809) |
 | [Shield AI](https://internscout.org/internships/at/shield-ai/) | Summer 2027 - Advanced Manufacturing Engineering Intern | Dallas, Texas +1 | Paid | Aug 27 | [Apply](https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a/apply) |
 | [Hoffman Construction](https://internscout.org/internships/at/hoffman-construction/) | CAD/Modeling Technician Intern Summer 2027 | Childress, TX |  | Aug 26 | [Apply](https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1474) |
 | [Hoffman Construction](https://internscout.org/internships/at/hoffman-construction/) | CAD/Modeling Technician Intern Summer 2027 | Boise, ID |  | Aug 26 | [Apply](https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1473) |
@@ -198,12 +196,14 @@
 | [Springs Window Fashions](https://internscout.org/internships/at/springs-window-fashions/) | Mechanical Engineering Internship - Summer 2027 | LONG ISLAND CITY, NY | \$25.00/hr | Aug 22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12890/mechanical-engineering-internship---summer-2027/job) |
 | [AMD](https://internscout.org/internships/at/amd/) | Product Development Engineering Intern/Co-op | Rochester, NY +5 |  | Aug 21 | [Apply](https://careers.amd.com/jobs/91228?icims=1) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Manufacturing Engineering | Los Angeles, CA | \$30–\$40 per hour | Aug 20 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5376060008) |
-| [AMD](https://internscout.org/internships/at/amd/) | 2027 Masters Product Development Engineering Intern/Co-op | Austin, Texas +5 |  | Aug 20 | [Apply](https://careers.amd.com/jobs/91228) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 Undergrad Product Development Engineering Intern/Co-op | Austin, Texas +5 |  | Aug 20 | [Apply](https://careers.amd.com/jobs/91227) |
 | [Freeform](https://internscout.org/internships/at/freeform/) | Manufacturing Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | \$30/hour | Aug 19 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895700003) |
 | [Freeform](https://internscout.org/internships/at/freeform/) | Mechanical Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | \$30/hour | Aug 18 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894117003) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors - Mechanical Engineering Intern | Wadsworth, Ohio | \$38.20 | Aug 18 | [Apply](https://careers.cdmsmith.com/jobs/4035) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Mechanical Engineer Intern (Summer 2027) | San Francisco |  | Aug 14 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704601006) |
+| [Astranis](https://internscout.org/internships/at/astranis/) | CAD Engineer Intern (Summer 2027) | San Francisco | \$29.00 per hour | Aug 14 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704742006) |
+| [Vertiv](https://internscout.org/internships/at/vertiv/) | Mechanical Engineering Intern (Summer 2027) | United States +1 |  | Aug 12 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278503) |
+| [Vertiv](https://internscout.org/internships/at/vertiv/) | Thermal Engineer Intern - Summer 2027 | Westerville, OH |  | Aug 10 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

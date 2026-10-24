@@ -1,6 +1,6 @@
 # Sales: Summer 2027 Internships
 
-308 open Summer 2027 sales roles, newest first (the 200 newest of 308). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 561 sales internships on InternScout](https://internscout.org/internships/sales/)
+307 open Summer 2027 sales roles, newest first (the 200 newest of 307). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 560 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -96,7 +96,6 @@
 | [Nissan](https://internscout.org/internships/at/nissan/) | Sales & Marketing Intern - Somerset, NJ - Summer 2027 | Somerset, New Jersey - United States of America |  | Oct 8 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Somerset-New-Jersey---United-States-of-America/Sales---Marketing-Intern---Somerset--NJ---Summer-2027_R00214229) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | NMAC Sales Ops Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 8 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/NMAC-Sales-Ops-Intern---Summer-2027---Franklin--TN_R00214222) |
 | [Haleon](https://internscout.org/internships/at/haleon/) | 2027 Summer Intern: Expert Sales | Home Worker - USA | \$26.00/hour | Oct 8 | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Home-Worker---USA/XMLNAME-2027-Summer-Intern--Expert-Sales_548437) |
-| [Nissan Global](https://internscout.org/internships/at/nissan-global/) | Connected Car Business Development Intern | Franklin, TN |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Connected-Car-Business-Development-Intern---Summer-2027---Franklin--TN_R00214270) |
 | CNO Financial Group | Sales Enablement Intern - REMOTE | Carmel, IN +3 | \$21-\$23 Hour | Oct 7 | [Apply](https://cnoinc.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Worksite-Intern-REMOTE_JR170502) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer C&I Gas Sales Intern (Remote in IA) | Des Moines, Iowa |  | Oct 7 | [Apply](https://jobs.constellationenergy.com/jobs/139801) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | Management and Sales Summer Internship 2027 (Cleveland) | Cleveland, OH +47 |  | Oct 6 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620625) |
@@ -204,6 +203,7 @@
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Sales Data Analytics Intern | Westerville, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279291) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Sales Data Analytics Intern - Summer 2027 | Westerville, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279293) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Technical Sales Engineering Intern - IT Channel (Summer 2027) | Columbus, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278722) |
+| [StepStone Group](https://internscout.org/internships/at/stepstone-group/) | 2027 Venture Capital Business Development Summer Associate | Baltimore | \$105,000 / year | Aug 3 | [Apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8095092) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

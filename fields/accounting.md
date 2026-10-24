@@ -1,6 +1,6 @@
 # Accounting: Summer 2027 Internships
 
-236 open Summer 2027 accounting roles, newest first (the 200 newest of 236). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 570 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+236 open Summer 2027 accounting roles, newest first (the 200 newest of 236). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 569 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

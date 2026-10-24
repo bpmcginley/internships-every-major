@@ -1,6 +1,6 @@
 # Supply Chain: Summer 2027 Internships
 
-226 open Summer 2027 supply chain roles, newest first (the 200 newest of 226). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 499 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
+225 open Summer 2027 supply chain roles, newest first (the 200 newest of 225). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 497 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -52,7 +52,6 @@
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Enterprise Sourcing (Raleigh, NC) | Raleigh, North Carolina |  | Oct 13 | [Apply](https://firstcitizens.jibeapply.com/jobs/35907) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Purchasing Aftersales Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 13 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Purchasing-Aftersales-Intern---Summer-2027---Franklin--TN_R00214278) |
 | [GE Aerospace](https://internscout.org/internships/at/ge-aerospace/) | Supply Chain Operations Intern – US – Summer 2027 - Returning Students | Durham +6 | \$24/hour | Oct 13 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Supply-Chain-Operations-Intern---US---Summer-2027---Returning-Students_R5030084-1) |
-| [Nissan Global](https://internscout.org/internships/at/nissan-global/) | Purchasing Aftersales Intern | Franklin, TN |  | Oct 12 | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Purchasing-Aftersales-Intern---Summer-2027---Franklin--TN_R00214278) |
 | Medline | MBA Intern, Inventory Management - Summer 2027 | Northbrook, Illinois | \$92,000.00 - \$138,000.00 | Oct 10 | [Apply](https://medline.wd5.myworkdayjobs.com/Medline/job/Northbrook-Illinois/MBA-Intern--Inventory-Management---Summer-2027_R2618177) |
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Operations & Supply Chain Intern - Summer 2027 | Erie, PA |  | Oct 9 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Operations---Supply-Chain-Intern---Summer-2027_REQ-020114) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Procurement Intern - Infrastructure Solutions (Summer 2027) | Greenville, SC +1 |  | Oct 9 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279203) |
@@ -204,6 +203,7 @@
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Supply Chain - Michigan | Portage, Michigan |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Supply-Chain---Michigan_R572585) |
 | [Church & Dwight](https://internscout.org/internships/at/church-dwight/) | 2027 Undergraduate Global Supply Chain Co-Op | Ewing, NJ |  | Sep 18 | [Apply](https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/XMLNAME-2027-Undergraduate-Global-Supply-Chain-Co-Op_R2026-15617) |
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | UPS Supply Chain Solutions 2027 Summer Intern | US - UPS CORPORATE OFFICES (GACOR) |  | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Supply-Chain-Solutions-2027-Summer-Intern_R26030498) |
+| [Ingredion](https://internscout.org/internships/at/ingredion/) | Global Supply Chain Data Science Intern | Westchester, IL | \$20-23hour | Sep 18 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Supply-Chain-Data-Science-Intern_Req-40226-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

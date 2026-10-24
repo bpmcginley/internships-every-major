@@ -1,6 +1,6 @@
 # Operations: Summer 2027 Internships
 
-403 open Summer 2027 operations roles, newest first (the 200 newest of 403). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 942 operations internships on InternScout](https://internscout.org/internships/operations/)
+400 open Summer 2027 operations roles, newest first (the 200 newest of 400). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 939 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -134,7 +134,6 @@
 | [Cencora](https://internscout.org/internships/at/cencora/) | Intern, Implementation Project Manager | Carrollton, TX |  | Oct 2 | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Carrollton-TX/Intern--Implementation-Project-Manager_R2613743) |
 | [C&S Wholesale Grocers](https://internscout.org/internships/at/c-s-wholesale-grocers/) | Operations Safety Intern- Summer 2027 | Keene, NH +4 |  | Oct 2 | [Apply](https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Keene-NH/Operations-Safety-Intern--Summer-2027_R-268779) |
 | [DuCharme, McMillen & Associates](https://internscout.org/internships/at/ducharme-mcmillen-associates/) | IT Quality Assurance Intern - Summer 2027 | Lisle, IL |  | Oct 2 | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Lisle-IL/IT-Quality-Assurance-Intern---Summer-2027_REQ657) |
-| Varda Space | Mission Operations Intern - Summer 2027 | El Segundo, CA |  | Oct 1 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010682003) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Mission Operations Internship - Summer 2027 | El Segundo, California, United States | \$37.00 | Oct 1 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010682003) |
 | [Garmin](https://internscout.org/internships/at/garmin/) | Project Manager Intern - Global Partnerships & Engineering Business Development | Olathe, Kansas |  | Oct 1 | [Apply](https://careers.garmin.com/jobs/20134) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Procurement Intern Summer 2027 | Pittsburgh, PA |  | Oct 1 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119768) |
@@ -186,10 +185,8 @@
 | [AutoZone](https://internscout.org/internships/at/autozone/) | AutoZone 2027 Summer Internship – Store Operations | Memphis, TN |  | Sep 21 | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155441) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Production Quality Intern (Summer 2027) | San Francisco |  | Sep 18 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705675006) |
 | [Republic Airways](https://internscout.org/internships/at/republic-airways/) | Strategic Operations Intern | Carmel, IN |  | Sep 17 | [Apply](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Strategic-Operations-Intern---Summer-2027_JR-007635) |
-| Cyvl | Data Operations Intern - Summer 2027 | Boston, MA +1 |  | Sep 16 | [Apply](https://jobs.ashbyhq.com/cyvl/f44bb1cf-7100-46f7-b3c2-6d2a566d4b0d/application?embed=true) |
 | AI Intern to the CEO | Data Operations Intern (Summer 2027) | Boston, Massachusetts +1 |  | Sep 16 | [Apply](https://jobs.ashbyhq.com/cyvl/f44bb1cf-7100-46f7-b3c2-6d2a566d4b0d/application) |
 | [Emergent Holdings](https://internscout.org/internships/at/emergent-holdings/) | Summer 2027 Intern - Project/Portfolio/Operations | Detroit, MI |  | Sep 16 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14709) |
-| Five Rings Capital | Trading Operations Engineer Intern | NYC |  | Sep 15 | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008) |
 | Five Rings | Summer 2027 - Trading Operations Engineer Intern | New York | \$300,000 | Sep 15 | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008) |
 | [SimVentions](https://internscout.org/internships/at/simventions/) | 2027 Business Operations Intern | Fredericksburg, Virginia | \$18.00 - \$22.00/Hour | Sep 15 | [Apply](https://simventions.jibeapply.com/jobs/1637) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern Gas Pipelines Operations (SHERIDAN, TX) | SHERIDAN, Texas |  | Sep 15 | [Apply](https://careers.kindermorgan.com/jobs/6279) |
@@ -204,6 +201,9 @@
 | [Highgate](https://internscout.org/internships/at/highgate/) | Intern- Operations (Summer 2027) | Boston, MA | Paid | Sep 14 | [Apply](https://externalhourly-highgate.icims.com/jobs/82558/intern/job) |
 | [Highgate](https://internscout.org/internships/at/highgate/) | Intern- Operations (Summer 2027) | FT. Worth, TX | Paid | Sep 14 | [Apply](https://externalhourly-highgate.icims.com/jobs/82570/intern/job) |
 | [Highgate](https://internscout.org/internships/at/highgate/) | Intern- Operations (Summer 2027) | Seattle, WA | Paid | Sep 14 | [Apply](https://externalhourly-highgate.icims.com/jobs/82572/intern/job) |
+| [Highgate](https://internscout.org/internships/at/highgate/) | Intern- Operations (Summer 2027) | Philadelphia, PA | Paid | Sep 14 | [Apply](https://externalhourly-highgate.icims.com/jobs/82557/intern/job) |
+| [Highgate](https://internscout.org/internships/at/highgate/) | Intern- Operations (Summer 2027) | San Francisco, CA | Paid | Sep 14 | [Apply](https://externalhourly-highgate.icims.com/jobs/82571/intern/job) |
+| [Highgate](https://internscout.org/internships/at/highgate/) | Intern- Operations (Summer 2027) | Miami, FL | Paid | Sep 14 | [Apply](https://externalhourly-highgate.icims.com/jobs/82561/intern/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

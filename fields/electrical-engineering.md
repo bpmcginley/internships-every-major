@@ -1,6 +1,6 @@
 # Electrical Engineering: Summer 2027 Internships
 
-222 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 222). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 610 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+219 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 219). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 602 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -124,7 +124,6 @@
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Electrical Engineering Intern, Summer 2027 | San Diego, CA |  | Sep 14 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309857) |
 | [Cirrus Logic](https://internscout.org/internships/at/cirrus-logic/) | 2027 Internship - Mixed Signal Products Applications Engineer | Austin, Texas +1 |  | Sep 11 | [Apply](https://jobs.eu.lever.co/cirrus/2ca7b254-5c91-4a4e-9ba8-d05c8604eca2/apply) |
 | [AMD](https://internscout.org/internships/at/amd/) | Analog/Mixed-Signal Design Intern/Co-op | San Jose, CA +1 |  | Sep 11 | [Apply](https://careers.amd.com/jobs/92346?icims=1) |
-| [AMD](https://internscout.org/internships/at/amd/) | 2027 PhD Analog/Mixed-Signal SerDes Design Intern/Co-op | San Jose, California +1 |  | Sep 11 | [Apply](https://careers.amd.com/jobs/92346) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Electrical Engineering Intern Summer 2027 | Long Beach, CA | \$28.00 | Sep 10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990683003) |
 | [Antares Nuclear](https://internscout.org/internships/at/antares-nuclear/) | Electrical Engineering Intern - Summer 2027 | Los Angeles +2 |  | Sep 10 | [Apply](https://jobs.ashbyhq.com/Antares/3061297c-a666-47be-a58a-b62881bf183d/application) |
 | [Insulet](https://internscout.org/internships/at/insulet-corporation/) | Life Cycle Engineering Co-op - Electrical | Acton, MA |  | Sep 10 | [Apply](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Life-Cycle-Engineering---Electrical--January---June-2027--Hybrid-_REQ-2026-18043) |
@@ -150,7 +149,6 @@
 | [Shield AI](https://internscout.org/internships/at/shield-ai/) | Summer 2027 - Electrical Engineering Intern | Dallas, Texas +3 | Paid | Sep 1 | [Apply](https://jobs.lever.co/shieldai/200a293f-71ce-4982-a100-ac4b500c4cf7/apply) |
 | [K2 Space](https://internscout.org/internships/at/k2-space/) | Electrical Engineering Intern – Summer 2027 | Los Angeles, CA +1 | \$30 - \$40 per hour | Sep 1 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411918008) |
 | [K2 Space](https://internscout.org/internships/at/k2-space/) | RF Engineering Intern – Summer 2027 | Los Angeles, CA +1 | \$30 - \$40 per hour | Sep 1 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411919008) |
-| [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 Long Term Analog and Mixed Signal Engineering Intern/Co-Op | MARKHAM, Ontario, Canada |  | Sep 1 | [Apply](https://careers.amd.com/jobs/91369) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Electrical Engineer Intern - Summer 2027 | El Segundo, CA |  | Sep 1 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Electrical-Engineering-Intern--Summer-2027-_01868034) |
 | [Textron](https://internscout.org/internships/at/textron/) | 2027 Intern - Electrical Engineer (Howe & Howe) - Waterboro, ME | Waterboro, ME |  | Sep 1 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342547) |
 | [Aerotech](https://internscout.org/internships/at/aerotech/) | Electrical/Computer Engineering Intern Co-op | Pittsburgh, PA |  | Aug 31 | [Apply](https://aerotech.applytojob.com/apply/FrPUDToawu/ElectricalComputer-Engineering-Internship-Or-Coop-2027) |
@@ -170,7 +168,6 @@
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Electrical Engineering | Los Angeles, CA +1 | \$30–\$40 per hour | Aug 19 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5376052008) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Electrical Engineering Intern - Energy Storage (Summer 2027) | Delaware, OH |  | Aug 12 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279271) |
 | [Mortenson](https://internscout.org/internships/at/mortenson/) | Electrical Engineering Intern – Summer 2027 | United States | Paid | Aug 10 | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23239) |
-| Axon | 2027 US Electrical Engineering Internship | Scottsdale, AZ |  | Aug 7 | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837252003) |
 | [Kairos Power](https://internscout.org/internships/at/kairos-power/) | Electrical Engineering Internship - Summer 2027 | Alameda, CA +2 | Paid | Jul 23 | [Apply](https://job-boards.greenhouse.io/kairospower/jobs/6123657004) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States +17 |  | Jun 11 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
 | [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering (Pro Audio Circuitry) Intern | Niles, IL | \$23-\$43 per hour | Oct 24, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5017/electrical-engineering-%28pro-audio-circuitry%29-intern/job) |
@@ -204,6 +201,9 @@
 | [Oshkosh](https://internscout.org/internships/at/oshkosh/) | Engineer Intern - Electrical (Summer 2027) | Garner, Iowa, United States |  | Sep 18 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Garner-Iowa-United-States/Engineer-Intern---Electrical--Summer-2027-_R49814) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Electrical Engineering - Michigan | Portage, Michigan |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Electrical-Engineering---Michigan_R572609) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Electrical Engineering - Florida | Weston, Florida |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Weston-Florida/Electrical-Engineering-Intern---Weston--FL_R572740) |
+| [Hitachi](https://internscout.org/internships/at/hitachi/) | 2027 Summer Electrical Engineering Intern- Raleigh | Raleigh, North Carolina, United States |  | Sep 18 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Electrical-Engineering-Intern--Raleigh_R0142463) |
+| [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Electrical Engineering (Fontana/Redlands) | Fontana, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Fontana-2027-Summer-Internship-Electrical-Engineering-%28FontanaRedlands%29-CA-92336/1422753900/) |
+| [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Electrical Engineering (Valencia) | Valencia, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Valencia-2027-Summer-Internship-Electrical-Engineering-%28Valencia%29-CA-91355/1422756000/) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

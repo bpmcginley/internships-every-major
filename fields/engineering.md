@@ -1,6 +1,6 @@
 # Engineering: Summer 2027 Internships
 
-593 open Summer 2027 engineering roles, newest first (the 200 newest of 593). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 1,748 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+588 open Summer 2027 engineering roles, newest first (the 200 newest of 588). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 1,732 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -103,7 +103,6 @@
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - Solution Engineer | New York - New York +1 | \$33 - \$33 per hour | Oct 15 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1) |
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - Solution Engineer | New York - New York | \$33 - \$33 per hour | Oct 15 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Power Engineering Intern - Fort Worth, TX | Fort Worth, Texas | Paid | Oct 15 | [Apply](https://jobs.constellationenergy.com/jobs/139999) |
-| [Pennsylvania State University](https://internscout.org/internships/at/pennsylvania-state-university/) | R&D Engineer Intern | Key West, FL |  | Oct 15 | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Key-West-FL/R-D-Engineer-Intern_REQ_0000083331) |
 | [STV](https://internscout.org/internships/at/stv/) | Transit/Rail Engineering Intern - Summer 2027 | Hillsborough Street, Raleigh, North Carolina +1 | \$45,675.00 - \$51,903.00 | Oct 15 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Hillsborough-Street-Raleigh-North-Carolina/Transit-Rail-Engineering-Intern---Summer-2027_JR6386) |
 | [Cadence Design Systems](https://internscout.org/internships/at/cadence-design-systems/) | CST Application Engineer Intern - Systems ATX | SAN JOSE | \$28.60 to \$53.12 | Oct 15 | [Apply](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Systems-ATX_R56800-2) |
 | [Cadence](https://internscout.org/internships/at/cadence/) | CST Application Engineer Intern - Systems ATX | SAN JOSE | \$28.60 to \$53.12 | Oct 15 | [Apply](https://cadence.wd1.myworkdayjobs.com/external_careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Systems-ATX_R56800-3) |
@@ -135,7 +134,6 @@
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Rail Systems Project Delivery Engineering Intern – Summer 2027 | US.CA.San Francisco.580 California Street |  | Oct 13 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USCASan-Francisco580-California-Street/Rail-Systems-Project-Delivery-Engineering-Intern---Summer-2027_R-165974-1) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | NVIDIA 2027 Summer Internships: Ph.D. Engineering | US, CA +2 | Paid | Oct 13 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856) |
 | [KLA](https://internscout.org/internships/at/kla/) | Algorithm Engineering Intern, GPU/CUDA | Milpitas, CA |  | Oct 12 | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Algorithm-Engineering-Intern--GPU-CUDA-_2642044) |
-| Figure AI | Deployment Engineering Intern | San Jose, CA |  | Oct 12 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4721113006) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Mining Engineering Intern - Energy & Resources (Summer 2027) | Denver, CO |  | Oct 12 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008019) |
 | Veolia | Field Engineering Intern | Lincoln, NE |  | Oct 10 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154779699) |
 | Veolia | Field Engineering Intern | Nanticoke, PA |  | Oct 10 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154779385) |
@@ -204,6 +202,8 @@
 | [Granite Construction](https://internscout.org/internships/at/granite-construction/) | 2027 Summer Engineer Intern | Everett, Washington +2 | \$27.00 | Oct 1 | [Apply](https://granite.wd1.myworkdayjobs.com/careers/job/Everett-Washington/XMLNAME-2027-Summer-Engineer-Intern_R0000008259) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Production Engineer Intern, Summer 2027 | Fort Worth, TX | \$22–\$26 | Oct 1 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Production-Engineer-Intern--Summer-2027_10017592) |
 | [PPL](https://internscout.org/internships/at/ppl/) | Nuclear Engineering Intern | Lexington, Kentucky +3 |  | Oct 1 | [Apply](https://careers.pplweb.com/jobs/15316) |
+| [Procter & Gamble (P&G)](https://internscout.org/internships/at/procter-gamble-p-g/) | Engineering Internship, Summer 2027 | LIMA (OHIO) PLANT +3 | \$85,000.00 - \$122,200.00 / year | Oct 1 | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/BOSTON-GO--TECH-CENTER/Engineering-Internship--Summer-2027_R000157841) |
+| [Hewlett Packard (HP)](https://internscout.org/internships/at/hewlett-packard-hp/) | Engineering & Technical Internship Roles - HP Solutions (HPS) | Spring, Texas, United States of America +3 | \$29 to \$35 per hour | Oct 1 | [Apply](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Engineering---Technical-Internship-Roles---HP-Solutions--HPS-_3167904-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

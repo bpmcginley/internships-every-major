@@ -1,6 +1,6 @@
 # Physics: Summer 2027 Internships
 
-20 open Summer 2027 physics roles, newest first (all 20). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 80 physics internships on InternScout](https://internscout.org/internships/physics/)
+19 open Summer 2027 physics roles, newest first (all 19). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 77 physics internships on InternScout](https://internscout.org/internships/physics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -19,7 +19,6 @@
 | [AMD](https://internscout.org/internships/at/amd/) | SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op | San Jose, CA +1 |  | Sep 11 | [Apply](https://careers.amd.com/jobs/92350?icims=1) |
 | [Xcimer Energy](https://internscout.org/internships/at/xcimer-energy/) | Summer 2027 Internship - Physics | Denver, CO |  | Sep 11 | [Apply](https://jobs.lever.co/xcimer/27e40b7a-0008-42e6-b43f-200d727f9b49/apply) |
 | [Xcimer Energy](https://internscout.org/internships/at/xcimer-energy/) | Summer 2027 Internship - Optical Engineering | Denver, CO |  | Sep 11 | [Apply](https://jobs.lever.co/xcimer/89ffbeda-ebea-4539-9676-c6441751b95a/apply) |
-| [AMD](https://internscout.org/internships/at/amd/) | 2027 PhD SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op | San Jose, California +1 |  | Sep 11 | [Apply](https://careers.amd.com/jobs/92350) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 PhD Photonics Engineering Intern/Co-Op | San Jose, California +1 |  | Sep 11 | [Apply](https://careers.amd.com/jobs/92358) |
 | [Nokia](https://internscout.org/internships/at/nokia/) | Optical Test Co-Op | United States +1 |  | Sep 4 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40023) |
 | [Tesla](https://internscout.org/internships/at/tesla/) | Physics Engine Development Engineer Intern - Optimus | Palo Alto, CA |  | Sep 2 | [Apply](https://www.tesla.com/careers/search/job/282147) |

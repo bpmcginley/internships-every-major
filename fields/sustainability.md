@@ -1,6 +1,6 @@
 # Sustainability: Summer 2027 Internships
 
-96 open Summer 2027 sustainability roles, newest first (all 96). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 147 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+95 open Summer 2027 sustainability roles, newest first (all 95). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 146 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -65,7 +65,6 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Sustainability and Climate Strategy Intern (Remote) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138731) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | ESG Intern | Houston, TX |  | Sep 11 | [Apply](https://careers.kindermorgan.com/jobs/6176?icims=1) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Land and Right of Way (OSG) | HOUSTON, Texas |  | Sep 11 | [Apply](https://careers.kindermorgan.com/jobs/6183) |
-| [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern -ESG | HOUSTON, Texas |  | Sep 11 | [Apply](https://careers.kindermorgan.com/jobs/6176) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Gas Storage | HOUSTON, Texas |  | Sep 11 | [Apply](https://careers.kindermorgan.com/jobs/6212) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Origination Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 10 | [Apply](https://jobs.constellationenergy.com/jobs/138758) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Midstream Scheduling | HOUSTON, Texas |  | Sep 10 | [Apply](https://careers.kindermorgan.com/jobs/6230) |

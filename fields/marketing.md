@@ -1,6 +1,6 @@
 # Marketing: Summer 2027 Internships
 
-267 open Summer 2027 marketing roles, newest first (the 200 newest of 267). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 708 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+266 open Summer 2027 marketing roles, newest first (the 200 newest of 266). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 707 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -138,7 +138,6 @@
 | [Alliance Laundry Systems](https://internscout.org/internships/at/alliance-laundry-systems/) | Trade Marketing Specialist Intern | United States |  | Sep 21 | [Apply](https://uscareeropenings-alliancelaundry.icims.com/jobs/13216/trade-marketing-specialist-intern/job) |
 | [AMD](https://internscout.org/internships/at/amd/) | Technical Marketing Performance Analysis Intern/Co-op | Markham, ON, Canada |  | Sep 16 | [Apply](https://careers.amd.com/jobs/91953?icims=1) |
 | [Protective Life](https://internscout.org/internships/at/protective-life/) | 2027 Communications Summer Internship Program | Birmingham, AL |  | Sep 16 | [Apply](https://jobs.lever.co/protective/76d37442-da84-4bcf-b9f3-66f9880db597/apply) |
-| [AMD](https://internscout.org/internships/at/amd/) | Short Term 2027 Technical Marketing - Performance Analysis Intern/Co-Op | MARKHAM, Ontario, Canada |  | Sep 16 | [Apply](https://careers.amd.com/jobs/91953) |
 | [Emergent Holdings](https://internscout.org/internships/at/emergent-holdings/) | Summer 2027 Intern - Program Oversight/Marketing Compliance | Detroit, MI |  | Sep 16 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14772) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Digital Marketing Intern – Summer 2027 | Addison, TX +1 | Paid | Sep 14 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403684009) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Customer Experience and Transformation Intern – Summer 2027 | Addison, TX +1 | Paid | Sep 14 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403604009) |
@@ -201,9 +200,10 @@
 | [Ecolab](https://internscout.org/internships/at/ecolab/) | MBA Marketing Intern | USA - Minnesota - Saint Paul +2 | \$2,100/week | Oct 20 | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/MBA-Marketing-Intern_R00303125) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Dealer Development Marketing Data Analytics Intern | Kirkland, WA |  | Oct 20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Dealer-Development-Marketing-Data-Analytics-Intern-WA-98033/1449209833/) |
 | [Ecolab](https://internscout.org/internships/at/ecolab/) | Undergraduate Marketing Intern | USA - Minnesota - Saint Paul +1 | \$22 - \$24 / hour | Oct 19 | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Undergraduate-Marketing-Intern_R00303443) |
-| [Danaher Corporation](https://internscout.org/internships/at/danaher/) | Product Management & Marketing Intern (Summer 2027 Intern) | Logan, Utah, United States |  | Oct 17 | [Apply](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/Product-Management---Marketing-Intern--Summer-2027-Intern-_R1317692) |
+| [Danaher Corporation](https://internscout.org/internships/at/danaher-corporation/) | Product Management & Marketing Intern (Summer 2027 Intern) | Logan, Utah, United States |  | Oct 17 | [Apply](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/Product-Management---Marketing-Intern--Summer-2027-Intern-_R1317692) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Downstream Marketing - Arizona | Tempe, Arizona |  | Oct 14 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tempe-Arizona/Summer-2027-Internship---Downstream-Marketing---Arizona_R572860-1) |
 | [Constellation Brands](https://internscout.org/internships/at/constellation-brands/) | MBA Marketing Intern - Summer 2027 | Chicago, Illinois |  | Oct 14 | [Apply](https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Chicago-Illinois/MBA-Marketing-Intern---Summer-2027_R-41289) |
+| [Constellation Brands](https://internscout.org/internships/at/constellation-brands/) | Undergraduate Marketing Intern - Summer 2027 | Chicago, Illinois |  | Oct 14 | [Apply](https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Chicago-Illinois/Marketing-Intern---Summer-2027_R-41276) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

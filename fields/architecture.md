@@ -1,6 +1,6 @@
 # Architecture: Summer 2027 Internships
 
-52 open Summer 2027 architecture roles, newest first (all 52). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 134 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+51 open Summer 2027 architecture roles, newest first (all 51). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 133 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -24,7 +24,6 @@
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Architecture Intern - Summer 2027 | US.VA.Alexandria.1925 Ballenger Ave, Suite 400 |  | Sep 25 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USVAAlexandria1925-Ballenger-Ave-Suite-400/Architecture-Intern---Summer-2027_R-162315-1) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Enterprise Architecture Intern (Chicago, IL) | Chicago, Illinois |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138733) |
 | [AMD](https://internscout.org/internships/at/amd/) | SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op | San Jose, CA +1 |  | Sep 11 | [Apply](https://careers.amd.com/jobs/92350?icims=1) |
-| [AMD](https://internscout.org/internships/at/amd/) | 2027 PhD SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op | San Jose, California +1 |  | Sep 11 | [Apply](https://careers.amd.com/jobs/92350) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Architectural Engineering | Los Angeles, CA | \$28–\$40 per hour | Aug 26 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377117008) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure | Seattle, WA +1 |  | Aug 20 | [Apply](https://lifeattiktok.com/search/7672926068681951493) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - TikTok Search Architecture | San Jose, CA |  | Aug 20 | [Apply](https://lifeattiktok.com/search/7675517686256863541) |

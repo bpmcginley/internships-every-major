@@ -1,6 +1,6 @@
 # Finance: Summer 2027 Internships
 
-541 open Summer 2027 finance roles, newest first (the 200 newest of 541). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 954 finance internships on InternScout](https://internscout.org/internships/finance/)
+533 open Summer 2027 finance roles, newest first (the 200 newest of 533). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 942 finance internships on InternScout](https://internscout.org/internships/finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -26,7 +26,6 @@
 | [Schonfeld](https://internscout.org/internships/at/schonfeld/) | 2027 PhD Centralized Research Intern | New York, New York, United States +1 | \$125,000 | Oct 22 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8174538) |
 | [Cerity Partners](https://internscout.org/internships/at/cerity-partners/) | Wealth Management Internship | Austin, TX | Paid | Oct 22 | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Austin-TX/Wealth-Management-Internship_R825-1) |
 | [Highgate](https://internscout.org/internships/at/highgate/) | Intern - Finance (Summer 2027) | New York, NY | Paid | Oct 22 | [Apply](https://externalhourly-highgate.icims.com/jobs/82610/intern---finance-%28summer-2027%29/job) |
-| [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Asset Management Data Scientist - Summer Associate | New York, NY |  | Oct 22 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802931) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Finance Intern - Cleveland, OH | Cleveland, OH |  | Oct 22 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627241) |
 | Houlihan Lokey | Summer 2027 Financial Analyst (Class of 2028), Corporate Valuation Advisory Services - Dallas | Dallas, TX, USA | \$80,000 - \$85,000 | Oct 22 | [Apply](https://hl.wd1.myworkdayjobs.com/Campus/job/Dallas-TX-USA/Summer-2027-Financial-Analyst--Class-of-2028---Corporate-Valuation-Advisory-Services---Dallas_R3667) |
 | BRG | Corporate Finance, Transaction Advisory - 2027 Summer Associate (Intern) | Chicago, IL | \$35-40/hr | Oct 22 | [Apply](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Chicago-IL/Corporate-Finance--Transaction-Advisory---2027-Summer-Associate--Intern-_JR101208) |
@@ -162,7 +161,6 @@
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Health Plan Undergraduate Finance Intern | Pittsburgh PA, 15222, PAP, Penn Avenue Place |  | Oct 6 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Health-Plan-Undergraduate-Finance-Intern_J285573) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Enterprise MBA Integrated Finance Graduate Intern | Pittsburgh PA, 15222, PAP, Penn Avenue Place |  | Oct 6 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-MBA-Integrated-Finance-Graduate-Intern_J286281-1) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 UCD FP&A Undergraduate Finance Intern | Pittsburgh PA, 15222, PAP, Penn Avenue Place |  | Oct 6 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Undergraduate-Intern_J286545) |
-| [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Consumer & Community Banking - Risk Modeling Associate Program - Summer Internship | Wilmington, DE +4 |  | Oct 6 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796061) |
 | [Fortive](https://internscout.org/internships/at/fortive/) | Financial Planning and Analysis Intern | Irvine, CA |  | Oct 6 | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10810) |
 | [Lazard](https://internscout.org/internships/at/lazard/) | 2027 Global Fixed Income Summer Internship | New York |  | Oct 6 | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6614) |
 | [Midland States Bank](https://internscout.org/internships/at/midland-states-bank/) | Intern - Finance | Effingham, IL | Paid | Oct 6 | [Apply](https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---Finance_JR1469) |
@@ -204,6 +202,8 @@
 | [SouthState Bank](https://internscout.org/internships/at/southstate-bank/) | Summer 2027 Commercial Banking Intern: Miami, FL | Miami |  | Oct 2 | [Apply](https://southstatebank.wd5.myworkdayjobs.com/external/job/Miami/Summer-2027-Commercial-Banking-Intern--Miami--FL_R-06315-1) |
 | TD Synnex | Summer 2027 Internship Program \| Corporate, Enterprise Core Track: • Accounting • Finance • Credit • Supply Chain • Eve… | Greenville, SC +1 | \$22.00 per hour | Oct 2 | [Apply](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Greenville-SC/Summer-2027-Internship-Program---Corporate--Enterprise-Core-Track----Accounting---Finance---Credit---Events_R56569) |
 | [Guardian Life](https://internscout.org/internships/at/guardian-life/) | 2027 Guardian Summer Intern, Corporate Finance & Risk – Investment Risk Management | New York | \$20.00 - \$35.00 | Oct 2 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Corporate-Finance---Risk---Investment-Risk-Management_R000110128) |
+| [CIBC](https://internscout.org/internships/at/cibc/) | Summer Intern 2027- Private Wealth Management | Chicago, IL | \$25.00 per hour | Oct 1 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/Summer-Intern-2027--Private-Wealth-Management_2618397-1) |
+| [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | Corporate Banking Intern - Tech, Media & Telecom Summer Analyst | New York, New York | \$22.44 | Oct 1 | [Apply](https://firstcitizens.jibeapply.com/jobs/35577) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

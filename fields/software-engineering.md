@@ -1,6 +1,6 @@
 # Software Engineering: Summer 2027 Internships
 
-1,415 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,415). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 2,862 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,377 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,377). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 2,778 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -65,7 +65,6 @@
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Electrical Systems Engineering Internship - Undergraduate | Space Coast, FL +3 | \$32.00 | Oct 23 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Electrical-Systems-Engineering-Internship---Undergraduate_R71438) |
 | [Uline](https://internscout.org/internships/at/uline/) | Systems Administrator Internship - Summer 2027 | Pleasant Prairie, WI +4 | Paid | Oct 23 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Systems-Administrator-Internship---Summer-2027_R268536) |
 | [Protiviti](https://internscout.org/internships/at/protiviti/) | New York City Technology Consulting Intern - 2027 | NEW YORK CITY +1 | \$28/hr | Oct 23 | [Apply](https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/NEW-YORK-CITY/New-York-Technology-Consulting-Intern---2027_JR-258932) |
-| [Palantir](https://internscout.org/internships/at/palantir/) | Forward Deployed Software Engineer Intern, Warp Speed | New York, NY +1 |  | Oct 22 | [Apply](https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb/apply) |
 | [Westinghouse Electric Company](https://internscout.org/internships/at/westinghouse-electric-company/) | Software Engineering Intern | Warrendale, PA |  | Oct 22 | [Apply](https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Software-Engineering-OR/1442826200/?ats=successfactors) |
 | [Pattern](https://internscout.org/internships/at/pattern/) | AI Infrastructure Engineer Intern | Lehi, UT |  | Oct 22 | [Apply](https://jobs.lever.co/pattern/5c0c1963-87c5-48d7-8da9-0c79121fe443/apply) |
 | [Rivian and Volkswagen Group Technologies](https://internscout.org/internships/at/rivian-and-volkswagen-group-technologies/) | Software Engineering Intern - Vehicle Controls (Summer 2027) | Vancouver, British Columbia +2 |  | Oct 22 | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0/application) |
@@ -156,7 +155,6 @@
 | [The Hartford](https://internscout.org/internships/at/the-hartford/) | 2027 Summer Intern - Rotational (IT, Operations, Risk, and Fund Treasury) | Wayne, PA | \$20.00 - \$25.00 | Oct 21 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Wayne-PA/XMLNAME-2027-Summer-Intern---Rotational--IT--Operations--Risk--and-Fund-Treasury-_R2627500) |
 | [Assurant](https://internscout.org/internships/at/assurant/) | Summer 2027 Intern: Software Engineering Intern | Atlanta, GA +2 | \$20 - \$25/hour | Oct 21 | [Apply](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727-1) |
 | [Motorola](https://internscout.org/internships/at/motorola/) | Presale Systems Engineer - Summer 2027 Internship | Massachusetts Remote Work +13 |  | Oct 21 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Massachusetts-Remote-Work/Presale-Systems-Engineer---Summer-2027-Internship_R69640) |
-| [Aerospace Corporation](https://internscout.org/internships/at/the-aerospace-corporation/) | Cloud Solutions Engineer Intern, Site Reliability | El Segundo, CA +2 |  | Oct 21 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Cloud-Solutions-Engineer---Site-Reliability-Undergrad-Intern_R016936) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 PhD AI Model Optimization & Software Engineer Intern/Co-op | San Jose, California +2 |  | Oct 21 | [Apply](https://careers.amd.com/jobs/92522) |
 | TruStage | Information Technology - Development and Infrastructure Internship (hybrid) | Wisconsin - Remote +1 |  | Oct 21 | [Apply](https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155) |
 | Integrate | Software Engineering Intern (Summer 2027) | Seattle, WA | \$45/hour | Oct 20 | [Apply](https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3/application) |
@@ -168,7 +166,6 @@
 | T-Mobile | Software Engineer Intern, Cloud Security | Atlanta, GA +1 |  | Oct 20 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineer---Cloud-Security-Summer-Internship_REQ379190) |
 | [Northrop Grumman](https://internscout.org/internships/at/northrop-grumman/) | Cyber Systems Engineer Intern | Tampa, FL |  | Oct 20 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196) |
 | Steel | Software Engineer Intern (Summer 2027) | Toronto +2 |  | Oct 20 | [Apply](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application) |
-| [Palantir](https://internscout.org/internships/at/palantir/) | Software Engineer Intern, Query Engines | New York, NY +1 |  | Oct 20 | [Apply](https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13) |
 | [AeroVironment](https://internscout.org/internships/at/aerovironment/) | Software Engineering Intern | Minneapolis, MN |  | Oct 20 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Minneapolis-MN/Software-Engineering-Intern_8940) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Software Engineering Intern | San Jose, CA |  | Oct 20 | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026) |
 | [General Dynamics Mission Systems](https://internscout.org/internships/at/general-dynamics-mission-systems-inc/) | Software Engineer Intern | Pittsburgh, PA |  | Oct 20 | [Apply](https://careers-gdms.icims.com/jobs/75637/software-engineer-intern/job) |
@@ -204,6 +201,9 @@
 | NetApp | Software Engineer Intern | Wichita, KS |  | Oct 19 | [Apply](https://jobs.netapp.com/job/Wichita-Software-Engineer-Intern-KS-67208/1441378400/?ats=successfactors) |
 | [Tyler Technologies](https://internscout.org/internships/at/tyler-technologies/) | Software Developer Intern | Orono, ME |  | Oct 19 | [Apply](https://jobs.jobvite.com/tylertech/job/ouQXAfwB?nl=1&nl=1&fr=false) |
 | Patreon | Software Engineering Intern - Summer 2027 | New York +2 | Paid | Oct 19 | [Apply](https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c/application) |
+| Patreon | Software Engineering Intern - Summer 2027 | San Francisco +4 | Paid | Oct 19 | [Apply](https://jobs.ashbyhq.com/patreon/71f644bc-0873-4d62-a599-bd64405d6587/application) |
+| [Aerospace Corporation](https://internscout.org/internships/at/the-aerospace-corporation/) | Cloud Solutions Engineer / Site Reliability Intern | El Segundo, CA +2 |  | Oct 19 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Cloud-Solutions-Engineer---Site-Reliability-Undergrad-Intern_R016714) |
+| [Generac](https://internscout.org/internships/at/generac/) | Micro-Grid Systems Engineering Intern | Fort Collins, CO |  | Oct 19 | [Apply](https://generac.wd5.myworkdayjobs.com/External/job/USA---CO-Fort-Collins/Micro-Grid-Systems-Engineering-Summer-Intern_JR17432) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

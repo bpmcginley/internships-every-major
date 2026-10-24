@@ -1,6 +1,6 @@
 # Health: Summer 2027 Internships
 
-42 open Summer 2027 health roles, newest first (all 42). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 282 health internships on InternScout](https://internscout.org/internships/health/)
+41 open Summer 2027 health roles, newest first (all 41). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 280 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -16,7 +16,6 @@
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | General Management Corporate Internship - Summer 2027 (Undergraduate) | CT - Hartford +2 | \$26/hr | Oct 21 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/General-Management-Corporate-Internship---Summer-2027_R1025480) |
 | Medline | Healthcare Customer Service Intern - Summer 2027 | Dubuque, Iowa | \$16.50 - \$24.00 Hour | Oct 16 | [Apply](https://medline.wd5.myworkdayjobs.com/Medline/job/Dubuque-Iowa/Healthcare-Customer-Service-Internship---Summer-2027_R2616839) |
 | [Cigna Group](https://internscout.org/internships/at/cigna-group/) | Healthcare Analytics Summer Intern - Morris Plains, NJ - Start Date: May 24, 2027 | Morris Plains, NJ | \$26.00 | Oct 16 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Morris-Plains--NJ---Start-Date--May-24--2027_26009483) |
-| [Cigna](https://internscout.org/internships/at/cigna-group/) | Healthcare Analytics Intern | Morris Plains, NJ |  | Oct 15 | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Morris-Plains--NJ---Start-Date--May-24--2027_26009483) |
 | [Philips](https://internscout.org/internships/at/philips/) | Intern - Health Systems Marketing-Cambridge, MA-Summer 2027 | Cambridge (US), Massachusetts, United States | \$26.00 – 40.00 | Oct 14 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Health-Systems-Marketing-Cambridge--MA-Summer-2027_593616) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Healthcare Strategy & Consulting Corporate Internship – Summer 2027 (Undergraduate) | CT - Hartford |  | Oct 13 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Healthcare-Strategy---Consulting-Corporate-Internship---Summer-2027--Undergraduate-_R1052586) |
 | BlueCross BlueShield of Nebraska | Data Intern - Healthcare Summer 2027 | Omaha, NE |  | Oct 13 | [Apply](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Data-Intern--Summer-2027_JR101406) |

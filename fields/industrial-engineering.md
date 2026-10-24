@@ -1,6 +1,6 @@
 # Industrial Engineering: Summer 2027 Internships
 
-271 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 271). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 724 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+269 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 269). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 721 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -144,7 +144,6 @@
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Logistics Intern (Summer 2027) | Milwaukee, WI |  | Sep 24 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Logistics-Intern--Summer-2027-_REQ-020102) |
 | [AutoZone](https://internscout.org/internships/at/autozone/) | AutoZone 2027 Summer Internship – Supply Chain | Memphis, TN |  | Sep 23 | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155449) |
 | [Xcimer Energy](https://internscout.org/internships/at/xcimer-energy/) | Summer 2027 Internship - Controls Systems Engineering | Denver, CO |  | Sep 22 | [Apply](https://jobs.lever.co/xcimer/4b031cd4-5f45-4d53-9332-dd23bc349480/apply) |
-| United Parcel Service | Industrial Engineering Intern - Americas Region | United States |  | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Americas-Region-Industrial-Engineering-Summer-Intern_R26032989) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Wireless Systems Engineering Internship - Summer 2027 | San Diego, CA +3 |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720740637) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Systems Engineering Intern Summer 2027 | Tucson, AZ |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990270003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Systems Engineering Intern Summer 2027 | Chantilly, VA |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990272003) |
@@ -156,7 +155,6 @@
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Long Beach, CA |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984564003) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Systems Engineering Internship | Westminster, CO |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/a3b0f097-9d62-4a67-9800-de5dfe416da2/apply) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Supply Chain Internship | Westminster, CO |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/6c354949-9e6b-4716-9381-f8aa071e3465/apply) |
-| Teledyne | Systems Engineering Intern - Summer 2027 | Huntsville, AL |  | Sep 16 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-MBSE-Intern--Summer-2027-_REQ36670-1) |
 | [National Information Solutions Cooperative (NISC)](https://internscout.org/internships/at/national-information-solutions-cooperative-nisc/) | Intern - Platform Development (Systems Engineering) | Lake Saint Louis, MO |  | Sep 15 | [Apply](https://job-boards.greenhouse.io/testnisc/jobs/8204129) |
 | [Staples](https://internscout.org/internships/at/staples/) | Supply Chain Intern ( Ontario, CA) - June 2027 | Ontario, CA |  | Sep 15 | [Apply](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/74728) |
 | [General Dynamics Mission Systems, Inc.](https://internscout.org/internships/at/general-dynamics-mission-systems-inc/) | Regional Strike Programs - Systems Engineering Internship Summer 2027 | Pittsfield, MA |  | Sep 15 | [Apply](https://careers-gdms.icims.com/jobs/74569/regional-strike-programs---systems-engineering-internship-summer-2027/job) |
@@ -204,6 +202,8 @@
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | 2027 Industrial Engineering Summer Intern - Portland, OR | US - PORTLAND HUB (ORPOR) |  | Oct 24 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---PORTLAND-HUB-ORPOR/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Portland--OR_R26030709) |
 | [Motorola](https://internscout.org/internships/at/motorola/) | Supply Chain Data Analyst Internship 2027 | Chicago, IL |  | Oct 24 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R68682) |
 | [Michelin](https://internscout.org/internships/at/michelin/) | Summer 2027: Supply Chain (Greenville, SC) | GREENVILLE, SC |  | Oct 23 | [Apply](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/GREENVILLE-SC/Summer-2027--Supply-Chain--Greenville--SC-_R-2026031848) |
+| [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Advanced Manufacturing Engineer Intern | Kirkland, WA |  | Oct 20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Advanced-Manufacturing-Engineer-Intern-WA-98033/1449527033/) |
+| [Ecolab](https://internscout.org/internships/at/ecolab/) | Supply Chain Intern - Engineering and Business Majors | USA - Minnesota - Saint Paul +13 | \$22 - \$25/hour | Oct 20 | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Supply-Chain-Intern---Engineering-and-Business-Majors_R00304542) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
