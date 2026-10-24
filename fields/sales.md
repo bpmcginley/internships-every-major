@@ -1,6 +1,6 @@
 # Sales: Summer 2027 Internships
 
-310 open Summer 2027 sales roles, newest first (the 200 newest of 310). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 563 sales internships on InternScout](https://internscout.org/internships/sales/)
+310 open Summer 2027 sales roles, newest first (the 200 newest of 310). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 564 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -127,7 +127,6 @@
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | Management and Sales Summer Internship 2027 (Boise) | Boise, ID +7 |  | Sep 29 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2619309) |
 | [Cencora](https://internscout.org/internships/at/cencora/) | Intern, Sales & Support | Remote, Pennsylvania +1 | \$37,752 - 56,650 | Sep 29 | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Pennsylvania/Intern--Sales---Support_R2613780) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | International Business Development Intern (Summer 2027) | Woodbridge, VA |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5247737007) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Team Sports/Sales | Baltimore, MD |  | Sep 28 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Team-SportsSales-MD-21230/1434355500/) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: Sales Intern | Northbrook, IL +1 | \$25.00 | Sep 28 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10626) |
 | [Highgate](https://internscout.org/internships/at/highgate/) | Intern - Sales & Events (Summer 2027) | Key West, FL | Paid | Sep 28 | [Apply](https://externalhourly-highgate.icims.com/jobs/83231/intern/job) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX Corporation Internship Program - Ad Sales - Detroit | Detroit, Michigan, USA |  | Sep 28 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Detroit-Michigan-USA/Summer-2027-FOX-Corporation-Internship-Program---Ad-Sales---Detroit_R50034001) |
@@ -201,6 +200,7 @@
 | [Cvent](https://internscout.org/internships/at/cvent/) | Sales Intern (Summer 2027) | Tysons Corner, Virginia | \$18.00 per hour | Aug 24 | [Apply](https://careers.cvent.com/jobs/10703) |
 | [Springs Window Fashions](https://internscout.org/internships/at/springs-window-fashions/) | Sales Operations Internship - Summer 2027 | LONG ISLAND CITY, NY | \$23.00/hr | Aug 22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12894/sales-operations-internship---summer-2027/job) |
 | [Arthur J. Gallagher & Co.](https://internscout.org/internships/at/arthur-j-gallagher-co/) | Canada Internship - Sales | Toronto, Ontario, Canada |  | Aug 17 | [Apply](https://jobs.ajg.com/jobs/57699) |
+| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL |  | Aug 15 | [Apply](https://higher.gs.com/roles/181628?type=students) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Sales Data Analytics Intern | Westerville, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279291) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Sales Data Analytics Intern - Summer 2027 | Westerville, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279293) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Technical Sales Engineering Intern - IT Channel (Summer 2027) | Columbus, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278722) |

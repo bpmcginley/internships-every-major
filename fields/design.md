@@ -1,6 +1,6 @@
 # Design: Summer 2027 Internships
 
-63 open Summer 2027 design roles, newest first (all 63). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 185 design internships on InternScout](https://internscout.org/internships/design/)
+63 open Summer 2027 design roles, newest first (all 63). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 186 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

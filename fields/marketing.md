@@ -1,9 +1,10 @@
 # Marketing: Summer 2027 Internships
 
-269 open Summer 2027 marketing roles, newest first (the 200 newest of 269). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 709 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+270 open Summer 2027 marketing roles, newest first (the 200 newest of 270). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 726 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Boston Scientific](https://internscout.org/internships/at/boston-scientific/) | MBA Marketing Internship Summer 2027 (Minnesota)) | Arden Hills, MN |  | Oct 24 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813832514) |
 | [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | Communications Intern - Summer 2027 | Atlanta, GA, USA |  | Oct 23 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Communications-Intern---Summer-2027_R26_0000035646) |
 | [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | Marketing Intern - Summer 2027 | Atlanta, GA, USA |  | Oct 23 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Marketing-Intern---Summer-2027_R26_0000035658) |
 | S&P Global | Market Intelligence Sales Associate Internship | New York, NY |  | Oct 23 | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Market-Intelligence-Sales-Associate-Internship_332491-1) |
@@ -203,7 +204,6 @@
 | [Danaher Corporation](https://internscout.org/internships/at/danaher-corporation/) | Product Management & Marketing Intern (Summer 2027 Intern) | Logan, Utah, United States |  | Oct 17 | [Apply](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/Product-Management---Marketing-Intern--Summer-2027-Intern-_R1317692) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Downstream Marketing - Arizona | Tempe, Arizona |  | Oct 14 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tempe-Arizona/Summer-2027-Internship---Downstream-Marketing---Arizona_R572860-1) |
 | [Constellation Brands](https://internscout.org/internships/at/constellation-brands/) | MBA Marketing Intern - Summer 2027 | Chicago, Illinois |  | Oct 14 | [Apply](https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Chicago-Illinois/MBA-Marketing-Intern---Summer-2027_R-41289) |
-| [Constellation Brands](https://internscout.org/internships/at/constellation-brands/) | Undergraduate Marketing Intern - Summer 2027 | Chicago, Illinois |  | Oct 14 | [Apply](https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Chicago-Illinois/Marketing-Intern---Summer-2027_R-41276) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

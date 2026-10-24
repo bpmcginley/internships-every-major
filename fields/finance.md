@@ -1,6 +1,6 @@
 # Finance: Summer 2027 Internships
 
-546 open Summer 2027 finance roles, newest first (the 200 newest of 546). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 965 finance internships on InternScout](https://internscout.org/internships/finance/)
+550 open Summer 2027 finance roles, newest first (the 200 newest of 550). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 968 finance internships on InternScout](https://internscout.org/internships/finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -26,7 +26,6 @@
 | [Santander](https://internscout.org/internships/at/santander/) | 2027 Commercial Summer Analyst Program - Boston | Boston | Paid | Oct 22 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boston/XMLNAME-2027-Commercial-Summer-Analyst-Program---Boston_Req1628583) |
 | BRG | 2027 Summer Associate – Corporate Finance – Valuation (New York and Boston) | Boston, MA +1 | \$30-35/hr | Oct 22 | [Apply](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Boston-MA/XMLNAME-2027-Summer-Associate---Corporate-Finance---Valuation--New-York-and-Boston-_JR101096) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Summer 2027 Real Estate Financial Analysis (Investment and Asset Management) | Detroit, MI |  | Oct 22 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Summer-2027-Real-Estate-Financial-Analysis--Investment-and-Asset-Management-_R-085044) |
-| [Cerity Partners](https://internscout.org/internships/at/cerity-partners/) | Wealth Management Internship | Austin, TX | Paid | Oct 21 | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Austin-TX/Wealth-Management-Internship_R825-1) |
 | [Stifel](https://internscout.org/internships/at/stifel/) | Enterprise Risk Management Intern- Summer 2027 | Saint Louis, MO |  | Oct 21 | [Apply](https://careers-stifel.icims.com/jobs/9958/enterprise-risk-management-intern--summer-2027/job) |
 | [Stifel](https://internscout.org/internships/at/stifel/) | Treasury Management Intern- Summer 2027 | Saint Louis, MO |  | Oct 21 | [Apply](https://careers-stifel.icims.com/jobs/9994/treasury-management-intern--summer-2027/job) |
 | Houlihan Lokey | Summer 2027 Financial Analyst (Class of 2028), Corporate Valuation Advisory Services - Dallas | Dallas, TX, USA | \$80,000 - \$85,000 | Oct 21 | [Apply](https://hl.wd1.myworkdayjobs.com/Campus/job/Dallas-TX-USA/Summer-2027-Financial-Analyst--Class-of-2028---Corporate-Valuation-Advisory-Services---Dallas_R3667) |
@@ -204,6 +203,7 @@
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - Canadian Real Estate Finance Group | Toronto, Ontario +1 | \$40,950.00 | Oct 1 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Co-op-Intern---Canadian-Real-Estate-Finance-Group_JR26091907) |
 | [Baird](https://internscout.org/internships/at/baird/) | Internship – Private Wealth Management (Tucson, AZ Summer 2027) | AZ-Tucson |  | Oct 1 | [Apply](https://baird.wd1.myworkdayjobs.com/careers/job/AZ-Tucson/Internship---Private-Wealth-Management--Tucson--AZ-Summer-2027-_R20261108-1) |
 | [ABB](https://internscout.org/internships/at/abb/) | Corporate Finance Intern- Summer 2027 | USA, TN |  | Oct 1 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-TN-Memphis/Corporate-Finance-Intern--Summer-2027_JR00048204) |
+| [SouthState Bank](https://internscout.org/internships/at/southstate-bank/) | Summer 2027 Commercial Banking Intern: Miami, FL | Miami |  | Oct 1 | [Apply](https://southstatebank.wd5.myworkdayjobs.com/external/job/Miami/Summer-2027-Commercial-Banking-Intern--Miami--FL_R-06315-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

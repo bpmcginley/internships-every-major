@@ -1,6 +1,6 @@
 # Industrial Engineering: Summer 2027 Internships
 
-286 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 286). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 754 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+285 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 285). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 753 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -156,7 +156,6 @@
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Long Beach, CA | \$28.00 | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984564003) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Systems Engineering Internship | Westminster, CO |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/a3b0f097-9d62-4a67-9800-de5dfe416da2/apply) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Supply Chain Internship | Westminster, CO |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/6c354949-9e6b-4716-9381-f8aa071e3465/apply) |
-| Teledyne | Systems Engineering Intern - Summer 2027 | Huntsville, AL |  | Sep 16 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-MBSE-Intern--Summer-2027-_REQ36670-1) |
 | [National Information Solutions Cooperative (NISC)](https://internscout.org/internships/at/national-information-solutions-cooperative-nisc/) | Intern - Platform Development (Systems Engineering) | Lake Saint Louis, MO |  | Sep 15 | [Apply](https://job-boards.greenhouse.io/testnisc/jobs/8204129) |
 | [Staples](https://internscout.org/internships/at/staples/) | Supply Chain Intern ( Ontario, CA) - June 2027 | Ontario, CA |  | Sep 15 | [Apply](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/74728) |
 | [General Dynamics Mission Systems, Inc.](https://internscout.org/internships/at/general-dynamics-mission-systems-inc/) | Regional Strike Programs - Systems Engineering Internship Summer 2027 | Pittsfield, MA |  | Sep 15 | [Apply](https://careers-gdms.icims.com/jobs/74569/regional-strike-programs---systems-engineering-internship-summer-2027/job) |
@@ -204,6 +203,7 @@
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Manufacturing Engineering | Los Angeles, CA | \$30–\$40 per hour | Aug 20 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5376060008) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD | Seattle, WA |  | Aug 20 | [Apply](https://lifeattiktok.com/search/7675845333947812149) |
 | [Freeform](https://internscout.org/internships/at/freeform/) | Manufacturing Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | \$30/hour | Aug 19 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895700003) |
+| PDT Partners | Summer 2027 Systems Engineering Intern | New York, NY | \$180,000 | Jul 24 | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,6 +1,6 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-382 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 382). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 902 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+383 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 383). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 904 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Marvell](https://internscout.org/internships/at/marvell/) | AI-Native Development Platform Engineer Intern, MS - Summer 2027 | Santa Clara, CA | Paid | Sep 29 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1) |
 | [Q2](https://internscout.org/internships/at/q2/) | 2027 Summer Internship - Machine Learning Engineer | Cary, North Carolina +1 |  | Sep 29 | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12800) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction | Mountain View, CA, USA +1 |  | Sep 28 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8237997) |
+| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, AI Automation | Baltimore, MD |  | Sep 28 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-AI-Automation-MD-21230/1434354900/) |
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | IT Infrastructure & AI Enablement Intern (Summer 2027) | Milwaukee, WI |  | Sep 28 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020162) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | GDIT Summer Internship Program – Summer 2027 AI/ML Software Development and Engineering Internship | Bossier City, LA |  | Sep 26 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ229142) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | GDIT Summer Internship Program – Summer 2027 AI/ML Data Science and Engineering Internship | Bossier City, LA |  | Sep 26 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Data-Science-and-Engineering-Internship_RQ228936) |
@@ -203,7 +204,6 @@
 | [Rockwell Automation](https://internscout.org/internships/at/rockwell-automation/) | Co-op, AI Software Engineering (6-8 months) | Mayfield Heights, Ohio, United States +3 | Paid | Sep 25 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1) |
 | [Rockwell Automation](https://internscout.org/internships/at/rockwell-automation/) | Intern, AI Software Engineering (June-August 2027) | Mayfield Heights, Ohio, United States +3 | Paid | Sep 25 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1) |
 | [Lazard](https://internscout.org/internships/at/lazard/) | AI & Data Transformation Intern | New York +1 |  | Sep 24 | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6650) |
-| [DoorDash](https://internscout.org/internships/at/doordash/) | Machine Learning Intern (Masters) - Summer 2027 | San Francisco, CA +5 | Paid | Sep 23 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8204111) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
