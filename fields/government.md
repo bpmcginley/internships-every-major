@@ -1,12 +1,13 @@
 # Government and Public Policy: Summer 2027 Internships
 
-59 open Summer 2027 government and public policy roles, newest first (all 59). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 340 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+60 open Summer 2027 government and public policy roles, newest first (all 60). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 340 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | Federal Energy Regulatory Commission | Student Trainee (Energy Industry Analysis) | Washington, District of Columbia | \$41659 - \$54160 Per Year | Oct 23 | [Apply](https://www.usajobs.gov:443/job/890002100) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | Summer 2027 Summer Government Compliance Internship | Falls Church, VA |  | Oct 23 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Summer-Government-Compliance-Internship_RQ226014) |
 | [Philips](https://internscout.org/internships/at/philips/) | Intern – Government Marketing – Cambridge, MA – Summer 2027 | Cambridge (US), Massachusetts, United States | \$26 – 30 | Oct 22 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Government-Marketing---Cambridge--MA---Summer-2027_593516) |
+| [LPL Financial Holdings](https://internscout.org/internships/at/lpl-financial-holdings/) | Intern 2027 - Government Relations | Washington, DC | Paid | Oct 21 | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Washington-DC/Intern-2027---Government-Relations_R-054560) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - Community, Engagement & Development (Houston) | Houston, TX |  | Oct 20 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Houston-TX/XMLNAME-2027-Intern---Community--Engagement---Development--Houston-_R-0000033568) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Intern - Policy & Analysis | Dallas, TX |  | Oct 20 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Policy---Analysis_R-0000033766) |
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - Software Engineer (Security/Government) | California - San Francisco +3 | \$43 - \$52 per hour | Oct 19 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1) |

@@ -1,10 +1,9 @@
 # Business: Summer 2027 Internships
 
-83 open Summer 2027 business roles, newest first (all 83). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 164 business internships on InternScout](https://internscout.org/internships/business/)
+82 open Summer 2027 business roles, newest first (all 82). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 163 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | MBA Summer Associate Intern - Multiple Teams | Boston, MA |  | Oct 23 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/XMLNAME-2027-MBA-Summer-Associate-Intern--Medical-Information--Technology-and-Innovation--MITI---Business-Impact-Analytics_REQ-30482-1) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Business Administration (Irwindale/Pomona/Rosemead) | Irwindale, CA |  | Oct 23 | [Apply](https://apply.edisoncareers.com/job/Irwindale-2027-Summer-Internship-Business-Administration-%28IrwindalePomonaRosemead%29-CA-91702/1423552200/) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Business Administration (Redlands) | Redlands, CA |  | Oct 23 | [Apply](https://apply.edisoncareers.com/job/Redlands-2027-Summer-Internship-Business-Administration-%28Redlands%29-CA-92374/1423579500/) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Business Administration (Wildomar) | Wildomar, CA |  | Oct 23 | [Apply](https://apply.edisoncareers.com/job/Wildomar-2027-Summer-Internship-Business-Administration-%28Wildomar%29-CA-92595/1423577500/) |

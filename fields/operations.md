@@ -1,6 +1,6 @@
 # Operations: Summer 2027 Internships
 
-411 open Summer 2027 operations roles, newest first (the 200 newest of 411). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 959 operations internships on InternScout](https://internscout.org/internships/operations/)
+411 open Summer 2027 operations roles, newest first (the 200 newest of 411). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 960 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -17,7 +17,6 @@
 | Northwood Space | Supply Chain Operations Intern (2027 Summer Internship) | Torrance, CA +2 |  | Oct 22 | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/7bfa4ec0-7d5a-475b-aa2b-0cd0741e1549/application) |
 | [Cisco](https://internscout.org/internships/at/cisco/) | AI Operations Engineer I Intern | San Jose, CA +3 |  | Oct 22 | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/AI-Operations-Engineer-I--Intern----United-States_2026804) |
 | [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova Materials Quality Internship – Summer 2027 | Atlanta |  | Oct 22 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/Materials-Quality-GE-Vernova-DTDP-internship---2027_R5055804) |
-| [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Strategic Operations | USA - Holtsville, New York | \$33.00 | Oct 22 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/USA---Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Strategic-Operations_JR103656) |
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Project Management Intern (Summer 2027) | Plano, TX |  | Oct 22 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Project-Management-Intern--Summer-2027-_R0031185) |
 | [Regal Rexnord](https://internscout.org/internships/at/regal-rexnord/) | Program/Project Management Summer Intern | Downers Grove, Illinois, United States | \$19 - \$27.50 per hour | Oct 22 | [Apply](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Downers-Grove-Illinois-United-States/Business-Sales-Development-Summer-Intern_R26_05264-1) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Summer 2027 Materials Project Management Intern- Bachelor's (Austin, TX) | Austin,TX +1 | Paid | Oct 22 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Materials-Project-Management-Intern--Bachelor-s--Austin--TX-_R2627302) |
@@ -31,6 +30,7 @@
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Business Operations Engineer Intern | Ashville, Ohio, United States +3 |  | Oct 21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) |
 | [Uline](https://internscout.org/internships/at/uline/) | Executive Operations Analyst Internship - Summer 2027 | Pleasant Prairie, WI +4 | Paid | Oct 21 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Executive-Operations-Analyst-Internship---Summer-2027_R268434) |
 | [Uline](https://internscout.org/internships/at/uline/) | Operations Analyst Internship - Summer 2027 | Pleasant Prairie, WI +4 | Paid | Oct 21 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Operations-Analyst-Internship---Summer-2027_R268435) |
+| [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Strategic Operations | USA - Holtsville, New York | \$33.00 | Oct 21 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/USA---Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Strategic-Operations_JR103656) |
 | [Stifel](https://internscout.org/internships/at/stifel/) | Rotational Operations Intern- Summer 2027 | Saint Louis, MO |  | Oct 21 | [Apply](https://careers-stifel.icims.com/jobs/9964/rotational-operations-intern--summer-2027/job) |
 | [Stifel](https://internscout.org/internships/at/stifel/) | Bank Operations & Fraud Intern- Summer 2027 | Saint Louis, MO |  | Oct 21 | [Apply](https://careers-stifel.icims.com/jobs/10032/bank-operations-%26-fraud-intern--summer-2027/job) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Project Management | Philadelphia, PA +2 | \$18.00 - \$21.00 Per Hour | Oct 21 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Philadelphia-PA/XMLNAME-2027-Summer-Internship---Project-Management_R-104163-2) |

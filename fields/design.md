@@ -1,9 +1,10 @@
 # Design: Summer 2027 Internships
 
-62 open Summer 2027 design roles, newest first (all 62). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 184 design internships on InternScout](https://internscout.org/internships/design/)
+63 open Summer 2027 design roles, newest first (all 63). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 185 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | UX/UI Design Intern - Summer 2027 | Valley City, OH, United States |  | Oct 24 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/UX-UI-Design-Intern---Summer-2027_REQ-1000052835) |
 | Zillow | Product Design Intern | Seattle-WA-2nd Ave | \$104,000.00 - \$166,000.00 annually | Oct 23 | [Apply](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Product-Design-Intern_P751613) |
 | [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Graphic Design Intern - Summer 2027 | Urbandale, IA |  | Oct 22 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253721) |
 | [Target](https://internscout.org/internships/at/target/) | Designer Intern, Owned Brands- Minneapolis, MN (Starting Summer, 2027) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 |  | Oct 22 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Designer-Intern--Owned-Brands--Minneapolis--MN--Starting-Summer--2027-_R0000478536-1) |
@@ -37,7 +38,7 @@
 | Workshop | Product Design Intern (Summer 2027) | Omaha, Nebraska, United States |  | Sep 14 | [Apply](https://job-boards.greenhouse.io/workshop/jobs/5237950007) |
 | [Figma](https://internscout.org/internships/at/figma/) | Product Design Intern (2027) | San Francisco, CA • New York, NY |  | Sep 14 | [Apply](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) |
 | [URBN](https://internscout.org/internships/at/urbn/) | FP Movement Summer 2027 Apparel Design Intern | Philadelphia, PA | Paid | Sep 14 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/31334/fp-movement-summer-2027-apparel-design-intern/job) |
-| [URBN](https://internscout.org/internships/at/urbn/) | URBN Store Design Intern | Philadelphia, PA +1 | Paid | Sep 14 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/30902/urbn-store-design-intern/job) |
+| [URBN](https://internscout.org/internships/at/urbn/) | URBN Store Design Intern | Philadelphia, PA | Paid | Sep 14 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/30902/urbn-store-design-intern/job) |
 | [URBN](https://internscout.org/internships/at/urbn/) | Free People Summer 2027 Print, Craft & Textile Design Intern | Philadelphia, PA | Paid | Sep 14 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/31219/free-people-summer-2027-print%2c-craft-%26-textile-design-intern/job) |
 | [URBN](https://internscout.org/internships/at/urbn/) | Urban Outfitters Summer 2027 Apparel Design Intern Opportunities | Philadelphia, PA | Paid | Sep 14 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/31169/urban-outfitters-summer-2027-apparel-design-intern-opportunities/job) |
 | [URBN](https://internscout.org/internships/at/urbn/) | Free People Summer 2027 Apparel Design Intern | Philadelphia, PA | Paid | Sep 14 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/31218/free-people-summer-2027-apparel-design-intern/job) |

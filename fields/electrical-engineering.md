@@ -1,6 +1,6 @@
 # Electrical Engineering: Summer 2027 Internships
 
-237 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 237). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 629 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+236 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 236). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 629 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -29,7 +29,6 @@
 | [RTX](https://internscout.org/internships/at/rtx/) | RF Systems Engineer Intern (Summer 2027) | Goleta, CA | Paid | Oct 21 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/RF-Systems-Engineer-Intern--Summer-2027-_01880952) |
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-op - Refining Electrical Engineering (Summer 2027) | Findlay, Ohio +14 | \$32.92 per hour | Oct 21 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Refining-Electrical-Engineering--Summer-2027-_00023669) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Electrical or Mechanical Engineering (Big Creek) | Big Creek, CA |  | Oct 21 | [Apply](https://apply.edisoncareers.com/job/Big-Creek-2027-Summer-Internship-Electrical-or-Mechanical-Engineering-%28Big-Creek%29-CA-93605/1422760000/) |
-| [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Electrical Engineering Co-op \| Philadelphia, PA | Philadelphia, PA +1 |  | Oct 20 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Philadelphia-PA/Electrical-Engineering-Co-op---Philadelphia--PA_R-16907) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Electrical Engineering Intern - Buildings (Summer 2027) | Plano, TX |  | Oct 20 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008416) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Electrical Engineering Intern - Buildings (Summer 2027) | Dallas, TX |  | Oct 20 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008417) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Electrical Engineering Intern - Buildings (Summer 2027) | Houston, TX |  | Oct 20 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008418) |
@@ -204,6 +203,7 @@
 | [AES](https://internscout.org/internships/at/aes/) | Intern - T&D standards Power Systems - (Summer 2027) | Dayton, OH +1 |  | Oct 24 | [Apply](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/Intern---T-D-standards-Power-Systems----Summer-2027-_R1064748) |
 | [SSOE Group](https://internscout.org/internships/at/ssoe-group/) | Electrical Engineering Intern - Summer 2027 | Atlanta, GA |  | Oct 22 | [Apply](https://careers-ssoe.icims.com/jobs/3999/electrical-engineering-intern---summer-2027/job) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Co-Op Student, Power Delivery, Engineering, Summer 2027 | Jackson, Mississippi |  | Oct 21 | [Apply](https://jobs.entergy.com/job/Jackson-Co-Op-Student%2C-Power-Delivery%2C-Engineering%2C-Summer-2027-Miss/1442312200/) |
+| [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Electrical Design Engineer Intern | Kirkland, WA |  | Oct 20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Electrical-Design-Engineer-Intern-WA-98033/1449527533/) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

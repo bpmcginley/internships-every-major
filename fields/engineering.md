@@ -1,6 +1,6 @@
 # Engineering: Summer 2027 Internships
 
-623 open Summer 2027 engineering roles, newest first (the 200 newest of 623). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 1,777 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+625 open Summer 2027 engineering roles, newest first (the 200 newest of 625). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 1,780 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Micron Technology](https://internscout.org/internships/at/micron-technology/) | Design Engineer Intern, Pathfinding | San Jose, CA +1 |  | Oct 20 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---Design-Engineer--Pathfinding_JR114189) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - GM OneOps Deploy Engineer | Warren, Michigan, United States of America |  | Oct 20 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---GM-OneOps-Deploy-Engineer_JR-202621896) |
 | [Amcor](https://internscout.org/internships/at/amcor/) | Tooling Design Engineering Intern (Summer 2027) | RPSNA Erie (ERPA) PA |  | Oct 20 | [Apply](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/RPSNA-Erie-ERPA-PA/Tooling-Design-Engineering-Intern--Summer-2027-_REQ_97446) |
-| [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | Supplies and Sensors R&D Intern | Morris Plains, NJ |  | Oct 20 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Morris-Plains-New-Jersey/XMLNAME-2027-Summer-Internship--US----Supplies-and-Sensors-R-D_JR103643) |
+| [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Supplies and Sensors R&D | Morris Plains, New Jersey +1 | \$33.00 - \$40.50/hour | Oct 20 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Morris-Plains-New-Jersey/XMLNAME-2027-Summer-Internship--US----Supplies-and-Sensors-R-D_JR103643) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Current Model Paint Engineering Intern - Summer 2027 - Smyrna, TN | Smyrna, Tennessee - United States of America |  | Oct 20 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Current-Model-Paint-Engineering---Summer-2027---Smyrna--TN_R00214287) |
 | [Corning](https://internscout.org/internships/at/corning/) | Intern, Advanced Process Controls - Summer 2027 | Painted Post, NY | \$1,635.00 - \$3,185.00 | Oct 20 | [Apply](https://corningjobs.corning.com/job/Painted-Post-Intern%2C-Advanced-Process-Controls-Summer-2027-NY-14870/1432275700/) |
 | [Westinghouse Electric Company](https://internscout.org/internships/at/westinghouse-electric-company/) | Product Engineer Intern | Cranberry Township, PA |  | Oct 19 | [Apply](https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Product-Engineer-NC/1441276000/?ats=successfactors) |

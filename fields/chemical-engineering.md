@@ -1,6 +1,6 @@
 # Chemical Engineering: Summer 2027 Internships
 
-72 open Summer 2027 chemical engineering roles, newest first (all 72). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 197 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+73 open Summer 2027 chemical engineering roles, newest first (all 73). **Updated October 24, 2026.** [Back to every major](../README.md) · [See all 196 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Process Engineering Intern - Summer 2027 | US.WA.Bothell | \$25 - \$31 hour | Sep 28 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USWABothell/Process-Engineering-Intern---Summer-2027_R-162014-1) |
 | [X-energy](https://internscout.org/internships/at/x-energy/) | Process Engineering Internship - Summer 2027 | Oak Ridge, TN |  | Sep 28 | [Apply](https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Oak-Ridge-TN/Process-Engineering-Internship---Summer-2027_R101363) |
 | [Post Holdings](https://internscout.org/internships/at/post-holdings/) | Process Engineering Intern Summer 2027 | New Albany, Ohio |  | Sep 18 | [Apply](https://jobs.postholdings.com/jobs/31984) |
+| [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Process Engineering Intern | Del Rio, TX |  | Sep 9 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119147) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Chemical Engineering Intern - Water (Summer 2027) | Houston, TX |  | Sep 1 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007432) |
 | [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Plant Process Engineer Intern - Summer 2027 | Sioux Center, IA |  | Sep 1 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253136) |
 | [Honeywell](https://internscout.org/internships/at/honeywell/) | Chemical Engineering - Summer 2027 Intern (US Person Required) | United States |  | Aug 25 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155526) |
