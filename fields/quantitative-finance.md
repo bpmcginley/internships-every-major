@@ -1,11 +1,12 @@
 # Quantitative Finance: Summer 2027 Internships
 
-135 open Summer 2027 quantitative finance roles, newest first (all 135). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 182 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
+136 open Summer 2027 quantitative finance roles, newest first (all 136). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 185 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Middle Market Underwriting/Portfolio Management (San Diego, CA) | San Diego, California | \$18.50/hr | Oct 23 | [Apply](https://firstcitizens.jibeapply.com/jobs/35637) |
-| InfiniteQuant | Quantitative Researcher Intern | New York, NY |  | Oct 22 | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000157170821) |
+| Man Group | Systematic Quant Intern | Boston, MA |  | Oct 22 | [Apply](https://go.vansh.nyc/fC) |
+| InfiniteQuant | Quantitative Researcher Intern | New York, NY |  | Oct 22 | [Apply](https://go.vansh.nyc/eP) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern – Quantitative Analyst (Raleigh, NC) | Raleigh, North Carolina |  | Oct 22 | [Apply](https://firstcitizens.jibeapply.com/jobs/36154) |
 | FanDuel | Sports Trader Intern - Summer 2027 | Jersey City, New Jersey, United States +1 | Paid | Oct 20 | [Apply](https://www.fanduel.careers/open-positions?gh_jid=8300829) |
 | Graviton | Quantitative Researcher - 2027 Summer Internship | New York +1 |  | Oct 19 | [Apply](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002) |
@@ -50,7 +51,7 @@
 | [DV Group](https://internscout.org/internships/at/dv-group/) | Futures & Options Trading Analyst Intern - Summer 2027 | New York +1 | \$18.75/hr | Aug 25 | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005) |
 | InfiniteQuant | Quantitative Developer Internship - Summer 2027 | NYC |  | Aug 24 | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Trading (New York, NY) | New York, NY +1 | \$52,000 | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81350) |
-| Millennium | Quantitative Developer Intern | New York, NY |  | Aug 21 | [Apply](https://career.mlp.com/careers/job/755957819661) |
+| Millennium | Quantitative Developer Intern | New York, NY |  | Aug 21 | [Apply](https://go.vansh.nyc/7g) |
 | Xantium | Quantitative Developer Intern | NYC |  | Aug 17 | [Apply](https://job-boards.greenhouse.io/xantium/jobs/4360768009) |
 | Xantium | Quantitative Researcher Intern | NYC |  | Aug 17 | [Apply](https://job-boards.greenhouse.io/xantium/jobs/4371217009) |
 | [DV Group](https://internscout.org/internships/at/dv-group/) | Trading Intern - Summer 2027 (DV Commodities) | New York +1 | \$50.00 per hour | Aug 17 | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719134005) |
@@ -70,16 +71,17 @@
 | Chicago Trading Company | Quant Trading Internship - Summer 2027 | Chicago, Illinois, United States +1 | \$16,500 | Aug 3 | [Apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005) |
 | [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Quantitative Research - Risk and Treasury - Summer Internship - Associate - United States | New York, NY +3 |  | Aug 3 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978) |
 | Two Sigma | Quantitative Researcher Intern | NYC |  | Aug 2 | [Apply](https://twosigma.avature.net/careers/JobDetail/13945) |
-| [DRW](https://internscout.org/internships/at/drw/) | Quantitative Trading Analyst Intern | Chicago, IL |  | Jul 31 | [Apply](https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3375090) |
-| [DRW](https://internscout.org/internships/at/drw/) | Quantitative Research Intern | Chicago, IL +1 |  | Jul 31 | [Apply](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670) |
-| IMC | Quantitative Research Intern | Chicago, IL |  | Jul 24 | [Apply](https://www.imc.com/us/careers/jobs/4907399101) |
-| IMC | Quantitative Research Intern (PHD) | Chicago |  | Jul 24 | [Apply](https://www.imc.com/us/careers/jobs/4907400101) |
-| [Akuna Capital](https://internscout.org/internships/at/akuna-capital/) | Quantitative Research Intern | Chicago |  | Jul 24 | [Apply](https://akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
-| [Akuna Capital](https://internscout.org/internships/at/akuna-capital/) | Quantitative Development & Strategy Intern | Chicago |  | Jul 24 | [Apply](https://akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
-| [Jane Street](https://internscout.org/internships/at/jane-street/) | Trading Desk Operations Engineer Intern | New York, NY |  | Jul 24 | [Apply](https://www.janestreet.com/join-jane-street/position/8621450002/) |
-| [Jane Street](https://internscout.org/internships/at/jane-street/) | Sales and Trading Intern | New York, NY |  | Jul 24 | [Apply](https://www.janestreet.com/join-jane-street/position/8347385002/) |
-| [Jane Street](https://internscout.org/internships/at/jane-street/) | Quantitative Researcher Intern | New York, NY |  | Jul 24 | [Apply](https://www.janestreet.com/join-jane-street/position/8498547002/) |
-| [Jane Street](https://internscout.org/internships/at/jane-street/) | Quantitative Trader Intern | New York, NY |  | Jul 24 | [Apply](https://www.janestreet.com/join-jane-street/position/8617344002/) |
+| [DRW](https://internscout.org/internships/at/drw/) | Quantitative Trading Analyst Intern | Chicago, IL |  | Jul 31 | [Apply](https://go.vansh.nyc/5r) |
+| [DRW](https://internscout.org/internships/at/drw/) | Quantitative Research Intern | Chicago, IL +1 |  | Jul 31 | [Apply](https://go.vansh.nyc/5q) |
+| Chicago Trading Company | Quant Trading Intern | Chicago, IL |  | Jul 27 | [Apply](https://go.vansh.nyc/5a) |
+| Stevens Capital Management | Quantitative Research Analyst Internship | Radnor, PA |  | Jul 27 | [Apply](https://go.vansh.nyc/4V) |
+| [Akuna Capital](https://internscout.org/internships/at/akuna-capital/) | Quantitative Research Intern | Chicago |  | Jul 24 | [Apply](https://go.vansh.nyc/4z) |
+| [Akuna Capital](https://internscout.org/internships/at/akuna-capital/) | Quantitative Development & Strategy Intern | Chicago |  | Jul 24 | [Apply](https://go.vansh.nyc/4y) |
+| [Jane Street](https://internscout.org/internships/at/jane-street/) | Trading Desk Operations Engineer Intern | New York, NY |  | Jul 24 | [Apply](https://go.vansh.nyc/49) |
+| [Jane Street](https://internscout.org/internships/at/jane-street/) | Sales and Trading Intern | New York, NY |  | Jul 24 | [Apply](https://go.vansh.nyc/47) |
+| [Jane Street](https://internscout.org/internships/at/jane-street/) | Quantitative Researcher Intern | New York, NY |  | Jul 24 | [Apply](https://go.vansh.nyc/3Y) |
+| [Jane Street](https://internscout.org/internships/at/jane-street/) | Quantitative Trader Intern | New York, NY |  | Jul 24 | [Apply](https://go.vansh.nyc/3X) |
+| Radix Trading | Quantitative Technologist Intern, C++ | Chicago, IL |  | Jul 24 | [Apply](https://go.vansh.nyc/3R) |
 | Optiver | Institutional Trader Intern (2027 Start - Chicago) | Chicago, Illinois, United States +1 | \$45,000 | Jul 23 | [Apply](https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002) |
 | [Virtu](https://internscout.org/internships/at/virtu/) | 2027 Internship - Quantitative Researcher (PhD) | New York +1 | \$5,000 - \$5,800 week | Jul 22 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624424002) |
 | [Virtu](https://internscout.org/internships/at/virtu/) | 2027 Internship - Quantitative Trading | Austin, TX +5 | \$5,000 - \$5,800 week | Jul 21 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624408002) |
@@ -89,28 +91,27 @@
 | [Akuna Capital University](https://internscout.org/internships/at/akuna-capital-university/) | Quantitative Research Intern | Chicago, IL |  | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
 | [Akunacapital](https://internscout.org/internships/at/akunacapital/) | Quantitative Development & Strategy Intern, Summer 2027 | Chicago, IL | \$145,000 | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
 | [Akunacapital](https://internscout.org/internships/at/akunacapital/) | Quantitative Research Intern, Summer 2027 | Chicago, IL | \$145,000 | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
+| [Jump Trading](https://internscout.org/internships/at/jump-trading/) | Quantitative Trader Intern | Chicago, IL +1 |  | Jul 9 | [Apply](https://go.vansh.nyc/3k) |
 | [Jump Trading](https://internscout.org/internships/at/jump-trading/) | Campus Quantitative Researcher, PhD (Intern) | Chicago +3 | \$300,000 per year | Jul 8 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8049938) |
 | Flowtraders | Quantitative Trading Intern Summer 2027 | New York +1 | \$150,000 | Jul 8 | [Apply](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) |
-| Susquehanna Investment Group | Quantitative Strategy Developer Intern | Bala Cynwyd, PA |  | Jul 7 | [Apply](https://careers.sig.com/intern-co-op-technology/jobs/10838?lang=en-us) |
-| Tower Research | Quantitative Developer Intern | Chicago, IL +1 |  | Jul 7 | [Apply](https://tower-research.com/open-positions/?gh_jid=8044334) |
+| Susquehanna Investment Group | Quantitative Strategy Developer Intern | Bala Cynwyd, PA |  | Jul 7 | [Apply](https://go.vansh.nyc/3c) |
+| Tower Research | Quantitative Developer Intern | Chicago, IL +1 |  | Jul 7 | [Apply](https://go.vansh.nyc/38) |
 | [Tower Research Capital](https://internscout.org/internships/at/tower-research-capital/) | Quantitative Trader/Researcher Intern - Summer 2027 | New York +3 | \$3,500-5,700 | Jul 5 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8024128) |
 | [Tower Research Capital](https://internscout.org/internships/at/tower-research-capital/) | Quantitative Developer Intern - Summer 2027 | New York +3 | \$3,500-5,700 | Jul 5 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8044334) |
 | [IMC Trading](https://internscout.org/internships/at/imc-trading/) | Quantitative Research Intern (PhD) - Summer 2027 | Chicago, United States +1 | \$250,000 | Jul 1 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907400101) |
 | [IMC Trading](https://internscout.org/internships/at/imc-trading/) | Quantitative Research Intern (BS/MS) - Summer 2027 | Chicago, United States +1 | \$250,000 | Jul 1 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) |
 | [IMC Trading](https://internscout.org/internships/at/imc-trading/) | Quantitative Trader Intern - Summer 2027 | Chicago, United States +1 | \$250,000 | Jul 1 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) |
 | Voloridge | Quantitative Research Intern 2027 | Jupiter, FL | \$100,000 | Jun 11 | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
+| [TransMarket Group](https://internscout.org/internships/at/transmarket-group/) | Quantitative Trader Intern | Chicago, IL |  | Jun 2 | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007) |
 | Walleye Capital | Quantic – Quantitative Developer Intern (Summer 2027) | Boston, MA | \$20,000/month | Jun 1 | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) |
 | Walleye Capital | Quantic - PhD Quantitative Researcher Intern (Summer 2027) | Boston, MA | \$20,000/month | Jun 1 | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006) |
 | Walleye Capital | Equity Volatility Quant Researcher Intern (Summer 2027) | Miami, FL | \$20,000/month | Jun 1 | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) |
 | [AQR Capital Management](https://internscout.org/internships/at/aqr-capital-management/) | Research and Portfolio Management Engineering Summer Analyst Intern | Greenwich, CT |  | May 26 | [Apply](https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728) |
 | [AQR](https://internscout.org/internships/at/aqr/) | 2027 Research and Portfolio Management Engineering Summer Analyst | Greenwich, CT |  | May 26 | [Apply](https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728) |
-| Stevens Capital Management | Quantitative Research Analyst Internship | Radnor, PA |  | May 24 | [Apply](https://job-boards.greenhouse.io/scm/jobs/721895) |
-| Voloridge Investment Management | Quantitative Developer Intern | Jupiter, FL |  | May 23 | [Apply](https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803) |
-| [Susquehanna](https://internscout.org/internships/at/susquehanna-international-group/) | Trading System Engineering Intern | Bala Cynwyd, PA |  | May 22 | [Apply](https://careers.sig.com/jobs/10837?lang=en-us&mode=apply&iis=LinkedIn&jr_id=69f3d11158b23a2329da8088) |
+| [Susquehanna](https://internscout.org/internships/at/susquehanna-international-group/) | Trading System Engineering Intern | Bala Cynwyd, PA |  | May 22 | [Apply](https://go.vansh.nyc/2M) |
 | [AQR Capital Management](https://internscout.org/internships/at/aqr-capital-management/) | Portfolio Implementation – Trading and Portfolio Finance Analyst Intern | Greenwich, CT |  | May 15 | [Apply](https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562) |
 | Capula | 2027 Trading and Research Summer Internship | New York, New York | Paid | Apr 30 | [Apply](https://apply.workable.com/j/A15A62A8BE/apply) |
-| [Point72](https://internscout.org/internships/at/point72/) | Quantitative Researcher Intern | New York, NY |  | Apr 19 | [Apply](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) |
-| Radix Trading | Quantitative Technologist (C++ Intern) | Chicago +1 |  | Apr 9 | [Apply](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) |
+| [Point72](https://internscout.org/internships/at/point72/) | Quantitative Researcher Intern | New York, NY |  | Apr 19 | [Apply](https://go.vansh.nyc/1f) |
 | Aquatic Capital | Quantitative Researcher, Intern (Summer 2027) | Chicago +1 |  | Apr 1 | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) |
 | Trillium | Summer 2027 Discretionary Trading Internship | Miami +1 | \$1,000/week | Mar 31 | [Apply](https://www.trlm.com/apply/5076067007?gh_jid=5076067007) |
 | Trillium | Summer 2027 Discretionary Trading Internship | Chicago +1 | \$1,000/week | Mar 31 | [Apply](https://www.trlm.com/apply/5076017007?gh_jid=5076017007) |

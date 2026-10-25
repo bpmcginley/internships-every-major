@@ -108,7 +108,7 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Recommendation Mall | Seattle, WA +1 |  | Aug 12 | [Apply](https://lifeattiktok.com/search/7672920375646488885) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Global E-commerce-Search | Seattle, WA |  | Aug 10 | [Apply](https://lifeattiktok.com/search/7670839727059339525) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Fullstack Software Engineer Intern - Global E-Commerce | Seattle, WA +1 |  | Aug 7 | [Apply](https://lifeattiktok.com/search/7670700387322300677) |
-| [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern, Data Arch - E-commerce | Seattle, WA |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7668582146236631349) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern, Data Arch - E-commerce | Seattle, WA |  | Aug 4 | [Apply](https://go.vansh.nyc/6n) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - Data Search Recommendation Global E-Commerce | Seattle, WA |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7668383643375257909) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Backend Software Engineer Intern - Global E-Commerce | San Jose, CA +1 |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7668834837268138293) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Data Architecture - E-commerce | Seattle, WA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7668582146236631349) |

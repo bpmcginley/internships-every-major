@@ -1,15 +1,16 @@
 # Biology: Summer 2027 Internships
 
-16 open Summer 2027 biology roles, newest first (all 16). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 714 biology internships on InternScout](https://internscout.org/internships/biology/)
+17 open Summer 2027 biology roles, newest first (all 17). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 716 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Cleveland Clinic](https://internscout.org/internships/at/cleveland-clinic/) | Pharmacy Intern - Summer 2027 Internship | Fairview Hospital, OH |  | Oct 23 | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Pharmacy-Intern---Summer-2027-Internship_344656) |
 | [Centene](https://internscout.org/internships/at/centene/) | Pharmacy Summer 2027 Intern (Undergraduate) | Remote-MO +49 | \$21.00 - \$26.00 per hour | Oct 23 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Pharmacy-Summer-2027-Intern--Undergraduate-_1671474) |
 | [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program - Pharmacokinetic, Dynamics, Metabolism and Bioanalytics Intern | USA - Pennsylvania - West Point | \$39,108 | Oct 23 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Pharmacokinetic--Dynamics--Metabolism-and-Bioanalytics-Intern_R413056) |
-| LabCorp | Intern - Bioinformatics | Baltimore MD +1 | \$30-\$33/hr | Oct 22 | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Baltimore-MD/Intern---Bioinformatics_2634135) |
+| LabCorp | Bioinformatics Intern | Baltimore, MD |  | Oct 22 | [Apply](https://go.vansh.nyc/eG) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Pharmaceutical Lab Internship (Crystallization) Summer 2027 | El Segundo, California, United States | \$33.00 | Oct 21 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8040897003) |
 | [Cigna Group](https://internscout.org/internships/at/cigna-group/) | Pharmacy Benefits Management - Strategy Intern | St. Louis, MO | Paid | Oct 21 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Pharmacy-Benefits-Management---Strategy-Intern_26009416-1) |
+| [Gilead Sciences](https://internscout.org/internships/at/gilead-sciences/) | Research Intern, Clinical Virology - AI | Foster City, CA |  | Oct 16 | [Apply](https://go.vansh.nyc/bx) |
 | [Haleon](https://internscout.org/internships/at/haleon/) | 2027: Summer Intern: VCU School of Pharmaceutical Sciences Intern | USA - Virginia - Richmond |  | Oct 12 | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---Virginia---Richmond/XMLNAME-2027--Summer-Intern--VCU-School-of-Pharmaceutical-Sciences-Intern_548425) |
 | [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program – Drug Metabolism and Pharmacokinetics – Co-op | USA - California - South San Francisco (Grand Ave) | \$39,108 | Oct 12 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Drug-Metabolism-and-Pharmacokinetics---Co-op_R412928) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Wildlife Biologist (Austin, TX) | Austin, TX (TX18) +1 | \$34,564.00 - \$58,758.00 | Oct 8 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Austin-TX-TX18/XMLNAME-2027-Summer-Intern--Wildlife-Biologist--Austin--TX-_R2603412) |

@@ -1,6 +1,6 @@
 # Health: Summer 2027 Internships
 
-42 open Summer 2027 health roles, newest first (all 42). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 287 health internships on InternScout](https://internscout.org/internships/health/)
+44 open Summer 2027 health roles, newest first (all 44). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 289 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -13,6 +13,8 @@
 | [Philips](https://internscout.org/internships/at/philips/) | Intern – R&D Front-End Innovation Intern - Oral Healthcare – Bothell, WA – Summer 2027 | Bothell, Washington, United States | \$29.00 to \$32.00 | Oct 20 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---R-D-Front-End-Innovation-Intern---Oral-Healthcare---Bothell--WA---Summer-2027_593146) |
 | [State of Nebraska](https://internscout.org/internships/at/state-of-nebraska/) | Public Health Internship (Summer 2027) | Lincoln, NE |  | Oct 20 | [Apply](https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Public-Health-Internship--Summer-2027-_JR2026-00029911) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | General Management Corporate Internship - Summer 2027 (Undergraduate) | CT - Hartford +2 | \$26/hr | Oct 20 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/General-Management-Corporate-Internship---Summer-2027_R1025480) |
+| [Gilead Sciences](https://internscout.org/internships/at/gilead-sciences/) | Research Intern, Clinical Virology - AI | Foster City, CA |  | Oct 16 | [Apply](https://go.vansh.nyc/bx) |
+| [Cigna](https://internscout.org/internships/at/cigna-group/) | Healthcare Analytics Intern | Morris Plains, NJ |  | Oct 15 | [Apply](https://go.vansh.nyc/9E) |
 | Medline | Healthcare Customer Service Intern - Summer 2027 | Dubuque, Iowa | \$16.50 - \$24.00 Hour | Oct 15 | [Apply](https://medline.wd5.myworkdayjobs.com/Medline/job/Dubuque-Iowa/Healthcare-Customer-Service-Internship---Summer-2027_R2616839) |
 | [Cigna Group](https://internscout.org/internships/at/cigna-group/) | Healthcare Analytics Summer Intern - Morris Plains, NJ - Start Date: May 24, 2027 | Morris Plains, NJ | \$26.00 | Oct 15 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Morris-Plains--NJ---Start-Date--May-24--2027_26009483) |
 | [Philips](https://internscout.org/internships/at/philips/) | Intern - Health Systems Marketing-Cambridge, MA-Summer 2027 | Cambridge (US), Massachusetts, United States | \$26.00 – 40.00 | Oct 13 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Health-Systems-Marketing-Cambridge--MA-Summer-2027_593616) |

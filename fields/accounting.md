@@ -1,6 +1,6 @@
 # Accounting: Summer 2027 Internships
 
-233 open Summer 2027 accounting roles, newest first (the 200 newest of 233). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 565 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+234 open Summer 2027 accounting roles, newest first (the 200 newest of 234). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 566 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | Internal Audit Summer 2027 Internship | US - UPS CORPORATE OFFICES (GACOR) |  | Oct 20 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Internal-Audit-Summer-2027-Internship_R26039001) |
 | [Royal Caribbean Group](https://internscout.org/internships/at/royal-caribbean-group/) | Intern, Accounting (Summer 2027) | Miami, FL |  | Oct 20 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miami-Intern%2C-Accounting-%28Summer-2027%29-FL-33132/1420510200/) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Undergrad Co-op – Finance/Accounting | Remote | \$28.87 per hour | Oct 19 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Co-op---Finance-Accounting_R-258006) |
+| [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Marketing, Accounting, or IT Intern | Detroit, MI |  | Oct 16 | [Apply](https://go.vansh.nyc/aq) |
 | [RSM](https://internscout.org/internships/at/rsm/) | State and Local Tax - Sales and Use Intern - Summer 2027 | Phoenix |  | Oct 16 | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Phoenix/State-and-Local-Tax---Sales-and-Use-Intern---Summer-2027_JR121257) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Accounting & Business Systems (Morristown, NJ) | Morristown, New Jersey | \$21.51/hour | Oct 16 | [Apply](https://firstcitizens.jibeapply.com/jobs/35813) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Rochester - Tax - Intern - Summer 2027 | NY-Rochester | \$29.25 - \$48.00 | Oct 16 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/NY-Rochester/Rochester---Tax-CPA---Intern---Summer-2027_756471WD) |
@@ -203,7 +204,6 @@
 | [CareBridge](https://internscout.org/internships/at/carebridge/) | Tax Intern - Summer 2027 | IN-INDIANAPOLIS, 220 VIRGINIA AVE |  | Sep 18 | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Tax-Intern---Summer-2027_JR202207) |
 | [DuCharme, McMillen & Associates](https://internscout.org/internships/at/ducharme-mcmillen-associates/) | Transaction Tax Compliance Intern - Summer 2027 | Indianapolis, IN |  | Sep 18 | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Indianapolis-IN/Transaction-Tax-Compliance-Intern---Summer-2027_REQ620) |
 | [Guardian Life](https://internscout.org/internships/at/guardian-life/) | 2027 Guardian Summer Intern, Corporate Finance & Risk – Internal Audit | New York | \$20.00 - \$35.00 | Sep 18 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Internal-Audit_R000110166) |
-| [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Accounting Intern- Summer 2027 | Richfield, OH (USA) |  | Sep 18 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Richfield-OH-USA/Accounting-Intern--Summer-2027_R9497-2) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

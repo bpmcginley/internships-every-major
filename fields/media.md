@@ -1,11 +1,12 @@
 # Media: Summer 2027 Internships
 
-30 open Summer 2027 media roles, newest first (all 30). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 121 media internships on InternScout](https://internscout.org/internships/media/)
+31 open Summer 2027 media roles, newest first (all 31). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 122 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| OpenArt AI | Early Adopter & Product Builder Intern, Creative AI | San Carlos, CA |  | Oct 22 | [Apply](https://go.vansh.nyc/ej) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027 | US, CA +4 |  | Oct 21 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) |
-| Sony | Research Engineer Intern, Ethical Creative and Protective AI Lab | Remote |  | Oct 20 | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784) |
+| Sony | Research Engineer Intern, Ethical Creative and Protective AI Lab | Remote |  | Oct 20 | [Apply](https://go.vansh.nyc/cP) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Recommendation Video | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694362230074673461) |
 | [Dow Jones](https://internscout.org/internships/at/dow-jones/) | Summer 2027 Internship Program – Research Analyst Intern | Houston, TX - OPIS +1 | \$28.00 - \$28.00 | Oct 14 | [Apply](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55873) |
 | [David Yurman](https://internscout.org/internships/at/david-yurman/) | Video Editing Intern | New York, NY | \$25/hour | Oct 14 | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Video-Editing-Intern_R-101115) |

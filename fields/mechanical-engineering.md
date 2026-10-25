@@ -1,6 +1,6 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-285 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 285). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 910 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+286 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 286). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 911 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [onsemi](https://internscout.org/internships/at/onsemi/) | Manufacturing AI Engineering Intern | Hopewell Junction, NY |  | Oct 14 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506642) |
 | [Inversion Space](https://internscout.org/internships/at/inversion-space/) | Manufacturing Engineer - Summer Internship 2027 | Playa Vista, California, United States | Paid | Oct 14 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4743748005) |
 | [Inversion Space](https://internscout.org/internships/at/inversion-space/) | Mechanical Engineer - Summer Internship 2027 | Playa Vista, California, United States | Paid | Oct 14 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4743740005) |
+| [onsemi](https://internscout.org/internships/at/onsemi/) | Manufacturing AI Intern | Hopewell Junction, NY |  | Oct 14 | [Apply](https://go.vansh.nyc/9k) |
 | Plastipak | Manufacturing Operations (Engineering) Intern – Summer 2027 | Plastipak - Plant City, FL |  | Oct 14 | [Apply](https://plastipak.wd1.myworkdayjobs.com/Plastipak/job/Plastipak---Plant-City-FL/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24669) |
 | [Charter Manufacturing](https://internscout.org/internships/at/charter-manufacturing/) | Mechanical Engineer Intern (Summer 2027) | Charter Wire - Menomonee Valley - Milwaukee, WI |  | Oct 14 | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Wire---Menomonee-Valley---Milwaukee-WI/Mechanical-Engineer-Intern--Summer-2027-_R08115) |
 | Plastipak | Manufacturing Operations (Engineering) Intern – Summer 2027 | Plastipak - Pineville, LA |  | Oct 14 | [Apply](https://plastipak.wd1.myworkdayjobs.com/Plastipak/job/Plastipak---Pineville-LA/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24668) |
@@ -203,7 +204,6 @@
 | [Freeform](https://internscout.org/internships/at/freeform/) | Manufacturing Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | \$30/hour | Aug 19 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895700003) |
 | [Freeform](https://internscout.org/internships/at/freeform/) | Mechanical Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | \$30/hour | Aug 18 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894117003) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors - Mechanical Engineering Intern | Wadsworth, Ohio | \$38.20 | Aug 18 | [Apply](https://careers.cdmsmith.com/jobs/4035) |
-| [Astranis](https://internscout.org/internships/at/astranis/) | Mechanical Engineer Intern (Summer 2027) | San Francisco |  | Aug 14 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704601006) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

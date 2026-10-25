@@ -1,6 +1,6 @@
 # Law and Legal: Summer 2027 Internships
 
-125 open Summer 2027 law and legal roles, newest first (all 125). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 286 law and legal internships on InternScout](https://internscout.org/internships/law/)
+127 open Summer 2027 law and legal roles, newest first (all 127). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 286 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -118,6 +118,8 @@
 | [Brennan Center for Justice](https://internscout.org/internships/at/brennan-center-for-justice/) | Summer 2027 Democracy Legal Internship - NYC and DC | New York, NY |  | Oct 3 | [Apply](https://brennancenter.applytojob.com/apply/3h3CdiEdLS/Summer-2027-Democracy-Legal-Internship-NYC-And-DC) |
 | [Brennan Center for Justice](https://internscout.org/internships/at/brennan-center-for-justice/) | Summer 2027 Justice Legal Internship | New York, NY |  | Oct 3 | [Apply](https://brennancenter.applytojob.com/apply/6pmeKxkyUe/Summer-2027-Justice-Legal-Internship) |
 | [Brennan Center for Justice](https://internscout.org/internships/at/brennan-center-for-justice/) | Summer 2027 Liberty and National Security Legal Internship - NYC and DC | New York, NY |  | Oct 3 | [Apply](https://brennancenter.applytojob.com/apply/n9gOj5sxRx/Summer-2027-Liberty-And-National-Security-Legal-Internship-NYC-And-DC) |
+| [NJM Insurance Group](https://internscout.org/internships/at/njm-insurance-group/) | General Claims Legal Intern | NJM - Trenton, NJ | Paid | Oct 2 | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/General-Claims-Legal-Intern_R2008162) |
+| [NJM Insurance Group](https://internscout.org/internships/at/njm-insurance-group/) | Law Clerk Summer Intern | NJM - Trenton, NJ | \$21-\$25 hour | Oct 2 | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Law-Clerk-Summer-Intern_R2008215) |
 | [Dallas Fort Worth International Airport](https://internscout.org/internships/at/dallas-fort-worth-international-airport/) | 2027 Undergraduate Summer Internship - Fire Regulatory Compliance & Planning | DPS Headquarters, TX |  | Sep 23 | [Apply](https://dfwairport.wd5.myworkdayjobs.com/External/job/DPS-Headquarters/XMLNAME-2027-Undergraduate-Summer-Internship---Fire-Regulatory-Compliance---Planning_JR102115) |
 | [DuCharme, McMillen & Associates](https://internscout.org/internships/at/ducharme-mcmillen-associates/) | Transaction Tax Compliance Intern - Summer 2027 | Indianapolis, IN |  | Sep 18 | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Indianapolis-IN/Transaction-Tax-Compliance-Intern---Summer-2027_REQ620) |
 | [Newrez](https://internscout.org/internships/at/newrez/) | 2027 Summer Internship – Homeowner Advocate - Regulatory Resolution | TX, Coppell |  | Sep 18 | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Homeowner-Advocate---Regulatory-Resolution_R10374) |

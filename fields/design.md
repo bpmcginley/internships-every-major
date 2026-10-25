@@ -1,17 +1,17 @@
 # Design: Summer 2027 Internships
 
-63 open Summer 2027 design roles, newest first (all 63). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 184 design internships on InternScout](https://internscout.org/internships/design/)
+63 open Summer 2027 design roles, newest first (all 63). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 185 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | UX/UI Design Intern - Summer 2027 | Valley City, OH, United States |  | Oct 24 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/UX-UI-Design-Intern---Summer-2027_REQ-1000052835) |
 | Zillow | Product Design Intern | Seattle-WA-2nd Ave | \$104,000.00 - \$166,000.00 annually | Oct 23 | [Apply](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Product-Design-Intern_P751613) |
-| KRAFTON | Stagiaire en programmation UI / UI programming intern | Montréal +2 |  | Oct 22 | [Apply](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8906470002) |
+| KRAFTON | UI Programming Intern | Montreal, Canada |  | Oct 22 | [Apply](https://go.vansh.nyc/hY) |
 | [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Graphic Design Intern - Summer 2027 | Urbandale, IA |  | Oct 22 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253721) |
 | [Target](https://internscout.org/internships/at/target/) | Designer Intern, Owned Brands- Minneapolis, MN (Starting Summer, 2027) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 |  | Oct 22 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Designer-Intern--Owned-Brands--Minneapolis--MN--Starting-Summer--2027-_R0000478536-1) |
 | [KeyBank](https://internscout.org/internships/at/keybank/) | 2027 Summer Graphic Design Internship | Brooklyn, OH |  | Oct 21 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Graphic-Design-Internship_R-42823) |
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | Packaging Science Engineering Intern, Graphics/Graphic Design - Summer 2027 | Towson, MD, United States | \$22.00- \$27.00 per hour | Oct 21 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Packaging-Science-Engineering-Intern--Graphics-Graphic-Design---Summer-2027_REQ-1000052821) |
-| Patreon | Product Design Intern - Summer 2027 | New York +4 | Paid | Oct 20 | [Apply](https://jobs.ashbyhq.com/patreon/b492a008-4218-4ec8-91dc-0fb512027849/application) |
+| [Patreon](https://internscout.org/internships/at/patreon/) | Product Design Intern - Summer 2027 | New York +4 | Paid | Oct 20 | [Apply](https://jobs.ashbyhq.com/patreon/b492a008-4218-4ec8-91dc-0fb512027849/application) |
 | [STR](https://internscout.org/internships/at/str/) | Graphic Design & Technical Communications Intern - Summer 2027 | Woburn, MA | \$25.20-\$54.00/hour | Oct 20 | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723386006) |
 | [Garmin](https://internscout.org/internships/at/garmin/) | User Interface Designer Intern | Olathe, Kansas |  | Oct 20 | [Apply](https://careers.garmin.com/jobs/19938) |
 | [Amplify](https://internscout.org/internships/at/amplify/) | Summer 2027: Product Design Intern | Remote |  | Oct 19 | [Apply](https://jobs.ashbyhq.com/amplify/0b593144-07c5-45be-b979-6c37879e6300/application) |
@@ -47,11 +47,11 @@
 | Immuta | UX Design Internship - Summer 2027 | College Park, MD +2 | Paid | Sep 9 | [Apply](https://jobs.lever.co/immuta/682fa987-3f52-4d95-8239-8e145ce04ed3/apply) |
 | [Force Factor](https://internscout.org/internships/at/force-factor/) | Summer 2027 Digital Graphic Design Intern | Boston, MA +1 |  | Sep 9 | [Apply](https://forcefactor.com/pages/job-openings?gh_jid=6165087004) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Product Design Intern | Hybrid - San Francisco, CA | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175339?gh_jid=8175339) |
-| [Skydio](https://internscout.org/internships/at/skydio/) | Product Design Engineer Intern - Summer 2027 | San Mateo, California, United States +2 | \$47/hr | Sep 4 | [Apply](https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f/application) |
+| [Skydio](https://internscout.org/internships/at/skydio/) | Product Design Engineer Intern - Summer 2027 | San Mateo, California, United States +3 | \$47/hr | Sep 4 | [Apply](https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f/application) |
 | [DoorDash](https://internscout.org/internships/at/doordash/) | Product Design, Intern (Summer 2027) | San Francisco, CA +1 | Paid | Sep 3 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) |
 | [Roblox](https://internscout.org/internships/at/roblox/) | \[Summer 2027\] Product Design Intern | San Mateo, CA, United States | Paid | Sep 2 | [Apply](https://careers.roblox.com/jobs/8143984?gh_jid=8143984) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | Product Design Intern (Summer 2027) | Tysons Corner, Virginia | \$36.00 per hour | Aug 31 | [Apply](https://careers.cvent.com/jobs/10764) |
-| [Jump Trading Group](https://internscout.org/internships/at/jump-trading/) | Campus UI Software Engineer Intern | Chicago, IL |  | Jul 9 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8003019) |
+| [Jump Trading Group](https://internscout.org/internships/at/jump-trading/) | Campus UI Software Engineer Intern | Chicago, IL |  | Jul 9 | [Apply](https://go.vansh.nyc/3m) |
 | [Shure](https://internscout.org/internships/at/shure/) | User Experience Design (UX) Intern | Niles, IL | \$23-\$43 per hour | Oct 25, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5003/user-experience-design-%28ux%29-intern/job) |
 | [Corgan](https://internscout.org/internships/at/corgan/) | Student Interior Design Internship \| Summer 2027 | Dallas, TX +9 | \$25 - \$28 per hour | Oct 24, 2024 | [Apply](https://campus-us-corgan.icims.com/jobs/4077/student-interior-design-internship-%7c-summer-2027/job) |
 | [Stifel](https://internscout.org/internships/at/stifel/) | Graphic Design Intern- Summer 2027 | Saint Louis, MO |  | Oct 22 | [Apply](https://careers-stifel.icims.com/jobs/9881/graphic-design-intern--summer-2027/job) |

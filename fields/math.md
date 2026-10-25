@@ -1,6 +1,6 @@
 # Math: Summer 2027 Internships
 
-36 open Summer 2027 math roles, newest first (all 36). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 60 math internships on InternScout](https://internscout.org/internships/math/)
+37 open Summer 2027 math roles, newest first (all 37). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 61 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | Empower | Summer 2027 Intern – Actuarial Benefit Consulting Services | CT Hartford | \$26.50 - \$30.50 per hour | Oct 1 | [Apply](https://empower.wd12.myworkdayjobs.com/empower/job/CT-Hartford/Summer-2027-Intern---Actuarial-Benefit-Consulting-Services_R0062346) |
 | Markel Group, Inc. | Actuarial Intern | Richmond, VA +1 | \$24-\$28.50/hr | Sep 28 | [Apply](https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Richmond-VA/Actuarial-Intern_R0023907) |
 | [SCOR](https://internscout.org/internships/at/scor/) | Actuarial Intern | Charlotte, North Carolina |  | Sep 25 | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5435) |
+| [Edison International](https://internscout.org/internships/at/edison-international/) | Summer Internship - Data Analytics/Science/Applied Math | Santa Ana, CA +3 |  | Sep 1 | [Apply](https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/?ats=successfactors) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | Data Analytics Intern - Data Science - Applied Math | Pomona, CA +1 |  | Sep 1 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-%28PomonaRosemead%29-CA-91770/1425207700/?ats=successfactors) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Actuarial Intern - Summer 2027 | Addison, TX +1 | Paid | Aug 19 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4376293009) |
 | GuideWell Mutual | 2027 Actuarial Summer Internship | Jacksonville, FL |  | Aug 18 | [Apply](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41855) |
