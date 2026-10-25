@@ -1,6 +1,6 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-386 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 386). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 922 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+386 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 386). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 920 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [ABB](https://internscout.org/internships/at/abb/) | AI Engineering, Business Systems Intern- Summer 2027 | USA, NC +1 |  | Oct 6 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714) |
 | [ABB](https://internscout.org/internships/at/abb/) | AI Engineering, ERP Intern- Summer 2027 | USA, NC +1 |  | Oct 6 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern, AI/ML Engineer, Mapping | Warren, Michigan, United States of America +1 |  | Oct 6 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778) |
-| [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery | Mountain View, CA, USA +1 | Paid | Oct 5 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8257159) |
+| [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery | Mountain View, CA, USA +1 |  | Oct 5 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8257159) |
 | [FHLBank Chicago](https://internscout.org/internships/at/fhlbank-chicago/) | Summer Internship - AI Intern | Chicago +1 | \$38,800.00 - \$58,100.00 | Oct 5 | [Apply](https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---AI-Intern_R2600477) |
 | [Midland States Bank](https://internscout.org/internships/at/midland-states-bank/) | Intern - AI Solutions Engineer | Effingham, IL +2 | Paid | Oct 5 | [Apply](https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---AI-Solutions-Engineer_JR1461) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 PhD AI Training Systems and Performance Engineer Intern/Co-Op | San Jose, California +2 |  | Oct 5 | [Apply](https://careers.amd.com/jobs/93332) |
@@ -183,7 +183,7 @@
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern | Mountain View, CA, USA +1 | Paid | Oct 1 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8248060) |
 | [Veeam Software](https://internscout.org/internships/at/veeam-software/) | Competitive Intelligence AI Engineering Intern - Summer 2027 | Remote, Georgia, USA +1 |  | Oct 1 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955279101) |
 | Datacor | Summer 2027 AI Engineer Intern | Remote +1 |  | Oct 1 | [Apply](https://job-boards.greenhouse.io/datacor/jobs/5242412007) |
-| [Pinterest](https://internscout.org/internships/at/pinterest/) | Machine Learning Intern 2027 (Toronto) | Toronto, ON, CA +1 | \$8000 | Oct 1 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) |
+| [Pinterest](https://internscout.org/internships/at/pinterest/) | Machine Learning Intern 2027 (Toronto) | Toronto, ON, CA +1 |  | Oct 1 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) |
 | [Pinterest](https://internscout.org/internships/at/pinterest/) | Master's Machine Learning Internship 2027 (USA) | San Francisco, CA, US +7 | \$11,000 month | Oct 1 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) |
 | [Pinterest](https://internscout.org/internships/at/pinterest/) | PhD Machine Learning Internship 2027 (USA) | San Francisco, CA, US +7 | \$12,100 month | Oct 1 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140140) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations | Mountain View, CA, USA +1 | Paid | Oct 1 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8243556) |

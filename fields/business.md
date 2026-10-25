@@ -1,6 +1,6 @@
 # Business: Summer 2027 Internships
 
-82 open Summer 2027 business roles, newest first (all 82). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 162 business internships on InternScout](https://internscout.org/internships/business/)
+83 open Summer 2027 business roles, newest first (all 83). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 164 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,6 +11,7 @@
 | [Ursa Major](https://internscout.org/internships/at/ursa-major/) | 2027 Summer Business Process & ERP Documentation Intern | Berthoud, Colorado |  | Oct 22 | [Apply](https://ursamajor.com/careers/?gh_jid=4746844005) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - MBA (Pomona/Rosemead) | Rosemead, CA |  | Oct 22 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-MBA-%28PomonaRosemead%29-CA-91770-3714/1423266700/) |
 | [Target](https://internscout.org/internships/at/target/) | Space & Presentation Business Partner Intern – Minneapolis, MN (Starting Summer 2027) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 |  | Oct 21 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Space---Presentation-Business-Partner-Intern---Minneapolis--MN--Starting-Summer-2027-_R0000478342) |
+| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Business Solutions | Plano TX |  | Oct 20 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Business-Solutions_R0020812) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Business Systems & Applications Associate (Reston, VA) | Reston, VA |  | Oct 19 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Business-Systems---Applications-Associate--Reston--VA-_R2603584) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | Summer 2027 MBA Interns \| Business Leadership Development Program (BuiLD) | TARRYTOWN +1 | \$70.40/hr | Oct 19 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/Summer-2027-MBA-Interns---Business-Leadership-Development-Program--BuiLD-_R49784-1) |
 | Cambridge Associates | 2027 MBA Internship Program | Boston | \$150,000 | Oct 16 | [Apply](https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Boston/XMLNAME-2027-MBA-Internship-Program_JR0000442) |

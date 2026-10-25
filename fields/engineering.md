@@ -1,6 +1,6 @@
 # Engineering: Summer 2027 Internships
 
-624 open Summer 2027 engineering roles, newest first (the 200 newest of 624). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 1,786 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+622 open Summer 2027 engineering roles, newest first (the 200 newest of 622). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 1,783 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -141,8 +141,6 @@
 | [Stantec](https://internscout.org/internships/at/stantec/) | Mining Engineering Intern - Energy & Resources (Summer 2027) | Denver, CO |  | Oct 12 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008019) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | NVIDIA 2027 Summer Internships: Ph.D. Engineering | US, CA +2 | Paid | Oct 12 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856) |
 | Veolia | Field Engineering Intern | Nanticoke, PA +1 |  | Oct 10 | [Apply](https://go.vansh.nyc/7W) |
-| Veolia | Field Engineering Intern | Lincoln, NE |  | Oct 10 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154779699) |
-| Veolia | Field Engineering Intern | Nanticoke, PA |  | Oct 10 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154779385) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Controls Engineering Intern | Sparks, Nevada |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51642) |
 | [Global Infrastructure](https://internscout.org/internships/at/global-infrastructure/) | Intern Engineering Designer, Water | US +1 | \$20-\$35/hr | Oct 9 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--WA--Bellevue---12011-Bel-Red-Road/Intern-Engineering-Designer--Water_6475) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Mining Engineering Intern - Energy & Resources (Summer 2027) | Phoenix, AZ |  | Oct 9 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008018) |
@@ -204,6 +202,8 @@
 | [HNTB](https://internscout.org/internships/at/hntb/) | Intern Engineer: Highway and Traffic - Summer 2027 | New York, NY |  | Oct 1 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/New-York-NY/Intern-Engineer--Highway-and-Traffic---Summer-2027_R-31829) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Field Application Engineering Intern (Summer 2027) | USA - California - Santa Clara +1 | \$20.00 - \$40.00 | Oct 1 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Field-Application-Engineering-Intern--Summer-2027-_JR-2604222) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Intern Engineer: Rail & Transit – Summer 2027 | New York, NY |  | Oct 1 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/New-York-NY/Intern-Engineer--Rail---Transit---Summer-2027_R-31826) |
+| [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | Engineering Co-Op; Summer and Fall 2027 | Valley City, OH, United States |  | Oct 1 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Co-Op--Summer-and-Fall-2027_REQ-1000052850) |
+| [PPL](https://internscout.org/internships/at/ppl/) | Nuclear Engineering Intern | Lexington, Kentucky +3 |  | Oct 1 | [Apply](https://careers.pplweb.com/jobs/15316) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

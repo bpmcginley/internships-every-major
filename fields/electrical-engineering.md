@@ -1,6 +1,6 @@
 # Electrical Engineering: Summer 2027 Internships
 
-235 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 235). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 628 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+235 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 235). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 627 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Electrical Engineering (Buildings) | Los Angeles, CA | \$30–\$40 per hour | Aug 20 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5376639008) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Electrical I&C Engineering | Los Angeles, CA | \$30–\$40 per hour | Aug 20 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5376057008) |
 | [Freeform](https://internscout.org/internships/at/freeform/) | Electrical Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) +1 | \$32/hour | Aug 19 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895657003) |
-| [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Electrical Engineering | Los Angeles, CA +1 | \$30–\$40 per hour | Aug 19 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5376052008) |
+| [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Electrical Engineering | Los Angeles, CA +1 |  | Aug 19 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5376052008) |
 | [Garmin](https://internscout.org/internships/at/garmin/) | Electrical Design Engineer Intern | Olathe, Kansas +1 |  | Aug 18 | [Apply](https://careers.garmin.com/jobs/19643) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Electrical Engineering Intern - Energy Storage (Summer 2027) | Delaware, OH |  | Aug 12 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279271) |
 | [Mortenson](https://internscout.org/internships/at/mortenson/) | Electrical Engineering Intern – Summer 2027 | United States | Paid | Aug 10 | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23239) |

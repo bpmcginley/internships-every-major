@@ -1,6 +1,6 @@
 # Software Engineering: Summer 2027 Internships
 
-1,355 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,355). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 2,788 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,352 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,352). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 2,785 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -22,7 +22,6 @@
 | [ASML](https://internscout.org/internships/at/asml/) | Application Software QA Engineer Intern | San Jose, CA |  | Oct 23 | [Apply](https://go.vansh.nyc/gY) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Business Intelligence Developer Intern | Lansing, MI |  | Oct 23 | [Apply](https://go.vansh.nyc/h0) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Software Engineering Intern, Data & Intelligence | New York, NY |  | Oct 23 | [Apply](https://go.vansh.nyc/gu) |
-| [KLA](https://internscout.org/internships/at/kla/) | Software Engineering Intern | Milpitas, CA |  | Oct 23 | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineering-Intern_2642189-1) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Cloud Hardware Development Engineer Intern | Austin, TX +1 |  | Oct 23 | [Apply](https://amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Software Engineer Intern - AWS Database | United States |  | Oct 23 | [Apply](https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us) |
 | Trace Labs | Robotics Engineer Intern, Hardware & Software | New York, NY |  | Oct 23 | [Apply](https://go.vansh.nyc/hp) |
@@ -76,7 +75,6 @@
 | [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Software Engineering Intern | Remote +1 |  | Oct 22 | [Apply](https://go.vansh.nyc/eT) |
 | [M&T Bank](https://internscout.org/internships/at/m-t-bank/) | Technology Intern, Software Engineering, Enterprise API Services Development Team | Buffalo, NY |  | Oct 22 | [Apply](https://go.vansh.nyc/eR) |
 | [Insperity](https://internscout.org/internships/at/insperity/) | Rotational Technology Intern | Kingwood, TX |  | Oct 22 | [Apply](https://go.vansh.nyc/fL) |
-| [General Dynamics Mission Systems](https://internscout.org/internships/at/general-dynamics-mission-systems-inc/) | Software Engineer Intern | Scottsdale, AZ |  | Oct 22 | [Apply](https://careers-gdms.icims.com/jobs/75775/software-intern-engineer/job) |
 | Twitch | Undergrad Software Engineering Intern | San Francisco, CA |  | Oct 22 | [Apply](https://go.vansh.nyc/eV) |
 | [Western & Southern Financial Group](https://internscout.org/internships/at/western-southern-financial-group/) | Enterprise Architecture Information Technology Intern | Cincinnati, OH |  | Oct 22 | [Apply](https://go.vansh.nyc/eX) |
 | [Keysight Technologies](https://internscout.org/internships/at/keysight-technologies/) | Software Engineer Intern | Calabasas, CA |  | Oct 22 | [Apply](https://go.vansh.nyc/ei) |
@@ -162,7 +160,6 @@
 | [SOTI](https://internscout.org/internships/at/soti/) | Software Developer Intern | Mississauga, ON |  | Oct 20 | [Apply](https://go.vansh.nyc/cJ) |
 | Palantir | Software Engineer Intern, Query Engines | New York, NY |  | Oct 20 | [Apply](https://go.vansh.nyc/bJ) |
 | [Berkshire Hathaway Energy](https://internscout.org/internships/at/berkshire-hathaway-energy/) | Software Engineering Intern | Des Moines, IA |  | Oct 20 | [Apply](https://go.vansh.nyc/cA) |
-| [General Dynamics Mission Systems](https://internscout.org/internships/at/general-dynamics-mission-systems-inc/) | Software Engineer Intern | Pittsburgh, PA |  | Oct 20 | [Apply](https://careers-gdms.icims.com/jobs/75637/software-engineer-intern/job) |
 | Kinaxis | Cloud Developer Intern, Platform Engineering | Ottawa, ON |  | Oct 20 | [Apply](https://go.vansh.nyc/cD) |
 | [SOTI](https://internscout.org/internships/at/soti/) | Cloud Administrator Intern | Mississauga, ON |  | Oct 20 | [Apply](https://go.vansh.nyc/cI) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | Embedded Software Engineer Intern | Roseville, CA |  | Oct 20 | [Apply](https://go.vansh.nyc/dn) |
@@ -204,6 +201,9 @@
 | [Robert Bosch Venture Capital](https://internscout.org/internships/at/robert-bosch-venture-capital/) | Software Engineering Co-op | Fountain Inn, SC |  | Oct 19 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000156311682) |
 | [Inversion Space](https://internscout.org/internships/at/inversion-space/) | Vehicle Software Engineer - Summer Internship 2027 | Playa Vista, California, United States +2 | Paid | Oct 19 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4745083005) |
 | [Inversion Space](https://internscout.org/internships/at/inversion-space/) | AI & Internal Tools Software Engineer - Summer Internship 2027 | Playa Vista, California, United States +2 | Paid | Oct 19 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4745076005) |
+| [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | Cloud Software Development Intern | Frederick, CO |  | Oct 19 | [Apply](https://go.vansh.nyc/bD) |
+| BMO Financial Group | Junior Cloud Engineer Co-op | Toronto, ON |  | Oct 19 | [Apply](https://go.vansh.nyc/bG) |
+| National Information Solutions Cooperative | Application Analyst Intern, Financials Software | Mandan, ND |  | Oct 19 | [Apply](https://go.vansh.nyc/bB) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

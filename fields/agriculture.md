@@ -1,6 +1,6 @@
 # Agriculture: Summer 2027 Internships
 
-19 open Summer 2027 agriculture roles, newest first (all 19). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 50 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
+18 open Summer 2027 agriculture roles, newest first (all 18). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 49 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -15,7 +15,6 @@
 | The Mosaic Company | Mosaic Biosciences Agronomy Co-Op/Intern – Summer 2027 | Remote | \$19.20/hr | Sep 29 | [Apply](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/Virtual---US/Co-op-Student-Admin_65109) |
 | [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Petcare Quality and Food Safety Internship - Ft. Smith, Arkansas | USA-Arkansas-Ft. Smith |  | Sep 25 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Arkansas-Ft-Smith/Summer-2027-Mars-Petcare-Quality-and-Food-Safety-Internship---Ft-Smith--Arkansas_R167867-1) |
 | [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Forestry Field Office Internship – Emerging Talent Summer Experience Program | Junction City, OR |  | Sep 21 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792106) |
-| [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Forestry Finance Internship – Emerging Talent Summer Experience Program | Portland, OR |  | Sep 21 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792086) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Food Safety & Quality Intern - Summer 2027 - Campus Recruiting (Multiple Locations) | Austin, MN +11 |  | Sep 4 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35738) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | Sales Intern - US Farm Animal (Summer 2027) | US Territory Field based | \$20-\$40/hour | Sep 18 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/US-Territory-Field-based/Sales-Intern---US-Farm-Animal--Summer-2027-_R0026872) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | Marketing Intern - US Farm Animal (Summer 2027) | Indianapolis, IN |  | Sep 18 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Marketing-Intern---US-Farm-Animal--Summer-2027-_R0026873) |

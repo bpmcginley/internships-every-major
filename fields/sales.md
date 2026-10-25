@@ -1,6 +1,6 @@
 # Sales: Summer 2027 Internships
 
-305 open Summer 2027 sales roles, newest first (the 200 newest of 305). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 560 sales internships on InternScout](https://internscout.org/internships/sales/)
+306 open Summer 2027 sales roles, newest first (the 200 newest of 306). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 561 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Tradeweb](https://internscout.org/internships/at/tradeweb/) | Summer 2027 Brokerage Sales Internship | Jersey City, NJ |  | Sep 9 | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301916) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Sales Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8187551?gh_jid=8187551) |
 | [RF-SMART](https://internscout.org/internships/at/rf-smart/) | SaaS Sales Internship - Summer 2027 | Jacksonville, Florida, United States | \$20 per Hour | Sep 8 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5409028008) |
-| [National Life](https://internscout.org/internships/at/national-life/) | Distribution Sales Intern – Summer 2027 | Montpelier, VT | Paid | Sep 8 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4394376009) |
+| [National Life](https://internscout.org/internships/at/national-life/) | Distribution Sales Intern – Summer 2027 | Montpelier, VT |  | Sep 8 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4394376009) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Distribution Sales Intern – Summer 2027 | Addison, TX | Paid | Sep 8 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4394380009) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management and Sales Summer Internship (Sacramento) | Sacramento, CA +2 |  | Sep 8 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622936) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management & Sales Summer Intern - Dallas Fort Worth | Irving, TX +12 |  | Sep 8 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622784) |
@@ -200,10 +200,10 @@
 | [Cvent](https://internscout.org/internships/at/cvent/) | Sales Intern (Summer 2027) | Tysons Corner, Virginia | \$18.00 per hour | Aug 24 | [Apply](https://careers.cvent.com/jobs/10703) |
 | [Springs Window Fashions](https://internscout.org/internships/at/springs-window-fashions/) | Sales Operations Internship - Summer 2027 | LONG ISLAND CITY, NY | \$23.00/hr | Aug 22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12894/sales-operations-internship---summer-2027/job) |
 | [Arthur J. Gallagher & Co.](https://internscout.org/internships/at/arthur-j-gallagher-co/) | Canada Internship - Sales | Toronto, Ontario, Canada |  | Aug 17 | [Apply](https://jobs.ajg.com/jobs/57699) |
+| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL |  | Aug 15 | [Apply](https://higher.gs.com/roles/181628?type=students) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Sales Data Analytics Intern | Westerville, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279291) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Sales Data Analytics Intern - Summer 2027 | Westerville, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279293) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Technical Sales Engineering Intern - IT Channel (Summer 2027) | Columbus, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278722) |
-| [StepStone Group](https://internscout.org/internships/at/stepstone-group/) | 2027 Venture Capital Business Development Summer Associate | Baltimore | \$105,000 / year | Aug 3 | [Apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8095092) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,6 +1,6 @@
 # Design: Summer 2027 Internships
 
-63 open Summer 2027 design roles, newest first (all 63). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 185 design internships on InternScout](https://internscout.org/internships/design/)
+62 open Summer 2027 design roles, newest first (all 62). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 184 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -15,7 +15,6 @@
 | [STR](https://internscout.org/internships/at/str/) | Graphic Design & Technical Communications Intern - Summer 2027 | Woburn, MA | \$25.20-\$54.00/hour | Oct 20 | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723386006) |
 | [Garmin](https://internscout.org/internships/at/garmin/) | User Interface Designer Intern | Olathe, Kansas |  | Oct 20 | [Apply](https://careers.garmin.com/jobs/19938) |
 | [Amplify](https://internscout.org/internships/at/amplify/) | Summer 2027: Product Design Intern | Remote |  | Oct 19 | [Apply](https://jobs.ashbyhq.com/amplify/0b593144-07c5-45be-b979-6c37879e6300/application) |
-| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova - SCS Product Design Internship – Summer 2027 | Bellevue |  | Oct 14 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---SCS-Product-Design-Internship---Summer-2027_R5053219-2) |
 | [Electronic Arts](https://internscout.org/internships/at/electronic-arts/) | Technical Artist Co-op | Vancouver, BC, Canada |  | Oct 13 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Product Designer Intern | Costa Mesa, California, United States | Paid | Oct 13 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | UI/UX Design Intern (Summer 2027) | Delaware, OH +2 |  | Oct 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281371) |
