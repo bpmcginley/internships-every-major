@@ -1,6 +1,6 @@
 # Health: Summer 2027 Internships
 
-42 open Summer 2027 health roles, newest first (all 42). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 290 health internships on InternScout](https://internscout.org/internships/health/)
+42 open Summer 2027 health roles, newest first (all 42). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 289 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

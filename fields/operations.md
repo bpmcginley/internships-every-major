@@ -1,6 +1,6 @@
 # Operations: Summer 2027 Internships
 
-408 open Summer 2027 operations roles, newest first (the 200 newest of 408). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 957 operations internships on InternScout](https://internscout.org/internships/operations/)
+408 open Summer 2027 operations roles, newest first (the 200 newest of 408). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 958 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

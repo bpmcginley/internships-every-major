@@ -1,6 +1,6 @@
 # Finance: Summer 2027 Internships
 
-542 open Summer 2027 finance roles, newest first (the 200 newest of 542). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 955 finance internships on InternScout](https://internscout.org/internships/finance/)
+543 open Summer 2027 finance roles, newest first (the 200 newest of 543). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 955 finance internships on InternScout](https://internscout.org/internships/finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

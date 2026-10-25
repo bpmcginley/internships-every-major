@@ -1,6 +1,6 @@
 # Software Engineering: Summer 2027 Internships
 
-1,364 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,364). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 2,738 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,364 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,364). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 2,739 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Trimble](https://internscout.org/internships/at/trimble/) | Hardware/Software Testing Intern | US - CO +7 |  | Oct 20 | [Apply](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1) |
 | [Trimble](https://internscout.org/internships/at/trimble/) | Software Engineering Intern | US - CO +17 |  | Oct 20 | [Apply](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676) |
 | Bank of Montreal | Junior Cloud Engineer, Summer 2027 (Co-op/Internship) - 16 months | Toronto, ON, CAN +1 | \$45,000.00 - \$100,000.00 | Oct 20 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-1) |
+| [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - Software Engineer (Security/Government) | California - San Francisco +4 | \$43 - \$52 per hour | Oct 20 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911) |
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | Cloud Software Development Intern - The Toro Company | Frederick, CO |  | Oct 20 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498) |
 | Cognex | Software Engineering Intern | Wauwatosa, Wisconsin +1 |  | Oct 20 | [Apply](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0012549) |
 | American Fidelity | Software Developer Innovation Internship | Oklahoma City, Oklahoma +1 |  | Oct 20 | [Apply](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Developer-Innovation-Internship_JR1118) |
@@ -202,7 +203,6 @@
 | [Tyler Technologies](https://internscout.org/internships/at/tyler-technologies/) | Software Developer Intern | Orono, ME |  | Oct 19 | [Apply](https://jobs.jobvite.com/tylertech/job/ouQXAfwB?nl=1&nl=1&fr=false) |
 | Patreon | Software Engineering Intern - Summer 2027 | New York +2 | Paid | Oct 19 | [Apply](https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c/application) |
 | Patreon | Software Engineering Intern - Summer 2027 | San Francisco +4 | Paid | Oct 19 | [Apply](https://jobs.ashbyhq.com/patreon/71f644bc-0873-4d62-a599-bd64405d6587/application) |
-| [Salesforce](https://internscout.org/internships/at/salesforce/) | Software Engineer Intern, Security/Government | San Francisco, CA +2 |  | Oct 19 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911) |
 | [Generac](https://internscout.org/internships/at/generac/) | Micro-Grid Systems Engineering Intern | Fort Collins, CO |  | Oct 19 | [Apply](https://generac.wd5.myworkdayjobs.com/External/job/USA---CO-Fort-Collins/Micro-Grid-Systems-Engineering-Summer-Intern_JR17432) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-233 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 233). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 665 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+233 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 233). **Updated October 25, 2026.** [Back to every major](../README.md) · [See all 664 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
