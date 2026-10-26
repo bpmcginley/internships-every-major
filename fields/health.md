@@ -1,9 +1,12 @@
 # Health: Summer 2027 Internships
 
-40 open Summer 2027 health roles, newest first (all 40). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 263 health internships on InternScout](https://internscout.org/internships/health/)
+43 open Summer 2027 health roles, newest first (all 43). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 276 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Medpace](https://internscout.org/internships/at/medpace/) | Strategy and Insights Intern - Summer 2027 | Cincinnati, Ohio |  | Oct 26 | [Apply](https://careers.medpace.com/jobs/13091) |
+| [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Patient Safety Intern Summer 2027 | Princeton - NJ - US +1 |  | Oct 26 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Patient-Safety-Intern-Summer-2027_R1607761) |
+| [Biogen](https://internscout.org/internships/at/biogen/) | 2027 IMPACT Intern | Cambridge, MA | \$57.00-\$57.00 | Oct 26 | [Apply](https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/XMLNAME-2027-IMPACT-Intern_REQ24427) |
 | AstraZeneca | Preclinical Mathematical Modeling Internship | US - Cambridge Kendall SQ - MA | \$37 per hour | Oct 23 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Preclinical-Mathematical-Modeling-Internship_R-262630) |
 | [Philips](https://internscout.org/internships/at/philips/) | Intern-Customer Experience Analytics (Health Systems Strategy and Growth) Nashville, TN-Summer 2027 | Nashville, Tennessee, United States |  | Oct 23 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern-Customer-Experience--Health-Systems-Strategy-and-Growth--Cambridge--MA-Summer-2027_593456) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Undergrad Intern - Manufacturing and Clinical Supply - Process Development (Summer 2027) | US - California - Thousand Oaks | \$28.87 per hour | Oct 22 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Undergrad-Intern---Manufacturing-and-Clinical-Supply---Process-Development--Summer-2027-_R-259434) |

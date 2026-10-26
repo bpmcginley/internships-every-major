@@ -1,9 +1,10 @@
 # Math: Summer 2027 Internships
 
-35 open Summer 2027 math roles, newest first (all 35). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 57 math internships on InternScout](https://internscout.org/internships/math/)
+36 open Summer 2027 math roles, newest first (all 36). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 59 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Amgen](https://internscout.org/internships/at/amgen/) | Grad Intern - Biostatistics (Summer 2027) | Remote | \$35.34 – \$41.20 per hour | Oct 26 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Biostatistics--Summer-2027-_R-259820) |
 | AstraZeneca | Preclinical Mathematical Modeling Internship | US - Cambridge Kendall SQ - MA | \$37 per hour | Oct 23 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Preclinical-Mathematical-Modeling-Internship_R-262630) |
 | [Marsh](https://internscout.org/internships/at/marsh/) | Marsh Risk Early Career Program, Summer Intern 2027 – Actuarial Analytics, NYC and Chicago | New York - 1166 | \$28.50/hr | Oct 23 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Chicago---155-Wacker/Marsh-Risk-Early-Career-Program--Summer-Intern-2027---Actuarial-Analytics--NYC-and-Chicago_R_370673) |
 | [Definity Financial](https://internscout.org/internships/at/definity-financial/) | Actuarial Analyst - Summer 2027 Co-op/Intern | Waterloo, ONT, Canada | Paid | Oct 21 | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9445) |

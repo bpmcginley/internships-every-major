@@ -1,11 +1,12 @@
 # Hospitality: Summer 2027 Internships
 
-24 open Summer 2027 hospitality roles, newest first (all 24). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 98 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
+25 open Summer 2027 hospitality roles, newest first (all 25). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 106 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Hearst](https://internscout.org/internships/at/hearst/) | Food & Events Intern - Summer 2027 | Dallas, TX, United States |  | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466385009) |
+| Nasdaq | MarketSite Events Intern - 2027 Summer Internship | USA - New York City - New York |  | Oct 26 | [Apply](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/MarketSite-Events-Intern---2027-Summer-Internship_R0027147) |
 | [David Yurman](https://internscout.org/internships/at/david-yurman/) | Events Intern | New York, NY | \$25/hour | Oct 22 | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Events-Intern_R-101163) |
-| Nasdaq | MarketSite Events Intern - 2027 Summer Internship | USA - New York City - New York |  | Oct 21 | [Apply](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/MarketSite-Events-Intern---2027-Summer-Internship_R0027147) |
 | [Royal Caribbean Group](https://internscout.org/internships/at/royal-caribbean-group/) | Intern, Newbuild Solutions (Summer 2027) | Miami, FL |  | Oct 20 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miami-Intern%2C-Newbuild-Solutions-%28Summer-2027%29-FL-33132/1441986900/) |
 | [Royal Caribbean Group](https://internscout.org/internships/at/royal-caribbean-group/) | Intern, Guest Travel Services (Summer 2027) | Miramar, FL |  | Oct 15 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miramar-Intern%2C-Guest-Travel-Services-%28Summer-2027%29-FL-33132/1440504600/) |
 | [Baird](https://internscout.org/internships/at/baird/) | Internship – Hospitality (Louisville, KY Summer 2027) | KY-Louisville |  | Oct 2 | [Apply](https://baird.wd1.myworkdayjobs.com/careers/job/KY-Louisville/Internship---Hospitality--Louisville--KY-Summer-2027-_R20261112-1) |

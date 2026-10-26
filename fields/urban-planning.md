@@ -1,9 +1,10 @@
 # Urban Planning: Summer 2027 Internships
 
-48 open Summer 2027 urban planning roles, newest first (all 48). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 106 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+50 open Summer 2027 urban planning roles, newest first (all 50). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 108 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [JM Family](https://internscout.org/internships/at/jm-family/) | Sales Planning Intern | Florida - Deerfield Beach |  | Oct 26 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Sales-Planning-Intern_JR105091) |
 | [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | Assorment Planning Intern - Summer 2027 | Atlanta, GA, USA |  | Oct 24 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Assorment-Planning-Intern---Summer-2027_R26_0000035659) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Transportation Planning Intern (Summer 2027) | Los Angeles, CA (Figueroa Street) |  | Oct 22 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Los-Angeles-CA-Figueroa-Street/Transportation-Planning-Intern--Summer-2027-_R-32153-1) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Summer 2027 Urban Planning/Development Intern | Detroit, MI |  | Oct 22 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Summer-2027-Urban-Planning-Development-Intern_R-085098) |
@@ -33,6 +34,7 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors or Masters - Transportation Planning Intern (Summer 2027!) | Orlando, Florida | \$38.01 | Sep 9 | [Apply](https://careers.cdmsmith.com/jobs/4439) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Masters - Transportation Planning Intern (Summer 2027!) | Indianapolis, Indiana | \$36.20 | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/4371) |
 | [Elk Valley Resources](https://internscout.org/internships/at/elk-valley-resources/) | May 2027 Geographic Information Systems (GIS) Co-op | Calgary, AB +1 |  | Aug 26 | [Apply](https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply) |
+| [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Product Planning Intern | Kirkland, WA |  | Oct 26 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Product-Planning-Intern-WA-98033/1451437033/) |
 | [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Planning Intern \| Fort Lauderdale, FL | Fort Lauderdale, FL | Paid | Oct 24 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Fort-Lauderdale-FL/Planning-Intern---Fort-Lauderdale--FL_R-16509) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Environmental Planning Intern (Summer 2027) | Houston, TX (Fannin) |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Houston-TX-Fannin/Environmental-Planning-Intern--Summer-2027-_R-31472) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Returning Planning Intern- Summer 2027- Central Division (For Current/Former HNTB Interns Only) | Dallas, TX +16 |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Dallas-TX/Returning-Planning-Intern--Summer-2027--Central-Division--For-Current-Former-HNTB-Interns-Only-_R-31088) |

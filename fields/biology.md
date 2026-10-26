@@ -1,11 +1,10 @@
 # Biology: Summer 2027 Internships
 
-17 open Summer 2027 biology roles, newest first (all 17). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 809 biology internships on InternScout](https://internscout.org/internships/biology/)
+16 open Summer 2027 biology roles, newest first (all 16). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 824 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Cleveland Clinic](https://internscout.org/internships/at/cleveland-clinic/) | Pharmacy Intern - Summer 2027 Internship | Fairview Hospital, OH |  | Oct 23 | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Pharmacy-Intern---Summer-2027-Internship_344656) |
-| [Centene](https://internscout.org/internships/at/centene/) | Pharmacy Summer 2027 Intern (Undergraduate) | Remote-MO +49 | \$21.00 - \$26.00 per hour | Oct 23 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Pharmacy-Summer-2027-Intern--Undergraduate-_1671474) |
 | [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program - Pharmacokinetic, Dynamics, Metabolism and Bioanalytics Intern | USA - Pennsylvania - West Point | \$39,108 | Oct 23 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Pharmacokinetic--Dynamics--Metabolism-and-Bioanalytics-Intern_R413056) |
 | LabCorp | Bioinformatics Intern | Baltimore, MD |  | Oct 22 | [Apply](https://go.vansh.nyc/eG) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Pharmaceutical Lab Internship (Crystallization) Summer 2027 | El Segundo, California, United States | \$33.00 | Oct 21 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8040897003) |

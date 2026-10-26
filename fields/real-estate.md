@@ -1,9 +1,10 @@
 # Real Estate: Summer 2027 Internships
 
-14 open Summer 2027 real estate roles, newest first (all 14). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 35 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
+14 open Summer 2027 real estate roles, newest first (all 14). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 36 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| U.S. Bank | 2027 Commercial Real Estate Summer Intern | Denver, CO |  | Oct 26 | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Denver-CO/XMLNAME-2027-Commercial-Real-Estate-Summer-Intern_2026-0025772) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Summer 2027 Property Management Internships (Commercial and Residential Property Management) | Detroit, MI |  | Oct 22 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Summer-2027-Property-Management-Internships--Commercial-and-Residential-Property-Management-_R-085041) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Summer 2027 Real Estate Financial Analysis (Investment and Asset Management) | Detroit, MI |  | Oct 22 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Summer-2027-Real-Estate-Financial-Analysis--Investment-and-Asset-Management-_R-085044) |
 | [KeyBank](https://internscout.org/internships/at/keybank/) | 2027 Summer Real Estate Capital Internship - Atlanta ICG | Atlanta, GA |  | Oct 19 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Atlanta-GA/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Atlanta-ICG_R-41553) |
@@ -15,7 +16,6 @@
 | [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Masters Summer Internship Program - 2027 Global Real Estate & Workplace Experience, Enterprise Shared S… | New York, NY |  | Aug 31 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012153) |
 | [StepStone Group](https://internscout.org/internships/at/stepstone-group/) | 2027 Real Estate Private Equity Advisory Summer Analyst | Cleveland, MD | \$65,000 annually | Aug 3 | [Apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8097993) |
 | [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Banking and Commercial Real Estate | Chicago, IL +8 | \$25.00 per hour | Oct 24 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Commercial-Banking-and-Commercial-Real-Estate_2618394-1) |
-| Thrivent | Commercial Mortgages and Securitized Real Estate Assets Intern - Summer 2027 | MN - Minneapolis |  | Sep 19 | [Apply](https://thrivent.wd5.myworkdayjobs.com/external/job/MN---Minneapolis/Commercial-Mortgages-and-Securitized-Real-Estate-Assets-Intern---Summer-2027_REQ-48063) |
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | Real Estate Intern Summer 2027 Procurement | US - UPS CORPORATE OFFICES (GACOR) |  | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Real-Estate-Intern-Summer-2026-Procurement_R26030587) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Corporate Real Estate Internship - Summer 2027 | Lansing, MI |  | Sep 18 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Corporate-Real-Estate-Internship---Summer-2027_R_14484) |
 

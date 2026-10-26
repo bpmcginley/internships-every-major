@@ -1,6 +1,6 @@
 # Sustainability: Summer 2027 Internships
 
-93 open Summer 2027 sustainability roles, newest first (all 93). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 145 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+94 open Summer 2027 sustainability roles, newest first (all 94). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 146 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -47,7 +47,6 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Strategic/Systems Intern - Morris, IL | Morris, Illinois | Paid | Sep 30 | [Apply](https://jobs.constellationenergy.com/jobs/139584) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | Asheville, North Carolina | \$20.00 | Sep 25 | [Apply](https://careers.trccompanies.com/jobs/26953) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Renewable Energy Civil Intern (Summer 2027) | Minneapolis, MN |  | Sep 25 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008002) |
-| [Stantec](https://internscout.org/internships/at/stantec/) | Renewable Energy Civil Intern (Summer 2027) | Chicago, IL |  | Sep 25 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008000) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | Seattle, Washington +1 | \$20.00 | Sep 25 | [Apply](https://careers.trccompanies.com/jobs/26950) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Technical Internship - Oswego, NY (ASSOCIATE'S DEGREE ONLY) | Oswego, New York | Paid | Sep 24 | [Apply](https://jobs.constellationenergy.com/jobs/139373) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Intern – Corporate Environmental and Sustainability (EHS) | Pittsburgh, PA |  | Sep 23 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119566) |
@@ -56,6 +55,8 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Radiation Protection Intern - Braceville, IL | Braceville, Illinois | Paid | Sep 18 | [Apply](https://jobs.constellationenergy.com/jobs/139332) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: Renewables Intern | Northbrook, IL +1 | \$23.00-\$25.00 | Sep 18 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10867) |
 | [Arcadis](https://internscout.org/internships/at/arcadis/) | Water/Wastewater Intern - Summer 2027 | Clifton Park, NY | \$24.96 - \$37.44 | Sep 17 | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44423) |
+| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Nuclear Technician Internship - Ontario, NY (ASSOCIATE'S DEGREE ONLY) | Ontario, New York | Paid | Sep 16 | [Apply](https://jobs.constellationenergy.com/jobs/139260) |
+| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Nuclear Technical Internship - Ontario, NY (ASSOCIATE'S DEGREE ONLY) | Ontario, New York | Paid | Sep 16 | [Apply](https://jobs.constellationenergy.com/jobs/139259) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Supply Intern (Kennett Square, PA) | Kennett Square, Pennsylvania |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138725) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Organizational Change Management (OCM) Analyst Intern (Remote) | Annapolis, Maryland |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138736) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Gas Pipelines (New Caney, TX) | NEW CANEY, Texas |  | Sep 14 | [Apply](https://careers.kindermorgan.com/jobs/6226) |

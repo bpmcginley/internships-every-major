@@ -1,9 +1,14 @@
 # Civil Engineering: Summer 2027 Internships
 
-323 open Summer 2027 civil engineering roles, newest first (the 200 newest of 323). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 714 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+327 open Summer 2027 civil engineering roles, newest first (the 200 newest of 327). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 718 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [WSP](https://internscout.org/internships/at/wsp/) | Structural Engineering Intern- Summer 2027 | Lakewood, CO +1 |  | Oct 26 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98294) |
+| [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Testing & Commissioning Intern | New York, New York | \$20.00 | Oct 26 | [Apply](https://careers.trccompanies.com/jobs/27148) |
+| [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering Intern- Summer 2027 | Buffalo, NY | Paid | Oct 26 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98098) |
+| [Meijer](https://internscout.org/internships/at/meijer/) | Construction Intern- Summer 2027 | Grand Rapids, MI |  | Oct 26 | [Apply](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Construction-Intern--Summer-2027_R000713192) |
+| [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Construction Procurement | Irving, TX |  | Oct 26 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Irving-TX/Summer-2027-Internship--Construction-Procurement_R2026-2144) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Economics Intern - Structural IO | Seattle, WA +3 |  | Oct 23 | [Apply](https://amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027) |
 | [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Structural Engineering Intern \| Ontario, CA | Ontario, California | \$22.00–\$24.00 per hour | Oct 23 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Ontario-California/Structural-Engineering-Intern---Ontario--CA_R-16906) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Structural Engineering Intern \| Ontario, CA | Ontario, California | \$22.00–\$24.00 per hour | Oct 23 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Ontario-California/Structural-Engineering-Intern---Ontario--CA_R-16906) |
@@ -145,9 +150,8 @@
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Structural Intern, Summer 2027 | Pittsburgh, PA |  | Sep 28 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309901) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Construction Management Intern- Summer 2027 | Salt Lake City, UT |  | Sep 27 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Salt-Lake-City-UT/Construction-Management-Intern--Summer-2027_R-31735) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Civil Engineering Intern | Arlington, Texas | \$20.00 | Sep 25 | [Apply](https://careers.trccompanies.com/jobs/26963) |
-| [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Water (Summer 2027) | Charleston, SC |  | Sep 25 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008016) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Renewable Energy Civil Intern (Summer 2027) | Minneapolis, MN |  | Sep 25 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008002) |
-| [Stantec](https://internscout.org/internships/at/stantec/) | Renewable Energy Civil Intern (Summer 2027) | Chicago, IL |  | Sep 25 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008000) |
+| [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Water (Summer 2027) | Charleston, SC |  | Sep 25 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008016) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Construction Management Intern | Austin, Texas | \$20.00 | Sep 25 | [Apply](https://careers.trccompanies.com/jobs/26979) |
 | [Woolpert](https://internscout.org/internships/at/woolpert/) | Site Civil Engineer Intern (Summer 2027) | Charlotte, NC +13 |  | Sep 24 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4419846009) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil/Geotechnical Engineering Intern - Water (Summer 2027) | Lexington, KY |  | Sep 24 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007964) |
@@ -200,10 +204,6 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Construction Intern (Summer 2027!) | Concord, California | \$45.84 | Sep 11 | [Apply](https://careers.cdmsmith.com/jobs/4480) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Civil Engineering Intern, Rotational Program - Summer 2027 | Harrisburg, PA |  | Sep 10 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309851) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Civil Engineering Intern | Milwaukee, Wisconsin | \$20.00 | Sep 9 | [Apply](https://careers.trccompanies.com/jobs/26751) |
-| [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Civil Engineering Intern | Madison, Wisconsin | \$20.00 | Sep 9 | [Apply](https://careers.trccompanies.com/jobs/26735) |
-| [Tighe & Bond](https://internscout.org/internships/at/tighe-bond/) | Civil Engineering Internship - Site Design - Summer 2027 | Portsmouth, NH | \$21.00 | Sep 9 | [Apply](https://careers-tighebond.icims.com/jobs/1843/civil-engineering-internship---site-design---summer-2027/job) |
-| [Tighe & Bond](https://internscout.org/internships/at/tighe-bond/) | Civil Engineering Internship - Site Design - Summer 2027 | Worcester, MA | \$21.00 | Sep 9 | [Apply](https://careers-tighebond.icims.com/jobs/1842/civil-engineering-internship---site-design---summer-2027/job) |
-| [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Construction Intern, Summer 2027 | Madison, WI +1 |  | Sep 9 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309859) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

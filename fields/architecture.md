@@ -1,9 +1,12 @@
 # Architecture: Summer 2027 Internships
 
-44 open Summer 2027 architecture roles, newest first (all 44). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 121 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+47 open Summer 2027 architecture roles, newest first (all 47). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 126 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Enterprise Architecture Software Engineer & Architect Intern | Pittsburgh, PA |  | Oct 26 | [Apply](https://go.vansh.nyc/SS) |
+| [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Enterprise Architecture Business Operations/Project Management enGen Undergraduate Intern | Pittsburgh PA, 15222, PAP, Penn Avenue Place |  | Oct 26 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Architecture-Business-Operations-Project-Management-enGen-Undergraduate-Intern_J289820) |
+| [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Enterprise Architecture Software Engineer & Architect enGen Undergradute Intern | Pittsburgh PA, 15222, PAP, Penn Avenue Place |  | Oct 26 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Architecture-Software-Engineer---Architect-enGen-Undergradute-Intern_J289821) |
 | Western & Southern Financial Group | Enterprise Architecture Information Technology Intern | Cincinnati, OH |  | Oct 22 | [Apply](https://go.vansh.nyc/eX) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Summer 2027 Urban Planning/Development Intern | Detroit, MI |  | Oct 22 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Summer-2027-Urban-Planning-Development-Intern_R-085098) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Summer 2027 Architecture & Design Intern | Detroit, MI |  | Oct 22 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Summer-2027-Architecture---Design-Intern_R-085043) |

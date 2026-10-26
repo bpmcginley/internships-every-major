@@ -1,9 +1,10 @@
 # Lab Research: Summer 2027 Internships
 
-17 open Summer 2027 lab research roles, newest first (all 17). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 110 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
+19 open Summer 2027 lab research roles, newest first (all 19). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 113 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Trace3](https://internscout.org/internships/at/trace3/) | Innovation Research & Development Lab Intern | Irvine, CA |  | Oct 26 | [Apply](https://go.vansh.nyc/SL) |
 | [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Laboratory Automation Systems Intern | Spring House, Pennsylvania, United States of America +1 |  | Oct 23 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Automation-Systems-Intern_R-103027) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Pharmaceutical Lab Internship (Crystallization) Summer 2027 | El Segundo, California, United States | \$33.00 | Oct 21 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8040897003) |
 | Sony | Research Engineer Intern, Ethical Creative and Protective AI Lab | Remote |  | Oct 20 | [Apply](https://go.vansh.nyc/cP) |
@@ -18,6 +19,7 @@
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Product Innovation (Material Development and Material Lab) | Baltimore, MD |  | Sep 28 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Product-Innovation-%28Material-Development-and-Material-Lab%29-MD-21230/1434382800/) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Innovation Lab Intern I (Summer 2027) | Delaware, OH |  | Sep 10 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280126) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | R&D Chemistry Laboratory Intern (Austin MN) - Summer 2027 - Campus Recruiting | Austin, MN |  | Sep 8 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35724) |
+| [Ginkgo Bioworks](https://internscout.org/internships/at/ginkgo-bioworks/) | Software Intern, Autonomous Lab | Emeryville, CA |  | Apr 1 | [Apply](https://go.vansh.nyc/Qz) |
 | MIT Lincoln Laboratory | Summer Research Program Intern 2027, AI and Geospatial Analysis for Natural Hazards (04-47) | Lexington, MA | \$25.00/hour | Oct 25 | [Apply](https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-AI-and-Geospatial-Analysis-for-Natural-Hazards-%2804-47%29-MA-02420/1442894100/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Momentive](https://internscout.org/internships/at/momentive/) | Summer 2027 Intern - Construction Application Development Lab | Waterford, NY | \$22.00 - \$26.00 | Sep 18 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/Summer-2027-Intern---Construction-Application-Development-Lab_R9806) |
 | [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Analytical Lab Intern, Summer 2027 | Orrville, OH |  | Sep 18 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Analytical-Lab-Intern--Summer-2027_115678) |

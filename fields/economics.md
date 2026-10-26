@@ -1,9 +1,12 @@
 # Economics: Summer 2027 Internships
 
-21 open Summer 2027 economics roles, newest first (all 21). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 51 economics internships on InternScout](https://internscout.org/internships/economics/)
+24 open Summer 2027 economics roles, newest first (all 24). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 54 economics internships on InternScout](https://internscout.org/internships/economics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Community and Economic Development Intern | Atlanta, GA |  | Oct 26 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Community-and-Economic-Development-Intern_R-0000033895) |
+| Compass Lexecon | 2027 Analyst Interns - US | Washington, DC +3 | \$50.00 | Oct 26 | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Chicago---CL/XMLNAME-2027-Analyst-Interns---US_JR261385) |
+| [Centene](https://internscout.org/internships/at/centene/) | Medical Economics Analyst Intern (Undergraduate - Summer 2027) | Remote-MO +1 | \$18-26/hour | Oct 26 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662091) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Economics Intern - Structural IO | Seattle, WA +3 |  | Oct 23 | [Apply](https://amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | PhD Economics Intern - Reduced Form Causal Inference | Seattle, WA +3 |  | Oct 23 | [Apply](https://amazon.jobs/en/jobs/10564111/phd-economics-intern-reduced-form-causal-inference-summer-2027) |
 | Zillow | Applied Scientist Intern - Economics | Seattle, WA |  | Oct 20 | [Apply](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1) |

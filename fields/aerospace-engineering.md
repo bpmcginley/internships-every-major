@@ -1,6 +1,6 @@
 # Aerospace Engineering: Summer 2027 Internships
 
-33 open Summer 2027 aerospace engineering roles, newest first (all 33). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 66 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
+33 open Summer 2027 aerospace engineering roles, newest first (all 33). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 64 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [The Aerospace Corporation](https://internscout.org/internships/at/the-aerospace-corporation/) | 2027 Aerospace Returning Interns | El Segundo, CA +9 | \$18.00 - \$48.00 | Oct 6 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Returning-Interns_R016174) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Avionics Engineering Internship - Summer 2027 | El Segundo, California, United States +1 | \$33.00 | Oct 1 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010158003) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Propulsion Engineering Internship - Summer 2027 | El Segundo, California, United States | \$33.00 | Oct 1 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010169003) |
+| [Mach Industries](https://internscout.org/internships/at/mach-industries/) | Summer 2027 Engineering Internship, Aerospace | Huntington Beach, California, United States +1 | Paid | Sep 25 | [Apply](https://job-boards.greenhouse.io/machindustries/jobs/4420631009) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Propulsion Engineer Intern (Summer 2027) | San Francisco |  | Sep 23 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4713184006) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Avionics Intern (Summer 2027) | San Francisco | \$29.00 per hour | Sep 22 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4706024006) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Propulsion Test Intern (Summer 2027) | San Francisco |  | Sep 22 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705640006) |
@@ -28,7 +29,6 @@
 | [Rendezvous Robotics](https://internscout.org/internships/at/rendezvous-robotics/) | Avionics Engineering Intern (Summer 2027) | Golden, CO |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408578009) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Test Engineering Intern - Avionics Summer 2027 | Long Beach, CA |  | Sep 10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987159003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Propulsion Design Intern Summer 2027 | Long Beach, CA |  | Sep 10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986816003) |
-| [Apex Technology, Inc.](https://internscout.org/internships/at/apex-technology-inc/) | Propulsion Internship (Summer 2027) | Los Angeles +1 | \$100k | Sep 9 | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/1a4b78cb-f601-451c-ad27-e5e03324650e/application) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Avionics Engineering Intern Summer 2027 | Long Beach, CA | \$28.00 | Sep 9 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989733003) |
 | [Skydio](https://internscout.org/internships/at/skydio/) | Flight Test Intern - Summer 2027 | San Mateo, California, United States +2 | \$41/hr | Sep 4 | [Apply](https://jobs.ashbyhq.com/skydio/3eb06d6e-b6f0-4814-a80a-f1c43075873b/application) |
 | [K2 Space](https://internscout.org/internships/at/k2-space/) | Avionics Systems/Test Engineering Intern – Summer 2027 | Los Angeles, CA | \$30 - \$40 per hour | Sep 1 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411921008) |

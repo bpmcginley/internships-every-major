@@ -1,9 +1,10 @@
 # Design: Summer 2027 Internships
 
-60 open Summer 2027 design roles, newest first (all 60). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 180 design internships on InternScout](https://internscout.org/internships/design/)
+62 open Summer 2027 design roles, newest first (all 62). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 182 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [FHLBD Federal Home Loan Bank of Dallas](https://internscout.org/internships/at/fhlbd-federal-home-loan-bank-of-dallas/) | 2027 Summer Digital & Graphic Design Intern | Irving, TX |  | Oct 26 | [Apply](https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Digital---Graphic-Design-Intern_REQ-453) |
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | UX/UI Design Intern - Summer 2027 | Valley City, OH, United States |  | Oct 24 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/UX-UI-Design-Intern---Summer-2027_REQ-1000052835) |
 | Zillow | Product Design Intern | Seattle-WA-2nd Ave | \$104,000.00 - \$166,000.00 annually | Oct 23 | [Apply](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Product-Design-Intern_P751613) |
 | KRAFTON | UI Programming Intern | Montreal, Canada |  | Oct 22 | [Apply](https://go.vansh.nyc/hY) |
@@ -51,6 +52,7 @@
 | [Cvent](https://internscout.org/internships/at/cvent/) | Product Design Intern (Summer 2027) | Tysons Corner, Virginia | \$36.00 per hour | Aug 31 | [Apply](https://careers.cvent.com/jobs/10764) |
 | [Jump Trading Group](https://internscout.org/internships/at/jump-trading/) | Campus UI Software Engineer Intern | Chicago, IL |  | Jul 9 | [Apply](https://go.vansh.nyc/3m) |
 | [Shure](https://internscout.org/internships/at/shure/) | User Experience Design (UX) Intern | Niles, IL | \$23-\$43 per hour | Oct 26, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5003/user-experience-design-%28ux%29-intern/job) |
+| [Uline](https://internscout.org/internships/at/uline/) | UX Design Internship - Summer 2027 | Pleasant Prairie, WI +4 | Paid | Oct 26 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/UX-Design-Internship---Summer-2027_R266218) |
 | [Stifel](https://internscout.org/internships/at/stifel/) | Graphic Design Intern- Summer 2027 | Saint Louis, MO |  | Oct 22 | [Apply](https://careers-stifel.icims.com/jobs/9881/graphic-design-intern--summer-2027/job) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Graphic Design Internship - Summer 2027 | Reston, VA |  | Oct 5 | [Apply](https://uscareers-idemia.icims.com/jobs/8668/graphic-design-internship---summer-2027/job) |
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Intern – UI/UX Designer (Summer 2027) | Downers Grove, IL |  | Sep 25 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Intern---UI-UX-Designer--Summer-2027-_REQ-020148) |

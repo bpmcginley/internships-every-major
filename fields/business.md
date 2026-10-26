@@ -1,9 +1,10 @@
 # Business: Summer 2027 Internships
 
-80 open Summer 2027 business roles, newest first (all 80). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 158 business internships on InternScout](https://internscout.org/internships/business/)
+81 open Summer 2027 business roles, newest first (all 81). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 158 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Wellington Management | Business Undergraduate Summer Internship | Boston, MA, United States | \$19-\$35 per hour | Oct 26 | [Apply](https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Business-Undergraduate-Summer-Internship_R94777) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - MBA (Rosemead) | Rosemead, CA |  | Oct 25 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-MBA-%28Rosemead%29-CA-91770-3714/1424643100/) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Business Administration (Irwindale/Pomona/Rosemead) | Irwindale, CA |  | Oct 23 | [Apply](https://apply.edisoncareers.com/job/Irwindale-2027-Summer-Internship-Business-Administration-%28IrwindalePomonaRosemead%29-CA-91702/1423552200/) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Business Administration (Redlands) | Redlands, CA |  | Oct 23 | [Apply](https://apply.edisoncareers.com/job/Redlands-2027-Summer-Internship-Business-Administration-%28Redlands%29-CA-92374/1423579500/) |
