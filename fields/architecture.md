@@ -1,6 +1,6 @@
 # Architecture: Summer 2027 Internships
 
-39 open Summer 2027 architecture roles, newest first (all 39). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 117 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+44 open Summer 2027 architecture roles, newest first (all 44). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 121 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -17,14 +17,19 @@
 | [STV](https://internscout.org/internships/at/stv/) | Architecture Intern - Summer 2027 | Vermont Avenue, Washington, District of Columbia | \$54,810.00 - \$62,284.00 | Oct 14 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Vermont-Avenue-Washington-District-of-Columbia/Architecture-Intern---Summer-2027_JR6256) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | PhD Research Intern, Architecture – 2027 | US, CA +7 | Paid | Oct 12 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Architecture---2027_JR2025395) |
 | [The Aerospace Corporation](https://internscout.org/internships/at/the-aerospace-corporation/) | 2027 Space Systems Architecture Undergrad Intern | Chantilly, VA +2 | \$26.00 - \$30.00 | Oct 8 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Space-Systems-Architecture-Undergrad-Intern_R016772) |
+| [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Design Architecture Engineer Intern | San Jose, CA |  | Oct 6 | [Apply](https://go.vansh.nyc/Fe) |
+| [Micron Technology](https://internscout.org/internships/at/micron-technology/) | Next-Generation HBM Architecture Intern | Folsom, CA |  | Oct 5 | [Apply](https://go.vansh.nyc/EH) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Electrical Engineering Intern – Product Architecture (Summer 2027) | Delaware, OH |  | Oct 2 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281025) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Architectural Intern- Summer 2027 | Washington, DC +1 |  | Oct 2 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96700) |
+| [Micron Technology](https://internscout.org/internships/at/micron-technology/) | DRAM Architecture Intern | San Jose, CA +1 |  | Oct 1 | [Apply](https://go.vansh.nyc/Ef) |
+| Oceaneering | IT Security Architecture Intern | Houston, TX |  | Sep 30 | [Apply](https://go.vansh.nyc/H2) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | Mission Architecture Intern (Summer 2027) | Woodbridge, VA |  | Sep 29 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5252672007) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Architecture Intern | Burlington, VT |  | Sep 28 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Architecture-Intern--MS---Summer-2027_2604613) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Architecture Intern, MS - Summer 2027 | Burlington, VT | Paid | Sep 28 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Architecture-Intern--MS---Summer-2027_2604613-1) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Technology Architecture Engineering Intern (Summer 2027) | USA - New York - Malta +1 |  | Sep 28 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Technology-Architecture-Engineering-Intern--Summer-2027-_JR-2604362) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Enterprise Architecture Intern (Chicago, IL) | Chicago, Illinois |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138733) |
 | [AMD](https://internscout.org/internships/at/amd/) | 2027 PhD SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op | San Jose, California +3 |  | Sep 11 | [Apply](https://careers.amd.com/jobs/92350) |
+| AArete | Data Architecture and Engineering Intern | Chicago, IL |  | Sep 8 | [Apply](https://go.vansh.nyc/Mn) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Architectural Engineering | Los Angeles, CA | \$28–\$40 per hour | Aug 26 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377117008) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure | Seattle, WA +1 |  | Aug 20 | [Apply](https://lifeattiktok.com/search/7672926068681951493) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - TikTok Search Architecture | San Jose, CA |  | Aug 20 | [Apply](https://lifeattiktok.com/search/7675517686256863541) |

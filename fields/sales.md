@@ -1,9 +1,10 @@
 # Sales: Summer 2027 Internships
 
-299 open Summer 2027 sales roles, newest first (the 200 newest of 299). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 552 sales internships on InternScout](https://internscout.org/internships/sales/)
+298 open Summer 2027 sales roles, newest first (the 200 newest of 298). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 555 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [The Hartford](https://internscout.org/internships/at/the-hartford/) | 2027 Summer Intern - Internal Sales Desk | Wayne, PA | \$20.00 - \$25.00 | Oct 26 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Wayne-PA/XMLNAME-2027-Summer-Intern---Internal-Sales-Desk_R2627499) |
 | [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | ISO Sales Intern - Summer 2027 | Atlanta, GA, USA |  | Oct 23 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/ISO-Sales-Intern---Summer-2027_R26_0000035660) |
 | [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | Commercial Sales Operations Intern - Summer 2027 | Atlanta, GA, USA |  | Oct 23 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Commercial-Sales-Operations-Intern---Summer-2027_R26_0000035643) |
 | S&P Global | Market Intelligence Sales Associate Internship | New York, NY |  | Oct 23 | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Market-Intelligence-Sales-Associate-Internship_332491-1) |
@@ -46,7 +47,6 @@
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Sales Application Intern | Kirkland, WA | Paid | Oct 21 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Sales-Application-Intern-WA-98033/1450066333/) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Sales Enablement & Learning | Wilmington, DE |  | Oct 21 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Sales-Enablement---Learning_R-104115-2) |
 | Datadog | Sales Development Representative - Summer 2027 Graduates (Boston) | Boston, Massachusetts, USA | \$50,000 | Oct 20 | [Apply](https://careers.datadoghq.com/detail/8287316/?gh_jid=8287316) |
-| [The Hartford](https://internscout.org/internships/at/the-hartford/) | 2027 Summer Intern - Internal Sales Desk | Wayne, PA | \$20.00 - \$25.00 | Oct 20 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Wayne-PA/XMLNAME-2027-Summer-Intern---Internal-Sales-Desk_R2627499) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management and Sales Summer Internship (Fresno) | Fresno, CA |  | Oct 20 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627066) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 UCD Sales and Service Undergraduate Intern | PA, Working at Home - Pennsylvania |  | Oct 20 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-UCD-Sales-and-Service-Undergraduate-Intern_J287462) |
 | [ABB](https://internscout.org/internships/at/abb/) | Electrification Sales Internship - Summer 2027 | Houston, Texas, United States of America | \$20 - \$34 per hour | Oct 20 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Houston-Texas-United-States-of-America/Electrification-Sales-Internship---Summer-2027_JR00048198) |

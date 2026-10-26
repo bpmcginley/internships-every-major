@@ -1,6 +1,6 @@
 # Government and Public Policy: Summer 2027 Internships
 
-57 open Summer 2027 government and public policy roles, newest first (all 57). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 338 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+55 open Summer 2027 government and public policy roles, newest first (all 55). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 337 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -34,8 +34,6 @@
 | [Internal Revenue Service](https://internscout.org/internships/at/internal-revenue-service/) | Summer Intern (Legal Administrative Specialist) | Birmingham, Alabama +45 | \$61722 - \$100315 Per Year | Sep 29 | [Apply](https://www.usajobs.gov:443/job/886742000) |
 | [Internal Revenue Service](https://internscout.org/internships/at/internal-revenue-service/) | Summer Intern (Legal Administrative Specialist) (Non-Tax) | Los Angeles, California +6 | \$65271 - \$100315 Per Year | Sep 28 | [Apply](https://www.usajobs.gov:443/job/886641800) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Local Government - Politics Intern - Summer 2027 | Dallas, TX |  | Sep 26 | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027547) |
-| [Assured Guaranty](https://internscout.org/internships/at/assured-guaranty/) | Municipal Surveillance Intern - Special Tax and Special Districts - Summer 2027 | New York, NY, United States | \$30 per hour | Sep 21 | [Apply](https://boards.greenhouse.io/assuredguaranty/jobs/8817736002?gh_jid=8817736002) |
-| [Assured Guaranty](https://internscout.org/internships/at/assured-guaranty/) | Municipal Surveillance General Obligation Sector Summer & Academic Year Intern - 2027 | New York, NY, United States | \$30 per hour | Sep 21 | [Apply](https://boards.greenhouse.io/assuredguaranty/jobs/8817731002?gh_jid=8817731002) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Qualcomm Government Technologies (QGOV) Engineering Internship – Summer 2027 (San Diego or Boulder) \| US CITIZENSHIP RE… | San Diego, CA |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720740540) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Public Policy Intern (Kennett Square, PA) | Kennett Square, Pennsylvania |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138711) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Investments - Municipal Bonds | Richardson, Texas | \$33.00/hour | Sep 9 | [Apply](https://jobs.statefarm.com/jobs/45635) |

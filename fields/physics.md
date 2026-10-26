@@ -1,12 +1,13 @@
 # Physics: Summer 2027 Internships
 
-17 open Summer 2027 physics roles, newest first (all 17). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 74 physics internships on InternScout](https://internscout.org/internships/physics/)
+18 open Summer 2027 physics roles, newest first (all 18). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 75 physics internships on InternScout](https://internscout.org/internships/physics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Lumentum](https://internscout.org/internships/at/lumentum/) | Optical Algorithms and Analytics Engineering Co-op | Ottawa, ON |  | Oct 19 | [Apply](https://go.vansh.nyc/dy) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern – Research and Developement – Display Optical Simulation | Warren, Michigan, United States of America |  | Oct 12 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Developement---Display-Optical-Simulation_JR-202621740) |
 | [Space Dynamics Laboratory](https://internscout.org/internships/at/space-dynamics-laboratory/) | Electro-Optical Engineer Intern | North Logan, UT |  | Oct 6 | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/E1nubjCRhW/ElectroOptical-Engineer-Intern) |
+| [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Firmware Engineer Intern, Optical | San Jose, CA |  | Oct 6 | [Apply](https://go.vansh.nyc/Fn) |
 | [Corning](https://internscout.org/internships/at/corning/) | Optical Design Intern - Summer 2027 | Fairport, NY | \$1,635.00 - \$3,185.00 | Oct 6 | [Apply](https://corningjobs.corning.com/job/Fairport-Optical-Design-Intern-Summer-2027-NY-14450/1437588500/) |
 | [CACI](https://internscout.org/internships/at/caci/) | Optical Engineering Intern - Summer 2027 | Danbury, CT, US | \$55,600 - \$111,100 | Oct 1 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Optical-Engineering-Intern---Summer-2027_332752) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Silicon Photonics Reliability Engineering Intern (Summer 2027) | USA - New York - Malta +1 |  | Sep 28 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Reliability-Engineering-Intern--Summer-2027-_JR-2604258) |

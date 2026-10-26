@@ -1,6 +1,6 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-220 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 220). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 479 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+219 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 219). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 479 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

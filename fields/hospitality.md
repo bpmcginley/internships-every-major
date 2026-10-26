@@ -1,6 +1,6 @@
 # Hospitality: Summer 2027 Internships
 
-25 open Summer 2027 hospitality roles, newest first (all 25). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 97 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
+24 open Summer 2027 hospitality roles, newest first (all 24). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 98 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -9,7 +9,6 @@
 | [Royal Caribbean Group](https://internscout.org/internships/at/royal-caribbean-group/) | Intern, Newbuild Solutions (Summer 2027) | Miami, FL |  | Oct 20 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miami-Intern%2C-Newbuild-Solutions-%28Summer-2027%29-FL-33132/1441986900/) |
 | [Royal Caribbean Group](https://internscout.org/internships/at/royal-caribbean-group/) | Intern, Guest Travel Services (Summer 2027) | Miramar, FL |  | Oct 15 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miramar-Intern%2C-Guest-Travel-Services-%28Summer-2027%29-FL-33132/1440504600/) |
 | [Baird](https://internscout.org/internships/at/baird/) | Internship – Hospitality (Louisville, KY Summer 2027) | KY-Louisville |  | Oct 2 | [Apply](https://baird.wd1.myworkdayjobs.com/careers/job/KY-Louisville/Internship---Hospitality--Louisville--KY-Summer-2027-_R20261112-1) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Biomechanics | Baltimore, MD |  | Sep 28 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Biomechanics-MD-21230/1434382000/) |
 | [westernalliancebank](https://internscout.org/internships/at/westernalliancebank/) | Summer 2027 Internship - Phoenix, AZ - Hotel Franchise Finance | Phoenix, AZ |  | Sep 28 | [Apply](https://westernalliancebank.wd5.myworkdayjobs.com/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Hotel-Franchise-Finance_R13954) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Product Line Management | Baltimore, MD | \$23 per hour | Sep 28 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Product-Line-Management-MD-21230/1434387800/) |
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Hotel Franchise Finance | Phoenix, AZ |  | Sep 28 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Hotel-Franchise-Finance_R13954) |

@@ -1,6 +1,6 @@
 # Urban Planning: Summer 2027 Internships
 
-49 open Summer 2027 urban planning roles, newest first (all 49). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 107 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+48 open Summer 2027 urban planning roles, newest first (all 48). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 106 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -12,7 +12,6 @@
 | [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | GIS, Grid Data Intern - MN | Minneapolis, MN, 55418 +1 |  | Oct 20 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Grid-Data-Intern---MN_JR115742-1) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Product Planning Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 16 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Product-Planning---Summer-2027---Franklin--TN_R00214298) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Aftersales Business Planning Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America +1 |  | Oct 14 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Aftersales-Business-Planning-Intern---Summer-2027---Franklin--TN_R00214226) |
-| [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Community Development Finance/Loan Origination (Boston, MA) | Boston, Massachusetts | \$18.14/hr | Oct 13 | [Apply](https://firstcitizens.jibeapply.com/jobs/35966) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | RPP Supply Planning Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 12 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/RPP-Supply-Planning-Intern---Summer-2027---Franklin--TN_R00214294) |
 | [URBN](https://internscout.org/internships/at/urbn/) | Anthropologie Merchandise Planning Intern | Philadelphia, PA | Paid | Oct 9 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/33590/anthropologie-merchandise-planning-intern/job) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Product Planning Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America +1 |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Product-Planning-Intern---Summer-2027---Franklin--TN_R00214297) |

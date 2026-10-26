@@ -1,6 +1,6 @@
 # Sustainability: Summer 2027 Internships
 
-94 open Summer 2027 sustainability roles, newest first (all 94). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 145 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+93 open Summer 2027 sustainability roles, newest first (all 93). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 145 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -82,7 +82,6 @@
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern Enterprise Safety Summer 2027 | Jackson, Mississippi |  | Sep 24 | [Apply](https://jobs.entergy.com/job/Jackson-Student%2C-Intern-Enterprise-Safety-Summer-2027-Miss/1433660400/) |
 | [Gordon Food Service](https://internscout.org/internships/at/gordon-food-service/) | Sustainability Intern | Wyoming, Michigan +1 |  | Sep 21 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Sustainability-Intern_R-57405) |
 | [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Climate Sustainability Internship Masters/MBA Intern | USA-Illinois-Chicago | Paid | Sep 18 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Illinois-Chicago/Summer-2027-Mars-Climate-Sustainability-Internship-Masters-MBA-Intern_R162093-1) |
-| [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Sustainability | Duluth, GA |  | Sep 18 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Duluth-GA/Summer-2027-Internship--Sustainability_R2026-1900) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Research and Development (Boston Research Center) - 2027 Summer Student Program | Cambridge, MA |  | Sep 18 | [Apply](https://aramcoservices.applytojob.com/apply/rnpFdnTdYb/Research-And-Development-Boston-Research-Center-2027-Summer-Student-Program) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Research and Development (Detroit Research Center) - 2027 Summer Student Program | Detroit, MI |  | Sep 18 | [Apply](https://aramcoservices.applytojob.com/apply/ycFkgdZtKy/Research-And-Development-Detroit-Research-Center-2027-Summer-Student-Program) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Aramco Ventures - 2027 Summer Student Program | Houston, TX |  | Sep 18 | [Apply](https://aramcoservices.applytojob.com/apply/nhpYN7Cxyo/Aramco-Ventures-2027-Summer-Student-Program) |

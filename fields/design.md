@@ -1,6 +1,6 @@
 # Design: Summer 2027 Internships
 
-61 open Summer 2027 design roles, newest first (all 61). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 180 design internships on InternScout](https://internscout.org/internships/design/)
+60 open Summer 2027 design roles, newest first (all 60). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 180 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -12,11 +12,10 @@
 | [KeyBank](https://internscout.org/internships/at/keybank/) | 2027 Summer Graphic Design Internship | Brooklyn, OH |  | Oct 21 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Graphic-Design-Internship_R-42823) |
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | Packaging Science Engineering Intern, Graphics/Graphic Design - Summer 2027 | Towson, MD, United States | \$22.00- \$27.00 per hour | Oct 21 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Packaging-Science-Engineering-Intern--Graphics-Graphic-Design---Summer-2027_REQ-1000052821) |
 | [Patreon](https://internscout.org/internships/at/patreon/) | Product Design Intern - Summer 2027 | New York +4 | Paid | Oct 20 | [Apply](https://jobs.ashbyhq.com/patreon/b492a008-4218-4ec8-91dc-0fb512027849/application) |
-| [STR](https://internscout.org/internships/at/str/) | Graphic Design & Technical Communications Intern - Summer 2027 | Woburn, MA | \$25.20-\$54.00/hour | Oct 20 | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723386006) |
+| STR | Graphic Design & Technical Communications Intern - Summer 2027 | Woburn, MA | \$25.20-\$54.00/hour | Oct 20 | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723386006) |
 | [Garmin](https://internscout.org/internships/at/garmin/) | User Interface Designer Intern | Olathe, Kansas |  | Oct 20 | [Apply](https://careers.garmin.com/jobs/19938) |
 | [Amplify](https://internscout.org/internships/at/amplify/) | Summer 2027: Product Design Intern | Remote |  | Oct 19 | [Apply](https://jobs.ashbyhq.com/amplify/0b593144-07c5-45be-b979-6c37879e6300/application) |
-| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova - SCS Product Design Internship – Summer 2027 | Bellevue |  | Oct 14 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---SCS-Product-Design-Internship---Summer-2027_R5053219-2) |
-| [Electronic Arts](https://internscout.org/internships/at/electronic-arts/) | Technical Artist Co-op | Vancouver, BC, Canada |  | Oct 13 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406) |
+| [Electronic Arts](https://internscout.org/internships/at/electronic-arts/) | Technical Artist Co-op | Vancouver, BC, Canada +1 |  | Oct 13 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Product Designer Intern | Costa Mesa, California, United States | Paid | Oct 13 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | UI/UX Design Intern (Summer 2027) | Delaware, OH +2 |  | Oct 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281371) |
 | [3M](https://internscout.org/internships/at/3m/) | Internship - 2027 Undergraduate 3M Industrial Design Intern - Safety & Industrial Business Group (SIBG) | Maplewood, MN +1 |  | Oct 12 | [Apply](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-Industrial-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172241) |
@@ -30,7 +29,7 @@
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX News Media Internship Program - Graphic Design - New York | New York, New York, USA |  | Sep 28 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---Graphic-Design---New-York_R50033985) |
 | [Hy-Vee](https://internscout.org/internships/at/hy-vee/) | UX Design Intern - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA |  | Sep 28 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/UX-Design-Intern---Summer-2027_R250150) |
 | [Lyft](https://internscout.org/internships/at/lyft/) | Content Design Intern (Summer 2027) | Toronto, Canada | \$46 per hour | Sep 24 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817900002?gh_jid=8817900002) |
-| Mill | Product Design Engineering Intern, Summer 2027 | San Bruno, California | \$35 to \$45, | Sep 24 | [Apply](https://job-boards.greenhouse.io/mill/jobs/4737767005) |
+| [Mill](https://internscout.org/internships/at/mill/) | Product Design Engineering Intern, Summer 2027 | San Bruno, California | \$35 to \$45, | Sep 24 | [Apply](https://job-boards.greenhouse.io/mill/jobs/4737767005) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | UX Design Intern (Summer 2027) | Westerville, OH |  | Sep 18 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279266) |
 | [ibotta](https://internscout.org/internships/at/ibotta/) | Product Design Intern | Hybrid - Denver +2 | \$33.85 per hour | Sep 16 | [Apply](https://jobs.ashbyhq.com/ibotta/18bc055e-8958-4a09-9d5d-59894e6b9747/application) |
 | [Google](https://internscout.org/internships/at/google/) | User Experience Engineer Intern - PhD - Summer 2027 | Palo Alto, CA +24 |  | Sep 14 | [Apply](https://www.google.com/about/careers/applications/jobs/results/117572151191446214) |

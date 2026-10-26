@@ -1,6 +1,6 @@
 # Media: Summer 2027 Internships
 
-31 open Summer 2027 media roles, newest first (all 31). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 120 media internships on InternScout](https://internscout.org/internships/media/)
+33 open Summer 2027 media roles, newest first (all 33). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 123 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -17,6 +17,8 @@
 | [Hearst](https://internscout.org/internships/at/hearst/) | Houston Chronicle Visuals Internship | Houston, TX |  | Sep 25 | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027533) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Audience Intern | Houston, TX |  | Sep 25 | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027541) |
 | [URBN](https://internscout.org/internships/at/urbn/) | Terrain Creative Video Editor Intern | Philadelphia, PA | Paid | Sep 23 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/30762/terrain-creative-video-editor-intern/job) |
+| [Electronic Arts](https://internscout.org/internships/at/electronic-arts/) | AI Engineer Intern, Creative Innovations, Character Pipelines | Vancouver, Canada |  | Sep 22 | [Apply](https://go.vansh.nyc/Jf) |
+| [CAE](https://internscout.org/internships/at/cae/) | Software Developer Intern, Content Creation Tools | Montreal, Canada |  | Sep 21 | [Apply](https://go.vansh.nyc/IU) |
 | [URBN](https://internscout.org/internships/at/urbn/) | Anthropologie Creative Digital Design Intern | Philadelphia, PA | Paid | Sep 14 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/30763/anthropologie-creative-digital-design-intern/job) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Graphic Design & Creative Media Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138723) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Technical Writing Intern (Summer 2027) | Westerville, OH |  | Sep 8 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279289) |

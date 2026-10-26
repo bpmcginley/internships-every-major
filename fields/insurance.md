@@ -1,6 +1,6 @@
 # Insurance: Summer 2027 Internships
 
-118 open Summer 2027 insurance roles, newest first (all 118). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 234 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+117 open Summer 2027 insurance roles, newest first (all 117). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 233 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -99,7 +99,6 @@
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Personal Lines Underwriting Internship - Summer 2027 | Appleton, WI |  | Oct 24 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Appleton-WI/Personal-Lines-Underwriting-Internship---Summer-2027_R_14377) |
 | [EMC Insurance](https://internscout.org/internships/at/emc-insurance/) | Claims Intern - Workers' Compensation | Iowa - Work From Home +1 |  | Oct 20 | [Apply](https://emcins.wd5.myworkdayjobs.com/EMC_Careers/job/Iowa---Work-From-Home/Claims-Intern---Worker-s-Compensation_R6548-1) |
 | Corebridge Financial | 2027 Corebridge Financial Summer Internship Program - Actuary | TX-Houston +2 | \$20.00 per hour | Oct 17 | [Apply](https://corebridgefinancial.wd1.myworkdayjobs.com/CorebridgeFinancial/job/TX-Houston/XMLNAME-2027-Corebridge-Summer-Internship-Program---Actuary_JR2600796) |
-| CareSource | 2027 Summer Internship - Actuary | Remote | \$41,200.00 - \$66,000.00 | Oct 17 | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship---Actuary_R13645) |
 | Palomar Holdings | 2027 Summer Internship (Actuarial) | Edina, MN |  | Oct 3 | [Apply](https://ats.rippling.com/plmrcareers/jobs/d6bd58c7-5127-4a17-b70d-2d377aa9fa8a) |
 | [NJM Insurance Group](https://internscout.org/internships/at/njm-insurance-group/) | Commercial Lines Underwriting Intern | NJM - Trenton, NJ | \$21-\$22 hour | Oct 2 | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Commercial-Lines-Underwriting-Intern_R2008217) |
 | [Pacific Life](https://internscout.org/internships/at/pacific-life/) | Summer 2027 Actuarial Intern (Omaha) | Omaha NE-6750 |  | Sep 26 | [Apply](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Omaha-NE-6750/Summer-2027-Actuarial-Intern--Omaha-_R17461) |

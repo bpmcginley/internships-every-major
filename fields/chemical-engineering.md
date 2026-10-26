@@ -1,9 +1,10 @@
 # Chemical Engineering: Summer 2027 Internships
 
-73 open Summer 2027 chemical engineering roles, newest first (all 73). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 198 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+74 open Summer 2027 chemical engineering roles, newest first (all 74). **Updated October 26, 2026.** [Back to every major](../README.md) · [See all 193 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [S&C Electric Company](https://internscout.org/internships/at/s-c-electric-company/) | Chemical Engineer (Facilities) Intern | Chicago, IL | \$22 - 30 per hour | Oct 26 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107464) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations | San Francisco, CA, USA +1 | Paid | Oct 23 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8304574) |
 | Thales | Tools and Process Development Intern | Montreal, Canada |  | Oct 23 | [Apply](https://go.vansh.nyc/hj) |
 | [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova Manufacturing Process Engineer Intern - Summer 2027 | Charleroi USA |  | Oct 23 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Charleroi-USA/GE-Vernova-Manufacturing-Process-Engineer-Intern---Summer-2027_R5053285-1) |
