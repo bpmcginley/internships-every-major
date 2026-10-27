@@ -1,9 +1,10 @@
 # Chemistry: Summer 2027 Internships
 
-11 open Summer 2027 chemistry roles, newest first (all 11). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 38 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
+12 open Summer 2027 chemistry roles, newest first (all 12). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 39 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Product and Analytical Sciences Summer Intern | Warren - NJ - US | \$24.00 - \$45.00 | Oct 27 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Warren---NJ---US/Product-and-Analytical-Sciences-Summer-Intern_R1607861) |
 | [ABB](https://internscout.org/internships/at/abb/) | Chemist/Chemical Engineer Intern - Summer 2027 | Bartlesville, Oklahoma, United States of America |  | Oct 26 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bartlesville-Oklahoma-United-States-of-America/Chemist-Chemical-Engineer-Intern---Summer-2027_JR00047103-1) |
 | [KLA Corporation](https://internscout.org/internships/at/kla/) | Chemistry R&D Intern | Totowa, NJ | \$31.50 - \$50.00 | Oct 23 | [Apply](https://kla.wd1.myworkdayjobs.com/search/job/Totowa-NJ/Chemistry-R-D-Intern_2642152-1) |
 | [Haleon](https://internscout.org/internships/at/haleon/) | 2027 Summer Intern: Product Chemistry | USA - Virginia - Richmond |  | Oct 22 | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---Virginia---Richmond/XMLNAME-2027-Summer-Intern--Product-Chemistry_548428) |

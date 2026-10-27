@@ -1,6 +1,6 @@
 # Media: Summer 2027 Internships
 
-35 open Summer 2027 media roles, newest first (all 35). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 132 media internships on InternScout](https://internscout.org/internships/media/)
+30 open Summer 2027 media roles, newest first (all 30). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 121 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -28,11 +28,6 @@
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Video/Image AI/ML Software Engineer Intern - Multimedia | San Diego, CA |  | Aug 6 | [Apply](https://jobs.bytedance.com/en/position/7670354329765464373/detail) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Creative Intelligence and Brand Innovation | San Jose, CA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7668642761473902901) |
 | [Stifel](https://internscout.org/internships/at/stifel/) | Video & Digital Marketing Intern- Summer 2027 | Saint Louis, MO |  | Oct 22 | [Apply](https://careers-stifel.icims.com/jobs/9904/video-%26-digital-marketing-intern--summer-2027/job) |
-| [Politico](https://internscout.org/internships/at/politico/) | Reporting Intern, HQ (Summer 2027) | Arlington, VA |  | Sep 25 | [Apply](https://politico.wd108.myworkdayjobs.com/POLITICO/job/Arlington-VA/Reporting-Intern--HQ--Summer-2027-_JR100567) |
-| [Politico](https://internscout.org/internships/at/politico/) | Photo Intern, HQ (Summer 2027) | Arlington, VA |  | Sep 25 | [Apply](https://politico.wd108.myworkdayjobs.com/POLITICO/job/Arlington-VA/Photo-Intern--HQ--Summer-2027-_JR100570) |
-| [Politico](https://internscout.org/internships/at/politico/) | Reporting Intern, California (Summer 2027) | Sacramento, CA | \$23/hr | Sep 25 | [Apply](https://politico.wd108.myworkdayjobs.com/POLITICO/job/Sacramento-CA/Reporting-Intern--California--Summer-2027-_JR100566) |
-| [Politico](https://internscout.org/internships/at/politico/) | Reporting Intern, New York (Summer 2027) | New York, NY | \$23/hr | Sep 25 | [Apply](https://politico.wd108.myworkdayjobs.com/POLITICO/job/New-York-NY/Reporting-Intern--New-York--Summer-2027-_JR100565) |
-| [Politico](https://internscout.org/internships/at/politico/) | Audio/Video Intern, HQ (Summer 2027) | Arlington, VA |  | Sep 25 | [Apply](https://politico.wd108.myworkdayjobs.com/POLITICO/job/Arlington-VA/Audio-Video-Intern--HQ--Summer-2027-_JR100568) |
 | [Bloomberg Industry Group](https://internscout.org/internships/at/bloomberg-industry-group/) | 2027 Summer News Internship: Graphics - Graphics/Data Visualization Journalist | Arlington, VA - 1801 S Bell (INDG) |  | Sep 23 | [Apply](https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington-VA---1801-S-Bell-INDG/XMLNAME-2027-Summer-News-Internship--Graphics---Graphics-Data-Visualization-Journalist_144776) |
 | [Bloomberg Industry Group](https://internscout.org/internships/at/bloomberg-industry-group/) | 2027 Summer News Internship - Video Journalist | Arlington, VA - 1801 S Bell (INDG) |  | Sep 23 | [Apply](https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington-VA---1801-S-Bell-INDG/XMLNAME-2027-Summer-News-Internship---Video-Journalist_144777) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Creative Design (Interior/Exterior) | Warren, Michigan, United States of America +1 | \$6,100 month | Sep 19 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Creative-Design--Interior-Exterior-_JR-202619314) |

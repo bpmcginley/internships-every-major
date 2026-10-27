@@ -1,6 +1,6 @@
 # Journalism: Summer 2027 Internships
 
-23 open Summer 2027 journalism roles, newest first (all 23). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 90 journalism internships on InternScout](https://internscout.org/internships/journalism/)
+22 open Summer 2027 journalism roles, newest first (all 22). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 89 journalism internships on InternScout](https://internscout.org/internships/journalism/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -21,7 +21,6 @@
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX News Media Internship Program - Los Angeles | Los Angeles, California, USA | \$20.00 per hour | Sep 28 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Summer-2027-FOX-News-Media-Internship-Program---Los-Angeles_R50033987) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Breaking News Intern | Houston, TX |  | Sep 23 | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027540) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Local News Intern - Summer 2027 | Dallas, TX |  | Sep 23 | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027548) |
-| [Politico](https://internscout.org/internships/at/politico/) | Newsroom Engineering Intern, HQ (Summer 2027) | Arlington, VA |  | Sep 25 | [Apply](https://politico.wd108.myworkdayjobs.com/POLITICO/job/Arlington-VA/Newsroom-Engineering-Intern--HQ--Summer-2027-_JR100569) |
 | [Bloomberg Industry Group](https://internscout.org/internships/at/bloomberg-industry-group/) | 2027 Summer News Internship: Graphics - Graphics/Data Visualization Journalist | Arlington, VA - 1801 S Bell (INDG) |  | Sep 23 | [Apply](https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington-VA---1801-S-Bell-INDG/XMLNAME-2027-Summer-News-Internship--Graphics---Graphics-Data-Visualization-Journalist_144776) |
 | [Bloomberg Industry Group](https://internscout.org/internships/at/bloomberg-industry-group/) | 2027 Summer News Internship - Digital Editor | Arlington, VA - 1801 S Bell (INDG) |  | Sep 23 | [Apply](https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington-VA---1801-S-Bell-INDG/XMLNAME-2027-Summer-News-Internship---Digital-Editor_144775) |
 | [Bloomberg Industry Group](https://internscout.org/internships/at/bloomberg-industry-group/) | 2027 Summer News Internship - Video Journalist | Arlington, VA - 1801 S Bell (INDG) |  | Sep 23 | [Apply](https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington-VA---1801-S-Bell-INDG/XMLNAME-2027-Summer-News-Internship---Video-Journalist_144777) |

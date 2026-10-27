@@ -1,9 +1,11 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-216 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 216). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 478 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+218 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 218). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 479 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Corning](https://internscout.org/internships/at/corning/) | Environmental Intern- Summer 2027 | Painted Post, NY | \$1,635.00 - \$3,185.00 | Oct 27 | [Apply](https://corningjobs.corning.com/job/Painted-Post-Environmental-Intern-Summer-2027-NY-14870/1444011700/) |
+| [WSP](https://internscout.org/internships/at/wsp/) | Geology Intern - Summer 2027 | Mount Laurel, NJ | \$22.60 - \$29.38 | Oct 27 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98235) |
 | [Scout Clean Energy](https://internscout.org/internships/at/scout-clean-energy/) | Renewable Energy Analyst Intern | Boulder, CO |  | Oct 26 | [Apply](https://apply.workable.com/scout-clean-energy/j/30CCB1602D/apply) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Patient Safety Intern Summer 2027 | Princeton - NJ - US +1 |  | Oct 26 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Patient-Safety-Intern-Summer-2027_R1607761) |
 | Jones Lang LaSalle (JLL) | Environmental Health and Safety Specialist Summer 2027 Internship – Andover, MA | Andover, MA |  | Oct 26 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Andover-MA/Environmental-Health-and-Safety-Specialist-Summer-2027-Internship---Andover--MA_REQ541929) |
@@ -63,7 +65,7 @@
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Cary, North Carolina | \$20.00 | Oct 9 | [Apply](https://careers.trccompanies.com/jobs/27052) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Blue Ash, Ohio | \$20.00 | Oct 9 | [Apply](https://careers.trccompanies.com/jobs/27053) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Water Resources Engineering Intern- Summer 2027 | Seattle, WA +3 |  | Oct 9 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97266) |
-| [WSP](https://internscout.org/internships/at/wsp/) | Water Resources Engineering Intern- Summer 2027 | San Diego, CA | Paid | Oct 9 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97252) |
+| [WSP](https://internscout.org/internships/at/wsp/) | Water Resources Engineering Intern- Summer 2027 | San Diego, CA |  | Oct 9 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97252) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Geological/Environmental Engineering Intern - Energy & Resources (Summer 2027) | Denver, CO |  | Oct 9 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008076) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | EHS Intern | Sparks, Nevada |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51658) |
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-op - HES&S Environmental (Summer 2027) | Findlay, Ohio +18 | \$24.09 per hour | Oct 9 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---HES-S-Environmental--Summer-2027-_00024178) |
@@ -202,8 +204,6 @@
 | [Dallas Fort Worth International Airport](https://internscout.org/internships/at/dallas-fort-worth-international-airport/) | 2027 Undergraduate Internship - Environmental Technical Projects | DFW Intl. Airport Board, TX +1 |  | Sep 23 | [Apply](https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Internship---Environmental-Technical-Projects_JR102144) |
 | [Gordon Food Service](https://internscout.org/internships/at/gordon-food-service/) | Sustainability Intern | Wyoming, Michigan +1 |  | Sep 21 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Sustainability-Intern_R-57405) |
 | [GE Aerospace](https://internscout.org/internships/at/ge-aerospace/) | Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 | Durham +6 | \$20/hour | Sep 19 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Environmental-Health-Safety--Facilities----Maintenance-Intern---US---Summer-2027_R5029661) |
-| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Environmental Intern (Summer 2027) | USA - New York - Malta | \$20.00 - \$40.00 | Sep 18 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Environmental-Intern--Summer-2027-_JR-2604241) |
-| [Elanco](https://internscout.org/internships/at/elanco/) | Health, Safety, and Environment Intern – Elwood, Kansas (Summer 2027) | Elwood, KS |  | Sep 18 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Elwood-KS/Health--Safety--and-Environment-Intern---Elwood--Kansas--Summer-2027-_R0026900) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

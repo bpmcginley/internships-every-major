@@ -1,6 +1,6 @@
 # Consulting: Summer 2027 Internships
 
-132 open Summer 2027 consulting roles, newest first (all 132). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 282 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+131 open Summer 2027 consulting roles, newest first (all 131). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 280 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -34,7 +34,6 @@
 | DriveWealth | AI Consulting Associate Program Product Owner Intern | Chicago, IL +1 |  | Oct 20 | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8038087003) |
 | DriveWealth | AI Consulting Associate Program – AI Engineer Intern | Chicago, IL +1 |  | Oct 20 | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8039350003) |
 | DriveWealth | AI Engineer Intern, AI Consulting Associate Program | Chicago, IL +1 |  | Oct 20 | [Apply](https://go.vansh.nyc/de) |
-| [David Yurman](https://internscout.org/internships/at/david-yurman/) | Marketing Strategy Intern | New York, NY | \$25/hour | Oct 20 | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Marketing-Strategy-Intern_R-101145) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Governance & Operational Excellence Corporate Internship – Summer 2027 (Undergraduate) | CT - Hartford |  | Oct 20 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Governance---Operational-Excellence-Corporate-Internship---Summer-2027--Undergraduate-_R1080161) |
 | [The Hartford](https://internscout.org/internships/at/the-hartford/) | 2027 Summer Intern - Investment Consulting Group | Wayne, PA | \$20.00 - \$25.00 | Oct 20 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Wayne-PA/XMLNAME-2027-Summer-Intern---Investment-Consulting-Group_R2627498) |
 | [Amplify](https://internscout.org/internships/at/amplify/) | Summer 2027: Corporate Strategy Intern | Remote |  | Oct 19 | [Apply](https://jobs.ashbyhq.com/amplify/9d58173f-3112-4c03-b393-3c2dab4c1e20/application) |
@@ -48,8 +47,8 @@
 | [RSM](https://internscout.org/internships/at/rsm/) | 2027 Elevate Program and 2028 Summer Technology Risk and Controls Consulting Intern | Chicago +11 | \$34 - \$40 per hour | Oct 16 | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/XMLNAME-2027-Elevate-Program-and-2028-Summer-Technology-Risk-and-Controls-Consulting-Intern_JR120923) |
 | [RSM](https://internscout.org/internships/at/rsm/) | 2027 Elevate Program and 2028 Summer Process Risk and Controls Consulting Intern | Chicago +8 | \$34 - \$40 per hour | Oct 16 | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/XMLNAME-2027-Elevate-Program-and-2028-Summer-Process-Risk-and-Controls-Consulting-Intern_JR120925) |
 | [RSM](https://internscout.org/internships/at/rsm/) | 2027 Elevate Program and 2028 Summer Financial Services Consulting Intern | Chicago +1 | \$34 - \$40 per hour | Oct 16 | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/XMLNAME-2027-Elevate-Program-and-2028-Summer-Financial-Services-Consulting-Intern_JR120926) |
-| [Danaher Corporation](https://internscout.org/internships/at/danaher-corporation/) | CCM Data Governance Intern | Logan, UT |  | Oct 15 | [Apply](https://go.vansh.nyc/9F) |
 | [Danaher](https://internscout.org/internships/at/danaher-corporation/) | Data Governance Intern - CCM | Logan, UT |  | Oct 15 | [Apply](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Logan-Utah-United-States/CCM-Data-Governance---Intern-Summer-2027_R1318977) |
+| [Danaher Corporation](https://internscout.org/internships/at/danaher-corporation/) | CCM Data Governance - Intern Summer 2027 | Logan, Utah, United States +1 |  | Oct 15 | [Apply](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/CCM-Data-Governance---Intern-Summer-2027_R1318977) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Cross Car Line Feature Strategy Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America +1 |  | Oct 15 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Cross-Car-Line-Feature-Strategy-Intern---Summer-2027---Franklin--TN_R00214296) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Governance | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694366551807265029) |
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | IT Business Analyst Intern, Ditch Witch | Perry, OK |  | Oct 13 | [Apply](https://go.vansh.nyc/8Q) |

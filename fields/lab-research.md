@@ -1,12 +1,13 @@
 # Lab Research: Summer 2027 Internships
 
-21 open Summer 2027 lab research roles, newest first (all 21). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 116 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
+22 open Summer 2027 lab research roles, newest first (all 22). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 118 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | R&D GSC Aerosol Lab Internship- Brecksville, OH | Brecksville, OH |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627571) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | R&D GSC Wood Care Lab Internship- Brecksville, OH | Brecksville, OH |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627575) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | R&D GSC Building Materials Lab Internship- Brecksville, OH | Brecksville, OH |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627572) |
+| [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | R&D GSC Architectural Paint Lab Internship- Brecksville, OH | Brecksville, OH |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627563) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Product Innovation (Material Development and Material Lab) | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Product-Innovation-%28Material-Development-and-Material-Lab%29-MD-21230/1434382800/) |
 | [Trace3](https://internscout.org/internships/at/trace3/) | Innovation Research & Development Lab Intern | Irvine, CA |  | Oct 26 | [Apply](https://go.vansh.nyc/SL) |
 | [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Laboratory Automation Systems Intern | Spring House, Pennsylvania, United States of America +1 |  | Oct 23 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Automation-Systems-Intern_R-103027) |

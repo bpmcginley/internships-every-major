@@ -1,10 +1,10 @@
 # Product Management: Summer 2027 Internships
 
-168 open Summer 2027 product management roles, newest first (all 168). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 285 product management internships on InternScout](https://internscout.org/internships/product-management/)
+168 open Summer 2027 product management roles, newest first (all 168). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 284 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [Visa](https://internscout.org/internships/at/visa/) | Product Management Intern, Data and AI Team - Summer 2027 | US - Foster City, CA | \$46 to \$55 | Oct 27 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1) |
+| [Visa](https://internscout.org/internships/at/visa/) | Product Management Intern, Data and AI Team - Summer 2027 | US - Foster City, CA +1 | \$46 to \$55 | Oct 27 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1) |
 | Hive Financial Systems | Product Internship-2027 | Atlanta, Georgia +1 |  | Oct 26 | [Apply](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274970007) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Customer Technical Program Management Intern, OEMs System Partner – Summer 2027 | US, CA +1 |  | Oct 26 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Customer-Technical-Program-Management-Intern--OEMs-System-Partner---Summer-2027_JR2028512) |
 | [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Go-To-Market Product Manager | Lincolnshire, Illinois +1 |  | Oct 26 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Go-To-Market-Product-Manager_JR103647) |

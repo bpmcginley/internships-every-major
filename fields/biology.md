@@ -1,9 +1,10 @@
 # Biology: Summer 2027 Internships
 
-18 open Summer 2027 biology roles, newest first (all 18). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 825 biology internships on InternScout](https://internscout.org/internships/biology/)
+19 open Summer 2027 biology roles, newest first (all 19). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 828 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Global Regulatory Sciences Biopharmaceutical Sector Internship Summer 2027 | Princeton - NJ - US +1 |  | Oct 27 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Global-Regulatory-Sciences-Biopharmaceutical-Sector-Internship-Summer-2027_R1607871) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | R&D GSC Microbiology Resource Center Internship- Brecksville, OH | Brecksville, OH |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627508) |
 | [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | TDS CGT-Viral Vector Development Co-Op | Malvern, Pennsylvania, United States of America +2 | \$23.50 hr | Oct 26 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-CGT-Viral-Vector-Development-Co-Op_R-104407) |
 | [Cleveland Clinic](https://internscout.org/internships/at/cleveland-clinic/) | Pharmacy Intern - Summer 2027 Internship | Fairview Hospital, OH |  | Oct 23 | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Pharmacy-Intern---Summer-2027-Internship_344656) |

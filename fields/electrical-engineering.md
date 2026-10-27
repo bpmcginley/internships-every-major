@@ -1,9 +1,10 @@
 # Electrical Engineering: Summer 2027 Internships
 
-235 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 235). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 601 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+234 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 234). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 599 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [RTX](https://internscout.org/internships/at/rtx/) | RF Systems Engineer Intern (Summer 2027) | El Segundo, CA | Paid | Oct 27 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/RF-Systems-Engineer-Intern--Summer-2027-_01880552) |
 | [HP IQ](https://internscout.org/internships/at/hp-iq/) | Electrical Engineering Intern, Hardware (Summer 2027) | San Francisco, CA +1 | Paid | Oct 26 | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6116396004) |
 | Parallel Systems | Hardware Engineering Intern (Mechanical & Electrical) | Los Angeles, CA +1 | Paid | Oct 26 | [Apply](https://boards.greenhouse.io/parallel/jobs/5275660007?gh_jid=5275660007) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | 2027 Summer Electrical Engineering Intern - BS or MS (Gloucester, MA) | Gloucester,MA | \$31 - \$41 per hour | Oct 26 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineering-Intern---BS-or-MS--Gloucester--MA-_R2630812) |
@@ -35,7 +36,6 @@
 | [Aerospace Corporation](https://internscout.org/internships/at/the-aerospace-corporation/) | Signal Processing and RF Engineering Intern | El Segundo, CA |  | Oct 21 | [Apply](https://go.vansh.nyc/ee) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Manufacturing Electrical Engineering Co-Op (Summer/Fall 2027) | Manchester, IA |  | Oct 21 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Electrical-Engineering-Co-Op--Summer-Fall-2027-_01883114) |
 | [Keysight Technologies](https://internscout.org/internships/at/keysight-technologies/) | R&D RF/Microwave Engineer Intern | Calabasas, California | \$38.31 | Oct 21 | [Apply](https://jobs.keysight.com/jobs/54644) |
-| [RTX](https://internscout.org/internships/at/rtx/) | Manufacturing Electrical Engineer Co-op (Summer/Fall 2027) | Melbourne, FL |  | Oct 21 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Electrical-Engineer-Co-op--Summer-Fall-2027-_01883880) |
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-op - Refining Electrical Engineering (Summer 2027) | Findlay, Ohio +14 | \$32.92 per hour | Oct 21 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Refining-Electrical-Engineering--Summer-2027-_00023669) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Electrical Engineering Intern - Buildings (Summer 2027) | Plano, TX |  | Oct 20 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008416) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Electrical Engineering Intern - Buildings (Summer 2027) | Dallas, TX |  | Oct 20 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008417) |
@@ -70,7 +70,6 @@
 | [S&C Electric Company](https://internscout.org/internships/at/s-c-electric-company/) | Power Systems Control Intern | Chicago, IL | \$22 - 30 per hour | Oct 7 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107357) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Electrical Engineering Intern (Mission Critical/Data Center) - Summer 2027 | Herndon, VA |  | Oct 7 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97071) |
 | [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Physical Design Engineer Intern | San Jose, CA +1 |  | Oct 6 | [Apply](https://go.vansh.nyc/Fp) |
-| [Moog](https://internscout.org/internships/at/moog/) | Electrical Engineer Intern | Torrance, CA |  | Oct 6 | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Electrical-Engineering_R-26-19827) |
 | [Nokia](https://internscout.org/internships/at/nokia/) | ASIC Physical Design Coop | United States +1 |  | Oct 6 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41122) |
 | Carpenter Technology | Maintenance Intern - Electrical | Reading, PA |  | Oct 6 | [Apply](https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Maintenance-Intern---Electrical_26884) |
 | [Arc](https://internscout.org/internships/at/arc/) | Electrical Engineering Intern - Powertrain | Torrance, CA | \$40 per hour | Oct 5 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5443971008) |
@@ -204,6 +203,7 @@
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student Intern Electrical Nuclear Engineering Summer 2027 | Russellville, Arkansas |  | Oct 19 | [Apply](https://jobs.entergy.com/job/Russellville-Student-Intern-Electrical-Nuclear-Engineering-Summer-2027-Arka/1441331900/) |
 | [iRhythm Technologies](https://internscout.org/internships/at/irhythm-technologies/) | Electrical Test Engineering Co-op Intern January-June 2027 | San Francisco, CA +1 | \$35.00 per hour | Sep 25 | [Apply](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/San-Francisco-CA/Electrical-Test-Engineering-Co-op-Intern-January-June-2027_JR1785) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student Intern, Mechanical, Electrical, Engineering, Summer 2027 | Killona, Louisiana |  | Sep 24 | [Apply](https://jobs.entergy.com/job/Killona-Student-Intern%2C-Mechanical%2C-Electrical%2C-Engineering%2C-Summer-2027-Loui/1433536200/) |
+| [Entergy](https://internscout.org/internships/at/entergy/) | Student Intern, Engineering, Power Delivery, Summer 2027 | Searcy, Arkansas |  | Sep 24 | [Apply](https://jobs.entergy.com/job/Searcy-Student-Intern%2C-Engineering%2C-Power-Delivery%2C-Summer-2027-Arka/1433531900/) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

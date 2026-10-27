@@ -1,9 +1,11 @@
 # Communications: Summer 2027 Internships
 
-59 open Summer 2027 communications roles, newest first (all 59). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 199 communications internships on InternScout](https://internscout.org/internships/communications/)
+61 open Summer 2027 communications roles, newest first (all 61). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 202 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [JM Family](https://internscout.org/internships/at/jm-family/) | Marketing Communications Intern | Florida - Deerfield Beach |  | Oct 27 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Marketing-Communications-Intern_JR105099) |
+| [Philips](https://internscout.org/internships/at/philips/) | Intern — North America Brand & Communications Associate — Cambridge, MA — Summer 2027 | Cambridge (US), Massachusetts, United States | \$26 – 30 | Oct 27 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---North-America-Brand---Communications-Associate---Cambridge--MA---Summer-2027_593459) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Marketing and Communications | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Marketing-and-Communications-MD-21230/1434386400/) |
 | [Together AI](https://internscout.org/internships/at/together-ai/) | Technical Writer Intern, Developer Experience (Summer 2027) | San Francisco |  | Oct 26 | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5271149007) |
 | [Corning](https://internscout.org/internships/at/corning/) | Media & Reputation Intern, Corporate Communications - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Oct 26 | [Apply](https://corningjobs.corning.com/job/Corning-Media-&-Reputation-Intern%2C-Corporate-Communications-Summer-2027-NY-14831/1443520400/) |
@@ -19,7 +21,7 @@
 | [Emergent Holdings](https://internscout.org/internships/at/emergent-holdings/) | Summer 2027 Intern - MA Communications Quality and Vendor Oversight | Detroit, MI |  | Oct 20 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15005) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Marketing Communications Intern | Kirkland, WA | Paid | Oct 20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Marketing-Communications-Intern-WA-98033/1449526133/) |
 | [Ursa Major](https://internscout.org/internships/at/ursa-major/) | 2027 Summer Marketing & Communications Intern | Berthoud, Colorado |  | Oct 19 | [Apply](https://ursamajor.com/careers/?gh_jid=4744833005) |
-| [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Marketing and Communications (Reston, VA; Atlanta, GA; Oklahoma) | Reston, VA +2 | \$37,855.00 - \$64,354.00 | Oct 19 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Marketing-and-Communications--Reston--VA-_R2603006) |
+| Ricoh | Software Engineer Intern, Graphic Communications | Boulder, CO |  | Oct 19 | [Apply](https://go.vansh.nyc/Vl) |
 | [David Yurman](https://internscout.org/internships/at/david-yurman/) | Copywriting Intern | New York, NY | \$25/hour | Oct 16 | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Copywriting-Intern_R-101133) |
 | [Axiom Space](https://internscout.org/internships/at/axiom-space/) | Communications & Marketing Intern (Summer 2027) | Houston |  | Oct 15 | [Apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Communications---Marketing-Intern--Summer-2027-_JR100753) |
 | [Sigma Computing](https://internscout.org/internships/at/sigma-computing/) | Technical Writer Intern (Summer 2027) | New York, NY | \$36.00 - \$42.00 per hour | Oct 14 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8034205003) |

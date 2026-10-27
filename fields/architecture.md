@@ -1,9 +1,10 @@
 # Architecture: Summer 2027 Internships
 
-47 open Summer 2027 architecture roles, newest first (all 47). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 125 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+47 open Summer 2027 architecture roles, newest first (all 47). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 126 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | R&D GSC Architectural Paint Lab Internship- Brecksville, OH | Brecksville, OH |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627563) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Enterprise Architecture Software Engineer & Architect Intern | Pittsburgh, PA |  | Oct 26 | [Apply](https://go.vansh.nyc/SS) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Enterprise Architecture Business Operations/Project Management enGen Undergraduate Intern | Pittsburgh PA, 15222, PAP, Penn Avenue Place |  | Oct 26 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Architecture-Business-Operations-Project-Management-enGen-Undergraduate-Intern_J289820) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Enterprise Architecture Software Engineer & Architect enGen Undergradute Intern | Pittsburgh PA, 15222, PAP, Penn Avenue Place |  | Oct 26 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Architecture-Software-Engineer---Architect-enGen-Undergradute-Intern_J289821) |
@@ -25,7 +26,7 @@
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Electrical Engineering Intern – Product Architecture (Summer 2027) | Delaware, OH |  | Oct 2 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281025) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Architectural Intern- Summer 2027 | Washington, DC +1 |  | Oct 2 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96700) |
 | [Micron Technology](https://internscout.org/internships/at/micron-technology/) | DRAM Architecture Intern | San Jose, CA +1 |  | Oct 1 | [Apply](https://go.vansh.nyc/Ef) |
-| Oceaneering | IT Security Architecture Intern | Houston, TX |  | Sep 30 | [Apply](https://go.vansh.nyc/H2) |
+| [Oceaneering](https://internscout.org/internships/at/oceaneering/) | IT Security Architecture Intern | Houston, TX |  | Sep 30 | [Apply](https://go.vansh.nyc/H2) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | Mission Architecture Intern (Summer 2027) | Woodbridge, VA |  | Sep 29 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5252672007) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Architecture Intern | Burlington, VT |  | Sep 28 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Architecture-Intern--MS---Summer-2027_2604613) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Architecture Intern, MS - Summer 2027 | Burlington, VT | Paid | Sep 28 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Architecture-Intern--MS---Summer-2027_2604613-1) |
@@ -47,7 +48,6 @@
 | [IMEG](https://internscout.org/internships/at/imeg/) | Landscape Architecture Intern \| Boston, MA | Boston, MA +1 | \$22.50-\$24.50 per hour | Sep 19 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Boston-MA/Landscape-Architecture-Intern---Boston--MA_R-16617) |
 | [Barry-Wehmiller](https://internscout.org/internships/at/barry-wehmiller/) | Architecture, Engineering & Construction Engineering Internship/Co-Op (Summer 2027 or 6-Month) | Fort Worth, TX USA | \$23–\$30 per hour | Sep 18 | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Fort-Worth-TX-USA/Architecture--Engineering---Construction-Engineering-Internship-Co-Op--Summer-2027-or-6-Month-_R022717) |
 | AArete | Data Architecture & Engineering Intern (Summer 2027) | Chicago, Illinois +1 |  | Sep 18 | [Apply](https://jobs.jobvite.com/aarete/job/otGLAfwe/apply) |
-| [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Landscape Architect Intern - Summer 2027 | US.GA.Atlanta.2018 Powers Ferry Rd |  | Sep 18 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USGAAtlanta2018-Powers-Ferry-Rd/Landscape-Architect-Intern---Summer-2027_R-160382-1) |
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Landscape Architecture Intern – Summer 2027 | US.NV.Henderson |  | Sep 18 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USNVHenderson/Landscape-Architecture-Intern---Summer-2027_R-161002-1) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern-Naval Architecture Engineering | Pascagoula, Mississippi |  | Sep 18 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-NAVAL-ARCHITECTURE-ENGINEERING-Miss/1430055600/) |
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Architectural Intern – Summer 2027 | US.CO.Denver |  | Sep 18 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Architectural-Intern---Summer-2027_R-161179-1) |

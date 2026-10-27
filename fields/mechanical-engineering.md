@@ -1,9 +1,12 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-292 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 292). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 885 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+294 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 294). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 887 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Nissan](https://internscout.org/internships/at/nissan/) | Physical AI Manufacturing Intern - Summer 2027 - Smyrna, TN | Smyrna, Tennessee - United States of America |  | Oct 27 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Physical-AI-Manufacturing-Intern---Summer-2027---Smyrna--TN_R00214526) |
+| [Corning](https://internscout.org/internships/at/corning/) | Product Development Engineer Intern - Summer 2027 | Keller, TX | \$72,744.00 - \$100,023.00 | Oct 27 | [Apply](https://corningjobs.corning.com/job/Keller-Product-Development-Engineer-Intern-Summer-2027-TX-76248/1444004300/) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Mechanical Engineer Intern (Summer 2027) | Marlborough, MA | Paid | Oct 27 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Mechanical-Engineer-Intern--Summer-2027-_01885181) |
 | Parallel Systems | Hardware Engineering Intern (Mechanical & Electrical) | Los Angeles, CA +1 | Paid | Oct 26 | [Apply](https://boards.greenhouse.io/parallel/jobs/5275660007?gh_jid=5275660007) |
 | [Skydio](https://internscout.org/internships/at/skydio/) | Manufacturing Intern - Summer 2027 | Hayward, California, United States +1 | \$47/hr | Oct 26 | [Apply](https://jobs.ashbyhq.com/skydio/8f4f62b0-a2ea-498d-b78f-6f661b724a3c/application) |
 | [Ursa Major](https://internscout.org/internships/at/ursa-major/) | 2027 Summer Additive Manufacturing Engineering Intern | Youngstown, Ohio |  | Oct 26 | [Apply](https://ursamajor.com/careers/?gh_jid=4746892005) |
@@ -40,7 +43,6 @@
 | [RTX](https://internscout.org/internships/at/rtx/) | Manufacturing Electrical Engineering Co-Op (Summer/Fall 2027) | Manchester, IA |  | Oct 21 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Electrical-Engineering-Co-Op--Summer-Fall-2027-_01883114) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Industrial/Manufacturing Engineering Co-Op (Summer/Fall 2027) | Manchester, IA |  | Oct 21 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Industrial-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01883163) |
 | [Moog](https://internscout.org/internships/at/moog/) | Intern, Manufacturing and Industrial Engineering | Torrance, CA | \$28.00–\$35.00 Hour | Oct 21 | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Manufacturing-and-Industrial-Engineering_R-26-19823) |
-| [RTX](https://internscout.org/internships/at/rtx/) | Manufacturing Electrical Engineer Co-op (Summer/Fall 2027) | Melbourne, FL |  | Oct 21 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Electrical-Engineer-Co-op--Summer-Fall-2027-_01883880) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Process Mechanical Engineering Intern - Water (Summer 2027) | Phoenix, AZ |  | Oct 21 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008324) |
 | [ABB](https://internscout.org/internships/at/abb/) | Manufacturing Supply Chain Intern Westville, OK- Summer 2027 | USA, OK |  | Oct 21 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-OK-Westville/Manufacturing-Supply-Chain-Intern-Westville--OK--Summer-2027_JR00050263-1) |
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-op - Refining Mechanical Engineer (Summer 2027) | Findlay, Ohio +14 | \$32.92 per hour | Oct 21 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Refining-Mechanical-Engineer--Summer-2027-_00023668) |
@@ -202,8 +204,6 @@
 | [Hoffman Construction](https://internscout.org/internships/at/hoffman-construction/) | CAD/Modeling Technician Intern Summer 2027 | Childress, TX |  | Aug 26 | [Apply](https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1474) |
 | [Hoffman Construction](https://internscout.org/internships/at/hoffman-construction/) | CAD/Modeling Technician Intern Summer 2027 | Boise, ID |  | Aug 26 | [Apply](https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1473) |
 | [Honeywell](https://internscout.org/internships/at/honeywell/) | Mechanical Engineering - Summer 2027 Intern (US Person Required) | United States |  | Aug 25 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155574) |
-| [Honeywell](https://internscout.org/internships/at/honeywell/) | Manufacturing & Industrial Engineering - Summer 2027 Intern | United States |  | Aug 25 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155584) |
-| [Honeywell](https://internscout.org/internships/at/honeywell/) | Manufacturing & Industrial Engineering - Summer 2027 Intern (US Person Required) | United States |  | Aug 25 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155583) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

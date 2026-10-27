@@ -1,9 +1,10 @@
 # Sustainability: Summer 2027 Internships
 
-94 open Summer 2027 sustainability roles, newest first (all 94). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 147 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+95 open Summer 2027 sustainability roles, newest first (all 95). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 147 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | San Diego, California | \$20.00 | Oct 27 | [Apply](https://careers.trccompanies.com/jobs/27152) |
 | [Scout Clean Energy](https://internscout.org/internships/at/scout-clean-energy/) | Renewable Energy Analyst Intern | Boulder, CO |  | Oct 26 | [Apply](https://apply.workable.com/scout-clean-energy/j/30CCB1602D/apply) |
 | [Arch Capital Group](https://internscout.org/internships/at/arch-capital-group/) | Sustainability Reporting & Strategy Summer Intern | White Plains, NY United States of America | Paid | Oct 22 | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/White-Plains-NY-United-States-of-America/Sustainability-Reporting---Strategy-Summer-Intern_R26_802) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | PhD Research Intern, AI for Climate and Weather Simulation - 2027 | US, CA +4 |  | Oct 21 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949) |

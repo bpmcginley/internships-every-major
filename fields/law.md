@@ -1,9 +1,11 @@
 # Law and Legal: Summer 2027 Internships
 
-129 open Summer 2027 law and legal roles, newest first (all 129). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 282 law and legal internships on InternScout](https://internscout.org/internships/law/)
+131 open Summer 2027 law and legal roles, newest first (all 131). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 285 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Fervo Energy | Legal Intern | Houston, TX |  | Oct 27 | [Apply](https://job-boards.greenhouse.io/fervoenergy/jobs/4464038009) |
+| [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Global Regulatory Sciences Biopharmaceutical Sector Internship Summer 2027 | Princeton - NJ - US +1 |  | Oct 27 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Global-Regulatory-Sciences-Biopharmaceutical-Sector-Internship-Summer-2027_R1607871) |
 | [Federal Home Loan Bank of Indianapolis](https://internscout.org/internships/at/federal-home-loan-bank-of-indianapolis/) | Legal Intern | Indianapolis, IN | Paid | Oct 26 | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Legal-Intern_R632) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 In-House Legal Graduate Intern | Pittsburgh PA, 15222, FAP, 5th Avenue Place |  | Oct 26 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-In-House-Legal-Graduate-Intern_J288314) |
 | Alberta Investment Management Corporation | Student, Legal | Calgary | Paid | Oct 26 | [Apply](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Calgary/Student--Legal_JR100948) |

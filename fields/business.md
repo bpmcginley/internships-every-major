@@ -1,6 +1,6 @@
 # Business: Summer 2027 Internships
 
-79 open Summer 2027 business roles, newest first (all 79). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 153 business internships on InternScout](https://internscout.org/internships/business/)
+78 open Summer 2027 business roles, newest first (all 78). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 152 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Target](https://internscout.org/internships/at/target/) | Space & Presentation Business Partner Intern – Minneapolis, MN (Starting Summer 2027) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 |  | Oct 21 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Space---Presentation-Business-Partner-Intern---Minneapolis--MN--Starting-Summer-2027-_R0000478342) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Business Systems & Applications Associate (Reston, VA) | Reston, VA |  | Oct 19 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Business-Systems---Applications-Associate--Reston--VA-_R2603584) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | Summer 2027 MBA Interns \| Business Leadership Development Program (BuiLD) | TARRYTOWN +1 | \$70.40/hr | Oct 19 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/Summer-2027-MBA-Interns---Business-Leadership-Development-Program--BuiLD-_R49784-1) |
-| Cambridge Associates | 2027 MBA Internship Program | Boston | \$150,000 | Oct 16 | [Apply](https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Boston/XMLNAME-2027-MBA-Internship-Program_JR0000442) |
+| Cambridge Associates | 2027 MBA Internship Program | Boston | \$150,000 | Oct 16 | [Apply](https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/Boston/XMLNAME-2027-MBA-Internship-Program_JR0000442-1) |
 | [Duke Energy](https://internscout.org/internships/at/duke-energy/) | MBA Internship Summer 2027 | Charlotte, NC +1 |  | Oct 16 | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/MBA-Internship-Summer-2027_R42047) |
 | [Guardian Life](https://internscout.org/internships/at/guardian-life/) | 2027 Guardian MBA Summer Intern, Corporate Development | New York | \$12,000 - \$13,600 per month | Oct 16 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-MBA-Summer-Intern---Corporate-Development_R000109979) |
 | [Medtronic](https://internscout.org/internships/at/medtronic/) | Summer 2027 Corporate Development Intern (MBA) | Minneapolis, Minnesota, United States of America |  | Oct 15 | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Corporate-Development-Intern--MBA-_R79679) |
@@ -53,7 +53,6 @@
 | [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Masters Summer Internship Program - 2027 Business Strategy, Global Servicing- Sunrise, FL | Sunrise, FL |  | Sep 8 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013623) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Transportation/Storage Services: Business Processes | HOUSTON, Texas |  | Sep 8 | [Apply](https://careers.kindermorgan.com/jobs/6211) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Associate Engineering Intern - ECAD (Graduate Level/MBA) (Summer 2027) | Westerville, OH |  | Sep 8 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279285) |
-| [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Products Commercial | HOUSTON, Texas |  | Sep 4 | [Apply](https://careers.kindermorgan.com/jobs/6209) |
 | AlixPartners | Turnaround & Restructuring - MBA Intern | United States | \$35,000 | Sep 1 | [Apply](https://www.alixpartners.com/careers/7810004003?gh_jid=7810004003) |
 | AlixPartners | Strategy & Analysis - MBA Intern | United States | \$35,000 | Sep 1 | [Apply](https://www.alixpartners.com/careers/7809994003?gh_jid=7809994003) |
 | [Exelon](https://internscout.org/internships/at/exelon/) | 2027 Summer Internship - Business (Various Exelon Locations) | CHICAGO, Illinois +6 | \$20.00/Hr | Aug 31 | [Apply](https://careers.comed.com/jobs/30119) |

@@ -1,9 +1,10 @@
 # Human Resources: Summer 2027 Internships
 
-123 open Summer 2027 human resources roles, newest first (all 123). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 277 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+124 open Summer 2027 human resources roles, newest first (all 124). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 281 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | MHR Summer 2027 Intern - Data Analytics (HR Systems) | US - UPS CORPORATE OFFICES (GACOR) |  | Oct 27 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/MHR-Summer-2027-Intern---Data-Analytics--HR-Systems-_R26039546) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Human Resources | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Human-Resources-MD-21230/1434321700/) |
 | [Tradeweb](https://internscout.org/internships/at/tradeweb/) | Summer 2027 Human Resources Internship | New York, NY |  | Oct 26 | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301986) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | HRIS Intern, Summer 2027 | Boston, MA +3 | \$21–24 per hour | Oct 26 | [Apply](https://wattswater.wd5.myworkdayjobs.com/external/job/Boston-MA/HRIS-Intern--Summer-2027_10017569) |

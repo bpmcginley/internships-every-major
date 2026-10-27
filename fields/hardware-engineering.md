@@ -1,16 +1,18 @@
 # Hardware Engineering: Summer 2027 Internships
 
-278 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 278). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 733 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+279 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 279). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 737 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [RTX](https://internscout.org/internships/at/rtx/) | Embedded Software Engineering Intern (Summer 2027) | East Hartford, CT +1 | Paid | Oct 27 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Software-Engineering-Intern--Summer-2027-_01884782) |
+| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern – AI & Hardware Analytics, ADPT | Warren, Michigan, United States of America +3 | \$8,100 – \$8,700 per month | Oct 27 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Embedded Software Engineer Intern | Goleta, CA |  | Oct 27 | [Apply](https://go.vansh.nyc/VI) |
 | [HP IQ](https://internscout.org/internships/at/hp-iq/) | Electrical Engineering Intern, Hardware (Summer 2027) | San Francisco, CA +1 | Paid | Oct 26 | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6116396004) |
 | [Toyota Research Institute](https://internscout.org/internships/at/toyota-research-institute/) | Robotics Intern, Trustworthy Learning under Uncertainty | Los Altos, CA |  | Oct 26 | [Apply](https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424/apply) |
 | [Toyota Research Institute](https://internscout.org/internships/at/toyota-research-institute/) | Robotics Intern, World Foundation Models | Los Altos, CA |  | Oct 26 | [Apply](https://jobs.lever.co/tri/016bbb58-857a-4367-b1aa-0cdc9f818478/apply) |
 | Parallel Systems | Hardware Engineering Intern (Mechanical & Electrical) | Los Angeles, CA +1 | Paid | Oct 26 | [Apply](https://boards.greenhouse.io/parallel/jobs/5275660007?gh_jid=5275660007) |
 | [Skydio](https://internscout.org/internships/at/skydio/) | Autonomy Engineer Intern, Simulation & Robotics | San Mateo, CA |  | Oct 26 | [Apply](https://go.vansh.nyc/Si) |
 | [Skydio](https://internscout.org/internships/at/skydio/) | Autonomy Engineer Intern, Simulation & Robotics, 2027 (HQ) | San Mateo, California, United States +2 | \$47/hr | Oct 26 | [Apply](https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17/application) |
-| [RTX](https://internscout.org/internships/at/rtx/) | Embedded Software Engineering Intern | East Hartford, CT |  | Oct 26 | [Apply](https://go.vansh.nyc/BP) |
 | [Multiply Labs](https://internscout.org/internships/at/multiply-labs/) | Robotics Software Engineer Intern | San Francisco, CA |  | Oct 23 | [Apply](https://go.vansh.nyc/hH) |
 | [Keysight Technologies](https://internscout.org/internships/at/keysight-technologies/) | FPGA Design Intern | Calabasas, CA |  | Oct 23 | [Apply](https://go.vansh.nyc/hE) |
 | Upscale AI | Advanced SerDes & Analog/Mixed-Signal IC Design Intern – Summer 2027 | US - Headquarters +1 | Paid | Oct 23 | [Apply](https://jobs.lever.co/upscale-ai/2bad3e47-6c00-4ec2-94b5-feb4009619c9/apply) |
@@ -117,13 +119,12 @@
 | [Nokia](https://internscout.org/internships/at/nokia/) | ASIC Physical Design Coop | United States +1 |  | Oct 6 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41122) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Hardware Engineer Intern | Santa Clara, CA |  | Oct 5 | [Apply](https://go.vansh.nyc/EK) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | AI & Hardware Analytics Intern | Milford, MI +1 |  | Oct 5 | [Apply](https://go.vansh.nyc/EF) |
-| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern – AI & Hardware Analytics, ADPT | Warren, Michigan, United States of America +3 | \$8,100 – \$8,700 per month | Oct 5 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | VLSI Design Verification Intern | Chippewa Falls, WI +1 |  | Oct 4 | [Apply](https://go.vansh.nyc/Ew) |
 | [Arc](https://internscout.org/internships/at/arc/) | Electrical Hardware Engineering Intern | Torrance, CA |  | Oct 2 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008) |
 | [Lyft](https://internscout.org/internships/at/lyft/) | Hardware Field Quality Engineer Intern (Summer 2027) | Longueuil, Canada | \$34-\$36/hour | Oct 2 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | ASIC Engineer Intern | Durham, NC +1 |  | Oct 2 | [Apply](https://go.vansh.nyc/Er) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Software Development Engineer Intern, Embedded Systems | Seattle, WA |  | Oct 2 | [Apply](https://go.vansh.nyc/g0) |
-| [Hitachi](https://internscout.org/internships/at/hitachi/) | Hardware Test Engineering Intern (Summer 2027, 16months) | Toronto, Ontario, Canada +1 | Paid | Oct 2 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) |
+| Hitachi Energy | Hardware Test Engineering Intern | Toronto, ON, Canada |  | Oct 2 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) |
 | [Hudson River Trading](https://internscout.org/internships/at/hudson-river-trading/) | FPGA Verification and Developer Intern | New York, NY |  | Oct 1 | [Apply](https://go.vansh.nyc/QI) |
 | [CoStar Group](https://internscout.org/internships/at/costar-group/) | Associate Embedded Software Engineer Intern | Sunnyvale, CA |  | Oct 1 | [Apply](https://go.vansh.nyc/Ee) |
 | [CoStar Group](https://internscout.org/internships/at/costar-group/) | Embedded Software Engineering Intern | Sunnyvale (US) +1 | Paid | Oct 1 | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950) |
@@ -203,7 +204,6 @@
 | [Intel](https://internscout.org/internships/at/intel/) | Silicon Hardware Engineering Intern - Graduate | Austin, TX +4 |  | Sep 2 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830) |
 | [Intel](https://internscout.org/internships/at/intel/) | Platform Hardware and Systems Engineering Intern - Bachelor's | Austin, TX +4 |  | Sep 2 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827) |
 | [Intel](https://internscout.org/internships/at/intel/) | Silicon Hardware Engineering Intern - Bachelor's | Austin, TX +4 |  | Sep 2 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829) |
-| [AMD](https://internscout.org/internships/at/amd/) | Firmware Engineer Co-op | Vancouver, Canada +1 |  | Sep 1 | [Apply](https://go.vansh.nyc/LL) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
