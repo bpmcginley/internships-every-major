@@ -1,6 +1,6 @@
 # Communications: Summer 2027 Internships
 
-61 open Summer 2027 communications roles, newest first (all 61). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 202 communications internships on InternScout](https://internscout.org/internships/communications/)
+61 open Summer 2027 communications roles, newest first (all 61). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 204 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

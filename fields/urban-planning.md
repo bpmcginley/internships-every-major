@@ -1,10 +1,12 @@
 # Urban Planning: Summer 2027 Internships
 
-52 open Summer 2027 urban planning roles, newest first (all 52). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 112 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+53 open Summer 2027 urban planning roles, newest first (all 53). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 113 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Internship - Community Development (Summer 2027) | Minneapolis, MN +1 |  | Oct 27 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008526) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Community Development (Summer 2027) | Pasadena, CA |  | Oct 27 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008346) |
+| [CAI](https://internscout.org/internships/at/cai/) | GIS Software Developer Intern | PA-CLIENT-STATE +1 | \$20 per hour | Oct 27 | [Apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8554) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Sales Planning Intern | Florida - Deerfield Beach |  | Oct 26 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Sales-Planning-Intern_JR105091) |
 | [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | Assorment Planning Intern - Summer 2027 | Atlanta, GA, USA |  | Oct 24 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Assorment-Planning-Intern---Summer-2027_R26_0000035659) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Transportation Planning Intern (Summer 2027) | Los Angeles, CA (Figueroa Street) |  | Oct 22 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Los-Angeles-CA-Figueroa-Street/Transportation-Planning-Intern--Summer-2027-_R-32153-1) |
@@ -17,7 +19,7 @@
 | [Nissan](https://internscout.org/internships/at/nissan/) | RPP Supply Planning Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 12 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/RPP-Supply-Planning-Intern---Summer-2027---Franklin--TN_R00214294) |
 | [URBN](https://internscout.org/internships/at/urbn/) | Anthropologie Merchandise Planning Intern | Philadelphia, PA | Paid | Oct 9 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/33590/anthropologie-merchandise-planning-intern/job) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Product Planning Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America +1 |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Product-Planning-Intern---Summer-2027---Franklin--TN_R00214297) |
-| [Clēnera](https://internscout.org/internships/at/cl-nera/) | Investment Planning Intern (Summer 2027) | Boise, Idaho, United States |  | Oct 6 | [Apply](https://job-boards.greenhouse.io/clenera/jobs/5259353007) |
+| Clēnera | Investment Planning Intern (Summer 2027) | Boise, Idaho, United States |  | Oct 6 | [Apply](https://job-boards.greenhouse.io/clenera/jobs/5259353007) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Community Development (Summer 2027) | Portland, OR |  | Oct 5 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008051) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Masters - Transportation Planning Intern (Summer 2027!) | Hartford, Connecticut | \$41.63 | Oct 2 | [Apply](https://careers.cdmsmith.com/jobs/4693) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Transportation Planning Intern – Summer 2027 | New York, NY |  | Oct 1 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/New-York-NY/Transportation-Planning-Intern---Summer-2027_R-31830-1) |
@@ -34,7 +36,6 @@
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Planning Intern - Summer 2027 | Harrisburg, PA |  | Sep 9 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309847) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors or Masters - Transportation Planning Intern (Summer 2027!) | Orlando, Florida | \$38.01 | Sep 9 | [Apply](https://careers.cdmsmith.com/jobs/4439) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Masters - Transportation Planning Intern (Summer 2027!) | Indianapolis, Indiana | \$36.20 | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/4371) |
-| [Elk Valley Resources](https://internscout.org/internships/at/elk-valley-resources/) | May 2027 Geographic Information Systems (GIS) Co-op | Calgary, AB +1 |  | Aug 26 | [Apply](https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply) |
 | Bolton & Menk, Inc. | Transportation Planning Intern - Summer 2027 | Minneapolis, MN (+2 others) | \$18.00 - 24.00/hour | Oct 27 | [Apply](https://www.internships.com/posting/transportation-planning-intern-summer-2027-bolton-menk-inc-515085282?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Product Planning Intern | Kirkland, WA |  | Oct 26 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Product-Planning-Intern-WA-98033/1451437033/) |
 | [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Planning Intern \| Fort Lauderdale, FL | Fort Lauderdale, FL | Paid | Oct 24 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Fort-Lauderdale-FL/Planning-Intern---Fort-Lauderdale--FL_R-16509) |

@@ -1,9 +1,11 @@
 # Human Resources: Summer 2027 Internships
 
-124 open Summer 2027 human resources roles, newest first (all 124). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 281 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+124 open Summer 2027 human resources roles, newest first (all 124). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 278 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 HR Intern - Bowling Green, KY | Bowling Green, KY |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625377) |
+| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Human Resources Intern, Talent Development (Summer 2027) | USA - Texas - Austin |  | Oct 27 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Human-Resources-Intern--Talent-Development--Summer-2027-_JR-2604503) |
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | MHR Summer 2027 Intern - Data Analytics (HR Systems) | US - UPS CORPORATE OFFICES (GACOR) |  | Oct 27 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/MHR-Summer-2027-Intern---Data-Analytics--HR-Systems-_R26039546) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Human Resources | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Human-Resources-MD-21230/1434321700/) |
 | [Tradeweb](https://internscout.org/internships/at/tradeweb/) | Summer 2027 Human Resources Internship | New York, NY |  | Oct 26 | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301986) |
@@ -31,7 +33,6 @@
 | [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Talent Acquisition Intern, Summer 2027 | Orrville, OH |  | Oct 13 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Talent-Acquisition-Intern--Summer-2027_115992) |
 | Mary Free Bed Rehabilitation Hospital | HR Intern - Summer 2027 | Grand Rapids, MI |  | Oct 13 | [Apply](https://maryfreebed.wd12.myworkdayjobs.com/mfb/job/Grand-Rapids-MI/HR-Intern---Summer-27-_JB103318) |
 | [RF-SMART](https://internscout.org/internships/at/rf-smart/) | Human Resource Intern - Summer 2027 | Jacksonville, Florida, United States | \$20/hour | Oct 12 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5433175008) |
-| [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Summer 2027 HR Intern | Cleveland, OH +1 |  | Oct 12 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119771) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Forward Deployed Engineer Intern (HR Technology) | Hybrid - New York, NY +2 | Paid | Oct 9 | [Apply](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510) |
 | [Clarios](https://internscout.org/internships/at/clarios/) | HR Intern (Summer 2027) | United States, Wisconsin, Milwaukee |  | Oct 9 | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/HR-Intern--Summer-2027-_WD50800) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Human Resource Intern | Sparks, Nevada |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51651) |
@@ -49,7 +50,6 @@
 | [Pentair](https://internscout.org/internships/at/pentair/) | Human Resources Leadership Development Internship Program – Summer 2027 | Golden Valley, MN |  | Sep 29 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Human-Resources-Leadership-Development-Intern-Program---Summer-2027_R23699) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Human Resource Intern | De Soto, Kansas |  | Sep 28 | [Apply](https://careers.na.panasonic.com/jobs/51279) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: HR Compliance Intern | Northbrook, IL +1 | \$25.00 | Sep 28 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10729) |
-| [Piper Sandler](https://internscout.org/internships/at/piper-sandler/) | Campus Recruiting - 2027 Investment Banking Summer Analyst - Restructuring | New York, NY | \$110,000 per year | Sep 28 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/New-York-NY/Campus-Recruiting---2027-Investment-Banking-Summer-Analyst---Restructuring_R-100721) |
 | [Highgate](https://internscout.org/internships/at/highgate/) | Intern - Human Resources (Summer 2027) | Key West, FL | Paid | Sep 28 | [Apply](https://externalhourly-highgate.icims.com/jobs/83232/intern/job) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Intern (Summer 2027) - Learning and Development | Detroit, MI |  | Sep 24 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14779) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern- Human Resources (Payroll/Benefits) | HOUSTON, Texas |  | Sep 24 | [Apply](https://careers.kindermorgan.com/jobs/6310) |

@@ -1,9 +1,10 @@
 # Product Management: Summer 2027 Internships
 
-168 open Summer 2027 product management roles, newest first (all 168). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 284 product management internships on InternScout](https://internscout.org/internships/product-management/)
+169 open Summer 2027 product management roles, newest first (all 169). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 283 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Program Management | Holtsville, New York | \$40.50 - \$44.50/hour | Oct 27 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Program-Management_JR103641) |
 | [Visa](https://internscout.org/internships/at/visa/) | Product Management Intern, Data and AI Team - Summer 2027 | US - Foster City, CA +1 | \$46 to \$55 | Oct 27 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1) |
 | Hive Financial Systems | Product Internship-2027 | Atlanta, Georgia +1 |  | Oct 26 | [Apply](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274970007) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Customer Technical Program Management Intern, OEMs System Partner – Summer 2027 | US, CA +1 |  | Oct 26 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Customer-Technical-Program-Management-Intern--OEMs-System-Partner---Summer-2027_JR2028512) |
@@ -90,6 +91,7 @@
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MBA, Salesforce Product Owner | Los Angeles, California, United States +1 | Paid | Sep 15 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8198582) |
 | [Intuit](https://internscout.org/internships/at/intuit/) | Product Manager Intern | Mountain View, CA +1 |  | Sep 14 | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632) |
 | Lowe's | Digital Product Management Intern | Charlotte, NC |  | Sep 14 | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Digital-Product-Management---Undergrad-Internship---Summer-2027_JR-02645845) |
+| [Guardian Life](https://internscout.org/internships/at/guardian-life/) | Life Product Development Intern | NYC |  | Sep 14 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Life-Product-Development_R000110125) |
 | [URBN](https://internscout.org/internships/at/urbn/) | URBN Apparel Product Development Intern | Philadelphia, PA | Paid | Sep 14 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/30785/urbn-apparel-product-development-intern/job) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Information Technology DEX Product Intern (Remote) | Baltimore, Maryland |  | Sep 11 | [Apply](https://jobs.constellationenergy.com/jobs/138703) |
 | [Robert Bosch Venture Capital](https://internscout.org/internships/at/robert-bosch-venture-capital/) | Product Management AI-Tool Intern - 8 months/40hrs per week | Farmington Hills, MI |  | Sep 9 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148575999) |
@@ -126,7 +128,7 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Product Manager Intern - Content and Service Ads | San Jose, CA |  | Aug 22 | [Apply](https://lifeattiktok.com/search/7676283436713593093) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Product Management Intern, MBA | Delaware, OH |  | Aug 21 | [Apply](https://go.vansh.nyc/7y) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Product Management Intern, Global Merchant & Network Services | Phoenix, AZ |  | Aug 21 | [Apply](https://go.vansh.nyc/7u) |
-| Datadog | Product Management Intern | New York, New York, USA +1 | \$100,000 | Aug 17 | [Apply](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241) |
+| Datadog | Product Management Intern | NYC |  | Aug 17 | [Apply](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Product Manager Intern - Content and Services | San Jose, CA |  | Aug 14 | [Apply](https://lifeattiktok.com/search/7673337777708550405) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Product Manager Intern - Scaled Growth | San Jose, CA |  | Aug 14 | [Apply](https://lifeattiktok.com/search/7673559305519794437) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | IT Systems Product Management Intern - Summer 2027 | Westerville, OH |  | Aug 12 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239) |
@@ -148,7 +150,6 @@
 | [Databricks](https://internscout.org/internships/at/databricks/) | Product Management Intern (Summer 2027) | Bellevue, Washington +5 | \$51.50 | Aug 17, 2023 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Product Specialist Intern, Summer 2027 | Fort Myers, FL +1 | Paid | Oct 24 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Myers-FL/Product-Specialist-Intern-2027_10017586) |
 | [Oshkosh](https://internscout.org/internships/at/oshkosh/) | Product Management Intern (Summer 2027) | Appleton, Wisconsin, United States +1 |  | Oct 24 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Product-Management-Intern--Summer-2027-_R49746) |
-| [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Product Management Intern - Summer 2027 | Erie, PA |  | Oct 24 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1) |
 | [OATEY](https://internscout.org/internships/at/oatey/) | Product Management Intern | Cleveland, OH (Headquarters) +1 |  | Oct 23 | [Apply](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Headquarters/Product-Management-Intern_R7185) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Program Management Intern | Kirkland, WA |  | Oct 20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Program-Management-Intern-WA-98033/1449176233/) |
 | [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Program Manager (Summer 2027) | Neenah, WI |  | Oct 17 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Program-Manager--Summer-2027-_R040384) |

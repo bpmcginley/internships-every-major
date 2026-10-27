@@ -1,9 +1,13 @@
 # Civil Engineering: Summer 2027 Internships
 
-326 open Summer 2027 civil engineering roles, newest first (the 200 newest of 326). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 724 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+326 open Summer 2027 civil engineering roles, newest first (the 200 newest of 326). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 721 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Infrastructure (Summer 2027) | Fort Myers, FL |  | Oct 27 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008446) |
+| [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Internship - Community Development (Summer 2027) | Minneapolis, MN +1 |  | Oct 27 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008526) |
+| [STV](https://internscout.org/internships/at/stv/) | Geotechnical Lab and Field Services Intern - Summer 2027 | Glasgow, Kentucky |  | Oct 27 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Glasgow-Kentucky/Geotechnical-Lab-and-Field-Services-Intern-----Summer-2027_JR6460) |
+| [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Infrastructure (Summer 2027) | Naples, FL |  | Oct 27 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008448) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Community Development (Summer 2027) | Pasadena, CA |  | Oct 27 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008346) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Construction Management Intern | Rancho Cordova, California | \$20.00 | Oct 27 | [Apply](https://careers.trccompanies.com/jobs/27157) |
 | [Creative Artists Agency](https://internscout.org/internships/at/creative-artists-agency/) | CAA ICON Owner’s Representative / Construction Project Management Intern – Summer 2027 (Charlotte, NC) | Charlotte, NC |  | Oct 27 | [Apply](https://caa.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/CAA-ICON-Owner-s-Representative---Construction-Project-Management-Intern---Summer-2027--Charlotte--NC-_JR9394-1) |
@@ -109,11 +113,8 @@
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil/Geotechnical Engineering - Energy & Resources (Summer 2027) | Denver, CO +1 |  | Oct 5 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008075) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Internship - Infrastructure (Summer 2027) | Okemos, MI |  | Oct 5 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008180) |
 | [Valmont](https://internscout.org/internships/at/valmont/) | Structural Engineering Intern | Omaha NE +1 | Paid | Oct 4 | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/Structural-Engineering-Intern_R29012) |
-| [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering Intern- Summer 2027 | Columbus, OH |  | Oct 2 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96708) |
-| [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering Intern- Summer 2027 | Tampa, FL |  | Oct 2 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96710) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Co-op Student - Summer 2027 - 16 Months | Saskatoon, SK, Canada |  | Oct 2 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007888) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Structural Engineering Intern/Co-op – Transportation (Summer 2027) | New York, NY |  | Oct 2 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008131) |
-| [WSP](https://internscout.org/internships/at/wsp/) | Construction Management Intern- Summer 2027 | Chicago, IL |  | Oct 2 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96793) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil/Geotechnical Engineering Intern - Water (Summer 2027) | Saint Louis, MO |  | Oct 1 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008115) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Water (Summer 2027) | Charlotte, NC |  | Oct 1 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008120) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Intern Engineer: Bridge Inspection – Summer 2027 | New York, NY |  | Oct 1 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/New-York-NY/Intern-Engineer--Bridge-Inspection---Summer-2027_R-31825-2) |
@@ -203,7 +204,6 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Construction Project Management Intern (Warrendale, PA) | Warrendale, Pennsylvania |  | Sep 11 | [Apply](https://jobs.constellationenergy.com/jobs/138762) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Construction Intern (Summer 2027!) | Concord, California | \$45.84 | Sep 11 | [Apply](https://careers.cdmsmith.com/jobs/4480) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Civil Engineering Intern, Rotational Program - Summer 2027 | Harrisburg, PA |  | Sep 10 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309851) |
-| [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Civil Engineering Intern | Milwaukee, Wisconsin | \$20.00 | Sep 9 | [Apply](https://careers.trccompanies.com/jobs/26751) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
