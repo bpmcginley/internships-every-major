@@ -1,6 +1,6 @@
 # Engineering: Summer 2027 Internships
 
-661 open Summer 2027 engineering roles, newest first (the 200 newest of 661). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 1,787 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+664 open Summer 2027 engineering roles, newest first (the 200 newest of 664). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 1,796 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -8,6 +8,8 @@
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Sensor Performance Engineer Intern | Mountain View, CA, USA | Paid | Oct 27 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8319171) |
 | Amazon Development Center U.S., Inc. - B02 | Database Engineer Intern | Seattle, WA |  | Oct 27 | [Apply](https://go.vansh.nyc/Wb) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | R&D Product Systems Intern | Cleveland, OH |  | Oct 27 | [Apply](https://go.vansh.nyc/UD) |
+| [Solar Turbines](https://internscout.org/internships/at/solar-turbines/) | 2027 Gas Turbine Product Engineering, Summer Intern | Desoto, Texas | \$26.00 - \$43.00 | Oct 27 | [Apply](https://cat.wd5.myworkdayjobs.com/solarturbines/job/Desoto-Texas/XMLNAME-2027-Gas-Turbine-Product-Engineering--Summer-Intern_R0000382210) |
+| [Amgen](https://internscout.org/internships/at/amgen/) | Grad Intern – R&D Strategy & Performance Excellence (SPx) (Summer 2027) | Remote | \$35.34 - \$41.20 per hour | Oct 27 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---R-D-Strategy---Performance-Excellence--SPx---Summer-2027-_R-259863) |
 | [ABB](https://internscout.org/internships/at/abb/) | Automation Engineer Intern - Summer 2027 | New Berlin, Wisconsin, United States of America |  | Oct 27 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Automation-Engineer-Intern---Summer-2027_JR00049932) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Undergrad Intern – R&D Knowledge Management (Summer 2027) | Remote | \$28.87 per hour | Oct 27 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---R-D-Knowledge-Management--Summer-2027-_R-259905) |
 | [ABB](https://internscout.org/internships/at/abb/) | R&D Intern Mebane- Summer 2027 | USA, NC |  | Oct 27 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Mebane/R-D-Intern-Mebane--Summer-2027_JR00046526) |
@@ -61,6 +63,7 @@
 | Airbus | Society of Women Engineers Conference Summer Internship - Engineering 2027 | Mobile Area, AL |  | Oct 25 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Society-of-Women-Engineers-Conference-Summer-Internship---Engineering-2027_JR10436173) |
 | [Trimble](https://internscout.org/internships/at/trimble/) | Automated Test Engineering Intern | Richmond Hill, Canada |  | Oct 24 | [Apply](https://go.vansh.nyc/hX) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Systems Development Engineer Intern | Bellevue, WA +2 |  | Oct 23 | [Apply](https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027) |
+| [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | R&D Engineer Intern WCH | Raritan, New Jersey, United States of America | \$23.50/hr | Oct 23 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/R-D-Engineer-Intern-WCH_R-103053) |
 | [Aptiv](https://internscout.org/internships/at/aptiv/) | Engineering Intern | Kanata, Canada +1 |  | Oct 23 | [Apply](https://go.vansh.nyc/i0) |
 | Sardine | Engineering Intern | Remote +2 |  | Oct 23 | [Apply](https://go.vansh.nyc/hz) |
 | [Global Infrastructure](https://internscout.org/internships/at/global-infrastructure/) | Engineering Intern, Buildings | US +2 | \$20 - \$30 hour | Oct 23 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--DC--Washington---1053-31st-Street-Northwest/Engineering-Intern--Buildings_6564) |
@@ -201,9 +204,6 @@
 | [Nissan](https://internscout.org/internships/at/nissan/) | Supplier Management Engineering (SME) Intern - Summer 2027 - Smyrna, TN | Smyrna, Tennessee - United States of America |  | Oct 9 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Supplier-Management-Engineering--SME--Intern---Summer-2027---Smyrna--TN_R00214288) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Customer Quality Engineering Intern | Sparks, Nevada |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51634) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | R&D Intern (Summer 2027) | Indianapolis, IN |  | Oct 9 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/R-D-Intern--Summer-2027-_R0027464) |
-| [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Supplier Quality Engineering Intern | Sparks, Nevada |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51650) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Automation Engineering Intern (Summer 2027!) | Wadsworth, Ohio | \$40.20 | Oct 8 | [Apply](https://careers.cdmsmith.com/jobs/4671) |
-| [Global Infrastructure](https://internscout.org/internships/at/global-infrastructure/) | Intern Engineering Designer, Bridge | US +2 | \$20 to \$30 per hour | Oct 8 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--CA--San-Francisco---345-California-Street/Intern-Engineering-Designer--Bridge_6444) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

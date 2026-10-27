@@ -111,6 +111,7 @@
 | [Force Factor](https://internscout.org/internships/at/force-factor/) | Summer 2027 Supply Chain Intern | Boston, MA +1 |  | Sep 9 | [Apply](https://forcefactor.com/pages/job-openings?gh_jid=6167273004) |
 | [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Summer Associate Internship (Strategic Sourcing Analyst) | Vienna, VA |  | Sep 9 | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32370) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Crypto Inventory Operations Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435) |
+| [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Procurement & Supply Chain - 2027 Summer Student Program | Houston, TX | Paid | Sep 8 | [Apply](https://aramcoservices.applytojob.com/apply/Vga1URZncx/Procurement-Supply-Chain-2027-Summer-Student-Program) |
 | Spirit AeroSystems | Boeing - Wichita Summer 2027 Internship Program (Paid) - Supplier Quality Assurance & Compliance | Wichita, Kansas | \$18.60/hr | Sep 8 | [Apply](https://careers.spiritaero.com/jobs/17513) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Procurement | Detroit, MI |  | Sep 8 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14726) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Logistics Intern (Summer 2027) | Westerville, OH |  | Sep 8 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280079) |
@@ -203,7 +204,6 @@
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | UPS Supply Chain Solutions 2027 Summer Intern | US - UPS CORPORATE OFFICES (GACOR) |  | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Supply-Chain-Solutions-2027-Summer-Intern_R26030498) |
 | [Ingredion](https://internscout.org/internships/at/ingredion/) | Global Supply Chain Data Science Intern | Westchester, IL | \$20-23hour | Sep 18 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Supply-Chain-Data-Science-Intern_Req-40226-1) |
 | Conagra Brands | Supply Chain Intern - Summer 2027 | Omaha, Nebraska |  | Sep 18 | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Supply-Chain-Intern---Summer-2027_Req-039314-1) |
-| [Lonza](https://internscout.org/internships/at/lonza/) | Summer 2027 Supply Chain Internship | US - Portsmouth, NH |  | Sep 18 | [Apply](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/US---Portsmouth-NH/Summer-2026-Supply-Chain-Internship_R79571) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

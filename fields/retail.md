@@ -1,9 +1,10 @@
 # Retail: Summer 2027 Internships
 
-213 open Summer 2027 retail roles, newest first (the 200 newest of 213). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 308 retail internships on InternScout](https://internscout.org/internships/retail/)
+214 open Summer 2027 retail roles, newest first (the 200 newest of 214). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 309 retail internships on InternScout](https://internscout.org/internships/retail/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Retail and Store Operations | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Retail-and-Store-Operations-MD-21230/1434343300/) |
 | [Target](https://internscout.org/internships/at/target/) | Store Executive Intern (Store Leadership Intern) Rochester, MN (Starting Summer 2027) ​ | Rochester,MN 55901-3192 +9 | \$24.00- \$28.00 | Oct 27 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/3827-Marketplace-Dr-NW-RochesterMN-55901-3192/Store-Executive-Intern--Store-Leadership-Intern--Rochester--MN--Starting-Summer-2027---_R0000479039) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Merchandising | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Merchandising-MD-21230/1434378900/) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Design (Apparel and Footwear) | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Design-%28Apparel-and-Footwear%29-MD-21230/1434389000/) |
@@ -203,7 +204,6 @@
 | [Target](https://internscout.org/internships/at/target/) | Store Executive Intern (Store Leadership Intern) - Tampa + St. Pete + Sarasota, FL (Starting Summer 2027) ​ ​ | 1544 N Dale Mabry Hwy, Tampa,FL 33607-2551 +5 | \$24.50- \$25.50 | Sep 18 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/1544-N-Dale-Mabry-Hwy-TampaFL-33607-2551/Store-Executive-Intern--Store-Leadership-Intern----Tampa---St-Pete---Sarasota--FL--Starting-Summer-2027------_R0000448578) |
 | [Meijer](https://internscout.org/internships/at/meijer/) | Retail Management Intern Mt Pleasant- Summer 2027 | Mt Pleasant, MI |  | Sep 18 | [Apply](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Mt-Pleasant-MI/Retail-Management-Intern-Mt-Pleasant--Summer-2027_R000698336) |
 | [Meijer](https://internscout.org/internships/at/meijer/) | Retail Management Intern Youngstown- Summer 2027 | Austintown, OH |  | Sep 18 | [Apply](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Austintown-OH/Retail-Management-Intern-Youngstown--Summer-2027_R000698827) |
-| [Target](https://internscout.org/internships/at/target/) | Stores Executive Internship (Store Leadership Intern) - Grand Forks, ND (Starting Summer 2027) | 3601 32nd Ave S, Grand Forks,ND 58201-5911 +11 | \$21.25- \$33.25 | Sep 18 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/3601-32nd-Ave-S-Grand-ForksND-58201-5911/Stores-Executive-Internship--Store-Leadership-Intern----Grand-Forks--ND--Starting-Summer-2027-_R0000448959) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

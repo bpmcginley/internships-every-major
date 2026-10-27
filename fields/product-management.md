@@ -1,6 +1,6 @@
 # Product Management: Summer 2027 Internships
 
-169 open Summer 2027 product management roles, newest first (all 169). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 283 product management internships on InternScout](https://internscout.org/internships/product-management/)
+168 open Summer 2027 product management roles, newest first (all 168). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 282 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -156,7 +156,6 @@
 | [Danaher Corporation](https://internscout.org/internships/at/danaher-corporation/) | Product Management & Marketing Intern (Summer 2027 Intern) | Logan, Utah, United States |  | Oct 17 | [Apply](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/Product-Management---Marketing-Intern--Summer-2027-Intern-_R1317692) |
 | [Cencora](https://internscout.org/internships/at/cencora/) | Intern,Technical Business Analyst / Product Owner | Carrollton, TX |  | Sep 26 | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Carrollton-TX/Intern-Technical-Business-Analyst---Product-Owner_R2613660) |
 | [ABB](https://internscout.org/internships/at/abb/) | Product Management Intern - Summer 2027 | New Berlin, Wisconsin, United States of America +1 |  | Sep 24 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280) |
-| [Clarios](https://internscout.org/internships/at/clarios/) | Optima Marketing & Product Development Intern (Summer 2027) | United States, Wisconsin, Milwaukee |  | Sep 24 | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Optima-Marketing---Product-Development-Intern--Summer-2027-_WD50480) |
 | [Tyler Technologies](https://internscout.org/internships/at/tyler-technologies/) | Product Analyst Intern, Summer 2027 | Plano, Texas |  | Sep 21 | [Apply](https://jobs.jobvite.com/tylertech/job/oSAPAfwB/apply) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Digital Product: Software Engineering | Warren, Michigan, United States of America +7 | \$6,400-\$10,300 per month | Sep 21 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Digital Product: Embedded and Systems Engineering | Warren, Michigan, United States of America +5 | \$6,400-\$10,300 per month | Sep 21 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513) |

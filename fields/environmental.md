@@ -1,6 +1,6 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-215 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 215). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 472 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+215 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 215). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 475 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [ABB](https://internscout.org/internships/at/abb/) | Health, Safety and Environment Intern- Summer 2027 | Pinetops, North Carolina, United States of America |  | Oct 21 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Pinetops-North-Carolina-United-States-of-America/Health--Safety-and-Environment-Intern--Summer-2027_JR00049917) |
 | [The Andersons](https://internscout.org/internships/at/the-andersons/) | Renewables Engineering Intern (Summer 2027) | Albion, MI |  | Oct 21 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Albion-MI/Renewables-Engineering-Intern--Summer-2027-_R12499) |
 | [Amcor](https://internscout.org/internships/at/amcor/) | Environmental, Health, & Safety Intern (Summer 2027) | RPSNA Erie (ERPA) PA |  | Oct 20 | [Apply](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/RPSNA-Erie-ERPA-PA/Environmental--Health----Safety-Intern--Summer-2027-_REQ_97452) |
+| [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | R&D Geological Resources - Graduate Internship (Summer 2027) | Houston, TX |  | Oct 20 | [Apply](https://aramcoservices.applytojob.com/apply/yhDyRkhMJk/RD-Geological-Resources-Graduate-Internship-Summer-2027) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Fort Collins, Colorado | \$20.00 | Oct 19 | [Apply](https://careers.trccompanies.com/jobs/27130) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental – Air Quality Intern | West Allis, Wisconsin | \$20.00 | Oct 19 | [Apply](https://careers.trccompanies.com/jobs/27131) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Energy Engineer (Southern California) | Los Angeles, CA +1 | \$23 per hour | Oct 19 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Los-Angeles-CA/XMLNAME-2027-Summer-Intern--Energy-Engineer--Southern-California-_R2603583) |
@@ -193,7 +194,6 @@
 | [HNTB](https://internscout.org/internships/at/hntb/) | Environmental Intern - Summer 2027 | Atlanta, GA |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Atlanta-GA/Environmental-Intern---Summer-2027_R-31634-1) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Environmental Intern (Summer 2027) | Plano, TX (Granite Parkway) |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Plano-TX-Granite-Parkway/Environmental-Intern--Summer-2027-_R-31477) |
 | [Granite Construction](https://internscout.org/internships/at/granite-construction/) | Safety Intern - Summer 2027 | Santa Clara, California +1 | \$24.00 | Oct 24 | [Apply](https://granite.wd1.myworkdayjobs.com/careers/job/Santa-Clara-California/Safety-Intern---Summer-2027_R0000008117) |
-| [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | R&D Geological Resources - Graduate Internship (Summer 2027) | Houston, TX |  | Oct 20 | [Apply](https://aramcoservices.applytojob.com/apply/yhDyRkhMJk/RD-Geological-Resources-Graduate-Internship-Summer-2027) |
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Environmental Health and Safety Intern (Summer 2027) | Freeport, IL +13 |  | Oct 20 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Freeport-IL/Environmental-Health-and-Safety-Intern--Summer-2027-_REQ-020153) |
 | [Cencora](https://internscout.org/internships/at/cencora/) | Environmental Intern | Romeoville, IL | \$37,752 - 56,650 | Sep 26 | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Romeoville-IL/Environmental-Intern_R2613863) |
 | [Cencora](https://internscout.org/internships/at/cencora/) | Health and Safety Intern | Roanoke, TX +2 |  | Sep 26 | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Roanoke-TX/Health-and-Safety-Intern_R2613785) |

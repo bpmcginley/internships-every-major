@@ -1,9 +1,10 @@
 # Government and Public Policy: Summer 2027 Internships
 
-53 open Summer 2027 government and public policy roles, newest first (all 53). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 340 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+54 open Summer 2027 government and public policy roles, newest first (all 54). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 341 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Sanofi](https://internscout.org/internships/at/sanofi/) | 2027 Summer Intern Policy and Government Affairs Washington DC | Washington, DC | \$27.00-\$57.00 | Oct 27 | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Washington-DC/XMLNAME-2027-Summer-Intern-Policy-and-Government-Affairs-Washington-DC_R2866059) |
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - Forward Deployed Engineer – Global Public Sector | Arkansas - Remote +1 | \$27 - \$29 per hour | Oct 27 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Government Affairs Intern (Summer 2027) | USA - New York - Malta | \$20.00 - \$40.00 | Oct 27 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/JR-2502836-Government-Affairs-Intern--Summer-2027-_JR-2604238) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Local Government, Politics Intern - Summer 2027 | Dallas, TX, United States |  | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466421009) |
@@ -37,6 +38,8 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Public Policy Intern (Kennett Square, PA) | Kennett Square, Pennsylvania |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138711) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Investments - Municipal Bonds | Richardson, Texas | \$33.00/hour | Sep 9 | [Apply](https://jobs.statefarm.com/jobs/45635) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Policy Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175556?gh_jid=8175556) |
+| [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Government/Corporate Affairs - 2027 Summer Student Program | Washington DC +1 |  | Sep 8 | [Apply](https://aramcoservices.applytojob.com/apply/yhm5ZfLfAu/GovernmentCorporate-Affairs-2027-Summer-Student-Program) |
+| [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Public Affairs - 2027 Summer Student Program | Houston, TX |  | Sep 8 | [Apply](https://aramcoservices.applytojob.com/apply/zllLwcmCFQ/Public-Affairs-2027-Summer-Student-Program) |
 | [Air Force Civilian Career Training](https://internscout.org/internships/at/air-force-civilian-career-training/) | Student Trainee | Clear AFB, Alaska +83 | \$36409 - \$52957 Per Year | Sep 1 | [Apply](https://www.usajobs.gov:443/job/882786200) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Civil Engineering Internship - Federal Infrastructure Site Design | North Kansas City, MO |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5396116008) |
 | [Exelon](https://internscout.org/internships/at/exelon/) | 2027 Summer Internship - Legal & Government Affairs Intern (Illinois) | OAKBROOK TERRACE, Illinois | \$20.00/Hr | Aug 31 | [Apply](https://careers.comed.com/jobs/30161) |
@@ -54,9 +57,7 @@
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Federal Reserve Summer Technical 2027 Internship | Richmond, VA |  | Sep 18 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Technical-Internship_R-0000033194) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Government & Political Science Internship - Summer 2027 | Arlington, VA |  | Sep 18 | [Apply](https://jobs.ulalaunch.com/job/Arlington-Government-&-Political-Science-Internship-Summer-2027-VA-22209/1427398100/) |
 | National Reconnaissance Office | 2027 Dr. Chris Scolese Summer Internship Program | Chantilly, VA |  | Sep 18 | [Apply](https://nro.applytojob.com/apply/oZyJp3ZEQh/2027-Dr-Chris-Scolese-Summer-Internship-Program) |
-| [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Government/Corporate Affairs - 2027 Summer Student Program | Washington DC +1 |  | Sep 18 | [Apply](https://aramcoservices.applytojob.com/apply/yhm5ZfLfAu/GovernmentCorporate-Affairs-2027-Summer-Student-Program) |
 | Port Authority of New York and New Jersey | Interest Form, 2027 Summer Internship Program | New York, New York | Paid | Sep 18 | [Apply](https://jobs.jobvite.com/panynj/job/ozTEAfwq/apply) |
-| [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Public Affairs - 2027 Summer Student Program | Houston, TX |  | Sep 18 | [Apply](https://aramcoservices.applytojob.com/apply/zllLwcmCFQ/Public-Affairs-2027-Summer-Student-Program) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -131,6 +131,7 @@
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | International Business Development Intern (Summer 2027) | Woodbridge, VA |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5247737007) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: Sales Intern | Northbrook, IL +1 | \$25.00 | Sep 28 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10626) |
 | [Highgate](https://internscout.org/internships/at/highgate/) | Intern - Sales & Events (Summer 2027) | Key West, FL | Paid | Sep 28 | [Apply](https://externalhourly-highgate.icims.com/jobs/83231/intern/job) |
+| K1 | Intern, Business Development (Summer 2027) | Manhattan Beach, CA | \$30/hour | Sep 28 | [Apply](https://k1im.applytojob.com/apply/F0mWtqiiQC/Intern-Business-Development-Summer-2027) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX Corporation Internship Program - Ad Sales - Detroit | Detroit, Michigan, USA |  | Sep 28 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Detroit-Michigan-USA/Summer-2027-FOX-Corporation-Internship-Program---Ad-Sales---Detroit_R50034001) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX Corporation Internship Program - Ad Sales | New York, New York, USA | \$20.00 per hour | Sep 28 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-Corporation-Internship-Program---Ad-Sales_R50034000) |
 | [Protective Life](https://internscout.org/internships/at/protective-life/) | 2027 Sales Summer Internship Program | Birmingham, AL |  | Sep 21 | [Apply](https://jobs.lever.co/protective/ece5130e-cf55-42b5-b928-cd4372b4488f/apply) |
@@ -203,7 +204,6 @@
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Technical Sales Engineering Intern - IT Channel (Summer 2027) | Columbus, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278722) |
 | [StepStone Group](https://internscout.org/internships/at/stepstone-group/) | 2027 Venture Capital Business Development Summer Associate | Baltimore | \$105,000 / year | Aug 3 | [Apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8095092) |
 | [Jane Street](https://internscout.org/internships/at/jane-street/) | Sales and Trading Intern | New York, NY |  | Jul 24 | [Apply](https://go.vansh.nyc/47) |
-| [AQR](https://internscout.org/internships/at/aqr/) | 2027 Business Development Summer Analyst | Greenwich, CT |  | May 15 | [Apply](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

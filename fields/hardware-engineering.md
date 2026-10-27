@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-281 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 281). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 742 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+280 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 280). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 744 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Applied AI Engineering Intern - Hardware Systems | Vancouver, BC, Canada |  | Oct 22 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721678733) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Frontier AI & Robotics Intern | San Francisco, CA |  | Oct 22 | [Apply](https://go.vansh.nyc/eL) |
 | [Rockwell Automation](https://internscout.org/internships/at/rockwell-automation/) | Firmware Engineer Intern | Mequon, WI +1 |  | Oct 22 | [Apply](https://go.vansh.nyc/gA) |
-| [RTX](https://internscout.org/internships/at/rtx/) | Analog and Power Design Electrical Engineering Intern (Summer 2027) | Marlborough, MA | Paid | Oct 22 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Analog-and-Power-Design-Electrical-Engineering-Intern--Summer-2027-_01871778) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Analog and Power Design Electrical Engineering Intern (Summer 2027) | Marlborough, MA |  | Oct 22 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Analog-and-Power-Design-Electrical-Engineering-Intern--Summer-2027-_01871778) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | NVIDIA 2027 Internships: Hardware Verification | US, CA +2 | Paid | Oct 22 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | NVIDIA 2027 Internships: Hardware ASIC Design | US, CA +2 | Paid | Oct 22 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | NVIDIA 2027 Internships: Hardware Design for Test (DFT) | US, CA +2 | Paid | Oct 22 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1) |
@@ -117,7 +117,6 @@
 | [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Applied AI Intern, Non-Silicon | San Jose, CA |  | Oct 6 | [Apply](https://go.vansh.nyc/Fc) |
 | [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Advanced Design Verification Engineer Intern | San Jose, CA |  | Oct 6 | [Apply](https://go.vansh.nyc/Fb) |
 | [RTX](https://internscout.org/internships/at/rtx/) | FPGA Engineer Intern | McKinney, TX |  | Oct 6 | [Apply](https://go.vansh.nyc/F5) |
-| [Cadence Design Systems](https://internscout.org/internships/at/cadence-design-systems/) | CST Application Engineer Intern - Silicon | SAN JOSE | \$28.60 to \$53.12 | Oct 6 | [Apply](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Silicon_R56655) |
 | [Cadence](https://internscout.org/internships/at/cadence/) | CST Application Engineer Intern - Silicon | SAN JOSE +1 | \$28.60 to \$53.12 | Oct 6 | [Apply](https://cadence.wd1.myworkdayjobs.com/external_careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Silicon_R56655-1) |
 | [Nokia](https://internscout.org/internships/at/nokia/) | ASIC Physical Design Coop | United States +1 |  | Oct 6 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41122) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Hardware Engineer Intern | Santa Clara, CA |  | Oct 5 | [Apply](https://go.vansh.nyc/EK) |
@@ -204,6 +203,7 @@
 | [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 Long Term ASIC Verification Engineering Intern/ Co-Op | OTTAWA, Ontario, Canada +2 |  | Sep 2 | [Apply](https://careers.amd.com/jobs/91207) |
 | [Intel](https://internscout.org/internships/at/intel/) | Platform Hardware and Systems Engineering Intern | Austin, TX +4 |  | Sep 2 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828) |
 | [Intel](https://internscout.org/internships/at/intel/) | Silicon Hardware Engineering Intern - Graduate | Austin, TX +4 |  | Sep 2 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830) |
+| [Intel](https://internscout.org/internships/at/intel/) | Platform Hardware and Systems Engineering Intern - Bachelor's | Austin, TX +4 |  | Sep 2 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

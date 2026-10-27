@@ -1,6 +1,6 @@
 # Cybersecurity: Summer 2027 Internships
 
-160 open Summer 2027 cybersecurity roles, newest first (all 160). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 320 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+161 open Summer 2027 cybersecurity roles, newest first (all 161). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 321 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,6 +11,7 @@
 | [American Family Insurance Group](https://internscout.org/internships/at/american-family-insurance-group/) | Cybersecurity Intern | Madison, WI +1 |  | Oct 27 | [Apply](https://go.vansh.nyc/VN) |
 | Ericsson | Cybersecurity Analyst Intern | Plano, TX |  | Oct 27 | [Apply](https://go.vansh.nyc/Vu) |
 | [Rockwell Automation](https://internscout.org/internships/at/rockwell-automation/) | Cybersecurity Intern | Milwaukee, WI +1 |  | Oct 27 | [Apply](https://go.vansh.nyc/Vd) |
+| [Leidos](https://internscout.org/internships/at/leidos/) | Cybersecurity Analyst Intern | Pearl Harbor, HI |  | Oct 27 | [Apply](https://go.vansh.nyc/Wv) |
 | [Centene](https://internscout.org/internships/at/centene/) | Cybersecurity Summer 2027 Intern (Undergraduate) | Remote-MO | \$21.00 - \$26.00 per hour | Oct 27 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514) |
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Security Specialist Intern (Summer 2027) | Arlington, VA +1 | \$25.68 - \$35.31 | Oct 27 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Arlington-VA/Security-Specialist-Intern--Summer-2027-_R0031250) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship – Engineer or Scientist – Offensive Cyber Capabilities | Laurel, Maryland | \$22.60 Hour | Oct 27 | [Apply](https://careers.jhuapl.edu/jobs/59907) |

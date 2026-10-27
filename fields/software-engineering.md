@@ -1,9 +1,10 @@
 # Software Engineering: Summer 2027 Internships
 
-1,562 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,562). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 3,054 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,564 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,564). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 3,058 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [ASML](https://internscout.org/internships/at/asml/) | Frontend Developer Intern | San Jose, CA |  | Oct 27 | [Apply](https://go.vansh.nyc/Wr) |
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Claims Lab Developer Intern | Cincinnati, OH |  | Oct 27 | [Apply](https://go.vansh.nyc/Wm) |
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Emerging Technology Intern | Cincinnati, OH |  | Oct 27 | [Apply](https://go.vansh.nyc/Wh) |
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Platform Operations Developer Intern | Cincinnati, OH |  | Oct 27 | [Apply](https://go.vansh.nyc/Wi) |
@@ -21,6 +22,8 @@
 | Lockheed Martin | Software Engineer Intern | Huntsville, AL |  | Oct 27 | [Apply](https://go.vansh.nyc/UC) |
 | [L3Harris Technologies](https://internscout.org/internships/at/l3harris-technologies/) | Associate Software Engineering Intern | Greenville, TX |  | Oct 27 | [Apply](https://go.vansh.nyc/UY) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Global Product Solutions and Operations Intern - Global Monetization Product and Technology | San Jose, CA |  | Oct 27 | [Apply](https://lifeattiktok.com/search/7701069870360627509) |
+| Uber | Software Engineering Intern | Toronto, Canada |  | Oct 27 | [Apply](https://go.vansh.nyc/Wx) |
+| [Great American Insurance Group](https://internscout.org/internships/at/great-american-insurance-company/) | Cloud Data Platform Intern | Cincinnati, OH |  | Oct 27 | [Apply](https://go.vansh.nyc/Wu) |
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | IT Service Desk Intern (Summer 2027) | Lone Tree, CO |  | Oct 27 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/IT-Service-Desk-Intern--Summer-2027-_R0031251) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | IT Collaboration Tools Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 27 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/IT-Collaboration-Tools-Intern---Summer-2027---Franklin--TN_R00214213) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Platform Operations Developer Intern - Summer 2027 | Cincinnati, OH (USA) |  | Oct 27 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Platform-Operations-Developer-Intern---Summer-2027_R9800) |
@@ -201,9 +204,6 @@
 | [Skydio](https://internscout.org/internships/at/skydio/) | Frontend Software Engineer Intern - Summer 2027 | San Mateo, California, United States +3 | \$47/hr | Oct 22 | [Apply](https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd/application) |
 | [Ursa Major](https://internscout.org/internships/at/ursa-major/) | 2027 Summer IT Infrastructure & Automation Intern | Berthoud, Colorado |  | Oct 22 | [Apply](https://ursamajor.com/careers/?gh_jid=4746884005) |
 | [Ursa Major](https://internscout.org/internships/at/ursa-major/) | 2027 Summer Software Development Intern | Berthoud, Colorado +1 |  | Oct 22 | [Apply](https://ursamajor.com/careers/?gh_jid=4746827005) |
-| [Ursa Major](https://internscout.org/internships/at/ursa-major/) | 2027 Summer Embedded Flight Software Intern | Longmont, Colorado +1 |  | Oct 22 | [Apply](https://ursamajor.com/careers/?gh_jid=4746825005) |
-| [Apple](https://internscout.org/internships/at/apple/) | Software Engineering Intern, On-Demand Agent Provisioning in Cellular Test | United States |  | Oct 22 | [Apply](https://go.vansh.nyc/Dc) |
-| [Acuity](https://internscout.org/internships/at/acuity/) | Software Engineer Intern | Sheboygan, WI |  | Oct 22 | [Apply](https://go.vansh.nyc/PT) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

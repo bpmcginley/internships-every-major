@@ -1,12 +1,13 @@
 # Operations: Summer 2027 Internships
 
-411 open Summer 2027 operations roles, newest first (the 200 newest of 411). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 967 operations internships on InternScout](https://internscout.org/internships/operations/)
+412 open Summer 2027 operations roles, newest first (the 200 newest of 412). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 968 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Platform Operations Developer Intern | Cincinnati, OH |  | Oct 27 | [Apply](https://go.vansh.nyc/Wi) |
 | [Sonos](https://internscout.org/internships/at/sonos/) | Data Quality Intern | Boston, MA |  | Oct 27 | [Apply](https://go.vansh.nyc/Wa) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Global Product Solutions and Operations Intern - Global Monetization Product and Technology | San Jose, CA |  | Oct 27 | [Apply](https://lifeattiktok.com/search/7701069870360627509) |
+| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Retail and Store Operations | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Retail-and-Store-Operations-MD-21230/1434343300/) |
 | HD Supply | Sales Operations Intern - Summer 2027 | Atlanta-GA-US |  | Oct 27 | [Apply](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Sales-Operations-Intern---Summer-2027_R26004269) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Platform Operations Developer Intern - Summer 2027 | Cincinnati, OH (USA) |  | Oct 27 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Platform-Operations-Developer-Intern---Summer-2027_R9800) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Facilities Management | Detroit, MI |  | Oct 27 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14649) |
@@ -203,7 +204,6 @@
 | [Highgate](https://internscout.org/internships/at/highgate/) | Intern- Operations (Summer 2027) | Philadelphia, PA | Paid | Sep 14 | [Apply](https://externalhourly-highgate.icims.com/jobs/82557/intern/job) |
 | [Highgate](https://internscout.org/internships/at/highgate/) | Intern- Operations (Summer 2027) | San Francisco, CA | Paid | Sep 14 | [Apply](https://externalhourly-highgate.icims.com/jobs/82571/intern/job) |
 | [Highgate](https://internscout.org/internships/at/highgate/) | Intern- Operations (Summer 2027) | Miami, FL | Paid | Sep 14 | [Apply](https://externalhourly-highgate.icims.com/jobs/82561/intern/job) |
-| [Highgate](https://internscout.org/internships/at/highgate/) | Intern- Operations (Summer 2027) | DC | Paid | Sep 14 | [Apply](https://externalhourly-highgate.icims.com/jobs/82559/intern/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

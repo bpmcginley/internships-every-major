@@ -1,6 +1,6 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-563 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 563). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 1,061 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+565 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 565). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 1,065 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -8,10 +8,12 @@
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Data Application Development Intern | Cincinnati, OH |  | Oct 27 | [Apply](https://go.vansh.nyc/Wj) |
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Data Engineering Intern | Cincinnati, OH |  | Oct 27 | [Apply](https://go.vansh.nyc/Wd) |
 | [Sonos](https://internscout.org/internships/at/sonos/) | Data Quality Intern | Boston, MA |  | Oct 27 | [Apply](https://go.vansh.nyc/Wa) |
+| [Olsson](https://internscout.org/internships/at/olsson/) | Mechanical Engineering Internship - Data Center Facilities | North Kansas City, MO |  | Oct 27 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5465496008) |
 | [Micron Technology](https://internscout.org/internships/at/micron-technology/) | HBM Data Scientist Intern | Richardson, TX |  | Oct 27 | [Apply](https://go.vansh.nyc/VY) |
 | JM Family Enterprises | Data Engineer Intern | Deerfield Beach, FL |  | Oct 27 | [Apply](https://go.vansh.nyc/VR) |
 | [Visa](https://internscout.org/internships/at/visa/) | Data Science Intern, Data and AI Team | Foster City, CA |  | Oct 27 | [Apply](https://go.vansh.nyc/UG) |
 | Disney | Systems Engineer Intern, Data Services | Vancouver, Canada |  | Oct 27 | [Apply](https://go.vansh.nyc/Uz) |
+| [Great American Insurance Group](https://internscout.org/internships/at/great-american-insurance-company/) | Cloud Data Platform Intern | Cincinnati, OH |  | Oct 27 | [Apply](https://go.vansh.nyc/Wu) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Data Engineer Intern | Florida - Deerfield Beach |  | Oct 27 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineer-Intern_JR105120) |
 | [David Yurman](https://internscout.org/internships/at/david-yurman/) | Strategic Analytics Intern | New York, NY | \$25/hour | Oct 27 | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Strategic-Analytics-Intern_R-101176) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Data Automation Intern - Summer 2027 | Cincinnati, OH (USA) |  | Oct 27 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Automation-Intern---Summer-2027_R9798) |
@@ -202,8 +204,6 @@
 | [Rivian](https://internscout.org/internships/at/rivian/) | Artificial Intelligence, Machine Learning, & Data - Summer 2027 Internships | Palo Alto, California +4 | \$33.00-51.00 per hour | Oct 9 | [Apply](https://careers.rivian.com/jobs/34313) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern, Data Scaling, Embodied AI | Sunnyvale, California, United States of America +1 | \$11,800 – \$14,600 per month | Oct 9 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132) |
 | Papa John's | Data Science Intern | Atlanta, GA |  | Oct 9 | [Apply](https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157) |
-| [CAE](https://internscout.org/internships/at/cae/) | C-FIN-275 Software Engineering Intern, AI, Automation and Business Intelligence | Montreal (St. Laurent) +1 | Paid | Oct 9 | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1) |
-| [GuidePoint Security](https://internscout.org/internships/at/guidepoint-security/) | AI & Data Science Intern, GPSU | Remote +1 |  | Oct 8 | [Apply](https://go.vansh.nyc/Gd) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

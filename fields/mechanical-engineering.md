@@ -1,10 +1,12 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-294 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 294). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 895 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+296 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 296). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 897 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | Scout AI | Mechanical Engineer Intern (Summer 2027) | Sunnyvale, CA +1 |  | Oct 27 | [Apply](https://jobs.ashbyhq.com/scout-ai/fba467c4-30e8-4ee1-8ac9-20b48e132076/application) |
+| [Olsson](https://internscout.org/internships/at/olsson/) | Mechanical Engineering Internship - Data Center Facilities | North Kansas City, MO |  | Oct 27 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5465496008) |
+| [WSP](https://internscout.org/internships/at/wsp/) | Mechanical Engineering Intern - Summer 2027 | Tempe, AZ |  | Oct 27 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98372) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | 2027 Summer Additive Manufacturing Intern - BS or MS (Gloucester, MA) | Gloucester,MA | \$31 - \$41 per hour | Oct 27 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Additive-Manufacturing-Intern---BS-or-MS--Gloucester--MA-_R2632032) |
 | [ASML](https://internscout.org/internships/at/asml/) | Internship - Mechanical Engineer | Wilton, CT, USA | \$18.00 to \$48.00 per hour | Oct 27 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00355216) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Mechanical Engineering Intern - Buildings (Summer 2027) | Chicago, IL |  | Oct 27 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007966) |
@@ -89,7 +91,6 @@
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Manufacturing Engineering Internship - Undergraduate | Space Coast, FL +2 | \$32.00 | Oct 13 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Summer-2027-Manufacturing-Engineering-Internship---Undergraduate_R71428) |
 | Plastipak | Manufacturing Operations (Engineering) Intern – Summer 2027 | Plastipak - Havre de Grace, MD |  | Oct 12 | [Apply](https://plastipak.wd1.myworkdayjobs.com/Plastipak/job/Plastipak---Havre-de-Grace-MD/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24670) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Manufacturing Digital Data Intern - Summer 2027 - Smyrna, TN | Smyrna, Tennessee - United States of America |  | Oct 12 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Smyrna--TN_R00214880) |
-| [WSP](https://internscout.org/internships/at/wsp/) | Mechanical Engineering Intern - Summer 2027 | Tempe, AZ |  | Oct 12 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97462) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | Summer 2027 Intern - Research and Development - Smart Manufacturing Systems | Warren, Michigan, United States of America +1 |  | Oct 12 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Research-and-Development---Smart-Manufacturing-Systems_JR-202621657) |
 | [ABB](https://internscout.org/internships/at/abb/) | Manufacturing Engineering Intern - Summer 2027 | USA, NC |  | Oct 12 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Hickory/Manufacturing-Engineering-Intern---Summer-2027_JR00047568) |
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-op - Midstream Natural Gas and NGL Services Chemical/Mechanical/Civil/Petroleum/Electrical Engineering (Summe… | Canonsburg, Pennsylvania +12 | \$33.54 per hour | Oct 12 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Canonsburg-Pennsylvania/Intern-Co-op---Midstream-Natural-Gas-and-NGL-Services-Chemical-Mechanical-Civil-Petroleum-Electrical-Engineering--Summer-2027-_00024214) |
@@ -203,7 +204,6 @@
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Mechanical Engineering (HVAC) | Los Angeles, CA | \$30–\$40 per hour | Sep 1 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377104008) |
 | [Textron](https://internscout.org/internships/at/textron/) | 2027 Intern - Manufacturing Engineer (Lycoming) - Williamsport, PA | Williamsport, Pennsylvania |  | Sep 1 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342717) |
 | [Hermeus](https://internscout.org/internships/at/hermeus/) | Mechanical Engineering Intern - Summer/Fall 2027 | Los Angeles, CA |  | Aug 31 | [Apply](https://jobs.lever.co/hermeus/1bc5c858-1b04-4093-80a0-2ba3491afc60/apply) |
-| Lexington Medical | Manufacturing Engineering Intern | Bedford, MA | Paid | Aug 31 | [Apply](https://job-boards.greenhouse.io/lexingtonmedical/jobs/5404584008) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
