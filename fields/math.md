@@ -1,9 +1,10 @@
 # Math: Summer 2027 Internships
 
-35 open Summer 2027 math roles, newest first (all 35). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 58 math internships on InternScout](https://internscout.org/internships/math/)
+36 open Summer 2027 math roles, newest first (all 36). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 59 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Biostatistics & Statistical Programming | TARRYTOWN | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Biostatistics---Statistical-Programming_R52558-1) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Actuarial Services Intern | Florida - Deerfield Beach |  | Oct 27 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Actuarial-Services-Intern_JR105151) |
 | [AstraZeneca](https://internscout.org/internships/at/astrazeneca/) | Preclinical Mathematical Modeling Internship | US - Cambridge Kendall SQ - MA | \$37-\$39 per hour | Oct 27 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Preclinical-Mathematical-Modeling-Internship_R-262630) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Grad Intern - Biostatistics (Summer 2027) | Remote | \$35.34 – \$41.20 per hour | Oct 26 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Biostatistics--Summer-2027-_R-259820) |

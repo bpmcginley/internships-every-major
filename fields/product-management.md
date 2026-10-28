@@ -1,6 +1,6 @@
 # Product Management: Summer 2027 Internships
 
-166 open Summer 2027 product management roles, newest first (all 166). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 280 product management internships on InternScout](https://internscout.org/internships/product-management/)
+166 open Summer 2027 product management roles, newest first (all 166). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 283 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Walmart](https://internscout.org/internships/at/walmart/) | Summer 2027 Intern: Automation - Product Manager - Corporate Intern | Lancaster, TX | \$21.00 - \$40.00 | Oct 22 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-TX-LANCASTER-07382-ECOMM-FULFILLMENT-SERVICES/Summer-2027-Intern--Automation---Product-Manager---Corporate-Intern_R-2649739) |
 | [Aptiv](https://internscout.org/internships/at/aptiv/) | AI Product Analyst Intern | San Diego, CA |  | Oct 21 | [Apply](https://go.vansh.nyc/dC) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027 | US, CA +4 |  | Oct 21 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) |
-| [Allstate](https://internscout.org/internships/at/allstate/) | Product Management Advertising Intern | Illinois |  | Oct 21 | [Apply](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280) |
+| Allstate | Product Management Advertising Intern | Illinois |  | Oct 21 | [Apply](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280) |
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program Product Owner Intern | Chicago, IL +1 |  | Oct 20 | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8038087003) |
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | Product Owner Intern, AI Consulting Associate Program | Chicago, IL +1 |  | Oct 20 | [Apply](https://go.vansh.nyc/df) |
 | GoFundMe | MBA Product Management Internship, Summer 2027 | San Francisco, CA +1 | \$75.00 | Oct 20 | [Apply](https://job-boards.greenhouse.io/gofundme/jobs/8304644) |

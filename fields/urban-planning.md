@@ -1,16 +1,16 @@
 # Urban Planning: Summer 2027 Internships
 
-53 open Summer 2027 urban planning roles, newest first (all 53). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 113 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+53 open Summer 2027 urban planning roles, newest first (all 53). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 115 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Summer 2027 Urban Planning/Development Intern | Detroit, MI |  | Oct 28 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Summer-2027-Urban-Planning-Development-Intern_R-085098) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Internship - Community Development (Summer 2027) | Minneapolis, MN +1 |  | Oct 27 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008526) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Community Development (Summer 2027) | Pasadena, CA |  | Oct 27 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008346) |
 | [CAI](https://internscout.org/internships/at/cai/) | GIS Software Developer Intern | PA-CLIENT-STATE +1 | \$20 per hour | Oct 27 | [Apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8554) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Sales Planning Intern | Florida - Deerfield Beach |  | Oct 26 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Sales-Planning-Intern_JR105091) |
 | [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | Assorment Planning Intern - Summer 2027 | Atlanta, GA, USA |  | Oct 24 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Assorment-Planning-Intern---Summer-2027_R26_0000035659) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Transportation Planning Intern (Summer 2027) | Los Angeles, CA (Figueroa Street) |  | Oct 22 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Los-Angeles-CA-Figueroa-Street/Transportation-Planning-Intern--Summer-2027-_R-32153-1) |
-| [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Summer 2027 Urban Planning/Development Intern | Detroit, MI |  | Oct 22 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Summer-2027-Urban-Planning-Development-Intern_R-085098) |
 | [David Yurman](https://internscout.org/internships/at/david-yurman/) | Demand Planning Intern | New York, NY | \$25/hour | Oct 21 | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Demand-Planning-Intern_R-101150) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Internship - Community Development (Summer 2027) | Chicago, IL |  | Oct 21 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008437) |
 | [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | GIS, Grid Data Intern - MN | Minneapolis, MN, 55418 +1 |  | Oct 20 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Grid-Data-Intern---MN_JR115742-1) |

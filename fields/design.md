@@ -1,10 +1,11 @@
 # Design: Summer 2027 Internships
 
-64 open Summer 2027 design roles, newest first (all 64). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 185 design internships on InternScout](https://internscout.org/internships/design/)
+65 open Summer 2027 design roles, newest first (all 65). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 188 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [Global Infrastructure](https://internscout.org/internships/at/global-infrastructure/) | Intern Technology Designer | US +1 | \$23 to \$28 per hour | Oct 27 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--MO--St-Louis---6-South-Old-Orchard/Intern-Technology-Designer_6625) |
+| [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | Industrial Design Engineering Intern, 3D Surfacing - Summer 2027 | Towson, MD, United States | \$22.00- \$27.00 per hour | Oct 28 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern--3D-Surfacing---Summer-2027_REQ-1000052665) |
+| [Global Infrastructure](https://internscout.org/internships/at/global-infrastructure/) | Intern, Technology Designer | US +1 | \$23 to \$28 per hour | Oct 28 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--MO--St-Louis---6-South-Old-Orchard/Intern-Technology-Designer_6625) |
 | [HP IQ](https://internscout.org/internships/at/hp-iq/) | Product Design Engineering Intern (Summer 2027) | San Francisco, CA +1 | \$40.00–\$50.00 per hour | Oct 26 | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6141235004) |
 | [FHLBD Federal Home Loan Bank of Dallas](https://internscout.org/internships/at/fhlbd-federal-home-loan-bank-of-dallas/) | 2027 Summer Digital & Graphic Design Intern | Irving, TX |  | Oct 26 | [Apply](https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Digital---Graphic-Design-Intern_REQ-453) |
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | UX/UI Design Intern - Summer 2027 | Valley City, OH, United States |  | Oct 24 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/UX-UI-Design-Intern---Summer-2027_REQ-1000052835) |

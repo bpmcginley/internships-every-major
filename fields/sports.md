@@ -1,9 +1,10 @@
 # Sports: Summer 2027 Internships
 
-8 open Summer 2027 sports roles, newest first (all 8). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 59 sports internships on InternScout](https://internscout.org/internships/sports/)
+9 open Summer 2027 sports roles, newest first (all 9). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 60 sports internships on InternScout](https://internscout.org/internships/sports/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Team Sports/Sales | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Team-SportsSales-MD-21230/1434355500/) |
 | FanDuel | Sports Trader Intern - Summer 2027 | Jersey City, New Jersey, United States +1 | Paid | Oct 20 | [Apply](https://www.fanduel.careers/open-positions?gh_jid=8300829) |
 | [Arc](https://internscout.org/internships/at/arc/) | Mechanical Engineering Intern - Recreational | Torrance, CA | \$36 per hour | Oct 7 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5445312008) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX Internship Program - Sports Production, New York | New York, New York, USA | \$20.00 per hour | Sep 28 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-Internship-Program---Sports-Production--New-York_R50033975) |

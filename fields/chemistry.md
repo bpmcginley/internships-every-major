@@ -1,9 +1,10 @@
 # Chemistry: Summer 2027 Internships
 
-13 open Summer 2027 chemistry roles, newest first (all 13). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 40 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
+14 open Summer 2027 chemistry roles, newest first (all 14). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 41 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Bioanalytical, Analytical & Formulation Sciences | TARRYTOWN | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Bioanalytical--Analytical---Formulation-Sciences_R52555) |
 | [AstraZeneca](https://internscout.org/internships/at/astrazeneca/) | 2027 Summer OTD Chemistry Summer Internship – Undergraduate | US - Cambridge Kendall SQ - MA | \$37-\$39 per hour | Oct 27 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/XMLNAME-2027-Summer-OTD-Chemistry-Summer-Internship---Undergraduate_R-262919) |
 | [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program - Discovery Chemistry & Process Research - Intern | USA - New Jersey - Rahway +3 | \$39,108 | Oct 27 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Discovery-Chemistry---Process-Research---Intern_R414395) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Product and Analytical Sciences Summer Intern | Warren - NJ - US | \$24.00 - \$45.00 | Oct 27 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Warren---NJ---US/Product-and-Analytical-Sciences-Summer-Intern_R1607861) |

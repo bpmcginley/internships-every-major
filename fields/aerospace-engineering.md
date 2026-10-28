@@ -5,7 +5,7 @@
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Ursa Major](https://internscout.org/internships/at/ursa-major/) | 2027 Summer Propulsion Engineer, Hypersonic Vehicle Intern | Berthoud, Colorado |  | Oct 22 | [Apply](https://ursamajor.com/careers/?gh_jid=4746882005) |
-| [Ursa Major](https://internscout.org/internships/at/ursa-major/) | 2027 Summer Avionics Electrical Engineer Intern | Berthoud, Colorado +1 |  | Oct 19 | [Apply](https://ursamajor.com/careers/?gh_jid=4745125005) |
+| [Ursa Major](https://internscout.org/internships/at/ursa-major/) | Avionics Electrical Engineer Intern | Berthoud, CO |  | Oct 19 | [Apply](https://ursamajor.com/careers/?gh_jid=4745125005) |
 | [CACI](https://internscout.org/internships/at/caci/) | Aerospace Engineer Intern - Summer 2027 | Aberdeen Proving Ground, MD, US | \$43,900 - 87,900 | Oct 16 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Aberdeen-Proving-Ground-MD-US/Aerospace-Engineer-Intern---Summer-2027_333570) |
 | [Inversion Space](https://internscout.org/internships/at/inversion-space/) | Avionics Embedded Software Engineer - Summer Internship 2027 | Playa Vista, California, United States +2 | Paid | Oct 15 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4744391005) |
 | [Inversion Space](https://internscout.org/internships/at/inversion-space/) | Avionics Mechanical Engineer - Summer Internship 2027 | Playa Vista, California, United States | Paid | Oct 15 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4744390005) |

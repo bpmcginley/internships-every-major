@@ -1,9 +1,10 @@
 # Law and Legal: Summer 2027 Internships
 
-129 open Summer 2027 law and legal roles, newest first (all 129). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 281 law and legal internships on InternScout](https://internscout.org/internships/law/)
+131 open Summer 2027 law and legal roles, newest first (all 131). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 285 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Regulatory Affairs & Operations | TARRYTOWN +1 | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Regulatory-Affairs---Operations_R52565-1) |
 | [Uline](https://internscout.org/internships/at/uline/) | International Trade Compliance Internship - Summer 2027 | Pleasant Prairie, WI +4 | Paid | Oct 28 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/International-Trade-Compliance-Internship---Summer-2027_R268695) |
 | [Formlabs](https://internscout.org/internships/at/formlabs/) | Legal Intern (Summer 2027) | Somerville, MA | \$1,550 | Oct 27 | [Apply](https://careers.formlabs.com/job/8319490/apply/?gh_jid=8319490) |
 | Fervo Energy | Legal Intern | Houston, TX |  | Oct 27 | [Apply](https://job-boards.greenhouse.io/fervoenergy/jobs/4464038009) |
@@ -69,6 +70,7 @@
 | [Excellus BCBS](https://internscout.org/internships/at/excellus-bcbs/) | College Intern - Summer 2027 - Corporate Tax & Compliance | Buffalo +2 | \$18.00 | Oct 2 | [Apply](https://lthc.wd1.myworkdayjobs.com/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Corporate-Tax---Compliance_JR104101-4) |
 | [International Rescue Committee (IRC)](https://internscout.org/internships/at/international-rescue-committee-irc/) | Immigration Legal Intern - UNPAID - Summer 2027 | Denver, CO USA |  | Oct 1 | [Apply](https://theirc.wd1.myworkdayjobs.com/External_Careers/job/Denver-CO-USA/Immigration-Legal-Intern---UNPAID---Summer-2027_JR00005325-1) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | Legal Intern (Summer 2027) | Remote | \$50/hour | Sep 30 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5253395007) |
+| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Transaction Tax Compliance | Downers Grove IL |  | Sep 30 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Downers-Grove/Summer-2027-Intern--Transaction-Tax-Compliance_R0020795-2) |
 | [Internal Revenue Service](https://internscout.org/internships/at/internal-revenue-service/) | Summer Intern (Legal Administrative Specialist) | Birmingham, Alabama +45 | \$61722 - \$100315 Per Year | Sep 29 | [Apply](https://www.usajobs.gov:443/job/886742000) |
 | [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Abandoned and Unclaimed Property Compliance | Tampa |  | Sep 29 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Tampa/Summer-2027-Intern--Abandoned-and-Unclaimed-Property-Compliance_R0020716-1) |
 | [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Abandoned and Unclaimed Property Compliance | King of Prussia |  | Sep 29 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/King-of-Prussia/Summer-2027-Intern--Abandoned-and-Unclaimed-Property-Compliance_R0020714-1) |

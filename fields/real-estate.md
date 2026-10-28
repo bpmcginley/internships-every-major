@@ -1,9 +1,11 @@
 # Real Estate: Summer 2027 Internships
 
-15 open Summer 2027 real estate roles, newest first (all 15). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 39 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
+17 open Summer 2027 real estate roles, newest first (all 17). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 42 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Real Estate | Atlanta, GA |  | Oct 28 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Atlanta-GA/XMLNAME-2027-Summer-Intern---Commercial-Real-Estate_2620101) |
+| [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program - Global Workplace & Enterprise Services Global Real Estate (GRES) Co-op | USA - New Jersey - Rahway +1 | \$39,908 - \$111,111 | Oct 28 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Workplace---Enterprise-Services-Global-Real-Estate--GRES--Co-op_R415296) |
 | [Visa](https://internscout.org/internships/at/visa/) | Real Estate Intern - Summer 2027 | US - San Francisco, CA | \$35.00to \$39.00/hr | Oct 27 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---San-Francisco-CA/Real-Estate-Intern---Summer-2027_REF089902W) |
 | U.S. Bank | 2027 Commercial Real Estate Summer Intern | Denver, CO |  | Oct 26 | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Denver-CO/XMLNAME-2027-Commercial-Real-Estate-Summer-Intern_2026-0025772) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Summer 2027 Property Management Internships (Commercial and Residential Property Management) | Detroit, MI |  | Oct 22 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Summer-2027-Property-Management-Internships--Commercial-and-Residential-Property-Management-_R-085041) |

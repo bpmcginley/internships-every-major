@@ -1,9 +1,10 @@
 # Communications: Summer 2027 Internships
 
-58 open Summer 2027 communications roles, newest first (all 58). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 195 communications internships on InternScout](https://internscout.org/internships/communications/)
+59 open Summer 2027 communications roles, newest first (all 59). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 195 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern People, Communications, Change & Learning | TARRYTOWN +2 | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-People--Communications--Change---Learning_R52600-1) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Communications Intern - Summer 2027 | Kansas City, MO |  | Oct 27 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/Communications-Intern---Summer-2027_R-32203-1) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Marketing Communications Intern | Florida - Deerfield Beach |  | Oct 27 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Marketing-Communications-Intern_JR105099) |
 | [Philips](https://internscout.org/internships/at/philips/) | Intern — North America Brand & Communications Associate — Cambridge, MA — Summer 2027 | Cambridge (US), Massachusetts, United States | \$26 – 30 | Oct 27 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---North-America-Brand---Communications-Associate---Cambridge--MA---Summer-2027_593459) |
@@ -22,7 +23,7 @@
 | [Emergent Holdings](https://internscout.org/internships/at/emergent-holdings/) | Summer 2027 Intern - MA Communications Quality and Vendor Oversight | Detroit, MI |  | Oct 20 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15005) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Marketing Communications Intern | Kirkland, WA | Paid | Oct 20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Marketing-Communications-Intern-WA-98033/1449526133/) |
 | [Ursa Major](https://internscout.org/internships/at/ursa-major/) | 2027 Summer Marketing & Communications Intern | Berthoud, Colorado |  | Oct 19 | [Apply](https://ursamajor.com/careers/?gh_jid=4744833005) |
-| Ricoh | Software Engineer Intern, Graphic Communications | Boulder, CO |  | Oct 19 | [Apply](https://go.vansh.nyc/Vl) |
+| [Ricoh](https://internscout.org/internships/at/ricoh/) | Software Engineer Intern, Graphic Communications | Boulder, CO |  | Oct 19 | [Apply](https://go.vansh.nyc/Vl) |
 | [David Yurman](https://internscout.org/internships/at/david-yurman/) | Copywriting Intern | New York, NY | \$25/hour | Oct 16 | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Copywriting-Intern_R-101133) |
 | [Axiom Space](https://internscout.org/internships/at/axiom-space/) | Communications & Marketing Intern (Summer 2027) | Houston |  | Oct 15 | [Apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Communications---Marketing-Intern--Summer-2027-_JR100753) |
 | [Sigma Computing](https://internscout.org/internships/at/sigma-computing/) | Technical Writer Intern (Summer 2027) | New York, NY | \$36.00 - \$42.00 per hour | Oct 14 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8034205003) |
@@ -46,7 +47,7 @@
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Internship- Corporate Communications | HOUSTON, Texas |  | Sep 10 | [Apply](https://careers.kindermorgan.com/jobs/6223) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Communications | Detroit, MI |  | Sep 8 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14716) |
 | [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | Hardware Engineer Intern - Critical Infrastructure Communications | Rochester, NY |  | Sep 3 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-2) |
-| [Exelon](https://internscout.org/internships/at/exelon/) | 2027 Summer Internship - Communications & Marketing (Various Exelon Locations) | CHICAGO, Illinois +6 | \$20.00/Hr | Aug 31 | [Apply](https://careers.comed.com/jobs/30146) |
+| [Exelon](https://internscout.org/internships/at/exelon/) | 2027 Summer Internship - Communications & Marketing (Various Exelon Locations) | Baltimore, Maryland +7 | \$20.00/Hr | Aug 31 | [Apply](https://careers.comed.com/jobs/30146) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Communications Intern - Summer 2027 | Nashville, TN (City Center) |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Nashville-TN-City-Center/Communications-Intern---Summer-2027_R-31413) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Communications & Graphics Intern - Summer 2027 | Raleigh, NC |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Raleigh-NC/Communications---Graphics-Intern---Summer-2027_R-31513) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Communications & Engagement Intern - Summer 2027 | Columbus, OH +2 | \$19.12 - \$28.68 | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Columbus-OH/Communications---Engagement-Intern---Summer-2027_R-31327) |

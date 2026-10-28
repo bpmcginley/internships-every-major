@@ -1,6 +1,6 @@
 # Agriculture: Summer 2027 Internships
 
-18 open Summer 2027 agriculture roles, newest first (all 18). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 47 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
+17 open Summer 2027 agriculture roles, newest first (all 17). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 46 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -18,7 +18,6 @@
 | [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Petcare Quality and Food Safety Internship - Ft. Smith, Arkansas | USA-Arkansas-Ft. Smith |  | Sep 25 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Arkansas-Ft-Smith/Summer-2027-Mars-Petcare-Quality-and-Food-Safety-Internship---Ft-Smith--Arkansas_R167867-1) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | Sales Intern - US Farm Animal (Summer 2027) | US Territory Field based | \$20-\$40/hour | Sep 18 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/US-Territory-Field-based/Sales-Intern---US-Farm-Animal--Summer-2027-_R0026872) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | Marketing Intern - US Farm Animal (Summer 2027) | Indianapolis, IN |  | Sep 18 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Marketing-Intern---US-Farm-Animal--Summer-2027-_R0026873) |
-| [Ingredion](https://internscout.org/internships/at/ingredion/) | Customer Innovation Food Science Intern: Differentiated Services | Bridgewater, NJ |  | Sep 18 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Bridgewater-NJ/Customer-Innovation-Food-Science-Intern--Differentiated-Services_Req-40200) |
 | [The Andersons](https://internscout.org/internships/at/the-andersons/) | Agronomy Intern (Summer 2027) | Galveston, IN |  | Sep 18 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Galveston-IN/Agronomy-Intern--Summer-2027-_R12478) |
 | [Meijer](https://internscout.org/internships/at/meijer/) | Food Safety Intern- Summer 2027 | Grand Rapids, MI |  | Sep 18 | [Apply](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Food-Safety-Intern--Summer-2027_R000700342) |
 | [Ruekert & Mielke](https://internscout.org/internships/at/ruekert-mielke/) | Agricultural Engineering Student Intern (Summer 2027) | Madison, Wisconsin |  | Sep 18 | [Apply](https://ruekertmielke.bamboohr.com/careers/310) |

@@ -1,6 +1,6 @@
 # Quantitative Finance: Summer 2027 Internships
 
-128 open Summer 2027 quantitative finance roles, newest first (all 128). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 180 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
+137 open Summer 2027 quantitative finance roles, newest first (all 137). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 190 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -52,6 +52,15 @@
 | Xantium | Quantitative Developer Intern | NYC |  | Aug 17 | [Apply](https://job-boards.greenhouse.io/xantium/jobs/4360768009) |
 | Xantium | Quantitative Researcher Intern | NYC |  | Aug 17 | [Apply](https://job-boards.greenhouse.io/xantium/jobs/4371217009) |
 | [DV Group](https://internscout.org/internships/at/dv-group/) | Trading Intern - Summer 2027 (DV Commodities) | New York +1 | \$50.00 per hour | Aug 17 | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719134005) |
+| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Quantitative Strats Analyst Intern - Americas - Investment Banking | Dallas, TX |  | Aug 15 | [Apply](https://higher.gs.com/roles/171548?type=students) |
+| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Summer Analyst Intern - Americas - Investment Banking Quantitative Strats | NYC |  | Aug 15 | [Apply](https://higher.gs.com/roles/171547?type=students) |
+| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Quantitative Strategist Intern - Americas - The Core Quantitative Strats | NYC |  | Aug 15 | [Apply](https://higher.gs.com/roles/171551?type=students) |
+| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Quantitative Strategist Intern - Americas | Dallas, TX |  | Aug 15 | [Apply](https://higher.gs.com/roles/171532?type=students) |
+| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Quantitative Strategist Intern - Multiple Teams | NYC |  | Aug 15 | [Apply](https://higher.gs.com/roles/171563?type=students) |
+| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Quantitative Strategist Associate Intern - The Core Quantitative Strats | NYC |  | Aug 15 | [Apply](https://higher.gs.com/roles/171535?type=students) |
+| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Associate Intern - The Core Quantitative Strats | Dallas, TX |  | Aug 15 | [Apply](https://higher.gs.com/roles/171546?type=students) |
+| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats | Salt Lake City, UT |  | Aug 15 | [Apply](https://higher.gs.com/roles/171549?type=students) |
+| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL |  | Aug 15 | [Apply](https://higher.gs.com/roles/181628?type=students) |
 | InfiniteQuant | Quantitative Researcher Intern - Summer 2027 | NYC |  | Aug 13 | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421) |
 | [AQR Capital Management](https://internscout.org/internships/at/aqr-capital-management/) | Quantitative Prediction Markets Research Summer Analyst Intern | Greenwich, CT |  | Aug 11 | [Apply](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) |
 | Quantbot Technologies | Quantitative Developer Intern | NYC |  | Aug 11 | [Apply](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) |
@@ -86,8 +95,8 @@
 | Five Rings | Summer Intern 2027 - Quantitative Trader | New York +1 | \$300,000 | Jul 14 | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) |
 | [Akuna Capital University](https://internscout.org/internships/at/akuna-capital-university/) | Quantitative Development & Strategy Intern | Chicago, IL |  | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
 | [Akuna Capital University](https://internscout.org/internships/at/akuna-capital-university/) | Quantitative Research Intern | Chicago, IL |  | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
-| [Akunacapital](https://internscout.org/internships/at/akunacapital/) | Quantitative Development & Strategy Intern, Summer 2027 | Chicago, IL | \$145,000 | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
-| [Akunacapital](https://internscout.org/internships/at/akunacapital/) | Quantitative Research Intern, Summer 2027 | Chicago, IL | \$145,000 | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
+| Akunacapital | Quantitative Development & Strategy Intern, Summer 2027 | Chicago, IL | \$145,000 | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
+| Akunacapital | Quantitative Research Intern, Summer 2027 | Chicago, IL | \$145,000 | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
 | [Jump Trading](https://internscout.org/internships/at/jump-trading/) | Quantitative Trader Intern | Chicago, IL +1 |  | Jul 9 | [Apply](https://go.vansh.nyc/3k) |
 | [Jump Trading](https://internscout.org/internships/at/jump-trading/) | Campus Quantitative Researcher, PhD (Intern) | Chicago +3 | \$300,000 per year | Jul 8 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8049938) |
 | Flowtraders | Quantitative Trading Intern Summer 2027 | New York +1 | \$150,000 | Jul 8 | [Apply](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) |

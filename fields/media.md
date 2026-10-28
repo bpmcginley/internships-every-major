@@ -1,6 +1,6 @@
 # Media: Summer 2027 Internships
 
-30 open Summer 2027 media roles, newest first (all 30). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 124 media internships on InternScout](https://internscout.org/internships/media/)
+29 open Summer 2027 media roles, newest first (all 29). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 120 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -33,7 +33,6 @@
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Creative Design (Interior/Exterior) | Warren, Michigan, United States of America +1 | \$6,100 month | Sep 19 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Creative-Design--Interior-Exterior-_JR-202619314) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Video Editing Internship Summer 2027 | Centennial, CO |  | Sep 18 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Video-Editing-Internship-Summer-2027-CO-80112/1427399000/) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Video Production Intern, Summer 2027 | North Andover, MA | \$21-23 per hour | Sep 18 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Video-Production-Intern--Summer-2027_10017537) |
-| [URBN](https://internscout.org/internships/at/urbn/) | Urban Outfitters Creative Studio Intern | Philadelphia, PA | Paid | Sep 18 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/30499/urban-outfitters-creative-studio-intern/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

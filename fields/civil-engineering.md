@@ -1,6 +1,6 @@
 # Civil Engineering: Summer 2027 Internships
 
-326 open Summer 2027 civil engineering roles, newest first (the 200 newest of 326). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 722 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+327 open Summer 2027 civil engineering roles, newest first (the 200 newest of 327). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 722 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -197,13 +197,13 @@
 | [Tighe & Bond](https://internscout.org/internships/at/tighe-bond/) | Structural Bridge Design Internship - Summer 2027 | Westwood, MA | \$21.00 | Sep 14 | [Apply](https://careers-tighebond.icims.com/jobs/1886/structural-bridge-design-internship---summer-2027/job) |
 | [Tighe & Bond](https://internscout.org/internships/at/tighe-bond/) | Traffic / Transportation Engineering Internship - Roadway - Summer 2027 | Westfield, MA | \$21.00 | Sep 14 | [Apply](https://careers-tighebond.icims.com/jobs/1888/traffic---transportation-engineering-internship---roadway---summer-2027/job) |
 | [Tighe & Bond](https://internscout.org/internships/at/tighe-bond/) | Transportation/ Traffic Engineering Internship - Summer 2027 | Westwood, MA | \$21.00 | Sep 14 | [Apply](https://careers-tighebond.icims.com/jobs/1891/transportation--traffic-engineering-internship---summer-2027/job) |
+| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Construction Project Management Intern (Warrendale, PA) | Warrendale, Pennsylvania |  | Sep 11 | [Apply](https://jobs.constellationenergy.com/jobs/138762) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Transportation Engineering Intern (Summer 2027!) | Indianapolis, Indiana | \$38.20 | Sep 11 | [Apply](https://careers.cdmsmith.com/jobs/4475) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Transportation Engineering Intern (Summer 2027!) | Lansing, Michigan | \$38.20 | Sep 11 | [Apply](https://careers.cdmsmith.com/jobs/4476) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Civil Engineering Intern, Summer 2027 (Bridge, Roadway, Drainage) | Salt Lake City, UT |  | Sep 11 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309882) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Construction Intern (Summer 2027!) | Concord, California | \$45.84 | Sep 11 | [Apply](https://careers.cdmsmith.com/jobs/4480) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Civil Engineering Intern, Rotational Program - Summer 2027 | Harrisburg, PA |  | Sep 10 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309851) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Civil Engineering Intern | Milwaukee, Wisconsin | \$20.00 | Sep 9 | [Apply](https://careers.trccompanies.com/jobs/26751) |
-| [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Civil Engineering Intern | Madison, Wisconsin | \$20.00 | Sep 9 | [Apply](https://careers.trccompanies.com/jobs/26735) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

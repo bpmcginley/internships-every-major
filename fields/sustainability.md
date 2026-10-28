@@ -1,6 +1,6 @@
 # Sustainability: Summer 2027 Internships
 
-95 open Summer 2027 sustainability roles, newest first (all 95). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 146 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+95 open Summer 2027 sustainability roles, newest first (all 95). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 147 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

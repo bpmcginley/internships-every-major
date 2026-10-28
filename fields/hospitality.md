@@ -1,10 +1,11 @@
 # Hospitality: Summer 2027 Internships
 
-26 open Summer 2027 hospitality roles, newest first (all 26). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 111 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
+27 open Summer 2027 hospitality roles, newest first (all 27). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 110 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Biomechanics | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Biomechanics-MD-21230/1434382000/) |
+| [westernalliancebank](https://internscout.org/internships/at/westernalliancebank/) | Summer 2027 Internship - Phoenix, AZ - Resort Finance | Phoenix, AZ |  | Oct 28 | [Apply](https://westernalliancebank.wd5.myworkdayjobs.com/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Resort-Finance_R13961) |
+| [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Resort Finance | Phoenix, AZ |  | Oct 28 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Resort-Finance_R13961) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Product Line Management | Baltimore, MD | \$23 per hour | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Product-Line-Management-MD-21230/1434387800/) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Food & Events Intern - Summer 2027 | Dallas, TX, United States |  | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466385009) |
 | Nasdaq | MarketSite Events Intern - 2027 Summer Internship | USA - New York City - New York |  | Oct 26 | [Apply](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/MarketSite-Events-Intern---2027-Summer-Internship_R0027147) |

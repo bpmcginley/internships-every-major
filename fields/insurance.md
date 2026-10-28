@@ -1,9 +1,10 @@
 # Insurance: Summer 2027 Internships
 
-117 open Summer 2027 insurance roles, newest first (all 117). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 236 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+118 open Summer 2027 insurance roles, newest first (all 118). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 237 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Revantage Corporate Services | Insurance Technology & AI Analytics Intern, Summer 2027 | Chicago, IL +1 | \$25.00 To \$30.00 Hour | Oct 28 | [Apply](https://revantage.wd1.myworkdayjobs.com/Revantage/job/Chicago-IL/Insurance-Technology---AI-Analytics-Intern--Summer-2027_JR104539) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Actuarial Services Intern | Florida - Deerfield Beach |  | Oct 27 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Actuarial-Services-Intern_JR105151) |
 | [Sun Life](https://internscout.org/internships/at/sun-life/) | Underwriting Intern - Summer 2027 | Wellesley Hills, Massachusetts +3 |  | Oct 27 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Wellesley-Hills-Massachusetts/Underwriting-Intern---Summer-2027_JR00128579) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Underwriting Intern Undergraduate Intern | PA, Working at Home - Pennsylvania +49 | Paid | Oct 26 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Underwriting-Intern-Undergraduate-Intern_J287373-1) |
