@@ -1,6 +1,6 @@
 # Psychology: Summer 2027 Internships
 
-6 open Summer 2027 psychology roles, newest first (all 6). **Updated October 27, 2026.** [Back to every major](../README.md) · [See all 44 psychology internships on InternScout](https://internscout.org/internships/psychology/)
+6 open Summer 2027 psychology roles, newest first (all 6). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 44 psychology internships on InternScout](https://internscout.org/internships/psychology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
