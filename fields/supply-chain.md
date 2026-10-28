@@ -1,6 +1,6 @@
 # Supply Chain: Summer 2027 Internships
 
-226 open Summer 2027 supply chain roles, newest first (the 200 newest of 226). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 518 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
+225 open Summer 2027 supply chain roles, newest first (the 200 newest of 225). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 522 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -64,7 +64,6 @@
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Supply Chain Management Intern | Sparks, Nevada |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51645) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Procurement Intern - Infrastructure Solutions (Summer 2027) | Greenville, SC +1 |  | Oct 9 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279203) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Supply Chain, Purchasing, Procurement and Logistics - Summer 2027 Internships | Normal, Illinois | \$24-\$51.00 per hour | Oct 9 | [Apply](https://careers.rivian.com/jobs/34297) |
-| [Medline](https://internscout.org/internships/at/medline/) | MBA Intern, Inventory Management - Summer 2027 | Northbrook, Illinois | \$92,000.00 - \$138,000.00 | Oct 9 | [Apply](https://medline.wd5.myworkdayjobs.com/Medline/job/Northbrook-Illinois/MBA-Intern--Inventory-Management---Summer-2027_R2618177) |
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Operations & Supply Chain Intern - Summer 2027 | Erie, PA |  | Oct 8 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Operations---Supply-Chain-Intern---Summer-2027_REQ-020114) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Inbound Logistics Intern - Summer 2027 - Smyrna, TN | Smyrna, Tennessee - United States of America |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Inbound-Logistics-Intern---Summer-2027---Smyrna--TN_R00214295) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Purchasing Strategy Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Purchasing-Strategy-Intern---Summer-2027---Franklin--TN_R00214277) |
@@ -204,6 +203,7 @@
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Supply Chain - Michigan | Portage, Michigan |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Supply-Chain---Michigan_R572585) |
 | [Church & Dwight](https://internscout.org/internships/at/church-dwight/) | 2027 Undergraduate Global Supply Chain Co-Op | Ewing, NJ |  | Sep 18 | [Apply](https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/XMLNAME-2027-Undergraduate-Global-Supply-Chain-Co-Op_R2026-15617) |
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | UPS Supply Chain Solutions 2027 Summer Intern | US - UPS CORPORATE OFFICES (GACOR) |  | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Supply-Chain-Solutions-2027-Summer-Intern_R26030498) |
+| [Ingredion](https://internscout.org/internships/at/ingredion/) | Global Supply Chain Data Science Intern | Westchester, IL | \$20-23hour | Sep 18 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Supply-Chain-Data-Science-Intern_Req-40226-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

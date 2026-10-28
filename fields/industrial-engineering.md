@@ -1,10 +1,13 @@
 # Industrial Engineering: Summer 2027 Internships
 
-277 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 277). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 733 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+279 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 279). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 744 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Allegion](https://internscout.org/internships/at/allegion/) | Software Systems Engineering Intern | Golden, CO |  | Oct 28 | [Apply](https://go.vansh.nyc/Xv) |
+| [Moog](https://internscout.org/internships/at/moog/) | Intern, Systems Engineering | Buffalo, NY | \$25.00–\$31.00 Hour | Oct 28 | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Systems-Engineering_R-26-20918) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Industrial Engineering Co-Op (Summer/Fall 2027) | Coralville, IA |  | Oct 28 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CORALVILLE-155--2855-Heartland-Dr--HEARTLAND-BLDG-155/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01885604) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Industrial Engineering Intern (Summer 2027) | Coralville, IA |  | Oct 28 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CORALVILLE-155--2855-Heartland-Dr--HEARTLAND-BLDG-155/Industrial-Engineering-Intern--Summer-2027-_01885606) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Supply Chain and Logistics Intern - Corporate - Summer 2027 | RI - Woonsocket | \$26 per hour | Oct 28 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Supply-Chain-and-Logistics-Intern---Corporate---Summer-2027_R1033221) |
 | [Shield AI](https://internscout.org/internships/at/shield-ai/) | Summer 2027 - Advanced Manufacturing Engineering Intern | Dallas, Texas |  | Oct 27 | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/043c739e-ff80-4faa-b2be-5d1e96768dfa/application) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Industrial Engineering Intern - Summer 2027 - Canton, MS | Canton, Mississippi - United States of America |  | Oct 27 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Canton-Mississippi---United-States-of-America/Industrial-Engineering-Intern---Summer-2027---Canton--MS_R00214256) |
@@ -201,9 +204,6 @@
 | James Hardie Building Products | Manufacturing Engineering Intern - Ultralox | Eagan, MN | \$20 to \$25 per hour | Oct 27 | [Apply](https://www.indeed.com/viewjob?jk=aeae80524fd8d6e7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Supply Chain Intern (Summer 2027) | Milwaukee, WI |  | Oct 24 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Supply-Chain-Intern--Summer-2027-_REQ-020166) |
 | [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Supply Chain (Summer 2027) | Buffalo Grove, IL | \$22 - \$24/hr | Oct 24 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Buffalo-Grove-IL/Intern---Supply-Chain--Summer-2027-_R041055) |
-| [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | 2027 Industrial Engineering Summer Intern - Salt Lake City, UT | US - UTAH REGIONAL HUB (UTLKE) |  | Oct 24 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UTAH-REGIONAL-HUB-UTLKE/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Salt-Lake-City--UT_R26030699) |
-| [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | 2027 Industrial Engineering Summer Intern - Portland, OR | US - PORTLAND HUB (ORPOR) |  | Oct 24 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---PORTLAND-HUB-ORPOR/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Portland--OR_R26030709) |
-| [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Continuous Improvement Intern (Summer 2027) | Lumberton, NC |  | Oct 24 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Lumberton-NC/Continuous-Improvement-Intern--Summer-2027-_REQ-020172) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

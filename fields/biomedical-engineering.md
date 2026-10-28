@@ -1,6 +1,6 @@
 # Biomedical Engineering: Summer 2027 Internships
 
-5 open Summer 2027 biomedical engineering roles, newest first (all 5). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 13 biomedical engineering internships on InternScout](https://internscout.org/internships/biomedical-engineering/)
+5 open Summer 2027 biomedical engineering roles, newest first (all 5). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 12 biomedical engineering internships on InternScout](https://internscout.org/internships/biomedical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

@@ -1,9 +1,11 @@
 # Accounting: Summer 2027 Internships
 
-237 open Summer 2027 accounting roles, newest first (the 200 newest of 237). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 564 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+239 open Summer 2027 accounting roles, newest first (the 200 newest of 239). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 566 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [RSM](https://internscout.org/internships/at/rsm/) | Excise and Energy Credits Tax Intern - Summer 2027 | San Diego | \$36 - \$43 per hour | Oct 28 | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/San-Diego/Excise-and-Energy-Credits-Tax-Intern---Summer-2027_JR121137) |
+| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Internal Audit Intern | Atlanta, GA |  | Oct 28 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Internal-Audit-Intern_R-0000033892) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Finance, Accounting, Tax & Treasury | SLEEPY HOLLOW +1 | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/SLEEPY-HOLLOW/XMLNAME-2027-Summer-Intern-Finance--Accounting--Tax---Treasury_R52575-1) |
 | Intact | Accounting Intern- 4-month Internship/Coop (Summer 2027) | Montréal, Quebec, CAN | Paid | Oct 28 | [Apply](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Accounting-Intern--4-month-Internship-Coop--Summer-2027-_R156395) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Rochester - Tax - Intern - Summer 2027 | NY-Rochester | \$29.25 - \$48.00 | Oct 28 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/NY-Rochester/Rochester---Tax-CPA---Intern---Summer-2027_756471WD) |
@@ -202,8 +204,6 @@
 | [Cushman & Wakefield](https://internscout.org/internships/at/cushman-wakefield/) | EIC 2027 Summer Intern, Client Accounting, St. Louis | Saint Louis, Missouri, USA | \$17.85 - \$21.00 | Sep 25 | [Apply](https://cw.wd1.myworkdayjobs.com/external/job/Saint-Louis-Missouri-USA/EIC-2027-Summer-Intern--Client-Accounting--St-Louis_R333460) |
 | [CareBridge](https://internscout.org/internships/at/carebridge/) | Internal Audit Intern - Summer 2027 | FL-TAMPA, 5411 SKYCENTER DR, STE 700 & 800 |  | Sep 24 | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-TAMPA-5411-SKYCENTER-DR-STE-700--800/Internal-Audit-Intern---Summer-2027_JR208344) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | University, Summer 2027 - Accounting Intern | McLean, VA |  | Sep 22 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--Summer-2027---Accounting-Intern_R0250271) |
-| [Marsh](https://internscout.org/internships/at/marsh/) | Summer Intern, Rising Talent in Finance (RTiF) Internal Audit- New York, 2027 | New York - 1166 | Paid | Sep 21 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Summer-Intern--Rising-Talent-in-Finance--RTiF--Internal-Audit--New-York--2027_R_366589) |
-| [AltaGas](https://internscout.org/internships/at/altagas/) | WGL - 2027 Finance & Accounting Intern | Washington, DC +1 | \$27 per hour | Sep 18 | [Apply](https://wgl.wd5.myworkdayjobs.com/altagas/job/Washington-DC/WGL---2027-Finance---Accounting-Intern_R7255) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

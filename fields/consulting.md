@@ -1,6 +1,6 @@
 # Consulting: Summer 2027 Internships
 
-131 open Summer 2027 consulting roles, newest first (all 131). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 282 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+131 open Summer 2027 consulting roles, newest first (all 131). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 281 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -102,8 +102,8 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Client Solutions Intern - Global Business Solutions | NYC +2 |  | Aug 24 | [Apply](https://lifeattiktok.com/search/7677467375486765317) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams | San Jose, CA |  | Aug 11 | [Apply](https://lifeattiktok.com/search/7670529537944766773) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Backend Software Engineer Intern - LIVE Foundation Governance Engineering | San Jose, CA |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7667935150530840837) |
-| [Akuna Capital](https://internscout.org/internships/at/akuna-capital/) | Quantitative Development & Strategy Intern | Chicago |  | Jul 24 | [Apply](https://go.vansh.nyc/4y) |
-| [Akuna Capital University](https://internscout.org/internships/at/akuna-capital-university/) | Quantitative Development & Strategy Intern | Chicago, IL |  | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
+| Akuna Capital | Quantitative Development & Strategy Intern | Chicago |  | Jul 24 | [Apply](https://go.vansh.nyc/4y) |
+| Akuna Capital University | Quantitative Development & Strategy Intern | Chicago, IL |  | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
 | Akunacapital | Quantitative Development & Strategy Intern, Summer 2027 | Chicago, IL | \$145,000 | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Medicaid Policy | Portland, ME | \$30 per hour | Oct 28, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3977/summer-2027-consulting-internship---medicaid-policy/job) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Medicaid | Portland, ME | \$30 per hour | Oct 28, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3975/summer-2027-consulting-internship---medicaid/job) |

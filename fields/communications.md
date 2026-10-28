@@ -1,6 +1,6 @@
 # Communications: Summer 2027 Internships
 
-59 open Summer 2027 communications roles, newest first (all 59). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 195 communications internships on InternScout](https://internscout.org/internships/communications/)
+58 open Summer 2027 communications roles, newest first (all 58). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 194 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -20,7 +20,6 @@
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Summer 2027 Internships - Marketing, Public Relations/Communications, Accounting, or Information Technology | Detroit, MI |  | Oct 22 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Summer-2027-Internships---Marketing--Accounting--or-Information-Technology_R-085042-1) |
 | STR | Graphic Design & Technical Communications Intern - Summer 2027 | Woburn, MA | \$25.20-\$54.00/hour | Oct 20 | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723386006) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Applied Research Intern, Integrated Sensing and Communications (ISAC)-NVIDIA Aerial - Summer 2027 | US, CA +2 |  | Oct 20 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--Integrated-Sensing-and-Communications--ISAC--NVIDIA-Aerial---Summer-2027_JR2028027) |
-| [Emergent Holdings](https://internscout.org/internships/at/emergent-holdings/) | Summer 2027 Intern - MA Communications Quality and Vendor Oversight | Detroit, MI |  | Oct 20 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15005) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Marketing Communications Intern | Kirkland, WA | Paid | Oct 20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Marketing-Communications-Intern-WA-98033/1449526133/) |
 | [Ursa Major](https://internscout.org/internships/at/ursa-major/) | 2027 Summer Marketing & Communications Intern | Berthoud, Colorado |  | Oct 19 | [Apply](https://ursamajor.com/careers/?gh_jid=4744833005) |
 | [Ricoh](https://internscout.org/internships/at/ricoh/) | Software Engineer Intern, Graphic Communications | Boulder, CO |  | Oct 19 | [Apply](https://go.vansh.nyc/Vl) |

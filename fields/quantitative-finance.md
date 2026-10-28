@@ -81,8 +81,8 @@
 | [DRW](https://internscout.org/internships/at/drw/) | Quantitative Research Intern | Chicago, IL +1 |  | Jul 31 | [Apply](https://go.vansh.nyc/5q) |
 | Chicago Trading Company | Quant Trading Intern | Chicago, IL |  | Jul 27 | [Apply](https://go.vansh.nyc/5a) |
 | Stevens Capital Management | Quantitative Research Analyst Internship | Radnor, PA |  | Jul 27 | [Apply](https://go.vansh.nyc/4V) |
-| [Akuna Capital](https://internscout.org/internships/at/akuna-capital/) | Quantitative Research Intern | Chicago |  | Jul 24 | [Apply](https://go.vansh.nyc/4z) |
-| [Akuna Capital](https://internscout.org/internships/at/akuna-capital/) | Quantitative Development & Strategy Intern | Chicago |  | Jul 24 | [Apply](https://go.vansh.nyc/4y) |
+| Akuna Capital | Quantitative Research Intern | Chicago |  | Jul 24 | [Apply](https://go.vansh.nyc/4z) |
+| Akuna Capital | Quantitative Development & Strategy Intern | Chicago |  | Jul 24 | [Apply](https://go.vansh.nyc/4y) |
 | [Jane Street](https://internscout.org/internships/at/jane-street/) | Trading Desk Operations Engineer Intern | New York, NY |  | Jul 24 | [Apply](https://go.vansh.nyc/49) |
 | [Jane Street](https://internscout.org/internships/at/jane-street/) | Sales and Trading Intern | New York, NY |  | Jul 24 | [Apply](https://go.vansh.nyc/47) |
 | [Jane Street](https://internscout.org/internships/at/jane-street/) | Quantitative Researcher Intern | New York, NY |  | Jul 24 | [Apply](https://go.vansh.nyc/3Y) |
@@ -93,8 +93,8 @@
 | [Virtu](https://internscout.org/internships/at/virtu/) | 2027 Internship - Quantitative Trading | Austin, TX +5 | \$5,000 - \$5,800 week | Jul 21 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624408002) |
 | Five Rings | Summer Intern 2027 - Quantitative Researcher (PhD) | New York +1 | \$300,000 | Jul 14 | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) |
 | Five Rings | Summer Intern 2027 - Quantitative Trader | New York +1 | \$300,000 | Jul 14 | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) |
-| [Akuna Capital University](https://internscout.org/internships/at/akuna-capital-university/) | Quantitative Development & Strategy Intern | Chicago, IL |  | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
-| [Akuna Capital University](https://internscout.org/internships/at/akuna-capital-university/) | Quantitative Research Intern | Chicago, IL |  | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
+| Akuna Capital University | Quantitative Development & Strategy Intern | Chicago, IL |  | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
+| Akuna Capital University | Quantitative Research Intern | Chicago, IL |  | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
 | Akunacapital | Quantitative Development & Strategy Intern, Summer 2027 | Chicago, IL | \$145,000 | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
 | Akunacapital | Quantitative Research Intern, Summer 2027 | Chicago, IL | \$145,000 | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
 | [Jump Trading](https://internscout.org/internships/at/jump-trading/) | Quantitative Trader Intern | Chicago, IL +1 |  | Jul 9 | [Apply](https://go.vansh.nyc/3k) |

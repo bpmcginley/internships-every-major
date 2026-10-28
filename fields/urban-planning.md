@@ -1,6 +1,6 @@
 # Urban Planning: Summer 2027 Internships
 
-53 open Summer 2027 urban planning roles, newest first (all 53). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 115 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+54 open Summer 2027 urban planning roles, newest first (all 54). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 118 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Life Fitness](https://internscout.org/internships/at/life-fitness/) | Transportation Planning Intern | Rosemont, IL | \$19.00 - \$23.00 per hour | Sep 30 | [Apply](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Transportation-Planning-Intern_JR-025257-1) |
 | [Freese and Nichols](https://internscout.org/internships/at/freese-and-nichols/) | Summer 2027 Internships - GIS | Houston, Texas |  | Sep 30 | [Apply](https://freese.wd1.myworkdayjobs.com/Freese_Nichols_External/job/Houston-Texas/Summer-2027-Internships---GIS_JR103911) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | GIS Intern | Lakewood, Colorado +6 | \$20.00 | Sep 25 | [Apply](https://careers.trccompanies.com/jobs/26961) |
+| [Aurora Innovation](https://internscout.org/internships/at/aurora-innovation/) | Behavior and Planning Intern - ML Research | SF +2 |  | Sep 24 | [Apply](https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4/application?embed=true) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Internship - Community Development (Summer 2027) | Des Moines, IA |  | Sep 24 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007994) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Co-op Student - Community Development (Summer 2027) – 16 Month Term | Calgary, AB, Canada |  | Sep 24 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007907) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Planning Intern | Milwaukee, WI +1 |  | Sep 24 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309938) |

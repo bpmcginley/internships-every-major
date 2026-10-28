@@ -1,9 +1,10 @@
 # Law and Legal: Summer 2027 Internships
 
-131 open Summer 2027 law and legal roles, newest first (all 131). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 285 law and legal internships on InternScout](https://internscout.org/internships/law/)
+132 open Summer 2027 law and legal roles, newest first (all 132). **Updated October 28, 2026.** [Back to every major](../README.md) · [See all 287 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [The Andersons](https://internscout.org/internships/at/the-andersons/) | Legal Intern (Summer 2027) | Maumee, OH |  | Oct 28 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Legal-Intern--Summer-2027-_R12494) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Regulatory Affairs & Operations | TARRYTOWN +1 | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Regulatory-Affairs---Operations_R52565-1) |
 | [Uline](https://internscout.org/internships/at/uline/) | International Trade Compliance Internship - Summer 2027 | Pleasant Prairie, WI +4 | Paid | Oct 28 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/International-Trade-Compliance-Internship---Summer-2027_R268695) |
 | [Formlabs](https://internscout.org/internships/at/formlabs/) | Legal Intern (Summer 2027) | Somerville, MA | \$1,550 | Oct 27 | [Apply](https://careers.formlabs.com/job/8319490/apply/?gh_jid=8319490) |
