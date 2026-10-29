@@ -1,9 +1,10 @@
 # Journalism: Summer 2027 Internships
 
-22 open Summer 2027 journalism roles, newest first (all 22). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 86 journalism internships on InternScout](https://internscout.org/internships/journalism/)
+23 open Summer 2027 journalism roles, newest first (all 23). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 87 journalism internships on InternScout](https://internscout.org/internships/journalism/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Hearst](https://internscout.org/internships/at/hearst/) | Breaking News Intern - Summer 2027 | Houston, TX, United States | Paid | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466393009) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Local News Intern - Summer 2027 | Dallas, TX, United States |  | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466388009) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Intern - Marketing, Communications, Journalism Majors | Chicago, IL | \$20 to \$33, | Oct 1 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern---Marketing--Communications--Journalism-Majors_R-0000033618-1) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX News Media Internship Program - New York | New York, New York, USA | \$20.00 per hour | Oct 1 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---New-York_R50033989) |

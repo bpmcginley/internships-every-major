@@ -1,9 +1,11 @@
 # Urban Planning: Summer 2027 Internships
 
-52 open Summer 2027 urban planning roles, newest first (all 52). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 115 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+54 open Summer 2027 urban planning roles, newest first (all 54). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 117 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [WSP](https://internscout.org/internships/at/wsp/) | Transportation Planning Intern - Summer 2027 | Atlanta, GA |  | Oct 29 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98361) |
+| [Jabil](https://internscout.org/internships/at/jabil/) | Production Planning Intern (Part-Time) | St. Petersburg/Tampa, FL |  | Oct 29 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Production-Planning-Intern--Part-Time-_J2468448) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Summer 2027 Urban Planning/Development Intern | Detroit, MI |  | Oct 28 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Summer-2027-Urban-Planning-Development-Intern_R-085098) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Internship - Community Development (Summer 2027) | Minneapolis, MN +1 |  | Oct 27 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008526) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Community Development (Summer 2027) | Pasadena, CA |  | Oct 27 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008346) |

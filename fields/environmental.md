@@ -1,9 +1,10 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-215 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 215). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 478 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+216 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 216). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 482 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [WSP](https://internscout.org/internships/at/wsp/) | Geologist/Hydrogeologist Intern - Summer 2027 | Richmond, VA |  | Oct 29 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98480) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Water Resources Engineering Intern - Summer 2027 | Brentwood, TN +2 |  | Oct 28 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98392) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Water Resources Intern – Water (Summer 2027) | Ann Arbor, MI |  | Oct 28 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007525) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Environmental/Fire Science (Irwindale) | Irwindale, CA |  | Oct 28 | [Apply](https://apply.edisoncareers.com/job/Irwindale-2027-Summer-Internship-EnvironmentalFire-Science-%28Irwindale%29-CA-91702/1425203900/) |
@@ -203,7 +204,6 @@
 | [GE Aerospace](https://internscout.org/internships/at/ge-aerospace/) | Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 | Durham +6 | \$20/hour | Sep 19 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Environmental-Health-Safety--Facilities----Maintenance-Intern---US---Summer-2027_R5029661) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Environmental Intern (Summer 2027) | USA - New York - Malta | \$20.00 - \$40.00 | Sep 18 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Environmental-Intern--Summer-2027-_JR-2604241) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | Health, Safety, and Environment Intern – Elwood, Kansas (Summer 2027) | Elwood, KS |  | Sep 18 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Elwood-KS/Health--Safety--and-Environment-Intern---Elwood--Kansas--Summer-2027-_R0026900) |
-| [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Climate Sustainability Internship Masters/MBA Intern | USA-Illinois-Chicago | Paid | Sep 18 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Illinois-Chicago/Summer-2027-Mars-Climate-Sustainability-Internship-Masters-MBA-Intern_R162093-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

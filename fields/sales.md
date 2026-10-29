@@ -1,9 +1,10 @@
 # Sales: Summer 2027 Internships
 
-315 open Summer 2027 sales roles, newest first (the 200 newest of 315). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 584 sales internships on InternScout](https://internscout.org/internships/sales/)
+313 open Summer 2027 sales roles, newest first (the 200 newest of 313). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 585 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [JM Family](https://internscout.org/internships/at/jm-family/) | Fixed Sales Solutions Intern | Florida - Deerfield Beach |  | Oct 29 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Fixed-Sales-Solutions-Intern_JR105128) |
 | [Uline](https://internscout.org/internships/at/uline/) | Outside Sales Internship - Summer 2027 | Seattle, WA +2 | \$22 per hour | Oct 29 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Seattle-WA/Outside-Sales-Internship---Summer-2027_R268760) |
 | [Uline](https://internscout.org/internships/at/uline/) | Sales Analyst Internship - Summer 2027 | Pleasant Prairie, WI +4 | Paid | Oct 29 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Sales-Analyst-Internship---Summer-2027_R268774) |
 | [Uline](https://internscout.org/internships/at/uline/) | Outside Sales Internship - Summer 2027 | Portland, OR +2 | \$22 per hour | Oct 29 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Portland-OR/Outside-Sales-Internship---Summer-2027_R268759) |
@@ -18,7 +19,6 @@
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | Summer 2027 Sales Engineering Internship | Falls Church, VA |  | Oct 28 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Sales-Engineering-Internship_RQ230955) |
 | [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | Commercial Sales Operations Intern - Summer 2027 | Atlanta, GA, USA |  | Oct 28 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Commercial-Sales-Operations-Intern---Summer-2027_R26_0000035643) |
 | [Q2](https://internscout.org/internships/at/q2/) | 2027 Summer Internship - Sales/Customer Success | Austin, Texas |  | Oct 28 | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Sales-Customer-Success_REQ-12905) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Team Sports/Sales | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Team-SportsSales-MD-21230/1434355500/) |
 | HD Supply | Sales Operations Intern - Summer 2027 | Atlanta-GA-US |  | Oct 27 | [Apply](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Sales-Operations-Intern---Summer-2027_R26004269) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Sales Reporting & Analysis Intern | Florida - Deerfield Beach +1 |  | Oct 27 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Sales-Reporting---Analysis-Intern_JR105145) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Intern - Sales Over 1000 | Detroit, MI +1 |  | Oct 27 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15035) |

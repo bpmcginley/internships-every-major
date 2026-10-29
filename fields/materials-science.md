@@ -1,9 +1,10 @@
 # Materials Science: Summer 2027 Internships
 
-18 open Summer 2027 materials science roles, newest first (all 18). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 40 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
+19 open Summer 2027 materials science roles, newest first (all 19). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 41 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Polymer R&D Summer Internship- Marengo, IL | Marengo, IL |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627494) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | R&D GSC Materials Science Internship- Brecksville, OH | Brecksville, OH |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627598) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | R&D GSC Polymer Internship- Brecksville, OH | Brecksville, OH |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627577) |
 | [Commonwealth Fusion Systems](https://internscout.org/internships/at/commonwealth-fusion-systems/) | Intern - Materials Test Engineer - Summer 2027 | Devens, MA | Paid | Oct 22 | [Apply](https://jobs.lever.co/cfsenergy/da8cc185-70d0-4a8e-b484-9866c71b593e/apply) |

@@ -1,9 +1,12 @@
 # Civil Engineering: Summer 2027 Internships
 
-331 open Summer 2027 civil engineering roles, newest first (the 200 newest of 331). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 716 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+332 open Summer 2027 civil engineering roles, newest first (the 200 newest of 332). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 716 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [RTX](https://internscout.org/internships/at/rtx/) | Mechanical - Structural/Thermal Engineering Intern (Summer 2027) | Tucson, AZ |  | Oct 29 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical---Structural-Thermal-Engineering-Intern--Summer-2027-_01882958) |
+| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Structural Engineering Intern (Bridge Design, Summer 2027!) | Latham, New York | \$43.93 | Oct 29 | [Apply](https://careers.cdmsmith.com/jobs/4888) |
+| [STV](https://internscout.org/internships/at/stv/) | Civil Engineering Intern - Summer 2027 | Newark, New Jersey | \$52,526.00 - \$59,689.00 | Oct 29 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Newark-New-Jersey/Civil-Engineering-Intern---Summer-2027_JR6284) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering Intern- Summer 2027 | Lawrenceville, NJ +3 | Paid | Oct 28 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98469) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering (Transmission) Intern - Summer 2027 | Portland, OR |  | Oct 28 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98453) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Structural Engineering Intern- Summer 2027 | Houston, TX |  | Oct 28 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98461) |
@@ -96,7 +99,6 @@
 | [WSP](https://internscout.org/internships/at/wsp/) | Geotechnical Engineering Intern - Summer 2027 | Atlanta, GA |  | Oct 9 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97273) |
 | [STV](https://internscout.org/internships/at/stv/) | Civil Engineering Intern - Summer 2027 | Franklin, Tennessee |  | Oct 8 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Franklin-Tennessee/Civil-Engineering-Intern---Summer-2027_JR6001-1) |
 | [STV](https://internscout.org/internships/at/stv/) | Civil Engineering Intern - Summer 2027 | Briarcrest Drive, Bryan, Texas | \$47,959.00 - \$54,498.00 | Oct 8 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Briarcrest-Drive-Bryan-Texas/Civil-Engineering-Intern---Summer-2027_JR6349-1) |
-| [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Facilities Engineering and Commissioning | Wilmer 2 DC3 (DFW2DC3), TX |  | Oct 8 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-TX-Wilmer-2-DC3-DFW2DC3/Summer-2027-Internship--Facilities-Engineering-and-Commissioning_R2026-1971) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil/Transportation Engineering Intern - Infrastructure (Summer 2027) | Charleston, SC +1 |  | Oct 8 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008210) |
 | [Woolpert](https://internscout.org/internships/at/woolpert/) | Construction Management Internship (Summer 2027) | Dayton, OH +5 |  | Oct 7 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4426432009) |
 | [Woolpert](https://internscout.org/internships/at/woolpert/) | Site Civil/ Energy Internship (Summer 2027) | Columbus, OH |  | Oct 7 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4426119009) |
@@ -193,7 +195,6 @@
 | [Stantec](https://internscout.org/internships/at/stantec/) | Transportation Engineering Intern - Infrastructure (Summer 2027) | Plano, TX |  | Sep 15 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007776) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Civil Engineering Intern, Summer 2027 | Houston, TX +4 |  | Sep 15 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309887) |
 | [Tighe & Bond](https://internscout.org/internships/at/tighe-bond/) | Transportation/ Traffic Engineering Internship - Summer 2027 | Middletown, CT | \$21.00 | Sep 14 | [Apply](https://careers-tighebond.icims.com/jobs/1889/transportation--traffic-engineering-internship---summer-2027/job) |
-| [Tighe & Bond](https://internscout.org/internships/at/tighe-bond/) | Structural Bridge Design Internship - Summer 2027 | Westwood, MA | \$21.00 | Sep 14 | [Apply](https://careers-tighebond.icims.com/jobs/1886/structural-bridge-design-internship---summer-2027/job) |
 | [Tighe & Bond](https://internscout.org/internships/at/tighe-bond/) | Traffic / Transportation Engineering Internship - Roadway - Summer 2027 | Westfield, MA | \$21.00 | Sep 14 | [Apply](https://careers-tighebond.icims.com/jobs/1888/traffic---transportation-engineering-internship---roadway---summer-2027/job) |
 | [Tighe & Bond](https://internscout.org/internships/at/tighe-bond/) | Transportation/ Traffic Engineering Internship - Summer 2027 | Westwood, MA | \$21.00 | Sep 14 | [Apply](https://careers-tighebond.icims.com/jobs/1891/transportation--traffic-engineering-internship---summer-2027/job) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Construction Project Management Intern (Warrendale, PA) | Warrendale, Pennsylvania |  | Sep 11 | [Apply](https://jobs.constellationenergy.com/jobs/138762) |
@@ -203,7 +204,6 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Construction Intern (Summer 2027!) | Concord, California | \$45.84 | Sep 11 | [Apply](https://careers.cdmsmith.com/jobs/4480) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Civil Engineering Intern, Rotational Program - Summer 2027 | Harrisburg, PA |  | Sep 10 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309851) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Civil Engineering Intern | Milwaukee, Wisconsin | \$20.00 | Sep 9 | [Apply](https://careers.trccompanies.com/jobs/26751) |
-| [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Civil Engineering Intern | Madison, Wisconsin | \$20.00 | Sep 9 | [Apply](https://careers.trccompanies.com/jobs/26735) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

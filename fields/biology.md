@@ -1,6 +1,6 @@
 # Biology: Summer 2027 Internships
 
-25 open Summer 2027 biology roles, newest first (all 25). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 765 biology internships on InternScout](https://internscout.org/internships/biology/)
+24 open Summer 2027 biology roles, newest first (all 24). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 753 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -13,7 +13,6 @@
 | [AstraZeneca](https://internscout.org/internships/at/astrazeneca/) | 2027 Summer In Vitro Oncology Intern, Biologics Innovation | US - Cambridge Kendall SQ - MA | Paid | Oct 27 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/XMLNAME-2027-Summer-In-Vitro-Oncology-Intern--Biologics-Innovation_R-262930) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Global Regulatory Sciences Biopharmaceutical Sector Internship Summer 2027 | Princeton - NJ - US +1 |  | Oct 27 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Global-Regulatory-Sciences-Biopharmaceutical-Sector-Internship-Summer-2027_R1607871) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | R&D GSC Microbiology Resource Center Internship- Brecksville, OH | Brecksville, OH |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627508) |
-| [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | TDS CGT-Viral Vector Development Co-Op | Malvern, Pennsylvania, United States of America +2 | \$23.50 hr | Oct 26 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-CGT-Viral-Vector-Development-Co-Op_R-104407) |
 | [Cleveland Clinic](https://internscout.org/internships/at/cleveland-clinic/) | Pharmacy Intern - Summer 2027 Internship | Fairview Hospital, OH |  | Oct 23 | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Pharmacy-Intern---Summer-2027-Internship_344656) |
 | [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program - Pharmacokinetic, Dynamics, Metabolism and Bioanalytics Intern | USA - Pennsylvania - West Point | \$39,108 | Oct 23 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Pharmacokinetic--Dynamics--Metabolism-and-Bioanalytics-Intern_R413056) |
 | LabCorp | Bioinformatics Intern | Baltimore, MD |  | Oct 22 | [Apply](https://go.vansh.nyc/eG) |

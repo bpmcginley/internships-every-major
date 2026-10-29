@@ -1,6 +1,6 @@
 # Law and Legal: Summer 2027 Internships
 
-137 open Summer 2027 law and legal roles, newest first (all 137). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 298 law and legal internships on InternScout](https://internscout.org/internships/law/)
+136 open Summer 2027 law and legal roles, newest first (all 136). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 299 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -106,7 +106,6 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Public Policy Intern (Kennett Square, PA) | Kennett Square, Pennsylvania |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138711) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Policy Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175556?gh_jid=8175556) |
 | Spirit AeroSystems | Boeing - Wichita Summer 2027 Internship Program (Paid) - Supplier Quality Assurance & Compliance | Wichita, Kansas | \$18.60/hr | Sep 8 | [Apply](https://careers.spiritaero.com/jobs/17513) |
-| [Vertiv](https://internscout.org/internships/at/vertiv/) | Product Material Compliance Engineering Intern (Summer 2027) | Westerville, OH |  | Sep 8 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279284) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Law - Miami, FL CLC | Miami, Florida | \$33/hour | Sep 4 | [Apply](https://jobs.statefarm.com/jobs/45868) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Law - St. Petersburg, FL CLC | St. Petersburg, Florida | \$33/ hour | Sep 4 | [Apply](https://jobs.statefarm.com/jobs/45929) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Law - Fort Lauderdale, FL CLC | Fort Lauderdale, Florida | \$33/hour | Sep 4 | [Apply](https://jobs.statefarm.com/jobs/45867) |

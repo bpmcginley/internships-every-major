@@ -1,9 +1,10 @@
 # Marketing: Summer 2027 Internships
 
-266 open Summer 2027 marketing roles, newest first (the 200 newest of 266). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 748 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+266 open Summer 2027 marketing roles, newest first (the 200 newest of 266). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 751 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [JM Family](https://internscout.org/internships/at/jm-family/) | Customer Experience Data Analyst Intern | Florida - Deerfield Beach +1 |  | Oct 29 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Customer-Experience-Data-Analyst-Intern_JR105125) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Marketing Intern IS \| Summer 2027 | Deer Park, TX | \$20/hour | Oct 28 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167976) |
 | [Centene](https://internscout.org/internships/at/centene/) | Social Media Analyst Intern (Undergraduate Summer 2027) | Remote-MO | \$18-23/hour | Oct 28 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Social-Media-Analyst-Intern--Undergraduate-Summer-2027-_1667851-1) |
 | [Keysight Technologies](https://internscout.org/internships/at/keysight-technologies/) | Product Marketing & Technical Sales Content Production, Intern | Austin, Texas |  | Oct 28 | [Apply](https://jobs.keysight.com/jobs/55234) |
@@ -80,7 +81,6 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce User Growth | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694357619162532149) |
 | [HF Sinclair](https://internscout.org/internships/at/hf-sinclair/) | Branded Fuels - Business Analytics Intern | Dallas, TX |  | Oct 14 | [Apply](https://careers.hfsinclair.com/job/Dallas-Branded-Fuels-Business-Analytics-Intern-TX-75219/1430072700/) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Marketing - Copywriter | Bloomington, Illinois | \$25/hour | Oct 14 | [Apply](https://jobs.statefarm.com/jobs/46413) |
-| [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program - Global Communications Intern (AI focus) - Intern | USA - New Jersey - Rahway | \$39,908 - \$111,111 | Oct 14 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Communications-Intern--AI-focus----Intern_R422423) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Enterprise Platform Technical Marketing Engineer Intern - Summer 2027 | US, CA +1 |  | Oct 13 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Enterprise-Platform-Technical-Marketing-Engineer-Intern---Summer-2027_JR2025907) |
 | [Philips](https://internscout.org/internships/at/philips/) | Intern - Health Systems Marketing-Cambridge, MA-Summer 2027 | Cambridge (US), Massachusetts, United States | \$26.00 – 40.00 | Oct 13 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Health-Systems-Marketing-Cambridge--MA-Summer-2027_593616) |
 | [GAF](https://internscout.org/internships/at/gaf/) | Customer Experience Intern | Parsippany, NJ | \$20.00 | Oct 13 | [Apply](https://gafsgi.wd5.myworkdayjobs.com/GAF_Careers/job/Parsippany-NJ/Customer-Experience-Intern_26415-1) |

@@ -1,6 +1,6 @@
 # Government and Public Policy: Summer 2027 Internships
 
-54 open Summer 2027 government and public policy roles, newest first (all 54). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 340 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+53 open Summer 2027 government and public policy roles, newest first (all 53). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 343 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -14,7 +14,6 @@
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Public Policy/Political Science (Rosemead) | Rosemead, CA |  | Oct 25 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Public-PolicyPolitical-Science-%28Rosemead%29-CA-91770-3714/1424642000/) |
 | Federal Energy Regulatory Commission | Student Trainee (Energy Industry Analysis) | Washington, District of Columbia | \$41659 - \$54160 Per Year | Oct 23 | [Apply](https://www.usajobs.gov:443/job/890002100) |
 | [LPL Financial Holdings](https://internscout.org/internships/at/lpl-financial-holdings/) | Intern 2027 - Government Relations | Washington, DC | Paid | Oct 21 | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Washington-DC/Intern-2027---Government-Relations_R-054560) |
-| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Policy & Analysis Intern | Dallas, TX |  | Oct 20 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Policy---Analysis_R-0000033766) |
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - Software Engineer (Security/Government) | California - San Francisco +4 | \$43 - \$52 per hour | Oct 19 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Public Policy (Lansing) | Detroit, MI |  | Oct 19 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14981) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Legislative and Regulatory Department Undergraduate Intern | Camp Hill PA, 17011, Center Street Building 1B |  | Oct 19 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Camp-Hill-PA-17011-Center-Street-Building-1B/Summer-2027-Legislative-and-Regulatory-Department-Undergraduate-Intern_J286835) |

@@ -1,6 +1,6 @@
 # Communications: Summer 2027 Internships
 
-59 open Summer 2027 communications roles, newest first (all 59). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 196 communications internships on InternScout](https://internscout.org/internships/communications/)
+58 open Summer 2027 communications roles, newest first (all 58). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 197 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -29,7 +29,6 @@
 | [Sigma Computing](https://internscout.org/internships/at/sigma-computing/) | Technical Writer Intern (Summer 2027) | San Francisco, CA | \$36.00 - \$42.00 per hour | Oct 14 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8034168003) |
 | Capstone Investment Advisors | Summer 2027 - Marketing & Communications Internship | New York, New York | \$29.00 - \$40.00/hr | Oct 14 | [Apply](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8888414002) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Marketing - Copywriter | Bloomington, Illinois | \$25/hour | Oct 14 | [Apply](https://jobs.statefarm.com/jobs/46413) |
-| [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program - Global Communications Intern (AI focus) - Intern | USA - New Jersey - Rahway | \$39,908 - \$111,111 | Oct 14 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Communications-Intern--AI-focus----Intern_R422423) |
 | [URBN](https://internscout.org/internships/at/urbn/) | Anthropologie Store Communications & Design Intern | Philadelphia, PA | Paid | Oct 9 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/33525/anthropologie-store-communications-%26-design-intern/job) |
 | [Huntington Bancshares](https://internscout.org/internships/at/huntington-bancshares/) | Summer 2027 Communications Internship | Columbus, OH +1 |  | Oct 8 | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Communications-Internship_R0075593) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | NMAC Marketing Communications Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/NMAC-Marketing-Communications-Intern---Summer-2027---Franklin--TN_R00214252) |

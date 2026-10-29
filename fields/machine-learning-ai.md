@@ -1,12 +1,14 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-433 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 433). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 985 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+434 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 434). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 997 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Boston Scientific](https://internscout.org/internships/at/boston-scientific/) | AI Solutions Engineering Intern | Arden Hills, MN |  | Oct 29 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813547675) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Deep Learning Research Intern | Markham, Canada |  | Oct 29 | [Apply](https://go.vansh.nyc/YP) |
 | Ericsson | AI and Automation Engineer Intern | Plano, TX |  | Oct 29 | [Apply](https://go.vansh.nyc/YK) |
+| [V2X](https://internscout.org/internships/at/v2x/) | Artificial Intelligence Intern 2027 | Indianapolis, Indiana +1 | Paid | Oct 29 | [Apply](https://careers.gov2x.com/jobs/62843) |
+| [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - AI Adoption (Raleigh, NC) | Raleigh, North Carolina | \$18.70/hour | Oct 29 | [Apply](https://firstcitizens.jibeapply.com/jobs/35923) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Deep Learning Research Intern - Interim Engineering Intern - Systems | Markham, ON, Canada +1 |  | Oct 28 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721828828) |
 | [Schonfeld](https://internscout.org/internships/at/schonfeld/) | 2027 Enterprise AI Intern | New York, New York, United States +2 | \$100,000 | Oct 28 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171694) |
 | [RosaicLabs](https://internscout.org/internships/at/rosaiclabs/) | AI Accelerator Design Verification Engineer Intern | Austin, TX +1 |  | Oct 28 | [Apply](https://go.vansh.nyc/Xp) |
@@ -133,7 +135,6 @@
 | [Gilead Sciences](https://internscout.org/internships/at/gilead-sciences/) | Research Intern, Clinical Virology - AI | Foster City, CA |  | Oct 16 | [Apply](https://go.vansh.nyc/bx) |
 | [Gilead Sciences](https://internscout.org/internships/at/gilead-sciences/) | Research Intern, Data Sciences - AI | Foster City, CA |  | Oct 16 | [Apply](https://go.vansh.nyc/ag) |
 | [Gilead Sciences](https://internscout.org/internships/at/gilead-sciences/) | Research Intern, Strategy, Innovation & Portfolio - AI | Foster City, CA |  | Oct 16 | [Apply](https://go.vansh.nyc/ah) |
-| [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship – Artificial Intelligence and Machine Learning (AI/ML) Research Assistant | Laurel, Maryland +1 | \$22.60 Hour | Oct 16 | [Apply](https://careers.jhuapl.edu/jobs/60084) |
 | [Tower Research Capital](https://internscout.org/internships/at/tower-research-capital/) | Machine Learning Intern | Montreal, QC |  | Oct 15 | [Apply](https://go.vansh.nyc/9U) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | AI/ML Engineer Intern, Autonomous Vehicle ML Infrastructure | Sunnyvale, CA |  | Oct 15 | [Apply](https://go.vansh.nyc/9L) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | AI/ML Engineer Intern, Capacity & Performance Engineering, Autonomous Vehicles | Sunnyvale, CA |  | Oct 15 | [Apply](https://go.vansh.nyc/9K) |
@@ -165,7 +166,6 @@
 | [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | AI Post-Training and Model Alignment Intern | Bellevue, WA |  | Oct 14 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-2) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, AI Engineer (Reston, VA) | Reston, VA |  | Oct 14 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603518) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | AI Robotics Research Intern - Summer 2027 - Santa Clara, CA | Santa Clara, California - United States of America +1 |  | Oct 14 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/AI-Robotics-Research-Intern---Summer-2027---Santa-Clara--CA_R00214267) |
-| [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program - Global Communications Intern (AI focus) - Intern | USA - New Jersey - Rahway | \$39,908 - \$111,111 | Oct 14 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Communications-Intern--AI-focus----Intern_R422423) |
 | Boston Consulting Group | Forward Deployed AI Engineer Intern | Boston, MA +3 |  | Oct 13 | [Apply](https://careers.bcg.com/global/en/job/59702) |
 | ServiceNow | AI Engineering Associate Software Engineer Intern | Santa Clara, CA +3 |  | Oct 13 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000155345889) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction | Mountain View, CA, USA +1 | Paid | Oct 13 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8279620) |

@@ -1,6 +1,6 @@
 # Cybersecurity: Summer 2027 Internships
 
-158 open Summer 2027 cybersecurity roles, newest first (all 158). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 316 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+159 open Summer 2027 cybersecurity roles, newest first (all 159). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 317 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [ADT](https://internscout.org/internships/at/adt/) | Cybersecurity & Risk Intern | Boca Raton, FL |  | Oct 26 | [Apply](https://go.vansh.nyc/UH) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Cyber Risk Management Analyst Undergraduate Intern | Camp Hill PA, 17011, Center Street Building 1B +1 |  | Oct 26 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Camp-Hill-PA-17011-Center-Street-Building-1B/Summer-2027-Cyber-Risk-Management-Analyst-Undergraduate-Intern_J286841) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship - Cybersecurity Software Developer | Laurel, Maryland | \$22.60 Hour | Oct 26 | [Apply](https://careers.jhuapl.edu/jobs/60115) |
-| [Cox](https://internscout.org/internships/at/cox/) | Cybersecurity Intern - Summer 2027 | Atlanta GA |  | Oct 26 | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202683372) |
+| Cox | Cybersecurity Intern - Summer 2027 | Atlanta GA |  | Oct 26 | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202683372) |
 | Wells Fargo | 2027 Technology Summer Internship - Early Careers (Cybersecurity) | CHARLOTTE, NC +2 | \$48.08 Hour | Oct 26 | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Cybersecurity-_R-583417) |
 | [Aerospace Corporation](https://internscout.org/internships/at/the-aerospace-corporation/) | Defensive Cyber Operations Intern | El Segundo, CA |  | Oct 23 | [Apply](https://go.vansh.nyc/h5) |
 | [Microsoft](https://internscout.org/internships/at/microsoft/) | Security Research Intern | Redmond, WA |  | Oct 22 | [Apply](https://go.vansh.nyc/eB) |
@@ -67,6 +67,7 @@
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Information Security Engineer | Los Angeles, CA | \$32–\$46 per hour | Oct 15 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5448019008) |
 | [National Laboratory of the Rockies](https://internscout.org/internships/at/national-laboratory-of-the-rockies/) | AI/ML for Cybersecurity Intern | Golden, CO |  | Oct 15 | [Apply](https://go.vansh.nyc/CB) |
 | [Lawrence Livermore National Laboratory (LLNL)](https://internscout.org/internships/at/lawrence-livermore-national-laboratory-llnl/) | Power Systems Undergraduate Intern, Cyber and Critical Infrastructure | Livermore, CA |  | Oct 15 | [Apply](https://go.vansh.nyc/gj) |
+| [HF Sinclair](https://internscout.org/internships/at/hf-sinclair/) | Cybersecurity Intern | Dallas, TX |  | Oct 14 | [Apply](https://careers.hfsinclair.com/job/Dallas-Cybersecurity-Intern-TX-75219/1430070200/) |
 | Howden | Underwriting Intern, Cyber | New York – 1350 Avenue Of The Americas | \$22.00/hr | Oct 14 | [Apply](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/New-York--1350-Avenue-Of-The-Americas/Underwriting-Intern_R0019772-1) |
 | [Bosch](https://internscout.org/internships/at/bosch/) | Information Security and Privacy Intern | Farmington Hills, MI |  | Oct 13 | [Apply](https://go.vansh.nyc/8w) |
 | [General Dynamics Mission Systems](https://internscout.org/internships/at/general-dynamics-mission-systems/) | Cyber Engineering Intern | Middletown, RI |  | Oct 13 | [Apply](https://go.vansh.nyc/8E) |

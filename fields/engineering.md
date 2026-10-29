@@ -1,10 +1,12 @@
 # Engineering: Summer 2027 Internships
 
-660 open Summer 2027 engineering roles, newest first (the 200 newest of 660). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 1,790 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+659 open Summer 2027 engineering roles, newest first (the 200 newest of 659). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 1,793 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [Shield AI](https://internscout.org/internships/at/shield-ai/) | Summer 2027 - Product Support Engineering Intern #6470 & #6442 | Dallas, Texas |  | Oct 28 | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/d0dbdf00-64c2-465d-8a34-55ee9df428c0/application) |
+| [Shield AI](https://internscout.org/internships/at/shield-ai/) | Summer 2027 - Product Support Engineering Intern 6470 - 6442 | Dallas, Texas |  | Oct 29 | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/d0dbdf00-64c2-465d-8a34-55ee9df428c0/application) |
+| [Stantec](https://internscout.org/internships/at/stantec/) | Coastal Engineering Intern - Water (Summer 2027) | Austin, TX +1 |  | Oct 29 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008550) |
+| [Vermeer](https://internscout.org/internships/at/vermeer/) | Design Engineer Intern - Summer 2027 | Pella, Iowa, USA - The Center |  | Oct 29 | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---The-Center/Design-Engineer-Intern---Summer-2027_REQ-22139) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Camera Design Engineering Intern | Vancouver, BC, Canada +1 |  | Oct 28 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721829439) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | Design and Verification Engineer Intern | Beavercreek, OH |  | Oct 28 | [Apply](https://go.vansh.nyc/Yk) |
 | Renesas Electronics | Application Engineer Intern | San Jose, CA |  | Oct 28 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000158346447) |
@@ -59,7 +61,6 @@
 | [Commonwealth Fusion Systems](https://internscout.org/internships/at/commonwealth-fusion-systems/) | Intern - Microwave Engineer - Summer 2027 | Devens, MA | Paid | Oct 26 | [Apply](https://jobs.lever.co/cfsenergy/79cd53ba-b864-4bcb-8421-60cf58f7df54/apply) |
 | [BorgWarner](https://internscout.org/internships/at/borgwarner/) | Systems Test Automation Engineering Intern | Kokomo, IN |  | Oct 26 | [Apply](https://go.vansh.nyc/Sy) |
 | [Copart](https://internscout.org/internships/at/copart/) | Vulnerability Management Engineering Intern | Dallas, TX |  | Oct 26 | [Apply](https://go.vansh.nyc/SC) |
-| [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | TDS Proteins Cell Line Engineering Co-Op | Spring House, Pennsylvania, United States of America |  | Oct 26 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-Proteins-Cell-Line-Engineering-Co-Op_R-098568) |
 | [IKO](https://internscout.org/internships/at/iko/) | Maintenance and Reliability Intern | Ironton, MO | \$24.00 -\$25.00 per hour | Oct 26 | [Apply](https://iko.wd3.myworkdayjobs.com/iko_careers/job/Ironton-MO/Maintenance-and-Reliability-Intern_REQ-14024) |
 | [Federal Home Loan Bank of Indianapolis](https://internscout.org/internships/at/federal-home-loan-bank-of-indianapolis/) | Financial Controls Intern | Indianapolis, IN | Paid | Oct 26 | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Financial-Controls-Intern_R639) |
 | [HCSC](https://internscout.org/internships/at/hcsc/) | Product Engineer Intern | Chicago, IL +1 |  | Oct 26 | [Apply](https://go.vansh.nyc/T7) |
@@ -131,6 +132,7 @@
 | [Regal Rexnord](https://internscout.org/internships/at/regal-rexnord/) | Engineering Summer Intern | Radford, Virginia, United States +8 | \$21.50 - \$28 per hour | Oct 21 | [Apply](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Radford-Virginia-United-States/Engineering-Summer-Intern_R26_04578-2) |
 | Metamorphic | Engineering Intern (Summer 2027) | Palo Alto +2 | \$6-8k/month | Oct 20 | [Apply](https://jobs.ashbyhq.com/metamorphic/cf518648-4e65-4f7d-aa05-f01066d8bd8a/application) |
 | HPR | Applications Engineering Intern - Summer 2027 | Needham, MA | \$40/hour | Oct 20 | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/8016173003) |
+| Riverlane | Engineering Internship 2027 | Boston, MA +1 | \$35-\$42 per hour | Oct 20 | [Apply](https://www.riverlane.com/jobs?gh_jid=5010283101#vacancies) |
 | [Ryan](https://internscout.org/internships/at/ryan/) | Application Engineering Intern | Plano, TX |  | Oct 20 | [Apply](https://go.vansh.nyc/cX) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Site Engineering Internship - Braceville, IL | Braceville, Illinois | Paid | Oct 20 | [Apply](https://jobs.constellationenergy.com/jobs/139329) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Site Engineering Intern - Braceville, IL | Braceville, Illinois | Paid | Oct 20 | [Apply](https://jobs.constellationenergy.com/jobs/139324) |
@@ -149,7 +151,6 @@
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Facility Engineer Intern - Summer 2027 | Kingsland, GA |  | Oct 19 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167233) |
 | [Micron Technology](https://internscout.org/internships/at/micron-technology/) | HBM Design Engineer Intern - HBM | Richardson, TX |  | Oct 19 | [Apply](https://go.vansh.nyc/bW) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Substation Engineering Intern | Liverpool, New York | \$20.00 | Oct 19 | [Apply](https://careers.trccompanies.com/jobs/27127) |
-| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova - Gas Power Field Engineering Intern - Summer 2027 | Schenectady |  | Oct 19 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Schenectady/GE-Vernova---Gas-Power-Field-Engineering-Intern---Summer-2027_R5054425-2) |
 | [Badger Meter](https://internscout.org/internships/at/badger-meter/) | Systems Integration - Engineering Intern | Milwaukee HQ, WI +1 |  | Oct 19 | [Apply](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Systems-Integration---Engineering-Intern_4641) |
 | [Hendrick Motorsports](https://internscout.org/internships/at/hendrick-motorsports/) | Racing Performance Engineer - Summer 2027 Internship | Hendrick Motorsports, NC |  | Oct 19 | [Apply](https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Racing-Performance-Engineer---Summer-2027-Internship_R-84005) |
 | [CACI](https://internscout.org/internships/at/caci/) | Production Engineering Intern - Summer 2027 | Danbury, CT, US | \$45,900 - \$91,900 | Oct 19 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Production-Engineering-Intern---Summer-2027_333767) |
@@ -160,7 +161,6 @@
 | [Pennsylvania State University](https://internscout.org/internships/at/pennsylvania-state-university/) | R&D Engineer Intern | University Park, State College, PA |  | Oct 16 | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000082444-1) |
 | [STV](https://internscout.org/internships/at/stv/) | Roadway Engineering Intern - Summer 2027 | Oklahoma City, Oklahoma |  | Oct 16 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Oklahoma-City-Oklahoma/Transportation-Engineering-Intern---Summer-2027_JR6296) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Engineering Intern- Summer 2027 | Dallas, TX +3 |  | Oct 16 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310073) |
-| [Vermeer](https://internscout.org/internships/at/vermeer/) | Design Engineer Intern - Summer 2027 | Pella, Iowa, USA - The Center |  | Oct 16 | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---The-Center/Design-Engineer-Intern---Summer-2027_REQ-22139) |
 | [onsemi](https://internscout.org/internships/at/onsemi/) | Device Characterization Engineer Intern | Hopewell Junction, NY |  | Oct 15 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506970) |
 | [Commonwealth Fusion Systems](https://internscout.org/internships/at/commonwealth-fusion-systems/) | Intern - Nuclear Engineer - Summer 2027 | Devens, MA | Paid | Oct 15 | [Apply](https://jobs.lever.co/cfsenergy/1be023ee-0351-4d09-acca-f56180d06463/apply) |
 | [Commonwealth Fusion Systems](https://internscout.org/internships/at/commonwealth-fusion-systems/) | Intern - Controls Engineer - Summer 2027 | Milpitas, CA | Paid | Oct 15 | [Apply](https://jobs.lever.co/cfsenergy/e3408817-347e-45bc-8627-305b75b6b978/apply) |

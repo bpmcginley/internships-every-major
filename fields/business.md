@@ -1,6 +1,6 @@
 # Business: Summer 2027 Internships
 
-80 open Summer 2027 business roles, newest first (all 80). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 154 business internships on InternScout](https://internscout.org/internships/business/)
+79 open Summer 2027 business roles, newest first (all 79). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 153 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -53,7 +53,6 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Commercial Business Solutions Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 9 | [Apply](https://jobs.constellationenergy.com/jobs/138773) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Masters Summer Internship Program - 2027 Business Strategy, Global Servicing- Sunrise, FL | Sunrise, FL |  | Sep 8 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013623) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Transportation/Storage Services: Business Processes | HOUSTON, Texas |  | Sep 8 | [Apply](https://careers.kindermorgan.com/jobs/6211) |
-| [Vertiv](https://internscout.org/internships/at/vertiv/) | Associate Engineering Intern - ECAD (Graduate Level/MBA) (Summer 2027) | Westerville, OH |  | Sep 8 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279285) |
 | AlixPartners | Turnaround & Restructuring - MBA Intern | United States | \$35,000 | Sep 1 | [Apply](https://www.alixpartners.com/careers/7810004003?gh_jid=7810004003) |
 | AlixPartners | Strategy & Analysis - MBA Intern | United States | \$35,000 | Sep 1 | [Apply](https://www.alixpartners.com/careers/7809994003?gh_jid=7809994003) |
 | [Exelon](https://internscout.org/internships/at/exelon/) | 2027 Summer Internship - Business (Various Exelon Locations) | CHICAGO, Illinois +6 | \$20.00/Hr | Aug 31 | [Apply](https://careers.comed.com/jobs/30119) |

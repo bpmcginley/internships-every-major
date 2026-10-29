@@ -1,12 +1,12 @@
 # Quantitative Finance: Summer 2027 Internships
 
-133 open Summer 2027 quantitative finance roles, newest first (all 133). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 191 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
+133 open Summer 2027 quantitative finance roles, newest first (all 133). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 192 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Bank of Montreal | Quantitative Trading Analyst Co-op | Toronto, ON, Canada +1 |  | Oct 29 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657) |
 | [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Machine Learning Center of Excellence (Quant AI) - Summer Associate | Palo Alto, CA |  | Oct 26 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936) |
 | [FHLBD Federal Home Loan Bank of Dallas](https://internscout.org/internships/at/fhlbd-federal-home-loan-bank-of-dallas/) | 2027 Summer Accounting Intern - Investments & Derivatives | Irving, TX |  | Oct 26 | [Apply](https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Accounting-Intern_REQ-443) |
-| [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Middle Market Underwriting/Portfolio Management (San Diego, CA) | San Diego, California | \$18.50/hr | Oct 23 | [Apply](https://firstcitizens.jibeapply.com/jobs/35637) |
 | InfiniteQuant | Quantitative Researcher Intern | New York, NY |  | Oct 22 | [Apply](https://go.vansh.nyc/eP) |
 | FanDuel | Sports Trader Intern - Summer 2027 | Jersey City, New Jersey, United States +1 | Paid | Oct 20 | [Apply](https://www.fanduel.careers/open-positions?gh_jid=8300829) |
 | Graviton | Quantitative Researcher - 2027 Summer Internship | New York +1 |  | Oct 19 | [Apply](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002) |
