@@ -1,9 +1,12 @@
 # Hardware Engineering: Summer 2027 Internships
 
-288 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 288). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 755 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+291 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 291). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 761 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Toyota Research Institute](https://internscout.org/internships/at/toyota-research-institute/) | Robotics Intern, Human-Machine Interaction Research | Los Altos, CA |  | Oct 29 | [Apply](https://go.vansh.nyc/Zx) |
+| [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | ASIC Verification Engineering Intern | Roseville, CA |  | Oct 29 | [Apply](https://go.vansh.nyc/Zt) |
+| [Micron Technology](https://internscout.org/internships/at/micron-technology/) | ASIC Digital Design Intern | Minneapolis, MN |  | Oct 29 | [Apply](https://go.vansh.nyc/Z8) |
 | Apple | Design Verification Engineer Intern | Beaverton, OR |  | Oct 28 | [Apply](https://go.vansh.nyc/Yx) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Robotics Applied Scientist 2 Intern | Seattle, WA +5 |  | Oct 28 | [Apply](https://amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states) |
 | [Micron Technology](https://internscout.org/internships/at/micron-technology/) | Embedded Software Engineer Intern | Boise, ID |  | Oct 28 | [Apply](https://go.vansh.nyc/XW) |
@@ -49,7 +52,7 @@
 | [Microchip Technology](https://internscout.org/internships/at/microchip-technology/) | Engineering Intern, ASIC Verification | San Jose, CA |  | Oct 21 | [Apply](https://go.vansh.nyc/ed) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Edge AI and Display Hardware Architecture Intern | Markham, ON, Canada |  | Oct 21 | [Apply](https://go.vansh.nyc/dY) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems | Markham, ON, Canada |  | Oct 21 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721661830) |
-| [Smith+Nephew](https://internscout.org/internships/at/smith-nephew/) | Embedded Software Engineering Intern | Andover, MA |  | Oct 21 | [Apply](https://go.vansh.nyc/dA) |
+| Smith+Nephew | Embedded Software Engineering Intern | Andover, MA |  | Oct 21 | [Apply](https://go.vansh.nyc/dA) |
 | [Aerospace Corporation](https://internscout.org/internships/at/the-aerospace-corporation/) | Hardware Security Engineering Intern | El Segundo, CA +1 |  | Oct 21 | [Apply](https://go.vansh.nyc/dv) |
 | [The Aerospace Corporation](https://internscout.org/internships/at/the-aerospace-corporation/) | Embedded Software Engineer Intern, Multiple Teams | El Segundo, CA |  | Oct 21 | [Apply](https://go.vansh.nyc/dM) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Silicon Validation Intern | Santa Clara, CA |  | Oct 21 | [Apply](https://go.vansh.nyc/dq) |
@@ -201,9 +204,6 @@
 | [Marvell](https://internscout.org/internships/at/marvell/) | Design Verification Intern - BS - Summer 2027 | Morrisville, NC +4 |  | Sep 4 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505) |
 | [Tesla](https://internscout.org/internships/at/tesla/) | Embedded Software Engineer Intern - Optimus | Palo Alto, CA |  | Sep 3 | [Apply](https://www.tesla.com/careers/search/job/282340) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | ASIC Firmware and Diagnostic Intern | Bloomington, MN +1 |  | Sep 3 | [Apply](https://go.vansh.nyc/M3) |
-| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | Hardware Engineer Intern - Critical Infrastructure Communications | Rochester, NY |  | Sep 3 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-2) |
-| [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | Pre-Silicon Diagnostics Intern | Fort Collins, CO |  | Sep 3 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Pre-Silicon-Diagnostics-Intern_1213394) |
-| [AMD](https://internscout.org/internships/at/amd/) | Short Term 2027 Hardware Design Verification Engineering Intern/Co-Op | MARKHAM, Ontario, Canada +1 |  | Sep 3 | [Apply](https://careers.amd.com/jobs/91361) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

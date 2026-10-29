@@ -1,9 +1,14 @@
 # Marketing: Summer 2027 Internships
 
-266 open Summer 2027 marketing roles, newest first (the 200 newest of 266). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 751 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+270 open Summer 2027 marketing roles, newest first (the 200 newest of 270). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 755 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Natural Gas Marketing | HOUSTON, Texas |  | Oct 29 | [Apply](https://careers.kindermorgan.com/jobs/6597) |
+| [Walmart](https://internscout.org/internships/at/walmart/) | (USA) 2027 Summer Corporate Intern: Corporate Product Marketing Intern | (USA) Upstream Building AR Bentonville Home Office |  | Oct 29 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Upstream-Building-AR-Bentonville-Home-Office/XMLNAME--USA--2027-Summer-Corporate-Intern---Corporate-Product-Marketing-Intern_R-2690891) |
+| [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern Core Growth Equity MBA Boston | Boston, MA | \$43.00 per hour | Oct 29 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Boston-MA/XMLNAME-2027-Summer-Intern-Core-Growth-Equity-Intern-MBA-Boston_2620146-1) |
+| [Haleon](https://internscout.org/internships/at/haleon/) | Summer MBA Marketing Internship | USA - New Jersey - Warren | \$105,000 | Oct 29 | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---New-Jersey---Warren/Summer-MBA-Marketing-Internship_549650) |
+| [Philips](https://internscout.org/internships/at/philips/) | Intern- eCommerce (Health Systems Marketing) — Cambridge, MA — Summer 2027 | Cambridge (US), Massachusetts, United States | \$26 – 30 | Oct 29 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern--eCommerce--Health-Systems-Marketing----Cambridge--MA---Summer-2027_593452) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Customer Experience Data Analyst Intern | Florida - Deerfield Beach +1 |  | Oct 29 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Customer-Experience-Data-Analyst-Intern_JR105125) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Marketing Intern IS \| Summer 2027 | Deer Park, TX | \$20/hour | Oct 28 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167976) |
 | [Centene](https://internscout.org/internships/at/centene/) | Social Media Analyst Intern (Undergraduate Summer 2027) | Remote-MO | \$18-23/hour | Oct 28 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Social-Media-Analyst-Intern--Undergraduate-Summer-2027-_1667851-1) |
@@ -142,7 +147,6 @@
 | [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Social Media Marketing Intern - Summer 2027 | Pella, IA |  | Sep 22 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253695) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship - Marketing MBA | New York, NY |  | Sep 21 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92294) |
 | [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Product Marketing Intern - Summer 2027 | Pella, IA |  | Sep 21 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253576) |
-| [Protective Life](https://internscout.org/internships/at/protective-life/) | 2027 Communications Summer Internship Program | Birmingham, AL |  | Sep 16 | [Apply](https://jobs.lever.co/protective/76d37442-da84-4bcf-b9f3-66f9880db597/apply) |
 | [AMD](https://internscout.org/internships/at/amd/) | Short Term 2027 Technical Marketing - Performance Analysis Intern/Co-Op | MARKHAM, Ontario, Canada +1 |  | Sep 16 | [Apply](https://careers.amd.com/jobs/91953) |
 | [Emergent Holdings](https://internscout.org/internships/at/emergent-holdings/) | Summer 2027 Intern - Program Oversight/Marketing Compliance | Detroit, MI |  | Sep 16 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14772) |
 | [SoundExchange](https://internscout.org/internships/at/soundexchange/) | Brand Marketing Summer Intern | Washington, DC | \$20.00 per hour | Sep 15 | [Apply](https://job-boards.greenhouse.io/sxinternships/jobs/5231081007) |
@@ -200,10 +204,6 @@
 | [Highgate](https://internscout.org/internships/at/highgate/) | Sales & Marketing Intern - Summer 2027 | NJ |  | Oct 24 | [Apply](https://externalhourly-highgate.icims.com/jobs/82530/sales-%26-marketing-intern---summer-2027/job) |
 | [Highgate](https://internscout.org/internships/at/highgate/) | Sales & Marketing Intern - Summer 2027 | New York, NY |  | Oct 24 | [Apply](https://externalhourly-highgate.icims.com/jobs/82506/sales-%26-marketing-intern---summer-2027/job) |
 | [Highgate](https://internscout.org/internships/at/highgate/) | Sales & Marketing Intern - Summer 2027 | Seattle, WA |  | Oct 24 | [Apply](https://externalhourly-highgate.icims.com/jobs/82534/sales-%26-marketing-intern---summer-2027/job) |
-| [Highgate](https://internscout.org/internships/at/highgate/) | Sales & Marketing Intern - Summer 2027 | San Francisco, CA |  | Oct 24 | [Apply](https://externalhourly-highgate.icims.com/jobs/82533/sales-%26-marketing-intern---summer-2027/job) |
-| [HNTB](https://internscout.org/internships/at/hntb/) | Returning Communications & Graphics Intern - Summer 2027 (For Current/Former HNTB Interns Only) | Raleigh, NC |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Raleigh-NC/Returning-Communications---Graphics-Intern---Summer-2027--For-Current-Former-HNTB-Interns-Only-_R-31324) |
-| Continental Resources | Marketing Intern (Summer 2027) | Oklahoma City, OK |  | Oct 22 | [Apply](https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Marketing-Intern--Summer-2027-_R02718-1) |
-| [Ecolab](https://internscout.org/internships/at/ecolab/) | MBA Marketing Intern | USA - Minnesota - Saint Paul +2 | \$2,100/week | Oct 20 | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/MBA-Marketing-Intern_R00303125) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

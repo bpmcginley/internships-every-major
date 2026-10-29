@@ -1,9 +1,11 @@
 # Architecture: Summer 2027 Internships
 
-47 open Summer 2027 architecture roles, newest first (all 47). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 130 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+49 open Summer 2027 architecture roles, newest first (all 49). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 132 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [CareSource](https://internscout.org/internships/at/caresource/) | 2027 Summer Internship Program - Enterprise Architecture | Remote | \$41,200.00 - \$66,000.00 | Oct 29 | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Enterprise-Architecture_R14135) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Receiver, Exciter & Processing Architecture Electrical Engineer Intern (Summer 2027) | Tewksbury, MA | Paid | Oct 29 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027-_01873437) |
 | [STV](https://internscout.org/internships/at/stv/) | Architecture Intern - Summer 2027 | Empire State Building, New York, New York | \$54,810.00 - \$62,284.00 | Oct 28 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Empire-State-Building-New-York-New-York/Architecture-Intern---Summer-2027_JR6164) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Summer 2027 Urban Planning/Development Intern | Detroit, MI |  | Oct 28 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Summer-2027-Urban-Planning-Development-Intern_R-085098) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Software Engineer Intern, Receiver, Exciter, & Processing Architecture | Marlborough, MA |  | Oct 27 | [Apply](https://go.vansh.nyc/WQ) |

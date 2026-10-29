@@ -1,6 +1,6 @@
 # Nonprofit: Summer 2027 Internships
 
-29 open Summer 2027 nonprofit roles, newest first (all 29). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 112 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
+28 open Summer 2027 nonprofit roles, newest first (all 28). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 111 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -22,7 +22,6 @@
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Industrial Pollution Solutions Intern | Chicago, IL | \$7,000.00 | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6058/summer-2027-industrial-pollution-solutions-intern/job) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Green Finance Advocacy Intern | Washington, DC | \$10,000.00 | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6069/summer-2027-green-finance-advocacy-intern/job) |
 | [EQT Corporation](https://internscout.org/internships/at/eqt-corporation/) | Community Relations Intern | Canonsburg, PA |  | Oct 9 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5448044008) |
-| [Draper](https://internscout.org/internships/at/draper/) | Corporate and Community Engagement Intern (Summer 2027) | Cambridge, MA | \$20.00 - \$45.00 | Oct 9 | [Apply](https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Corporate-and-Community-Engagement-Intern--Summer-2027-_JR003016) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Sustainability and Philanthropy Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Sustainability-and-Philanthropy-Intern---Summer-2027---Franklin--TN_R00214221) |
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Undergraduate Intern, National Security Project | New York, NY |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8842752002) |
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Undergraduate Intern, National Prison Project | Remote/Hybrid-Washington D.C. |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8846060002) |

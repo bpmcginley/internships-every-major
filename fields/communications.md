@@ -1,6 +1,6 @@
 # Communications: Summer 2027 Internships
 
-58 open Summer 2027 communications roles, newest first (all 58). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 197 communications internships on InternScout](https://internscout.org/internships/communications/)
+57 open Summer 2027 communications roles, newest first (all 57). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 197 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -39,7 +39,6 @@
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Intern - Marketing, Communications, Journalism Majors | Chicago, IL | \$20 to \$33, | Oct 1 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern---Marketing--Communications--Journalism-Majors_R-0000033618-1) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Communications Specialist (Reston, VA) | Reston, VA |  | Sep 30 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Communications-Specialist--Reston--VA-_R2603319) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Internal Communications Intern | De Soto, Kansas |  | Sep 28 | [Apply](https://careers.na.panasonic.com/jobs/51288) |
-| [Protective Life](https://internscout.org/internships/at/protective-life/) | 2027 Communications Summer Internship Program | Birmingham, AL |  | Sep 16 | [Apply](https://jobs.lever.co/protective/76d37442-da84-4bcf-b9f3-66f9880db597/apply) |
 | [SoundExchange](https://internscout.org/internships/at/soundexchange/) | Communications Summer Intern | Washington, DC | \$20.00 per hour | Sep 15 | [Apply](https://job-boards.greenhouse.io/sxinternships/jobs/5231072007) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Communications Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138732) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Internship- Corporate Communications | HOUSTON, Texas |  | Sep 10 | [Apply](https://careers.kindermorgan.com/jobs/6223) |

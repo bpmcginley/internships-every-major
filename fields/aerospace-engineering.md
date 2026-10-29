@@ -1,9 +1,10 @@
 # Aerospace Engineering: Summer 2027 Internships
 
-31 open Summer 2027 aerospace engineering roles, newest first (all 31). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 67 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
+32 open Summer 2027 aerospace engineering roles, newest first (all 32). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 68 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [RTX](https://internscout.org/internships/at/rtx/) | F135 Engine Core Upgrade (ECU) Propulsion Systems Analysis Engineering Intern (Summer 2027) (Onsite) | East Hartford-G, CT | Paid | Oct 29 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/F135-Engine-Core-Upgrade--ECU--Propulsion-Systems-Analysis-Engineering-Intern--Summer-2027---Onsite-_01884696) |
 | [CACI](https://internscout.org/internships/at/caci/) | Aerospace Engineer Intern - Summer 2027 | Aberdeen Proving Ground, MD, US | \$43,900 - 87,900 | Oct 16 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Aberdeen-Proving-Ground-MD-US/Aerospace-Engineer-Intern---Summer-2027_333570) |
 | [Inversion Space](https://internscout.org/internships/at/inversion-space/) | Avionics Embedded Software Engineer - Summer Internship 2027 | Playa Vista, California, United States +2 | Paid | Oct 15 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4744391005) |
 | [Inversion Space](https://internscout.org/internships/at/inversion-space/) | Avionics Mechanical Engineer - Summer Internship 2027 | Playa Vista, California, United States | Paid | Oct 15 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4744390005) |

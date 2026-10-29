@@ -1,11 +1,11 @@
 # Consulting: Summer 2027 Internships
 
-130 open Summer 2027 consulting roles, newest first (all 130). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 284 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+130 open Summer 2027 consulting roles, newest first (all 130). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 282 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Cisco](https://internscout.org/internships/at/cisco/) | Security Consulting Engineer I Intern | Research Triangle Park, NC |  | Oct 29 | [Apply](https://go.vansh.nyc/Zg) |
 | [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern Governance and Controls Chicago | Chicago, IL | \$25.00 per hour | Oct 28 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern-Governance-and-Controls-Chicago_2620118-1) |
-| Fidelity Investments | Data Strategy Intern | Boston, MA |  | Oct 27 | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Intern--Data-Strategy_2135102) |
 | [Huntington Bancshares](https://internscout.org/internships/at/huntington-bancshares/) | Summer 2027 Finance and Strategy Internship | Columbus, OH | \$21.00-\$25.00 Hour | Oct 27 | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Finance-and-Strategy-Internship_R0075368) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Business Analyst Intern - Summer 2027 | Cincinnati, OH (USA) |  | Oct 27 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Business-Analyst-Intern---Summer-2027_R9807-1) |
 | [Visa](https://internscout.org/internships/at/visa/) | Business Strategy Intern, Data and AI Team - Summer 2027 | US - Foster City, CA | \$35 to \$39 | Oct 27 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Business-Strategy-Intern--Data-and-AI-Team---Summer-2027_REF089884W-2) |

@@ -1,9 +1,10 @@
 # Economics: Summer 2027 Internships
 
-25 open Summer 2027 economics roles, newest first (all 25). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 56 economics internships on InternScout](https://internscout.org/internships/economics/)
+26 open Summer 2027 economics roles, newest first (all 26). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 57 economics internships on InternScout](https://internscout.org/internships/economics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Centene](https://internscout.org/internships/at/centene/) | Medical Economics Analyst Intern (Undergraduate - Summer 2027) | Remote-MO +1 | \$18-26/hour | Oct 29 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662091) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Clinical Science, Medical Monitoring & Health Economics | TARRYTOWN +1 | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Clinical-Science--Medical-Monitoring---Health-Economics_R52563-1) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | PhD Economics Intern - Finance, Macroeconomics, And Forecasting | Seattle, WA +3 |  | Oct 27 | [Apply](https://amazon.jobs/en/jobs/10590600/phd-economics-intern-finance-macroeconomics-and-forecasting-summer-2027) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Community and Economic Development Intern | Atlanta, GA |  | Oct 26 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Community-and-Economic-Development-Intern_R-0000033895) |

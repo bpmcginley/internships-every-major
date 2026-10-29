@@ -1,6 +1,6 @@
 # Chemistry: Summer 2027 Internships
 
-21 open Summer 2027 chemistry roles, newest first (all 21). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 46 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
+20 open Summer 2027 chemistry roles, newest first (all 20). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 46 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -16,7 +16,6 @@
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Lab Chemist Intern - Summer 2027 | El Dorado, AR |  | Oct 1 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166509) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Lab Chemist Intern - Summer 2027 | Clive, UT |  | Oct 1 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166596) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Lab Chemist Intern - Summer 2027 | Buttonwillow, CA | Paid | Oct 1 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166506) |
-| [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Lab Chemist Intern - Summer 2027 | Deer Trail, CO |  | Oct 1 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166422) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Receiving Chemist Intern - Summer 2027 | Bartow, FL | Paid | Oct 1 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166421) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Chemist Intern IS \| Summer 2027 | Sumter, SC |  | Sep 21 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/165145) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | R&D Chemistry Laboratory Intern (Austin MN) - Summer 2027 - Campus Recruiting | Austin, MN |  | Sep 8 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35724) |

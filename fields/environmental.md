@@ -1,6 +1,6 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-216 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 216). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 482 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+214 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 214). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 479 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -153,7 +153,6 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern (Summer 2027!) | Houston, Texas | \$38.72 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4339) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Hartford, Connecticut | \$40.48 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4377) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern (Summer 2027!) | Boston, Massachusetts | \$40.48 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4340) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern (Summer 2027!) | Edison, New Jersey | \$40.48 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4331) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern (Summer 2027!) | Kellogg, Idaho | \$35.20 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4334) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern (Summer 2027!) | Helena, Montana | \$35.20 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4333) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern (Summer 2027) | Jacksonville, Florida | \$36.96 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4034) |
@@ -170,7 +169,6 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern (Summer 2027!) | Latham, New York | \$40.48 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4336) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Geologist Intern (Summer 2027!) | Denver, Colorado | \$34.32 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4343) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Tampa, Florida | \$36.96 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/3877) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Geologist Intern (Summer 2027!) | Concord, California | \$37.44 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4344) |
 | [Hunt Oil Company](https://internscout.org/internships/at/hunt-oil-company/) | Geoscience Intern - Summer 2027 | Dallas, TX |  | Sep 4 | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1059) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027) | Dallas, Texas | \$36.96 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4311) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern (Summer 2027!) | Truckee, California | \$42.24 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4145) |
@@ -204,6 +202,8 @@
 | [GE Aerospace](https://internscout.org/internships/at/ge-aerospace/) | Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 | Durham +6 | \$20/hour | Sep 19 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Environmental-Health-Safety--Facilities----Maintenance-Intern---US---Summer-2027_R5029661) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Environmental Intern (Summer 2027) | USA - New York - Malta | \$20.00 - \$40.00 | Sep 18 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Environmental-Intern--Summer-2027-_JR-2604241) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | Health, Safety, and Environment Intern – Elwood, Kansas (Summer 2027) | Elwood, KS |  | Sep 18 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Elwood-KS/Health--Safety--and-Environment-Intern---Elwood--Kansas--Summer-2027-_R0026900) |
+| [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Climate Sustainability Internship Masters/MBA Intern | USA-Illinois-Chicago | Paid | Sep 18 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Illinois-Chicago/Summer-2027-Mars-Climate-Sustainability-Internship-Masters-MBA-Intern_R162093-1) |
+| [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-op - HES&S Safety and Industrial Hygiene (Summer 2027) | Findlay, Ohio +21 | \$24.09 per hour | Sep 18 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Safety-and-Industrial-Hygiene--Summer-2027-_00024175) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

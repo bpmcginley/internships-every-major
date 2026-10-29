@@ -1,9 +1,10 @@
 # Government and Public Policy: Summer 2027 Internships
 
-53 open Summer 2027 government and public policy roles, newest first (all 53). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 343 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+54 open Summer 2027 government and public policy roles, newest first (all 54). **Updated October 29, 2026.** [Back to every major](../README.md) · [See all 344 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [RSM](https://internscout.org/internships/at/rsm/) | Federal Credits and Incentives Tax Intern - Summer 2027 | Los Angeles | \$36 - \$43 per hour | Oct 29 | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Los-Angeles/Federal-Credits-and-Incentives-Tax-Intern---Summer-2027_JR118775) |
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | Forward Deployed Engineer Intern, Global Public Sector | United States |  | Oct 27 | [Apply](https://go.vansh.nyc/WD) |
 | [Sanofi](https://internscout.org/internships/at/sanofi/) | 2027 Summer Intern Policy and Government Affairs Washington DC | Washington, DC | \$27.00-\$57.00 | Oct 27 | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Washington-DC/XMLNAME-2027-Summer-Intern-Policy-and-Government-Affairs-Washington-DC_R2866059) |
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - Forward Deployed Engineer – Global Public Sector | Arkansas +1 | \$27 - \$29 per hour | Oct 27 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026) |

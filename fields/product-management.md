@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Program Management Intern (Summer 2027) | Lone Tree, CO |  | Oct 29 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Program-Management-Intern--Summer-2027-_R0031171) |
 | [Ensign-Bickford Industries](https://internscout.org/internships/at/ensign-bickford-industries/) | New Product Development Intern - Summer 2027 | Portland, ME | \$18.00-23.00/hour | Oct 29 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Portland-ME/New-Product-Development-Intern---Summer-2027_REQ107820-1) |
 | [Sonos](https://internscout.org/internships/at/sonos/) | Software Product Management Intern (Seattle) | Seattle, WA |  | Oct 29 | [Apply](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2888-1) |
 | T-Mobile | Associate Technical Product Manager Intern | Frisco, TX |  | Oct 28 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499) |
@@ -169,7 +170,6 @@
 | [Shure](https://internscout.org/internships/at/shure/) | Global Product Management Intern (Conferencing) | Niles, IL |  | Sep 18 | [Apply](https://careersus-shure.icims.com/jobs/4990/global-product-management-intern-%28conferencing%29/job) |
 | Chamberlain Group | Intern, Community Product Management (Summer 2027) | Oak Brook, IL | \$20.00 - \$25.00 | Sep 18 | [Apply](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309) |
 | [Gordon Food Service](https://internscout.org/internships/at/gordon-food-service/) | Digital Product Management Internship | Wyoming, Michigan +1 |  | Sep 18 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336) |
-| [DIRECTV](https://internscout.org/internships/at/directv/) | DIRECTV for Business Product Development Intern | Clarksburg, MD | \$25 - \$34 per hour | Sep 18 | [Apply](https://directv.wd1.myworkdayjobs.com/careers/job/Clarksburg-MD/DIRECTV-for-Business-Product-Development-Intern_R260276) |
 | [Marmon Holdings](https://internscout.org/internships/at/marmon-holdings/) | Digital Production Engineering Intern OR Student Co-Op | Milwaukee, WI |  | Sep 18 | [Apply](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451) |
 | [AspenTech](https://internscout.org/internships/at/aspentech/) | Product Owner Intern — Product Management - Summer 2027 | Bedford, Massachusetts +3 | \$28.00 - \$ 32.00/hour | Sep 18 | [Apply](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern---Product-Management----Summer-2027_R9471) |
 
