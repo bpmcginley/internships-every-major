@@ -1,9 +1,10 @@
 # Quantitative Finance: Summer 2027 Internships
 
-135 open Summer 2027 quantitative finance roles, newest first (all 135). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 192 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
+132 open Summer 2027 quantitative finance roles, newest first (all 132). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 189 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Jain Global](https://internscout.org/internships/at/jain-global/) | Quant Research Intern, Systematic Trading | New York, New York | \$182,000 | Oct 30 | [Apply](https://jainglobal.wd5.myworkdayjobs.com/LinkedInCareerSite/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603) |
 | Bank of Montreal | Quantitative Trading Analyst Co-op | Toronto, ON, Canada +1 |  | Oct 29 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657) |
 | [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Machine Learning Center of Excellence (Quant AI) - Summer Associate | Palo Alto, CA |  | Oct 26 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936) |
 | [FHLBD Federal Home Loan Bank of Dallas](https://internscout.org/internships/at/fhlbd-federal-home-loan-bank-of-dallas/) | 2027 Summer Accounting Intern - Investments & Derivatives | Irving, TX |  | Oct 26 | [Apply](https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Accounting-Intern_REQ-443) |
@@ -14,7 +15,6 @@
 | PDT Partners | Quantitative Research Intern | NYC |  | Oct 7 | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8263031) |
 | [Jain Global](https://internscout.org/internships/at/jain-global/) | Quant Modelling Intern | NYC |  | Oct 7 | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Modelling-Intern_JR100616) |
 | [Royal Bank of Canada](https://internscout.org/internships/at/royal-bank-of-canada/) | 2027 Global Markets Summer Analyst, Securitization Financing Portfolio Managment- Delaware | Wilmington, Delaware, United States of America |  | Oct 7 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Wilmington-Delaware-United-States-of-America/XMLNAME-2027-Global-Markets-Summer-Analyst--Securitization-Financing-Portfolio-Managment--Delaware_R-0000188801) |
-| [Jain Global](https://internscout.org/internships/at/jain-global/) | Quant Research Intern, Systematic Trading | New York, New York | \$182,000 | Oct 5 | [Apply](https://jainglobal.wd5.myworkdayjobs.com/LinkedInCareerSite/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603) |
 | [Jain Global](https://internscout.org/internships/at/jain-global/) | Quant Research Intern - Systematic Trading | NYC |  | Oct 5 | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603-1) |
 | [Diversified Energy](https://internscout.org/internships/at/diversified-energy/) | 2027 Summer Intern- Marketing/ Trading | Lexington, Kentucky |  | Oct 2 | [Apply](https://careers.div.energy/jobs/2735) |
 | [American Bankers Association](https://internscout.org/internships/at/american-bankers-association/) | Intern, Quantitative Research | Main Office, DC +1 | \$25/hour | Oct 2 | [Apply](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Quantitative-Research_R614) |
@@ -48,7 +48,6 @@
 | [DV Group](https://internscout.org/internships/at/dv-group/) | Futures & Options Trading Analyst Intern - Summer 2027 | New York +2 | \$18.75/hr | Aug 25 | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005) |
 | InfiniteQuant | Quantitative Developer Internship - Summer 2027 | NYC |  | Aug 24 | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134) |
 | Freddie Mac | Quantitative Risk Management Intern | McLean, VA |  | Aug 24 | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553) |
-| [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Trading (New York, NY) | New York, NY +1 | \$52,000 | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81350) |
 | Millennium | Quantitative Developer Intern | New York, NY |  | Aug 21 | [Apply](https://go.vansh.nyc/7g) |
 | Xantium | Quantitative Developer Intern | NYC |  | Aug 17 | [Apply](https://job-boards.greenhouse.io/xantium/jobs/4360768009) |
 | Xantium | Quantitative Researcher Intern | NYC |  | Aug 17 | [Apply](https://job-boards.greenhouse.io/xantium/jobs/4371217009) |
@@ -56,7 +55,6 @@
 | InfiniteQuant | Quantitative Researcher Intern - Summer 2027 | NYC |  | Aug 13 | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421) |
 | [AQR Capital Management](https://internscout.org/internships/at/aqr-capital-management/) | Quantitative Prediction Markets Research Summer Analyst Intern | Greenwich, CT |  | Aug 11 | [Apply](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) |
 | Quantbot Technologies | Quantitative Developer Intern | NYC |  | Aug 11 | [Apply](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) |
-| Quantbot Technologies | Data Trading Analyst Intern | NYC |  | Aug 11 | [Apply](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009) |
 | Quantbot Technologies | Quantitative Researcher Intern | NYC |  | Aug 11 | [Apply](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) |
 | [AQR](https://internscout.org/internships/at/aqr/) | 2027 Quantitative Prediction Markets Research Summer Analyst | Greenwich, CT |  | Aug 11 | [Apply](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) |
 | ConocoPhillips | Trading Analytics Intern | Houston, TX |  | Aug 11 | [Apply](https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429) |
@@ -104,7 +102,6 @@
 | [IMC Trading](https://internscout.org/internships/at/imc-trading/) | Quantitative Research Intern (BS/MS) - Summer 2027 | Chicago, United States +1 | \$250,000 | Jul 1 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) |
 | [IMC Trading](https://internscout.org/internships/at/imc-trading/) | Quantitative Trader Intern - Summer 2027 | Chicago, United States +1 | \$250,000 | Jul 1 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) |
 | Voloridge | Quantitative Research Intern 2027 | Jupiter, FL | \$100,000 | Jun 11 | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
-| Walleye Capital | PhD Quantitative Researcher Intern | Boston, MA |  | Jun 10 | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006) |
 | [TransMarket Group](https://internscout.org/internships/at/transmarket-group/) | Quantitative Trader Intern | Chicago, IL |  | Jun 2 | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007) |
 | Walleye Capital | Equity Volatility Quant Researcher Intern (Summer 2027) | Miami, FL | \$20,000/month | Jun 1 | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) |
 | [AQR Capital Management](https://internscout.org/internships/at/aqr-capital-management/) | Research and Portfolio Management Engineering Summer Analyst Intern | Greenwich, CT |  | May 26 | [Apply](https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728) |

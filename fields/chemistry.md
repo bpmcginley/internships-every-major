@@ -1,9 +1,10 @@
 # Chemistry: Summer 2027 Internships
 
-20 open Summer 2027 chemistry roles, newest first (all 20). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 46 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
+21 open Summer 2027 chemistry roles, newest first (all 21). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 47 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Lab Chemist Intern - Summer 2027 | Waynoka, OK |  | Oct 30 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168059) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Grad Intern – Bioanalytical Research Associate (Summer 2027) | US - California - Thousand Oaks | \$35.34 - \$41.20 per hour | Oct 29 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Grad-Intern---Bioanalytical-Research-Associate--Summer-2027-_R-260097) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Bioanalytical, Analytical & Formulation Sciences | TARRYTOWN | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Bioanalytical--Analytical---Formulation-Sciences_R52555) |
 | [AstraZeneca](https://internscout.org/internships/at/astrazeneca/) | 2027 Summer OTD Chemistry Summer Internship – Undergraduate | US - Cambridge Kendall SQ - MA | \$37-\$39 per hour | Oct 27 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/XMLNAME-2027-Summer-OTD-Chemistry-Summer-Internship---Undergraduate_R-262919) |

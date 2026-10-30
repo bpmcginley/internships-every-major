@@ -1,9 +1,15 @@
 # Media: Summer 2027 Internships
 
-28 open Summer 2027 media roles, newest first (all 28). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 121 media internships on InternScout](https://internscout.org/internships/media/)
+33 open Summer 2027 media roles, newest first (all 33). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 129 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Editorial Design Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748518005) |
+| [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Kitchen Team Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748503005) |
+| [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Editorial Projects Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748499005) |
+| [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Audience Team Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748501005) |
+| [Dow Jones](https://internscout.org/internships/at/dow-jones/) | Summer 2027 Internship Program – Research Analyst Intern | Houston, TX - OPIS | \$28.00 - \$28.00 | Oct 30 | [Apply](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55874) |
+| [Dow Jones](https://internscout.org/internships/at/dow-jones/) | Summer 2027 Internship Program – Research Analyst Intern | Houston, TX - OPIS +1 | \$28.00 - \$28.00 | Oct 30 | [Apply](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55873) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Houston Chronicle Visuals Internship - Summer 2027 | Houston, TX, United States | Paid | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466410009) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Audience Intern - Summer 2027 | Houston, TX, United States | Paid | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466386009) |
 | OpenArt AI | Early Adopter & Product Builder Intern, Creative AI | San Carlos, CA |  | Oct 22 | [Apply](https://go.vansh.nyc/ej) |
@@ -11,7 +17,6 @@
 | [Stifel](https://internscout.org/internships/at/stifel/) | Video & Digital Marketing Intern- Summer 2027 | Saint Louis, MO |  | Oct 21 | [Apply](https://careers-stifel.icims.com/jobs/9904/video-%26-digital-marketing-intern--summer-2027/job) |
 | Sony | Research Engineer Intern, Ethical Creative and Protective AI Lab | Remote |  | Oct 20 | [Apply](https://go.vansh.nyc/cP) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Recommendation Video | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694362230074673461) |
-| [Dow Jones](https://internscout.org/internships/at/dow-jones/) | Summer 2027 Internship Program – Research Analyst Intern | Houston, TX - OPIS +1 | \$28.00 - \$28.00 | Oct 14 | [Apply](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55873) |
 | [David Yurman](https://internscout.org/internships/at/david-yurman/) | Video Editing Intern | New York, NY | \$25/hour | Oct 14 | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Video-Editing-Intern_R-101115) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Creative Product Operations Intern - Multiple Teams | San Jose, CA |  | Oct 9 | [Apply](https://lifeattiktok.com/search/7693727532178229509) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Creative Product Manager Intern - Multiple Teams | San Jose, CA |  | Oct 9 | [Apply](https://lifeattiktok.com/search/7693732178706974981) |

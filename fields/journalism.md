@@ -1,9 +1,11 @@
 # Journalism: Summer 2027 Internships
 
-23 open Summer 2027 journalism roles, newest first (all 23). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 84 journalism internships on InternScout](https://internscout.org/internships/journalism/)
+25 open Summer 2027 journalism roles, newest first (all 25). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 88 journalism internships on InternScout](https://internscout.org/internships/journalism/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Editorial Design Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748518005) |
+| [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Editorial Projects Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748499005) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Breaking News Intern - Summer 2027 | Houston, TX, United States | Paid | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466393009) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Local News Intern - Summer 2027 | Dallas, TX, United States |  | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466388009) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Intern - Marketing, Communications, Journalism Majors | Chicago, IL | \$20 to \$33, | Oct 1 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern---Marketing--Communications--Journalism-Majors_R-0000033618-1) |

@@ -1,9 +1,12 @@
 # Marketing: Summer 2027 Internships
 
-271 open Summer 2027 marketing roles, newest first (the 200 newest of 271). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 764 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+273 open Summer 2027 marketing roles, newest first (the 200 newest of 273). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 765 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Communications Intern | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748228005) |
+| [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Advertising Revenue Operations Intern | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748489005) |
+| [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Advertising Business Operations & Enablement Operations Intern | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748487005) |
 | [Philips](https://internscout.org/internships/at/philips/) | Intern- eCommerce (Health Systems Marketing) — Cambridge, MA — Summer 2027 | Cambridge (US), Massachusetts, United States | \$26 – 30 | Oct 30 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern--eCommerce--Health-Systems-Marketing----Cambridge--MA---Summer-2027_593452) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Natural Gas Marketing | HOUSTON, Texas |  | Oct 29 | [Apply](https://careers.kindermorgan.com/jobs/6597) |
 | [Walmart](https://internscout.org/internships/at/walmart/) | (USA) 2027 Summer Corporate Intern: Corporate Product Marketing Intern | (USA) Upstream Building AR Bentonville Home Office |  | Oct 29 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Upstream-Building-AR-Bentonville-Home-Office/XMLNAME--USA--2027-Summer-Corporate-Intern---Corporate-Product-Marketing-Intern_R-2690891) |
@@ -179,7 +182,6 @@
 | [CSX](https://internscout.org/internships/at/csx/) | Sales & Marketing Analytics Internship - Summer 2027 (Paid) | Jacksonville, FL |  | Sep 4 | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54839) |
 | [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | Hardware Engineer Intern - Critical Infrastructure Communications | Rochester, NY |  | Sep 3 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-2) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Masters Summer Internship Program - 2027 Marketing, Global Merchant & Network Services - New York, NY | New York, NY | Paid | Sep 1 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012866) |
-| [Textron](https://internscout.org/internships/at/textron/) | 2027 Intern - Pricing & Estimating - Hunt Valley, MD | Hunt Valley, Maryland |  | Sep 1 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342801) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Masters Summer Internship Program - 2027 Marketing, US Consumer Services - New York, NY | New York, NY |  | Sep 1 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011602) |
 | [Compeer Financial](https://internscout.org/internships/at/compeer-financial/) | Intern Marketing | IL-Bloomington | Paid | Aug 31 | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5409763008) |
 | [Exelon](https://internscout.org/internships/at/exelon/) | 2027 Summer Internship - Communications & Marketing (Various Exelon Locations) | Baltimore, Maryland +7 | \$20.00/Hr | Aug 31 | [Apply](https://careers.comed.com/jobs/30146) |
@@ -202,8 +204,6 @@
 | [HNTB](https://internscout.org/internships/at/hntb/) | Communications & Engagement Intern - Summer 2027 | Columbus, OH +2 | \$19.12 - \$28.68 | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Columbus-OH/Communications---Engagement-Intern---Summer-2027_R-31327) |
 | [Highgate](https://internscout.org/internships/at/highgate/) | Sales & Marketing Intern - Summer 2027 | Boston, MA |  | Oct 24 | [Apply](https://externalhourly-highgate.icims.com/jobs/82532/sales-%26-marketing-intern---summer-2027/job) |
 | [Highgate](https://internscout.org/internships/at/highgate/) | Sales & Marketing Intern - Summer 2027 | Philadelphia, PA |  | Oct 24 | [Apply](https://externalhourly-highgate.icims.com/jobs/82531/sales-%26-marketing-intern---summer-2027/job) |
-| [Highgate](https://internscout.org/internships/at/highgate/) | Sales & Marketing Intern - Summer 2027 | NJ |  | Oct 24 | [Apply](https://externalhourly-highgate.icims.com/jobs/82530/sales-%26-marketing-intern---summer-2027/job) |
-| [Highgate](https://internscout.org/internships/at/highgate/) | Sales & Marketing Intern - Summer 2027 | New York, NY |  | Oct 24 | [Apply](https://externalhourly-highgate.icims.com/jobs/82506/sales-%26-marketing-intern---summer-2027/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

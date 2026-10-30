@@ -1,9 +1,10 @@
 # Communications: Summer 2027 Internships
 
-57 open Summer 2027 communications roles, newest first (all 57). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 197 communications internships on InternScout](https://internscout.org/internships/communications/)
+58 open Summer 2027 communications roles, newest first (all 58). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 200 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Communications Intern | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748228005) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern People, Communications, Change & Learning | TARRYTOWN +2 | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-People--Communications--Change---Learning_R52600-1) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Communications Intern - Summer 2027 | Kansas City, MO |  | Oct 27 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/Communications-Intern---Summer-2027_R-32203-1) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Marketing Communications Intern | Florida - Deerfield Beach |  | Oct 27 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Marketing-Communications-Intern_JR105099) |

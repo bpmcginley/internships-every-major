@@ -1,6 +1,6 @@
 # Math: Summer 2027 Internships
 
-35 open Summer 2027 math roles, newest first (all 35). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 58 math internships on InternScout](https://internscout.org/internships/math/)
+35 open Summer 2027 math roles, newest first (all 35). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 59 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

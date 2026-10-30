@@ -1,10 +1,13 @@
 # Civil Engineering: Summer 2027 Internships
 
-336 open Summer 2027 civil engineering roles, newest first (the 200 newest of 336). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 713 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+334 open Summer 2027 civil engineering roles, newest first (the 200 newest of 334). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 708 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Commonwealth Fusion Systems](https://internscout.org/internships/at/commonwealth-fusion-systems/) | Intern - Structural Engineer - Summer 2027 | Devens, MA | Paid | Oct 30 | [Apply](https://jobs.lever.co/cfsenergy/faa295da-2f67-41af-88aa-516f118e38e3/apply) |
+| [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering Intern - Summer 2027 | Charlotte, NC |  | Oct 30 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98538) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern/Co-op – Transportation (Summer 2027) | Pittsburgh, PA |  | Oct 30 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008561) |
+| [STV](https://internscout.org/internships/at/stv/) | Civil Engineering Intern - Summer 2027 | Duluth, Georgia |  | Oct 30 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Duluth-Georgia/Civil-Engineering-Intern---Summer-2027_JR6172) |
 | [Walmart](https://internscout.org/internships/at/walmart/) | (USA) 2027 Summer Corporate Intern: Construction Project Management Intern | (USA) Always AR Bentonville Home Office |  | Oct 29 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/XMLNAME--USA--2027-Summer-Corporate-Intern---Construction-Project-Management-Intern_R-2690400) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Water (Summer 2027) | Coral Gables, FL |  | Oct 29 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008539) |
 | [STV](https://internscout.org/internships/at/stv/) | Civil Engineering Intern - Summer 2027 | Waco, Texas | \$41,107.00 - \$46,713.00 | Oct 29 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Waco-Texas/Civil-Engineering-Intern---Summer-2027_JR6431) |
@@ -92,7 +95,7 @@
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering Intern - Summer 2027 | Lakewood, CO +1 |  | Oct 12 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97445) |
 | [ATC](https://internscout.org/internships/at/atc/) | Intern - Civil Engineering Summer 2027 | Pewaukee, WI +2 | \$23-27/hr | Oct 12 | [Apply](https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern---Engineering-Summer-2027_R0003305) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Structural Engineering Intern- Summer 2027 | Glastonbury, CT |  | Oct 12 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97413) |
-| [WSP](https://internscout.org/internships/at/wsp/) | Traffic Engineering Intern- Summer 2027 | Philadelphia, PA | Paid | Oct 12 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97446) |
+| [WSP](https://internscout.org/internships/at/wsp/) | Traffic Engineering Intern- Summer 2027 | Philadelphia, PA |  | Oct 12 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97446) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Bridge Design Intern - Infrastructure (Summer 2027) | Columbia, SC |  | Oct 12 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008240) |
 | SAM | Land Surveying Internship Program - Summer 2027 | Austin, Texas | \$20.00 | Oct 12 | [Apply](https://careers.sam.biz/jobs/8091) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Civil Engineering Intern, Land Development - Summer 2027 | Moon Township, PA |  | Oct 12 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310057) |
@@ -109,10 +112,7 @@
 | [Woolpert](https://internscout.org/internships/at/woolpert/) | Site Civil/Energy Internship (Summer 2027) | King of Prussia, PA | Paid | Oct 7 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4426103009) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Structural Engineering Intern - Summer 2027 | Chicago, IL |  | Oct 7 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97068) |
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Roadway Civil Engineering Intern - Summer 2027 | US.FL.Miami.800 Waterford Way | \$25 - \$31 hour | Oct 7 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USFLMiami800-Waterford-Way/Roadway-Civil-Engineering-Intern---Summer-2027_R-160102) |
-| [WSP](https://internscout.org/internships/at/wsp/) | Geotechnical Engineering Intern- Summer 2027 | New York, NY |  | Oct 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97019) |
-| [WSP](https://internscout.org/internships/at/wsp/) | Structural Engineering Intern- Summer 2027 | New York, NY |  | Oct 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97020) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Geotechnical Engineering Intern - Energy & Resources (Summer 2027) | Sacramento, CA |  | Oct 6 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008124) |
-| [WSP](https://internscout.org/internships/at/wsp/) | Traffic Engineering Intern- Summer 2027 | Chicago, IL |  | Oct 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97028) |
 | [Woolpert](https://internscout.org/internships/at/woolpert/) | Aviation Civil Internship - Kansas City (Summer 2027) | Kansas City, MO | Paid | Oct 5 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4428932009) |
 | [Woolpert](https://internscout.org/internships/at/woolpert/) | Aviation Civil Internship - Utah (Summer 2027) | Salt Lake City, UT |  | Oct 5 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4428513009) |
 | [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Civil Engineering Intern \| Melbourne, FL | Melbourne, FL | Paid | Oct 5 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Melbourne-FL/Civil-Engineering-Intern---Melbourne--FL_R-16840) |

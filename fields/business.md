@@ -1,9 +1,12 @@
 # Business: Summer 2027 Internships
 
-74 open Summer 2027 business roles, newest first (all 74). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 146 business internships on InternScout](https://internscout.org/internships/business/)
+77 open Summer 2027 business roles, newest first (all 77). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 148 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Business Administration (Long Beach) | Monterey Park, CA |  | Oct 30 | [Apply](https://apply.edisoncareers.com/job/Monterey-Park-2027-Summer-Internship-Business-Administration-%28Long-Beach%29-CA-91754/1446436100/) |
+| [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Business Risk & Controls (Raleigh, NC) | Raleigh, North Carolina |  | Oct 30 | [Apply](https://firstcitizens.jibeapply.com/jobs/36314) |
+| [Walmart](https://internscout.org/internships/at/walmart/) | Summer 2027 MBA Internship: Walmart Energy MBA Intern | Bentonville, AR |  | Oct 30 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Summer-2027-MBA-Internship--Walmart-Energy-MBA-Intern_R-2694348) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | GDIT Summer Internship Program – 2027 Business Analysis Associate Internship | Arlington, VA |  | Oct 30 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Arlington/GDIT-Summer-Internship-Program---2027-Business-Analysis-Associate-Internship_RQ230432) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Business Administration (Montebello) | Monterey Park, CA |  | Oct 28 | [Apply](https://apply.edisoncareers.com/job/Monterey-Park-2027-Summer-Internship-Business-Administration-%28Montebello%29-CA-91754/1444804800/) |
 | Tapestry | MBA Intern, Strategy | New York, New York, USA (Corporate Headquarters) | \$30/hour | Oct 28 | [Apply](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/MBA-Intern--Strategy_JR20544-1) |

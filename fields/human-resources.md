@@ -1,9 +1,10 @@
 # Human Resources: Summer 2027 Internships
 
-126 open Summer 2027 human resources roles, newest first (all 126). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 278 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+125 open Summer 2027 human resources roles, newest first (all 125). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 277 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 HR Intern - Garland, TX | Garland, TX |  | Oct 30 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625372) |
 | [Axiom Space](https://internscout.org/internships/at/axiom-space/) | Human Resources Intern (Summer 2027) | Houston |  | Oct 29 | [Apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Human-Resources-Intern--Summer-2027-_JR100817) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | HRIS Intern, Summer 2027 | Boston, MA +3 | \$21–24 per hour | Oct 28 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Boston-MA/Total-Rewards-and-HRIS--Intern-2027_10017569) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 HR Intern - Bowling Green, KY | Bowling Green, KY |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625377) |
@@ -75,7 +76,6 @@
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Food Safety & Quality Intern - Summer 2027 - Campus Recruiting (Multiple Locations) | Austin, MN +11 |  | Sep 4 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35738) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Industrial Engineering Intern - Summer 2027 - Campus Recruiting (Multiple Locations) | Austin, MN +7 |  | Sep 3 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35728) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Intern - HR Rotation | Bridgeton, Missouri |  | Sep 2 | [Apply](https://careers.na.panasonic.com/jobs/50753) |
-| [Geotab](https://internscout.org/internships/at/geotab/) | Campus Talent Acquisition Intern (Summer/May 2027, 12 Months) | Oakville, Ontario - Canada +2 | Paid | Sep 1 | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5309667008) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Production Management Intern- Summer 2027 (Multiple Locations)- Campus Recruiting | Austin, MN +8 |  | Sep 1 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35332) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Intern - HR Operations | Bridgeton, Missouri |  | Sep 1 | [Apply](https://careers.na.panasonic.com/jobs/50762) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Human Resources | Detroit, MI |  | Sep 1 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14626) |
@@ -101,7 +101,6 @@
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Compensation and Benefits Intern - Summer 2027 | Reston, VA |  | Oct 22 | [Apply](https://uscareers-idemia.icims.com/jobs/8693/compensation-and-benefits-intern---summer-2027/job) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Human Resources Operations Internship - Summer 2027 | Reston, VA |  | Oct 20 | [Apply](https://uscareers-idemia.icims.com/jobs/8694/human-resources-operations-internship---summer-2027/job) |
 | AriensCo | Intern, Human Resources | WI - Brillion |  | Oct 17 | [Apply](https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Intern--Human-Resources_R-04130) |
-| [W.W. Grainger](https://internscout.org/internships/at/w-w-grainger/) | Training Intern - Summer 2027 | GREEN BAY, WI |  | Oct 13 | [Apply](https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-Training-Intern-Summer-2027-WI-54301-5160/1435287600/) |
 | [Primient](https://internscout.org/internships/at/primient/) | Human Resources Intern - Summer 2027 | Schaumburg, IL | \$22.00/hr | Oct 2 | [Apply](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/Human-Resources-Intern---Summer-2027_JREQ7049) |
 | Thrivent | Recruiting Specialist Intern - Summer 2027 | Remote-Minnesota-Minneapolis Metro +7 | \$23.00-\$26.00 per hour | Sep 29 | [Apply](https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota-Minneapolis-Metro/Recruiting-Specialist-Intern---Summer-2027_REQ-48512) |
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | HR Shared Service Intern (Summer 2027) | Milwaukee, WI |  | Sep 26 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/HR-Shared-Service-Intern--Summer-2027-_REQ-020186) |

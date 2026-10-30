@@ -1,11 +1,11 @@
 # Nursing: Summer 2027 Internships
 
-7 open Summer 2027 nursing roles, newest first (all 7). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 69 nursing internships on InternScout](https://internscout.org/internships/nursing/)
+7 open Summer 2027 nursing roles, newest first (all 7). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 70 nursing internships on InternScout](https://internscout.org/internships/nursing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Cleveland Clinic](https://internscout.org/internships/at/cleveland-clinic/) | Nurse Associate Externship- Summer 2027 | Cleveland Clinic Main Campus, OH +3 |  | Oct 30 | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Nurse-Associate-Externship--Summer-2027_352606) |
 | [Geisinger](https://internscout.org/internships/at/geisinger/) | Nursing Student Summer Externship - RN Reproductive Endocrinology | Danville, PA | Paid | Oct 29 | [Apply](https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Danville-PA/Nursing-Student-Summer-Externship---RN-Reproductive-Endocrinology_R-12021) |
-| [Cleveland Clinic](https://internscout.org/internships/at/cleveland-clinic/) | Nurse Associate Externship- Summer 2027 | Cleveland Clinic Main Campus, OH +3 |  | Oct 27 | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Nurse-Associate-Externship--Summer-2027_352606) |
 | [Sanford Health](https://internscout.org/internships/at/sanford-health/) | Student Nurse Internship, Summer 2027: Minocqua, WI | WI, Minocqua |  | Oct 23 | [Apply](https://sanford.wd5.myworkdayjobs.com/SanfordHealth/job/WI-Minocqua/Student-Nurse-Internship--Summer-2027--Minocqua--WI_R-0279363) |
 | [Sanford Health](https://internscout.org/internships/at/sanford-health/) | Student Nurse Internship, Summer 2027: Rice Lake, WI | WI, Rice Lake |  | Oct 20 | [Apply](https://sanford.wd5.myworkdayjobs.com/SanfordHealth/job/WI-Rice-Lake/Student-Nurse-Internship--Summer-2027--Rice-Lake--WI_R-0279065) |
 | [Geisinger](https://internscout.org/internships/at/geisinger/) | Nursing Student Summer Externship - Apply Here for RN Hospital Case Management | Danville, PA | Paid | Oct 20 | [Apply](https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Danville-PA/Nursing-Student-Summer-Externship---Apply-Here-for-RN-Hospital-Case-Management_R-13237) |
