@@ -4,7 +4,7 @@
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Jones Lang LaSalle (JLL) | Leasing Summer 2027 Internship - Chicago, IL | Chicago, IL |  | Oct 29 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Leasing-Summer-2027-Internship---Chicago--IL_REQ539373) |
+| [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Leasing Summer 2027 Internship - Chicago, IL | Chicago, IL |  | Oct 29 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Leasing-Summer-2027-Internship---Chicago--IL_REQ539373) |
 | [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Real Estate | Atlanta, GA |  | Oct 28 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Atlanta-GA/XMLNAME-2027-Summer-Intern---Commercial-Real-Estate_2620101) |
 | [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program - Global Workplace & Enterprise Services Global Real Estate (GRES) Co-op | USA - New Jersey - Rahway +1 | \$39,908 - \$111,111 | Oct 28 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Workplace---Enterprise-Services-Global-Real-Estate--GRES--Co-op_R415296) |
 | [Visa](https://internscout.org/internships/at/visa/) | Real Estate Intern - Summer 2027 | US - San Francisco, CA | \$35.00to \$39.00/hr | Oct 27 | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---San-Francisco-CA/Real-Estate-Intern---Summer-2027_REF089902W) |

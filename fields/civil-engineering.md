@@ -1,9 +1,10 @@
 # Civil Engineering: Summer 2027 Internships
 
-336 open Summer 2027 civil engineering roles, newest first (the 200 newest of 336). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 715 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+336 open Summer 2027 civil engineering roles, newest first (the 200 newest of 336). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 713 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern/Co-op – Transportation (Summer 2027) | Pittsburgh, PA |  | Oct 30 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008561) |
 | [Walmart](https://internscout.org/internships/at/walmart/) | (USA) 2027 Summer Corporate Intern: Construction Project Management Intern | (USA) Always AR Bentonville Home Office |  | Oct 29 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/XMLNAME--USA--2027-Summer-Corporate-Intern---Construction-Project-Management-Intern_R-2690400) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Water (Summer 2027) | Coral Gables, FL |  | Oct 29 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008539) |
 | [STV](https://internscout.org/internships/at/stv/) | Civil Engineering Intern - Summer 2027 | Waco, Texas | \$41,107.00 - \$46,713.00 | Oct 29 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Waco-Texas/Civil-Engineering-Intern---Summer-2027_JR6431) |
@@ -203,7 +204,6 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Transportation Engineering Intern (Summer 2027!) | Indianapolis, Indiana | \$38.20 | Sep 11 | [Apply](https://careers.cdmsmith.com/jobs/4475) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Transportation Engineering Intern (Summer 2027!) | Lansing, Michigan | \$38.20 | Sep 11 | [Apply](https://careers.cdmsmith.com/jobs/4476) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Civil Engineering Intern, Summer 2027 (Bridge, Roadway, Drainage) | Salt Lake City, UT |  | Sep 11 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309882) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Construction Intern (Summer 2027!) | Concord, California | \$45.84 | Sep 11 | [Apply](https://careers.cdmsmith.com/jobs/4480) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,6 +1,6 @@
 # Consulting: Summer 2027 Internships
 
-129 open Summer 2027 consulting roles, newest first (all 129). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 279 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+128 open Summer 2027 consulting roles, newest first (all 128). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 279 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -42,7 +42,6 @@
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Enterprise Risk & Governance Program & Project Management Undergraduate Intern | Pittsburgh PA, 15222, FAP, 5th Avenue Place |  | Oct 19 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Enterprise-Risk---Governance-Program---Project-Management-Undergraduate-Intern_J287985) |
 | Seagate Technology | Machine Learning for Corporate Strategy Intern | Bloomington, MN |  | Oct 18 | [Apply](https://go.vansh.nyc/Sr) |
 | [RSM](https://internscout.org/internships/at/rsm/) | Process Risk and Controls Consulting Intern - Summer 2027 | San Francisco | \$37 - \$44 per hour | Oct 16 | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/San-Francisco/Process-Risk-and-Controls-Consulting-Intern---Summer-2027_JR116821) |
-| [RSM](https://internscout.org/internships/at/rsm/) | Technology Risk Consulting Intern - Summer 2027 | San Francisco | \$37 - \$44 per hour | Oct 16 | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/San-Francisco/Technology-Risk-Consulting-Intern---Summer-2027_JR116841) |
 | [RSM](https://internscout.org/internships/at/rsm/) | Process Risk and Controls Consulting Intern - Summer 2027 | Irvine | \$36 - \$43 per hour | Oct 16 | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Irvine/Process-Risk-and-Controls-Consulting-Intern---Summer-2027_JR116820) |
 | [RSM](https://internscout.org/internships/at/rsm/) | Oracle NetSuite Consulting Intern- Summer 2027 | San Diego | \$36 - \$43 per hour | Oct 16 | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/San-Diego/Oracle-NetSuite-Consulting-Intern--Summer-2027_JR117193) |
 | [Danaher Corporation](https://internscout.org/internships/at/danaher-corporation/) | CCM Data Governance Intern | Logan, UT |  | Oct 15 | [Apply](https://go.vansh.nyc/9F) |

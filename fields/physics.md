@@ -1,9 +1,10 @@
 # Physics: Summer 2027 Internships
 
-17 open Summer 2027 physics roles, newest first (all 17). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 77 physics internships on InternScout](https://internscout.org/internships/physics/)
+18 open Summer 2027 physics roles, newest first (all 18). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 80 physics internships on InternScout](https://internscout.org/internships/physics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Device Engineering Intern, Silicon Photonics (Summer 2027) | USA - New York - Malta +1 |  | Oct 30 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604263) |
 | [Commonwealth Fusion Systems](https://internscout.org/internships/at/commonwealth-fusion-systems/) | Intern - Plasma Physics - Summer 2027 | Devens, MA | Paid | Oct 27 | [Apply](https://jobs.lever.co/cfsenergy/32987ab7-59ed-4364-a012-91cbece8877a/apply) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Silicon Photonics Process Integration Intern (Summer 2027) | USA - New York - Malta |  | Oct 27 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Intern--Summer-2027-_JR-2604265) |
 | [Lumentum](https://internscout.org/internships/at/lumentum/) | Optical Algorithms and Analytics Engineering Co-op | Ottawa, ON |  | Oct 19 | [Apply](https://go.vansh.nyc/dy) |

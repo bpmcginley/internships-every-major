@@ -1,9 +1,11 @@
 # Law and Legal: Summer 2027 Internships
 
-135 open Summer 2027 law and legal roles, newest first (all 135). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 295 law and legal internships on InternScout](https://internscout.org/internships/law/)
+133 open Summer 2027 law and legal roles, newest first (all 133). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 293 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [JM Family](https://internscout.org/internships/at/jm-family/) | Legal Intern | Florida - Deerfield Beach |  | Oct 30 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Legal-Intern_JR105165) |
+| [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | International Trade Compliance Intern (Summer 2027) | Lone Tree, CO |  | Oct 30 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/International-Trade-Compliance-Intern--Summer-2027-_R0031252) |
 | Standard Insurance | Legal Intern | Portland, OR +2 | \$28-30/hr | Oct 30 | [Apply](https://standard.wd1.myworkdayjobs.com/search/job/Portland-OR/Legal-Intern_REQ007152) |
 | [CareSource](https://internscout.org/internships/at/caresource/) | 2027 Summer Internship Program - Compliance Analyst | Remote | \$41,200.00 - \$66,000.00 | Oct 29 | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Compliance-Analyst_R14109) |
 | Alberta Investment Management Corporation | Student, Legal | Calgary | Paid | Oct 29 | [Apply](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Calgary/Student--Legal_JR100948) |
@@ -105,9 +107,6 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Public Policy Intern (Kennett Square, PA) | Kennett Square, Pennsylvania |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138711) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Policy Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175556?gh_jid=8175556) |
 | [Spirit AeroSystems](https://internscout.org/internships/at/spirit-aerosystems/) | Boeing - Wichita Summer 2027 Internship Program (Paid) - Supplier Quality Assurance & Compliance | Wichita, Kansas | \$18.60/hr | Sep 8 | [Apply](https://careers.spiritaero.com/jobs/17513) |
-| [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Law - Miami, FL CLC | Miami, Florida | \$33/hour | Sep 4 | [Apply](https://jobs.statefarm.com/jobs/45868) |
-| [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Law - St. Petersburg, FL CLC | St. Petersburg, Florida | \$33/ hour | Sep 4 | [Apply](https://jobs.statefarm.com/jobs/45929) |
-| [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Law - Fort Lauderdale, FL CLC | Fort Lauderdale, Florida | \$33/hour | Sep 4 | [Apply](https://jobs.statefarm.com/jobs/45867) |
 | [Perry Homes](https://internscout.org/internships/at/perry-homes/) | 2027 Summer Internship - Legal Intern | Houston, Texas |  | Aug 31 | [Apply](https://apply.workable.com/j/5C5404EE8D/apply) |
 | [Exelon](https://internscout.org/internships/at/exelon/) | 2027 Summer Internship - Legal & Government Affairs Intern (Illinois) | OAKBROOK TERRACE, Illinois | \$20.00/Hr | Aug 31 | [Apply](https://careers.comed.com/jobs/30161) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Risk and Compliance (New York, NY) | New York, NY |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81271) |
@@ -124,7 +123,6 @@
 | Univera Healthcare | College Intern - Summer 2027 - Legal | Albany, NY | \$18.00 | Oct 29 | [Apply](https://www.careerbuilder.com/job-details/college-intern-summer-2027-legal-albany-ny--7f760ac2-f6f4-49a6-82f3-3c0125f63633?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Abandoned and Unclaimed Property Compliance | Tampa |  | Oct 24 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Tampa/Summer-2027-Intern--Abandoned-and-Unclaimed-Property-Compliance_R0020716-1) |
 | [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Abandoned and Unclaimed Property Compliance | King of Prussia |  | Oct 24 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/King-of-Prussia/Summer-2027-Intern--Abandoned-and-Unclaimed-Property-Compliance_R0020714-1) |
-| Edwards Lifesciences | Clinical & Regulatory Internship, Summer 2027 | USA IRV-1442 Alton/MIC | \$54,000 to \$72,000 | Oct 17 | [Apply](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA-IRV-1442-AltonMIC/Clinical---Regulatory-Internship--Summer-2027_Req-49745) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - RA/QA - Regulatory Affairs - Michigan | Portage, Michigan |  | Oct 14 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---RA-QA---Regulatory-Affairs---Michigan_R572590-1) |
 | [NJM Insurance Group](https://internscout.org/internships/at/njm-insurance-group/) | General Claims Legal Intern | NJM - Trenton, NJ | Paid | Oct 2 | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/General-Claims-Legal-Intern_R2008162) |
 | [NJM Insurance Group](https://internscout.org/internships/at/njm-insurance-group/) | Law Clerk Summer Intern | NJM - Trenton, NJ | \$21-\$25 hour | Oct 2 | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Law-Clerk-Summer-Intern_R2008215) |

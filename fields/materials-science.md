@@ -1,9 +1,10 @@
 # Materials Science: Summer 2027 Internships
 
-17 open Summer 2027 materials science roles, newest first (all 17). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 39 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
+18 open Summer 2027 materials science roles, newest first (all 18). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 40 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Stantec](https://internscout.org/internships/at/stantec/) | Metallurgy & Process Engineering Intern - Energy & Resources (Summer 2027) | Reno, NV |  | Oct 30 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008551) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Polymer R&D Summer Internship- Marengo, IL | Marengo, IL |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627494) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | R&D GSC Materials Science Internship- Brecksville, OH | Brecksville, OH |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627598) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | R&D GSC Polymer Internship- Brecksville, OH | Brecksville, OH |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627577) |

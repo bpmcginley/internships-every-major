@@ -1,9 +1,11 @@
 # Product Management: Summer 2027 Internships
 
-168 open Summer 2027 product management roles, newest first (all 168). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 291 product management internships on InternScout](https://internscout.org/internships/product-management/)
+170 open Summer 2027 product management roles, newest first (all 170). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 294 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Saab](https://internscout.org/internships/at/saab/) | Co-Op, Program Management | Quincy, MA +1 | \$21.89 - \$24.32 per hour | Oct 30 | [Apply](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/Quincy-MA/Co-Op--Program-Management_R-03386) |
+| [Amgen](https://internscout.org/internships/at/amgen/) | Undergrad Intern – Global Program Management (Summer 2027) | Remote | \$28.87 per hour | Oct 30 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Global-Program-Management--Summer-2027-_R-260084) |
 | Cloudflare | Product Manager Intern | Austin, TX |  | Oct 29 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8274790) |
 | [T-Mobile](https://internscout.org/internships/at/t-mobile/) | Associate Product Manager Intern | Overland Park, KS |  | Oct 29 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-Product-Manager-Internship_REQ380746) |
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Program Management Intern (Summer 2027) | Lone Tree, CO |  | Oct 29 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Program-Management-Intern--Summer-2027-_R0031171) |

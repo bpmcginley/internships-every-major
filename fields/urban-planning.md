@@ -1,9 +1,10 @@
 # Urban Planning: Summer 2027 Internships
 
-56 open Summer 2027 urban planning roles, newest first (all 56). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 123 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+57 open Summer 2027 urban planning roles, newest first (all 57). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 124 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Stantec](https://internscout.org/internships/at/stantec/) | Mine Planning Intern - Energy & Resources (Summer 2027) | Reno, NV |  | Oct 30 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008554) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | GIS Intern | Tampa, FL +1 |  | Oct 29 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tampa-FL/GIS-Intern_R-32235-1) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Transportation Planning Intern - Summer 2027 | Atlanta, GA |  | Oct 29 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98361) |
 | [Jabil](https://internscout.org/internships/at/jabil/) | Production Planning Intern (Part-Time) | St. Petersburg/Tampa, FL |  | Oct 29 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Production-Planning-Intern--Part-Time-_J2468448) |

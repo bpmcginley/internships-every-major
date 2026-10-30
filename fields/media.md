@@ -1,6 +1,6 @@
 # Media: Summer 2027 Internships
 
-29 open Summer 2027 media roles, newest first (all 29). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 120 media internships on InternScout](https://internscout.org/internships/media/)
+28 open Summer 2027 media roles, newest first (all 28). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 121 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -24,7 +24,6 @@
 | [CAE](https://internscout.org/internships/at/cae/) | Software Developer Intern, Content Creation Tools | Montreal, Canada |  | Sep 21 | [Apply](https://go.vansh.nyc/IU) |
 | [URBN](https://internscout.org/internships/at/urbn/) | Anthropologie Creative Digital Design Intern | Philadelphia, PA | Paid | Sep 14 | [Apply](https://homeoffice-na-urbn.icims.com/jobs/30763/anthropologie-creative-digital-design-intern/job) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Graphic Design & Creative Media Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138723) |
-| [Vertiv](https://internscout.org/internships/at/vertiv/) | Technical Writing Intern (Summer 2027) | Westerville, OH |  | Sep 8 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279289) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | ASIC Design Engineer Intern - Video Silicon IP | San Jose, CA |  | Aug 6 | [Apply](https://jobs.bytedance.com/en/position/7670332179383699717/detail) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Video/Image AI/ML Software Engineer Intern - Multimedia | San Diego, CA |  | Aug 6 | [Apply](https://jobs.bytedance.com/en/position/7670354329765464373/detail) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Creative Intelligence and Brand Innovation | San Jose, CA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7668642761473902901) |

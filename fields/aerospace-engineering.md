@@ -1,9 +1,11 @@
 # Aerospace Engineering: Summer 2027 Internships
 
-32 open Summer 2027 aerospace engineering roles, newest first (all 32). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 67 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
+34 open Summer 2027 aerospace engineering roles, newest first (all 34). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 69 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Research and Development - Energy and Propulsion Systems Architecture | Warren, Michigan, United States of America |  | Oct 30 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Energy-and-Propulsion-Systems-Architecture_JR-202622231) |
+| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Research & Development - Energy and Propulsion Controls | Warren, Michigan, United States of America |  | Oct 30 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research---Development---Energy-and-Propulsion-Controls_JR-202622207) |
 | [RTX](https://internscout.org/internships/at/rtx/) | F135 Engine Core Upgrade (ECU) Propulsion Systems Analysis Engineering Intern (Summer 2027) (Onsite) | East Hartford-G, CT | Paid | Oct 29 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/F135-Engine-Core-Upgrade--ECU--Propulsion-Systems-Analysis-Engineering-Intern--Summer-2027---Onsite-_01884696) |
 | [CACI](https://internscout.org/internships/at/caci/) | Aerospace Engineer Intern - Summer 2027 | Aberdeen Proving Ground, MD, US | \$43,900 - 87,900 | Oct 16 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Aberdeen-Proving-Ground-MD-US/Aerospace-Engineer-Intern---Summer-2027_333570) |
 | [Inversion Space](https://internscout.org/internships/at/inversion-space/) | Avionics Embedded Software Engineer - Summer Internship 2027 | Playa Vista, California, United States +2 | Paid | Oct 15 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4744391005) |

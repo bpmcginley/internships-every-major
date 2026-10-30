@@ -1,10 +1,14 @@
 # Engineering: Summer 2027 Internships
 
-654 open Summer 2027 engineering roles, newest first (the 200 newest of 654). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 1,794 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+654 open Summer 2027 engineering roles, newest first (the 200 newest of 654). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 1,791 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Soft IP Engineer Co-op Intern | Ottawa, ON, Canada +1 |  | Oct 30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862542) |
+| [Principal Financial Group](https://internscout.org/internships/at/principal-financial-group/) | Technical Engineer Internship - Des Moines, IA (Summer 2027) | Des Moines, Iowa | \$28 - \$30 / hour | Oct 30 | [Apply](https://careers.principal.com/jobs/52566) |
+| [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Quality Engineer Intern (Summer 2027) | Dayton, OH |  | Oct 30 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Quality-Engineer-Intern--Summer-2027-_R0031194) |
+| [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Specialty Engineering Intern (Summer 2027) | Dayton, OH |  | Oct 30 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Specialty-Engineering-Intern--Summer-2027-_R0031161) |
+| [Northrop Grumman](https://internscout.org/internships/at/northrop-grumman/) | 2027 Intern Engineer - Product Support | United States-Florida-Melbourne +1 | \$18.50 to \$33.50 per hour | Oct 30 | [Apply](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Engineer---Product-Support_R10258530) |
 | Synopsys | Technical Engineer Intern | Ottawa, ON, Canada +1 |  | Oct 29 | [Apply](https://synopsys.avature.net/careers/JobDetail/19523) |
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Extreme Programming Engineer Intern | Cincinnati, OH |  | Oct 29 | [Apply](https://go.vansh.nyc/Zd) |
 | Genius AI | Engineering Intern (Summer 2027) | NYC +5 | Paid | Oct 29 | [Apply](https://jobs.ashbyhq.com/geniusai/06198681-5c9d-40fa-aa68-ac92b65227c4/application) |
@@ -25,7 +29,7 @@
 | Renesas Electronics | Application Engineer Intern | San Jose, CA |  | Oct 28 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000158346447) |
 | [Pennsylvania State University](https://internscout.org/internships/at/pennsylvania-state-university/) | Research and Development Engineer Intern | State College, PA |  | Oct 28 | [Apply](https://go.vansh.nyc/Yd) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Summer 2027 Supplier Engineer Intern- Bachelor's (Chandler, AZ) | Chandler,AZ +2 | Paid | Oct 28 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Summer-2027-Supplier-Engineer-Intern--Bachelor-s--Chandler--AZ-_R2627698) |
-| Jones Lang LaSalle (JLL) | Engineering Summer 2027 Internship - Atlanta, GA | Atlanta, GA |  | Oct 28 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Engineering-Summer-2027-Internship---Atlanta--GA_REQ544583) |
+| [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Engineering Summer 2027 Internship - Atlanta, GA | Atlanta, GA |  | Oct 28 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Engineering-Summer-2027-Internship---Atlanta--GA_REQ544583) |
 | [Federal Home Loan Bank of Indianapolis](https://internscout.org/internships/at/federal-home-loan-bank-of-indianapolis/) | Network Engineer Intern | Indianapolis, IN | Paid | Oct 28 | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Network-Engineer-Intern_R630) |
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Network Engineer Intern (Summer 2027) | Hagerstown, MD | \$21.40 - \$29.43 | Oct 28 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Network-Engineer-Intern--Summer-2027-_R0031232) |
 | [Federal Home Loan Bank of Indianapolis](https://internscout.org/internships/at/federal-home-loan-bank-of-indianapolis/) | Automation Quality Engineer Intern | Indianapolis, IN | Paid | Oct 28 | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Automation-Quality-Engineer-Intern_R633) |
@@ -159,7 +163,6 @@
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Low Observables Engineer Intern | Costa Mesa, California, United States | Paid | Oct 19 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Guidance, Navigation, & Control Engineer Intern | Costa Mesa, California, United States | Paid | Oct 19 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268736007?gh_jid=5268736007) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Field Test Engineer Intern | Costa Mesa, California, United States +1 | Paid | Oct 19 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007) |
-| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova - Gas Power Field Engineering Intern - Summer 2027 | Schenectady |  | Oct 19 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Schenectady/GE-Vernova---Gas-Power-Field-Engineering-Intern---Summer-2027_R5054425-2) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Facility Engineer Intern - Summer 2027 | Kingsland, GA |  | Oct 19 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167233) |
 | [Micron Technology](https://internscout.org/internships/at/micron-technology/) | HBM Design Engineer Intern - HBM | Richardson, TX |  | Oct 19 | [Apply](https://go.vansh.nyc/bW) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Substation Engineering Intern | Liverpool, New York | \$20.00 | Oct 19 | [Apply](https://careers.trccompanies.com/jobs/27127) |
@@ -201,9 +204,6 @@
 | [Global Infrastructure](https://internscout.org/internships/at/global-infrastructure/) | Intern Engineering Designer, Bridge | US +1 |  | Oct 13 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--FL--Tampa---12802-Tampa-Oaks-Boulevard/Intern-Engineering-Designer--Bridge_6437) |
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Test Engineering Internship - Undergraduate | Van Horn, TX +4 | \$32.00 | Oct 13 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Test-Engineering-Internship---Undergraduate_R71433) |
 | [AeroVironment](https://internscout.org/internships/at/aerovironment/) | Summer 2027 Systems Test Engineer | Simi Valley, CA +15 |  | Oct 13 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Summer-2027-Systems-Test-Engineer_8390) |
-| [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Test Engineering Internship - Graduate | Van Horn, TX +5 | \$38.00 | Oct 13 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Van-Horn-TX/Summer-2027-Test-Engineering-Internship---Graduate_R71432) |
-| Figure AI | Deployment Engineering Intern | San Jose, CA |  | Oct 12 | [Apply](https://go.vansh.nyc/8a) |
-| [KLA](https://internscout.org/internships/at/kla/) | Algorithm Engineering Intern, GPU/CUDA | Milpitas, CA |  | Oct 12 | [Apply](https://go.vansh.nyc/8h) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

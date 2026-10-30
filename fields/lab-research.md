@@ -1,9 +1,10 @@
 # Lab Research: Summer 2027 Internships
 
-30 open Summer 2027 lab research roles, newest first (all 30). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 124 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
+31 open Summer 2027 lab research roles, newest first (all 31). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 125 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Research and Development - EPSR Lab | Warren, Michigan, United States of America |  | Oct 30 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---EPSR-Lab_JR-202623300) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Research Core Facilities, Lab Automation & Sample Management | TARRYTOWN | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Research-Core-Facilities--Lab-Automation---Sample-Management_R52556-1) |
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Claims Lab Developer Intern | Cincinnati, OH |  | Oct 27 | [Apply](https://go.vansh.nyc/Wm) |
 | [STV](https://internscout.org/internships/at/stv/) | Geotechnical Lab and Field Services Intern - Summer 2027 | Glasgow, Kentucky |  | Oct 27 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Glasgow-Kentucky/Geotechnical-Lab-and-Field-Services-Intern-----Summer-2027_JR6460) |

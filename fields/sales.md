@@ -1,9 +1,12 @@
 # Sales: Summer 2027 Internships
 
-312 open Summer 2027 sales roles, newest first (the 200 newest of 312). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 580 sales internships on InternScout](https://internscout.org/internships/sales/)
+314 open Summer 2027 sales roles, newest first (the 200 newest of 314). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 583 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Sales Instructional Design Internship | IRVINE, California | Paid | Oct 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/38125) |
+| [JM Family](https://internscout.org/internships/at/jm-family/) | JMA Sales Operations Intern | Florida - Deerfield Beach |  | Oct 30 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/JMA-Sales-Operations-Intern_JR105172) |
+| [ABB](https://internscout.org/internships/at/abb/) | Electrification Sales Internship - Summer 2027 | Houston, Texas, United States of America | \$20 - \$34 per hour | Oct 30 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Houston-Texas-United-States-of-America/Electrification-Sales-Internship---Summer-2027_JR00048198) |
 | [TIAA](https://internscout.org/internships/at/tiaa/) | 2027 Early Talent Internship: Nuveen Sales & Distribution | Chicago, IL, USA | \$24.23/hr | Oct 29 | [Apply](https://tiaa.wd1.myworkdayjobs.com/Search/job/Chicago-IL-USA/XMLNAME-2027-Early-Talent-Internship--Nuveen-Sales---Distribution_R261000133) |
 | [RSM](https://internscout.org/internships/at/rsm/) | State and Local Tax - Sales and Use Intern - Summer 2027 | Los Angeles | \$36 - \$43 per hour | Oct 29 | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Los-Angeles/State-and-Local-Tax---Sales-and-Use-Intern---Summer-2027_JR118281) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Fixed Sales Solutions Intern | Florida - Deerfield Beach |  | Oct 29 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Fixed-Sales-Solutions-Intern_JR105128) |
@@ -21,7 +24,6 @@
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | Summer 2027 Sales Engineering Internship | Falls Church, VA |  | Oct 28 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Sales-Engineering-Internship_RQ230955) |
 | [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | Commercial Sales Operations Intern - Summer 2027 | Atlanta, GA, USA |  | Oct 28 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Commercial-Sales-Operations-Intern---Summer-2027_R26_0000035643) |
 | [Q2](https://internscout.org/internships/at/q2/) | 2027 Summer Internship - Sales/Customer Success | Austin, Texas |  | Oct 28 | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Sales-Customer-Success_REQ-12905) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Team Sports/Sales | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Team-SportsSales-MD-21230/1434355500/) |
 | HD Supply | Sales Operations Intern - Summer 2027 | Atlanta-GA-US |  | Oct 27 | [Apply](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Sales-Operations-Intern---Summer-2027_R26004269) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Sales Reporting & Analysis Intern | Florida - Deerfield Beach +1 |  | Oct 27 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Sales-Reporting---Analysis-Intern_JR105145) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Intern - Sales Over 1000 | Detroit, MI +1 |  | Oct 27 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15035) |
@@ -70,7 +72,6 @@
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Sales Enablement & Learning | Wilmington, DE |  | Oct 21 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Sales-Enablement---Learning_R-104115-2) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management and Sales Summer Internship (Fresno) | Fresno, CA |  | Oct 20 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627066) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 UCD Sales and Service Undergraduate Intern | PA, Working at Home - Pennsylvania |  | Oct 20 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-UCD-Sales-and-Service-Undergraduate-Intern_J287462) |
-| [ABB](https://internscout.org/internships/at/abb/) | Electrification Sales Internship - Summer 2027 | Houston, Texas, United States of America | \$20 - \$34 per hour | Oct 20 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Houston-Texas-United-States-of-America/Electrification-Sales-Internship---Summer-2027_JR00048198) |
 | [Arthur J. Gallagher & Co.](https://internscout.org/internships/at/arthur-j-gallagher-co/) | U.S. Internship - Sales - ALL LOCATIONS | Rolling Meadows, Illinois |  | Oct 20 | [Apply](https://jobs.ajg.com/jobs/57704) |
 | [Amplify](https://internscout.org/internships/at/amplify/) | Summer 2027: Sales Intern | Remote |  | Oct 19 | [Apply](https://jobs.ashbyhq.com/amplify/d7018048-760b-492c-a6ab-d51673331ae2/application) |
 | [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program – Companion Animal Sales – Intern | USA - New Jersey - Rahway | \$39,908 - \$111,111 | Oct 19 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Companion-Animal-Sales---Intern_R422298) |
@@ -203,7 +204,6 @@
 | [StepStone Group](https://internscout.org/internships/at/stepstone-group/) | 2027 Venture Capital Business Development Summer Associate | Baltimore | \$105,000 / year | Aug 3 | [Apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8095092) |
 | [Jane Street](https://internscout.org/internships/at/jane-street/) | Sales and Trading Intern | New York, NY |  | Jul 24 | [Apply](https://go.vansh.nyc/47) |
 | [AQR](https://internscout.org/internships/at/aqr/) | 2027 Business Development Summer Analyst | Greenwich, CT |  | May 15 | [Apply](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) |
-| [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Northeast - Sales Internship MA-NH-RI-VT-ME (Comparion) - Summer 2027 | Springfield, MA +9 |  | Oct 30, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261749/northeast---sales-internship-ma-nh-ri-vt-me-%28comparion%29---summer-2027/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

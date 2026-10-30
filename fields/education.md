@@ -1,9 +1,10 @@
 # Education: Summer 2027 Internships
 
-12 open Summer 2027 education roles, newest first (all 12). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 212 education internships on InternScout](https://internscout.org/internships/education/)
+13 open Summer 2027 education roles, newest first (all 13). **Updated October 30, 2026.** [Back to every major](../README.md) · [See all 214 education internships on InternScout](https://internscout.org/internships/education/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Sales Instructional Design Internship | IRVINE, California | Paid | Oct 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/38125) |
 | Ohio State University | 2027 Buckeye Pathways Summer Internship Program | University Hospital, OH |  | Oct 28 | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/University-Hospital/XMLNAME-2027-Buckeye-Pathways-Summer-Internship-Program_R161007-2) |
 | [Argonne National Laboratory](https://internscout.org/internships/at/argonne-national-laboratory/) | Lee Teng Undergraduate Fellowship - Summer 2027 | Lemont, IL USA +1 | \$19.22 - \$45.54 | Oct 28 | [Apply](https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Lee-Teng-Undergraduate-Fellowship---Summer-2024_417000) |
 | [Draper](https://internscout.org/internships/at/draper/) | Acoustic and Vibration Technologies Intern (Summer 2027) | Cambridge, MA | \$20.00 - \$45.00 | Oct 13 | [Apply](https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Acoustic-and-Vibration-Technologies-Intern--Summer-2027-_JR003003-1) |
