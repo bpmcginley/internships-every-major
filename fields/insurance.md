@@ -1,10 +1,11 @@
 # Insurance: Summer 2027 Internships
 
-108 open Summer 2027 insurance roles, newest first (all 108). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 221 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+112 open Summer 2027 insurance roles, newest first (all 112). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 225 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | Revantage Corporate Services | Insurance Technology & AI Analytics Intern, Summer 2027 | Chicago, IL +1 | \$25.00 To \$30.00 Hour | Oct 30 | [Apply](https://revantage.wd1.myworkdayjobs.com/Revantage/job/Chicago-IL/Insurance-Technology---AI-Analytics-Intern--Summer-2027_JR104539) |
+| [AXA](https://internscout.org/internships/at/axa/) | Summer 2027 - Underwriting Data & Analytics Intern | NEW YORK +1 | \$25.00/hr | Oct 29 | [Apply](https://careers.axa.com/jobs/25498) |
 | [Cigna Group](https://internscout.org/internships/at/cigna-group/) | Risk & Underwriting Summer Internship Program | Franklin, TN +1 | \$24/hr | Oct 29 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Franklin-TN/Risk---Underwriting-Summer-Internship-Program_26009228) |
 | [Baldwin Group](https://internscout.org/internships/at/baldwin-group/) | Underwriting Intern, MSI | Hallandale Beach, Florida, US | Paid | Oct 29 | [Apply](https://baldwin.wd1.myworkdayjobs.com/Baldwin/job/Hallandale-Beach-Florida-US/Underwriting-Intern--MSI_JR110197-1) |
 | [IAT Insurance Group](https://internscout.org/internships/at/iat-insurance-group/) | Contract Surety Underwriting Internship | Houston TX |  | Oct 29 | [Apply](https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Houston-TX/Contract-Surety-Underwriting-Internship_JR100422) |
@@ -26,6 +27,7 @@
 | [Arch Capital Group](https://internscout.org/internships/at/arch-capital-group/) | Property Facultative Underwriting Summer Intern | Farmington, CT United States of America | Paid | Oct 20 | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/Farmington-CT-United-States-of-America/Property-Facultative-Underwriting-Summer-Intern_R26_824) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Commercial Lines Underwriting Internship - Summer 2027 | Fargo, ND |  | Oct 20 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Fargo-ND/Commercial-Lines-Underwriting-Internship---Summer-2027_R_14372) |
 | [Arthur J. Gallagher & Co.](https://internscout.org/internships/at/arthur-j-gallagher-co/) | U.S. Internship - Actuary - ALL LOCATIONS | Rolling Meadows, Illinois |  | Oct 20 | [Apply](https://jobs.ajg.com/jobs/57700) |
+| [AXA](https://internscout.org/internships/at/axa/) | Summer 2027 - Claims Intern, Canada Casualty | TORONTO, Canada | Paid | Oct 19 | [Apply](https://careers.axa.com/jobs/25496) |
 | [First American](https://internscout.org/internships/at/first-american/) | Commercial Title Underwriting Graduate Intern (Summer 2027) | Irvine, CA | \$30.00-\$34.00 Hour | Oct 19 | [Apply](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Irvine/Commercial-Title-Underwriting-Graduate-Intern--Summer-2027-_R059058) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Personal Lines Underwriting Internship - Summer 2027 | Traverse City, MI |  | Oct 16 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Traverse-City-MI/Personal-Lines-Underwriting-Internship---Summer-2027_R_14399) |
 | [Humana](https://internscout.org/internships/at/humana/) | Summer 2027 MBA Internship – Insurance Services | Louisville, KY +3 | \$37,440 - \$96,800 per year | Oct 15 | [Apply](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Summer-2027-MBA-Internship---Insurance-Services_R-433591) |
@@ -61,6 +63,8 @@
 | Empower | Summer 2027 Intern - Corporate Actuarial (Greenwood Village, CO) | CO Greenwood Village |  | Oct 1 | [Apply](https://empower.wd12.myworkdayjobs.com/empower/job/CO-Greenwood-Village/Summer-2027-Intern---Corporate-Actuarial--Greenwood-Village--CO-_R0062375) |
 | Empower | Summer 2027 Intern - Corporate Actuarial (Hartford) | CT Hartford | \$26.50 - \$30.50 per hour | Oct 1 | [Apply](https://empower.wd12.myworkdayjobs.com/empower/job/CT-Hartford/Summer-2027-Intern---Corporate-Actuarial--Hartford-_R0062373) |
 | Empower | Summer 2027 Intern – Actuarial Benefit Consulting Services | CT Hartford | \$26.50 - \$30.50 per hour | Oct 1 | [Apply](https://empower.wd12.myworkdayjobs.com/empower/job/CT-Hartford/Summer-2027-Intern---Actuarial-Benefit-Consulting-Services_R0062346) |
+| [AXA](https://internscout.org/internships/at/axa/) | Summer 2027 - Underwriting Intern | NEW YORK +4 | \$25.00/hr | Sep 29 | [Apply](https://careers.axa.com/jobs/25551) |
+| [AXA](https://internscout.org/internships/at/axa/) | Summer 2027 - Claims Intern | CHICAGO +2 | \$25.00/hour | Sep 29 | [Apply](https://careers.axa.com/jobs/25499) |
 | [SCOR](https://internscout.org/internships/at/scor/) | Actuarial Intern | Charlotte, North Carolina |  | Sep 25 | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5435) |
 | [F&G](https://internscout.org/internships/at/f-g/) | Intern, Underwriting Analyst - Summer, 2027 | Des Moines, Iowa, United States |  | Sep 11 | [Apply](https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7993208003) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Actuarial Intern - Summer 2027 | Addison, TX +1 | Paid | Aug 19 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4376293009) |

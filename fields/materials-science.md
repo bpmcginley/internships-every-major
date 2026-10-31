@@ -1,6 +1,6 @@
 # Materials Science: Summer 2027 Internships
 
-18 open Summer 2027 materials science roles, newest first (all 18). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 40 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
+19 open Summer 2027 materials science roles, newest first (all 19). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 41 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Interns - Materials Engineer - Whitehall, MI (Summer 2027) | Whitehall, MI |  | Sep 29 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119675) |
 | [Arconic](https://internscout.org/internships/at/arconic/) | Intern - Metallurgical Engineer | Alcoa, TN |  | Sep 25 | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114239) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Student Internship- Construction Materials Testing | Springfield, MO |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5395791008) |
+| [Honeywell](https://internscout.org/internships/at/honeywell/) | Materials Engineering/Materials Science - Summer 2027 Intern | United States |  | Aug 25 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155541) |
 | [Freeform](https://internscout.org/internships/at/freeform/) | Materials Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) +1 | \$30/hour | Aug 19 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003) |
 | [Kairos Power](https://internscout.org/internships/at/kairos-power/) | Chemical and Materials Engineering Internship - Summer 2027 | Alameda, CA +2 | Paid | Jul 22 | [Apply](https://job-boards.greenhouse.io/kairospower/jobs/6122803004) |
 

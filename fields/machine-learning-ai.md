@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [NVIDIA](https://internscout.org/internships/at/nvidia/) | Deep Learning Intern | Santa Clara, CA |  | Oct 31 | [Apply](https://go.vansh.nyc/12j) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Research Scientist Intern - Video and Edge - Multimedia Lab | San Jose, CA |  | Oct 30 | [Apply](https://jobs.bytedance.com/en/position/7702155940239264005/detail) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Software Engineer Intern - Machine Learning/Automated Reasoning | Boston, MA +8 |  | Oct 30 | [Apply](https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027) |
 | Cadillac Formula 1 Team | Aerodynamics AI Industrial Placement Intern | Indianapolis, IN |  | Oct 30 | [Apply](https://go.vansh.nyc/11b) |
@@ -40,7 +41,7 @@
 | [Boston Scientific](https://internscout.org/internships/at/boston-scientific/) | AI Solutions Engineering Intern | Arden Hills, MN |  | Oct 29 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813547675) |
 | Ericsson | AI and Automation Engineer Intern | Plano, TX |  | Oct 29 | [Apply](https://go.vansh.nyc/YK) |
 | Syntiant | DevOps Machine Learning Infrastructure Intern | Irvine, CA |  | Oct 29 | [Apply](https://go.vansh.nyc/11V) |
-| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles | Sunnyvale, California, United States of America +2 | \$9,600 – \$11,800 per month | Oct 29 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439) |
+| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles | Sunnyvale, California, United States of America +2 |  | Oct 29 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439) |
 | [T-Mobile](https://internscout.org/internships/at/t-mobile/) | Associate AI Engineer Intern | Overland Park, KS |  | Oct 29 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380484) |
 | Metova Federal | AI Intern | Orlando, FL |  | Oct 29 | [Apply](https://go.vansh.nyc/ZU) |
 | [CareSource](https://internscout.org/internships/at/caresource/) | 2027 Summer Internship Program - AI Intern | Remote +1 | \$41,200.00 - \$66,000.00 | Oct 29 | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Intern_R14123) |
@@ -70,7 +71,6 @@
 | Sephora | AI Automation Intern, WMS & DC Systems | United States |  | Oct 27 | [Apply](https://go.vansh.nyc/11M) |
 | [Visa](https://internscout.org/internships/at/visa/) | Data Science Intern, Data and AI Team | Foster City, CA |  | Oct 27 | [Apply](https://go.vansh.nyc/UG) |
 | Saviynt | Research Scientist Intern - PhD | Milpitas, California +1 |  | Oct 27 | [Apply](https://jobs.lever.co/saviynt/183188c3-c043-4f91-b3f0-30ec4961f4c7/apply) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, AI Automation | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-AI-Automation-MD-21230/1434354900/) |
 | [Assurant](https://internscout.org/internships/at/assurant/) | AI and Data Science Intern | Atlanta, GA |  | Oct 27 | [Apply](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Georgia-Virtual/Summer-2027--AI-and-Data-Science-Internship_R-116105) |
 | [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Machine Learning Center of Excellence - Time Series and Reinforcement Learning (TSRL) - Summer Associate | New York, NY +1 |  | Oct 27 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803983) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Physical AI Manufacturing Intern - Summer 2027 - Smyrna, TN | Smyrna, Tennessee - United States of America +1 |  | Oct 27 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Physical-AI-Manufacturing-Intern---Summer-2027---Smyrna--TN_R00214526) |

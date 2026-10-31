@@ -1,6 +1,6 @@
 # Civil Engineering: Summer 2027 Internships
 
-333 open Summer 2027 civil engineering roles, newest first (the 200 newest of 333). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 706 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+334 open Summer 2027 civil engineering roles, newest first (the 200 newest of 334). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 707 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Woolpert](https://internscout.org/internships/at/woolpert/) | Site Civil/Energy Internship (Summer 2027) | King of Prussia, PA | Paid | Oct 7 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4426103009) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Structural Engineering Intern - Summer 2027 | Chicago, IL |  | Oct 7 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97068) |
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Roadway Civil Engineering Intern - Summer 2027 | US.FL.Miami.800 Waterford Way | \$25 - \$31 hour | Oct 7 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USFLMiami800-Waterford-Way/Roadway-Civil-Engineering-Intern---Summer-2027_R-160102) |
+| [WSP](https://internscout.org/internships/at/wsp/) | Geotechnical Engineering Intern- Summer 2027 | New York, NY |  | Oct 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97019) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Structural Engineering Intern- Summer 2027 | New York, NY |  | Oct 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97020) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Geotechnical Engineering Intern - Energy & Resources (Summer 2027) | Sacramento, CA |  | Oct 6 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008124) |
 | [Woolpert](https://internscout.org/internships/at/woolpert/) | Aviation Civil Internship - Kansas City (Summer 2027) | Kansas City, MO | Paid | Oct 5 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4428932009) |
@@ -203,7 +204,6 @@
 | [Tighe & Bond](https://internscout.org/internships/at/tighe-bond/) | Civil Engineering Internship - Site Design - Summer 2027 | Worcester, MA | \$21.00 | Sep 9 | [Apply](https://careers-tighebond.icims.com/jobs/1842/civil-engineering-internship---site-design---summer-2027/job) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Construction Intern, Summer 2027 | Madison, WI +1 |  | Sep 9 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309859) |
 | [Tighe & Bond](https://internscout.org/internships/at/tighe-bond/) | Civil Engineering Internship - Site Design - Summer 2027 | Providence, RI | \$21.00 | Sep 9 | [Apply](https://careers-tighebond.icims.com/jobs/1844/civil-engineering-internship---site-design---summer-2027/job) |
-| [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering Intern - Summer 2027 | Fort Worth, TX |  | Sep 7 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94212) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

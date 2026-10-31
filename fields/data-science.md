@@ -1,10 +1,9 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-566 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 566). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 1,083 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+565 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 565). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 1,081 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [Northrop Grumman](https://internscout.org/internships/at/northrop-grumman/) | Data Scientist Intern, Product Support | San Diego, CA |  | Oct 31 | [Apply](https://go.vansh.nyc/125) |
 | Firework | Data Engineer Intern | San Mateo, CA |  | Oct 31 | [Apply](https://go.vansh.nyc/11I) |
 | [Strada Education Foundation](https://internscout.org/internships/at/strada-education-foundation/) | Clear Outcomes and Data Science Intern | Washington, DC |  | Oct 30 | [Apply](https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b/apply) |
 | Divergent Technologies | Summer 2027 Business Intelligence Intern | Torrance, California, United States +1 | Paid | Oct 30 | [Apply](https://job-boards.greenhouse.io/divergent/jobs/5393519008) |
@@ -13,6 +12,7 @@
 | [Northrop Grumman](https://internscout.org/internships/at/northrop-grumman/) | 2027 Intern Product Support – Data Scientist | United States-California-San Diego | \$30.50-\$48.00 | Oct 30 | [Apply](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Reporting & Analytics Internship (Remote) – Summer 2027 (Undergraduate) | United States |  | Oct 30 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040171) |
 | [Hyster-Yale Materials Handling](https://internscout.org/internships/at/hyster-yale-materials-handling/) | Summer 2027 Business Analytics Intern | HY US Greenville, NC (Headquarters) +1 |  | Oct 30 | [Apply](https://hysteryale.wd1.myworkdayjobs.com/hyster-yalecareers/job/HY-US-Greenville-NC-Headquarters/Summer-2027-Business-Analytics-Intern_R8539) |
+| [Northrop Grumman](https://internscout.org/internships/at/northrop-grumman/) | Data Scientist Intern - Product Support | San Diego, CA |  | Oct 30 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Customer Experience & Analytics Internship (Remote) – Summer 2027 (Undergraduate) | United States +1 |  | Oct 30 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040169) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Data Analytics Internship (Remote) – Summer 2027 (Undergraduate) | United States |  | Oct 30 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040160) |
 | University of Miami | Data Science & AI Intern | Miami, FL |  | Oct 30 | [Apply](https://go.vansh.nyc/11t) |
@@ -32,6 +32,7 @@
 | Syngenta Group | Data Scientist Intern | Raleigh, NC |  | Oct 29 | [Apply](https://jobs.smartrecruiters.com/SyngentaGroup/744000158494415) |
 | [Tesla](https://internscout.org/internships/at/tesla/) | Data Engineer Intern - Energy | Palo Alto, CA |  | Oct 29 | [Apply](https://www.tesla.com/careers/search/job/287982) |
 | [Disney](https://internscout.org/internships/at/disney/) | Enterprise Technology & Data Software Engineering Intern | Orlando, FL |  | Oct 29 | [Apply](https://go.vansh.nyc/YL) |
+| [AXA](https://internscout.org/internships/at/axa/) | Summer 2027 - Underwriting Data & Analytics Intern | NEW YORK +1 | \$25.00/hr | Oct 29 | [Apply](https://careers.axa.com/jobs/25498) |
 | [Walmart](https://internscout.org/internships/at/walmart/) | Data & Tech Transformation Intern | Bentonville, AR |  | Oct 29 | [Apply](https://go.vansh.nyc/ZW) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | IT Data Intern - Summer 2027 | Cincinnati, OH (USA) +1 |  | Oct 29 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Data-Intern---Summer-2027_R9820) |
 | [GM financial](https://internscout.org/internships/at/gm-financial/) | Intern - Data Engineer | Arlington, TX |  | Oct 29 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261197) |
@@ -203,7 +204,6 @@
 | [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Quality Data Science Co-op | Cincinnati, OH |  | Oct 19 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629) |
 | Seagate Technology | Software and Data Analytics Development Intern, AFM | Bloomington, MN |  | Oct 18 | [Apply](https://go.vansh.nyc/Sq) |
 | [Celestica](https://internscout.org/internships/at/celestica/) | SCM Data Analyst Intern | Toronto, Canada |  | Oct 18 | [Apply](https://go.vansh.nyc/R1) |
-| [Campbell Soup Company](https://internscout.org/internships/at/campbell-soup-company/) | Data Science Intern | Camden, NJ |  | Oct 18 | [Apply](https://go.vansh.nyc/QO) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

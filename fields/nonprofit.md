@@ -1,10 +1,11 @@
 # Nonprofit: Summer 2027 Internships
 
-28 open Summer 2027 nonprofit roles, newest first (all 28). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 114 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
+29 open Summer 2027 nonprofit roles, newest first (all 29). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 115 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | Jackson | Corporate Philanthropy Intern Nashville - Starting Summer 2027 | Nashville, TN |  | Oct 30 | [Apply](https://jackson.wd1.myworkdayjobs.com/jackson_campus/job/Nashville-TN/Corporate-Philanthropy-Intern-Nashville---Starting-Summer-2027_REQ-04032) |
+| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Community Impact | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Community-Impact-MD-21230/1434384000/) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Corporate Community Impact Intern | Florida - Deerfield Beach |  | Oct 26 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Corporate-Community-Impact-Intern_JR105107) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 E2 Advocacy Intern | San Francisco, CA | \$7,000.00 | Oct 22 | [Apply](https://careers-nrdc.icims.com/jobs/6052/summer-2027-e2-advocacy-intern/job) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Community Impact | Wilmington, DE |  | Oct 21 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Community-Impact_R-104110-2) |

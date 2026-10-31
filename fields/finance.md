@@ -1,6 +1,6 @@
 # Finance: Summer 2027 Internships
 
-535 open Summer 2027 finance roles, newest first (the 200 newest of 535). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 898 finance internships on InternScout](https://internscout.org/internships/finance/)
+541 open Summer 2027 finance roles, newest first (the 200 newest of 541). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 905 finance internships on InternScout](https://internscout.org/internships/finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Schonfeld](https://internscout.org/internships/at/schonfeld/) | 2027 PhD Centralized Research Intern | New York, New York, United States +1 | \$125,000 | Oct 22 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8174538) |
 | BRG | 2027 Summer Associate – Corporate Finance – Valuation (New York and Boston) | Boston, MA +1 | \$30-35/hr | Oct 22 | [Apply](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Boston-MA/XMLNAME-2027-Summer-Associate---Corporate-Finance---Valuation--New-York-and-Boston-_JR101096) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Summer 2027 Real Estate Financial Analysis (Investment and Asset Management) | Detroit, MI |  | Oct 22 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Summer-2027-Real-Estate-Financial-Analysis--Investment-and-Asset-Management-_R-085044) |
+| [AXA](https://internscout.org/internships/at/axa/) | Summer 2027 - Finance Intern, Chief Accounting & Capital Office | STAMFORD | \$25.00/hr | Oct 21 | [Apply](https://careers.axa.com/jobs/28352) |
 | [Aon](https://internscout.org/internships/at/aon/) | 2027 Investments Intern - Chicago, IL | Chicago, Illinois | \$20.00 – \$22.00 per hour | Oct 21 | [Apply](https://jobs.aon.com/jobs/109997) |
 | Houlihan Lokey | Summer 2027 Financial Analyst (Class of 2028), Corporate Valuation Advisory Services - Dallas | Dallas, TX, USA | \$80,000 - \$85,000 | Oct 21 | [Apply](https://hl.wd1.myworkdayjobs.com/Campus/job/Dallas-TX-USA/Summer-2027-Financial-Analyst--Class-of-2028---Corporate-Valuation-Advisory-Services---Dallas_R3667) |
 | [Aon](https://internscout.org/internships/at/aon/) | 2027 M&A Intern - Chicago, IL | Chicago, Illinois | \$25.00 – \$27.00 per hour | Oct 21 | [Apply](https://jobs.aon.com/jobs/109977) |
@@ -203,7 +204,6 @@
 | [ABB](https://internscout.org/internships/at/abb/) | Finance Operations Intern – Summer 2027 | USA, NJ | \$20 - \$34 per hour | Oct 6 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NJ-Hackettstown/Finance-Operations-Intern---Summer-2027_JR00048200) |
 | [Royal Bank of Canada](https://internscout.org/internships/at/royal-bank-of-canada/) | Capital Markets Intern - Quantitative Technology Services | Raleigh, NC |  | Oct 6 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/8081-ARCO-CORPORATE-DRIVERALEIGH/XMLNAME-2027-Capital-Markets--Quantitative-Technology-Services-Summer--Raleigh_R-0000189675) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Health Plan FP&A Graduate Finance Intern | Pittsburgh PA, 15222, PAP, Penn Avenue Place |  | Oct 6 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Health-Plan-FP-A-Graduate-Finance-Intern_J285909) |
-| [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Consumer & Community Banking - Risk Modeling Associate Program - Summer Internship | Wilmington, DE +4 |  | Oct 6 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796061) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

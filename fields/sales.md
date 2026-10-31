@@ -1,6 +1,6 @@
 # Sales: Summer 2027 Internships
 
-307 open Summer 2027 sales roles, newest first (the 200 newest of 307). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 570 sales internships on InternScout](https://internscout.org/internships/sales/)
+308 open Summer 2027 sales roles, newest first (the 200 newest of 308). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 571 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Sales Internship (Foodservice & On Premise) | Caledonia, Michigan | \$23/hr | Aug 31 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/35804) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | Sales Intern (Summer 2027) | Tysons Corner, Virginia | \$18.00 per hour | Aug 24 | [Apply](https://careers.cvent.com/jobs/10703) |
 | [Arthur J. Gallagher & Co.](https://internscout.org/internships/at/arthur-j-gallagher-co/) | Canada Internship - Sales | Toronto, Ontario, Canada |  | Aug 17 | [Apply](https://jobs.ajg.com/jobs/57699) |
+| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL |  | Aug 15 | [Apply](https://higher.gs.com/roles/181628?type=students) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Sales Data Analytics Intern | Westerville, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279291) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Sales Data Analytics Intern - Summer 2027 | Westerville, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279293) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Technical Sales Engineering Intern - IT Channel (Summer 2027) | Columbus, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278722) |
@@ -203,7 +204,6 @@
 | [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | PacWest - Sales Internship (Comparion) - Summer 2027 | Chandler, AZ +8 |  | Oct 31, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261753/pacwest---sales-internship-%28comparion%29---summer-2027/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Sales Enablement Intern | Niles, IL | \$23-\$43 per hour | Oct 31, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5009/global-sales-enablement-intern/job) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | 2027 Summer Sales Intern- South Region | Dallas, Texas | \$23.00 - \$27.00 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/130910) |
-| [Oshkosh](https://internscout.org/internships/at/oshkosh/) | Sales Operations Intern (Summer 2027) | Dodge Center, Minnesota, United States |  | Oct 31 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Sales-Operations-Intern--Summer-2027-_R49799) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

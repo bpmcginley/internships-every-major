@@ -1,6 +1,6 @@
 # Marketing: Summer 2027 Internships
 
-274 open Summer 2027 marketing roles, newest first (the 200 newest of 274). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 766 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+274 open Summer 2027 marketing roles, newest first (the 200 newest of 274). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 765 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

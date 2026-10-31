@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-291 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 291). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 763 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+289 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 289). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 758 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -38,7 +38,6 @@
 | Toshiba International Corporation | Firmware Engineer Intern | San Jose, CA |  | Oct 27 | [Apply](https://go.vansh.nyc/11O) |
 | stealth-startup-community | Embedded Firmware and Controls Engineer Intern | Austin, TX |  | Oct 27 | [Apply](https://go.vansh.nyc/X4) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Silicon Photonics Process Integration Intern (Summer 2027) | USA - New York - Malta |  | Oct 27 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Intern--Summer-2027-_JR-2604265) |
-| [RTX](https://internscout.org/internships/at/rtx/) | Embedded Software Engineer Intern | Goleta, CA |  | Oct 27 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Software-Engineering-Intern--Summer-2027-_01884782) |
 | [Trimble](https://internscout.org/internships/at/trimble/) | Firmware & Machine Learning Engineering Intern (16 Months) | Canada - Richmond Hill, Ontario (Applanix) +1 |  | Oct 27 | [Apply](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern – AI & Hardware Analytics, ADPT | Warren, Michigan, United States of America +3 | \$8,100 – \$8,700 per month | Oct 27 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756) |
 | [HP IQ](https://internscout.org/internships/at/hp-iq/) | Electrical Engineering Intern, Hardware (Summer 2027) | San Francisco, CA +1 | \$40.00–\$50.00 per hour | Oct 26 | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6116396004) |
@@ -192,7 +191,6 @@
 | [Dell Technologies](https://internscout.org/internships/at/dell-technologies/) | Hardware Engineering Intern - Client Solutions Group Engineering | Austin, TX |  | Sep 10 | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298216) |
 | [Bedrock Robotics](https://internscout.org/internships/at/bedrock-robotics/) | 2027 Internship Sensor Hardware Test Engineer | San Francisco, CA +2 | Paid | Sep 10 | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/1f413f83-b897-4938-a19e-ab91bd326c51/application) |
 | [RF-SMART](https://internscout.org/internships/at/rf-smart/) | Hardware Support Internship - Summer 2027 | Jacksonville, Florida, United States | \$20 per Hour | Sep 8 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5407220008) |
-| [RTX](https://internscout.org/internships/at/rtx/) | FPGA Electrical Design Engineer Intern | Tucson, AZ |  | Sep 8 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/FPGA-Electrical-Design-Engineer-Intern--Summer-2027--Onsite-_01872989) |
 | [Solidigm](https://internscout.org/internships/at/solidigm/) | Software Development & Firmware Engineering Intern | Rancho Cordova, CA +2 |  | Sep 5 | [Apply](https://go.vansh.nyc/Mi) |
 | [Solidigm](https://internscout.org/internships/at/solidigm/) | Software Engineering Intern - Firmware & AI Engineering | Rancho Cordova, CA |  | Sep 5 | [Apply](https://jobs.smartrecruiters.com/Solidigm/744000147613769) |
 | [Solidigm](https://internscout.org/internships/at/solidigm/) | Software Development & Firmware Engineering Intern - Multiple Teams | Rancho Cordova, CA +2 |  | Sep 5 | [Apply](https://jobs.smartrecruiters.com/Solidigm/744000147613629) |
@@ -204,6 +202,8 @@
 | [Marvell](https://internscout.org/internships/at/marvell/) | Design Verification Intern - BS - Summer 2027 | Morrisville, NC +4 |  | Sep 4 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505) |
 | [Tesla](https://internscout.org/internships/at/tesla/) | Embedded Software Engineer Intern - Optimus | Palo Alto, CA |  | Sep 3 | [Apply](https://www.tesla.com/careers/search/job/282340) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | ASIC Firmware and Diagnostic Intern | Bloomington, MN +1 |  | Sep 3 | [Apply](https://go.vansh.nyc/M3) |
+| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | Hardware Engineer Intern - Critical Infrastructure Communications | Rochester, NY |  | Sep 3 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-2) |
+| [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | Pre-Silicon Diagnostics Intern | Fort Collins, CO |  | Sep 3 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Pre-Silicon-Diagnostics-Intern_1213394) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

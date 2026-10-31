@@ -1,6 +1,6 @@
 # Software Engineering: Summer 2027 Internships
 
-1,620 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,620). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 3,170 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,616 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,616). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 3,163 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -41,7 +41,6 @@
 | [FOX](https://internscout.org/internships/at/fox/) | Summer and Fall 2027 FOX Technology Internship Program - Live Sports Virtual Enhancement Operator | Tempe, AZ |  | Oct 30 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Summer-and-Fall-2027-FOX-Technology-Internship-Program---Live-Sports-Virtual-Enhancement-Operator_R50033973) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | NVIDIA 2027 Internships: Software Engineering | US, CA +3 | Paid | Oct 30 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) |
 | [Cigna Group](https://internscout.org/internships/at/cigna-group/) | The Cigna Group's Technology Development Program - Data & Analytics Engineering Track Summer Internship | Bloomfield, CT +3 | \$25.00 to \$33.00 per hour | Oct 30 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/The-Cigna-Group-s-Technology-Development-Program---Data---Analytics-Engineering-Track-Summer-Internship_26009533) |
-| [Northrop Grumman](https://internscout.org/internships/at/northrop-grumman/) | Systems Engineer Intern | Woodland Hills, LA |  | Oct 29 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Systems-Engineer-Intern---Woodland-Hills-CA_R10249319-1) |
 | [Waggoner Financial](https://internscout.org/internships/at/waggoner-financial/) | Software Engineer Intern | Lansing, MI |  | Oct 29 | [Apply](https://go.vansh.nyc/109) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | AI Software Systems Co-op Intern | Toronto, ON, Canada +1 |  | Oct 29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862430) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | AI Software Engineering Co-op Intern | Toronto, ON, Canada +1 |  | Oct 29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862429) |
@@ -204,6 +203,7 @@
 | [Visa](https://internscout.org/internships/at/visa/) | Sophomore Program Software Engineer Intern | Bellevue, WA +4 |  | Oct 27 | [Apply](https://go.vansh.nyc/Vx) |
 | [Disney](https://internscout.org/internships/at/disney/) | Software Engineer Intern, Pipeline Infrastructure | Vancouver, Canada |  | Oct 27 | [Apply](https://go.vansh.nyc/UA) |
 | [Disney](https://internscout.org/internships/at/disney/) | Systems Engineer Intern, Data Services | Vancouver, Canada |  | Oct 27 | [Apply](https://go.vansh.nyc/Uz) |
+| Lockheed Martin | Software Engineer Intern | Huntsville, AL +2 |  | Oct 27 | [Apply](https://go.vansh.nyc/UC) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

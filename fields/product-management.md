@@ -1,6 +1,6 @@
 # Product Management: Summer 2027 Internships
 
-175 open Summer 2027 product management roles, newest first (all 175). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 303 product management internships on InternScout](https://internscout.org/internships/product-management/)
+173 open Summer 2027 product management roles, newest first (all 173). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 301 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -128,11 +128,9 @@
 | [American Express](https://internscout.org/internships/at/american-express/) | Campus Graduate Masters Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- Su… | Sunrise, FL |  | Sep 1 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012145) |
 | Blackhawk Network Holdings | Product Management Intern | Coppell, Texas +1 | \$25.00/hr | Aug 31 | [Apply](https://blackhawknetwork.jibeapply.com/jobs/26868) |
 | Blackhawk Network Holdings | Product Management Intern | Pleasanton, California +1 | \$25.00/hr | Aug 31 | [Apply](https://blackhawknetwork.jibeapply.com/jobs/26869) |
-| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | Product Management Intern - Controls Lifecare Services | Longmont, CO +1 |  | Aug 30 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-2) |
 | TELUS Digital | Product Analyst Intern (US) - Summer 2027 | Columbus +3 |  | Aug 28 | [Apply](https://jobs.ashbyhq.com/telus-digital/e1dfd8b7-fb8a-4ce9-957f-0706b13195c7/application) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | Product Management Intern | Andover, MA +9 |  | Aug 28 | [Apply](https://go.vansh.nyc/OB) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | DC Power Product Management Intern - Summer 2027 | Delaware, OH |  | Aug 25 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279952) |
-| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | Controls Product Management Intern - Summer 2027 | Longmont, CO +1 |  | Aug 25 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Product Manager Intern - Pgc | LA +1 |  | Aug 24 | [Apply](https://lifeattiktok.com/search/7673365416605010229) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Product Management (New York, NY) | New York, NY +1 |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81345) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | AI Product Manager Intern - Product Social | San Jose, CA |  | Aug 22 | [Apply](https://lifeattiktok.com/search/7675616554318596357) |

@@ -1,6 +1,6 @@
 # Media: Summer 2027 Internships
 
-33 open Summer 2027 media roles, newest first (all 33). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 131 media internships on InternScout](https://internscout.org/internships/media/)
+34 open Summer 2027 media roles, newest first (all 34). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 132 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [David Yurman](https://internscout.org/internships/at/david-yurman/) | Video Editing Intern | New York, NY | \$25/hour | Oct 14 | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Video-Editing-Intern_R-101115) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Creative Product Operations Intern - Multiple Teams | San Jose, CA |  | Oct 9 | [Apply](https://lifeattiktok.com/search/7693727532178229509) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Creative Product Manager Intern - Multiple Teams | San Jose, CA |  | Oct 9 | [Apply](https://lifeattiktok.com/search/7693732178706974981) |
+| [Dow Jones](https://internscout.org/internships/at/dow-jones/) | Subscription Experimentation Intern | NYC |  | Oct 7 | [Apply](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Subscription-Experimentation-Intern_Job_Req_55879) |
 | [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Photo and Video Marketing Production | Overland Park, KS |  | Oct 6 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Summer-2027-Internship--Photo-and-Video-Marketing-Production_R2026-2015) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Intern - Marketing, Communications, Journalism Majors | Chicago, IL | \$20 to \$33, | Oct 1 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern---Marketing--Communications--Journalism-Majors_R-0000033618-1) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Houston Chronicle Visuals Internship | Houston, TX |  | Sep 25 | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027533) |

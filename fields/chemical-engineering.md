@@ -1,6 +1,6 @@
 # Chemical Engineering: Summer 2027 Internships
 
-68 open Summer 2027 chemical engineering roles, newest first (all 68). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 184 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+69 open Summer 2027 chemical engineering roles, newest first (all 69). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 185 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Post Holdings](https://internscout.org/internships/at/post-holdings/) | Process Engineering Intern Summer 2027 | New Albany, Ohio |  | Sep 18 | [Apply](https://jobs.postholdings.com/jobs/31984) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Process Engineering Intern | Del Rio, TX |  | Sep 9 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119147) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Chemical Engineering Intern - Water (Summer 2027) | Houston, TX |  | Sep 1 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007432) |
+| [Honeywell](https://internscout.org/internships/at/honeywell/) | Chemical Engineering - Summer 2027 Intern (US Person Required) | United States |  | Aug 25 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155526) |
 | [Honeywell](https://internscout.org/internships/at/honeywell/) | Chemical Engineering - Summer 2027 Intern | United States |  | Aug 25 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155524) |
 | [Freeform](https://internscout.org/internships/at/freeform/) | Process Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | \$30/hour | Aug 19 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895787003) |
 | [Shure](https://internscout.org/internships/at/shure/) | Process Engineering Machine Controls Intern | Niles, IL | \$23-\$43 per hour | Oct 31, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4993/process-engineering-machine-controls-intern/job) |

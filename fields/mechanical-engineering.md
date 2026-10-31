@@ -1,6 +1,6 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-308 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 308). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 934 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+309 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 309). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 934 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -31,7 +31,6 @@
 | [RTX](https://internscout.org/internships/at/rtx/) | Manufacturing Engineering Co-op (Summer/Fall 2027) | Santa Fe Springs, CA | Paid | Oct 29 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-9920--9920-Freeman-Ave--FREEMAN/Manufacturing-Engineering-Co-op--Summer-Fall-2027-_01885901) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Mechanical Engineering Intern - Summer 2027 | Arlington, VA |  | Oct 29 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94952) |
 | [STV](https://internscout.org/internships/at/stv/) | Mechanical Engineering Intern - Summer 2027 | Philadelphia, Pennsylvania | \$47,959.00 - \$54,498.00 | Oct 29 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Philadelphia-Pennsylvania/Mechanical-Engineering-Intern---Summer-2027_JR6097-1) |
-| [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Electrical or Mechanical Engineering (Redlands) | Redlands, CA |  | Oct 29 | [Apply](https://apply.edisoncareers.com/job/Redlands-2027-Summer-Internship-Electrical-or-Mechanical-Engineering-%28Redlands%29-CA-92374/1425209800/) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Summer 2027 Mechanical Engineering Intern- Bachelor's (Chandler, AZ) | Chandler,AZ |  | Oct 28 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Summer-2027-Mechanical-Engineering-Intern--Bachelor-s--Chandler--AZ-_R2628770) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Mechanical Engineer Intern (Summer 2027) | El Segundo, CA | Paid | Oct 28 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineer-Intern--Summer-2027-_01885537) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Mechanical Engineering Intern (Summer 2027) | El Segundo, CA | Paid | Oct 28 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineering-Intern--Summer-2027-_01883293) |
@@ -204,6 +203,7 @@
 | [Pacific Fusion](https://internscout.org/internships/at/pacific-fusion/) | Summer 2027 Internship-Manufacturing Engineering | San Leandro, CA - Fremont, CA - Los Lunas, NM | Paid | Sep 9 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4398388009) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Manufacturing Engineering Intern | Del Rio, TX |  | Sep 9 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119148) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Mechanical Engineering Intern, Summer 2027 | San Diego, CA |  | Sep 9 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309855) |
+| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Technical Mechanical Maintenance Internship - Lusby, MD (ASSOCIATE'S DEGREE ONLY) | Lusby, Maryland | Paid | Sep 8 | [Apply](https://jobs.constellationenergy.com/jobs/138593) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
