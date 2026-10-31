@@ -1,6 +1,6 @@
 # Cybersecurity: Summer 2027 Internships
 
-161 open Summer 2027 cybersecurity roles, newest first (all 161). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 327 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+162 open Summer 2027 cybersecurity roles, newest first (all 162). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 329 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | Mativ | Cybersecurity Intern | Alpharetta, GA |  | Oct 29 | [Apply](https://go.vansh.nyc/11W) |
 | [HP Inc.](https://internscout.org/internships/at/hp-inc/) | Software Product Security Intern, HP IQ | San Francisco, CA |  | Oct 29 | [Apply](https://go.vansh.nyc/YE) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | University - 2027 Summer Games Cyber Security Intern - Lexington, MA | Lexington, MA | \$52,900.00 to \$108,000.00 | Oct 29 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Cyber-Security-Intern---Lexington--MA_R0252278) |
+| [Nintendo](https://internscout.org/internships/at/nintendo/) | Software Engineer Intern, Platform Security | Redmond, WA |  | Oct 28 | [Apply](https://go.vansh.nyc/12o) |
 | [L3Harris Technologies](https://internscout.org/internships/at/l3harris-technologies/) | Information Security Systems Engineer Intern | Salt Lake City, UT |  | Oct 28 | [Apply](https://go.vansh.nyc/XU) |
 | [Nintendo](https://internscout.org/internships/at/nintendo/) | Intern - Software Engineer, Platform Security (NTD) | Redmond, WA | Paid | Oct 28 | [Apply](https://careers.nintendo.com/?gh_jid=4469778009) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | University, 2027 Summer Games Cyber Security Intern - Colorado Springs, CO | Colorado Springs, CO |  | Oct 28 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Cybersecurity-Intern_R0248131) |
@@ -86,7 +87,7 @@
 | [CACI](https://internscout.org/internships/at/caci/) | Cyber Security Intern - Summer 2027 | Springfield, VA, US |  | Oct 9 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046) |
 | [GuidePoint Security](https://internscout.org/internships/at/guidepoint-security/) | Application Security Intern | Remote +1 |  | Oct 8 | [Apply](https://go.vansh.nyc/Hf) |
 | [HCSC](https://internscout.org/internships/at/hcsc/) | Security Data Classification Intern | Richardson, TX |  | Oct 8 | [Apply](https://go.vansh.nyc/G6) |
-| The Boeing Company | Boeing Summer 2027 Internship Program (Paid) – Security & Fire Operation (S&FO) | USA - Everett, WA +29 | \$44,000 - \$89,000 | Oct 7 | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717) |
+| Boeing | Boeing Summer 2027 Internship Program (Paid) – Security & Fire Operation (S&FO) | USA - Everett, WA +29 | \$44,000 - \$89,000 | Oct 7 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1) |
 | [Apple Bank](https://internscout.org/internships/at/apple-bank/) | 2027 Summer Intern- Information Security | New York, NY | \$24/hr | Oct 7 | [Apply](https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern--Information-Security_2026-1416) |
 | Qube Research and Technologies | Security Engineer Intern | New York, NY |  | Oct 6 | [Apply](https://go.vansh.nyc/QJ) |
 | Manitowoc | Cybersecurity Intern | Shady Grove, PA |  | Oct 6 | [Apply](https://go.vansh.nyc/Vt) |

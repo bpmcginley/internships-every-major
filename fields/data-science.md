@@ -1,11 +1,12 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-565 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 565). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 1,081 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+566 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 566). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 1,082 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | Firework | Data Engineer Intern | San Mateo, CA |  | Oct 31 | [Apply](https://go.vansh.nyc/11I) |
 | [Strada Education Foundation](https://internscout.org/internships/at/strada-education-foundation/) | Clear Outcomes and Data Science Intern | Washington, DC |  | Oct 30 | [Apply](https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b/apply) |
+| GTI Energy | Data Science Intern | Des Plaines, IL |  | Oct 30 | [Apply](https://go.vansh.nyc/12t) |
 | Divergent Technologies | Summer 2027 Business Intelligence Intern | Torrance, California, United States +1 | Paid | Oct 30 | [Apply](https://job-boards.greenhouse.io/divergent/jobs/5393519008) |
 | Barclays | Chief Client Office Intern, Client Data & Engineering Group | New York, NY |  | Oct 30 | [Apply](https://go.vansh.nyc/10x) |
 | MITRE | Data Science and Engineering Intern | McLean, VA |  | Oct 30 | [Apply](https://go.vansh.nyc/10t) |
@@ -203,7 +204,6 @@
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Data Science R&D Graduate Intern | PA, Working at Home - Pennsylvania +99 | Paid | Oct 19 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Data-Science-R-D-Graduate-Intern_J287175) |
 | [Johnson & Johnson](https://internscout.org/internships/at/johnson-johnson/) | Quality Data Science Co-op | Cincinnati, OH |  | Oct 19 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629) |
 | Seagate Technology | Software and Data Analytics Development Intern, AFM | Bloomington, MN |  | Oct 18 | [Apply](https://go.vansh.nyc/Sq) |
-| [Celestica](https://internscout.org/internships/at/celestica/) | SCM Data Analyst Intern | Toronto, Canada |  | Oct 18 | [Apply](https://go.vansh.nyc/R1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,6 +1,6 @@
 # Supply Chain: Summer 2027 Internships
 
-233 open Summer 2027 supply chain roles, newest first (the 200 newest of 233). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 525 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
+232 open Summer 2027 supply chain roles, newest first (the 200 newest of 232). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 526 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -29,7 +29,6 @@
 | [KeyBank](https://internscout.org/internships/at/keybank/) | Summer 2027 KeyBank Procurement Internship – Cleveland, OH | Brooklyn, OH |  | Oct 27 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Summer-2027-KeyBank-Procurement-Internship---Cleveland--OH_R-41723) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Procurement Intern | Florida - Deerfield Beach |  | Oct 27 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Procurement-Intern_JR105144) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Enterprise Procurement Undergraduate Supply Chain Intern | Pittsburgh PA, 15222, FAP, 5th Avenue Place |  | Oct 27 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Enterprise-Procurement-Undergraduate-Supply-Chain-Intern_J286294) |
-| [Corning](https://internscout.org/internships/at/corning/) | Global Supply Chain Intern - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Oct 27 | [Apply](https://corningjobs.corning.com/job/Corning-Global-Supply-Chain-Intern-Summer-2027-NY-14831/1443921200/) |
 | [Walmart](https://internscout.org/internships/at/walmart/) | 2027 Summer Intern: Area Manager, Fleet Transportation Corporate Intern | Bentonville, AR +9 | \$21.00 - \$40.00 | Oct 27 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2027-Summer-Intern--Area-Manager--Fleet-Transportation-Corporate-Intern_R-2638908) |
 | [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | Procurement/Sourcing Analytics Intern - Summer 2027 | Atlanta, GA, USA |  | Oct 26 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Procurement-Sourcing-Intern---Summer-2027_R26_0000035649) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Enterprise Data Warehouse Systems enGen Undergraduate Intern | Pittsburgh PA, 15222, PAP, Penn Avenue Place +1 |  | Oct 26 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Data-Warehouse-Systems-enGen-Undergraduate-Intern_J289826) |
@@ -204,6 +203,7 @@
 | BJ's Wholesale Club | Summer Intern - Warehouse Operations | R1 Dry DC Uxbridge, MA #0800 | \$20.00/hr | Sep 18 | [Apply](https://bjswholesaleclub.wd1.myworkdayjobs.com/BJsCareers/job/R1-Dry-DC-Uxbridge-MA-0800/Summer-Intern---Warehouse-Operations_R253250) |
 | [Land O'Lakes](https://internscout.org/internships/at/land-o-lakes/) | Supply Chain Intern Summer 2027 | Arden Hills, MN (USA) |  | Sep 18 | [Apply](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Arden-Hills-MN-USA/Supply-Chain-Intern-Summer-2027_R-36773) |
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | Real Estate Intern Summer 2027 Procurement | US - UPS CORPORATE OFFICES (GACOR) |  | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Real-Estate-Intern-Summer-2026-Procurement_R26030587) |
+| [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | Procurement Summer Internship 2027 | US - UPS CORPORATE OFFICES (GACOR) |  | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Procurement-Summer-Internship-2027_R26030489) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

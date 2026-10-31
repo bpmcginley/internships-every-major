@@ -1,6 +1,6 @@
 # Industrial Engineering: Summer 2027 Internships
 
-292 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 292). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 762 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+291 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 291). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 762 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -38,7 +38,6 @@
 | [Jabil](https://internscout.org/internships/at/jabil/) | Supply Chain Internships - St. Petersburg, FL | St. Petersburg/Tampa, FL |  | Oct 27 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Supply-Chain-Internships---St-Petersburg--FL_J2468517-1) |
 | [Moog](https://internscout.org/internships/at/moog/) | Intern, Additive Manufacturing Engineering | Buffalo, NY | \$25.50–\$31.00 Hour | Oct 27 | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Additive-Manufacturing-Engineering_R-26-20786) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Enterprise Procurement Undergraduate Supply Chain Intern | Pittsburgh PA, 15222, FAP, 5th Avenue Place |  | Oct 27 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Enterprise-Procurement-Undergraduate-Supply-Chain-Intern_J286294) |
-| [Corning](https://internscout.org/internships/at/corning/) | Global Supply Chain Intern - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Oct 27 | [Apply](https://corningjobs.corning.com/job/Corning-Global-Supply-Chain-Intern-Summer-2027-NY-14831/1443921200/) |
 | Burns Engineering | Systems Engineering Intern - Summer 2027 | Pittsburgh, PA |  | Oct 26 | [Apply](https://www.burns-group.com/careers/current-openings/?gh_jid=4467869009) |
 | [Ursa Major](https://internscout.org/internships/at/ursa-major/) | 2027 Summer Additive Manufacturing Engineering Intern | Youngstown, Ohio |  | Oct 26 | [Apply](https://ursamajor.com/careers/?gh_jid=4746892005) |
 | [RTX](https://internscout.org/internships/at/rtx/) | 2027 Summer Intern: Systems Engineering - Onsite | Cedar Rapids, IA |  | Oct 26 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/XMLNAME-2027-Summer-Intern--Systems-Engineering---Onsite_01881739) |
@@ -204,6 +203,7 @@
 | [Freeform](https://internscout.org/internships/at/freeform/) | Manufacturing Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | \$30/hour | Aug 19 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895700003) |
 | PDT Partners | Summer 2027 Systems Engineering Intern | New York, NY | \$180,000 | Jul 24 | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) |
 | [Kairos Power](https://internscout.org/internships/at/kairos-power/) | Mechanical and Manufacturing Engineering Internship - Summer 2027 | Alameda, CA +2 | Paid | Jul 23 | [Apply](https://job-boards.greenhouse.io/kairospower/jobs/6123676004) |
+| [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Logistics Safety Engineering Intern - Summer 2027 | Middletown, Pennsylvania | \$23 to \$27.50 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/138179) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

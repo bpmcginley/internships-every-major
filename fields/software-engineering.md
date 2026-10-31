@@ -1,6 +1,6 @@
 # Software Engineering: Summer 2027 Internships
 
-1,616 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,616). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 3,163 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,626 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,626). **Updated October 31, 2026.** [Back to every major](../README.md) · [See all 3,171 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,12 +11,15 @@
 | GardaWorld | Infrastructure Engineer Intern | Wayzata, MN |  | Oct 30 | [Apply](https://go.vansh.nyc/10Z) |
 | [Dow Jones](https://internscout.org/internships/at/dow-jones/) | Software Engineering Intern | New York, NY |  | Oct 30 | [Apply](https://go.vansh.nyc/10X) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Backend Engineering Intern, Wirecutter | New York, NY |  | Oct 30 | [Apply](https://go.vansh.nyc/10Y) |
+| Students Plus Startups | Vroom Power Software Engineering Intern | San Antonio, TX |  | Oct 30 | [Apply](https://go.vansh.nyc/12s) |
 | Wex | Software Engineer Intern | Remote +1 |  | Oct 30 | [Apply](https://go.vansh.nyc/10z) |
 | [Nintendo](https://internscout.org/internships/at/nintendo/) | Intern - Software Engineer, Performance Tools (NTD) | Redmond, WA | Paid | Oct 30 | [Apply](https://careers.nintendo.com/?gh_jid=4473568009) |
 | [Nintendo](https://internscout.org/internships/at/nintendo/) | Intern - Software Engineer, Graphics (NTD) | Redmond, WA | Paid | Oct 30 | [Apply](https://careers.nintendo.com/?gh_jid=4473550009) |
 | [GCM Grosvenor](https://internscout.org/internships/at/gcm-grosvenor/) | 2027 IT Operations Summer Intern | Chicago, Illinois, United States | \$50,000 | Oct 30 | [Apply](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8035967003) |
+| Virginia Tech Applied Research Corporation | Research Intern, Applied AI & Software Development | Arlington, VA |  | Oct 30 | [Apply](https://go.vansh.nyc/12r) |
 | [L3Harris Technologies](https://internscout.org/internships/at/l3harris-technologies/) | FPGA Software Tool Developer Co-op | Waterdown, Canada |  | Oct 30 | [Apply](https://go.vansh.nyc/10n) |
 | MITRE | Critical Infrastructure Protection Intern | McLean, VA |  | Oct 30 | [Apply](https://go.vansh.nyc/10s) |
+| [Nintendo](https://internscout.org/internships/at/nintendo/) | Software Engineer Intern, Performance Tools | Redmond, WA |  | Oct 30 | [Apply](https://go.vansh.nyc/12q) |
 | [Life Fitness](https://internscout.org/internships/at/life-fitness/) | IT Intern | Rosemont, IL | \$19.00 - \$23.00 per hour | Oct 30 | [Apply](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/IT-Intern_JR-025323) |
 | [Nintendo](https://internscout.org/internships/at/nintendo/) | Software Engineer Intern, Graphics | Redmond, WA |  | Oct 30 | [Apply](https://go.vansh.nyc/121) |
 | [Philips](https://internscout.org/internships/at/philips/) | Intern - Systems Engineer – New Kensington, PA – Summer 2027 | New Kensington, Pennsylvania, United States | \$26.00 to \$36.00 | Oct 30 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Systems-Engineer---New-Kensington--PA---Summer-2027_592850) |
@@ -62,6 +65,7 @@
 | [Boston Scientific](https://internscout.org/internships/at/boston-scientific/) | Software & Systems Testing Engineering Intern | Arden Hills, MN |  | Oct 29 | [Apply](https://go.vansh.nyc/YX) |
 | [HP Inc.](https://internscout.org/internships/at/hp-inc/) | Software Product Security Intern, HP IQ | San Francisco, CA |  | Oct 29 | [Apply](https://go.vansh.nyc/YE) |
 | [Boston Scientific](https://internscout.org/internships/at/boston-scientific/) | R&D Software Design Intern | Arden Hills, MN |  | Oct 29 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813862687) |
+| [Nintendo](https://internscout.org/internships/at/nintendo/) | Software Engineer Intern, Connectivity | Redmond, WA |  | Oct 29 | [Apply](https://go.vansh.nyc/12p) |
 | Syntiant | DevOps Machine Learning Infrastructure Intern | Irvine, CA |  | Oct 29 | [Apply](https://go.vansh.nyc/11V) |
 | [Danaher Corporation](https://internscout.org/internships/at/danaher-corporation/) | Application Integration Developer Intern | Brea, CA |  | Oct 29 | [Apply](https://go.vansh.nyc/ZF) |
 | [Altera](https://internscout.org/internships/at/altera-corporation/) | Software Engineer Intern, Factory Apps | Toronto, Canada |  | Oct 29 | [Apply](https://go.vansh.nyc/ZA) |
@@ -90,7 +94,12 @@
 | [CAI](https://internscout.org/internships/at/cai/) | GIS Software Developer Intern | PA-CLIENT-STATE +1 | \$20 per hour | Oct 29 | [Apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8554) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | SAP Platform Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 29 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/SAP-Platform-Intern--Finance-Purchasing----Summer-2027---Franklin--TN_R00214217) |
 | [Allen Control Systems](https://internscout.org/internships/at/allen-control-systems/) | Systems Engineering Intern, 2027 | Austin, TX +1 | Paid | Oct 28 | [Apply](https://jobs.ashbyhq.com/allen-control-systems/9945f76d-6d03-45f0-b431-fc69d31f5476/application) |
+| [Nintendo](https://internscout.org/internships/at/nintendo/) | Software Engineer Intern, Platform Security | Redmond, WA |  | Oct 28 | [Apply](https://go.vansh.nyc/12o) |
+| [Nintendo](https://internscout.org/internships/at/nintendo/) | Software Engineer Intern, Audio | Redmond, WA |  | Oct 28 | [Apply](https://go.vansh.nyc/12n) |
+| [Nintendo](https://internscout.org/internships/at/nintendo/) | Software Engineer Intern, DevOps | Redmond, WA |  | Oct 28 | [Apply](https://go.vansh.nyc/12m) |
+| [Nintendo](https://internscout.org/internships/at/nintendo/) | Software Engineer Intern, CPU Profiler | Redmond, WA |  | Oct 28 | [Apply](https://go.vansh.nyc/12l) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Software & Field Technology Intern | Deer Park, TX |  | Oct 28 | [Apply](https://go.vansh.nyc/Yj) |
+| [Nintendo](https://internscout.org/internships/at/nintendo/) | Software Engineer Intern, CPU Debugger | Redmond, WA |  | Oct 28 | [Apply](https://go.vansh.nyc/12k) |
 | GardaWorld | Software Engineer Intern, C# | Wayzata, MN |  | Oct 28 | [Apply](https://go.vansh.nyc/Zc) |
 | LinkedIn | Software Engineer Intern - First Play | Mountain View, CA |  | Oct 28 | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000158394370) |
 | [ASML](https://internscout.org/internships/at/asml/) | Software Development Engineer in Test Intern | San Diego, CA |  | Oct 28 | [Apply](https://go.vansh.nyc/Y2) |
@@ -195,15 +204,6 @@
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Platform Operations Developer Intern | Cincinnati, OH |  | Oct 27 | [Apply](https://go.vansh.nyc/Wi) |
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Data Application Development Intern | Cincinnati, OH |  | Oct 27 | [Apply](https://go.vansh.nyc/Wj) |
 | [Keysight Technologies](https://internscout.org/internships/at/keysight-technologies/) | Application Development Intern | Santa Rosa, CA |  | Oct 27 | [Apply](https://go.vansh.nyc/WE) |
-| [Commonwealth Fusion Systems](https://internscout.org/internships/at/commonwealth-fusion-systems/) | Intern - Systems Engineer - Summer 2027 | Devens, MA | Paid | Oct 27 | [Apply](https://jobs.lever.co/cfsenergy/32e62a79-eff5-4a58-83fd-51a60eb57707/apply) |
-| [Delta Dental](https://internscout.org/internships/at/delta-dental/) | Application Development Intern | Okemos, MI |  | Oct 27 | [Apply](https://go.vansh.nyc/VS) |
-| [Micron Technology](https://internscout.org/internships/at/micron-technology/) | Product Yield Software Engineer Intern | Boise, ID |  | Oct 27 | [Apply](https://go.vansh.nyc/VP) |
-| Sephora | AI Platform Infrastructure Intern, Technology | United States |  | Oct 27 | [Apply](https://go.vansh.nyc/11N) |
-| [Visa](https://internscout.org/internships/at/visa/) | Software Engineer Intern | Ashburn, VA +2 |  | Oct 27 | [Apply](https://go.vansh.nyc/Vz) |
-| [Visa](https://internscout.org/internships/at/visa/) | Sophomore Program Software Engineer Intern | Bellevue, WA +4 |  | Oct 27 | [Apply](https://go.vansh.nyc/Vx) |
-| [Disney](https://internscout.org/internships/at/disney/) | Software Engineer Intern, Pipeline Infrastructure | Vancouver, Canada |  | Oct 27 | [Apply](https://go.vansh.nyc/UA) |
-| [Disney](https://internscout.org/internships/at/disney/) | Systems Engineer Intern, Data Services | Vancouver, Canada |  | Oct 27 | [Apply](https://go.vansh.nyc/Uz) |
-| Lockheed Martin | Software Engineer Intern | Huntsville, AL +2 |  | Oct 27 | [Apply](https://go.vansh.nyc/UC) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
