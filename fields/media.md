@@ -1,9 +1,10 @@
 # Media: Summer 2027 Internships
 
-32 open Summer 2027 media roles, newest first (all 32). **Updated November 1, 2026.** [Back to every major](../README.md) · [See all 128 media internships on InternScout](https://internscout.org/internships/media/)
+33 open Summer 2027 media roles, newest first (all 33). **Updated November 1, 2026.** [Back to every major](../README.md) · [See all 129 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Project Intern, Recommendation Infrastructure, Video Social | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18F) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Research Scientist Intern - Video and Edge - Multimedia Lab | San Jose, CA |  | Oct 30 | [Apply](https://jobs.bytedance.com/en/position/7702155940239264005/detail) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Editorial Design Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748518005) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Kitchen Team Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748503005) |

@@ -1,6 +1,6 @@
 # Accounting: Summer 2027 Internships
 
-234 open Summer 2027 accounting roles, newest first (the 200 newest of 234). **Updated November 1, 2026.** [Back to every major](../README.md) · [See all 533 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+235 open Summer 2027 accounting roles, newest first (the 200 newest of 235). **Updated November 1, 2026.** [Back to every major](../README.md) · [See all 533 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Standard Aero](https://internscout.org/internships/at/standard-aero/) | Summer Accounting Intern | North Kansas City, MO | Paid | Oct 13 | [Apply](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10251) |
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Accounting | Phoenix, AZ |  | Oct 13 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Accounting_R13756-1) |
 | [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Real Property Tax | Sacramento | \$23.70 - \$27.50 | Oct 12 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Sacramento/Summer-2027-Intern--Real-Property-Tax_R0020746) |
-| [Itron](https://internscout.org/internships/at/itron/) | Intern - Accounting (Summer 2027) | United States of America, Washington, Liberty Lake | \$15.87 - \$44.23 per hour | Oct 12 | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Accounting--Summer-2027-_JR102991-1) |
+| [Itron](https://internscout.org/internships/at/itron/) | Intern - Accounting (Summer 2027) | United States of America, Washington, Liberty Lake |  | Oct 12 | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Accounting--Summer-2027-_JR102991-1) |
 | [TIAA](https://internscout.org/internships/at/tiaa/) | 2027 Early Talent Internship: Internal Audit | Charlotte, NC, USA +1 | \$22.00/hr | Oct 12 | [Apply](https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Internship--Internal-Audit_R261000123) |
 | Realty Income | Accounting & Finance Intern - Multiple Opportunities | San Diego, California | \$21.00 – \$25.00 | Oct 12 | [Apply](https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Accounting---Finance-Intern---Multiple-Opportunities_R-100332) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 IT Audit Undergraduate Intern | PA, Working at Home - Pennsylvania +49 | Paid | Oct 12 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-IT-Audit-Undergraduate-Intern_J286837) |
@@ -126,6 +126,7 @@
 | [SoundExchange](https://internscout.org/internships/at/soundexchange/) | Finance & Accounting Summer Intern | Washington, DC | \$20.00 per hour | Sep 15 | [Apply](https://job-boards.greenhouse.io/sxinternships/jobs/5231074007) |
 | [Highgate](https://internscout.org/internships/at/highgate/) | Accounting Internship - Summer 2027 | Irving, TX | \$20/hour | Sep 14 | [Apply](https://externalhourly-highgate.icims.com/jobs/82544/accounting-internship---summer-2027/job) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Accounting Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/139066) |
+| [Microsoft](https://internscout.org/internships/at/microsoft/) | Security Assurance Intern | Redmond, WA |  | Sep 11 | [Apply](https://go.vansh.nyc/15H) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Internal Audit Intern – Summer 2027 | Montpelier, VT | Paid | Sep 11 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4402221009) |
 | [ibotta](https://internscout.org/internships/at/ibotta/) | Accounting Intern | Hybrid - Denver +2 | \$25 per hour | Sep 10 | [Apply](https://jobs.ashbyhq.com/ibotta/f8880452-62af-4b0d-96ab-6e0943dd4fbf/application) |
 | [Exelon](https://internscout.org/internships/at/exelon/) | 2027 Summer Internship - Finance and Accounting (Various Exelon Locations) | Newark, Delaware +4 | \$20.00/Hr | Sep 10 | [Apply](https://careers.comed.com/jobs/30123) |
@@ -203,7 +204,6 @@
 | [CareBridge](https://internscout.org/internships/at/carebridge/) | Tax Intern - Summer 2027 | IN-INDIANAPOLIS, 220 VIRGINIA AVE |  | Sep 18 | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Tax-Intern---Summer-2027_JR202207) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | San Francisco - Tax JD - Intern - Summer 2027 | CA-San Francisco | \$29.25 - \$48.00 | Sep 18 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/CA-San-Francisco/San-Francisco---Tax-JD---Intern---Summer-2027_6122616EIB-1) |
 | [Guardian Life](https://internscout.org/internships/at/guardian-life/) | 2027 Guardian Summer Intern, Corporate Finance & Risk – Internal Audit | New York | \$20.00 - \$35.00 | Sep 18 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Internal-Audit_R000110166) |
-| [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Accounting Intern- Summer 2027 | Richfield, OH (USA) |  | Sep 18 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Richfield-OH-USA/Accounting-Intern--Summer-2027_R9497-2) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

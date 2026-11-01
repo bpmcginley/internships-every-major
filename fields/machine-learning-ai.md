@@ -1,14 +1,28 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-471 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 471). **Updated November 1, 2026.** [Back to every major](../README.md) · [See all 1,056 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+485 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 485). **Updated November 1, 2026.** [Back to every major](../README.md) · [See all 1,070 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Project Intern, Content AI Infrastructure | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18G) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern, Visual Search | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18j) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | AI Software Engineer Project Intern, Transaction Platform | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18t) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern, TikTok AI Search & Visual Search Infra Team | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/183) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern, Global E-Commerce Search | Seattle, WA |  | Nov 1 | [Apply](https://go.vansh.nyc/18r) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern, TikTok-Data-Search-Basic Ranking | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18c) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Research Engineer Intern, Agentic Systems & AI Infrastructure - TikTok-Generalized Arch | Seattle, WA |  | Nov 1 | [Apply](https://go.vansh.nyc/17U) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | ML Infra Engineer Intern, Ads Infra | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/17V) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | AI Engineer Intern, TikTok-Client Arch | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/17P) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern, Recommendation Global E-Commerce | Seattle, WA |  | Nov 1 | [Apply](https://go.vansh.nyc/18l) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern, TikTok-Data-Search-Local Service | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/189) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning MLOps Intern, Global SRE | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/17S) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18h) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US | Seattle, WA +1 |  | Nov 1 | [Apply](https://go.vansh.nyc/149) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling | Seattle, WA +1 |  | Nov 1 | [Apply](https://go.vansh.nyc/14o) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure | San Jose, CA +1 |  | Nov 1 | [Apply](https://go.vansh.nyc/140) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Machine Learning Engineer Project Intern, Security-Data | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/14A) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Student Researcher Intern, Seed Model - LLM | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/142) |
+| DivcoWest | AI Intern | San Francisco, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18L) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Deep Learning Intern | Santa Clara, CA |  | Oct 31 | [Apply](https://go.vansh.nyc/12j) |
 | One Robot | Machine Learning Intern | San Francisco, CA |  | Oct 31 | [Apply](https://go.vansh.nyc/13h) |
 | USAFacts | AI & Software Engineering Intern | Bellevue, WA |  | Oct 31 | [Apply](https://go.vansh.nyc/13s) |
@@ -190,20 +204,6 @@
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern, AI Research, Embodied AI (Masters) | Sunnyvale, California, United States of America +1 | \$11,800 per month | Oct 15 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI--Masters-_JR-202622535) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern, AI Research, Embodied AI (PhD) | Sunnyvale, California, United States of America +1 | \$14,600 per month | Oct 15 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI_JR-202622146) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern, SEAM, Embodied AI (Masters) | Sunnyvale, California, United States of America +1 | \$11,800 per month | Oct 15 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI--Masters-_JR-202622537) |
-| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern, AI/ML Engineer, Mapping (Masters) | Warren, Michigan, United States of America +1 |  | Oct 15 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539) |
-| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern, Data Scaling, Embodied AI (Masters) | Sunnyvale, California, United States of America +1 | \$11,800 per month | Oct 15 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540) |
-| [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694360101507762485) |
-| [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Recommendation Video | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694362230074673461) |
-| [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Recommendation Live | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694360097210861829) |
-| [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Governance | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694366551807265029) |
-| [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM / Agent | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694365861943953717) |
-| National Bank of Canada | Artificial Intelligence Scientist Intern | Canada |  | Oct 14 | [Apply](https://go.vansh.nyc/Cs) |
-| National Bank of Canada | Artificial Intelligence Developer Intern | Canada |  | Oct 14 | [Apply](https://go.vansh.nyc/Cr) |
-| [onsemi](https://internscout.org/internships/at/onsemi/) | Manufacturing AI Engineering Intern | Hopewell Junction, NY |  | Oct 14 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506642) |
-| [onsemi](https://internscout.org/internships/at/onsemi/) | Manufacturing AI Intern | Hopewell Junction, NY |  | Oct 14 | [Apply](https://go.vansh.nyc/9k) |
-| [ICF International](https://internscout.org/internships/at/icf/) | AI Engineer Intern | Reston, VA |  | Oct 14 | [Apply](https://go.vansh.nyc/9a) |
-| JPMorganChase | AI Research Associate Intern | New York, NY |  | Oct 14 | [Apply](https://go.vansh.nyc/9d) |
-| Astreya | AI Infrastructure DC Design Intern | Remote |  | Oct 14 | [Apply](https://go.vansh.nyc/8Z) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

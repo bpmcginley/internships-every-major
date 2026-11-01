@@ -1,9 +1,10 @@
 # Architecture: Summer 2027 Internships
 
-49 open Summer 2027 architecture roles, newest first (all 49). **Updated November 1, 2026.** [Back to every major](../README.md) · [See all 133 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+50 open Summer 2027 architecture roles, newest first (all 50). **Updated November 1, 2026.** [Back to every major](../README.md) · [See all 136 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18h) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Research and Development - Energy and Propulsion Systems Architecture | Warren, Michigan, United States of America |  | Oct 30 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Energy-and-Propulsion-Systems-Architecture_JR-202622231) |
 | [STV](https://internscout.org/internships/at/stv/) | Architecture Intern - Summer 2027 | Montgomery Street, San Francisco, California | \$57,094.00 - \$64,879.00 | Oct 30 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Montgomery-Street-San-Francisco-California/Architecture-Intern---Summer-2027_JR6435) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | NVIDIA 2027 Internships: Deep Learning Computer Architecture | US, CA +2 | Paid | Oct 30 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491) |

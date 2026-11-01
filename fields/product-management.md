@@ -1,9 +1,10 @@
 # Product Management: Summer 2027 Internships
 
-169 open Summer 2027 product management roles, newest first (all 169). **Updated November 1, 2026.** [Back to every major](../README.md) · [See all 293 product management internships on InternScout](https://internscout.org/internships/product-management/)
+170 open Summer 2027 product management roles, newest first (all 170). **Updated November 1, 2026.** [Back to every major](../README.md) · [See all 294 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [KnowBe4](https://internscout.org/internships/at/knowbe4/) | Associate Product Manager Summer Internship (Hybrid) | Clearwater, Florida | Paid | Nov 1 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919274002) |
 | Parallel Systems | Product Management Intern | Los Angeles, CA |  | Oct 31 | [Apply](https://go.vansh.nyc/13i) |
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | Product Owner Intern, AI Consulting Associate Program (AI CAP) | Chicago, IL |  | Oct 31 | [Apply](https://go.vansh.nyc/12P) |
 | Pyrotek | Product Management Intern | Spokane, WA |  | Oct 30 | [Apply](https://jobs.smartrecruiters.com/Pyrotek3/744000158830479) |

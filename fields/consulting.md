@@ -1,6 +1,6 @@
 # Consulting: Summer 2027 Internships
 
-130 open Summer 2027 consulting roles, newest first (all 130). **Updated November 1, 2026.** [Back to every major](../README.md) · [See all 279 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+130 open Summer 2027 consulting roles, newest first (all 130). **Updated November 1, 2026.** [Back to every major](../README.md) · [See all 277 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

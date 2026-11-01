@@ -1,9 +1,11 @@
 # Sales: Summer 2027 Internships
 
-304 open Summer 2027 sales roles, newest first (the 200 newest of 304). **Updated November 1, 2026.** [Back to every major](../README.md) · [See all 565 sales internships on InternScout](https://internscout.org/internships/sales/)
+307 open Summer 2027 sales roles, newest first (the 200 newest of 307). **Updated November 1, 2026.** [Back to every major](../README.md) · [See all 569 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [KnowBe4](https://internscout.org/internships/at/knowbe4/) | Sales Development Representative Summer Internship (Hybrid) | New York, New York | Paid | Nov 1 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919183002) |
+| [KnowBe4](https://internscout.org/internships/at/knowbe4/) | Sales Development Representative Summer Internship (Hybrid) | Clearwater, Florida | Paid | Nov 1 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919154002) |
 | [Symbotic](https://internscout.org/internships/at/symbotic/) | Intern- Customer Success | USA Wilmington, MA - HQ +1 | \$25.00 - \$32.45 | Oct 30 | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Customer-Success_R8234) |
 | [Micron Technology](https://internscout.org/internships/at/micron-technology/) | Intern - Sales Strategy and Operations | San Jose, CA | \$43.15 - \$43.15 | Oct 30 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Sales-Strategy-and-Operations-Summer-Intern_JR116055) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Sales Instructional Design Internship | IRVINE, California | Paid | Oct 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/38125) |
@@ -186,6 +188,7 @@
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Sales Internship (Foodservice & On Premise) | Caledonia, Michigan | \$23/hr | Aug 31 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/35804) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | Sales Intern (Summer 2027) | Tysons Corner, Virginia | \$18.00 per hour | Aug 24 | [Apply](https://careers.cvent.com/jobs/10703) |
 | [Arthur J. Gallagher & Co.](https://internscout.org/internships/at/arthur-j-gallagher-co/) | Canada Internship - Sales | Toronto, Ontario, Canada |  | Aug 17 | [Apply](https://jobs.ajg.com/jobs/57699) |
+| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL |  | Aug 15 | [Apply](https://higher.gs.com/roles/181628?type=students) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Sales Data Analytics Intern | Westerville, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279291) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Sales Data Analytics Intern - Summer 2027 | Westerville, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279293) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Technical Sales Engineering Intern - IT Channel (Summer 2027) | Columbus, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278722) |
@@ -201,9 +204,6 @@
 | [Shure](https://internscout.org/internships/at/shure/) | Global Sales Enablement Intern | Niles, IL | \$23-\$43 per hour | Nov 1, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5009/global-sales-enablement-intern/job) |
 | Federal Express Corporation | Sales Intern (Summer 2027) - Austin, TX | Austin, TX | \$25/hour | Nov 1 | [Apply](https://careers.fedex.com/sales-intern-summer-2027-austin-tx/job/P25-383004-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Maximus | Business Development (Pursuit Enablement) Intern | Portland, OR, United States | Paid | Nov 1 | [Apply](https://www.monster.com/job-openings/business-development-pursuit-enablement-intern-portland-or--e8f28d9f-7eb0-4022-ab1f-f1694034b133?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | 2027 Summer Sales Intern- South Region | Dallas, Texas | \$23.00 - \$27.00 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/130910) |
-| [Oshkosh](https://internscout.org/internships/at/oshkosh/) | Sales Operations Intern (Summer 2027) | Dodge Center, Minnesota, United States |  | Oct 31 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Sales-Operations-Intern--Summer-2027-_R49799) |
-| [Holmes Murphy](https://internscout.org/internships/at/holmes-murphy/) | Sales Intern - Summer 2027 | Dallas |  | Oct 27 | [Apply](https://holmesmurphy.wd1.myworkdayjobs.com/HolmesMurphyCareers/job/Dallas/Sales-Intern---Summer-2027_R0000960) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

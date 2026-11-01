@@ -1,9 +1,10 @@
 # Marketing: Summer 2027 Internships
 
-267 open Summer 2027 marketing roles, newest first (the 200 newest of 267). **Updated November 1, 2026.** [Back to every major](../README.md) · [See all 752 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+268 open Summer 2027 marketing roles, newest first (the 200 newest of 268). **Updated November 1, 2026.** [Back to every major](../README.md) · [See all 753 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Data Science Project Intern, Advertisement | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18k) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Communications Intern | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748228005) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Advertising Revenue Operations Intern | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748489005) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Advertising Business Operations & Enablement Operations Intern | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748487005) |
@@ -203,7 +204,6 @@
 | [Ecolab](https://internscout.org/internships/at/ecolab/) | MBA Marketing Intern | USA - Minnesota - Saint Paul +2 | \$2,100/week | Oct 20 | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/MBA-Marketing-Intern_R00303125) |
 | [Ecolab](https://internscout.org/internships/at/ecolab/) | Undergraduate Marketing Intern | USA - Minnesota - Saint Paul +1 | \$22 - \$24 / hour | Oct 19 | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Undergraduate-Marketing-Intern_R00303443) |
 | [Danaher Corporation](https://internscout.org/internships/at/danaher-corporation/) | Product Management & Marketing Intern (Summer 2027 Intern) | Logan, Utah, United States |  | Oct 17 | [Apply](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/Product-Management---Marketing-Intern--Summer-2027-Intern-_R1317692) |
-| [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Downstream Marketing - Arizona | Tempe, Arizona |  | Oct 14 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tempe-Arizona/Summer-2027-Internship---Downstream-Marketing---Arizona_R572860-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

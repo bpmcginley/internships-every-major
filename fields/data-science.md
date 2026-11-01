@@ -1,13 +1,22 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-570 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 570). **Updated November 1, 2026.** [Back to every major](../README.md) · [See all 1,081 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+580 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 580). **Updated November 1, 2026.** [Back to every major](../README.md) · [See all 1,092 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Data Engineer Intern, Data Platform TikTok BP | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18a) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Data Science Intern, TikTok Integrity and Safety | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/17R) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern, TikTok-Data-Search-Basic Ranking | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18c) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern, TikTok-Data-Search-Local Service | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/189) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18h) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Data Engineering Project Intern, Ads Targeting | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/186) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Data Science Project Intern, Advertisement | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18k) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Data Scientist Project Intern, TikTok Integrity and Safety | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18b) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US | Seattle, WA +1 |  | Nov 1 | [Apply](https://go.vansh.nyc/14c) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Machine Learning Engineer Project Intern, Security-Data | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/14A) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Software Engineer Project Intern, Security-Data | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/14C) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Site Reliability Engineer Intern, Data Infra | Seattle, WA +1 |  | Nov 1 | [Apply](https://go.vansh.nyc/145) |
+| [Cencora](https://internscout.org/internships/at/cencora/) | Data Analytics Intern | Corona, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18K) |
 | Firework | Data Engineer Intern | San Mateo, CA |  | Oct 31 | [Apply](https://go.vansh.nyc/11I) |
 | [C&S Wholesale Grocers](https://internscout.org/internships/at/c-s-wholesale-grocers/) | IS Intern, Data Analytics & Data Science | Edison, NJ |  | Oct 31 | [Apply](https://go.vansh.nyc/12E) |
 | Wurl | Data Science Intern | Remote +1 |  | Oct 31 | [Apply](https://go.vansh.nyc/13z) |
@@ -195,15 +204,6 @@
 | [American Electric Power](https://internscout.org/internships/at/american-electric-power/) | Data Scientist Intern | Columbus, OH |  | Oct 20 | [Apply](https://go.vansh.nyc/cW) |
 | Picton Mahoney Asset Management | Data Engineer Intern | Toronto, ON, Canada |  | Oct 20 | [Apply](https://go.vansh.nyc/dc) |
 | [Intel](https://internscout.org/internships/at/intel/) | AI Data Science / Software Engineering PhD Intern | Hillsboro, OR |  | Oct 20 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288139) |
-| [Intel](https://internscout.org/internships/at/intel/) | Data Science / Software Engineering PhD Intern | Santa Clara, CA |  | Oct 20 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138) |
-| Toyota | 2027 TFS Data Science Internship | Plano, Texas +1 |  | Oct 20 | [Apply](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1) |
-| [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Evaluation Analytics Graduate Intern | PA, Working at Home - Pennsylvania +99 | Paid | Oct 20 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Evaluation-Analytics-Graduate-Intern_J288013) |
-| [Cigna Group](https://internscout.org/internships/at/cigna-group/) | Business Analytics Intern | Bloomfield, CT |  | Oct 20 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Business-Analytics-Intern_26012472) |
-| [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | GIS, Grid Data Intern - MN | Minneapolis, MN, 55418 +1 |  | Oct 20 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Grid-Data-Intern---MN_JR115742-1) |
-| [The Hartford](https://internscout.org/internships/at/the-hartford/) | Data Science Intern - Summer 2027 | Hartford, CT +2 | Paid | Oct 20 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114) |
-| [Adobe](https://internscout.org/internships/at/adobe/) | Data, AI & Innovation Intern | San Jose, CA |  | Oct 19 | [Apply](https://go.vansh.nyc/bv) |
-| Legend Biotech | Data Intern | Bridgewater, NJ |  | Oct 19 | [Apply](https://go.vansh.nyc/bz) |
-| [Amplify](https://internscout.org/internships/at/amplify/) | Summer 2027: Data Analytics Intern | Remote +1 |  | Oct 19 | [Apply](https://jobs.ashbyhq.com/amplify/7b859cc1-1354-43c5-bbd4-0571e85f7c51/application) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

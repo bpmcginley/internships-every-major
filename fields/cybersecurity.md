@@ -1,12 +1,13 @@
 # Cybersecurity: Summer 2027 Internships
 
-164 open Summer 2027 cybersecurity roles, newest first (all 164). **Updated November 1, 2026.** [Back to every major](../README.md) · [See all 330 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+166 open Summer 2027 cybersecurity roles, newest first (all 166). **Updated November 1, 2026.** [Back to every major](../README.md) · [See all 334 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Security Software Engineer Project Intern, Network Security | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/14B) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Machine Learning Engineer Project Intern, Security-Data | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/14A) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Software Engineer Project Intern, Security-Data | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/14C) |
+| 1st Source | Information Security Intern | South Bend, IN |  | Oct 31 | [Apply](https://go.vansh.nyc/192) |
 | [Tevora](https://internscout.org/internships/at/tevora/) | Cybersecurity Intern, Threat | Irvine, CA +1 |  | Oct 31 | [Apply](https://go.vansh.nyc/12f) |
 | [Tevora](https://internscout.org/internships/at/tevora/) | Cybersecurity Intern, Solutions | Irvine, CA +1 |  | Oct 31 | [Apply](https://go.vansh.nyc/12e) |
 | [Tevora](https://internscout.org/internships/at/tevora/) | Cybersecurity Intern, Payments | Fairfax, VA +1 |  | Oct 31 | [Apply](https://go.vansh.nyc/12d) |
@@ -121,6 +122,7 @@
 | [SimVentions](https://internscout.org/internships/at/simventions/) | 2027 Cybersecurity Intern | Fredericksburg, Virginia | Paid | Sep 15 | [Apply](https://simventions.jibeapply.com/jobs/1630) |
 | [Intuit](https://internscout.org/internships/at/intuit/) | Software Engineer Intern - Cybersecurity | Mountain View, CA |  | Sep 14 | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616) |
 | [Brain Co.](https://internscout.org/internships/at/brain-co/) | AI Security Engineer Intern (Summer 2027) | San Francisco Bay Area, NY +3 |  | Sep 12 | [Apply](https://jobs.ashbyhq.com/brainco/b697421a-4a50-4028-9832-6798132e327a/application) |
+| [Microsoft](https://internscout.org/internships/at/microsoft/) | Security Assurance Intern | Redmond, WA |  | Sep 11 | [Apply](https://go.vansh.nyc/15H) |
 | [Oshkosh](https://internscout.org/internships/at/oshkosh/) | Cyber Security Intern | Oshkosh, WI |  | Sep 11 | [Apply](https://go.vansh.nyc/Nc) |
 | [Citizens Financial Group](https://internscout.org/internships/at/citizens-financial-group/) | Data Engineer Intern - Enterprise Technology & Security | Plano, TX +2 |  | Sep 11 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285) |
 | [National Information Solutions Cooperative](https://internscout.org/internships/at/national-information-solutions-cooperative/) | Information Security (Cybersecurity) Intern | Lake St. Louis, MO +1 |  | Sep 10 | [Apply](https://go.vansh.nyc/Na) |
