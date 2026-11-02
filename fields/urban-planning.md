@@ -1,13 +1,14 @@
 # Urban Planning: Summer 2027 Internships
 
-56 open Summer 2027 urban planning roles, newest first (all 56). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 117 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+57 open Summer 2027 urban planning roles, newest first (all 57). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 116 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [WSP](https://internscout.org/internships/at/wsp/) | Transportation Planning Intern - Summer 2027 | Philadelphia, PA |  | Oct 30 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98518) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Mine Planning Intern - Energy & Resources (Summer 2027) | Reno, NV |  | Oct 30 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008554) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | GIS Intern | Tampa, FL +1 |  | Oct 29 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tampa-FL/GIS-Intern_R-32235-1) |
-| [WSP](https://internscout.org/internships/at/wsp/) | Transportation Planning Intern - Summer 2027 | Atlanta, GA |  | Oct 29 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98361) |
 | [Jabil](https://internscout.org/internships/at/jabil/) | Production Planning Intern (Part-Time) | St. Petersburg/Tampa, FL |  | Oct 29 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Production-Planning-Intern--Part-Time-_J2468448) |
+| [WSP](https://internscout.org/internships/at/wsp/) | Transportation Planning Intern - Summer 2027 | Atlanta, GA |  | Oct 29 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98361) |
 | Ace Hardware | Supply Chain Replenishment Planning Internship – Summer 2027, Full Time/Paid/12 Weeks | IL - Oak Brook | \$22.00 per hour | Oct 29 | [Apply](https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/Inventory-Internship---Summer-2027--Full-Time-Paid-12-Weeks_REQ-34900) |
 | [CAI](https://internscout.org/internships/at/cai/) | GIS Software Developer Intern | PA-CLIENT-STATE +1 | \$20 per hour | Oct 29 | [Apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8554) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Summer 2027 Urban Planning/Development Intern | Detroit, MI |  | Oct 28 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Summer-2027-Urban-Planning-Development-Intern_R-085098) |

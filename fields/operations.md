@@ -1,9 +1,12 @@
 # Operations: Summer 2027 Internships
 
-443 open Summer 2027 operations roles, newest first (the 200 newest of 443). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 991 operations internships on InternScout](https://internscout.org/internships/operations/)
+442 open Summer 2027 operations roles, newest first (the 200 newest of 442). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 989 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [AXA](https://internscout.org/internships/at/axa/) | Operations Metrics and Reporting Intern | Scottsdale, AZ |  | Nov 2 | [Apply](https://careers.axa.com/jobs/25497?icims=1) |
+| [ParetoHealth](https://internscout.org/internships/at/paretohealth/) | Growth Operations Summer Intern | Philadelphia, Pennsylvania, United States |  | Nov 2 | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726002006) |
+| [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Project Management Intern | De Soto, Kansas |  | Nov 2 | [Apply](https://careers.na.panasonic.com/jobs/51295) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | SET Sales Operations Intern | Florida - Deerfield Beach |  | Nov 2 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/SET-Sales-Operations-Intern_JR105175) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Procurement Intern IGT Summer 2027 | Hampton, VA |  | Nov 2 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120205) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Advertising Revenue Operations Intern | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748489005) |
@@ -111,7 +114,6 @@
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Technology Project Management | Berwyn, PA | \$18.00 - \$21.00 Per Hour | Oct 21 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Berwyn-PA/XMLNAME-2027-Summer-Internship---Technology-Project-Management_R-104142-2) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Business Continuity of Operations | Berwyn, PA | \$18.00 - \$21.00 Per Hour | Oct 21 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Berwyn-PA/XMLNAME-2027-Summer-Internship---Business-Continuity-of-Operations_R-104141) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Bryn Mawr Trust and Wealth Management Operations | Berwyn, PA | \$18.00 - \$21.00 Per Hour | Oct 21 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Berwyn-PA/XMLNAME-2027-Summer-Internship---Bryn-Mawr-Trust-and-Wealth-Management-Operations_R-104130-3) |
-| [Uline](https://internscout.org/internships/at/uline/) | Packaging Project Management Internship | Pleasant Prairie, WI +4 | Paid | Oct 21 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Packaging-Project-Management-Internship_R268433) |
 | Enact Mortgage Insurance | Process Improvement Analyst Intern | Raleigh, North Carolina +1 |  | Oct 21 | [Apply](https://gnw.wd1.myworkdayjobs.com/enact_mi/job/Raleigh-North-Carolina/Process-Improvement-Analyst-Intern_REQ-260360) |
 | Genworth Financial | Process Improvement Analyst Intern | Raleigh, North Carolina +1 |  | Oct 21 | [Apply](https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Process-Improvement-Analyst-Intern_REQ-260360-1) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Operations Intern (Summer 2027) | Westerville, OH |  | Oct 20 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279296) |
@@ -165,7 +167,6 @@
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Operations & Supply Chain Intern - Summer 2027 | Erie, PA |  | Oct 8 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Operations---Supply-Chain-Intern---Summer-2027_REQ-020114) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - CIT Rail Financial Operations (Chicago, IL) | Chicago, Illinois | \$20.57/hr | Oct 8 | [Apply](https://firstcitizens.jibeapply.com/jobs/35831) |
 | Happyrobot | Product Operations Engineer Intern | San Francisco, CA |  | Oct 7 | [Apply](https://go.vansh.nyc/FZ) |
-| [Advanced Space](https://internscout.org/internships/at/advanced-space/) | 2027 Project Management Summer Internship | Westminster, CO |  | Oct 7 | [Apply](https://job-boards.greenhouse.io/advancedspace/jobs/4376384009) |
 | [Arc](https://internscout.org/internships/at/arc/) | People Operations Intern | Torrance, CA | \$32 per hour | Oct 7 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5447151008) |
 | [ABB](https://internscout.org/internships/at/abb/) | Finance Operations Intern – Summer 2027 | USA, TN |  | Oct 7 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-TN-Portland/Finance-Operations-Intern---Summer-2027_JR00048201) |
 | [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Digital Manufacturing Operations Engineer (Summer 2027) | Neenah, WI |  | Oct 7 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Digital-Manufacuring-Opetiations-Engineer--Summer-2027-_R041222) |
@@ -203,7 +204,6 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Technical Engineering Intern-Operations - Braceville, IL | Braceville, Illinois | Paid | Sep 22 | [Apply](https://jobs.constellationenergy.com/jobs/139333) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Strategic Operations Analyst Intern - Summer 2027 | Addison, TX +1 | Paid | Sep 21 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4410899009) |
 | [AutoZone](https://internscout.org/internships/at/autozone/) | AutoZone 2027 Summer Internship – Store Operations | Memphis, TN |  | Sep 21 | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155441) |
-| [Republic Airways](https://internscout.org/internships/at/republic-airways/) | Strategic Operations Intern | Carmel, IN |  | Sep 17 | [Apply](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Strategic-Operations-Intern---Summer-2027_JR-007635) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

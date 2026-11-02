@@ -1,9 +1,10 @@
 # Agriculture: Summer 2027 Internships
 
-17 open Summer 2027 agriculture roles, newest first (all 17). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 47 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
+18 open Summer 2027 agriculture roles, newest first (all 18). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 48 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Scotiabank](https://internscout.org/internships/at/scotiabank/) | ASPIRE Commercial Banking - Agriculture - Summer 2027 Co-op / Internship - Alberta | Calgary, AB, Canada |  | Nov 2 | [Apply](https://jobs.scotiabank.com/job/Calgary-ASPIRE-Commercial-Banking-Agriculture-Summer-2027-Co-op-Internship-Alberta-AB/607598717/) |
 | [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Petcare Quality and Food Safety Internship | USA-Tennessee-Lebanon |  | Oct 22 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Tennessee-Lebanon/Summer-2027-Mars-Petcare-Quality-and-Food-Safety-Internship_R170548-1) |
 | [Trimble](https://internscout.org/internships/at/trimble/) | Agriculture Product Management Intern | US - CO +1 |  | Oct 19 | [Apply](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57893) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | R&D Veterinary Services Intern - Fort Dodge, IA (Summer 2027) | Fort Dodge, IA |  | Oct 19 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Fort-Dodge-IA/R-D-Veterinary-Services-Intern---Fort-Dodge--IA--Summer-2027-_R0027485-1) |

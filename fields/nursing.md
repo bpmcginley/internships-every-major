@@ -1,9 +1,13 @@
 # Nursing: Summer 2027 Internships
 
-9 open Summer 2027 nursing roles, newest first (all 9). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 77 nursing internships on InternScout](https://internscout.org/internships/nursing/)
+13 open Summer 2027 nursing roles, newest first (all 13). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 80 nursing internships on InternScout](https://internscout.org/internships/nursing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Essentia Health](https://internscout.org/internships/at/essentia-health/) | Summer 2027 Student Nurse Internship Program | Sandstone, MN +1 | Paid | Nov 2 | [Apply](https://essentiahealth.wd1.myworkdayjobs.com/Essentia_Health/job/Sandstone-MN/Summer-2027-Student-Nurse-Internship-Program_R085062) |
+| [Essentia Health](https://internscout.org/internships/at/essentia-health/) | Summer 2027 Student Nurse Internship Program | Virginia, MN +2 | Paid | Nov 2 | [Apply](https://essentiahealth.wd1.myworkdayjobs.com/Essentia_Health/job/Virginia-MN/Summer-2027-Student-Nurse-Internship-Program_R085061) |
+| [Essentia Health](https://internscout.org/internships/at/essentia-health/) | Summer 2027 Student Nurse Internship Program | Duluth, MN | Paid | Nov 2 | [Apply](https://essentiahealth.wd1.myworkdayjobs.com/Essentia_Health/job/Duluth-MN/Summer-2027-Student-Nurse-Internship-Program_R085057) |
+| [Geisinger](https://internscout.org/internships/at/geisinger/) | Nursing Student Summer Externship - Apply here for Interventional Radiology | Danville, PA | Paid | Nov 2 | [Apply](https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Danville-PA/Nursing-Student-Summer-Externship---Apply-here-for-Interventional-Radiology_R-13834) |
 | Ohio State University | Student Nurse Extern 2027 | University Hospital, OH |  | Nov 2 | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/University-Hospital/Student-Nurse-Extern-2027_R161883-2) |
 | [Essentia Health](https://internscout.org/internships/at/essentia-health/) | 2027 Summer Student Nurse Internship Program - Detroit Lakes | Detroit Lakes, MN +3 | Paid | Nov 2 | [Apply](https://essentiahealth.wd1.myworkdayjobs.com/Essentia_Health/job/Detroit-Lakes-MN/XMLNAME-2027-Summer-Student-Nurse-Internship-Program---Detroit-Lakes_R084998) |
 | [Essentia Health](https://internscout.org/internships/at/essentia-health/) | Summer 2027 Student Nurse Internship Program | Brainerd, MN |  | Nov 2 | [Apply](https://essentiahealth.wd1.myworkdayjobs.com/Essentia_Health/job/Brainerd-MN/Summer-2027-Student-Nurse-Internship-Program_R084931) |

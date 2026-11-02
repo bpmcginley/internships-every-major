@@ -1,6 +1,6 @@
 # Sustainability: Summer 2027 Internships
 
-95 open Summer 2027 sustainability roles, newest first (all 95). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 149 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+92 open Summer 2027 sustainability roles, newest first (all 92). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 146 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -67,8 +67,6 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Sustainability and Climate Strategy Intern (Remote) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138731) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern -ESG | HOUSTON, Texas +1 |  | Sep 11 | [Apply](https://careers.kindermorgan.com/jobs/6176) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Land and Right of Way (OSG) | HOUSTON, Texas |  | Sep 11 | [Apply](https://careers.kindermorgan.com/jobs/6183) |
-| [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Gas Storage | HOUSTON, Texas |  | Sep 11 | [Apply](https://careers.kindermorgan.com/jobs/6212) |
-| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Origination Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 10 | [Apply](https://jobs.constellationenergy.com/jobs/138758) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Midstream Scheduling | HOUSTON, Texas |  | Sep 10 | [Apply](https://careers.kindermorgan.com/jobs/6230) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Transportation Roadway Intern (Summer 2027) | Fargo, ND +1 |  | Sep 9 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007628) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Technical Internship - Cordova, IL (ASSOCIATE'S DEGREE ONLY) | Cordova, Illinois | Paid | Sep 9 | [Apply](https://jobs.constellationenergy.com/jobs/138838) |
@@ -77,7 +75,6 @@
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Aramco Ventures - 2027 Summer Student Program | Houston, TX | Paid | Sep 8 | [Apply](https://aramcoservices.applytojob.com/apply/nhpYN7Cxyo/Aramco-Ventures-2027-Summer-Student-Program) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Transformation Office - 2027 Summer Student Program | Houston, TX |  | Sep 8 | [Apply](https://aramcoservices.applytojob.com/apply/gobJmdlfol/Transformation-Office-2027-Summer-Student-Program) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Research and Development (Houston Research Center) - 2027 Summer Student Program | Houston, TX |  | Sep 8 | [Apply](https://aramcoservices.applytojob.com/apply/rbnifQQ0X6/Research-And-Development-Houston-Research-Center-2027-Summer-Student-Program) |
-| [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Transportation/Storage Services: Scheduling | HOUSTON, Texas |  | Sep 8 | [Apply](https://careers.kindermorgan.com/jobs/6219) |
 | Burlington Stores | Sustainability Intern | Burlington, VT |  | Sep 8 | [Apply](https://burlington.wd5.myworkdayjobs.com/BurlingtonCareers/job/00000---Burlington-Corporate-Office/Sustainability-Intern---Summer-2027_R104521) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Strategy, Relations and Planning - 2027 Summer Student Program | Houston, TX |  | Sep 8 | [Apply](https://aramcoservices.applytojob.com/apply/CrbvWOINl5/Strategy-Relations-And-Planning-2027-Summer-Student-Program) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Fuels Affiliate Management - 2027 Summer Student Program | Houston, TX |  | Sep 8 | [Apply](https://aramcoservices.applytojob.com/apply/9nuMc9WH55/Fuels-Affiliate-Management-2027-Summer-Student-Program) |

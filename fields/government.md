@@ -1,9 +1,10 @@
 # Government and Public Policy: Summer 2027 Internships
 
-61 open Summer 2027 government and public policy roles, newest first (all 61). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 320 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+61 open Summer 2027 government and public policy roles, newest first (all 61). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 322 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Indian Health Service | Student Trainee (IHS Extern) | Salt Lake City, Utah +18 | \$35395 - \$97087 Per Year | Nov 2 | [Apply](https://www.usajobs.gov:443/job/891279900) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Supervision & Regulation (Records and Information) | Atlanta, GA |  | Nov 2 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Records-and-Information-_R-0000033858) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Supervision & Regulation (Outreach) | Atlanta, GA |  | Nov 2 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Outreach-_R-0000033870) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Supervision & Regulation (Staff and Fiscal Management) | Atlanta, GA |  | Nov 2 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Staff-and-Fiscal-Management-_R-0000033862) |
@@ -51,7 +52,6 @@
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Public Affairs - 2027 Summer Student Program | Houston, TX |  | Sep 8 | [Apply](https://aramcoservices.applytojob.com/apply/zllLwcmCFQ/Public-Affairs-2027-Summer-Student-Program) |
 | [Air Force Civilian Career Training](https://internscout.org/internships/at/air-force-civilian-career-training/) | Student Trainee | Clear AFB, Alaska +83 | \$36409 - \$52957 Per Year | Sep 1 | [Apply](https://www.usajobs.gov:443/job/882786200) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Civil Engineering Internship - Federal Infrastructure Site Design | North Kansas City, MO |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5396116008) |
-| [Exelon](https://internscout.org/internships/at/exelon/) | 2027 Summer Internship - Legal & Government Affairs Intern (Illinois) | OAKBROOK TERRACE, Illinois | \$20.00/Hr | Aug 31 | [Apply](https://careers.comed.com/jobs/30161) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 2, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Health Policy Analysis | Portland, ME | \$30 per hour | Nov 2, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3974/summer-2027-consulting-internship---health-policy-analysis/job) |
 | RAND Corporation | RAND Summer Associate Program - POLICY Research | Santa Monica, CA (Greater Los Angeles Area) +4 | \$32.00/hour | Oct 17 | [Apply](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Santa-Monica-CA-Greater-Los-Angeles-Area/RAND-Summer-Associate-Program---POLICY-Research_R3660) |

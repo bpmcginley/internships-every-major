@@ -1,16 +1,16 @@
 # Media: Summer 2027 Internships
 
-32 open Summer 2027 media roles, newest first (all 32). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 124 media internships on InternScout](https://internscout.org/internships/media/)
+32 open Summer 2027 media roles, newest first (all 32). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 123 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Dow Jones](https://internscout.org/internships/at/dow-jones/) | Summer 2027 Internship Program – Research Analyst Intern | Houston, TX - OPIS +1 | \$28.00 - \$28.00 | Nov 2 | [Apply](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55874) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Project Intern, Recommendation Infrastructure, Video Social | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18F) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Research Scientist Intern - Video and Edge - Multimedia Lab | San Jose, CA |  | Oct 30 | [Apply](https://jobs.bytedance.com/en/position/7702155940239264005/detail) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Editorial Design Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748518005) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Kitchen Team Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748503005) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Editorial Projects Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748499005) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Audience Team Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748501005) |
-| [Dow Jones](https://internscout.org/internships/at/dow-jones/) | Summer 2027 Internship Program – Research Analyst Intern | Houston, TX - OPIS +1 | \$28.00 - \$28.00 | Oct 30 | [Apply](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55874) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027 | US, CA +4 |  | Oct 30 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Houston Chronicle Visuals Internship - Summer 2027 | Houston, TX, United States | Paid | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466410009) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Audience Intern - Summer 2027 | Houston, TX, United States | Paid | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466386009) |

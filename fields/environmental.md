@@ -1,9 +1,13 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-211 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 211). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 472 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+213 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 213). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 472 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [S&C Electric Company](https://internscout.org/internships/at/s-c-electric-company/) | Health & Safety Intern | Chicago, IL | \$22 - 30 per hour | Nov 2 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107376) |
+| [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Junior Environmental Intern (Summer 2027) | CA.BC.Fort St John.10012 97th Avenue +1 | \$ 61,900 - \$80,000 annually | Nov 2 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAABCalgary2200---144-4th-avenue-SW/Junior-Environmental-Intern--Summer-2027-_R-170728) |
+| [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Environmental Health and Safety Intern - Moline, IL | Moline, IL |  | Nov 2 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625221) |
+| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Masters Environmental Engineering Intern (Summer 2027!) | Austin, Texas | \$38.72 | Nov 2 | [Apply](https://careers.cdmsmith.com/jobs/4141) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | West Allis, Wisconsin | \$20.00 | Oct 30 | [Apply](https://careers.trccompanies.com/jobs/27681) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Water Resources Intern/Co-op – Environmental Services (Summer 2027) | Fredericksburg, VA |  | Oct 30 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008645) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Water Resources Intern/Co-op – Environmental Services (Summer 2027) | Richmond, VA |  | Oct 30 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008644) |
@@ -131,7 +135,6 @@
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern – Field Environmental Services (FES) | HOUSTON, Texas |  | Sep 11 | [Apply](https://careers.kindermorgan.com/jobs/6180) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Knoxville, Tennessee | \$36.96 | Sep 10 | [Apply](https://careers.cdmsmith.com/jobs/4111) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Fort Myers, Florida | \$36.96 | Sep 10 | [Apply](https://careers.cdmsmith.com/jobs/4058) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors - Environmental Engineering Intern | Austin, Texas | \$38.72 | Sep 10 | [Apply](https://careers.cdmsmith.com/jobs/4141) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Water Resources-Co-Op (Summer 2027) | Cincinnati, OH |  | Sep 10 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007640) |
 | [Saronic](https://internscout.org/internships/at/saronic/) | EHS Intern (Summer 2027) | Austin, TX +3 |  | Sep 9 | [Apply](https://jobs.ashbyhq.com/saronic/45058422-8f60-426d-af8a-a5567d68deb7/application) |
 | [Arcadis](https://internscout.org/internships/at/arcadis/) | Water Resources Engineering Intern | Chicago, IL | \$24.98- \$37.44/hour | Sep 8 | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43959) |
@@ -141,7 +144,6 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Boca Raton, Florida | \$36.96 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4191) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Chattanooga, Tennessee | \$36.96 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4090) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern (Summer 2027!) | Massena, New York | \$40.48 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4338) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern (Summer 2027!) | Concord, California | \$42.24 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4146) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern (Summer 2027!) | Denver, Colorado | \$38.72 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4237) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Lancaster, Pennsylvania | \$38.72 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4286) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern (Summer 2027!) | Houston, Texas | \$38.72 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4339) |
@@ -202,8 +204,6 @@
 | [Elanco](https://internscout.org/internships/at/elanco/) | Health, Safety, and Environment Intern – Elwood, Kansas (Summer 2027) | Elwood, KS |  | Sep 18 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Elwood-KS/Health--Safety--and-Environment-Intern---Elwood--Kansas--Summer-2027-_R0026900) |
 | [Granite Construction](https://internscout.org/internships/at/granite-construction/) | 2027 Summer Safety Intern | Everett, Washington +2 | \$27.00 | Sep 18 | [Apply](https://granite.wd1.myworkdayjobs.com/careers/job/Everett-Washington/XMLNAME-2027-Summer-Safety-Intern_R0000008261) |
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-op - HES&S Safety and Industrial Hygiene (Summer 2027) | Findlay, Ohio +21 | \$24.09 per hour | Sep 18 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Safety-and-Industrial-Hygiene--Summer-2027-_00024175) |
-| [Oshkosh](https://internscout.org/internships/at/oshkosh/) | Engineer Intern - Environmental (Summer 2027) | Appleton, Wisconsin, United States |  | Sep 18 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Engineer-Intern---Environmental--Summer-2027-_R49736) |
-| [Hitachi](https://internscout.org/internships/at/hitachi/) | 2027 Summer Health Safety Environmental Internship-Jefferson City | Jefferson City, Missouri, United States of America |  | Sep 18 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Jefferson-City-Missouri-United-States-of-America/XMLNAME-2027-Summer-Health-Safety-Environmental-Internship-Jefferson-City_R0143630) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

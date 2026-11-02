@@ -1,9 +1,10 @@
 # Hardware Engineering: Summer 2027 Internships
 
-291 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 291). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 761 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+289 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 289). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 768 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Draper](https://internscout.org/internships/at/draper/) | Analog ASIC Design Intern (Summer 2027) | Cambridge, MA | \$20.00 - \$45.00 | Nov 2 | [Apply](https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Analog-ASIC-Design-Intern--Summer-2027-_JR003085) |
 | [Relling](https://internscout.org/internships/at/relling/) | Robotics Software Engineering Intern | San Francisco, CA |  | Oct 31 | [Apply](https://go.vansh.nyc/13m) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Camera HW ASIC Verification Intern | Vancouver, BC, Canada +1 |  | Oct 30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721829462) |
 | [Altera](https://internscout.org/internships/at/altera/) | Hardware Design Engineer Intern | Toronto, Canada |  | Oct 30 | [Apply](https://go.vansh.nyc/10W) |
@@ -35,7 +36,6 @@
 | [Draper](https://internscout.org/internships/at/draper/) | Analog ASIC Design Intern | Cambridge, MA |  | Oct 28 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Analog-ASIC-Design-Intern--Summer-2027-_JR003085) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Hardware Electrical Engineering Intern (Summer 2027) | Cambridge, MA | Paid | Oct 28 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Intern--Summer-2027-_01883831) |
 | WorldEngine AI | Research Intern, Robotics Data - Real-to-Sim | San Francisco, CA |  | Oct 28 | [Apply](https://go.vansh.nyc/Xy) |
-| [Draper](https://internscout.org/internships/at/draper/) | Analog ASIC Design Intern (Summer 2027) | Cambridge, MA | \$20.00 - \$45.00 | Oct 28 | [Apply](https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Analog-ASIC-Design-Intern--Summer-2027-_JR003085) |
 | Toshiba International Corporation | Firmware Engineer Intern | San Jose, CA |  | Oct 27 | [Apply](https://go.vansh.nyc/11O) |
 | stealth-startup-community | Embedded Firmware and Controls Engineer Intern | Austin, TX |  | Oct 27 | [Apply](https://go.vansh.nyc/X4) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Silicon Photonics Process Integration Intern (Summer 2027) | USA - New York - Malta |  | Oct 27 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Intern--Summer-2027-_JR-2604265) |
@@ -134,7 +134,6 @@
 | [Nokia](https://internscout.org/internships/at/nokia/) | ASIC Physical Design Coop | United States +1 |  | Oct 6 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41122) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Hardware Engineer Intern | Santa Clara, CA |  | Oct 5 | [Apply](https://go.vansh.nyc/EK) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | AI & Hardware Analytics Intern | Milford, MI +1 |  | Oct 5 | [Apply](https://go.vansh.nyc/EF) |
-| [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | VLSI Design Verification Intern | Chippewa Falls, WI +1 |  | Oct 4 | [Apply](https://go.vansh.nyc/Ew) |
 | [Arc](https://internscout.org/internships/at/arc/) | Electrical Hardware Engineering Intern | Torrance, CA |  | Oct 2 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008) |
 | [Lyft](https://internscout.org/internships/at/lyft/) | Hardware Field Quality Engineer Intern (Summer 2027) | Longueuil, Canada | \$34-\$36/hour | Oct 2 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | ASIC Engineer Intern | Durham, NC +1 |  | Oct 2 | [Apply](https://go.vansh.nyc/Er) |
@@ -175,7 +174,7 @@
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Electrical Engineering Internship, Hardware | Westminster, CO |  | Sep 15 | [Apply](https://jobs.lever.co/CesiumAstro/ccb0f99f-0cc7-4517-8d1c-faeca53b5e5c/apply) |
 | [Lunar Outpost](https://internscout.org/internships/at/lunar-outpost/) | Robotics Engineer Intern | Golden, CO |  | Sep 15 | [Apply](https://lunaroutpost.bamboohr.com/careers/391/) |
 | [Lunar Outpost](https://internscout.org/internships/at/lunar-outpost/) | Embedded Software Engineer Intern - Summer 2027 | Golden, CO |  | Sep 15 | [Apply](https://lunaroutpost.bamboohr.com/careers/392/) |
-| [Keysight Technologies](https://internscout.org/internships/at/keysight-technologies/) | ASIC Design-for-Test (DFT) Engineer Intern | Colorado Springs, Colorado +1 | \$33.28-\$35.83 | Sep 15 | [Apply](https://jobs.keysight.com/jobs/54276) |
+| [Keysight Technologies](https://internscout.org/internships/at/keysight-technologies/) | ASIC Design-for-Test Engineer Intern - DFT | Colorado Springs, CO |  | Sep 15 | [Apply](https://jobs.keysight.com/jobs/54276?icims=1) |
 | [Google](https://internscout.org/internships/at/google/) | Silicon Engineering Intern | Madison, WI +2 |  | Sep 14 | [Apply](https://www.google.com/about/careers/applications/jobs/results/136529930677560006) |
 | [Google](https://internscout.org/internships/at/google/) | Hardware Engineer Intern - PhD | Palo Alto, CA +29 |  | Sep 14 | [Apply](https://www.google.com/about/careers/applications/jobs/results/97352132356645574) |
 | EquipmentShare | Engineering Intern - Embedded | Columbia, MO |  | Sep 14 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8189297) |
@@ -204,6 +203,7 @@
 | [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | Hardware Engineer Intern - Critical Infrastructure Communications | Rochester, NY |  | Sep 3 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-2) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | Pre-Silicon Diagnostics Intern | Fort Collins, CO |  | Sep 3 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Pre-Silicon-Diagnostics-Intern_1213394) |
 | [AMD](https://internscout.org/internships/at/amd/) | Short Term 2027 Hardware Design Verification Engineering Intern/Co-Op | MARKHAM, Ontario, Canada +1 |  | Sep 3 | [Apply](https://careers.amd.com/jobs/91361) |
+| [Booz Allen](https://internscout.org/internships/at/booz-allen-hamilton/) | Electronic Warfare FPGA Engineer Intern | Beavercreek, OH |  | Sep 3 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
