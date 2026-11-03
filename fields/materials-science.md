@@ -1,6 +1,6 @@
 # Materials Science: Summer 2027 Internships
 
-18 open Summer 2027 materials science roles, newest first (all 18). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 40 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
+18 open Summer 2027 materials science roles, newest first (all 18). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 40 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

@@ -1,13 +1,15 @@
 # Physics: Summer 2027 Internships
 
-20 open Summer 2027 physics roles, newest first (all 20). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 81 physics internships on InternScout](https://internscout.org/internships/physics/)
+22 open Summer 2027 physics roles, newest first (all 22). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 88 physics internships on InternScout](https://internscout.org/internships/physics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | Metalenz | Meta-Optics Intern Summer 2027 | Boston, MA +1 | \$5,500 - \$8,500 per month | Nov 2 | [Apply](https://jobs.ashbyhq.com/metalenz/c8150d66-9f72-4508-ac94-8a7efa54e206/application) |
+| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | PDK Design Engineering Intern, Silicon Photonics (Summer 2027) | USA - New York - Malta +1 |  | Nov 2 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/PDK-Design-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2605133) |
+| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Device Engineering Intern, Silicon Photonics (Summer 2027) | USA - New York - Malta +1 |  | Nov 2 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2605131) |
+| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Silicon Photonics Advanced Packaging Intern (Summer 2027) | USA - New York - Malta +1 |  | Nov 2 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Advanced-Packaging-Intern--Summer-2027-_JR-2605136) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Optical Engineer Intern (Summer 2027) | Mckinney, TX | Paid | Nov 2 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WB--2501-W-University-Dr--WING-B-BLDG/Optical-Engineer-Intern--Summer-2027-_01886489) |
 | [Corning](https://internscout.org/internships/at/corning/) | Science & Technology Intern - Optical Modeling - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Nov 2 | [Apply](https://corningjobs.corning.com/job/Corning-Science-&-Technology-Intern-Optical-Modeling-Summer-2027-NY-14831/1446852900/) |
-| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Device Engineering Intern, Silicon Photonics (Summer 2027) | USA - New York - Malta +1 |  | Oct 30 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604263) |
 | [Commonwealth Fusion Systems](https://internscout.org/internships/at/commonwealth-fusion-systems/) | Intern - Plasma Physics - Summer 2027 | Devens, MA | Paid | Oct 27 | [Apply](https://jobs.lever.co/cfsenergy/32987ab7-59ed-4364-a012-91cbece8877a/apply) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Silicon Photonics Process Integration Intern (Summer 2027) | USA - New York - Malta |  | Oct 27 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Intern--Summer-2027-_JR-2604265) |
 | [Lumentum](https://internscout.org/internships/at/lumentum/) | Optical Algorithms and Analytics Engineering Co-op | Ottawa, ON |  | Oct 19 | [Apply](https://go.vansh.nyc/dy) |

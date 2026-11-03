@@ -1,9 +1,11 @@
 # Civil Engineering: Summer 2027 Internships
 
-329 open Summer 2027 civil engineering roles, newest first (the 200 newest of 329). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 707 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+332 open Summer 2027 civil engineering roles, newest first (the 200 newest of 332). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 705 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [STV](https://internscout.org/internships/at/stv/) | Structural Engineering Intern - Summer 2027 | Austin, Texas | \$41,107.00 - \$46,713.00 | Nov 2 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Austin-Texas/Structural-Engineering-Intern---Summer-2027_JR6487) |
+| [STV](https://internscout.org/internships/at/stv/) | Construction Management Intern - Summer 2027 | Vermont Avenue, Washington, District of Columbia | \$54,810.00 - \$62,284.00 | Nov 2 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Vermont-Avenue-Washington-District-of-Columbia/Construction-Management-Intern---Summer-2027_JR6464) |
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Chandler, AZ - Construction Risk | Chandler, AZ |  | Nov 2 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Chandler-AZ/Summer-2027-Internship---Chandler--AZ---Construction-Risk_R13926) |
 | [westernalliancebank](https://internscout.org/internships/at/westernalliancebank/) | Summer 2027 Internship - Chandler, AZ - Construction Risk | Chandler, AZ |  | Nov 2 | [Apply](https://westernalliancebank.wd5.myworkdayjobs.com/WAB/job/Chandler-AZ/Summer-2027-Internship---Chandler--AZ---Construction-Risk_R13926) |
 | [Commonwealth Fusion Systems](https://internscout.org/internships/at/commonwealth-fusion-systems/) | Intern - Structural Engineer - Summer 2027 | Devens, MA | Paid | Oct 30 | [Apply](https://jobs.lever.co/cfsenergy/faa295da-2f67-41af-88aa-516f118e38e3/apply) |
@@ -202,8 +204,6 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Structural Engineering Intern (Summer 2027!) | Pittsburgh, Pennsylvania | \$42.02 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4383) |
 | [Arcadis](https://internscout.org/internships/at/arcadis/) | Civil Engineering Intern | Syracuse, NY | \$22.47-\$33.70/hour | Sep 4 | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43955) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Structural Engineering Intern (Bridge Design, Summer 2027!) | Knoxville, Tennessee | \$40.11 | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/4349) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors - Transportation Engineering Intern (Summer 2027!) | Lisle, Illinois | \$38.20 | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/3911) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors - Transportation Engineering Intern (Summer 2027!) | Raleigh, North Carolina | \$40.11 | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/4361) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

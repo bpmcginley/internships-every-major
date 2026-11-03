@@ -1,6 +1,6 @@
 # Math: Summer 2027 Internships
 
-33 open Summer 2027 math roles, newest first (all 33). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 57 math internships on InternScout](https://internscout.org/internships/math/)
+33 open Summer 2027 math roles, newest first (all 33). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 56 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -21,8 +21,8 @@
 | [Edison International](https://internscout.org/internships/at/edison-international/) | Data Analytics Intern - Data Science - Applied Math | Pomona, CA +1 |  | Sep 1 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-%28PomonaRosemead%29-CA-91770/1425207700/?ats=successfactors) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Actuarial Intern - Summer 2027 | Addison, TX +1 | Paid | Aug 19 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4376293009) |
 | GuideWell Mutual | 2027 Actuarial Summer Internship | Jacksonville, FL |  | Aug 18 | [Apply](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41855) |
-| Crum & Forster Insurance | Actuarial Intern - Summer 2027 - Surplus & Specialty Lines- Morristown, NJ/Hybrid | MORRISTOWN, NJ | \$16.00 | Nov 2, 2024 | [Apply](https://careers-cfins.icims.com/jobs/5172/actuarial-intern---summer-2027---surplus-%26-specialty-lines--morristown%2c-nj-hybrid/job) |
-| Crum & Forster Insurance | Internship – Actuarial or Product Services– Commercial Lines -Summer 2027 (Morristown, NJ or Remote) | MORRISTOWN, NJ +1 | \$16.00 | Nov 2, 2024 | [Apply](https://careers-cfins.icims.com/jobs/5108/internship-%e2%80%93-actuarial-or-product-services%e2%80%93-commercial-lines--summer-2027-%28morristown%2c-nj-or-remote%29/job) |
+| Crum & Forster Insurance | Actuarial Intern - Summer 2027 - Surplus & Specialty Lines- Morristown, NJ/Hybrid | MORRISTOWN, NJ | \$16.00 | Nov 3, 2024 | [Apply](https://careers-cfins.icims.com/jobs/5172/actuarial-intern---summer-2027---surplus-%26-specialty-lines--morristown%2c-nj-hybrid/job) |
+| Crum & Forster Insurance | Internship – Actuarial or Product Services– Commercial Lines -Summer 2027 (Morristown, NJ or Remote) | MORRISTOWN, NJ +1 | \$16.00 | Nov 3, 2024 | [Apply](https://careers-cfins.icims.com/jobs/5108/internship-%e2%80%93-actuarial-or-product-services%e2%80%93-commercial-lines--summer-2027-%28morristown%2c-nj-or-remote%29/job) |
 | Palomar Holdings | 2027 Summer Internship (Actuarial) | Edina, MN |  | Oct 3 | [Apply](https://ats.rippling.com/plmrcareers/jobs/d6bd58c7-5127-4a17-b70d-2d377aa9fa8a) |
 | [The Hartford](https://internscout.org/internships/at/the-hartford/) | Intern, Actuarial Student Program (Summer 2027) | Hartford, CT | Paid | Oct 2 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Intern--Actuarial-Student-Program--Summer-2027-_R2624619-1) |
 | Empower | Summer 2027 Intern - Corporate Actuarial (Greenwood Village, CO) | CO Greenwood Village |  | Oct 2 | [Apply](https://empower.wd12.myworkdayjobs.com/empower/job/CO-Greenwood-Village/Summer-2027-Intern---Corporate-Actuarial--Greenwood-Village--CO-_R0062375) |

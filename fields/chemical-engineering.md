@@ -1,6 +1,6 @@
 # Chemical Engineering: Summer 2027 Internships
 
-73 open Summer 2027 chemical engineering roles, newest first (all 73). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 182 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+69 open Summer 2027 chemical engineering roles, newest first (all 69). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 174 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -46,13 +46,9 @@
 | [Post Holdings](https://internscout.org/internships/at/post-holdings/) | Process Engineering Intern Summer 2027 | New Albany, Ohio |  | Sep 18 | [Apply](https://jobs.postholdings.com/jobs/31984) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Process Engineering Intern | Del Rio, TX |  | Sep 9 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119147) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Chemical Engineering Intern - Water (Summer 2027) | Houston, TX |  | Sep 1 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007432) |
-| [Honeywell](https://internscout.org/internships/at/honeywell/) | Chemical Engineering - Summer 2027 Intern (US Person Required) | United States |  | Aug 25 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155526) |
 | [Honeywell](https://internscout.org/internships/at/honeywell/) | Chemical Engineering - Summer 2027 Intern | United States |  | Aug 25 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155524) |
 | [Freeform](https://internscout.org/internships/at/freeform/) | Process Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | \$30/hour | Aug 19 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895787003) |
-| [Shure](https://internscout.org/internships/at/shure/) | Process Engineering Machine Controls Intern | Niles, IL | \$23-\$43 per hour | Nov 2, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4993/process-engineering-machine-controls-intern/job) |
-| [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Paint Process Engineer (SG15/16) | Denton, TX |  | Nov 2 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Paint-Process-Engineer-%28SG1516%29-TX-76207-2198/1453531033/) |
-| [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Cab Trim Process Engineer (SG15/16) | Denton, TX |  | Nov 2 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Cab-Trim-Process-Engineer-%28SG1516%29-TX-76207-2198/1453529633/) |
-| [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Frame Process Engineer (SG15/16) | Denton, TX |  | Nov 2 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Frame-Process-Engineer-%28SG1516%29-TX-76207-2198/1453530033/) |
+| [Shure](https://internscout.org/internships/at/shure/) | Process Engineering Machine Controls Intern | Niles, IL | \$23-\$43 per hour | Nov 3, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4993/process-engineering-machine-controls-intern/job) |
 | [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Chemical Engineering Intern \| Boulder, CO | Boulder, CO +1 | \$22.00/hr | Oct 24 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Boulder-CO/Chemical-Engineering-Intern---Boulder--CO_R-16798) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Advanced Manufacturing Process Engineering Intern, Sophomore (Summer 2027) | USA - Vermont - Essex Junction |  | Oct 24 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Sophomore--Summer-2027-_JR-2604665) |
 | [Primient](https://internscout.org/internships/at/primient/) | Process Engineering Intern - Summer 2027 | Duluth, MN |  | Oct 24 | [Apply](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Duluth-MN/Process-Engineering-Intern---Summer-2027_JREQ7015) |

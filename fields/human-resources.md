@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-123 open Summer 2027 human resources roles, newest first (all 123). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 269 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+119 open Summer 2027 human resources roles, newest first (all 119). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 261 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,7 +11,6 @@
 | [Hyster-Yale Materials Handling](https://internscout.org/internships/at/hyster-yale-materials-handling/) | Summer 2027 Human Resource & Communications Intern | HY US Greenville, NC (Headquarters) |  | Oct 30 | [Apply](https://hysteryale.wd1.myworkdayjobs.com/hyster-yalecareers/job/HY-US-Greenville-NC-Headquarters/Summer-2027-Human-Resource---Communications-Intern_R8537) |
 | [Axiom Space](https://internscout.org/internships/at/axiom-space/) | Human Resources Intern (Summer 2027) | Houston |  | Oct 29 | [Apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Human-Resources-Intern--Summer-2027-_JR100817) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | HRIS Intern, Summer 2027 | Boston, MA +3 | \$21–24 per hour | Oct 28 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Boston-MA/Total-Rewards-and-HRIS--Intern-2027_10017569) |
-| [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 HR Intern - Bowling Green, KY | Bowling Green, KY |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625377) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Human Resources Intern, Talent Development (Summer 2027) | USA - Texas - Austin |  | Oct 27 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Human-Resources-Intern--Talent-Development--Summer-2027-_JR-2604503) |
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | MHR Summer 2027 Intern - Data Analytics (HR Systems) | US - UPS CORPORATE OFFICES (GACOR) +1 |  | Oct 27 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/MHR-Summer-2027-Intern---Data-Analytics--HR-Systems-_R26039546) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Human Resources | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Human-Resources-MD-21230/1434321700/) |
@@ -56,16 +55,13 @@
 | [AutoZone](https://internscout.org/internships/at/autozone/) | AutoZone 2027 Summer Internship – Human Resources | Memphis, TN |  | Sep 21 | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155429) |
 | [Post Holdings](https://internscout.org/internships/at/post-holdings/) | Talent Acquisition Intern Summer 2027 | New Albany, Ohio |  | Sep 18 | [Apply](https://jobs.postholdings.com/jobs/31978) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Talent Acquisition Intern Summer 2027 | Long Beach, CA |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990319003) |
-| [Highgate](https://internscout.org/internships/at/highgate/) | Intern - Human Resources (Summer 2027) | NJ | Paid | Sep 14 | [Apply](https://externalhourly-highgate.icims.com/jobs/82592/intern---human-resources-%28summer-2027%29/job) |
 | [Highgate](https://internscout.org/internships/at/highgate/) | Intern - Human Resources (Summer 2027) | Boston, MA | Paid | Sep 14 | [Apply](https://externalhourly-highgate.icims.com/jobs/82594/intern---human-resources-%28summer-2027%29/job) |
-| [Highgate](https://internscout.org/internships/at/highgate/) | Intern - Human Resources (Summer 2027) | New York, NY | Paid | Sep 14 | [Apply](https://externalhourly-highgate.icims.com/jobs/82591/intern---human-resources-%28summer-2027%29/job) |
 | [Highgate](https://internscout.org/internships/at/highgate/) | Intern - Human Resources (Summer 2027) | Philadelphia, PA | Paid | Sep 14 | [Apply](https://externalhourly-highgate.icims.com/jobs/82593/intern---human-resources-%28summer-2027%29/job) |
 | [Highgate](https://internscout.org/internships/at/highgate/) | Intern - Human Resources (Summer 2027) | San Francisco, CA | Paid | Sep 14 | [Apply](https://externalhourly-highgate.icims.com/jobs/82595/intern---human-resources-%28summer-2027%29/job) |
 | [Highgate](https://internscout.org/internships/at/highgate/) | Human Resources Internship - Summer 2027 | Irving, TX | \$20/hour | Sep 14 | [Apply](https://externalhourly-highgate.icims.com/jobs/82542/human-resources-internship---summer-2027/job) |
 | [Highgate](https://internscout.org/internships/at/highgate/) | Intern - Human Resources (Summer 2027) | Seattle, WA | Paid | Sep 14 | [Apply](https://externalhourly-highgate.icims.com/jobs/82597/intern---human-resources-%28summer-2027%29/job) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Nuclear Human Resources Operations Intern (Lusby, MD) | Lusby, Maryland |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138707) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Nuclear Human Resources Operations Intern (Oswego, NY) | Oswego, New York |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138706) |
-| [Force Factor](https://internscout.org/internships/at/force-factor/) | Summer 2027 Talent Acquisition Intern | Boston, MA +1 |  | Sep 9 | [Apply](https://forcefactor.com/pages/job-openings?gh_jid=6167496004) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Ecommerce Intern - Summer 2027 - Campus Recruiting | Austin, MN |  | Sep 9 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35361) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Learning & Development Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175514?gh_jid=8175514) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Employee and Workplace Experience Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175429?gh_jid=8175429) |

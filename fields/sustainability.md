@@ -1,6 +1,6 @@
 # Sustainability: Summer 2027 Internships
 
-92 open Summer 2027 sustainability roles, newest first (all 92). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 146 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+92 open Summer 2027 sustainability roles, newest first (all 92). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 146 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,6 +11,7 @@
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | Melville, New York | \$20.00 | Oct 29 | [Apply](https://careers.trccompanies.com/jobs/27378) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | New York, New York | \$20.00 | Oct 29 | [Apply](https://careers.trccompanies.com/jobs/27379) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | San Diego, California | \$20.00 | Oct 27 | [Apply](https://careers.trccompanies.com/jobs/27152) |
+| [Westinghouse Electric Company](https://internscout.org/internships/at/westinghouse-electric-company/) | Summer Intern - Invoice Support Specialist | Madison, PA | \$23.00 to \$26.30 per hour | Oct 27 | [Apply](https://careers.westinghousenuclear.com/job/Madison-Summer-Intern-Invoice-Support-Specialist-PA-15663/1429688500/) |
 | [Scout Clean Energy](https://internscout.org/internships/at/scout-clean-energy/) | Renewable Energy Analyst Intern | Boulder, CO |  | Oct 26 | [Apply](https://apply.workable.com/scout-clean-energy/j/30CCB1602D/apply) |
 | [Arch Capital Group](https://internscout.org/internships/at/arch-capital-group/) | Sustainability Reporting & Strategy Summer Intern | White Plains, NY United States of America | Paid | Oct 22 | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/White-Plains-NY-United-States-of-America/Sustainability-Reporting---Strategy-Summer-Intern_R26_802) |
 | [The Andersons](https://internscout.org/internships/at/the-andersons/) | Renewables Engineering Intern (Summer 2027) | Albion, MI |  | Oct 21 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Albion-MI/Renewables-Engineering-Intern--Summer-2027-_R12499) |
@@ -23,7 +24,6 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Renewables Engineering Intern - Oakland, MD | Oakland, Maryland | Paid | Oct 15 | [Apply](https://jobs.constellationenergy.com/jobs/140007) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Power Technical Intern - Alexander City, AL (ASSOCIATE'S DEGREE ONLY) | Alexander City, Alabama | Paid | Oct 15 | [Apply](https://jobs.constellationenergy.com/jobs/140010) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Power Technical Internship - Darlington, MD (ASSOCIATE'S DEGREE ONLY) | Darlington, Maryland | Paid | Oct 15 | [Apply](https://jobs.constellationenergy.com/jobs/140014) |
-| [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern, Capital Projects, Summer 2027 | The Woodlands, Texas +2 |  | Oct 15 | [Apply](https://jobs.entergy.com/job/The-Woodlands-Student%2C-Intern%2C-Capital-Projects%2C-Summer-2027-Texa/1440487600/) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | BIM Technician Intern - Buildings (Summer 2027) | Denver, CO +2 |  | Oct 15 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008294) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | BIM Technician Intern - Buildings (Summer 2027) | Los Angeles, CA +2 |  | Oct 14 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008295) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Transportation Roadway Intern (Summer 2027) | Cincinnati, OH |  | Oct 14 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007531) |
@@ -67,7 +67,6 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Sustainability and Climate Strategy Intern (Remote) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138731) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern -ESG | HOUSTON, Texas +1 |  | Sep 11 | [Apply](https://careers.kindermorgan.com/jobs/6176) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Land and Right of Way (OSG) | HOUSTON, Texas |  | Sep 11 | [Apply](https://careers.kindermorgan.com/jobs/6183) |
-| [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Midstream Scheduling | HOUSTON, Texas |  | Sep 10 | [Apply](https://careers.kindermorgan.com/jobs/6230) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Transportation Roadway Intern (Summer 2027) | Fargo, ND +1 |  | Sep 9 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007628) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Technical Internship - Cordova, IL (ASSOCIATE'S DEGREE ONLY) | Cordova, Illinois | Paid | Sep 9 | [Apply](https://jobs.constellationenergy.com/jobs/138838) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Transportation Roadway Intern (Summer 2027) | Minneapolis, MN |  | Sep 8 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007528) |
@@ -83,6 +82,7 @@
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern -Permitting | HOUSTON, Texas |  | Sep 2 | [Apply](https://careers.kindermorgan.com/jobs/6174) |
 | [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Sustainability & Energy Engineering Intern | Naperville, IL +8 | \$22.00–\$24.00 per hour | Oct 24 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Naperville-IL/Sustainability---Energy-Engineering-Intern_R-16761) |
 | [The Andersons](https://internscout.org/internships/at/the-andersons/) | Renewables Engineering Intern (Summer 2027) | Logansport, IN |  | Oct 24 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Logansport-IN/Renewables-Engineering-Intern--Summer-2027-_R12498) |
+| [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern, Capital Projects, Summer 2027 | Malvern, Arkansas +2 |  | Oct 15 | [Apply](https://jobs.entergy.com/job/Malvern-Student%2C-Intern%2C-Capital-Projects%2C-Summer-2027-Arka/1441956200/) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern, Production Technician, Summer 2027 | Lake Charles, Louisiana |  | Oct 12 | [Apply](https://jobs.entergy.com/job/Lake-Charles-Student%2C-Intern%2C-Production-Technician%2C-Summer-2027-Loui/1439246500/) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Sustainability CP&I - Senior Associate Intern - Summer 2027 | IL-Rosemont | \$84,000 - \$202,000 | Oct 2 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Sustainability-CP-I---Senior-Associate-Intern---Summer-2027_765702WD) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Sustainability Strategy - Senior Associate Intern - Summer 2027 | IL-Rosemont | \$84,000 - \$202,000 | Oct 2 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Sustainability-Strategy---Senior-Associate-Intern---Summer-2027_765703WD) |

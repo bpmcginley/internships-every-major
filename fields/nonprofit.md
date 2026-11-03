@@ -1,9 +1,11 @@
 # Nonprofit: Summer 2027 Internships
 
-30 open Summer 2027 nonprofit roles, newest first (all 30). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 117 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
+32 open Summer 2027 nonprofit roles, newest first (all 32). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 120 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (Wisconsin Health Plan) – Summer 2027 (Undergraduate) | WI |  | Nov 3 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040147) |
+| [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (New York Health Plan) – Summer 2027 (Undergraduate) | New York, NY |  | Nov 3 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040153) |
 | Jackson | Corporate Philanthropy Intern Nashville - Starting Summer 2027 | Nashville, TN |  | Oct 30 | [Apply](https://jackson.wd1.myworkdayjobs.com/jackson_campus/job/Nashville-TN/Corporate-Philanthropy-Intern-Nashville---Starting-Summer-2027_REQ-04032) |
 | Bloomberg Philanthropies | 2027 Bloomberg Philanthropies Summer Internship | New York, New York, United States | Paid | Oct 27 | [Apply](https://job-boards.greenhouse.io/bloombergdotorg/jobs/8046487003) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Community Impact | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Community-Impact-MD-21230/1434384000/) |

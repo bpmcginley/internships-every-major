@@ -1,10 +1,11 @@
 # Real Estate: Summer 2027 Internships
 
-21 open Summer 2027 real estate roles, newest first (all 21). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 49 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
+22 open Summer 2027 real estate roles, newest first (all 22). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 50 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [Baker Tilly](https://internscout.org/internships/at/baker-tilly/) | Summer 2027 Real Estate Advisory Associate - Anchin Conversion | New York City 3 Times Square, NY | \$80,600 to \$105,800 | Nov 2 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-NY-New-York-City-3-Times-Square/Summer-2027-Real-Estate-Advisory-Associate---Anchin-Conversion_JR108624) |
+| [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Leasing Summer 2027 Internship - Irvine, CA | Irvine, CA |  | Nov 2 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Irvine-CA/Leasing-Summer-2027-Internship---Irvine--CA_REQ540051) |
+| Baker Tilly | Summer 2027 Real Estate Advisory Associate - Anchin Conversion | New York City 3 Times Square, NY | \$80,600 to \$105,800 | Nov 2 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-NY-New-York-City-3-Times-Square/Summer-2027-Real-Estate-Advisory-Associate---Anchin-Conversion_JR108624) |
 | [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Real Estate | Dallas, TX | \$25.00 per hour | Nov 2 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Dallas-TX/XMLNAME-2027-Summer-Intern---Commercial-Real-Estate_2620103-1) |
 | [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Real Estate | Miami, FL | \$25.00 per hour | Nov 2 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Miami-FL/XMLNAME-2027-Summer-Intern---Commercial-Real-Estate_2620099-1) |
 | [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Real Estate | St Louis, MO | \$25.00 per hour | Nov 2 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/St-Louis-MO/XMLNAME-2027-Summer-Intern---Commercial-Real-Estate_2620105) |

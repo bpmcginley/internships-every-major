@@ -1,9 +1,10 @@
 # Biology: Summer 2027 Internships
 
-22 open Summer 2027 biology roles, newest first (all 22). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 697 biology internships on InternScout](https://internscout.org/internships/biology/)
+23 open Summer 2027 biology roles, newest first (all 23). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 703 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [LabCorp](https://internscout.org/internships/at/labcorp/) | Co-op - Full-Stack Life Sciences Engineer | Durham NC +2 |  | Nov 2 | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Biologics Development 2027 Summer Internship Program | Devens - MA - US | \$24.00 - \$45.00 | Oct 28 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Devens---MA---US/Biologics-Development-2027-Summer-Internship-Program_R1607941) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Genetic Medicines & Molecular Biology | TARRYTOWN | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Genetic-Medicines---Molecular-Biology_R52554-1) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Antibody Discovery & Protein Sciences | TARRYTOWN | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Antibody-Discovery---Protein-Sciences_R52550) |

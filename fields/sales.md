@@ -1,11 +1,13 @@
 # Sales: Summer 2027 Internships
 
-315 open Summer 2027 sales roles, newest first (the 200 newest of 315). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 577 sales internships on InternScout](https://internscout.org/internships/sales/)
+316 open Summer 2027 sales roles, newest first (the 200 newest of 316). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 578 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [Boston Scientific](https://internscout.org/internships/at/boston-scientific/) | Urology Field Sales Internship Summer 2027 | Marlboro, MA |  | Nov 2 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813886387) |
+| [Boston Scientific](https://internscout.org/internships/at/boston-scientific/) | Urology Field Sales Internship Summer 2027 | Marlboro, MA |  | Nov 3 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813872715) |
 | [ParetoHealth](https://internscout.org/internships/at/paretohealth/) | Sales Associate Summer Intern | Philadelphia, Pennsylvania, United States |  | Nov 2 | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725332006) |
+| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Sales and Use Tax | Mississauga ON |  | Nov 2 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Mississauga/Summer-2027-Intern--Sales-and-Use-Tax_R0020833) |
+| Corteva | Sales Associate Intern (Locations include Alberta, Winnipeg, Manitoba, & Ontario) | Saskatchewan, Canada +3 |  | Nov 2 | [Apply](https://corteva.wd5.myworkdayjobs.com/corteva/job/Saskatchewan-Canada/Sales-Associate-Intern_248204W) |
 | CDW Corporation | 2027 Sales Internship - Cherry Hill | Cherry Hill - NJ | \$19/hour | Nov 2 | [Apply](https://cdw.wd5.myworkdayjobs.com/careers/job/Cherry-Hill---NJ/XMLNAME-2027-Sales-Internship---Cherry-Hill_R26_00002842) |
 | CDW Corporation | 2027 Sales Internship - Dallas | Dallas - TX | \$19/hour | Nov 2 | [Apply](https://cdw.wd5.myworkdayjobs.com/careers/job/Dallas---TX/XMLNAME-2027-Sales-Internship---Dallas_R26_00002847) |
 | CDW Corporation | 2027 Sales Internship - Chicago | Chicago +1 | \$19/hour | Nov 2 | [Apply](https://cdw.wd5.myworkdayjobs.com/careers/job/Chicago--Adams---IL/XMLNAME-2027-Sales-Internship---Chicago_R26_00002844) |
@@ -14,6 +16,7 @@
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Commercial Bank Performance and Sales Insights (NYC) | New York, New York | \$22.44 | Nov 2 | [Apply](https://firstcitizens.jibeapply.com/jobs/36123) |
 | [Gordon Food Service](https://internscout.org/internships/at/gordon-food-service/) | Sales Internship | Imperial, Pennsylvania |  | Nov 2 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Imperial-Pennsylvania/Sales-Internship_R-58192-1) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | SET Sales Operations Intern | Florida - Deerfield Beach |  | Nov 2 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/SET-Sales-Operations-Intern_JR105175) |
+| [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | Summer 2027 Sales Engineering Internship | Falls Church, VA |  | Nov 2 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Sales-Engineering-Internship_RQ230955) |
 | [KnowBe4](https://internscout.org/internships/at/knowbe4/) | Sales Development Representative Summer Internship (Hybrid) | New York, New York | Paid | Nov 1 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919183002) |
 | [KnowBe4](https://internscout.org/internships/at/knowbe4/) | Sales Development Representative Summer Internship (Hybrid) | Clearwater, Florida | Paid | Nov 1 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919154002) |
 | [Symbotic](https://internscout.org/internships/at/symbotic/) | Intern- Customer Success | USA Wilmington, MA - HQ +1 | \$25.00 - \$32.45 | Oct 30 | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Customer-Success_R8234) |
@@ -35,7 +38,6 @@
 | [Uline](https://internscout.org/internships/at/uline/) | Outside Sales Internship - Summer 2027 | Chicago, IL +4 | \$22 per hour | Oct 28 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Chicago-IL/Outside-Sales-Internship---Summer-2027_R268643) |
 | [Uline](https://internscout.org/internships/at/uline/) | Outside Sales Internship - Summer 2027 | Milwaukee, WI +2 | Paid | Oct 28 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Milwaukee-WI/Outside-Sales-Internship---Summer-2027_R268639) |
 | SC Johnson | Sales Internship - Summer 2027 | USA - Minneapolis +3 | Paid | Oct 28 | [Apply](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/USA---Minneapolis/Sales-Internship---Summer-2027_34340) |
-| [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | Summer 2027 Sales Engineering Internship | Falls Church, VA |  | Oct 28 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Sales-Engineering-Internship_RQ230955) |
 | [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | Commercial Sales Operations Intern - Summer 2027 | Atlanta, GA, USA |  | Oct 28 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Commercial-Sales-Operations-Intern---Summer-2027_R26_0000035643) |
 | [Q2](https://internscout.org/internships/at/q2/) | 2027 Summer Internship - Sales/Customer Success | Austin, Texas |  | Oct 28 | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Sales-Customer-Success_REQ-12905) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Team Sports/Sales | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Team-SportsSales-MD-21230/1434355500/) |
@@ -196,14 +198,12 @@
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Sales Internship (Foodservice & On Premise) | Caledonia, Michigan | \$23/hr | Aug 31 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/35804) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | Sales Intern (Summer 2027) | Tysons Corner, Virginia | \$18.00 per hour | Aug 24 | [Apply](https://careers.cvent.com/jobs/10703) |
 | [Arthur J. Gallagher & Co.](https://internscout.org/internships/at/arthur-j-gallagher-co/) | Canada Internship - Sales | Toronto, Ontario, Canada |  | Aug 17 | [Apply](https://jobs.ajg.com/jobs/57699) |
-| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL |  | Aug 15 | [Apply](https://higher.gs.com/roles/181628?type=students) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Sales Data Analytics Intern | Westerville, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279291) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Sales Data Analytics Intern - Summer 2027 | Westerville, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279293) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Technical Sales Engineering Intern - IT Channel (Summer 2027) | Columbus, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278722) |
 | [StepStone Group](https://internscout.org/internships/at/stepstone-group/) | 2027 Venture Capital Business Development Summer Associate | Baltimore | \$105,000 / year | Aug 3 | [Apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8095092) |
 | [Jane Street](https://internscout.org/internships/at/jane-street/) | Sales and Trading Intern | New York, NY |  | Jul 24 | [Apply](https://go.vansh.nyc/47) |
 | [AQR](https://internscout.org/internships/at/aqr/) | 2027 Business Development Summer Analyst | Greenwich, CT |  | May 15 | [Apply](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) |
-| [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Southeast - Sales Internship VA-FL-NC-SC (Comparion) - Summer 2027 | Fairfax, VA +6 |  | Nov 2, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261751/southeast---sales-internship-va-fl-nc-sc-%28comparion%29---summer-2027/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

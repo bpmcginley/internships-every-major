@@ -1,9 +1,10 @@
 # Urban Planning: Summer 2027 Internships
 
-57 open Summer 2027 urban planning roles, newest first (all 57). **Updated November 2, 2026.** [Back to every major](../README.md) · [See all 116 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+56 open Summer 2027 urban planning roles, newest first (all 56). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 114 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [CAI](https://internscout.org/internships/at/cai/) | GIS Software Developer Intern | United States |  | Nov 3 | [Apply](https://go.vansh.nyc/1ce) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Transportation Planning Intern - Summer 2027 | Philadelphia, PA |  | Oct 30 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98518) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Mine Planning Intern - Energy & Resources (Summer 2027) | Reno, NV |  | Oct 30 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008554) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | GIS Intern | Tampa, FL +1 |  | Oct 29 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tampa-FL/GIS-Intern_R-32235-1) |
@@ -19,7 +20,6 @@
 | [HNTB](https://internscout.org/internships/at/hntb/) | Transportation Planning Intern (Summer 2027) | Los Angeles, CA (Figueroa Street) |  | Oct 22 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Los-Angeles-CA-Figueroa-Street/Transportation-Planning-Intern--Summer-2027-_R-32153-1) |
 | [David Yurman](https://internscout.org/internships/at/david-yurman/) | Demand Planning Intern | New York, NY | \$25/hour | Oct 21 | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Demand-Planning-Intern_R-101150) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Internship - Community Development (Summer 2027) | Chicago, IL |  | Oct 21 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008437) |
-| [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | GIS, Grid Data Intern - MN | Minneapolis, MN, 55418 +1 |  | Oct 20 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Grid-Data-Intern---MN_JR115742-1) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Product Planning Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 16 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Product-Planning---Summer-2027---Franklin--TN_R00214298) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Aftersales Business Planning Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America +1 |  | Oct 14 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Aftersales-Business-Planning-Intern---Summer-2027---Franklin--TN_R00214226) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | RPP Supply Planning Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 12 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/RPP-Supply-Planning-Intern---Summer-2027---Franklin--TN_R00214294) |
@@ -52,7 +52,6 @@
 | [HNTB](https://internscout.org/internships/at/hntb/) | Planning Intern - Summer 2027 | Chicago, IL | \$23.18 - \$34.76 | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Chicago-IL/Planning-Intern---Summer-2027_R-31365) |
 | [AES](https://internscout.org/internships/at/aes/) | Investment Planning Intern - Summer 2027 | Dayton, OH |  | Oct 24 | [Apply](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/Investment-Planning-Intern---Summer-2027_R1064784) |
 | Emerson College | Campus Planning Intern | Boston, MA | \$25 per hour | Oct 17 | [Apply](https://emerson.wd5.myworkdayjobs.com/Emerson_College_Staff/job/Boston-Campus/Campus-Planning-Intern_JR008645) |
-| [Corning](https://internscout.org/internships/at/corning/) | Global Planning Intern - Summer 2027 | Charlotte, NC |  | Oct 10 | [Apply](https://corningjobs.corning.com/job/Charlotte-Global-Planning-Intern-Summer-2027-NC-28216/1438920300/) |
 | [Life Fitness](https://internscout.org/internships/at/life-fitness/) | Transportation Planning Intern | Rosemont, IL | \$19.00 - \$23.00 per hour | Oct 1 | [Apply](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Transportation-Planning-Intern_JR-025257-1) |
 | [Freese and Nichols](https://internscout.org/internships/at/freese-and-nichols/) | Summer 2027 Internships - GIS | Houston, Texas |  | Sep 28 | [Apply](https://freese.wd1.myworkdayjobs.com/Freese_Nichols_External/job/Houston-Texas/Summer-2027-Internships---GIS_JR103911) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Federal Reserve Summer 2027 Community Development Internship | Richmond, VA |  | Sep 22 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Research-Outreach-Intern_R-0000033219) |
