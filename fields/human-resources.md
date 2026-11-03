@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-119 open Summer 2027 human resources roles, newest first (all 119). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 261 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+118 open Summer 2027 human resources roles, newest first (all 118). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 261 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -33,7 +33,6 @@
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer Internship - Talent Acquisition | Renton, WA | \$25.00/Hour | Oct 19 | [Apply](https://jobs.paccar.com/job/Renton-Summer-Internship-Talent-Acquisition-WA-98055/1449187033/) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Human Resources Intern, HR Analytics (Summer 2027) | USA - New York - Malta +1 |  | Oct 14 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Human-Resources-Intern--HR-Analytics--Summer-2027-_JR-2604494) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Human Resource Business Partner Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 14 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Human-Resource-Business-Partner-Intern---Summer-2027---Franklin--TN_R00214300) |
-| [W.W. Grainger](https://internscout.org/internships/at/w-w-grainger/) | Human Resources Internship (Summer 2027) | LAKE FOREST, IL | \$29.50 per hour | Oct 14 | [Apply](https://jobs.grainger.com/job/LAKE-FOREST-Human-Resources-Internship-%28Summer-2027%29-IL-60045-5202/1430280400/) |
 | [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Talent Acquisition Intern, Summer 2027 | Orrville, OH |  | Oct 13 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Talent-Acquisition-Intern--Summer-2027_115992) |
 | [RF-SMART](https://internscout.org/internships/at/rf-smart/) | Human Resource Intern - Summer 2027 | Jacksonville, Florida, United States | \$20/hour | Oct 12 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5433175008) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Forward Deployed Engineer Intern (HR Technology) | Hybrid - New York, NY +2 | Paid | Oct 9 | [Apply](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510) |

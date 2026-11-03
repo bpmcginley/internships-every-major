@@ -1,12 +1,12 @@
 # Chemical Engineering: Summer 2027 Internships
 
-69 open Summer 2027 chemical engineering roles, newest first (all 69). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 174 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+69 open Summer 2027 chemical engineering roles, newest first (all 69). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 180 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Boston Scientific](https://internscout.org/internships/at/boston-scientific/) | Process Development Co-op - Summer/Fall 2027 | Arden Hills, MN |  | Nov 3 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813554206) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | 2027 Summer Process Engineer Intern - BS or MS (Gloucester, MA) | Gloucester,MA |  | Oct 31 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Process-Engineer-Intern---BS-or-MS--Gloucester--MA-_R2632317) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Metallurgy & Process Engineering Intern - Energy & Resources (Summer 2027) | Reno, NV |  | Oct 30 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008551) |
-| [Primient](https://internscout.org/internships/at/primient/) | Process Engineering Intern - Summer 2027 | Loudon, TN |  | Oct 28 | [Apply](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Loudon-TN/Process-Engineering-Intern---Summer-2027_JREQ7064) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Cell Therapy Analytical Development Intern | Seattle 400 Dexter - WA - US | \$24.00 - \$45.00 | Oct 27 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Seattle-400-Dexter---WA---US/Cell-Therapy-Analytical-Development-Intern_R1607864) |
 | [Ingredion](https://internscout.org/internships/at/ingredion/) | Process Engineering Co-Op (Jan-Aug) - Cedar Rapids, IA | Cedar Rapids, IA |  | Oct 27 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Cedar-Rapids-IA/Process-Engineering-Intern--Summer-2027----Cedar-Rapids--IA_Req-40429-1) |
 | [ABB](https://internscout.org/internships/at/abb/) | Chemist/Chemical Engineer Intern - Summer 2027 | Bartlesville, Oklahoma, United States of America |  | Oct 26 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bartlesville-Oklahoma-United-States-of-America/Chemist-Chemical-Engineer-Intern---Summer-2027_JR00047103-1) |

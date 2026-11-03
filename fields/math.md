@@ -1,9 +1,10 @@
 # Math: Summer 2027 Internships
 
-33 open Summer 2027 math roles, newest first (all 33). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 56 math internships on InternScout](https://internscout.org/internships/math/)
+34 open Summer 2027 math roles, newest first (all 34). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 58 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Centene](https://internscout.org/internships/at/centene/) | Actuarial Analyst Intern (Undergraduate Summer 2027) | Remote-MO | \$18-26/hour | Nov 3 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Actuarial-Analyst-Intern--Undergraduate-Summer-2027-_1667783) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Biostatistics & Statistical Programming | TARRYTOWN | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Biostatistics---Statistical-Programming_R52558-1) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Actuarial Services Intern | Florida - Deerfield Beach |  | Oct 27 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Actuarial-Services-Intern_JR105151) |
 | [AstraZeneca](https://internscout.org/internships/at/astrazeneca/) | Preclinical Mathematical Modeling Internship | US - Cambridge Kendall SQ - MA | \$37-\$39 per hour | Oct 27 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Preclinical-Mathematical-Modeling-Internship_R-262630) |

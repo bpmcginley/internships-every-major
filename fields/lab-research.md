@@ -1,6 +1,6 @@
 # Lab Research: Summer 2027 Internships
 
-34 open Summer 2027 lab research roles, newest first (all 34). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 125 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
+34 open Summer 2027 lab research roles, newest first (all 34). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 124 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

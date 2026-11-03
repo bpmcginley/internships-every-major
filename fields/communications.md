@@ -1,6 +1,6 @@
 # Communications: Summer 2027 Internships
 
-54 open Summer 2027 communications roles, newest first (all 54). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 192 communications internships on InternScout](https://internscout.org/internships/communications/)
+53 open Summer 2027 communications roles, newest first (all 53). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 191 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -41,7 +41,6 @@
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Communications | Detroit, MI |  | Sep 8 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14716) |
 | [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | Hardware Engineer Intern - Critical Infrastructure Communications | Rochester, NY |  | Sep 3 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-2) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Media Relations Intern | Skokie, IL | \$23-\$43 per hour | Nov 3, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4992/global-media-relations-intern/job) |
-| [HNTB](https://internscout.org/internships/at/hntb/) | Communications & Engagement Intern - Summer 2027 | Columbus, OH +2 | \$19.12 - \$28.68 | Oct 31 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Columbus-OH/Communications---Engagement-Intern---Summer-2027_R-31327) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Communications Intern - Summer 2027 | Nashville, TN (City Center) |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Nashville-TN-City-Center/Communications-Intern---Summer-2027_R-31413) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Communications & Graphics Intern - Summer 2027 | Raleigh, NC |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Raleigh-NC/Communications---Graphics-Intern---Summer-2027_R-31513) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Returning Communications & Graphics Intern - Summer 2027 (For Current/Former HNTB Interns Only) | Raleigh, NC |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Raleigh-NC/Returning-Communications---Graphics-Intern---Summer-2027--For-Current-Former-HNTB-Interns-Only-_R-31324) |

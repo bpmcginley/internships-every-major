@@ -1,9 +1,12 @@
 # Biology: Summer 2027 Internships
 
-23 open Summer 2027 biology roles, newest first (all 23). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 703 biology internships on InternScout](https://internscout.org/internships/biology/)
+26 open Summer 2027 biology roles, newest first (all 26). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 726 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Centene](https://internscout.org/internships/at/centene/) | Pharmacy Summer 2027 Intern (Undergraduate) | Remote-MO +49 | \$18.00 - \$26.00 per hour | Nov 3 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Pharmacy-Summer-2027-Intern--Undergraduate-_1671474) |
+| [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Pharmacy Operations Internship (Remote) – Summer 2027 (Undergraduate) | United States |  | Nov 3 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040155) |
+| [Sanofi](https://internscout.org/internships/at/sanofi/) | 2027 Summer Intern Pharmacovigilance Scientist Swiftwater PA | Swiftwater, PA | \$32.00 - 35.00 | Nov 3 | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/XMLNAME-2027-Summer-Intern-Pharmacovigilance-Scientist-Swiftwater-PA_R2865514) |
 | [LabCorp](https://internscout.org/internships/at/labcorp/) | Co-op - Full-Stack Life Sciences Engineer | Durham NC +2 |  | Nov 2 | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Biologics Development 2027 Summer Internship Program | Devens - MA - US | \$24.00 - \$45.00 | Oct 28 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Devens---MA---US/Biologics-Development-2027-Summer-Internship-Program_R1607941) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Genetic Medicines & Molecular Biology | TARRYTOWN | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Genetic-Medicines---Molecular-Biology_R52554-1) |

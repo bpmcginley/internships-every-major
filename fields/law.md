@@ -1,9 +1,11 @@
 # Law and Legal: Summer 2027 Internships
 
-127 open Summer 2027 law and legal roles, newest first (all 127). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 276 law and legal internships on InternScout](https://internscout.org/internships/law/)
+128 open Summer 2027 law and legal roles, newest first (all 128). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 273 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Schonfeld](https://internscout.org/internships/at/schonfeld/) | 2027 Legal Intern | New York, New York, United States | \$85,000 | Nov 3 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171776) |
+| [The Travelers Companies](https://internscout.org/internships/at/the-travelers-companies/) | Legal Intern | CA - Walnut Creek | \$36.00 - \$37.00 | Nov 3 | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CA---Walnut-Creek/Legal-Intern_R-53515) |
 | [KnowBe4](https://internscout.org/internships/at/knowbe4/) | Compliance Summer Internship (Remote) | Remote | \$17/hr | Nov 2 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8926721002) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Law Enforcement Intern | Atlanta, GA |  | Nov 2 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Law-Enforcement-Intern_R-0000033891) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Risk and Compliance Intern - Summer 2027 | Cincinnati, OH (USA) |  | Nov 2 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Risk-and-Compliance-Intern---Summer-2027_R9830) |
@@ -31,7 +33,6 @@
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 In-House Legal Graduate Intern | Pittsburgh PA, 15222, FAP, 5th Avenue Place |  | Oct 26 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-In-House-Legal-Graduate-Intern_J288314) |
 | [CareBridge](https://internscout.org/internships/at/carebridge/) | Public Policy Intern - Summer 2027 | DC-WASHINGTON, 1001 PENNSYLVANIA AVE NW, STE 710 | \$19.78 to \$28.26 | Oct 26 | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/DC-WASHINGTON-1001-PENNSYLVANIA-AVE-NW-STE-710/Public-Policy-Intern---Summer-2027_JR202078) |
 | [The Travelers Companies](https://internscout.org/internships/at/the-travelers-companies/) | Legal Intern | MO - St. Louis | \$36.00 - \$37.00 | Oct 26 | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/MO---St-Louis/Legal-Intern_R-52966-1) |
-| [The Travelers Companies](https://internscout.org/internships/at/the-travelers-companies/) | Legal Intern | CA - Walnut Creek | \$36.00 - \$37.00 | Oct 26 | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CA---Walnut-Creek/Legal-Intern_R-52958) |
 | [The Travelers Companies](https://internscout.org/internships/at/the-travelers-companies/) | Legal Intern | TX - Houston | \$36.00 - \$37.00 | Oct 26 | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/TX---Houston/Legal-Intern_R-52971) |
 | [The Travelers Companies](https://internscout.org/internships/at/the-travelers-companies/) | Legal Intern | CA - Diamond Bar | \$36.00 - \$37.00 | Oct 26 | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CA---Diamond-Bar/Legal-Intern_R-52955) |
 | [The Travelers Companies](https://internscout.org/internships/at/the-travelers-companies/) | Legal Intern | CA - Rancho Cordova | \$36.00 - \$37.00 | Oct 26 | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CA---Rancho-Cordova/Legal-Intern_R-52959) |

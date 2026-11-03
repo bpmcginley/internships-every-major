@@ -1,15 +1,15 @@
 # Nonprofit: Summer 2027 Internships
 
-32 open Summer 2027 nonprofit roles, newest first (all 32). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 120 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
+32 open Summer 2027 nonprofit roles, newest first (all 32). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 118 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Jackson | Corporate Philanthropy Intern - Lansing - Summer 2027 | Lansing, MI |  | Nov 3 | [Apply](https://jackson.wd1.myworkdayjobs.com/jackson_campus/job/Lansing-MI/Corporate-Philanthropy-Intern---Lansing---Summer-2027_REQ-04033) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (Wisconsin Health Plan) – Summer 2027 (Undergraduate) | WI |  | Nov 3 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040147) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (New York Health Plan) – Summer 2027 (Undergraduate) | New York, NY |  | Nov 3 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040153) |
 | Jackson | Corporate Philanthropy Intern Nashville - Starting Summer 2027 | Nashville, TN |  | Oct 30 | [Apply](https://jackson.wd1.myworkdayjobs.com/jackson_campus/job/Nashville-TN/Corporate-Philanthropy-Intern-Nashville---Starting-Summer-2027_REQ-04032) |
 | Bloomberg Philanthropies | 2027 Bloomberg Philanthropies Summer Internship | New York, New York, United States | Paid | Oct 27 | [Apply](https://job-boards.greenhouse.io/bloombergdotorg/jobs/8046487003) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Community Impact | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Community-Impact-MD-21230/1434384000/) |
-| [JM Family](https://internscout.org/internships/at/jm-family/) | Corporate Community Impact Intern | Florida - Deerfield Beach |  | Oct 26 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Corporate-Community-Impact-Intern_JR105107) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 E2 Advocacy Intern | San Francisco, CA | \$7,000.00 | Oct 22 | [Apply](https://careers-nrdc.icims.com/jobs/6052/summer-2027-e2-advocacy-intern/job) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Community Impact | Wilmington, DE |  | Oct 21 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Community-Impact_R-104110-2) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Principal Gifts Intern | New York, NY | \$10,000.00 | Oct 19 | [Apply](https://careers-nrdc.icims.com/jobs/6076/summer-2027-principal-gifts-intern/job) |

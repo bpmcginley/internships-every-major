@@ -1,9 +1,10 @@
 # Business: Summer 2027 Internships
 
-73 open Summer 2027 business roles, newest first (all 73). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 141 business internships on InternScout](https://internscout.org/internships/business/)
+74 open Summer 2027 business roles, newest first (all 74). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 145 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [AltaGas](https://internscout.org/internships/at/altagas/) | AltaGas - 2027 Utilities Strategy & Commercial Intern | Calgary, AB |  | Nov 3 | [Apply](https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/AltaGas---2027-Utilities-Strategy---Commercial-Intern_R7403) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Commercial Engines Programs Intern (Summer 2027) | East Hartford-Obg, CT | Paid | Nov 2 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Commercial-Engines-Programs-Intern--Summer-2027-_01884450) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Supervision & Regulation (Business Relationship) | Atlanta, GA |  | Nov 2 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Business-Relationship-_R-0000033860) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Business Administration (Long Beach) | Monterey Park, CA |  | Oct 30 | [Apply](https://apply.edisoncareers.com/job/Monterey-Park-2027-Summer-Internship-Business-Administration-%28Long-Beach%29-CA-91754/1446436100/) |

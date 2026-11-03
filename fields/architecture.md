@@ -1,9 +1,11 @@
 # Architecture: Summer 2027 Internships
 
-49 open Summer 2027 architecture roles, newest first (all 49). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 128 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+52 open Summer 2027 architecture roles, newest first (all 52). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 130 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [STV](https://internscout.org/internships/at/stv/) | Architecture Intern - Summer 2027 | South Flower Street, Los Angeles, California | \$52,526.00 - \$59,689.00 | Nov 3 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/South-Flower-Street-Los-Angeles-California/Architecture-Intern---Summer-2027_JR6442) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Receiver, Exciter & Processing Architecture Electrical Engineer Intern (Summer 2027) | Tewksbury, MA | Paid | Nov 3 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027-_01873437) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18h) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Research and Development - Energy and Propulsion Systems Architecture | Warren, Michigan, United States of America |  | Oct 30 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Energy-and-Propulsion-Systems-Architecture_JR-202622231) |
 | [STV](https://internscout.org/internships/at/stv/) | Architecture Intern - Summer 2027 | Montgomery Street, San Francisco, California | \$57,094.00 - \$64,879.00 | Oct 30 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Montgomery-Street-San-Francisco-California/Architecture-Intern---Summer-2027_JR6435) |
@@ -42,6 +44,7 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Research Engineer Intern - Agentic Systems & AI Infrastructure - Generalized Architecture | Seattle, WA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7667934792727906565) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Artificial Intelligence Engineer Intern - Client Architecture | San Jose, CA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7667935738190465285) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Data Architecture - E-commerce | Seattle, WA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7668582146236631349) |
+| [HNTB](https://internscout.org/internships/at/hntb/) | Landscape Architect Intern - Summer 2027 | Kansas City, MO +4 |  | Nov 3 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Kansas-City-MO/Landscape-Architect-Intern---Summer-2027_R-31364) |
 | [Marriott Vacations Worldwide](https://internscout.org/internships/at/marriott-vacations-worldwide/) | Corporate Intern- Architecture & Construction | MVW Headquarters, FL | \$18.50 | Nov 3 | [Apply](https://mymvw.wd5.myworkdayjobs.com/mvw/job/MVW-Headquarters/Corporate-Intern--Architecture---Construction_JR94340) |
 | [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Landscape Architecture Intern \| Boston, MA | Boston, MA +1 | \$22.50-\$24.50 per hour | Oct 24 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Boston-MA/Landscape-Architecture-Intern---Boston--MA_R-16617) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Architecture Intern, MS - Summer 2027 | Burlington, VT | Paid | Sep 29 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Architecture-Intern--MS---Summer-2027_2604613-1) |

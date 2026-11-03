@@ -1,9 +1,10 @@
 # Design: Summer 2027 Internships
 
-66 open Summer 2027 design roles, newest first (all 66). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 199 design internships on InternScout](https://internscout.org/internships/design/)
+66 open Summer 2027 design roles, newest first (all 66). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 197 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Uline](https://internscout.org/internships/at/uline/) | UX Design Internship - Summer 2027 | Pleasant Prairie, WI +4 | Paid | Nov 3 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/UX-Internship---Summer-2027_R268775) |
 | [KnowBe4](https://internscout.org/internships/at/knowbe4/) | Multimedia Designer Summer Internship (Hybrid) | Clearwater, Florida | Paid | Nov 1 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919260002) |
 | [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Graphic Design Summer 2027 Internship - Chicago, IL | Chicago, IL |  | Nov 1 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Graphic-Design-Summer-2027-Internship---Chicago--IL_REQ531511) |
 | [Insomniac Games](https://internscout.org/internships/at/insomniac-games/) | Undergraduate Tech Art Intern | Burbank, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18Q) |
@@ -11,7 +12,6 @@
 | [Global Infrastructure](https://internscout.org/internships/at/global-infrastructure/) | Intern, Technology Designer | US +1 | \$23 to \$28 per hour | Oct 30 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--MO--St-Louis---6-South-Old-Orchard/Intern-Technology-Designer_6625) |
 | [Philips](https://internscout.org/internships/at/philips/) | Intern - Industrial Design - Murrysville, PA - Summer 2027 | Murrysville, Pennsylvania, United States | \$24.00 to \$27.00 | Oct 29 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Intern---Industrial-Design---Murrysville--PA---Summer-2027_593133) |
 | [PTC](https://internscout.org/internships/at/ptc/) | UI/UX Designer Intern (Summer 2027) | USA-San Mateo, CA | Paid | Oct 29 | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/USA-San-Mateo-CA/UI-UX-Designer-Intern--Summer-2027-_JR112956) |
-| [Uline](https://internscout.org/internships/at/uline/) | UX Internship - Summer 2027 | Pleasant Prairie, WI +4 | Paid | Oct 29 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/UX-Internship---Summer-2027_R268775) |
 | [Systems Planning and Analysis (SPA)](https://internscout.org/internships/at/systems-planning-and-analysis-spa/) | UI/UX Software Intern - Summer 2027 | Alexandria, Virginia | \$23.00/Hr | Oct 28 | [Apply](https://spa.jibeapply.com/jobs/23699) |
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | Industrial Design Engineering Intern, 3D Surfacing - Summer 2027 | Towson, MD, United States | \$22.00- \$27.00 per hour | Oct 28 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern--3D-Surfacing---Summer-2027_REQ-1000052665) |
 | [HP IQ](https://internscout.org/internships/at/hp-iq/) | Product Design Engineering Intern (Summer 2027) | San Francisco, CA +1 | \$40.00–\$50.00 per hour | Oct 26 | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6141235004) |
@@ -37,7 +37,6 @@
 | [3M](https://internscout.org/internships/at/3m/) | Internship - 2027 Undergraduate 3M UX/UI Design Intern - Safety & Industrial Business Group (SIBG) | Maplewood, MN +1 |  | Oct 12 | [Apply](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-UX-UI-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172459) |
 | [3M](https://internscout.org/internships/at/3m/) | Internship - 2027 Undergraduate 3M Brand Design Intern - Safety & Industrial Business Group (SIBG) | Maplewood, MN +1 |  | Oct 12 | [Apply](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-Brand-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172458) |
 | Viget | Product & Web Designer Intern (2027) | Boulder, CO |  | Oct 8 | [Apply](https://jobs.lever.co/viget/938c3301-b358-42e3-afff-123b97b6d290/apply) |
-| [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Product Marketing Graphic Design Intern - Summer 2027 | Pella, IA |  | Oct 5 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253573) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | Summer 2027 Intern - Industrial Design | Warren, Michigan, United States of America |  | Oct 5 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Industrial-Design_JR-202621626) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Graphic Design Intern – Summer 2027 | Addison, TX +1 | Paid | Sep 28 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4404976009) |
 | [Lyft](https://internscout.org/internships/at/lyft/) | Content Design Intern (Summer 2027) | Toronto, Canada | \$46 per hour | Sep 24 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817900002?gh_jid=8817900002) |
@@ -53,6 +52,7 @@
 | Force Factor | Summer 2027 Digital Graphic Design Intern | Boston, MA +1 |  | Sep 9 | [Apply](https://forcefactor.com/pages/job-openings?gh_jid=6165087004) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Product Design Intern | Hybrid - San Francisco, CA | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175339?gh_jid=8175339) |
 | [DoorDash](https://internscout.org/internships/at/doordash/) | Product Design, Intern (Summer 2027) | San Francisco, CA +1 | Paid | Sep 3 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) |
+| [Dynamic Catholic](https://internscout.org/internships/at/dynamic-catholic/) | Front-End UX Intern | Erlanger, KY |  | Sep 2 | [Apply](https://go.vansh.nyc/1eA) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | Product Design Intern (Summer 2027) | Tysons Corner, Virginia | \$36.00 per hour | Aug 31 | [Apply](https://careers.cvent.com/jobs/10764) |
 | [Virtu](https://internscout.org/internships/at/virtu/) | 2027 Internship - Frontend Engineer (UI) | New York +1 | \$5,000 - \$5,800 week | Jul 29 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002) |
 | [Jump Trading Group](https://internscout.org/internships/at/jump-trading/) | Campus UI Software Engineer Intern | Chicago, IL |  | Jul 9 | [Apply](https://go.vansh.nyc/3m) |

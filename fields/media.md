@@ -1,9 +1,11 @@
 # Media: Summer 2027 Internships
 
-32 open Summer 2027 media roles, newest first (all 32). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 123 media internships on InternScout](https://internscout.org/internships/media/)
+34 open Summer 2027 media roles, newest first (all 34). **Updated November 3, 2026.** [Back to every major](../README.md) · [See all 126 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [JM Family](https://internscout.org/internships/at/jm-family/) | Digital Content Writing Intern | Florida - Deerfield Beach |  | Nov 3 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Digital-Content-Writing-Intern_JR105184) |
+| [David Yurman](https://internscout.org/internships/at/david-yurman/) | Brand Creative Intern | New York, NY | \$25/hour | Nov 3 | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Brand-Creative-Intern_R-101192) |
 | [Dow Jones](https://internscout.org/internships/at/dow-jones/) | Summer 2027 Internship Program – Research Analyst Intern | Houston, TX - OPIS +1 | \$28.00 - \$28.00 | Nov 2 | [Apply](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55874) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Project Intern, Recommendation Infrastructure, Video Social | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18F) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Research Scientist Intern - Video and Edge - Multimedia Lab | San Jose, CA |  | Oct 30 | [Apply](https://jobs.bytedance.com/en/position/7702155940239264005/detail) |
