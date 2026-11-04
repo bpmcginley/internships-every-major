@@ -1,10 +1,11 @@
 # Government and Public Policy: Summer 2027 Internships
 
-58 open Summer 2027 government and public policy roles, newest first (all 58). **Updated November 4, 2026.** [Back to every major](../README.md) · [See all 305 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+59 open Summer 2027 government and public policy roles, newest first (all 59). **Updated November 4, 2026.** [Back to every major](../README.md) · [See all 304 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [Centene](https://internscout.org/internships/at/centene/) | Public Policy and Government Affairs Summer 2027 Intern (Undergraduate) | Remote-MO | \$21.00 - \$26.00 / hr | Nov 3 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Public-Policy-and-Government-Affairs-Summer-2027-Intern--Undergraduate-_1660522) |
+| [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Public Relations & Government Affairs Intern | Norwell, MA | Paid | Nov 4 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168265) |
+| [Baker Tilly](https://internscout.org/internships/at/baker-tilly/) | Summer 2027 Public Sector Finance Intern (Capital & Infrastructure - Debt Issuance) | Indianapolis, IN +1 | \$23.75 to \$79.80 | Nov 4 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-IN-Indianapolis/Summer-2027-Public-Sector-Finance-Intern--Capital---Infrastructure---Debt-Issuance-_JR107991) |
 | Indian Health Service | Student Trainee (IHS Extern) | Salt Lake City, Utah +18 | \$35395 - \$97087 Per Year | Nov 2 | [Apply](https://www.usajobs.gov:443/job/891279900) |
 | [LexisNexis Risk Solutions](https://internscout.org/internships/at/lexisnexis-risk-solutions/) | Product Management Intern- Government | Alpharetta, GA (Alderman) +2 | \$20/hour | Nov 2 | [Apply](https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Government_R118611) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Supervision & Regulation (Records and Information) | Atlanta, GA |  | Nov 2 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Records-and-Information-_R-0000033858) |

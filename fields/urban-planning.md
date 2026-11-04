@@ -1,12 +1,13 @@
 # Urban Planning: Summer 2027 Internships
 
-55 open Summer 2027 urban planning roles, newest first (all 55). **Updated November 4, 2026.** [Back to every major](../README.md) · [See all 114 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+55 open Summer 2027 urban planning roles, newest first (all 55). **Updated November 4, 2026.** [Back to every major](../README.md) · [See all 116 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [David Yurman](https://internscout.org/internships/at/david-yurman/) | Planning Intern | New York, NY | \$25/hour | Nov 4 | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Planning-Intern_R-101200) |
+| [CAI](https://internscout.org/internships/at/cai/) | GIS Software Developer Intern | PA-CLIENT-STATE +1 | \$20 per hour | Nov 4 | [Apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8554) |
 | [CAI](https://internscout.org/internships/at/cai/) | GIS Software Developer Intern | United States |  | Nov 3 | [Apply](https://go.vansh.nyc/1ce) |
 | [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | Assortment Planning Intern - Summer 2027 | Atlanta, GA, USA |  | Nov 3 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Assorment-Planning-Intern---Summer-2027_R26_0000035659) |
-| [CAI](https://internscout.org/internships/at/cai/) | GIS Software Developer Intern | PA-CLIENT-STATE +1 | \$20 per hour | Nov 3 | [Apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8554) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Transportation Planning Intern - Summer 2027 | Philadelphia, PA |  | Oct 30 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98518) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Mine Planning Intern - Energy & Resources (Summer 2027) | Reno, NV |  | Oct 30 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008554) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | GIS Intern | Tampa, FL +1 |  | Oct 29 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tampa-FL/GIS-Intern_R-32235-1) |
@@ -54,7 +55,6 @@
 | [Life Fitness](https://internscout.org/internships/at/life-fitness/) | Transportation Planning Intern | Rosemont, IL | \$19.00 - \$23.00 per hour | Oct 1 | [Apply](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Transportation-Planning-Intern_JR-025257-1) |
 | [Freese and Nichols](https://internscout.org/internships/at/freese-and-nichols/) | Summer 2027 Internships - GIS | Houston, Texas |  | Sep 28 | [Apply](https://freese.wd1.myworkdayjobs.com/Freese_Nichols_External/job/Houston-Texas/Summer-2027-Internships---GIS_JR103911) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Federal Reserve Summer 2027 Community Development Internship | Richmond, VA |  | Sep 22 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Research-Outreach-Intern_R-0000033219) |
-| [Clarios](https://internscout.org/internships/at/clarios/) | Demand Planning Intern (Summer 2027) | United States, Wisconsin, Milwaukee |  | Sep 18 | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Demand-Planning-Intern--Summer-2027-_WD50212) |
 | [Ocean Spray](https://internscout.org/internships/at/ocean-spray/) | Operations Planning Intern | Lakeville, MA | \$ 30.00 | Sep 18 | [Apply](https://oceanspray.wd5.myworkdayjobs.com/OceanSprayJobs/job/Lakeville-MA/Operations-Planning-Intern_R5424) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Planning Intern \| Fort Lauderdale, FL | Fort Lauderdale, FL | Paid | Sep 18 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Fort-Lauderdale-FL/Planning-Intern---Fort-Lauderdale--FL_R-16509) |
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Transportation Planning Intern - Summer 2027 | US.NV.Henderson |  | Sep 18 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USNVHenderson/Transportation-Planning-Intern---Summer-2027_R-160498-1) |

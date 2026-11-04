@@ -1,9 +1,11 @@
 # Business: Summer 2027 Internships
 
-74 open Summer 2027 business roles, newest first (all 74). **Updated November 4, 2026.** [Back to every major](../README.md) · [See all 144 business internships on InternScout](https://internscout.org/internships/business/)
+75 open Summer 2027 business roles, newest first (all 75). **Updated November 4, 2026.** [Back to every major](../README.md) · [See all 147 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Baker Hughes](https://internscout.org/internships/at/baker-hughes/) | Business Intern - Summer 2027 Opportunities | Houston, TX | Paid | Nov 4 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-HOUSTON---6760-Concord-Park/Business-Intern---Summer-2027-Opportunities_R168892) |
+| [Baker Hughes](https://internscout.org/internships/at/baker-hughes/) | Business Intern- Summer 2027 Opportunities | Anchorage-795 East 94Th Avenue, AK |  | Nov 4 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-AK-ANCHORAGE-795-EAST-94TH-AVENUE/Business-Intern--Summer-2027-Opportunities_R168907) |
 | [Uline](https://internscout.org/internships/at/uline/) | Business Process Analyst Internship - Summer 2027 | Pleasant Prairie, WI |  | Nov 4 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Business-Process-Analyst-Internship---Summer-2027_R268900) |
 | [AltaGas](https://internscout.org/internships/at/altagas/) | AltaGas - 2027 Utilities Strategy & Commercial Intern | Calgary, AB |  | Nov 3 | [Apply](https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/AltaGas---2027-Utilities-Strategy---Commercial-Intern_R7403) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Commercial Engines Programs Intern (Summer 2027) | East Hartford-Obg, CT | Paid | Nov 2 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Commercial-Engines-Programs-Intern--Summer-2027-_01884450) |
@@ -41,7 +43,6 @@
 | [Baird](https://internscout.org/internships/at/baird/) | Internship – Business Transformation (Milwaukee, WI Summer 2027) | WI-Milwaukee |  | Oct 7 | [Apply](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Business-Transformation--Milwaukee--WI-Summer-2027-_R20261133-1) |
 | [Abbott](https://internscout.org/internships/at/abbott/) | 2027 Abbott MBA Internship | United States - Illinois - Abbott Park +2 | \$86,700.00 – \$173,300.00 | Oct 5 | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/XMLNAME-2027-Abbott-MBA-Internship_31160732) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Organizational Change Management Intern (MBA/Graduate) (Summer 2027) | Westerville, OH |  | Oct 2 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20282083) |
-| [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - General Bank/Business Risk & Controls (Raleigh, NC) | Raleigh, North Carolina |  | Sep 30 | [Apply](https://firstcitizens.jibeapply.com/jobs/35783) |
 | [PPL](https://internscout.org/internships/at/ppl/) | Business Intern, Distribution Project Development, Summer 2027 | Allentown, Pennsylvania |  | Sep 28 | [Apply](https://careers.pplweb.com/jobs/15207) |
 | Franklin Electric | Global Business Strategy Development Intern | Fort Wayne, IN |  | Sep 23 | [Apply](https://franklin-electric.pinpointhq.com/en/postings/a8e0afdd-63ce-4817-aaca-056018010f06?ats=pinpointhq) |
 | Force Factor | Summer 2027 MBA Internship | Boston, MA. +1 |  | Sep 17 | [Apply](https://forcefactor.com/pages/job-openings?gh_jid=6199605004) |

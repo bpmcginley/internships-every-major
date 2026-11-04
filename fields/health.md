@@ -1,6 +1,6 @@
 # Health: Summer 2027 Internships
 
-60 open Summer 2027 health roles, newest first (all 60). **Updated November 4, 2026.** [Back to every major](../README.md) · [See all 307 health internships on InternScout](https://internscout.org/internships/health/)
+57 open Summer 2027 health roles, newest first (all 57). **Updated November 4, 2026.** [Back to every major](../README.md) · [See all 310 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -51,11 +51,8 @@
 | [Wellmark](https://internscout.org/internships/at/wellmark/) | Software Engineer Intern - Technology Healthcare Innovation | Des Moines, IA |  | Sep 21 | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000150732768) |
 | [Medpace](https://internscout.org/internships/at/medpace/) | Summer 2027 Clinical Trials Feasibility & Proposals Internship | Cincinnati, Ohio |  | Sep 17 | [Apply](https://careers.medpace.com/jobs/13001) |
 | [Medpace](https://internscout.org/internships/at/medpace/) | Clinical Informatics Internship/Co-op - Summer 2027 | Cincinnati, Ohio +1 |  | Sep 8 | [Apply](https://careers.medpace.com/jobs/12988) |
-| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Healthcare Data Management and Strategy | Portland, ME | \$30 per hour | Nov 4, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3973/summer-2027-consulting-internship---healthcare-data-management-and-strategy/job) |
-| [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Co-op Data Science & Digital Innovation (Preclinical Manufacturing & Research IT) | TARRYTOWN +1 |  | Nov 3 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1) |
 | [Holmes Murphy](https://internscout.org/internships/at/holmes-murphy/) | Clinical Wellbeing Intern - Summer 2027 | Minneapolis |  | Oct 27 | [Apply](https://holmesmurphy.wd1.myworkdayjobs.com/HolmesMurphyCareers/job/Minneapolis/Clinical-Wellbeing-Intern---Summer-2027_R0001034) |
 | [Baird](https://internscout.org/internships/at/baird/) | Internship – Hospitality (Louisville, KY Summer 2027) | KY-Louisville |  | Oct 2 | [Apply](https://baird.wd1.myworkdayjobs.com/careers/job/KY-Louisville/Internship---Hospitality--Louisville--KY-Summer-2027-_R20261112-1) |
-| [CVS Health](https://internscout.org/internships/at/cvs-health/) | Organizational Effectiveness Corporate Internship – Summer 2027 (Undergraduate) | CT - Hartford |  | Sep 30 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Organizational-Effectiveness-Corporate-Internship---Summer-2027--Undergraduate-_R1051253) |
 | [Humana](https://internscout.org/internships/at/humana/) | Summer 2027 MBA Internship – Primary Care & Clinical Innovation | Louisville, KY +5 | \$37,440 - \$96,800 per year | Sep 22 | [Apply](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Summer-2027-MBA-Internship---Primary-Care---Clinical-Innovation_R-431364) |
 | [Momentive](https://internscout.org/internships/at/momentive/) | Summer 2027 Intern - Healthcare Marketing | Niskayuna, NY | \$22.00 - \$26.00 | Sep 18 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Healthcare-Marketing_R9733) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Clinical Affairs - Michigan | Portage, Michigan |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Clinical-Affairs---Michigan_R572868) |

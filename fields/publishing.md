@@ -1,9 +1,10 @@
 # Publishing: Summer 2027 Internships
 
-5 open Summer 2027 publishing roles, newest first (all 5). **Updated November 4, 2026.** [Back to every major](../README.md) · [See all 19 publishing internships on InternScout](https://internscout.org/internships/publishing/)
+6 open Summer 2027 publishing roles, newest first (all 6). **Updated November 4, 2026.** [Back to every major](../README.md) · [See all 20 publishing internships on InternScout](https://internscout.org/internships/publishing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Adobe](https://internscout.org/internships/at/adobe/) | 2027 Intern - Media & Editorial Generalist | San Francisco +1 | \$25.00 - \$30.00 hour | Nov 4 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-Intern---Media---Editorial-Generalist_R173414) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Editorial Design Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748518005) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Editorial Projects Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748499005) |
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Content Publishing Developer Intern | Cincinnati, OH |  | Oct 29 | [Apply](https://go.vansh.nyc/Ze) |

@@ -1,6 +1,6 @@
 # Architecture: Summer 2027 Internships
 
-52 open Summer 2027 architecture roles, newest first (all 52). **Updated November 4, 2026.** [Back to every major](../README.md) · [See all 130 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+52 open Summer 2027 architecture roles, newest first (all 52). **Updated November 4, 2026.** [Back to every major](../README.md) · [See all 131 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Edge AI and Display Hardware Architecture Intern | Markham, ON, Canada |  | Oct 21 | [Apply](https://go.vansh.nyc/dY) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems | Markham, ON, Canada |  | Oct 21 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721661830) |
 | [Adobe](https://internscout.org/internships/at/adobe/) | 2027 Intern - AI & Architecture | San Jose +1 | \$38.00 - \$51.00 hour | Oct 19 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998) |
-| [WSP](https://internscout.org/internships/at/wsp/) | Landscape Architecture- Summer 2027 | Baltimore, MD | Paid | Oct 15 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97459) |
+| [WSP](https://internscout.org/internships/at/wsp/) | Landscape Architecture- Summer 2027 | Baltimore, MD |  | Oct 15 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97459) |
 | [Tenstorrent](https://internscout.org/internships/at/tenstorrent/) | Systems Intern, Validation, Software, Design, Architecture & Packaging | Austin, TX +1 |  | Oct 14 | [Apply](https://go.vansh.nyc/gg) |
 | [STV](https://internscout.org/internships/at/stv/) | Architecture Intern - Summer 2027 | Vermont Avenue, Washington, District of Columbia | \$54,810.00 - \$62,284.00 | Oct 14 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Vermont-Avenue-Washington-District-of-Columbia/Architecture-Intern---Summer-2027_JR6256) |
 | [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Design Architecture Engineer Intern | San Jose, CA |  | Oct 6 | [Apply](https://go.vansh.nyc/Fe) |

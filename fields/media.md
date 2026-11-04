@@ -1,10 +1,13 @@
 # Media: Summer 2027 Internships
 
-36 open Summer 2027 media roles, newest first (all 36). **Updated November 4, 2026.** [Back to every major](../README.md) · [See all 127 media internships on InternScout](https://internscout.org/internships/media/)
+39 open Summer 2027 media roles, newest first (all 39). **Updated November 4, 2026.** [Back to every major](../README.md) · [See all 132 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Samsung Research America | 2027 Summer Intern, Generative AI based Imaging and Video R&D | 6105 Tennyson Pkwy, Suite 300, Plano TX 75024 +1 | Paid | Nov 3 | [Apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927216002) |
+| [Adobe](https://internscout.org/internships/at/adobe/) | 2027 Intern - Media & Editorial Generalist | San Francisco +1 | \$25.00 - \$30.00 hour | Nov 4 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-Intern---Media---Editorial-Generalist_R173414) |
+| [Carpenter Technology](https://internscout.org/internships/at/carpenter-technology/) | Technical Writing Intern | Reading, PA | \$21.00 - \$25.00 per hour | Nov 4 | [Apply](https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Technical-Writing-Intern_26977) |
+| [David Yurman](https://internscout.org/internships/at/david-yurman/) | Video Intern, E-Comm | New York, NY | \$25/hour | Nov 4 | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Video-Intern--E-Comm_R-101195) |
+| [Samsung Research America](https://internscout.org/internships/at/samsung-research-america/) | 2027 Summer Intern, Generative AI based Imaging and Video R&D | 6105 Tennyson Pkwy, Suite 300, Plano TX 75024 +1 | Paid | Nov 3 | [Apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927216002) |
 | [PTC](https://internscout.org/internships/at/ptc/) | Training Content Creator Intern (Summer 2027) | Boston, MA, USA | \$28-\$32/hour | Nov 3 | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Training-Content-Creator-Intern_JR112942-1) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Digital Content Writing Intern | Florida - Deerfield Beach |  | Nov 3 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Digital-Content-Writing-Intern_JR105184) |
 | [David Yurman](https://internscout.org/internships/at/david-yurman/) | Brand Creative Intern | New York, NY | \$25/hour | Nov 3 | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Brand-Creative-Intern_R-101192) |
