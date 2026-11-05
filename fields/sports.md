@@ -1,9 +1,10 @@
 # Sports: Summer 2027 Internships
 
-11 open Summer 2027 sports roles, newest first (all 11). **Updated November 5, 2026.** [Back to every major](../README.md) · [See all 80 sports internships on InternScout](https://internscout.org/internships/sports/)
+12 open Summer 2027 sports roles, newest first (all 12). **Updated November 5, 2026.** [Back to every major](../README.md) · [See all 81 sports internships on InternScout](https://internscout.org/internships/sports/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Creative Artists Agency](https://internscout.org/internships/at/creative-artists-agency/) | CAA ICON Sports Data Analytics Intern – Summer 2027 (Denver, CO) | Denver, CO | \$19.84 - \$26.00 | Nov 5 | [Apply](https://caa.wd1.myworkdayjobs.com/Careers/job/Denver-CO/CAA-ICON-Data-Analytics-Intern---Summer-2027--Denver--CO-_JR9391) |
 | Nex | Summer 2027 \| Software Engineer Intern (Sports & Fitness) | San Jose, California (Hybrid) +1 |  | Nov 3 | [Apply](https://job-boards.greenhouse.io/nex/jobs/5421056008) |
 | Denver | Therapeutic Recreation Intern | Greater Denver Area, CO | \$19.29 - \$21.80 | Nov 2 | [Apply](https://denver.wd1.myworkdayjobs.com/CCD-denver-denvergov-CSC_Jobs-Civil_service_jobs-Police_Jobs-Fire_Jobs/job/Greater-Denver-Area/Therapeutic-Recreation-Intern_R0083838) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer and Fall 2027 FOX Technology Internship Program - Live Sports Virtual Enhancement Operator | Tempe, AZ |  | Oct 30 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Summer-and-Fall-2027-FOX-Technology-Internship-Program---Live-Sports-Virtual-Enhancement-Operator_R50033973) |

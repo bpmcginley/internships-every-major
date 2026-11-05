@@ -1,9 +1,11 @@
 # Nonprofit: Summer 2027 Internships
 
-14 open Summer 2027 nonprofit roles, newest first (all 14). **Updated November 5, 2026.** [Back to every major](../README.md) · [See all 102 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
+16 open Summer 2027 nonprofit roles, newest first (all 16). **Updated November 5, 2026.** [Back to every major](../README.md) · [See all 105 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| NRDC | Knowledge Management Intern | Washington, DC |  | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6066/job?mobile=true&needsRedirect=false) |
+| NRDC | Donor Systems Intern | NYC |  | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6046/job?mobile=true&needsRedirect=false) |
 | Jackson | Corporate Philanthropy Intern - Lansing - Summer 2027 | Lansing, MI |  | Nov 3 | [Apply](https://jackson.wd1.myworkdayjobs.com/jackson_campus/job/Lansing-MI/Corporate-Philanthropy-Intern---Lansing---Summer-2027_REQ-04033) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (Wisconsin Health Plan) – Summer 2027 (Undergraduate) | WI |  | Nov 3 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040147) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (New York Health Plan) – Summer 2027 (Undergraduate) | New York, NY |  | Nov 3 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040153) |

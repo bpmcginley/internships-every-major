@@ -1,9 +1,10 @@
 # Government and Public Policy: Summer 2027 Internships
 
-61 open Summer 2027 government and public policy roles, newest first (all 61). **Updated November 5, 2026.** [Back to every major](../README.md) · [See all 295 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+62 open Summer 2027 government and public policy roles, newest first (all 62). **Updated November 5, 2026.** [Back to every major](../README.md) · [See all 300 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship - Knowledge and Information Management Intern | Atlanta, GA |  | Nov 5 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship---Knowledge-and-Information-Management-Intern_R-0000033908) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Government & Political Science Internship - Summer 2027 | Arlington, VA |  | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Arlington-Government-&-Political-Science-Internship-Summer-2027-VA-22209/1427398100/) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Public Relations & Government Affairs Intern | Norwell, MA | Paid | Nov 4 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168265) |
 | [Baker Tilly](https://internscout.org/internships/at/baker-tilly/) | Summer 2027 Public Sector Finance Intern (Capital & Infrastructure - Debt Issuance) | Indianapolis, IN +1 | \$23.75 to \$79.80 | Nov 4 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-IN-Indianapolis/Summer-2027-Public-Sector-Finance-Intern--Capital---Infrastructure---Debt-Issuance-_JR107991) |

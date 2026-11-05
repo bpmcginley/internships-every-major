@@ -1,12 +1,15 @@
 # Urban Planning: Summer 2027 Internships
 
-55 open Summer 2027 urban planning roles, newest first (all 55). **Updated November 5, 2026.** [Back to every major](../README.md) · [See all 116 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+58 open Summer 2027 urban planning roles, newest first (all 58). **Updated November 5, 2026.** [Back to every major](../README.md) · [See all 119 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | New Orleans, LA +1 |  | Nov 5 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98834) |
+| [HNTB](https://internscout.org/internships/at/hntb/) | Planning Intern - Summer 2027 | Milwaukee, WI (East Wisconsin Avenue) +1 |  | Nov 5 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Milwaukee-WI-East-Wisconsin-Avenue/Planning-Intern---Summer-2027_R-32336) |
+| [WSP](https://internscout.org/internships/at/wsp/) | Transportation Planning Intern - Summer 2027 | Austin, TX +2 |  | Nov 5 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98831) |
 | [David Yurman](https://internscout.org/internships/at/david-yurman/) | Planning Intern | New York, NY | \$25/hour | Nov 4 | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Planning-Intern_R-101200) |
-| [CAI](https://internscout.org/internships/at/cai/) | GIS Software Developer Intern | PA-CLIENT-STATE +1 | \$20 per hour | Nov 4 | [Apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8554) |
-| [CAI](https://internscout.org/internships/at/cai/) | GIS Software Developer Intern | United States |  | Nov 3 | [Apply](https://go.vansh.nyc/1ce) |
+| CAI | GIS Software Developer Intern | PA-CLIENT-STATE +1 | \$20 per hour | Nov 4 | [Apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8554) |
+| CAI | GIS Software Developer Intern | United States |  | Nov 3 | [Apply](https://go.vansh.nyc/1ce) |
 | [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | Assortment Planning Intern - Summer 2027 | Atlanta, GA, USA |  | Nov 3 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Assorment-Planning-Intern---Summer-2027_R26_0000035659) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Transportation Planning Intern - Summer 2027 | Philadelphia, PA |  | Oct 30 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98518) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Mine Planning Intern - Energy & Resources (Summer 2027) | Reno, NV |  | Oct 30 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008554) |

@@ -1,6 +1,6 @@
 # Real Estate: Summer 2027 Internships
 
-23 open Summer 2027 real estate roles, newest first (all 23). **Updated November 5, 2026.** [Back to every major](../README.md) · [See all 51 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
+21 open Summer 2027 real estate roles, newest first (all 21). **Updated November 5, 2026.** [Back to every major](../README.md) · [See all 48 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -10,7 +10,6 @@
 | [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Real Estate | Dallas, TX | \$25.00 per hour | Nov 2 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Dallas-TX/XMLNAME-2027-Summer-Intern---Commercial-Real-Estate_2620103-1) |
 | [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Real Estate | Miami, FL | \$25.00 per hour | Nov 2 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Miami-FL/XMLNAME-2027-Summer-Intern---Commercial-Real-Estate_2620099-1) |
 | [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Real Estate | St Louis, MO | \$25.00 per hour | Nov 2 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/St-Louis-MO/XMLNAME-2027-Summer-Intern---Commercial-Real-Estate_2620105) |
-| [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Real Estate | New York, NY | \$25.00 per hour | Nov 2 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/New-York-NY/XMLNAME-2027-Summer-Intern---Commercial-Real-Estate_2620100-1) |
 | [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Real Estate | Birmingham, MI | \$25.00 per hour | Nov 2 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Birmingham-MI/XMLNAME-2027-Summer-Intern---Commercial-Real-Estate_2620106-1) |
 | [KeyBank](https://internscout.org/internships/at/keybank/) | 2027 Summer Real Estate Capital Internship - Dallas | Dallas, TX | \$27 per hour | Nov 2 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Dallas-TX/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Dallas_R-42276) |
 | [KeyBank](https://internscout.org/internships/at/keybank/) | 2027 Summer Real Estate Capital Internship - Denver CDLI | Denver, CO | \$27 per hour | Nov 2 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Denver-CO/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Denver-CDLI_R-42000) |
@@ -22,7 +21,6 @@
 | Realty Income | Commercial Real Estate Intern - Multiple Opportunities | San Diego, California | \$21.00 – \$25.00 | Oct 12 | [Apply](https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Commercial-Real-Estate-Intern---Multiple-Opportunities_R-100330) |
 | [Scout Clean Energy](https://internscout.org/internships/at/scout-clean-energy/) | Real Estate Systems Intern - Summer 2027 | Boulder, Colorado | \$25-30/hour | Oct 12 | [Apply](https://apply.workable.com/j/EC27E34D20/apply) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Real Estate & Builds Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175507?gh_jid=8175507) |
-| [Compeer Financial](https://internscout.org/internships/at/compeer-financial/) | Intern Leasing Specialist | MN- Mankato +2 | Paid | Aug 25 | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5406055008) |
 | [StepStone Group](https://internscout.org/internships/at/stepstone-group/) | 2027 Real Estate Private Equity Advisory Summer Analyst | Cleveland, MD | \$65,000 annually | Aug 3 | [Apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8097993) |
 | [Houlihan Lokey](https://internscout.org/internships/at/houlihan-lokey/) | 2027 Summer Associate – Real Estate, Lodging & Leisure – New York | New York, NY, USA | \$175,000 - \$175,000 | Oct 3 | [Apply](https://hl.wd1.myworkdayjobs.com/Campus/job/New-York-NY-USA/XMLNAME-2027-Summer-Associate---Real-Estate--Lodging---Leisure---New-York_R3621) |
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | Real Estate Intern Summer 2027 Procurement | US - UPS CORPORATE OFFICES (GACOR) |  | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Real-Estate-Intern-Summer-2026-Procurement_R26030587) |

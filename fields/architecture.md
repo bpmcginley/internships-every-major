@@ -1,9 +1,10 @@
 # Architecture: Summer 2027 Internships
 
-55 open Summer 2027 architecture roles, newest first (all 55). **Updated November 5, 2026.** [Back to every major](../README.md) · [See all 134 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+55 open Summer 2027 architecture roles, newest first (all 55). **Updated November 5, 2026.** [Back to every major](../README.md) · [See all 136 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | New Orleans, LA +1 |  | Nov 5 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98834) |
 | Logiqal | Quantum Error Correction and Architecture Intern | Princeton, NJ |  | Nov 4 | [Apply](https://go.vansh.nyc/1hg) |
 | [STV](https://internscout.org/internships/at/stv/) | Architecture Intern - Summer 2027 | South Flower Street, Los Angeles, California | \$52,526.00 - \$59,689.00 | Nov 3 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/South-Flower-Street-Los-Angeles-California/Architecture-Intern---Summer-2027_JR6442) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Receiver, Exciter & Processing Architecture Electrical Engineer Intern (Summer 2027) | Tewksbury, MA | Paid | Nov 3 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027-_01873437) |
@@ -37,7 +38,6 @@
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | Mission Architecture Intern (Summer 2027) | Woodbridge, VA | \$40/hour | Sep 29 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5252672007) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Architecture Intern | Burlington, VT |  | Sep 28 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Architecture-Intern--MS---Summer-2027_2604613) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Enterprise Architecture Intern (Chicago, IL) | Chicago, Illinois |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138733) |
-| [AMD](https://internscout.org/internships/at/amd/) | 2027 PhD SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op | San Jose, California +3 |  | Sep 11 | [Apply](https://careers.amd.com/jobs/92350) |
 | AArete | Data Architecture and Engineering Intern | Chicago, IL |  | Sep 8 | [Apply](https://go.vansh.nyc/Mn) |
 | [Textron](https://internscout.org/internships/at/textron/) | 2027 Intern - Naval Architecture Engineer (Marine) - New Orleans, LA | New Orleans, Louisiana |  | Sep 1 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342579) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Architectural Engineering | Los Angeles, CA | \$28–\$40 per hour | Aug 26 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377117008) |

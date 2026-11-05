@@ -1,6 +1,6 @@
 # Agriculture: Summer 2027 Internships
 
-17 open Summer 2027 agriculture roles, newest first (all 17). **Updated November 5, 2026.** [Back to every major](../README.md) · [See all 48 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
+18 open Summer 2027 agriculture roles, newest first (all 18). **Updated November 5, 2026.** [Back to every major](../README.md) · [See all 50 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Forestry Field Office Internship – Emerging Talent Summer Experience Program | Junction City, OR |  | Sep 21 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792106) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Food Safety & Quality Intern - Summer 2027 - Campus Recruiting (Multiple Locations) | Austin, MN +11 |  | Sep 4 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35738) |
 | [Ruekert & Mielke](https://internscout.org/internships/at/ruekert-mielke/) | Agricultural Engineering Student Intern (Summer 2027) | Madison, Wisconsin |  | Sep 1 | [Apply](https://ruekertmielke.bamboohr.com/careers/310) |
+| [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Petcare Quality and Food Safety Internship - Ft. Smith, Arkansas | USA-Arkansas-Ft. Smith | Paid | Nov 5 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Arkansas-Ft-Smith/Summer-2027-Mars-Petcare-Quality-and-Food-Safety-Internship---Ft-Smith--Arkansas_R167867-1) |
 | Nemacolin Inc | Wildlife Care & Guest Experience Intern | Pennsylvania |  | Nov 4 | [Apply](https://bebee.com/us/jobs/wildlife-care-guest-experience-intern-nemacolin-inc-wharton-twp-pa-united-states--appcast-7428_bfab3ca881524e0c2d7c0c39744fa30e29ab3b0d8e05aa5c55f16a8dbdf4c560?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | Beef Veterinarian Intern - US Farm Animal (Summer 2027) | US Territory Field based | \$20-\$40/hour | Oct 2 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/US-Territory-Field-based/Beef-Veterinarian-Intern---US-Farm-Animal--Summer-2027-_R0027425) |
 | The Mosaic Company | Mosaic Biosciences Agronomy Co-Op/Intern – Summer 2027 | Remote | \$19.20/hr | Sep 25 | [Apply](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/Virtual---US/Co-op-Student-Admin_65109) |

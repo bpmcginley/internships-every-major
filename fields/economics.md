@@ -1,9 +1,14 @@
 # Economics: Summer 2027 Internships
 
-23 open Summer 2027 economics roles, newest first (all 23). **Updated November 5, 2026.** [Back to every major](../README.md) · [See all 54 economics internships on InternScout](https://internscout.org/internships/economics/)
+28 open Summer 2027 economics roles, newest first (all 28). **Updated November 5, 2026.** [Back to every major](../README.md) · [See all 58 economics internships on InternScout](https://internscout.org/internships/economics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Economic Research, Internship – Summer 2027 | Kansas City, MO |  | Nov 5 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Kansas-City-MO/Economic-Research--Internship---Summer-2027_R-0000034027) |
+| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Oklahoma City – Regional Affairs Economics, Internship – Summer 2027 | Oklahoma City, OK |  | Nov 5 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Oklahoma-City-OK/Oklahoma-City---Regional-Affairs-Economics--Internship---Summer-2027_R-0000034004) |
+| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Denver – Regional Affairs Economics, Internship – Summer 2027 | Denver, CO |  | Nov 5 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Denver-CO/Denver---Regional-Affairs-Economics--Internship---Summer-2027_R-0000034013-1) |
+| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Economics PhD, Internship – Summer 2027 | Kansas City, MO |  | Nov 5 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Kansas-City-MO/Economics-PhD--Internship---Summer-2027_R-0000034017-1) |
+| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Omaha – Regional Affairs Economics, Internship – Summer 2027 | Omaha, NE |  | Nov 5 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Omaha-NE/Omaha---Regional-Affairs-Economics--Internship---Summer-2027_R-0000034014-1) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Undergraduate Intern – Research Focus | Minneapolis, MN | \$23.00/hour | Nov 1 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Minneapolis-MN/Undergraduate-Intern---Research-Focus_R-0000033978-1) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Clinical Science, Medical Monitoring & Health Economics | TARRYTOWN +1 | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Clinical-Science--Medical-Monitoring---Health-Economics_R52563-1) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | PhD Economics Intern - Finance, Macroeconomics, And Forecasting | Seattle, WA +3 |  | Oct 27 | [Apply](https://amazon.jobs/en/jobs/10590600/phd-economics-intern-finance-macroeconomics-and-forecasting-summer-2027) |

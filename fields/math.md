@@ -1,16 +1,15 @@
 # Math: Summer 2027 Internships
 
-34 open Summer 2027 math roles, newest first (all 34). **Updated November 5, 2026.** [Back to every major](../README.md) · [See all 57 math internships on InternScout](https://internscout.org/internships/math/)
+33 open Summer 2027 math roles, newest first (all 33). **Updated November 5, 2026.** [Back to every major](../README.md) · [See all 56 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern-P&C Actuarial & Underwriting Modeling - Data Scientist | Bloomington, Illinois +3 | \$30.00/hour | Nov 5 | [Apply](https://jobs.statefarm.com/jobs/46227) |
 | BCBST | Actuarial Summer Intern-2 | USA, TN | Paid | Oct 28 | [Apply](https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Actuarial-Summer-Intern-2_R-51964) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Biostatistics & Statistical Programming | TARRYTOWN | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Biostatistics---Statistical-Programming_R52558-1) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Actuarial Services Intern | Florida - Deerfield Beach |  | Oct 27 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Actuarial-Services-Intern_JR105151) |
 | [AstraZeneca](https://internscout.org/internships/at/astrazeneca/) | Preclinical Mathematical Modeling Internship | US - Cambridge Kendall SQ - MA | \$37-\$39 per hour | Oct 27 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Preclinical-Mathematical-Modeling-Internship_R-262630) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Grad Intern - Biostatistics (Summer 2027) | Remote | \$35.34 – \$41.20 per hour | Oct 26 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Biostatistics--Summer-2027-_R-259820) |
-| CNO Financial Group | Actuarial Intern - REMOTE | Carmel, IN | Paid | Oct 23 | [Apply](https://cnoinc.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Actuarial-Intern---REMOTE_JR170411-1) |
-| [Marsh](https://internscout.org/internships/at/marsh/) | Marsh Risk Early Career Program, Summer Intern 2027 – Actuarial Analytics, NYC and Chicago | New York - 1166 | \$28.50/hr | Oct 23 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Chicago---155-Wacker/Marsh-Risk-Early-Career-Program--Summer-Intern-2027---Actuarial-Analytics--NYC-and-Chicago_R_370673) |
 | [Definity Financial](https://internscout.org/internships/at/definity-financial/) | Actuarial Analyst - Summer 2027 Co-op/Intern | Waterloo, ONT, Canada | Paid | Oct 21 | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9445) |
 | [Aon](https://internscout.org/internships/at/aon/) | Early Careers: Retirement Actuarial Intern | Dallas, Texas | \$25.00 - \$35.00 hour | Oct 21 | [Apply](https://jobs.aon.com/jobs/105687) |
 | [Everest](https://internscout.org/internships/at/everest/) | 2027 Everest Actuarial Internship Program | Warren, NJ | \$900 - 1,000 per week | Oct 21 | [Apply](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Everest-Actuarial-Internship-Program_R7399) |

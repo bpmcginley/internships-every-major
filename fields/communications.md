@@ -1,12 +1,12 @@
 # Communications: Summer 2027 Internships
 
-60 open Summer 2027 communications roles, newest first (all 60). **Updated November 5, 2026.** [Back to every major](../README.md) · [See all 191 communications internships on InternScout](https://internscout.org/internships/communications/)
+59 open Summer 2027 communications roles, newest first (all 59). **Updated November 5, 2026.** [Back to every major](../README.md) · [See all 191 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [JM Family](https://internscout.org/internships/at/jm-family/) | Corporate Communications & Digital Experience Intern | Florida - Deerfield Beach |  | Nov 5 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Corporate-Communications---Digital-Experience-Intern_JR105209) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Public Relations & Government Affairs Intern | Norwell, MA | Paid | Nov 4 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168265) |
 | [Invesco](https://internscout.org/internships/at/invesco/) | Early Career Intern - Communications | Atlanta, Georgia | \$35/hr | Nov 3 | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Communications_R-15968) |
-| [Novelis](https://internscout.org/internships/at/novelis/) | Communications Intern | Atlanta, GA |  | Nov 3 | [Apply](https://careers-novelis.icims.com/jobs/56385/communications-intern/job) |
 | [Corning](https://internscout.org/internships/at/corning/) | Employee Engagement Intern, Corporate Communications - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Nov 2 | [Apply](https://corningjobs.corning.com/job/Corning-Employee-Engagement-Intern%2C-Corporate-Communications-Summer-2027-NY-14831/1447061000/) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Marketing, Graphics, and Digital Media Communications Intern | Florida - Deerfield Beach |  | Nov 2 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Marketing--Graphics--and-Digital-Media-Communications-Intern_JR105139) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Communications Intern | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748228005) |
@@ -16,7 +16,6 @@
 | [American Electric Power](https://internscout.org/internships/at/american-electric-power/) | Communications & Marketing Intern | Roanoke, VA | Paid | Oct 30 | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Roanoke-VA/Communications---Marketing-Intern_R20502) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern People, Communications, Change & Learning | TARRYTOWN +2 | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-People--Communications--Change---Learning_R52600-1) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Communications Intern - Summer 2027 | Kansas City, MO |  | Oct 27 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/Communications-Intern---Summer-2027_R-32203-1) |
-| [JM Family](https://internscout.org/internships/at/jm-family/) | Marketing Communications Intern | Florida - Deerfield Beach |  | Oct 27 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Marketing-Communications-Intern_JR105099) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Marketing and Communications | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Marketing-and-Communications-MD-21230/1434386400/) |
 | [Together AI](https://internscout.org/internships/at/together-ai/) | Technical Writer Intern, Developer Experience (Summer 2027) | San Francisco |  | Oct 26 | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5271149007) |
 | [Corning](https://internscout.org/internships/at/corning/) | Media & Reputation Intern, Corporate Communications - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Oct 26 | [Apply](https://corningjobs.corning.com/job/Corning-Media-&-Reputation-Intern%2C-Corporate-Communications-Summer-2027-NY-14831/1443520400/) |

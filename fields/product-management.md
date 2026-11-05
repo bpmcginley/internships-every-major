@@ -1,6 +1,6 @@
 # Product Management: Summer 2027 Internships
 
-174 open Summer 2027 product management roles, newest first (all 174). **Updated November 5, 2026.** [Back to every major](../README.md) · [See all 301 product management internships on InternScout](https://internscout.org/internships/product-management/)
+173 open Summer 2027 product management roles, newest first (all 173). **Updated November 5, 2026.** [Back to every major](../README.md) · [See all 302 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -48,7 +48,6 @@
 | [SOTI](https://internscout.org/internships/at/soti/) | Associate Product Manager Intern (SOTI XSight) (May 2027 - 12 Months) | Mississauga, Canada – Meadowvale Office (HQ) +1 | \$55,000 | Oct 23 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614) |
 | [SOTI](https://internscout.org/internships/at/soti/) | Associate Product Manager Intern (SOTI Connect) (May 2027 - 12 Months) | Mississauga, Canada – Meadowvale Office (HQ) +1 | \$55,000 | Oct 23 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Intern - Product Management | Bridgeton, Missouri +1 |  | Oct 23 | [Apply](https://careers.na.panasonic.com/jobs/51897) |
-| [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | Intern- Product Management (Summer 2027) | Markham +1 | Paid | Oct 23 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2) |
 | [David Yurman](https://internscout.org/internships/at/david-yurman/) | Product Development Intern | New York, NY | \$25/hour | Oct 22 | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Product-Development-Intern_R-101161) |
 | [Aptiv](https://internscout.org/internships/at/aptiv/) | AI Product Analyst Intern | San Diego, CA |  | Oct 21 | [Apply](https://go.vansh.nyc/dC) |
 | Allstate | Product Management Advertising Intern | Illinois |  | Oct 21 | [Apply](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280) |
@@ -156,7 +155,7 @@
 | [AMCA](https://internscout.org/internships/at/amca/) | Program Management Internship, Business Operations (Summer 2027) | El Segundo, CA | Paid | May 20 | [Apply](https://job-boards.greenhouse.io/amca/jobs/4253815009) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Product Management Data Intern | Niles, IL | \$23-\$43 per hour | Nov 5, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5024/global-product-management-data-intern/job) |
 | [Databricks](https://internscout.org/internships/at/databricks/) | Product Management Intern (Summer 2027) | Bellevue, Washington +5 | \$51.50 | Aug 17, 2023 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) |
-| [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Summer 2027 Graduate Product Management Intern | Franklin, Tennessee +1 | \$29.50-\$35.50 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/135310) |
+| [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Graduate Product Management Intern | Franklin, Tennessee +1 | \$29.50-\$35.50 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/135310) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Program Management Intern – Summer 2027 | New York, NY |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/New-York-NY/Program-Management-Intern---Summer-2027_R-31828) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Product Specialist Intern, Summer 2027 | Fort Myers, FL +1 | Paid | Oct 24 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Myers-FL/Product-Specialist-Intern-2027_10017586) |
 | [Oshkosh](https://internscout.org/internships/at/oshkosh/) | Product Management Intern (Summer 2027) | Appleton, Wisconsin, United States +1 |  | Oct 24 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Product-Management-Intern--Summer-2027-_R49746) |

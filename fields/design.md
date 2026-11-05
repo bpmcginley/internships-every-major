@@ -1,9 +1,11 @@
 # Design: Summer 2027 Internships
 
-75 open Summer 2027 design roles, newest first (all 75). **Updated November 5, 2026.** [Back to every major](../README.md) · [See all 200 design internships on InternScout](https://internscout.org/internships/design/)
+76 open Summer 2027 design roles, newest first (all 76). **Updated November 5, 2026.** [Back to every major](../README.md) · [See all 200 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Duke Energy](https://internscout.org/internships/at/duke-energy/) | UX Design Internship – Summer 2027 | Charlotte, NC |  | Nov 5 | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/UX-Design-Internship---Summer-2027_R41850) |
+| [Centene](https://internscout.org/internships/at/centene/) | Product Designer Intern (Master's - Summer 2027) | Remote-MO | \$21-30/hour | Nov 5 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Design-Systems-Design-Intern--Master-s---Summer-2027-_1667737) |
 | [Pattern](https://internscout.org/internships/at/pattern/) | UX Design Intern - Summer 2027 | Lehi, UT, US |  | Nov 4 | [Apply](https://jobs.lever.co/pattern/c125d285-71d1-4af5-9ed2-b1f8884f2a2d/apply) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Summer 2027: Industrial Design Intern (May through August) | Needham, MA, United States |  | Nov 4 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720355006) |
 | [Figma](https://internscout.org/internships/at/figma/) | PhD Intern, Software Engineer - Interaction Design (2027) | SF +1 |  | Nov 4 | [Apply](https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004) |
@@ -35,7 +37,6 @@
 | STR | Graphic Design & Technical Communications Intern - Summer 2027 | Woburn, MA | \$25.20-\$54.00/hour | Oct 20 | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723386006) |
 | [Garmin](https://internscout.org/internships/at/garmin/) | User Interface Designer Intern | Olathe, Kansas |  | Oct 20 | [Apply](https://careers.garmin.com/jobs/19938) |
 | [Amplify](https://internscout.org/internships/at/amplify/) | Summer 2027: Product Design Intern | Remote |  | Oct 19 | [Apply](https://jobs.ashbyhq.com/amplify/0b593144-07c5-45be-b979-6c37879e6300/application) |
-| [Oshkosh](https://internscout.org/internships/at/oshkosh/) | Industrial Design Intern | Oshkosh, Wisconsin, United States | \$18.00 - \$37.00 | Oct 15 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Industrial-Design-Intern_R49703) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Product Designer Intern | Costa Mesa, California, United States | Paid | Oct 13 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | UI/UX Design Intern (Summer 2027) | Delaware, OH +2 |  | Oct 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281371) |
 | [3M](https://internscout.org/internships/at/3m/) | Internship - 2027 Undergraduate 3M Industrial Design Intern - Safety & Industrial Business Group (SIBG) | Maplewood, MN +1 |  | Oct 12 | [Apply](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-Industrial-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172241) |
