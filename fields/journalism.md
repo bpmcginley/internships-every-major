@@ -1,10 +1,10 @@
 # Journalism: Summer 2027 Internships
 
-26 open Summer 2027 journalism roles, newest first (all 26). **Updated November 4, 2026.** [Back to every major](../README.md) · [See all 86 journalism internships on InternScout](https://internscout.org/internships/journalism/)
+26 open Summer 2027 journalism roles, newest first (all 26). **Updated November 5, 2026.** [Back to every major](../README.md) · [See all 86 journalism internships on InternScout](https://internscout.org/internships/journalism/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [Adobe](https://internscout.org/internships/at/adobe/) | 2027 Intern - Media & Editorial Generalist | San Francisco +1 | \$25.00 - \$30.00 hour | Nov 4 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-Intern---Media---Editorial-Generalist_R173414) |
+| [Adobe](https://internscout.org/internships/at/adobe/) | 2027 Intern - Media & Editorial Generalist | San Francisco +1 | \$25.00 - \$30.00 hour | Nov 5 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-Intern---Media---Editorial-Generalist_R173414) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Editorial Design Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748518005) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Editorial Projects Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748499005) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Breaking News Intern - Summer 2027 | Houston, TX, United States | Paid | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466393009) |
@@ -12,7 +12,7 @@
 | [Hearst](https://internscout.org/internships/at/hearst/) | Breaking News Intern | Houston, TX |  | Sep 23 | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027540) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Local News Intern - Summer 2027 | Dallas, TX |  | Sep 23 | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027548) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX News Media Internship Program - Chicago, IL | Chicago, Illinois, USA | \$20.00 per hour | Oct 24 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Chicago-Illinois-USA/Summer-2027-FOX-News-Media-Internship-Program---Chicago--IL_R50033979) |
-| [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX News Media Internship Program - Atlanta, GA | Atlanta, Georgia, USA |  | Oct 24 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Atlanta-Georgia-USA/Summer-2027-FOX-News-Media-Internship-Program---Atlanta--GA_R50033978) |
+| [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX News Media Internship Program - Atlanta, GA | Atlanta, Georgia, USA | \$20.00 per hour | Oct 24 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Atlanta-Georgia-USA/Summer-2027-FOX-News-Media-Internship-Program---Atlanta--GA_R50033978) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Intern - Marketing, Communications, Journalism Majors | Chicago, IL | \$20 to \$33, | Oct 1 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern---Marketing--Communications--Journalism-Majors_R-0000033618-1) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX News Media Internship Program - Miami, FL | Miami, Florida, USA | \$20.00 per hour | Sep 28 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Miami-Florida-USA/Summer--2027-FOX-News-Media-Internship-Program---Miami--FL_R50033988) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX News Media Internship Program - New York | New York, New York, USA | \$20.00 per hour | Sep 28 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---New-York_R50033989) |
