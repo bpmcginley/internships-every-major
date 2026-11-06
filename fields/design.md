@@ -1,16 +1,19 @@
 # Design: Summer 2027 Internships
 
-75 open Summer 2027 design roles, newest first (all 75). **Updated November 6, 2026.** [Back to every major](../README.md) · [See all 197 design internships on InternScout](https://internscout.org/internships/design/)
+77 open Summer 2027 design roles, newest first (all 77). **Updated November 6, 2026.** [Back to every major](../README.md) · [See all 202 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Tinder](https://internscout.org/internships/at/tinder/) | User Experience Research Intern | Los Angeles, California |  | Nov 6 | [Apply](https://jobs.lever.co/matchgroup/e2747122-5e35-4230-9d54-8d274dd0a713/apply) |
+| [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Interior Design Projects | Duluth, GA |  | Nov 6 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Duluth-GA/Summer-2027-Internship--Interior-Design-Projects_R2026-2431) |
+| [S&P Global](https://internscout.org/internships/at/s-p-global/) | Summer Intern, Business Content Design & Production | Massachusetts, US | \$20 to \$25 | Nov 6 | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Massachusetts-US/Summer-Intern--Business-Content-Design---Production_332657) |
+| [Uline](https://internscout.org/internships/at/uline/) | UX Design Internship - Summer 2027 | Pleasant Prairie, WI +4 | Paid | Nov 6 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/UX-Internship---Summer-2027_R268775) |
+| [Zillow](https://internscout.org/internships/at/zillow/) | Product Design Intern | Seattle-WA-2nd Ave | \$104,000.00 - \$166,000.00 annually | Nov 6 | [Apply](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Product-Design-Intern_P751613) |
 | [Duke Energy](https://internscout.org/internships/at/duke-energy/) | UX Design Internship – Summer 2027 | Charlotte, NC |  | Nov 5 | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/UX-Design-Internship---Summer-2027_R41850) |
-| [Centene](https://internscout.org/internships/at/centene/) | Product Designer Intern (Master's - Summer 2027) | Remote-MO | \$21-30/hour | Nov 5 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Design-Systems-Design-Intern--Master-s---Summer-2027-_1667737) |
 | [Pattern](https://internscout.org/internships/at/pattern/) | UX Design Intern - Summer 2027 | Lehi, UT, US |  | Nov 4 | [Apply](https://jobs.lever.co/pattern/c125d285-71d1-4af5-9ed2-b1f8884f2a2d/apply) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Summer 2027: Industrial Design Intern (May through August) | Needham, MA, United States |  | Nov 4 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720355006) |
 | [Figma](https://internscout.org/internships/at/figma/) | PhD Intern, Software Engineer - Interaction Design (2027) | SF +1 |  | Nov 4 | [Apply](https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004) |
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | Industrial Design Engineering Intern - Summer 2027 | Towson, MD, United States | \$38,600.00 - \$62,200.00 | Nov 4 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern---Summer-2027_REQ-1000052666) |
-| [Uline](https://internscout.org/internships/at/uline/) | UX Design Internship - Summer 2027 | Pleasant Prairie, WI +4 | Paid | Nov 3 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/UX-Internship---Summer-2027_R268775) |
 | [KnowBe4](https://internscout.org/internships/at/knowbe4/) | Multimedia Designer Summer Internship (Hybrid) | Clearwater, Florida | Paid | Nov 1 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919260002) |
 | [Insomniac Games](https://internscout.org/internships/at/insomniac-games/) | Undergraduate Tech Art Intern | Burbank, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18Q) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Product Design Intern | New York, NY | \$40.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748241005) |
@@ -26,7 +29,6 @@
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | UX/UI Design Intern - Summer 2027 | Valley City, OH, United States | \$38,600.00 - \$62,200.00 | Oct 24 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/UX-UI-Design-Intern---Summer-2027_REQ-1000052835) |
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Summer Internship Program 2027 - Enterprise UX Intern | Atlanta, Georgia |  | Oct 23 | [Apply](https://ice.jibeapply.com/jobs/14058) |
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Summer Internship Program 2027 - User Experience (UX) Designer Intern | New York, New York | \$30 per hour | Oct 23 | [Apply](https://ice.jibeapply.com/jobs/14111) |
-| [Zillow](https://internscout.org/internships/at/zillow/) | Product Design Intern | Seattle-WA-2nd Ave | \$104,000.00 - \$166,000.00 annually | Oct 23 | [Apply](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Product-Design-Intern_P751613) |
 | KRAFTON | UI Programming Intern | Montreal, Canada |  | Oct 22 | [Apply](https://go.vansh.nyc/hY) |
 | Nex | Summer 2027 \| UI Motion Artist Intern | San Jose, California |  | Oct 22 | [Apply](https://job-boards.greenhouse.io/nex/jobs/5461373008) |
 | [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Graphic Design Intern - Summer 2027 | Urbandale, IA | \$23.00 per hour | Oct 22 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253721) |

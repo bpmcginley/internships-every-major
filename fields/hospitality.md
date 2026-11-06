@@ -1,9 +1,13 @@
 # Hospitality: Summer 2027 Internships
 
-29 open Summer 2027 hospitality roles, newest first (all 29). **Updated November 6, 2026.** [Back to every major](../README.md) · [See all 113 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
+33 open Summer 2027 hospitality roles, newest first (all 33). **Updated November 6, 2026.** [Back to every major](../README.md) · [See all 118 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Culinary Internships - Glacier National Park | Columbia Falls, Montana | \$18.85/hr | Nov 6 | [Apply](https://xanterra.jibeapply.com/jobs/40156) |
+| [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Hospitality Internships - Lodging - Grand Canyon South Rim | GRAND CANYON, Arizona | Paid | Nov 6 | [Apply](https://xanterra.jibeapply.com/jobs/40112) |
+| [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Hospitality Internship - Oasis at Death Valley | Death Valley, California | \$16.65 per hour | Nov 6 | [Apply](https://xanterra.jibeapply.com/jobs/40114) |
+| [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Culinary Internships - Grand Canyon South Rim | GRAND CANYON, Arizona | \$16.05 per hour | Nov 6 | [Apply](https://xanterra.jibeapply.com/jobs/40113) |
 | [Mary Free Bed Rehabilitation Hospital](https://internscout.org/internships/at/mary-free-bed-rehabilitation-hospital/) | Foundation Events Intern - Summer 2027 Semester | Grand Rapids, MI | \$18/hour | Nov 4 | [Apply](https://maryfreebed.wd12.myworkdayjobs.com/mfb/job/Grand-Rapids-MI/Foundation-Events-Intern---Summer-2027-Semester_JB103472) |
 | [westernalliancebank](https://internscout.org/internships/at/westernalliancebank/) | Summer 2027 Internship - Phoenix, AZ - Resort Finance | Phoenix, AZ | Paid | Oct 28 | [Apply](https://westernalliancebank.wd5.myworkdayjobs.com/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Resort-Finance_R13961) |
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Resort Finance | Phoenix, AZ | Paid | Oct 28 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Resort-Finance_R13961) |

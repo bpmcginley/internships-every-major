@@ -1,9 +1,10 @@
 # Communications: Summer 2027 Internships
 
-59 open Summer 2027 communications roles, newest first (all 59). **Updated November 6, 2026.** [Back to every major](../README.md) · [See all 192 communications internships on InternScout](https://internscout.org/internships/communications/)
+59 open Summer 2027 communications roles, newest first (all 59). **Updated November 6, 2026.** [Back to every major](../README.md) · [See all 190 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Corning](https://internscout.org/internships/at/corning/) | R&D Intern, Optical Communications Development - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Nov 6 | [Apply](https://corningjobs.corning.com/job/Corning-R&D-Intern%2C-Optical-Communications-Development-Summer-2027-NY-14831/1448753800/) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Corporate Communications & Digital Experience Intern | Florida - Deerfield Beach |  | Nov 5 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Corporate-Communications---Digital-Experience-Intern_JR105209) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Public Relations & Government Affairs Intern | Norwell, MA | Paid | Nov 4 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168265) |
 | [Invesco](https://internscout.org/internships/at/invesco/) | Early Career Intern - Communications | Atlanta, Georgia | \$35/hr | Nov 3 | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Communications_R-15968) |
@@ -60,7 +61,6 @@
 | [Republic Airways](https://internscout.org/internships/at/republic-airways/) | Corporate Communications Intern - Summer 2027 | Indianapolis, IN | Paid | Sep 23 | [Apply](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Indianapolis-IN/Corporate-Communications-Intern---Summer-2027_JR-007622-1) |
 | [Land O'Lakes](https://internscout.org/internships/at/land-o-lakes/) | Communications Intern | Arden Hills, MN (USA) | \$22/ hr | Sep 18 | [Apply](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Arden-Hills-MN-USA/Communications-Intern_R-40461) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Communications/PR/Digital Media/Advertising (Pomona/Rosemead) | Rosemead, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-CommunicationsPRDigital-MediaAdvertising-%28PomonaRosemead%29-CA-91770-3714/1425065500/) |
-| [McKesson](https://internscout.org/internships/at/mckesson/) | Communications Intern - Summer 2027 | USA, TX +2 | \$17.33 - \$28.88 | Sep 18 | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Communications-Intern---Summer-2027_JR0152681) |
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | Marketing Communications Intern - BOSS Snowplow | Iron Mountain, MI | \$20–\$24 | Sep 18 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Iron-Mountain-MI/Marketing-Communications-Intern---BOSS-Snowplow_JR17202) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Communications/PR/Digital Media/Advertising (Redlands) | Redlands, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Redlands-2027-Summer-Internship-CommunicationsPRDigital-MediaAdvertising-%28Redlands%29-CA-92374/1425079000/) |
 

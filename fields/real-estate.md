@@ -1,9 +1,10 @@
 # Real Estate: Summer 2027 Internships
 
-19 open Summer 2027 real estate roles, newest first (all 19). **Updated November 6, 2026.** [Back to every major](../README.md) · [See all 44 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
+20 open Summer 2027 real estate roles, newest first (all 20). **Updated November 6, 2026.** [Back to every major](../README.md) · [See all 46 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Real Estate | New York, NY | \$35.00 per hour | Nov 6 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/New-York-NY/XMLNAME-2027-Summer-Intern---Commercial-Real-Estate_2620100-1) |
 | [Baker Tilly](https://internscout.org/internships/at/baker-tilly/) | Summer 2027 Real Estate Advisory Associate - Anchin Conversion | New York City 3 Times Square, NY | \$80,600 to \$105,800 | Nov 3 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-NY-New-York-City-3-Times-Square/Summer-2027-Real-Estate-Advisory-Associate---Anchin-Conversion_JR108624) |
 | Jones Lang LaSalle (JLL) | Leasing Summer 2027 Internship - Irvine, CA | Irvine, CA |  | Nov 2 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Irvine-CA/Leasing-Summer-2027-Internship---Irvine--CA_REQ540051) |
 | [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Real Estate | Dallas, TX | \$25.00 per hour | Nov 2 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Dallas-TX/XMLNAME-2027-Summer-Intern---Commercial-Real-Estate_2620103-1) |
@@ -22,7 +23,7 @@
 | [StepStone Group](https://internscout.org/internships/at/stepstone-group/) | 2027 Real Estate Private Equity Advisory Summer Analyst | Cleveland, MD | \$65,000 annually | Aug 3 | [Apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8097993) |
 | [Houlihan Lokey](https://internscout.org/internships/at/houlihan-lokey/) | 2027 Summer Associate – Real Estate, Lodging & Leisure – New York | New York, NY, USA | \$175,000 - \$175,000 | Oct 3 | [Apply](https://hl.wd1.myworkdayjobs.com/Campus/job/New-York-NY-USA/XMLNAME-2027-Summer-Associate---Real-Estate--Lodging---Leisure---New-York_R3621) |
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | Real Estate Intern Summer 2027 Procurement | US - UPS CORPORATE OFFICES (GACOR) |  | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Real-Estate-Intern-Summer-2026-Procurement_R26030587) |
-| [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Corporate Real Estate Internship - Summer 2027 | Lansing, MI | \$18.00 per hour | Sep 18 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Corporate-Real-Estate-Internship---Summer-2027_R_14484) |
+| [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Corporate Real Estate Internship - Summer 2027 | Lansing, MI |  | Sep 18 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Corporate-Real-Estate-Internship---Summer-2027_R_14484) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

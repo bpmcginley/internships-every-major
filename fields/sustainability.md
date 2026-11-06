@@ -1,9 +1,12 @@
 # Sustainability: Summer 2027 Internships
 
-82 open Summer 2027 sustainability roles, newest first (all 82). **Updated November 6, 2026.** [Back to every major](../README.md) · [See all 132 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+84 open Summer 2027 sustainability roles, newest first (all 84). **Updated November 6, 2026.** [Back to every major](../README.md) · [See all 133 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Global Infrastructure](https://internscout.org/internships/at/global-infrastructure/) | Sustainability Intern | US +3 | \$20 to \$30 per hour | Nov 6 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--NY--New-York---32-Old-Slip/Sustainability-Intern_6695-1) |
+| [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Sustainability Internship - Oasis at Death Valley | Death Valley, California | \$16.90 per hour | Nov 6 | [Apply](https://xanterra.jibeapply.com/jobs/40118) |
+| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Nuclear Fuels Intern - Warrenville, IL | Warrenville, Illinois | Paid | Nov 6 | [Apply](https://jobs.constellationenergy.com/jobs/138696) |
 | Public Service Enterprise Group | Staff Intern - Corporate Citizenship - Federal Affairs & Sustainability | Newark, NJ |  | Nov 5 | [Apply](https://jobs.pseg.com/job/Newark-Summer-2027-Intern-Corporate-Citizenship-Federal-Affairs-&-Sustainability-NJ-07101/1448352900/?ats=successfactors) |
 | [S&C Electric Company](https://internscout.org/internships/at/s-c-electric-company/) | Environmental and Sustainability Intern | Chicago, IL | \$22 - 30 per hour | Nov 5 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107375) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Renewable Energy Intern - Houston Office | Houston, Texas +1 | Paid | Nov 4 | [Apply](https://jobs.constellationenergy.com/jobs/141851) |
@@ -82,7 +85,6 @@
 | [The Andersons](https://internscout.org/internships/at/the-andersons/) | Renewables Engineering Intern (Summer 2027) | Logansport, IN |  | Oct 24 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Logansport-IN/Renewables-Engineering-Intern--Summer-2027-_R12498) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Sustainability CP&I - Senior Associate Intern - Summer 2027 | IL-Rosemont | \$84,000 - \$202,000 | Oct 2 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Sustainability-CP-I---Senior-Associate-Intern---Summer-2027_765702WD) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Sustainability Strategy - Senior Associate Intern - Summer 2027 | IL-Rosemont | \$84,000 - \$202,000 | Oct 2 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Sustainability-Strategy---Senior-Associate-Intern---Summer-2027_765703WD) |
-| [Gordon Food Service](https://internscout.org/internships/at/gordon-food-service/) | Sustainability Intern | Wyoming, Michigan +1 | Paid | Sep 21 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Sustainability-Intern_R-57405) |
 | Tarrant Regional Water District | Summer 2027 Energy Intern (T047) | Fort Worth, TX | \$18.54 - \$27.82 per hour | Sep 18 | [Apply](https://trwd.wd1.myworkdayjobs.com/TRWDCareers/job/Fort-Worth-TX/Summer-2027-Energy-Intern--T047-_JR100217) |
 | [Shure](https://internscout.org/internships/at/shure/) | Data Driven Sustainability Intern | Niles, IL |  | Sep 18 | [Apply](https://careersus-shure.icims.com/jobs/4979/data-driven-sustainability-intern/job) |
 | [Moss & Associates](https://internscout.org/internships/at/moss-associates/) | Energy Internship: Summer 2027 | FLORIDA |  | Sep 18 | [Apply](https://mosscm.wd1.myworkdayjobs.com/moss_careers/job/FLORIDA/Energy-Internship--Summer-2027_R-2719) |

@@ -1,10 +1,11 @@
 # Lab Research: Summer 2027 Internships
 
-34 open Summer 2027 lab research roles, newest first (all 34). **Updated November 6, 2026.** [Back to every major](../README.md) · [See all 128 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
+35 open Summer 2027 lab research roles, newest first (all 35). **Updated November 6, 2026.** [Back to every major](../README.md) · [See all 128 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [Philips](https://internscout.org/internships/at/philips/) | Intern - Product Investigations Lab - New Kensington, PA - Summer 2027 | New Kensington, Pennsylvania, United States +1 | \$26.00-29.00 | Nov 4 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Product-Investigations-Lab---New-Kensington--PA---Summer-2027_593027) |
+| [Rivian and Volkswagen Group Technologies](https://internscout.org/internships/at/rivian-and-volkswagen-group-technologies/) | Mechatronics Lab Engineering Intern (January - August 2027) | Vancouver, British Columbia +1 |  | Nov 6 | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/e1647212-5d09-4877-a172-da50ae46dfe8/application) |
+| [Philips](https://internscout.org/internships/at/philips/) | Intern - Product Investigations Lab - New Kensington, PA - Summer 2027 | New Kensington, Pennsylvania, United States +1 |  | Nov 4 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Product-Investigations-Lab---New-Kensington--PA---Summer-2027_593027) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Engineering Internship - Lab Focus (Summer 2027) | Columbus, OH |  | Nov 2 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279603) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Research Scientist Intern - Video and Edge - Multimedia Lab | San Jose, CA |  | Oct 30 | [Apply](https://jobs.bytedance.com/en/position/7702155940239264005/detail) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Lab Chemist Intern - Summer 2027 | Waynoka, OK | Paid | Oct 30 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168059) |

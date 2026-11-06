@@ -1,9 +1,10 @@
 # Nursing: Summer 2027 Internships
 
-18 open Summer 2027 nursing roles, newest first (all 18). **Updated November 6, 2026.** [Back to every major](../README.md) · [See all 53 nursing internships on InternScout](https://internscout.org/internships/nursing/)
+20 open Summer 2027 nursing roles, newest first (all 20). **Updated November 6, 2026.** [Back to every major](../README.md) · [See all 56 nursing internships on InternScout](https://internscout.org/internships/nursing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Geisinger](https://internscout.org/internships/at/geisinger/) | Nursing Student Summer Externship - RN Operating Room - Ambulatory Surgery | Danville, PA | Paid | Nov 6 | [Apply](https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Danville-PA/Nursing-Student-Summer-Externship---RN-Operating-Room---Ambulatory-Surgery_R-15960) |
 | [Essentia Health](https://internscout.org/internships/at/essentia-health/) | Summer 2027 Student Nurse Internship Program | Sandstone, MN +1 | Paid | Nov 3 | [Apply](https://essentiahealth.wd1.myworkdayjobs.com/Essentia_Health/job/Sandstone-MN/Summer-2027-Student-Nurse-Internship-Program_R085062) |
 | [Essentia Health](https://internscout.org/internships/at/essentia-health/) | Summer 2027 Student Nurse Internship Program | Virginia, MN +2 | Paid | Nov 3 | [Apply](https://essentiahealth.wd1.myworkdayjobs.com/Essentia_Health/job/Virginia-MN/Summer-2027-Student-Nurse-Internship-Program_R085061) |
 | [Essentia Health](https://internscout.org/internships/at/essentia-health/) | Summer 2027 Student Nurse Internship Program | Duluth, MN | Paid | Nov 3 | [Apply](https://essentiahealth.wd1.myworkdayjobs.com/Essentia_Health/job/Duluth-MN/Summer-2027-Student-Nurse-Internship-Program_R085057) |
@@ -17,6 +18,7 @@
 | [Mayo Clinic](https://internscout.org/internships/at/mayo-clinic/) | SEMN Summer Student Nurse Internship - SNI | Cannon Falls, MN |  | Nov 2 | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394337) |
 | [Mayo Clinic](https://internscout.org/internships/at/mayo-clinic/) | Summer III Student Nurse Internship | Rochester, MN |  | Nov 2 | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394566) |
 | [Mayo Clinic](https://internscout.org/internships/at/mayo-clinic/) | NWWI Summer Student Nurse Internship - SNI | Eau Claire, WI | Paid | Nov 2 | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394619) |
+| [Cleveland Clinic](https://internscout.org/internships/at/cleveland-clinic/) | Nurse Associate Externship- Summer 2027 | Cleveland Clinic Main Campus, OH +3 |  | Oct 30 | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Nurse-Associate-Externship--Summer-2027_352606) |
 | [Geisinger](https://internscout.org/internships/at/geisinger/) | Nursing Student Summer Externship - RN Reproductive Endocrinology | Danville, PA | Paid | Oct 29 | [Apply](https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Danville-PA/Nursing-Student-Summer-Externship---RN-Reproductive-Endocrinology_R-12021) |
 | [Sanford Health](https://internscout.org/internships/at/sanford-health/) | Student Nurse Internship, Summer 2027: Minocqua, WI | WI, Minocqua | Paid | Oct 23 | [Apply](https://sanford.wd5.myworkdayjobs.com/SanfordHealth/job/WI-Minocqua/Student-Nurse-Internship--Summer-2027--Minocqua--WI_R-0279363) |
 | [Geisinger](https://internscout.org/internships/at/geisinger/) | Nursing Student Summer Externship - Apply Here for RN Hospital Case Management | Danville, PA | Paid | Oct 20 | [Apply](https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Danville-PA/Nursing-Student-Summer-Externship---Apply-Here-for-RN-Hospital-Case-Management_R-13237) |

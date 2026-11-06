@@ -1,9 +1,11 @@
 # Architecture: Summer 2027 Internships
 
-54 open Summer 2027 architecture roles, newest first (all 54). **Updated November 6, 2026.** [Back to every major](../README.md) · [See all 106 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+56 open Summer 2027 architecture roles, newest first (all 56). **Updated November 6, 2026.** [Back to every major](../README.md) · [See all 108 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | New York, NY | \$21.74 - \$30.53 per hour | Nov 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98916) |
+| [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | South Jordan, UT |  | Nov 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98842) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | New Orleans, LA +1 |  | Nov 5 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98834) |
 | Logiqal | Quantum Error Correction and Architecture Intern | Princeton, NJ |  | Nov 4 | [Apply](https://go.vansh.nyc/1hg) |
 | [STV](https://internscout.org/internships/at/stv/) | Architecture Intern - Summer 2027 | South Flower Street, Los Angeles, California | \$52,526.00 - \$59,689.00 | Nov 3 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/South-Flower-Street-Los-Angeles-California/Architecture-Intern---Summer-2027_JR6442) |

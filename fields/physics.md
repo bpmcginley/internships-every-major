@@ -1,9 +1,13 @@
 # Physics: Summer 2027 Internships
 
-22 open Summer 2027 physics roles, newest first (all 22). **Updated November 6, 2026.** [Back to every major](../README.md) · [See all 92 physics internships on InternScout](https://internscout.org/internships/physics/)
+25 open Summer 2027 physics roles, newest first (all 25). **Updated November 6, 2026.** [Back to every major](../README.md) · [See all 95 physics internships on InternScout](https://internscout.org/internships/physics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Corning](https://internscout.org/internships/at/corning/) | R&D Intern, Optical Communications Development - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Nov 6 | [Apply](https://corningjobs.corning.com/job/Corning-R&D-Intern%2C-Optical-Communications-Development-Summer-2027-NY-14831/1448753800/) |
+| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Silicon Photonics Process Integration Intern (Summer 2027) | USA - New York - Malta |  | Nov 6 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Intern--Summer-2027-_JR-2604266) |
+| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Device Engineering Intern, Silicon Photonics (Summer 2027) | USA - New York - Malta |  | Nov 6 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604264) |
+| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Program Management Intern, Silicon Photonics (Summer 2027) | USA - New York - Malta |  | Nov 6 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Program-Management-Intern--Silicon-Photonics--Summer-2027-_JR-2605132) |
 | Metalenz | Optical Metrology Intern Summer 2027 | Boston, MA +1 | \$5,500 - \$8,500 per month | Nov 5 | [Apply](https://jobs.ashbyhq.com/metalenz/ecc0e9f9-e83e-4d72-abff-0bf6651850d4/application) |
 | [AMD](https://internscout.org/internships/at/amd/) | Summer/Fall 2027 PhD Photonics Design and Engineering Co-Op | San Jose, California |  | Nov 5 | [Apply](https://careers.amd.com/jobs/90710) |
 | [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 Masters High-Speed SerDes and Optical Interconnect Engineering Intern | Santa Clara, California +1 |  | Nov 5 | [Apply](https://careers.amd.com/jobs/91893) |
@@ -14,7 +18,6 @@
 | [Corning](https://internscout.org/internships/at/corning/) | Science & Technology Intern - Optical Modeling - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Nov 2 | [Apply](https://corningjobs.corning.com/job/Corning-Science-&-Technology-Intern-Optical-Modeling-Summer-2027-NY-14831/1446852900/) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Device Engineering Intern, Silicon Photonics (Summer 2027) | USA - New York - Malta +1 |  | Oct 30 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604263) |
 | [Commonwealth Fusion Systems](https://internscout.org/internships/at/commonwealth-fusion-systems/) | Intern - Plasma Physics - Summer 2027 | Devens, MA | Paid | Oct 27 | [Apply](https://jobs.lever.co/cfsenergy/32987ab7-59ed-4364-a012-91cbece8877a/apply) |
-| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Silicon Photonics Process Integration Intern (Summer 2027) | USA - New York - Malta |  | Oct 27 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Intern--Summer-2027-_JR-2604265) |
 | [Lumentum](https://internscout.org/internships/at/lumentum/) | Optical Algorithms and Analytics Engineering Co-op | Ottawa, ON |  | Oct 19 | [Apply](https://go.vansh.nyc/dy) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern – Research and Developement – Display Optical Simulation | Warren, Michigan, United States of America |  | Oct 12 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Developement---Display-Optical-Simulation_JR-202621740) |
 | [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Firmware Engineer Intern, Optical | San Jose, CA |  | Oct 6 | [Apply](https://go.vansh.nyc/Fn) |

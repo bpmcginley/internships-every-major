@@ -1,9 +1,11 @@
 # Urban Planning: Summer 2027 Internships
 
-60 open Summer 2027 urban planning roles, newest first (all 60). **Updated November 6, 2026.** [Back to every major](../README.md) · [See all 108 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+61 open Summer 2027 urban planning roles, newest first (all 61). **Updated November 6, 2026.** [Back to every major](../README.md) · [See all 107 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | New York, NY | \$21.74 - \$30.53 per hour | Nov 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98916) |
+| [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | South Jordan, UT |  | Nov 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98842) |
 | [Eversource Energy](https://internscout.org/internships/at/eversource-energy/) | 2027 Summer: Transmission System Planning Interns | Westwood, MA +2 | \$21.20 | Nov 5 | [Apply](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/XMLNAME-2027-Summer--Transmission-System-Planning-Interns_R-032377) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | New Orleans, LA +1 |  | Nov 5 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98834) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Planning Intern - Summer 2027 | Milwaukee, WI (East Wisconsin Avenue) +1 |  | Nov 5 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Milwaukee-WI-East-Wisconsin-Avenue/Planning-Intern---Summer-2027_R-32336) |
@@ -23,7 +25,6 @@
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Community Development (Summer 2027) | Pasadena, CA |  | Oct 27 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008346) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Transportation Planning Intern (Summer 2027) | Los Angeles, CA (Figueroa Street) |  | Oct 22 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Los-Angeles-CA-Figueroa-Street/Transportation-Planning-Intern--Summer-2027-_R-32153-1) |
 | [David Yurman](https://internscout.org/internships/at/david-yurman/) | Demand Planning Intern | New York, NY | \$25/hour | Oct 21 | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Demand-Planning-Intern_R-101150) |
-| [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Internship - Community Development (Summer 2027) | Chicago, IL |  | Oct 21 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008437) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Product Planning Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 16 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Product-Planning---Summer-2027---Franklin--TN_R00214298) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Aftersales Business Planning Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America +1 |  | Oct 14 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Aftersales-Business-Planning-Intern---Summer-2027---Franklin--TN_R00214226) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | RPP Supply Planning Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 12 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/RPP-Supply-Planning-Intern---Summer-2027---Franklin--TN_R00214294) |
