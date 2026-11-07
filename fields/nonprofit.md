@@ -1,11 +1,18 @@
 # Nonprofit: Summer 2027 Internships
 
-18 open Summer 2027 nonprofit roles, newest first (all 18). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 103 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
+25 open Summer 2027 nonprofit roles, newest first (all 25). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 111 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| NRDC | Knowledge Management Intern | Washington, DC |  | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6066/job?mobile=true&needsRedirect=false) |
-| NRDC | Donor Systems Intern | NYC |  | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6046/job?mobile=true&needsRedirect=false) |
+| [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Adaptation Advocacy Intern | Washington, DC | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6047/summer-2027-adaptation-advocacy-intern/job) |
+| [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Food Waste Reduction Intern | San Francisco, CA +2 | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6054/summer-2027-food-waste-reduction-intern/job) |
+| [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Carbon Dioxide Removal Intern | Chicago, IL +1 | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6049/summer-2027-carbon-dioxide-removal-intern/job) |
+| [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Principal Gifts Intern | New York, NY | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6076/summer-2027-principal-gifts-intern/job) |
+| [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Foundation Relations Intern | Chicago, IL +3 | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6065/summer-2027-foundation-relations-intern/job) |
+| [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Green Finance Advocacy Intern | Washington, DC | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6069/summer-2027-green-finance-advocacy-intern/job) |
+| [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Freshwater Ecosystems Intern | Washington, DC | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6071/summer-2027-freshwater-ecosystems-intern/job) |
+| [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Knowledge Management Intern | Washington, DC | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6066/summer-2027-knowledge-management-intern/job) |
+| [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Donor Systems Intern | New York, NY +1 | \$7,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6046/summer-2027-donor-systems-intern/job) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (Nebraska Health Plan) – Summer 2027 (Undergraduate) | NE |  | Nov 4 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040148) |
 | Jackson | Corporate Philanthropy Intern - Lansing - Summer 2027 | Lansing, MI |  | Nov 3 | [Apply](https://jackson.wd1.myworkdayjobs.com/jackson_campus/job/Lansing-MI/Corporate-Philanthropy-Intern---Lansing---Summer-2027_REQ-04033) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (Wisconsin Health Plan) – Summer 2027 (Undergraduate) | WI |  | Nov 3 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040147) |

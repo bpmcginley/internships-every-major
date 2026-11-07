@@ -1,6 +1,6 @@
 # Law and Legal: Summer 2027 Internships
 
-124 open Summer 2027 law and legal roles, newest first (all 124). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 261 law and legal internships on InternScout](https://internscout.org/internships/law/)
+125 open Summer 2027 law and legal roles, newest first (all 125). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 262 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -8,6 +8,7 @@
 | Johnson Controls | Legal Intern | Milwaukee-Wisconsin-United States of America | \$29.00/hour | Nov 6 | [Apply](https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Legal-Intern_WD30283959) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Government Contracts & Health Policy Internship (Remote) – Summer 2027 (Undergraduate) | WI |  | Nov 6 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040146) |
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, Trone Center for Justice and Equality | Remote/Hybrid- Washington D.C. |  | Nov 5 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8932353002) |
+| [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Safe Water Initiative Legal Intern | Washington, DC | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6048/summer-2027-safe-water-initiative-legal-intern/job) |
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Compliance | Phoenix, AZ | Paid | Nov 5 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Compliance_R13733-1) |
 | [westernalliancebank](https://internscout.org/internships/at/westernalliancebank/) | Summer 2027 Internship - Phoenix, AZ - Compliance | Phoenix, AZ | Paid | Nov 5 | [Apply](https://westernalliancebank.wd5.myworkdayjobs.com/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Compliance_R13733-1) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Legal Corporate Internship - Summer 2027 | NJ - Parsippany +2 | \$27.50/hr | Nov 5 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Parsippany/Legal-Corporate-Internship---Summer-2027_R1067004) |
@@ -27,7 +28,7 @@
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Legal Intern | Florida - Deerfield Beach |  | Oct 30 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Legal-Intern_JR105165) |
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | International Trade Compliance Intern (Summer 2027) | Lone Tree, CO | \$23.54 - \$32.37 | Oct 30 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/International-Trade-Compliance-Intern--Summer-2027-_R0031252) |
 | Alberta Investment Management Corporation | Student, Legal | Calgary | Paid | Oct 29 | [Apply](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Calgary/Student--Legal_JR100948) |
-| [Cigna Group](https://internscout.org/internships/at/cigna-group/) | Legal Operations Financial, Data & AI Analytics Intern | St. Louis, MO | \$ 24.00-\$25.00 | Oct 29 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Legal-Operations-Financial--Data---AI-Analytics-Intern_25016386) |
+| [Cigna Group](https://internscout.org/internships/at/cigna-group/) | Legal Operations Financial, Data & AI Analytics Intern | St. Louis, MO |  | Oct 29 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Legal-Operations-Financial--Data---AI-Analytics-Intern_25016386) |
 | [The Andersons](https://internscout.org/internships/at/the-andersons/) | Legal Intern (Summer 2027) | Maumee, OH |  | Oct 28 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Legal-Intern--Summer-2027-_R12494) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Regulatory Affairs & Operations | TARRYTOWN +1 | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Regulatory-Affairs---Operations_R52565-1) |
 | [Uline](https://internscout.org/internships/at/uline/) | International Trade Compliance Internship - Summer 2027 | Pleasant Prairie, WI +4 | Paid | Oct 28 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/International-Trade-Compliance-Internship---Summer-2027_R268695) |

@@ -1,6 +1,6 @@
 # Aerospace Engineering: Summer 2027 Internships
 
-37 open Summer 2027 aerospace engineering roles, newest first (all 37). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 69 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
+36 open Summer 2027 aerospace engineering roles, newest first (all 36). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 68 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -34,7 +34,6 @@
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Propulsion Analyst Intern Summer 2027 | Long Beach, CA |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986820003) |
 | [Rendezvous Robotics](https://internscout.org/internships/at/rendezvous-robotics/) | Avionics Engineering Intern (Summer 2027) | Golden, CO |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408578009) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Test Engineering Intern - Avionics Summer 2027 | Long Beach, CA |  | Sep 10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987159003) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Avionics Engineering Intern Summer 2027 | Long Beach, CA | \$28.00 | Sep 9 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989733003) |
 | [Hermeus](https://internscout.org/internships/at/hermeus/) | Avionics Electrical Engineering Intern - Summer 2027 | Atlanta, GA |  | Sep 9 | [Apply](https://jobs.lever.co/hermeus/b7babdb5-64ee-49ad-a193-918d6a31c462/apply) |
 | [Skydio](https://internscout.org/internships/at/skydio/) | Flight Test Intern - Summer 2027 | San Mateo, California, United States +2 | \$41/hr | Sep 4 | [Apply](https://jobs.ashbyhq.com/skydio/3eb06d6e-b6f0-4814-a80a-f1c43075873b/application) |
 | [K2 Space](https://internscout.org/internships/at/k2-space/) | Avionics Systems/Test Engineering Intern – Summer 2027 | Los Angeles, CA | \$30 - \$40 per hour | Sep 1 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411921008) |

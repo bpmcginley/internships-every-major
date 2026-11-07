@@ -1,9 +1,10 @@
 # Design: Summer 2027 Internships
 
-78 open Summer 2027 design roles, newest first (all 78). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 201 design internships on InternScout](https://internscout.org/internships/design/)
+80 open Summer 2027 design roles, newest first (all 80). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 203 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| AFL | Web Design/Development Intern | Duncan, SC |  | Nov 6 | [Apply](https://go.vansh.nyc/1mq) |
 | [Tinder](https://internscout.org/internships/at/tinder/) | User Experience Research Intern | Los Angeles, California |  | Nov 6 | [Apply](https://jobs.lever.co/matchgroup/e2747122-5e35-4230-9d54-8d274dd0a713/apply) |
 | [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Interior Design Projects | Duluth, GA |  | Nov 6 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Duluth-GA/Summer-2027-Internship--Interior-Design-Projects_R2026-2431) |
 | [S&P Global](https://internscout.org/internships/at/s-p-global/) | Summer Intern, Business Content Design & Production | Massachusetts, US | \$20 to \$25 | Nov 6 | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Massachusetts-US/Summer-Intern--Business-Content-Design---Production_332657) |
@@ -65,6 +66,7 @@
 | [Mortenson](https://internscout.org/internships/at/mortenson/) | Graphic Design Intern | MN | Paid | Aug 10 | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23351) |
 | [Virtu](https://internscout.org/internships/at/virtu/) | 2027 Internship - Frontend Engineer (UI) | New York +1 | \$5,000 - \$5,800 week | Jul 29 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002) |
 | [Jump Trading Group](https://internscout.org/internships/at/jump-trading/) | Campus UI Software Engineer Intern | Chicago, IL |  | Jul 9 | [Apply](https://go.vansh.nyc/3m) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Graphic Design Internship - Summer 2027 | Reston, VA | Paid | Nov 7, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8668/graphic-design-internship---summer-2027/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | User Experience Design (UX) Intern | Niles, IL | \$23-\$43 per hour | Nov 7, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5003/user-experience-design-%28ux%29-intern/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Industrial Design Intern | Niles, IL | \$23-\$43 per hour | Nov 7, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4991/industrial-design-intern/job) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Industrial Designer | Denton, TX |  | Nov 4 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Industrial-Designer-TX-76205-7864/1454438233/) |

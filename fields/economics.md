@@ -1,9 +1,10 @@
 # Economics: Summer 2027 Internships
 
-26 open Summer 2027 economics roles, newest first (all 26). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 55 economics internships on InternScout](https://internscout.org/internships/economics/)
+28 open Summer 2027 economics roles, newest first (all 28). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 57 economics internships on InternScout](https://internscout.org/internships/economics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Economics Research Intern | Washington, DC | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6068/summer-2027-economics-research-intern/job) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Economic Research, Internship – Summer 2027 | Kansas City, MO |  | Nov 5 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Kansas-City-MO/Economic-Research--Internship---Summer-2027_R-0000034027) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Oklahoma City – Regional Affairs Economics, Internship – Summer 2027 | Oklahoma City, OK |  | Nov 5 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Oklahoma-City-OK/Oklahoma-City---Regional-Affairs-Economics--Internship---Summer-2027_R-0000034004) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Denver – Regional Affairs Economics, Internship – Summer 2027 | Denver, CO |  | Nov 5 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Denver-CO/Denver---Regional-Affairs-Economics--Internship---Summer-2027_R-0000034013-1) |
@@ -25,6 +26,7 @@
 | [The Brattle Group](https://internscout.org/internships/at/the-brattle-group/) | Energy Analyst Intern (Economics) - Summer 2027 | Boston, Massachusetts, United States +1 | \$1,850.00 per week | Sep 18 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735999005) |
 | [GM financial](https://internscout.org/internships/at/gm-financial/) | Intern - Economic Analysis | Fort Worth, TX |  | Sep 16 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260811) |
 | [Ernst & Young](https://internscout.org/internships/at/ernst-young/) | Summer Associate Intern - Corporate Finance - Quantitative Finance and Economics | SF +6 |  | Sep 7 | [Apply](https://eyglobal.yello.co/jobs/KBPFL_z8cg9IBGsgb2xYYA?job_board_id=c1riT--B2O-KySgYWsZO1Q) |
+| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Health Policy Analysis | Portland, ME | \$30 per hour | Nov 7, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3974/summer-2027-consulting-internship---health-policy-analysis/job) |
 | International Monetary Fund | 2027 Fund Internship Program (FIP) - Economists | USA, Washington DC | Paid | Oct 17 | [Apply](https://imf.wd5.myworkdayjobs.com/IMF/job/USA-Washington-DC/XMLNAME-2027-Fund-Internship-Program--FIP----Economists_26-R9863) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Intern - Economic Research - Chicago | Chicago, IL | \$20 to \$33, | Oct 1 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern---Economic-Research---Chicago_R-0000033628-1) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Federal Reserve Summer 2027 Research Business Survey Internship | Richmond, VA | \$23.50/hour | Sep 23 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Research-Business-Survey-Internship_R-0000033218) |

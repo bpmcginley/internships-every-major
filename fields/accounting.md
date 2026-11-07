@@ -1,6 +1,6 @@
 # Accounting: Summer 2027 Internships
 
-224 open Summer 2027 accounting roles, newest first (the 200 newest of 224). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 498 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+226 open Summer 2027 accounting roles, newest first (the 200 newest of 226). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 500 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [RF-SMART](https://internscout.org/internships/at/rf-smart/) | Accounting Internship - Summer 2027 | Jacksonville, Florida, United States | \$20/hour | Sep 23 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5433156008) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Tax Information Reporting Intern | Hybrid - New York, NY | Paid | Sep 21 | [Apply](https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Internal Audit Analytics Intern | Hybrid - New York, NY | Paid | Sep 21 | [Apply](https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238) |
+| [Waters Corporation](https://internscout.org/internships/at/waters-corporation/) | Accounting Intern | Milford, MA +1 | \$22-25 per hour | Sep 21 | [Apply](https://uscareers-waters.icims.com/jobs/27743/accounting-intern/job) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Intern – Financial Accounting Services (FAS) | Pittsburgh, PA | \$20- \$22 per hour | Sep 21 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119524) |
 | [AutoZone](https://internscout.org/internships/at/autozone/) | AutoZone 2027 Summer Internship – Internal Audit | Memphis, TN |  | Sep 21 | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155456) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: Finance/Accounting/Tax Intern | Northbrook, IL +1 | \$25.00 | Sep 18 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10627) |
@@ -145,6 +146,7 @@
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Audit (New York, NY) | New York, NY |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81248) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Audit (Pittsburgh, PA) | Pittsburgh, PA |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81262) |
 | [Medpace](https://internscout.org/internships/at/medpace/) | Finance & Accounting Internship Program - Summer 2027 | Cincinnati, Ohio |  | Aug 20 | [Apply](https://careers.medpace.com/jobs/12957) |
+| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Internship - Technology Assurance | Portland, ME | \$30 per hour | Nov 7, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4021/summer-2027-internship---technology-assurance/job) |
 | [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Cybersecurity & Technology Audit Internship (Summer 2027) | Boston, MA +1 |  | Nov 7, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/126990/cybersecurity-%26-technology-audit-internship-%28summer-2027%29/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Internal Audit Intern | Niles, IL | \$23-\$43 per hour | Nov 7, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5005/internal-audit-intern/job) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Engineering Accounting | Denton, TX |  | Nov 6 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Engineering-Accounting-TX-76205-7864/1455275833/) |
@@ -202,8 +204,6 @@
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | San Francisco - Tax JD - Intern - Summer 2027 | CA-San Francisco | \$29.25 - \$48.00 | Sep 18 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/CA-San-Francisco/San-Francisco---Tax-JD---Intern---Summer-2027_6122616EIB-1) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Accounting Intern- Summer 2027 | Richfield, OH (USA) | Paid | Sep 18 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Richfield-OH-USA/Accounting-Intern--Summer-2027_R9497-2) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Tax Intern (Summer 2027) | Cincinnati, OH (USA) | Paid | Sep 18 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Tax-Intern--Summer-2027-_R9535) |
-| [Oshkosh](https://internscout.org/internships/at/oshkosh/) | Finance & Accounting Intern (Summer 2027) | Appleton, Wisconsin, United States |  | Sep 18 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Finance---Accounting-Intern--Summer-2027-_R50186) |
-| [Guardian Life](https://internscout.org/internships/at/guardian-life/) | 2027 Guardian Summer Intern, Corporate Finance & Risk - Corporate Tax | New York | \$20.00 - \$35.00 | Sep 18 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Corporate-Tax_R000110175) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

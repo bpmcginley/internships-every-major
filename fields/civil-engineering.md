@@ -1,6 +1,6 @@
 # Civil Engineering: Summer 2027 Internships
 
-351 open Summer 2027 civil engineering roles, newest first (the 200 newest of 351). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 571 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+351 open Summer 2027 civil engineering roles, newest first (the 200 newest of 351). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 666 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -32,12 +32,13 @@
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering Intern - Summer 2027 | Charlotte, NC |  | Oct 30 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98538) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern/Co-op – Transportation (Summer 2027) | Pittsburgh, PA |  | Oct 30 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008561) |
 | [STV](https://internscout.org/internships/at/stv/) | Civil Engineering Intern - Summer 2027 | Duluth, Georgia | \$45,675.00 - \$51,903.00 | Oct 30 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Duluth-Georgia/Civil-Engineering-Intern---Summer-2027_JR6172) |
-| [Walmart](https://internscout.org/internships/at/walmart/) | (USA) 2027 Summer Corporate Intern: Construction Project Management Intern | (USA) Always AR Bentonville Home Office | \$21.00 - \$40.00 | Oct 29 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/XMLNAME--USA--2027-Summer-Corporate-Intern---Construction-Project-Management-Intern_R-2690400) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Water (Summer 2027) | Coral Gables, FL |  | Oct 29 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008539) |
 | [STV](https://internscout.org/internships/at/stv/) | Civil Engineering Intern - Summer 2027 | Waco, Texas | \$41,107.00 - \$46,713.00 | Oct 29 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Waco-Texas/Civil-Engineering-Intern---Summer-2027_JR6431) |
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Structural Engineering Intern - Summer 2027 (For SNC Summer 2026 Interns Only) | Lone Tree, CO | \$23.54 - \$32.37 | Oct 29 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Structural-Engineering-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031291) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Structural Engineering Intern (Bridge Design, Summer 2027!) | Latham, New York | \$43.93 | Oct 29 | [Apply](https://careers.cdmsmith.com/jobs/4888) |
 | [STV](https://internscout.org/internships/at/stv/) | Civil Engineering Intern - Summer 2027 | Newark, New Jersey | \$52,526.00 - \$59,689.00 | Oct 29 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Newark-New-Jersey/Civil-Engineering-Intern---Summer-2027_JR6284) |
+| [Kimley-Horn](https://internscout.org/internships/at/kimley-horn/) | Structural Intern | Roseville, CA | \$30.00/hr | Oct 28 | [Apply](https://careers-kimley-horn.icims.com/jobs/27381/structural-intern/job) |
+| [Kimley-Horn](https://internscout.org/internships/at/kimley-horn/) | Civil Engineering Intern- Water/Wastewater | Sacramento, CA | \$30.00/hr | Oct 28 | [Apply](https://careers-kimley-horn.icims.com/jobs/27380/civil-engineering-intern--water-wastewater/job) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering Intern- Summer 2027 | Lawrenceville, NJ +3 | Paid | Oct 28 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98469) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering (Transmission) Intern - Summer 2027 | Portland, OR |  | Oct 28 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98453) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Structural Engineering Intern- Summer 2027 | Houston, TX |  | Oct 28 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98461) |
@@ -86,7 +87,6 @@
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering (Renewables) Intern - Summer 2027 | Las Vegas, NV |  | Oct 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97678) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Traffic Engineering Intern- Summer 2027 | Dallas, TX |  | Oct 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97804) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering (Renewables) Intern - Summer 2027 | Cincinnati, OH +2 |  | Oct 15 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97670) |
-| [WSP](https://internscout.org/internships/at/wsp/) | Structural Engineering Intern- Summer 2027 | South Jordan, UT |  | Oct 15 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97606) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering Intern- Summer 2027 | Indianapolis, IN |  | Oct 15 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97519) |
 | [STV](https://internscout.org/internships/at/stv/) | Traffic Engineering Intern - Summer 2027 | Charlotte, North Carolina +1 | \$45,675.00 - \$51,903.00 | Oct 15 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Charlotte-North-Carolina/Traffic-Engineering-Intern---Summer-2027_JR6396) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Water (Summer 2027) | Orlando, FL |  | Oct 15 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008302) |

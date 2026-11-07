@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-110 open Summer 2027 human resources roles, newest first (all 110). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 248 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+112 open Summer 2027 human resources roles, newest first (all 112). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 251 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -80,6 +80,8 @@
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - People, Engagement, and Impact (New York, NY) | New York, NY |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81243) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - People, Engagement, and Impact (Pittsburgh, PA) | Pittsburgh, PA |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81246) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Intelligent Sensing Intern - Global Frontier Tech Recruitment Program | San Jose, CA |  | Jun 4 | [Apply](https://jobs.bytedance.com/en/position/7629210458173556997/detail) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Compensation and Benefits Intern - Summer 2027 | Reston, VA | Paid | Nov 7, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8693/compensation-and-benefits-intern---summer-2027/job) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Human Resources Operations Internship - Summer 2027 | Reston, VA | Paid | Nov 7, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8694/human-resources-operations-internship---summer-2027/job) |
 | [L.L.Bean](https://internscout.org/internships/at/l-l-bean/) | Talent Acquisition Intern (Summer 2027) | Freeport, ME | \$20-\$22 /hour | Nov 6 | [Apply](https://llbean.wd1.myworkdayjobs.com/LLBean_Careers/job/Freeport-ME/Talent-Acquisition-Intern--Summer-2027-_JR11253) |
 | [Medline](https://internscout.org/internships/at/medline/) | MBA Intern, Human Resources - Summer 2027 | Northfield, Illinois | \$92,000.00 - \$138,000.00 | Oct 30 | [Apply](https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/MBA-Intern--Human-Resources---Summer-2027_R2615784) |
 | [westernalliancebank](https://internscout.org/internships/at/westernalliancebank/) | Summer 2027 Internship - Phoenix, AZ - Talent Acquisition & HR Service Delivery | Phoenix, AZ | Paid | Oct 24 | [Apply](https://westernalliancebank.wd5.myworkdayjobs.com/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Talent-Acquisition---HR-Service-Delivery_R13872) |

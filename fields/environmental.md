@@ -1,6 +1,6 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-213 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 213). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 439 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+214 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 214). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 453 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -9,6 +9,7 @@
 | [Global Infrastructure](https://internscout.org/internships/at/global-infrastructure/) | Sustainability Intern | US +3 | \$20 to \$30 per hour | Nov 6 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--NY--New-York---32-Old-Slip/Sustainability-Intern_6695-1) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Sustainability Internship - Oasis at Death Valley | Death Valley, California | \$16.90 per hour | Nov 6 | [Apply](https://xanterra.jibeapply.com/jobs/40118) |
 | Public Service Enterprise Group | Staff Intern - Corporate Citizenship - Federal Affairs & Sustainability | Newark, NJ |  | Nov 5 | [Apply](https://jobs.pseg.com/job/Newark-Summer-2027-Intern-Corporate-Citizenship-Federal-Affairs-&-Sustainability-NJ-07101/1448352900/?ats=successfactors) |
+| [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Climate Mobility Intern | Washington, DC | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6063/summer-2027-climate-mobility-intern/job) |
 | [S&C Electric Company](https://internscout.org/internships/at/s-c-electric-company/) | Environmental and Sustainability Intern | Chicago, IL | \$22 - 30 per hour | Nov 5 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107375) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Renewable Energy Intern - Houston Office | Houston, Texas +1 | Paid | Nov 4 | [Apply](https://jobs.constellationenergy.com/jobs/141851) |
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Water Resources Civil Engineering Intern - Summer 2027 | US.TX.Austin.11801 Domain Blvd |  | Nov 4 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USTXAustin11801-Domain-Blvd/Water-Resources-Civil-Engineering-Intern---Summer-2027_R-170732) |
@@ -203,7 +204,6 @@
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Environmental Intern (Summer 2027) | USA - New York - Malta | \$20.00 - \$40.00 | Sep 18 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Environmental-Intern--Summer-2027-_JR-2604241) |
 | [Barr](https://internscout.org/internships/at/barr/) | Internship – Environmental Focus – Engineering or Geology (Hybrid) | Minneapolis, MN | \$22.66–\$28.90 hour | Sep 18 | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Internship---Environmental-Focus---Engineering-or-Geology--Hybrid-_R-102278) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | Health, Safety, and Environment Intern – Elwood, Kansas (Summer 2027) | Elwood, KS |  | Sep 18 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Elwood-KS/Health--Safety--and-Environment-Intern---Elwood--Kansas--Summer-2027-_R0026900) |
-| [Granite Construction](https://internscout.org/internships/at/granite-construction/) | 2027 Summer Safety Intern | Everett, Washington +2 | \$27.00 | Sep 18 | [Apply](https://granite.wd1.myworkdayjobs.com/careers/job/Everett-Washington/XMLNAME-2027-Summer-Safety-Intern_R0000008261) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

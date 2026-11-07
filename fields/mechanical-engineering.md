@@ -1,6 +1,6 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-323 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 323). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 868 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+326 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 326). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 877 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Stantec](https://internscout.org/internships/at/stantec/) | Mechanical Engineering Intern - Buildings (Summer 2027) | Austin, TX |  | Oct 20 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008370) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Mechanical Project Engineer Intern - Summer 2027 | Dugway, UT | Paid | Oct 19 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167236) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Mechanical & Electrical Engineer Intern - Summer 2027 - Canton, MS | Canton, Mississippi - United States of America |  | Oct 19 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Canton-Mississippi---United-States-of-America/Mechanical---Electrical-Engineer-Intern---Summer-2027---Canton--MS_R00214259) |
+| [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | Manufacturing Engineering Intern (Tomah, WI) - The Toro Company | Tomah, WI | \$22–\$28 | Oct 19 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Tomah-WI/Manufacturing-Engineering-Intern--Tomah--WI----The-Toro-Company_JR17636) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Data Center Mechanical Engineering Intern - Summer 2027 | Herndon, VA |  | Oct 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97070) |
 | [Inversion Space](https://internscout.org/internships/at/inversion-space/) | Avionics Mechanical Engineer - Summer Internship 2027 | Playa Vista, California, United States | Paid | Oct 15 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4744390005) |
 | [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Mechanical Engineering Intern \| Columbus, OH | Columbus +2 | \$22.00–\$24.00 per hour | Oct 15 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Columbus--North-High-Street/Mechanical-Engineering-Intern---Columbus--OH_R-16494) |
@@ -203,7 +204,6 @@
 | [Antares Nuclear](https://internscout.org/internships/at/antares-nuclear/) | Mechanical Engineering Design Intern - Summer 2027 | Los Angeles +1 |  | Sep 10 | [Apply](https://jobs.ashbyhq.com/Antares/9accca59-103b-4f54-978a-d5bb46bd9c62/application) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | San Leandro, California | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36099) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | DOWNEY, California | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36094) |
-| [Garmin](https://internscout.org/internships/at/garmin/) | Mechanical Engineering Intern | Cary, North Carolina |  | Sep 10 | [Apply](https://careers.garmin.com/jobs/19911) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

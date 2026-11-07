@@ -1,6 +1,6 @@
 # Business: Summer 2027 Internships
 
-76 open Summer 2027 business roles, newest first (all 76). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 139 business internships on InternScout](https://internscout.org/internships/business/)
+77 open Summer 2027 business roles, newest first (all 77). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 140 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Honeywell](https://internscout.org/internships/at/honeywell/) | Business Management – Summer 2027 Intern | United States |  | Aug 27 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155593) |
 | [DTCC](https://internscout.org/internships/at/dtcc/) | Business Systems Intern \[2027 Intern Program\] | Jersey City, NJ +2 | Paid | Aug 25 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214472) |
 | Weatherford | USA - Weatherford Summer Business Internship | Houston, TX |  | Aug 12 | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/107149) |
+| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Business Valuation Internship | Portland, ME | \$30 per hour | Nov 7, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4018/summer-2027-business-valuation-internship/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Business Applications Intern | Niles, IL | \$23-\$43 per hour | Nov 7, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4998/business-applications-intern/job) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Warranty Business | Denton, TX |  | Nov 2 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Warranty-Business-TX-76205-7864/1453566133/) |
 | [Medtronic](https://internscout.org/internships/at/medtronic/) | MBA Internship - Summer 2027 | Minneapolis, Minnesota, United States of America | Paid | Oct 24 | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/MBA-Internship---Summer-2027_R78587) |

@@ -1,6 +1,6 @@
 # Health: Summer 2027 Internships
 
-55 open Summer 2027 health roles, newest first (all 55). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 310 health internships on InternScout](https://internscout.org/internships/health/)
+56 open Summer 2027 health roles, newest first (all 56). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 314 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Clinical Science, Medical Monitoring & Health Economics | TARRYTOWN +1 | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Clinical-Science--Medical-Monitoring---Health-Economics_R52563-1) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Clinical Trial Operations & Study Start-up | TARRYTOWN +1 | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Clinical-Trial-Operations---Study-Start-up_R52564-1) |
 | [Philips](https://internscout.org/internships/at/philips/) | Intern-Customer Experience Analytics (Health Systems Strategy and Growth) Nashville, TN-Summer 2027 | Nashville, Tennessee, United States |  | Oct 28 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern-Customer-Experience--Health-Systems-Strategy-and-Growth--Cambridge--MA-Summer-2027_593456) |
+| [AstraZeneca](https://internscout.org/internships/at/astrazeneca/) | Preclinical Mathematical Modeling Internship | US - Cambridge Kendall SQ - MA | \$37-\$39 per hour | Oct 27 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Preclinical-Mathematical-Modeling-Internship_R-262630) |
 | [Medtronic](https://internscout.org/internships/at/medtronic/) | Associate Clinical Experience (ACE) Intern – Summer 2027 | State of Minnesota, United States of America +48 | Paid | Oct 27 | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501) |
 | [Medpace](https://internscout.org/internships/at/medpace/) | Strategy and Insights Intern - Summer 2027 | Cincinnati, Ohio |  | Oct 26 | [Apply](https://careers.medpace.com/jobs/13091) |
 | [Biogen](https://internscout.org/internships/at/biogen/) | 2027 IMPACT Intern | Cambridge, MA | \$57.00-\$57.00 | Oct 26 | [Apply](https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/XMLNAME-2027-IMPACT-Intern_REQ24427) |

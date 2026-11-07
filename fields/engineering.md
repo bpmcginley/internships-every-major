@@ -1,10 +1,11 @@
 # Engineering: Summer 2027 Internships
 
-675 open Summer 2027 engineering roles, newest first (the 200 newest of 675). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 1,714 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+684 open Summer 2027 engineering roles, newest first (the 200 newest of 684). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 1,735 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Shield AI](https://internscout.org/internships/at/shield-ai/) | 2027 Summer Intern - Supplier Development Engineer - 6463 | Dallas, Texas |  | Nov 7 | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/463966b6-fd51-47ef-b9b1-cb53c47cc275/application) |
+| [Marvell](https://internscout.org/internships/at/marvell/) | Design For Test Intern, MS - Summer 2027 | Santa Clara, CA | Paid | Nov 7 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-For-Test-Intern--MS---Summer-2027_2603788-1) |
 | [Westinghouse Electric Company](https://internscout.org/internships/at/westinghouse-electric-company/) | Summer Intern - Licensing Engineer | Hopkins, SC | \$25.40 to \$29.00 per hour | Nov 7 | [Apply](https://careers.westinghousenuclear.com/job/Hopkins-Summer-Intern-Licensing-Engineer-SC-29061/1438848000/) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Digital Design Engineer Intern - Interim Engineering Intern - Systems | Toronto, ON, Canada +1 |  | Nov 6 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722005254) |
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Release Engineering Intern | Jacksonville, FL |  | Nov 6 | [Apply](https://go.vansh.nyc/1lD) |
@@ -93,9 +94,7 @@
 | [Pennsylvania State University](https://internscout.org/internships/at/pennsylvania-state-university/) | Research and Development Engineer Intern | State College, PA |  | Oct 28 | [Apply](https://go.vansh.nyc/Yd) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Summer 2027 Supplier Engineer Intern- Bachelor's (Chandler, AZ) | Chandler,AZ +2 | Paid | Oct 28 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Summer-2027-Supplier-Engineer-Intern--Bachelor-s--Chandler--AZ-_R2627698) |
 | [Mitsubishi Heavy Industries America](https://internscout.org/internships/at/mitsubishi-heavy-industries-america/) | Engineering Intern - Summer 2027 | Pooler, GA |  | Oct 28 | [Apply](https://mhicareers.com/job/Pooler-Engineering-Intern-Summer-2027-GA-31322/1452261433/) |
-| [Federal Home Loan Bank of Indianapolis](https://internscout.org/internships/at/federal-home-loan-bank-of-indianapolis/) | Network Engineer Intern | Indianapolis, IN | Paid | Oct 28 | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Network-Engineer-Intern_R630) |
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Network Engineer Intern (Summer 2027) | Hagerstown, MD | \$21.40 - \$29.43 | Oct 28 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Network-Engineer-Intern--Summer-2027-_R0031232) |
-| [Federal Home Loan Bank of Indianapolis](https://internscout.org/internships/at/federal-home-loan-bank-of-indianapolis/) | Automation Quality Engineer Intern | Indianapolis, IN | Paid | Oct 28 | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Automation-Quality-Engineer-Intern_R633) |
 | [Carpenter Technology](https://internscout.org/internships/at/carpenter-technology/) | R&D Materials Characterization Intern | Reading, PA | \$21.00-\$25.00 per hour | Oct 28 | [Apply](https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/R-D-Materials-Characterization-Intern_26966) |
 | [Intel](https://internscout.org/internships/at/intel/) | Process Integration Development Engineer PhD Intern 2027 | Hillsboro, OR | \$120,898.00-120,902.00 | Oct 28 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-2027_JR0288661) |
 | [ASML](https://internscout.org/internships/at/asml/) | Internship - Design Engineer | Wilton, CT, USA | \$18.00 to \$48.00 per hour | Oct 28 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Design-Intern_J-00356190) |
@@ -140,7 +139,6 @@
 | [Copart](https://internscout.org/internships/at/copart/) | Vulnerability Management Engineering Intern | Dallas, TX |  | Oct 26 | [Apply](https://go.vansh.nyc/SC) |
 | [IKO](https://internscout.org/internships/at/iko/) | Maintenance and Reliability Intern | Ironton, MO | \$24.00 -\$25.00 per hour | Oct 26 | [Apply](https://iko.wd3.myworkdayjobs.com/iko_careers/job/Ironton-MO/Maintenance-and-Reliability-Intern_REQ-14024) |
 | [Carrier Global](https://internscout.org/internships/at/carrier-global/) | Quality Engineering Intern - Summer | CAI23: Carrier-Indianapolis, 7310 West Morris Street, Indianapolis, IN, 46231 USA | \$43,500.00 - \$87,500.00 annually | Oct 26 | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Quality-Engineering-Intern---Summer_30220757) |
-| [Federal Home Loan Bank of Indianapolis](https://internscout.org/internships/at/federal-home-loan-bank-of-indianapolis/) | Financial Controls Intern | Indianapolis, IN | Paid | Oct 26 | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Financial-Controls-Intern_R639) |
 | [HCSC](https://internscout.org/internships/at/hcsc/) | Product Engineer Intern | Chicago, IL +1 |  | Oct 26 | [Apply](https://go.vansh.nyc/T7) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Intern Bridge/Structure Engineer (Summer 2027) | Bellevue, WA (Seattle) |  | Oct 26 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Bellevue-WA-Seattle/Intern-Bridge-Structure-Engineer--Summer-2027-_R-32181) |
 | [ABB](https://internscout.org/internships/at/abb/) | R&D Intern Bloomfield - Summer 2027 | USA, CT | \$20 - \$34 per hour | Oct 26 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-CT-Bloomfield/R-D-Intern-Bloomfield---Summer-2027_JR00046279) |
@@ -201,9 +199,11 @@
 | Metamorphic | Research and Engineering Intern (Summer 2027) | Palo Alto +2 | \$6-8k/month | Oct 20 | [Apply](https://jobs.ashbyhq.com/metamorphic/cf518648-4e65-4f7d-aa05-f01066d8bd8a/application) |
 | HPR | Applications Engineering Intern - Summer 2027 | Needham, MA | \$40/hour | Oct 20 | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/8016173003) |
 | Riverlane | Engineering Internship 2027 | Boston, MA +1 | \$35-\$42 per hour | Oct 20 | [Apply](https://www.riverlane.com/jobs?gh_jid=5010283101#vacancies) |
+| [RoviSys](https://internscout.org/internships/at/rovisys/) | Engineering Co-op - Summer 2027 | Indianapolis, IN | \$24-\$25/hr | Oct 20 | [Apply](https://careers-rovisys.icims.com/jobs/2198/engineering-co-op---summer-2027/job) |
 | [Ryan](https://internscout.org/internships/at/ryan/) | Application Engineering Intern | Plano, TX |  | Oct 20 | [Apply](https://go.vansh.nyc/cX) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Site Engineering Internship - Braceville, IL | Braceville, Illinois | Paid | Oct 20 | [Apply](https://jobs.constellationenergy.com/jobs/139329) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Site Engineering Intern - Braceville, IL | Braceville, Illinois | Paid | Oct 20 | [Apply](https://jobs.constellationenergy.com/jobs/139324) |
+| [Micron Technology](https://internscout.org/internships/at/micron-technology/) | Design Engineer Intern, Pathfinding | San Jose, CA +1 |  | Oct 20 | [Apply](https://go.vansh.nyc/d7) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,6 +1,6 @@
 # Cybersecurity: Summer 2027 Internships
 
-194 open Summer 2027 cybersecurity roles, newest first (all 194). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 340 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+195 open Summer 2027 cybersecurity roles, newest first (all 195). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 341 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Security Analyst Intern Summer 2027 | Wallops Island, VA |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986961003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Security Analyst Intern Summer 2027 | Long Beach, CA |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986956003) |
 | [Inmar Intelligence](https://internscout.org/internships/at/inmar-intelligence/) | Information Security Intern | Winston Salem, NC |  | Sep 15 | [Apply](https://go.vansh.nyc/JO) |
+| [SimVentions](https://internscout.org/internships/at/simventions/) | 2027 Cybersecurity Intern | Fredericksburg, VA | Paid | Sep 15 | [Apply](https://careers-simventions.icims.com/jobs/1630/2027-cybersecurity-intern/job) |
 | [SimVentions](https://internscout.org/internships/at/simventions/) | 2027 Cybersecurity Intern | Fredericksburg, Virginia | Paid | Sep 15 | [Apply](https://simventions.jibeapply.com/jobs/1630) |
 | [Intuit](https://internscout.org/internships/at/intuit/) | Software Engineer Intern - Cybersecurity | Mountain View, CA |  | Sep 14 | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616) |
 | [Brain Co.](https://internscout.org/internships/at/brain-co/) | AI Security Engineer Intern (Summer 2027) | San Francisco Bay Area, NY +3 | \$8,000-10,000 per month | Sep 12 | [Apply](https://jobs.ashbyhq.com/brainco/b697421a-4a50-4028-9832-6798132e327a/application) |

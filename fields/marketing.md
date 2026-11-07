@@ -1,9 +1,10 @@
 # Marketing: Summer 2027 Internships
 
-278 open Summer 2027 marketing roles, newest first (the 200 newest of 278). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 734 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+279 open Summer 2027 marketing roles, newest first (the 200 newest of 279). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 737 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | Marketing Communications Intern - BOSS Snowplow | Iron Mountain, MI | \$20–\$24 | Nov 7 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Iron-Mountain-MI/Marketing-Communications-Intern---BOSS-Snowplow_JR17202) |
 | [Tinder](https://internscout.org/internships/at/tinder/) | Social Marketing Intern | Los Angeles, California |  | Nov 6 | [Apply](https://jobs.lever.co/matchgroup/d4f57475-3ea3-4560-924b-5a5507d4f002/apply) |
 | [Corning](https://internscout.org/internships/at/corning/) | R&D Intern, Optical Communications Development - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Nov 6 | [Apply](https://corningjobs.corning.com/job/Corning-R&D-Intern%2C-Optical-Communications-Development-Summer-2027-NY-14831/1448753800/) |
 | [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Portfolio Marketing | Holtsville, New York | \$24.00-\$25.50/hour | Nov 6 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Portfolio-Marketing_JR103615) |
@@ -121,6 +122,7 @@
 | [Pentair](https://internscout.org/internships/at/pentair/) | Marketing Leadership Development Internship Program - Summer 2027 | Golden Valley, MN +2 | \$28.00/hour | Oct 15 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Marketing-Leadership-Development-Intern-Program---Summer-2027_R23693) |
 | Capstone Investment Advisors | Summer 2027 - Marketing & Communications Internship | New York, New York | \$29.00 - \$40.00/hr | Oct 14 | [Apply](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8888414002) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce User Growth | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694357619162532149) |
+| [Wolf & Company](https://internscout.org/internships/at/wolf-company/) | Marketing Intern - Summer 2027 | Boston, MA | \$26.00 per hour | Oct 14 | [Apply](https://career-portal-wolfandco.icims.com/jobs/1597/marketing-intern---summer-2027/job) |
 | [HF Sinclair](https://internscout.org/internships/at/hf-sinclair/) | Branded Fuels - Business Analytics Intern | Dallas, TX |  | Oct 14 | [Apply](https://careers.hfsinclair.com/job/Dallas-Branded-Fuels-Business-Analytics-Intern-TX-75219/1430072700/) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern - Communications | Pascagoula, Mississippi |  | Oct 14 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMMUNICATIONS-Miss/1430056000/) |
 | [GAF](https://internscout.org/internships/at/gaf/) | Customer Experience Intern | Parsippany, NJ | \$20.00 | Oct 13 | [Apply](https://gafsgi.wd5.myworkdayjobs.com/GAF_Careers/job/Parsippany-NJ/Customer-Experience-Intern_26415-1) |
@@ -195,15 +197,13 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - Brand Ads | San Jose, CA |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7668654528822954245) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Backend Software Engineer Intern - Innovative Growth | San Jose, CA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7667934860750063925) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Creative Intelligence and Brand Innovation | San Jose, CA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7668642761473902901) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Marketing & Events Internship - Summer 2027 | Reston, VA | Paid | Nov 7, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8676/marketing-%26-events-internship---summer-2027/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Marketing Intern (Events & Content Small Scale) | Niles, IL | \$23-\$43 per hour | Nov 7, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5023/global-marketing-intern-%28events-%26-content-small-scale%29/job) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Communications Assistant Summer Intern - Summer 2027 - Now Hiring | Chesapeake, VA |  | Nov 7 | [Apply](https://www.snagajob.com/jobs/1305373753?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Snacking MBA Marketing and Brand Management Internship | USA-Illinois-Chicago +1 | Paid | Nov 5 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Illinois-Chicago/Summer-2027-Mars-Snacking-MBA-Marketing-and-Brand-Management-Internship_R152836-1) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Sales Administration - Marketing | Denton, TX |  | Nov 3 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Sales-Administration-Marketing-TX-76205-7864/1453616333/) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Summer 2027 Product Marketing Intern | Boston, Massachusetts +1 | \$23.00-\$27.50 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/138534) |
 | Dee Zee | Marketing Intern | Des Moines, IA |  | Oct 30 | [Apply](https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Marketing-Intern_REQ00383) |
-| [Faith Technologies](https://internscout.org/internships/at/faith-technologies/) | Marketing Operations Intern-Summer 2027 | WI - Menasha |  | Oct 30 | [Apply](https://faithtechnologies.wd1.myworkdayjobs.com/fti/job/WI---Menasha/Marketing-Operations-Intern-Summer-2027_R12069-1) |
-| [HNTB](https://internscout.org/internships/at/hntb/) | Communications Intern - Summer 2027 | Nashville, TN (City Center) |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Nashville-TN-City-Center/Communications-Intern---Summer-2027_R-31413) |
-| [HNTB](https://internscout.org/internships/at/hntb/) | Communications & Graphics Intern - Summer 2027 | Raleigh, NC |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Raleigh-NC/Communications---Graphics-Intern---Summer-2027_R-31513) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

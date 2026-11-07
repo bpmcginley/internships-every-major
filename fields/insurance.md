@@ -1,9 +1,10 @@
 # Insurance: Summer 2027 Internships
 
-103 open Summer 2027 insurance roles, newest first (all 103). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 189 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+104 open Summer 2027 insurance roles, newest first (all 104). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 190 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Insurance Policy Research Intern | New York, NY +1 | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6053/summer-2027-insurance-policy-research-intern/job) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern-P&C Actuarial & Underwriting Modeling - Data Scientist | Bloomington, Illinois +7 | \$30.00/hour | Nov 5 | [Apply](https://jobs.statefarm.com/jobs/46227) |
 | [Baldwin Group](https://internscout.org/internships/at/baldwin-group/) | Underwriting Intern, MSI | Hallandale Beach, Florida, US | Paid | Nov 5 | [Apply](https://baldwin.wd1.myworkdayjobs.com/Baldwin/job/Hallandale-Beach-Florida-US/Underwriting-Intern--MSI_JR110197-1) |
 | MSI | Underwriting Intern, MSI | Hallandale Beach, Florida, US | Paid | Nov 5 | [Apply](https://baldwin.wd1.myworkdayjobs.com/MSI/job/Hallandale-Beach-Florida-US/Underwriting-Intern--MSI_JR110197) |

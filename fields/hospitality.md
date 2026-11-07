@@ -1,6 +1,6 @@
 # Hospitality: Summer 2027 Internships
 
-33 open Summer 2027 hospitality roles, newest first (all 33). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 119 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
+34 open Summer 2027 hospitality roles, newest first (all 34). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 120 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Cvent](https://internscout.org/internships/at/cvent/) | SDET Intern (Summer 2027) | Tysons Corner, Virginia | \$41.00 per hour | Aug 31 | [Apply](https://careers.cvent.com/jobs/10761) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | Scrum Master Intern (Summer 2027) | Tysons Corner, Virginia | \$28.00 per hour | Aug 31 | [Apply](https://careers.cvent.com/jobs/10740) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | Client Services Intern (Summer 2027) | Tysons Corner, Virginia | \$15.00 per hour | Aug 26 | [Apply](https://careers.cvent.com/jobs/10710) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Marketing & Events Internship - Summer 2027 | Reston, VA | Paid | Nov 7, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8676/marketing-%26-events-internship---summer-2027/job) |
 | The Atchison Group Inc. | 2027 Hospitality Intern | Virginia Beach, VA | \$20.00 | Nov 7 | [Apply](https://www.ziprecruiter.com/c/atchison-group/Job/2027-Hospitality-Intern/-in-Virginia-Beach,VA?jid=b0a69d02158a8903&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Marriott Vacations Worldwide](https://internscout.org/internships/at/marriott-vacations-worldwide/) | College Intern | MVW Headquarters, FL | \$18.50 | Nov 3 | [Apply](https://mymvw.wd5.myworkdayjobs.com/mvw/job/MVW-Headquarters/College-Intern_JR94335) |
 | [Marriott Vacations Worldwide](https://internscout.org/internships/at/marriott-vacations-worldwide/) | Summer 2027 - College Internship – Palm Desert, CA (Housekeeping, Recreation, & Food & Beverage) | Marriott's Shadow Ridge, FL +1 | \$16.90-23.05 /hour | Nov 3 | [Apply](https://mymvw.wd5.myworkdayjobs.com/mvw/job/Marriotts-Shadow-Ridge/Summer-2027---College-Internship---Palm-Desert--CA--Housekeeping--Recreation----Food---Beverage-_JR94008) |

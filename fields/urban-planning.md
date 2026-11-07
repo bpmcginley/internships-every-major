@@ -1,6 +1,6 @@
 # Urban Planning: Summer 2027 Internships
 
-61 open Summer 2027 urban planning roles, newest first (all 61). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 105 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+61 open Summer 2027 urban planning roles, newest first (all 61). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 119 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors or Masters - Transportation Planning Intern (Summer 2027!) | Orlando, Florida | \$38.01 | Sep 9 | [Apply](https://careers.cdmsmith.com/jobs/4439) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Masters - Transportation Planning Intern (Summer 2027!) | Indianapolis, Indiana | \$36.20 | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/4371) |
 | [Southern Star Central Gas Pipeline](https://internscout.org/internships/at/southern-star-central-gas-pipeline/) | Intern, GIS Analyst | Owensboro, KY |  | Nov 7, 2024 | [Apply](https://careers-sscgp.icims.com/jobs/3036/intern%2c-gis-analyst/job) |
-| Kimley-Horn | Aviation Planning Intern | San Jose, CA, United States | \$33.00/hr | Nov 6 | [Apply](https://www.indeed.com/viewjob?jk=847f2c23f1d50c75&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [Kimley-Horn](https://internscout.org/internships/at/kimley-horn/) | Aviation Planning Intern | San Jose, CA, United States | \$33.00/hr | Nov 6 | [Apply](https://www.indeed.com/viewjob?jk=847f2c23f1d50c75&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Product Planning Intern | Kirkland, WA +1 |  | Oct 26 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Product-Planning-Intern-WA-98033/1451437033/) |
 | [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Planning Intern \| Fort Lauderdale, FL | Fort Lauderdale, FL | Paid | Oct 24 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Fort-Lauderdale-FL/Planning-Intern---Fort-Lauderdale--FL_R-16509) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Environmental Planning Intern (Summer 2027) | Houston, TX (Fannin) |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Houston-TX-Fannin/Environmental-Planning-Intern--Summer-2027-_R-31472) |
