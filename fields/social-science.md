@@ -1,6 +1,6 @@
 # Social Science: Summer 2027 Internships
 
-5 open Summer 2027 social science roles, newest first (all 5). **Updated November 7, 2026.** [Back to every major](../README.md) · [See all 11 social science internships on InternScout](https://internscout.org/internships/social-science/)
+5 open Summer 2027 social science roles, newest first (all 5). **Updated November 8, 2026.** [Back to every major](../README.md) · [See all 12 social science internships on InternScout](https://internscout.org/internships/social-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
