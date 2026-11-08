@@ -1,6 +1,6 @@
 # Industrial Engineering: Summer 2027 Internships
 
-300 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 300). **Updated November 8, 2026.** [Back to every major](../README.md) · [See all 675 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+299 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 299). **Updated November 8, 2026.** [Back to every major](../README.md) · [See all 674 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -87,7 +87,6 @@
 | [DoorDash](https://internscout.org/internships/at/doordash/) | Operations Research Intern (PhD), Summer 2027 | Sunnyvale, CA | Paid | Oct 19 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8273965) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Industrial Engineering Intern - Summer 2027 - Smyrna, TN | Smyrna, Tennessee - United States of America |  | Oct 19 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Industrial-Engineering-Intern---Summer-2027---Smyrna--TN_R00214284) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | AI/ML Systems Engineering Intern (Summer 2027) | USA - Texas - Richardson +1 |  | Oct 19 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineering-Intern--Summer-2027-_JR-2604051) |
-| [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | Manufacturing Engineering Intern (Tomah, WI) - The Toro Company | Tomah, WI | \$22–\$28 | Oct 19 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Tomah-WI/Manufacturing-Engineering-Intern--Tomah--WI----The-Toro-Company_JR17636) |
 | [Generac](https://internscout.org/internships/at/generac/) | Micro-Grid Systems Engineering Summer Intern | USA - CO Fort Collins |  | Oct 19 | [Apply](https://generac.wd5.myworkdayjobs.com/external/job/USA---CO-Fort-Collins/Micro-Grid-Systems-Engineering-Summer-Intern_JR17432) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Supply Chain Intern Summer 2027 | Silver Spring, MD |  | Oct 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7999237003) |
 | [Systems Planning and Analysis (SPA)](https://internscout.org/internships/at/systems-planning-and-analysis-spa/) | Systems Engineering Intern (Summer 2027) | Washington, DC | \$23.00/Hr | Oct 16 | [Apply](https://spa.jibeapply.com/jobs/23635) |
@@ -204,6 +203,7 @@
 | [Kairos Power](https://internscout.org/internships/at/kairos-power/) | Mechanical and Manufacturing Engineering Internship - Summer 2027 | Alameda, CA +2 | Paid | Jul 23 | [Apply](https://job-boards.greenhouse.io/kairospower/jobs/6123676004) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States +7 | Paid | Jun 11 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
 | [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Supply Chain) | St Petersburg, FL |  | Nov 8, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37507/2027-summer-intern-%28supply-chain%29/job) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Supply Chain Internship - Summer 2027 | Eden Prairie, MN |  | Nov 7 | [Apply](https://uscareers-idemia.icims.com/jobs/8636/supply-chain-internship---summer-2027/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

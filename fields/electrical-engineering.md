@@ -1,6 +1,6 @@
 # Electrical Engineering: Summer 2027 Internships
 
-249 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 249). **Updated November 8, 2026.** [Back to every major](../README.md) · [See all 591 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+251 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 251). **Updated November 8, 2026.** [Back to every major](../README.md) · [See all 590 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -198,12 +198,12 @@
 | [HNTB](https://internscout.org/internships/at/hntb/) | Intern Electrical Engineer - Summer 2027 | Kansas City, MO +1 |  | Nov 7 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/Intern-Electrical-Engineer---Summer-2027_R-31347-1) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Electrical Contractor Channel Intern | Nashville, Tennessee | Paid | Nov 3 | [Apply](https://se.jibeapply.com/jobs/140446) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Electrical Engineer | Denton, TX |  | Nov 2 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Electrical-Engineer-TX-76205-7864/1453566633/) |
+| [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Electrical Engineering Intern \| Freeport, ME | Freeport, ME | \$22.00–\$24.00 per hour | Oct 24 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Freeport-ME/Electrical-Engineering-Intern---Freeport--ME_R-16817) |
 | [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Electrical Engineering Intern \| Independence, OH | Cleveland, OH | \$22.00/hour | Oct 24 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Cleveland-OH/Electrical-Engineering-Intern---Independence--OH_R-16577) |
 | [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Electrical Engineering Intern \| Rogers, AR | Rogers, AR | Paid | Oct 24 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Rogers-AR/Electrical-Engineering-Intern---Rogers--AR_R-16498-1) |
 | [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Electrical Engineering Intern \| Germantown, MD | Germantown, MD | \$22.00–\$24.00 per hour | Oct 24 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Germantown-MD/Electrical-Engineering-Intern---Germantown--MD_R-16437) |
 | [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Electrical Engineering Intern \| Cincinnati, OH | Cincinnati, OH | \$22.00/hr | Oct 24 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Cincinnati-OH/Electrical-Engineering-Intern---Cincinnati--OH_R-16734) |
 | [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Electrical Engineering Intern \| Anaheim, CA | Anaheim, CA | \$22.00 –\$24.00 per hour | Oct 24 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Anaheim-CA/Electrical-Engineering-Intern---Anaheim--CA_R-16750) |
-| [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Electrical Engineering Intern \| Scottsdale, AZ | Phoenix, AZ | Paid | Oct 24 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Phoenix-AZ/Electrical-Engineering-Intern---Scottsdale--AZ_R-16745) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

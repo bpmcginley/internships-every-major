@@ -1,6 +1,6 @@
 # Sales: Summer 2027 Internships
 
-303 open Summer 2027 sales roles, newest first (the 200 newest of 303). **Updated November 8, 2026.** [Back to every major](../README.md) · [See all 554 sales internships on InternScout](https://internscout.org/internships/sales/)
+302 open Summer 2027 sales roles, newest first (the 200 newest of 302). **Updated November 8, 2026.** [Back to every major](../README.md) · [See all 554 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -192,7 +192,6 @@
 | [Compeer Financial](https://internscout.org/internships/at/compeer-financial/) | Intern Sales | MN-Mankato | Paid | Aug 26 | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5399883008) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | Sales Intern (Summer 2027) | Tysons Corner, Virginia | \$18.00 per hour | Aug 24 | [Apply](https://careers.cvent.com/jobs/10703) |
 | [Arthur J. Gallagher & Co.](https://internscout.org/internships/at/arthur-j-gallagher-co/) | Canada Internship - Sales | Toronto, Ontario, Canada |  | Aug 17 | [Apply](https://jobs.ajg.com/jobs/57699) |
-| [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL |  | Aug 15 | [Apply](https://higher.gs.com/roles/181628?type=students) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Sales Data Analytics Intern | Westerville, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279291) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Sales Data Analytics Intern - Summer 2027 | Westerville, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279293) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Technical Sales Engineering Intern - IT Channel (Summer 2027) | Columbus, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278722) |
@@ -204,6 +203,7 @@
 | [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Central - Sales Internship MN-IA-IL (Comparion) - Summer 2027 | Saint Charles, IL +7 |  | Nov 8, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261754/central---sales-internship-mn-ia-il-%28comparion%29---summer-2027/job) |
 | [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Northeast - Sales Internship MA-NH-RI-VT-ME (Comparion) - Summer 2027 | Springfield, MA +9 |  | Nov 8, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261749/northeast---sales-internship-ma-nh-ri-vt-me-%28comparion%29---summer-2027/job) |
 | [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Northeast - Sales Internship NY-NJ-CT (Comparion) - Summer 2027 | Glastonbury, CT +10 |  | Nov 8, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/262369/northeast---sales-internship-ny-nj-ct-%28comparion%29---summer-2027/job) |
+| [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Southeast - Sales Internship GA/TN/KY (Comparion) - Summer 2027 | Kennesaw, GA +6 |  | Nov 8, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261750/southeast---sales-internship-ga-tn-ky-%28comparion%29---summer-2027/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

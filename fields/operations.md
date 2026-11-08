@@ -1,6 +1,6 @@
 # Operations: Summer 2027 Internships
 
-417 open Summer 2027 operations roles, newest first (the 200 newest of 417). **Updated November 8, 2026.** [Back to every major](../README.md) · [See all 943 operations internships on InternScout](https://internscout.org/internships/operations/)
+418 open Summer 2027 operations roles, newest first (the 200 newest of 418). **Updated November 8, 2026.** [Back to every major](../README.md) · [See all 946 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [GCM Grosvenor](https://internscout.org/internships/at/gcm-grosvenor/) | 2027 Investor Operations Summer Intern | Chicago, Illinois, United States | \$65,000 | Nov 3 | [Apply](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8003489003) |
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Project Management Intern (Summer 2027) | Downers Grove, IL | \$20.00 - \$25.00 per hour | Nov 3 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/CY27-Intern---Project-Management-Intern_REQ-020094) |
 | [Huntington Bancshares](https://internscout.org/internships/at/huntington-bancshares/) | Summer 2027 Operations Internship | Columbus, OH +1 | \$21.00-\$25.00 Hour | Nov 3 | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Operations-Internship_R0075236) |
+| [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | Parts Business Operations & Marketing Intern - The Toro Company | Bloomington, MN | \$20.00-\$24.00 per hour | Nov 3 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Parts-Business-Operations---Marketing-Intern---The-Toro-Company_JR17726) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Operations Project Management Intern | Florida - Jacksonville |  | Nov 3 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Jacksonville/Operations-Project-Management-Intern_JR105174) |
 | [CareSource](https://internscout.org/internships/at/caresource/) | 2027 Summer Internship Program - Operations Business Analyst | Remote | \$41,200.00 - \$66,000.00 | Nov 3 | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Operations-Business-Analyst_R14307) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Pharmacy Operations Internship (Remote) – Summer 2027 (Undergraduate) | United States |  | Nov 3 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040155) |
@@ -203,7 +204,6 @@
 | [Garmin](https://internscout.org/internships/at/garmin/) | Project Manager Intern - Global Partnerships & Engineering Business Development | Olathe, Kansas |  | Oct 1 | [Apply](https://careers.garmin.com/jobs/20134) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Procurement Intern Summer 2027 | Pittsburgh, PA |  | Oct 1 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119768) |
 | [AXA](https://internscout.org/internships/at/axa/) | Summer 2027 - Operations Intern | ATLANTA +1 | \$25.00/hr | Sep 29 | [Apply](https://careers.axa.com/jobs/25504) |
-| [Ralliant](https://internscout.org/internships/at/ralliant/) | Supply Chain & Procurement Intern - Summer 2027 | Plainville, CT |  | Sep 29 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10679) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,6 +1,6 @@
 # Finance: Summer 2027 Internships
 
-545 open Summer 2027 finance roles, newest first (the 200 newest of 545). **Updated November 8, 2026.** [Back to every major](../README.md) · [See all 873 finance internships on InternScout](https://internscout.org/internships/finance/)
+541 open Summer 2027 finance roles, newest first (the 200 newest of 541). **Updated November 8, 2026.** [Back to every major](../README.md) · [See all 868 finance internships on InternScout](https://internscout.org/internships/finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -140,9 +140,11 @@
 | Truist Bank | 2027 Truist Securities - Investment Banking - Summer Associate Program (MBA Internship) | New York, NY +3 | \$175,000 | Oct 27 | [Apply](https://truist.wd1.myworkdayjobs.com/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Investment-Banking---Summer-Associate-Program--MBA-Internship-_R0120856-2) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Finance and Accounting | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Finance-and-Accounting-MD-21230/1434330100/) |
 | [ADT](https://internscout.org/internships/at/adt/) | Cybersecurity & Risk Intern | Boca Raton, FL |  | Oct 26 | [Apply](https://go.vansh.nyc/UH) |
+| [Federal Home Loan Bank of Indianapolis](https://internscout.org/internships/at/federal-home-loan-bank-of-indianapolis/) | Credit and Collateral Risk Intern | Indianapolis, IN | Paid | Oct 26 | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Credit-and-Collateral-Risk-Intern_R635) |
 | [Baird](https://internscout.org/internships/at/baird/) | Internship – Private Wealth Management (Salt Lake City, UT Summer 2027) | UT-Salt Lake City |  | Oct 26 | [Apply](https://baird.wd1.myworkdayjobs.com/careers/job/UT-Salt-Lake-City/Internship---Private-Wealth-Management--Salt-Lake-City--UT-Summer-2027-_R20261220) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Cyber Risk Management Analyst Undergraduate Intern | Camp Hill PA, 17011, Center Street Building 1B +1 |  | Oct 26 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Camp-Hill-PA-17011-Center-Street-Building-1B/Summer-2027-Cyber-Risk-Management-Analyst-Undergraduate-Intern_J286841) |
-| [Federal Home Loan Bank of Indianapolis](https://internscout.org/internships/at/federal-home-loan-bank-of-indianapolis/) | Model Risk Intern | Indianapolis, IN | Paid | Oct 26 | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Model-Risk-Intern_R636) |
+| [Federal Home Loan Bank of Indianapolis](https://internscout.org/internships/at/federal-home-loan-bank-of-indianapolis/) | Market Risk Intern | Indianapolis, IN | Paid | Oct 26 | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Market-Risk-Intern_R634) |
+| [Federal Home Loan Bank of Indianapolis](https://internscout.org/internships/at/federal-home-loan-bank-of-indianapolis/) | Model Risk Intern | Indianapolis, IN |  | Oct 26 | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Model-Risk-Intern_R636) |
 | Genentech | 2027 Summer Intern - Finance Summer Associate | South San Francisco, CA | \$55.00 per hour | Oct 26 | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Finance-Summer-Associate_202610-126855) |
 | [Baird](https://internscout.org/internships/at/baird/) | Internship – Private Wealth Management (Sioux City, IA Summer 2027) | IA-Sioux City |  | Oct 26 | [Apply](https://baird.wd1.myworkdayjobs.com/careers/job/IA-Sioux-City/Internship---Private-Wealth-Management--Sioux-City--IA-Summer-2027-_R20261218-1) |
 | [KeyBank](https://internscout.org/internships/at/keybank/) | Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Toledo, OH | Toledo, OH | \$23 per hour | Oct 26 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Toledo-OH/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Toledo--OH_R-41225) |
@@ -202,8 +204,6 @@
 | [Apple Bank](https://internscout.org/internships/at/apple-bank/) | 2027 Summer Intern - Retail Banking | New York, NY | \$24/hr | Oct 19 | [Apply](https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2026-Summer-Intern----Retail-Banking_2026-1415) |
 | Principal Financial Group | Intern - Investment Solutions (Summer 2027) | Des Moines, Iowa | \$29 - \$29 / hour | Oct 16 | [Apply](https://careers.principal.com/jobs/53110) |
 | [American Bankers Association](https://internscout.org/internships/at/american-bankers-association/) | Intern, Banking Policy and Economic Research | Main Office, DC +1 | \$25/hour | Oct 16 | [Apply](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Banking-Policy-and-Economic-Research_R625) |
-| [Zurich Insurance](https://internscout.org/internships/at/zurich-insurance/) | Sr. Investment Management Internship - Summer 2027 | New York, NY | \$64.50 | Oct 16 | [Apply](https://www.careers.zurich.com/job/New-York-Sr_-Investment-Management-Internship-Summer-2027-NY-10001/1372475857/) |
-| Neighbor | FP&A Intern (Summer 2027) | Lehi, UT | Paid | Oct 15 | [Apply](https://jobs.lever.co/neighbor/7ed377a8-69c3-4882-8b91-10ff6c891c50/apply) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

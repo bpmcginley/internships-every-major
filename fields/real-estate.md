@@ -1,6 +1,6 @@
 # Real Estate: Summer 2027 Internships
 
-21 open Summer 2027 real estate roles, newest first (all 21). **Updated November 8, 2026.** [Back to every major](../README.md) · [See all 49 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
+20 open Summer 2027 real estate roles, newest first (all 20). **Updated November 8, 2026.** [Back to every major](../README.md) · [See all 48 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -21,7 +21,6 @@
 | [Scout Clean Energy](https://internscout.org/internships/at/scout-clean-energy/) | Real Estate Systems Intern - Summer 2027 | Boulder, Colorado | \$25-30/hour | Oct 12 | [Apply](https://apply.workable.com/j/EC27E34D20/apply) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Real Estate & Builds Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175507?gh_jid=8175507) |
 | [StepStone Group](https://internscout.org/internships/at/stepstone-group/) | 2027 Real Estate Private Equity Advisory Summer Analyst | Cleveland, MD | \$65,000 annually | Aug 3 | [Apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8097993) |
-| [KeyBank](https://internscout.org/internships/at/keybank/) | 2027 Summer Real Estate Capital Internship - Cleveland | Cleveland, OH | \$23 per hour | Nov 7 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Cleveland_R-42077) |
 | [Houlihan Lokey](https://internscout.org/internships/at/houlihan-lokey/) | 2027 Summer Associate – Real Estate, Lodging & Leisure – New York | New York, NY, USA | \$175,000 - \$175,000 | Oct 3 | [Apply](https://hl.wd1.myworkdayjobs.com/Campus/job/New-York-NY-USA/XMLNAME-2027-Summer-Associate---Real-Estate--Lodging---Leisure---New-York_R3621) |
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | Real Estate Intern Summer 2027 Procurement | US - UPS CORPORATE OFFICES (GACOR) |  | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Real-Estate-Intern-Summer-2026-Procurement_R26030587) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Corporate Real Estate Internship - Summer 2027 | Lansing, MI |  | Sep 18 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Corporate-Real-Estate-Internship---Summer-2027_R_14484) |

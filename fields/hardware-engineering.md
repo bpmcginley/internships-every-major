@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-322 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 322). **Updated November 8, 2026.** [Back to every major](../README.md) · [See all 832 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+323 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 323). **Updated November 8, 2026.** [Back to every major](../README.md) · [See all 833 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Digital Design Verification Engineering Intern | Santa Clara, CA |  | Oct 23 | [Apply](https://go.vansh.nyc/hS) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Cloud Hardware Development Engineer Intern | Austin, TX +1 |  | Oct 23 | [Apply](https://amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | ASIC Engineer Intern | Sunnyvale, CA +3 |  | Oct 23 | [Apply](https://amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027) |
+| [Quadric](https://internscout.org/internships/at/quadric/) | Design Verification Intern | Burlingame, CA |  | Oct 23 | [Apply](https://go.vansh.nyc/1n5) |
 | Trace Labs | Robotics Engineer Intern, Hardware & Software | New York, NY |  | Oct 23 | [Apply](https://go.vansh.nyc/hp) |
 | [Symbotic](https://internscout.org/internships/at/symbotic/) | Intern - Hardware Engineer | USA Wilmington, MA - ITC +1 | \$29.00 - \$40.00 | Oct 23 | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington-MA---ITC/Hardware-Engineer_R8101) |
 | [Rivian and Volkswagen Group Technologies](https://internscout.org/internships/at/rivian-and-volkswagen-group-technologies/) | Software Engineering Intern, Embedded Platforms | Palo Alto, CA +3 |  | Oct 22 | [Apply](https://go.vansh.nyc/fF) |
@@ -203,7 +204,6 @@
 | [Marvell](https://internscout.org/internships/at/marvell/) | Analog Layout Co-op Intern | Toronto, ON, Canada |  | Sep 17 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Toronto-Canada/Analog-Layout-Intern---BS-MS---Summer-2027-Co-Op_2604789) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Embedded Software Engineering Internship | Westminster, CO |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/96e97f22-a5b2-4e95-af84-b4f765343663/apply) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Embedded Software Engineering Internship | Austin, TX |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/d25bf640-2b2b-48d6-ab79-8a06b246caaa/apply) |
-| [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Electrical Engineering Internship, Hardware | Westminster, CO |  | Sep 15 | [Apply](https://jobs.lever.co/CesiumAstro/ccb0f99f-0cc7-4517-8d1c-faeca53b5e5c/apply) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

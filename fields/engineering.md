@@ -1,6 +1,6 @@
 # Engineering: Summer 2027 Internships
 
-685 open Summer 2027 engineering roles, newest first (the 200 newest of 685). **Updated November 8, 2026.** [Back to every major](../README.md) · [See all 1,726 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+688 open Summer 2027 engineering roles, newest first (the 200 newest of 688). **Updated November 8, 2026.** [Back to every major](../README.md) · [See all 1,727 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Nissan](https://internscout.org/internships/at/nissan/) | Maintenance Engineering Intern - Summer 2027 - Canton, MS | Canton, Mississippi - United States of America |  | Oct 27 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Canton-Mississippi---United-States-of-America/Maintenance-Engineering-Intern---Summer-2027---Canton--MS_R00214257) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Machining Reliability Intern - Summer 2027 - Decherd, TN | Decherd, Tennessee - United States of America |  | Oct 27 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Machining-Reliability-Intern---Summer-2027---Decherd--TN_R00214293) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Buildings Engineer Intern (Summer 2027) | USA - Vermont - Essex Junction | \$20.00 - \$40.00 per hour | Oct 27 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Buildings-Engineer-Intern--Summer-2027-_JR-2604571) |
+| [Ingredion](https://internscout.org/internships/at/ingredion/) | Reliability Engineering Co-op (May-Dec) - Indianapolis, IN | Indianapolis, IN |  | Oct 27 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Indianapolis-IN/Reliability-Engineering-Co-op----Indianapolis--IN_Req-40019-1) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Substation Engineering Intern | Augusta, Maine | \$20.00 | Oct 27 | [Apply](https://careers.trccompanies.com/jobs/27150) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | New Model Plastics BDM Engineer Intern - Summer 2027 - Smyrna, TN | Smyrna, Tennessee - United States of America |  | Oct 27 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/New-Model-Plastics-BDM-Engineer-Intern---Summer-2027---Smyrna--TN_R00214286) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 R&D PCG Summer Internship- Bowling Green, KY | Bowling Green, KY |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627429) |
@@ -140,6 +141,7 @@
 | [Copart](https://internscout.org/internships/at/copart/) | Vulnerability Management Engineering Intern | Dallas, TX |  | Oct 26 | [Apply](https://go.vansh.nyc/SC) |
 | [IKO](https://internscout.org/internships/at/iko/) | Maintenance and Reliability Intern | Ironton, MO | \$24.00 -\$25.00 per hour | Oct 26 | [Apply](https://iko.wd3.myworkdayjobs.com/iko_careers/job/Ironton-MO/Maintenance-and-Reliability-Intern_REQ-14024) |
 | [Carrier Global](https://internscout.org/internships/at/carrier-global/) | Quality Engineering Intern - Summer | CAI23: Carrier-Indianapolis, 7310 West Morris Street, Indianapolis, IN, 46231 USA | \$43,500.00 - \$87,500.00 annually | Oct 26 | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Quality-Engineering-Intern---Summer_30220757) |
+| [Federal Home Loan Bank of Indianapolis](https://internscout.org/internships/at/federal-home-loan-bank-of-indianapolis/) | Financial Controls Intern | Indianapolis, IN | Paid | Oct 26 | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Financial-Controls-Intern_R639) |
 | [HCSC](https://internscout.org/internships/at/hcsc/) | Product Engineer Intern | Chicago, IL +1 |  | Oct 26 | [Apply](https://go.vansh.nyc/T7) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Intern Bridge/Structure Engineer (Summer 2027) | Bellevue, WA (Seattle) |  | Oct 26 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Bellevue-WA-Seattle/Intern-Bridge-Structure-Engineer--Summer-2027-_R-32181) |
 | [ABB](https://internscout.org/internships/at/abb/) | R&D Intern Bloomfield - Summer 2027 | USA, CT | \$20 - \$34 per hour | Oct 26 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-CT-Bloomfield/R-D-Intern-Bloomfield---Summer-2027_JR00046279) |
@@ -202,8 +204,6 @@
 | Riverlane | Engineering Internship 2027 | Boston, MA +1 | \$35-\$42 per hour | Oct 20 | [Apply](https://www.riverlane.com/jobs?gh_jid=5010283101#vacancies) |
 | [RoviSys](https://internscout.org/internships/at/rovisys/) | Engineering Co-op - Summer 2027 | Indianapolis, IN | \$24-\$25/hr | Oct 20 | [Apply](https://careers-rovisys.icims.com/jobs/2198/engineering-co-op---summer-2027/job) |
 | [Ryan](https://internscout.org/internships/at/ryan/) | Application Engineering Intern | Plano, TX |  | Oct 20 | [Apply](https://go.vansh.nyc/cX) |
-| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Site Engineering Internship - Braceville, IL | Braceville, Illinois | Paid | Oct 20 | [Apply](https://jobs.constellationenergy.com/jobs/139329) |
-| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Site Engineering Intern - Braceville, IL | Braceville, Illinois | Paid | Oct 20 | [Apply](https://jobs.constellationenergy.com/jobs/139324) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,6 +1,6 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-619 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 619). **Updated November 8, 2026.** [Back to every major](../README.md) · [See all 1,121 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+618 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 618). **Updated November 8, 2026.** [Back to every major](../README.md) · [See all 1,121 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Market Access, Pricing & Commercial Analytics | SLEEPY HOLLOW | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/SLEEPY-HOLLOW/XMLNAME-2027-Summer-Intern-Market-Access--Pricing---Commercial-Analytics_R52574-1) |
 | WorldEngine AI | Research Intern, Robotics Data - Real-to-Sim | San Francisco, CA |  | Oct 28 | [Apply](https://go.vansh.nyc/Xy) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Geothermal Production Analytics Engineering Intern - Geysers | Middletown, California +1 | Paid | Oct 28 | [Apply](https://jobs.constellationenergy.com/jobs/140400) |
-| [Federal Home Loan Bank of Indianapolis](https://internscout.org/internships/at/federal-home-loan-bank-of-indianapolis/) | MPP Data Analytics Intern | Indianapolis, IN |  | Oct 28 | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/MPP-Data-Analytics-Intern_R641) |
+| [Federal Home Loan Bank of Indianapolis](https://internscout.org/internships/at/federal-home-loan-bank-of-indianapolis/) | MPP Data Analytics Intern | Indianapolis, IN | Paid | Oct 28 | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/MPP-Data-Analytics-Intern_R641) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Genomics, Computational Biology & Translational Data Science | TARRYTOWN +3 | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Genomics--Computational-Biology---Translational-Data-Science_R52557-1) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern AI/ML & Data Engineering | TARRYTOWN +7 | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-AI-ML---Data-Engineering_R52560-1) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | University - 2027 Summer Games Data Scientist Intern - Charleston, SC | Charleston, SC | \$61,900.00 to \$141,000.00 | Oct 28 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charleston-SC/University---2027-Summer-Games-Data-Scientist-Intern_R0248137) |
