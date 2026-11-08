@@ -1,6 +1,6 @@
 # Nonprofit: Summer 2027 Internships
 
-24 open Summer 2027 nonprofit roles, newest first (all 24). **Updated November 8, 2026.** [Back to every major](../README.md) · [See all 108 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
+25 open Summer 2027 nonprofit roles, newest first (all 25). **Updated November 8, 2026.** [Back to every major](../README.md) · [See all 109 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -14,12 +14,13 @@
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Knowledge Management Intern | Washington, DC | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6066/summer-2027-knowledge-management-intern/job) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Donor Systems Intern | New York, NY +1 | \$7,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6046/summer-2027-donor-systems-intern/job) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (Nebraska Health Plan) – Summer 2027 (Undergraduate) | NE |  | Nov 4 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040148) |
-| Jackson | Corporate Philanthropy Intern - Lansing - Summer 2027 | Lansing, MI |  | Nov 4 | [Apply](https://jackson.wd1.myworkdayjobs.com/jackson_campus/job/Lansing-MI/Corporate-Philanthropy-Intern---Lansing---Summer-2027_REQ-04033) |
+| Jackson | Corporate Philanthropy Intern - Lansing - Summer 2027 | Lansing, MI |  | Nov 3 | [Apply](https://jackson.wd1.myworkdayjobs.com/jackson_campus/job/Lansing-MI/Corporate-Philanthropy-Intern---Lansing---Summer-2027_REQ-04033) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (Wisconsin Health Plan) – Summer 2027 (Undergraduate) | WI |  | Nov 3 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040147) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (New York Health Plan) – Summer 2027 (Undergraduate) | New York, NY |  | Nov 3 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040153) |
-| Jackson | Corporate Philanthropy Intern Nashville - Starting Summer 2027 | Nashville, TN |  | Oct 31 | [Apply](https://jackson.wd1.myworkdayjobs.com/jackson_campus/job/Nashville-TN/Corporate-Philanthropy-Intern-Nashville---Starting-Summer-2027_REQ-04032) |
+| Jackson | Corporate Philanthropy Intern Nashville - Starting Summer 2027 | Nashville, TN |  | Oct 30 | [Apply](https://jackson.wd1.myworkdayjobs.com/jackson_campus/job/Nashville-TN/Corporate-Philanthropy-Intern-Nashville---Starting-Summer-2027_REQ-04032) |
 | Bloomberg Philanthropies | 2027 Bloomberg Philanthropies Summer Internship | New York, New York, United States | Paid | Oct 27 | [Apply](https://job-boards.greenhouse.io/bloombergdotorg/jobs/8046487003) |
-| [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Community Impact | Wilmington, DE | \$18.00 - \$21.00 Per Hour | Oct 22 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Community-Impact_R-104110-2) |
+| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Community Impact | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Community-Impact-MD-21230/1434384000/) |
+| [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Community Impact | Wilmington, DE | \$18.00 - \$21.00 Per Hour | Oct 21 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Community-Impact_R-104110-2) |
 | [EQT Corporation](https://internscout.org/internships/at/eqt-corporation/) | Community Relations Intern | Canonsburg, PA |  | Oct 9 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5448044008) |
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Undergraduate Intern, National Security Project | New York, NY |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8842752002) |
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Undergraduate Intern, National Prison Project | Remote/Hybrid-Washington D.C. |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8846060002) |
