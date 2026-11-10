@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Oshkosh](https://internscout.org/internships/at/oshkosh/) | MRO Supply Chain Intern - Summer 2027 | Hagerstown, Maryland, United States | \$18.00 - \$37.00 | Nov 10 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/MRO-Supply-Chain-Intern---Summer-2027_R49938) |
 | [Jabil](https://internscout.org/internships/at/jabil/) | AI Agent Developer Intern (Supply Chain IT - AI & Enablement) | St. Petersburg/Tampa, FL +2 |  | Nov 10 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Global Supply Chain & Sourcing Intern (Summer 2027) | USA - New York - Malta | \$20.00 - \$40.00 | Nov 9 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Global-Supply-Chain---Sourcing-Intern--Summer-2027-_JR-2604471) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Purchasing Intern (Summer 2027) | Anderson, SC |  | Nov 9 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279277) |
@@ -203,7 +204,6 @@
 | [Pentair](https://internscout.org/internships/at/pentair/) | Supply Chain & Operations Leadership Development Internship Program - Summer 2027 | Golden Valley, MN +10 | \$28.00/ hour | Sep 18 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Supply-Chain---Operations-Leadership-Development-Internship-Program---Summer-2027_R23712) |
 | [Ingredion](https://internscout.org/internships/at/ingredion/) | Global Supply Chain Data Science Intern | Westchester, IL | \$20-23hour | Sep 18 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Supply-Chain-Data-Science-Intern_Req-40226-1) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Logistics Intern | Niles, IL |  | Sep 18 | [Apply](https://careersus-shure.icims.com/jobs/4987/global-logistics-intern/job) |
-| [Target](https://internscout.org/internships/at/target/) | Operation Manager Intern (Starting Summer 2027) Food Distribution Center - Thornton, CO | 15450 Washington St, Thornton,CO 80023-9719 |  | Sep 18 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/15450-Washington-St-ThorntonCO-80023-9719/Operation-Manager-Intern--Starting-Summer-2027--Food-Distribution-Center---Thornton--CO_R0000450440-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

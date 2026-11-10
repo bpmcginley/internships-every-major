@@ -1,9 +1,11 @@
 # Consulting: Summer 2027 Internships
 
-119 open Summer 2027 consulting roles, newest first (all 119). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 243 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+121 open Summer 2027 consulting roles, newest first (all 121). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 242 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Bank of Montreal](https://internscout.org/internships/at/bank-of-montreal/) | Treasury & Payment Solutions Strategy Internship, Summer 2027 (4 months) | Toronto, ON, CAN | \$40,500.00 - \$80,000.00 | Nov 10 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382) |
+| [BMO](https://internscout.org/internships/at/bmo/) | Treasury & Payment Solutions Strategy Internship, Summer 2027 (4 months) | Toronto, ON, CAN | \$40,500.00 - \$80,000.00 | Nov 10 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382-1) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Strategy Analyst Intern | Florida - Deerfield Beach |  | Nov 10 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Strategy-Analyst-Intern_JR105218) |
 | [Cerity Partners](https://internscout.org/internships/at/cerity-partners/) | 2027 Summer Risk Management Strategy Analyst Internship | Louisville, KY |  | Nov 10 | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/XMLNAME-2027-Summer-Risk-Management-Strategy-Analyst-Internship_R918-1) |
 | [NBCUniversal](https://internscout.org/internships/at/nbcuniversal/) | Cybersecurity, Governance & Security Engineering Intern, Media Tech | New York, NY |  | Nov 9 | [Apply](https://go.vansh.nyc/1oC) |

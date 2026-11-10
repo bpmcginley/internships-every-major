@@ -1,9 +1,11 @@
 # Urban Planning: Summer 2027 Internships
 
-59 open Summer 2027 urban planning roles, newest first (all 59). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 113 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+61 open Summer 2027 urban planning roles, newest first (all 61). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 115 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Entegris](https://internscout.org/internships/at/entegris/) | Production Planning Intern | Danbury, CT | \$20-\$30/hour | Nov 10 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Danbury-CT/Production-Planning-Intern_REQ-15837) |
+| [Eversource Energy](https://internscout.org/internships/at/eversource-energy/) | 2027 Summer: GIS Intern (NH) | Manchester, NH | \$21.20 | Nov 10 | [Apply](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Manchester-NH/XMLNAME-2027-Summer--GIS-Intern--NH-_R-032537) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | New York, NY | \$21.74 - \$30.53 per hour | Nov 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98916) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | South Jordan, UT |  | Nov 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98842) |
 | [Eversource Energy](https://internscout.org/internships/at/eversource-energy/) | 2027 Summer: Transmission System Planning Interns | Westwood, MA +2 | \$21.20 | Nov 5 | [Apply](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/XMLNAME-2027-Summer--Transmission-System-Planning-Interns_R-032377) |

@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-113 open Summer 2027 human resources roles, newest first (all 113). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 253 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+114 open Summer 2027 human resources roles, newest first (all 114). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 251 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Intern - HR Operations | Bridgeton, Missouri |  | Sep 1 | [Apply](https://careers.na.panasonic.com/jobs/50762) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Human Resources | Detroit, MI |  | Sep 1 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14626) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Retail Sales Intern - Summer 2027 (Multiple Locations) - Campus Recruiting | Austin, MN +2 | \$24.50 | Sep 1 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35338) |
+| [Honeywell](https://internscout.org/internships/at/honeywell/) | Future HR Leaders - Summer 2027 Intern | United States |  | Aug 27 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/152206) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - People, Engagement, and Impact (Lake Mary, FL) | Lake Mary, FL |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81250) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - People, Engagement, and Impact (New York, NY) | New York, NY |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81243) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - People, Engagement, and Impact (Pittsburgh, PA) | Pittsburgh, PA |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81246) |

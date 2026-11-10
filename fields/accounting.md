@@ -1,12 +1,12 @@
 # Accounting: Summer 2027 Internships
 
-223 open Summer 2027 accounting roles, newest first (the 200 newest of 223). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 490 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+223 open Summer 2027 accounting roles, newest first (the 200 newest of 223). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 492 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Summer 2027: Accounting Intern (May through August) | Needham, MA, United States |  | Nov 10 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727347006) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - Accounting | Toronto, Ontario | \$40,950.00 | Nov 10 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---Accounting_JR26080118-1) |
 | [Entegris](https://internscout.org/internships/at/entegris/) | Internal Audit Intern | Billerica, MA | \$20-\$30/hour | Nov 10 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Internal-Audit-Intern_REQ-15845) |
-| Associated Bank | 2027 Corporate Intern - Audit | Remote, WI +2 | \$17.00 - \$26.71 per hour | Nov 10 | [Apply](https://associatedbank.wd1.myworkdayjobs.com/external_careers/job/US-WI-Remote/XMLNAME-2027-Corporate-Intern---Audit_JR106561) |
 | [EisnerAmper](https://internscout.org/internships/at/eisneramper/) | 2027 Assurance Summer Intern - Real Estate | New York |  | Nov 10 | [Apply](https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/New-York/XMLNAME-2027-Assurance-Summer-Intern---Real-Estate_Req-9647) |
 | [EisnerAmper](https://internscout.org/internships/at/eisneramper/) | 2027 Assurance Summer Intern | Philadelphia |  | Nov 9 | [Apply](https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/Philadelphia/XMLNAME-2027-Assurance-Summer-Intern_Req-8511) |
 | Fiserv | 2027 Finance & Accounting Internship - Alpharetta | Alpharetta, Georgia | Paid | Nov 9 | [Apply](https://fiserv.wd5.myworkdayjobs.com/EXT/job/Alpharetta-Georgia/XMLNAME-2027-Finance---Accounting-Internship---Alpharetta_R-10403556) |
@@ -66,7 +66,7 @@
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Houston - Tax JD - Intern - Summer 2027 | TX-Houston | \$29.25 - \$48.00 | Oct 27 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/TX-Houston/Houston---Tax-JD---Intern---Summer-2027_612268EIB-1) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern – Loan & Lease Portfolio Controllership (Morristown, NJ) | Morristown, New Jersey | \$21.51/hour | Oct 27 | [Apply](https://firstcitizens.jibeapply.com/jobs/36042) |
 | RSM | State and Local Tax - Income Franchise Intern - Summer 2027 | Detroit | \$34 - \$40 per hour | Oct 27 | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Detroit/State-and-Local-Tax---Income-Franchise-Intern---Summer-2027_JR122156) |
-| [Itron](https://internscout.org/internships/at/itron/) | Intern - Tax (Summer 2027) | United States of America, Washington, Liberty Lake | \$15.87 - \$44.23 per hour | Oct 27 | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Tax--Summer-2027-_JR102951-2) |
+| [Itron](https://internscout.org/internships/at/itron/) | Intern - Tax (Summer 2027) | United States of America, Washington, Liberty Lake |  | Oct 27 | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Tax--Summer-2027-_JR102951-2) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Finance and Accounting | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Finance-and-Accounting-MD-21230/1434330100/) |
 | [Ercot](https://internscout.org/internships/at/ercot/) | Intern - Internal Audit | Taylor, TX |  | Oct 27 | [Apply](https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Intern---Internal-Audit_R2484) |
 | [FHLBD Federal Home Loan Bank of Dallas](https://internscout.org/internships/at/fhlbd-federal-home-loan-bank-of-dallas/) | 2027 Summer Internal Audit Intern - Financial & Operational Audit | Irving, TX |  | Oct 26 | [Apply](https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Internal-Audit-Intern_REQ-451) |

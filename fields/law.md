@@ -1,9 +1,10 @@
 # Law and Legal: Summer 2027 Internships
 
-134 open Summer 2027 law and legal roles, newest first (all 134). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 275 law and legal internships on InternScout](https://internscout.org/internships/law/)
+134 open Summer 2027 law and legal roles, newest first (all 134). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 274 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Legal Intern | Atlanta, GA |  | Nov 10 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Legal-Intern_R-0000033894) |
 | [Royal Caribbean Group](https://internscout.org/internships/at/royal-caribbean-group/) | Intern, Maritime Safety + Environmental Compliance (Summer 2027) | Miami, FL |  | Nov 10 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miami-Intern%2C-Maritime-Safety-%2B-Environmental-Compliance-%28Summer-2027%29-FL-33132/1449347100/) |
 | [The Travelers Companies](https://internscout.org/internships/at/the-travelers-companies/) | Legal Intern | NJ - Morristown | \$36.00 - \$37.00 | Nov 10 | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/NJ---Morristown/Legal-Intern_R-53701) |
 | [DP World](https://internscout.org/internships/at/dp-world/) | Legal Intern | Charlotte, NC |  | Nov 10 | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27980) |
@@ -30,7 +31,6 @@
 | [Scotiabank](https://internscout.org/internships/at/scotiabank/) | 2027 Compliance Summer Analyst- Dallas | Dallas, TX | Paid | Nov 2 | [Apply](https://jobs.scotiabank.com/job/Dallas-2027-Compliance-Summer-Analyst-Dallas-TX-75201/607605817/) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Law Enforcement Intern | Atlanta, GA |  | Nov 2 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Law-Enforcement-Intern_R-0000033891) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Risk and Compliance Intern - Summer 2027 | Cincinnati, OH (USA) | Paid | Nov 2 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Risk-and-Compliance-Intern---Summer-2027_R9830) |
-| Standard Insurance | Legal Intern | Portland, OR +2 | \$28-30/hr | Nov 2 | [Apply](https://standard.wd1.myworkdayjobs.com/search/job/Portland-OR/Legal-Intern_REQ007152) |
 | [CareSource](https://internscout.org/internships/at/caresource/) | 2027 Summer Internship Program - Compliance Analyst | Remote | \$41,200.00 - \$66,000.00 | Nov 2 | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Compliance-Analyst_R14109) |
 | [Vialto Partners](https://internscout.org/internships/at/vialto-partners/) | Part-Time Law Student – Canadian Business Immigration | Montreal | \$20–\$25 per hour | Nov 2 | [Apply](https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Montreal/Part-Time-Law-Student---Canadian-Business-Immigration_REQ908925) |
 | [Ocean Spray](https://internscout.org/internships/at/ocean-spray/) | FSQA Compliance & Systems Intern | Lakeville, MA | \$30.00 - \$32.00 | Nov 2 | [Apply](https://oceanspray.wd5.myworkdayjobs.com/OceanSprayJobs/job/Lakeville-MA/FSQA-Compliance---Systems-Intern_R5425) |

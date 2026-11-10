@@ -1,9 +1,10 @@
 # Business: Summer 2027 Internships
 
-78 open Summer 2027 business roles, newest first (all 78). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 144 business internships on InternScout](https://internscout.org/internships/business/)
+80 open Summer 2027 business roles, newest first (all 80). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 147 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Fifth Third Bank | Summer 2027 Commercial Middle Market Internship - San Jose | San Jose, CA | Paid | Nov 10 | [Apply](https://fifththird.wd5.myworkdayjobs.com/53careers/job/San-Jose-CA/Summer-2027-Commercial-Middle-Market-Internship---San-Jose_R72043) |
 | [Target](https://internscout.org/internships/at/target/) | Space & Presentation Business Partner Intern – Minneapolis, MN (Starting Summer 2027) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | \$29.00 per hour | Nov 10 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Space---Presentation-Business-Partner-Intern---Minneapolis--MN--Starting-Summer-2027-_R0000478342) |
 | [S&P Global](https://internscout.org/internships/at/s-p-global/) | Summer Intern, Commercial Strategy | New York, NY | \$20 to \$25 | Nov 9 | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Summer-Intern--Commercial-Strategy_332621-1) |
 | [PETRONAS Canada](https://internscout.org/internships/at/petronas-canada/) | Summer Student, Commercial and Joint Venture Management | Calgary |  | Nov 9 | [Apply](https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Commercial-and-Joint-Venture-Management_R0001884) |
@@ -53,6 +54,7 @@
 | [Selective Insurance](https://internscout.org/internships/at/selective-insurance/) | Commercial Lines Product Summer Internship – Short Hills, NJ or Hartford, CT (Hybrid) | Short Hills, New Jersey +3 | \$22.00 | Sep 8 | [Apply](https://jobs.selective.com/jobs/5709) |
 | AlixPartners | Turnaround & Restructuring - MBA Intern | United States | \$35,000 | Sep 1 | [Apply](https://www.alixpartners.com/careers/7810004003?gh_jid=7810004003) |
 | AlixPartners | Strategy & Analysis - MBA Intern | United States | \$35,000 | Sep 1 | [Apply](https://www.alixpartners.com/careers/7809994003?gh_jid=7809994003) |
+| [Honeywell](https://internscout.org/internships/at/honeywell/) | Business Management – Summer 2027 Intern | United States |  | Aug 27 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155593) |
 | [DTCC](https://internscout.org/internships/at/dtcc/) | Business Systems Intern \[2027 Intern Program\] | Jersey City, NJ +2 | Paid | Aug 25 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214472) |
 | Weatherford | USA - Weatherford Summer Business Internship | Houston, TX |  | Aug 12 | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/107149) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Business Valuation Internship | Portland, ME | \$30 per hour | Nov 10, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4018/summer-2027-business-valuation-internship/job) |

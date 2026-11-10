@@ -1,9 +1,10 @@
 # Hardware Engineering: Summer 2027 Internships
 
-332 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 332). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 847 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+331 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 331). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 847 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [General Dynamics Mission Systems, Inc.](https://internscout.org/internships/at/general-dynamics-mission-systems/) | ASIC/FPGA Engineer Intern | Scottsdale, AZ |  | Nov 10 | [Apply](https://go.vansh.nyc/1rJ) |
 | Ixana | Embedded Hardware Engineer Intern, FPGA Design | West Lafayette, IN |  | Nov 10 | [Apply](https://go.vansh.nyc/1qS) |
 | Ixana | Embedded Software Engineer Intern, Wearables and IoT | West Lafayette, IN |  | Nov 10 | [Apply](https://go.vansh.nyc/1qR) |
 | Peripheral | Robotics Engineering Intern, Capture Systems | Toronto, Canada |  | Nov 10 | [Apply](https://go.vansh.nyc/1rj) |
@@ -114,7 +115,6 @@
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Applied AI Engineering Intern - Hardware Systems | Vancouver, BC, Canada |  | Oct 22 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721678733) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Frontier AI & Robotics Intern | San Francisco, CA |  | Oct 22 | [Apply](https://go.vansh.nyc/eL) |
 | [Rockwell Automation](https://internscout.org/internships/at/rockwell-automation/) | Firmware Engineer Intern | Mequon, WI +1 |  | Oct 22 | [Apply](https://go.vansh.nyc/gA) |
-| [Microchip Technology](https://internscout.org/internships/at/microchip-technology/) | Engineering Intern, ASIC Verification | San Jose, CA |  | Oct 21 | [Apply](https://go.vansh.nyc/ed) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Edge AI and Display Hardware Architecture Intern | Markham, ON, Canada |  | Oct 21 | [Apply](https://go.vansh.nyc/dY) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems | Markham, ON, Canada |  | Oct 21 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721661830) |
 | [Aerospace Corporation](https://internscout.org/internships/at/the-aerospace-corporation/) | Hardware Security Engineering Intern | El Segundo, CA +1 |  | Oct 21 | [Apply](https://go.vansh.nyc/dv) |
@@ -144,13 +144,13 @@
 | [Inversion Space](https://internscout.org/internships/at/inversion-space/) | Avionics Embedded Software Engineer - Summer Internship 2027 | Playa Vista, California, United States +2 | Paid | Oct 15 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4744391005) |
 | [Figure](https://internscout.org/internships/at/figure/) | Embedded Software Engineer Intern, Platform | San Jose, CA |  | Oct 14 | [Apply](https://go.vansh.nyc/Cq) |
 | [Formlabs](https://internscout.org/internships/at/formlabs/) | Hardware Systems Integration Intern (Summer 2027) | Somerville, MA | \$1,575 | Oct 14 | [Apply](https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683) |
+| [Anduril](https://internscout.org/internships/at/anduril/) | Firmware Engineer Intern | Costa Mesa, CA |  | Oct 14 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265158007) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Hardware Development Engineer Intern | North Reading, MA +2 |  | Oct 14 | [Apply](https://amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027) |
 | [Rockwell Automation](https://internscout.org/internships/at/rockwell-automation/) | Co-op, Hardware Development Engineer (June - Dec 2027) | Mayfield Heights, Ohio, United States +1 | \$20 - \$32/hour | Oct 14 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891-1) |
 | [Rockwell Automation](https://internscout.org/internships/at/rockwell-automation/) | Co-op, Hardware Development Engineer (Jan - July 2027) | Mayfield Heights, Ohio, United States +1 | \$20 - \$32/hour | Oct 14 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638-1) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | AI Robotics Research Intern - Summer 2027 - Santa Clara, CA | Santa Clara, California - United States of America +1 |  | Oct 14 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/AI-Robotics-Research-Intern---Summer-2027---Santa-Clara--CA_R00214267) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Hardware Development Engineer Intern Co-op - Robotics | North Reading, MA +1 |  | Oct 13 | [Apply](https://amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027) |
 | [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Design Verification Engineer Intern | San Jose, CA +1 |  | Oct 13 | [Apply](https://go.vansh.nyc/C9) |
-| [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Firmware Engineer Intern | Costa Mesa, California, United States +1 | Paid | Oct 13 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007) |
 | [AeroVironment](https://internscout.org/internships/at/aerovironment/) | Summer 2027 Embedded Software Engineering Intern | Simi Valley, CA +16 |  | Oct 13 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8388) |
 | [AeroVironment](https://internscout.org/internships/at/aerovironment/) | Summer 2027 Autonomy & Robotics Engineering Intern | Simi Valley, CA +14 |  | Oct 13 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8556) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Firmware Engineer Intern, BS - Summer 2027 | Santa Clara, CA +1 | Paid | Oct 13 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461) |

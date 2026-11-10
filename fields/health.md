@@ -1,10 +1,12 @@
 # Health: Summer 2027 Internships
 
-60 open Summer 2027 health roles, newest first (all 60). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 303 health internships on InternScout](https://internscout.org/internships/health/)
+62 open Summer 2027 health roles, newest first (all 62). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 302 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Sanofi](https://internscout.org/internships/at/sanofi/) | 2027 Summer Intern Clinical Statistical Modeling Cambridge MA | Cambridge, MA +1 | Paid | Nov 10 | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-Clinical-Statistical-Modeling-Cambridge-MA_R2866227) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Grad Intern - Global Patient Safety (Summer 2027) | Remote | \$35.34 – \$41.20 per hour | Nov 10 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Global-Patient-Safety--Summer-2027-_R-260757) |
+| [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Quality & Analytics Internship (Wisconsin Health Plan) – Summer 2027 (Undergraduate) | WI +1 |  | Nov 10 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040143) |
 | [Medpace](https://internscout.org/internships/at/medpace/) | Clinical Informatics Internship/Co-op - Summer 2027 | Cincinnati, Ohio +1 |  | Nov 10 | [Apply](https://careers.medpace.com/jobs/12988) |
 | [Philips](https://internscout.org/internships/at/philips/) | Intern-Insights and Analytics (Health Systems Marketing) Cambridge, MA or Nashville, TN - Summer 2027 | Cambridge (US), Massachusetts, United States +2 | \$26 – 30 | Nov 9 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern-Insights-and-Analytics--Health-Systems-Marketing--Cambridge--MA---Summer-2027_593454) |
 | BlueCross BlueShield of Nebraska | Data Intern - Healthcare Summer 2027 | Omaha, NE |  | Nov 9 | [Apply](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Data-Intern--Summer-2027_JR101406) |

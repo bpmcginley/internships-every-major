@@ -1,9 +1,10 @@
 # Design: Summer 2027 Internships
 
-81 open Summer 2027 design roles, newest first (all 81). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 198 design internships on InternScout](https://internscout.org/internships/design/)
+82 open Summer 2027 design roles, newest first (all 82). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 199 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Notion](https://internscout.org/internships/at/notion/) | Product Design Intern (Summer 2027) | New York, New York +1 | \$57/hr | Nov 10 | [Apply](https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9/application) |
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | Industrial Design Engineering Intern - Summer 2027 | Towson, MD, United States | \$38,600.00 - \$62,200.00 | Nov 10 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern---Summer-2027_REQ-1000052666) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Learning Solutions Designer (Reston, VA) | Reston, VA | \$23/hour | Nov 9 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Learning-Solutions-Designer--Reston--VA-_R2603779) |
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | Engineering Intern, Industrial Design 3D Surfacing - Summer 2027 | Valley City, OH, United States | \$22.00- \$27.00 per hour | Nov 9 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Intern--Industrial-Design-3D-Surfacing---Summer-2027_REQ-1000052712) |

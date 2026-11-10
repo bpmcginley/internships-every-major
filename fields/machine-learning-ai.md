@@ -1,18 +1,18 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-582 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 582). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 1,221 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+580 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 580). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 1,217 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [SRC, Inc](https://internscout.org/internships/at/src-inc/) | Machine Learning Engineer Intern | United States |  | Nov 10 | [Apply](https://go.vansh.nyc/1rU) |
+| [Toyota Research Institute](https://internscout.org/internships/at/toyota-research-institute/) | Human-Centered AI Research Intern, Causal Reasoning Models (Summer 2027) | Los Altos, CA |  | Nov 10 | [Apply](https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37/apply) |
 | SigIQ.ai | Machine Learning Intern/Resident | Berkeley, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1rw) |
-| TerraByte Green | AI Engineering Intern | United States |  | Nov 10 | [Apply](https://go.vansh.nyc/1ry) |
 | Mason | AI Engineer Intern | New York, NY |  | Nov 10 | [Apply](https://go.vansh.nyc/1rz) |
-| Maincode | AI Research Residency Intern | Remote +2 |  | Nov 10 | [Apply](https://go.vansh.nyc/1qU) |
-| [Metasys](https://internscout.org/internships/at/metasys/) | AI/ML Engineer Intern | Remote +2 |  | Nov 10 | [Apply](https://go.vansh.nyc/1r2) |
-| Holiday World | AI Engineer Intern | Remote +2 |  | Nov 10 | [Apply](https://go.vansh.nyc/1rb) |
+| Addepar | AI Engineering Intern | New York, NY |  | Nov 10 | [Apply](https://go.vansh.nyc/1rX) |
 | Johns Hopkins APL | AI & Data Science Intern, Analytic Capabilities | Laurel, MD |  | Nov 10 | [Apply](https://go.vansh.nyc/1pW) |
 | Kiewit | Machine Learning Intern, Kiewit Data Services | Omaha, NE |  | Nov 10 | [Apply](https://go.vansh.nyc/1pX) |
-| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Machine Learning Engineer, Embodied AI | Sunnyvale, California, United States of America | \$9,600-\$11,800 per month | Nov 10 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034) |
+| [onsemi](https://internscout.org/internships/at/onsemi/) | AI & Data Analytics Intern | Scottsdale, AZ |  | Nov 10 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010) |
+| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Machine Learning Engineer, Embodied AI | Sunnyvale, California, United States of America +1 | \$9,600-\$11,800 per month | Nov 10 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034) |
 | [Jabil](https://internscout.org/internships/at/jabil/) | AI Agent Developer Intern (Supply Chain IT - AI & Enablement) | St. Petersburg/Tampa, FL +2 |  | Nov 10 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054) |
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - AI Research Incubator | California - Palo Alto +1 | \$54 - \$70 per hour | Nov 10 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Foundry-Incubation_JR366655) |
 | [DP World](https://internscout.org/internships/at/dp-world/) | AI & Analytics (Talent Management) Intern | Charlotte, NC |  | Nov 10 | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27855) |

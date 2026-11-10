@@ -1,9 +1,11 @@
 # Architecture: Summer 2027 Internships
 
-56 open Summer 2027 architecture roles, newest first (all 56). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 138 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+58 open Summer 2027 architecture roles, newest first (all 58). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 141 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 – General Account Investments Business Architecture | Toronto, Ontario | \$48,800.00 | Nov 10 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---General-Account-Investments-Business-Architecture_JR26110296) |
+| Jones Lang LaSalle (JLL) | Architecture / Engineering Summer 2027 Internship | New York, NY |  | Nov 10 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Architecture---Engineering-Summer-2027-Internship_REQ544579) |
 | [Zoetis](https://internscout.org/internships/at/zoetis/) | AI Architecture, Enablement & Tools Intern, AI Capabilities | Remote +2 |  | Nov 9 | [Apply](https://go.vansh.nyc/1ph) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | New York, NY | \$21.74 - \$30.53 per hour | Nov 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98916) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | South Jordan, UT |  | Nov 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98842) |

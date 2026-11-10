@@ -1,26 +1,26 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-645 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 645). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 1,142 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+645 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 645). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 1,141 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | SemiAnalysis | Data Engineer Intern | Chicago, IL |  | Nov 10 | [Apply](https://go.vansh.nyc/1rv) |
-| [Metasys](https://internscout.org/internships/at/metasys/) | Data Engineer Intern | Remote +2 |  | Nov 10 | [Apply](https://go.vansh.nyc/1r7) |
+| Addepar | Data Engineering Intern | New York, NY |  | Nov 10 | [Apply](https://go.vansh.nyc/1rY) |
 | Northwaysports | Data Science Intern | United States |  | Nov 10 | [Apply](https://go.vansh.nyc/1rc) |
-| [Metasys](https://internscout.org/internships/at/metasys/) | Data Architect Intern | Remote +2 |  | Nov 10 | [Apply](https://go.vansh.nyc/1qW) |
 | Grey State Apparel | Data Analyst Intern | New York, NY |  | Nov 10 | [Apply](https://go.vansh.nyc/1qN) |
-| Avary.ai | Data Scientist Intern | Remote +2 |  | Nov 10 | [Apply](https://go.vansh.nyc/1qF) |
-| [Metasys](https://internscout.org/internships/at/metasys/) | Data Scientist Intern | Remote +2 |  | Nov 10 | [Apply](https://go.vansh.nyc/1qX) |
 | Elas | Data Science Intern | Pleasanton, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1qK) |
 | Johns Hopkins APL | AI & Data Science Intern, Analytic Capabilities | Laurel, MD |  | Nov 10 | [Apply](https://go.vansh.nyc/1pW) |
 | Kiewit | Machine Learning Intern, Kiewit Data Services | Omaha, NE |  | Nov 10 | [Apply](https://go.vansh.nyc/1pX) |
+| [onsemi](https://internscout.org/internships/at/onsemi/) | AI & Data Analytics Intern | Scottsdale, AZ |  | Nov 10 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010) |
 | [Walmart](https://internscout.org/internships/at/walmart/) | Summer 2027 Corporate Intern: Data Science & Data Analytics – Last Mile Delivery | Bentonville, AR | \$21.00 - \$40.00 | Nov 10 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Summer-2027-Corporate-Intern--Data-Science---Data-Analytics---Last-Mile-Delivery_R-2690193) |
 | [DP World](https://internscout.org/internships/at/dp-world/) | AI & Analytics (Talent Management) Intern | Charlotte, NC |  | Nov 10 | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27855) |
 | [T-Mobile](https://internscout.org/internships/at/t-mobile/) | Business Analytics & Reporting Intern | Bellevue, WA |  | Nov 10 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Business-Analytics---Reporting-Internship_REQ381319) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship - AI & Data Science - Analytic Capabilities | Laurel, Maryland +1 | \$22.60 Hour | Nov 10 | [Apply](https://careers.jhuapl.edu/jobs/60008) |
 | [General Dynamics Mission Systems](https://internscout.org/internships/at/general-dynamics-mission-systems/) | Ontology Data Analysis and Validation Intern | Chantilly, VA +2 |  | Nov 10 | [Apply](https://careers-gdms.icims.com/jobs/76095/job?mobile=true&needsRedirect=false) |
 | i3 | Data Management Intern | Huntsville, AL |  | Nov 10 | [Apply](https://go.vansh.nyc/1pN) |
+| [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Quality & Analytics Internship (Wisconsin Health Plan) – Summer 2027 (Undergraduate) | WI +1 |  | Nov 10 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040143) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Data Analyst enGen Undergraduate Intern | Pittsburgh PA, 15222, PAP, Penn Avenue Place +1 |  | Nov 10 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826) |
+| Kyndryl | Marketing Internship, Marketing Analytics | New York, NY, USA +1 | \$30/hour | Nov 10 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analysis_R-70007-1) |
 | [Cerity Partners](https://internscout.org/internships/at/cerity-partners/) | Investment Data & Technology Analyst Internship | New York City, NY +1 |  | Nov 10 | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Investment-Data---Technology-Analyst-Internship_R929) |
 | [Medpace](https://internscout.org/internships/at/medpace/) | Clinical Informatics Internship/Co-op - Summer 2027 | Cincinnati, Ohio +1 |  | Nov 10 | [Apply](https://careers.medpace.com/jobs/12988) |
 | [The Hartford](https://internscout.org/internships/at/the-hartford/) | Data Science Intern - Summer 2027 | Hartford, CT +2 | Paid | Nov 10 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114) |
@@ -101,6 +101,7 @@
 | [PayPal](https://internscout.org/internships/at/paypal/) | Data Scientist Intern - Summer 2027 | San Jose, CA |  | Nov 5 | [Apply](https://paypal.eightfold.ai/careers/job/274922982821) |
 | [Creative Artists Agency](https://internscout.org/internships/at/creative-artists-agency/) | CAA ICON Sports Data Analytics Intern – Summer 2027 (Denver, CO) | Denver, CO | \$19.84 - \$26.00 | Nov 5 | [Apply](https://caa.wd1.myworkdayjobs.com/Careers/job/Denver-CO/CAA-ICON-Data-Analytics-Intern---Summer-2027--Denver--CO-_JR9391) |
 | [onsemi](https://internscout.org/internships/at/onsemi/) | Summer 2027 - Data and Visualization Intern | Hopewell Junction, NY | \$26.00 -\$44.00 per hour | Nov 5 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506638) |
+| [Palantir Technologies](https://internscout.org/internships/at/palantir-technologies/) | Software Engineer Intern, Data Connectors | New York, NY |  | Nov 4 | [Apply](https://go.vansh.nyc/1rS) |
 | Plusgrade | Data Science Intern | Toronto, Canada |  | Nov 4 | [Apply](https://go.vansh.nyc/1gR) |
 | [Microchip Technology](https://internscout.org/internships/at/microchip-technology/) | Data Analyst Intern | Gresham, OR |  | Nov 4 | [Apply](https://go.vansh.nyc/1gQ) |
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Business Intelligence Intern, Power BI | Cincinnati, OH |  | Nov 4 | [Apply](https://go.vansh.nyc/1go) |
@@ -203,7 +204,6 @@
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Summer 2027 Data/Finance Analyst Intern- Bachelor's (Santa Clara, CA) | Santa Clara,CA | Paid | Oct 28 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Finance-Analyst-Intern--Bachelor-s--Santa-Clara--CA-_R2626652) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | University - 2027 Summer Games Data Scientist Intern - Ft. Walton Beach, FL | Fort Walton Beach, FL |  | Oct 28 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach--FL_R0248409) |
 | [Leidos](https://internscout.org/internships/at/leidos/) | Data Engineer Intern | Fort Belvoir, VA |  | Oct 28 | [Apply](https://go.vansh.nyc/Y4) |
-| [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Summer 2027 Data Scientist Intern - Master's (Santa Clara, CA) | Santa Clara,CA +1 | Paid | Oct 28 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Scientist-Intern---Master-s--Santa-Clara--CA-_R2627691) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

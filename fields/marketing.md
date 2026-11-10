@@ -1,12 +1,15 @@
 # Marketing: Summer 2027 Internships
 
-286 open Summer 2027 marketing roles, newest first (the 200 newest of 286). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 750 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+288 open Summer 2027 marketing roles, newest first (the 200 newest of 288). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 754 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Intern to the Chief of Staff, External Affairs & Growth (Washington, DC) | Washington, Washington, DC |  | Nov 10 | [Apply](https://jobs.constellationenergy.com/jobs/142425) |
 | [Aon](https://internscout.org/internships/at/aon/) | 2027 Wealthspire - Marketing Brand Intern | New York, New York | \$25.00 – \$27.00 per hour | Nov 10 | [Apply](https://jobs.aon.com/jobs/109985) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | GDIT Summer Internship Program – Summer 2027 Growth Team Technical Writer Internship | Herndon, VA | \$21.25 - \$28.75 | Nov 10 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Herndon/GDIT-Summer-Internship-Program---Summer-2027-Growth-Team-Technical-Writer-Internship_RQ231856) |
 | Jones Lang LaSalle (JLL) | Account Communications Summer 2027 Internship | Atlanta, GA |  | Nov 10 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Delta-Account-Communications-Summer-2027-Internship---Delta-Corporate-Headquarters--Atlanta--GA_REQ546149) |
+| Kyndryl | Marketing Internship | New York, NY, USA | \$30/hour | Nov 10 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Generalist_R-70009) |
+| Kyndryl | Marketing Internship, Marketing Analytics | New York, NY, USA +1 | \$30/hour | Nov 10 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analysis_R-70007-1) |
 | [DreamWorks Animation](https://internscout.org/internships/at/dreamworks-animation/) | Advertising & Partnerships: Data Science Intern | NYC |  | Nov 9 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160689930) |
 | [DreamWorks Animation](https://internscout.org/internships/at/dreamworks-animation/) | Data Science Intern, Advertising & Partnerships | New York, NY |  | Nov 9 | [Apply](https://go.vansh.nyc/1pJ) |
 | [DreamWorks Animation](https://internscout.org/internships/at/dreamworks-animation/) | Advertising & Partnerships: Ad Products Intern | NYC |  | Nov 9 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160686479) |
@@ -85,7 +88,6 @@
 | [Q2](https://internscout.org/internships/at/q2/) | 2027 Summer Internship - Marketing | Austin, Texas |  | Oct 28 | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Marketing-Intern_REQ-12902) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Communications Intern - Summer 2027 | Kansas City, MO |  | Oct 27 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/Communications-Intern---Summer-2027_R-32203-1) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | 2027 Summer Product Marketing Intern - BS or MS (Gloucester, MA) | Gloucester,MA | \$25 - \$41 per hour | Oct 27 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Product-Marketing-Intern---BS-or-MS--Gloucester--MA-_R2630824) |
-| Kyndryl | Marketing Internship | New York, NY, USA | \$30/hour | Oct 27 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Generalist_R-70009) |
 | [S&P Global](https://internscout.org/internships/at/s-p-global/) | Market Intelligence Sales Associate Internship | New York, NY |  | Oct 27 | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Exclusive-Networking-Event---Client-Forward--Early-Careers-in-Commercial-Functions-at-S-P-Global_332243-1) |
 | [Sanofi](https://internscout.org/internships/at/sanofi/) | 2027 Summer Intern Marketing and Sales Associate, Vaccines, Morristown, NJ | Morristown, NJ | Paid | Oct 27 | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/XMLNAME-2027-Summer-Intern-Marketing-and-Sales-Associate--Vaccines--Morristown--NJ_R2871000-1) |
 | [Campbell Soup Company](https://internscout.org/internships/at/campbell-soup-company/) | MBA Brand Management Intern Summer 2027 | Camden, NJ |  | Oct 27 | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/MBA-Brand-Management-Intern-Summer-2027_Req-68911) |
@@ -202,8 +204,6 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - Brand Ads | San Jose, CA |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7668654528822954245) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Backend Software Engineer Intern - Innovative Growth | San Jose, CA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7667934860750063925) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Creative Intelligence and Brand Innovation | San Jose, CA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7668642761473902901) |
-| [IDEMIA](https://internscout.org/internships/at/idemia/) | Marketing & Events Internship - Summer 2027 | Reston, VA | Paid | Nov 10, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8676/marketing-%26-events-internship---summer-2027/job) |
-| [Shure](https://internscout.org/internships/at/shure/) | Global Marketing Intern (Events & Content Small Scale) | Niles, IL | \$23-\$43 per hour | Nov 10, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5023/global-marketing-intern-%28events-%26-content-small-scale%29/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

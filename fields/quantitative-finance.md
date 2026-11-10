@@ -1,6 +1,6 @@
 # Quantitative Finance: Summer 2027 Internships
 
-147 open Summer 2027 quantitative finance roles, newest first (all 147). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 201 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
+145 open Summer 2027 quantitative finance roles, newest first (all 145). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 199 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -68,7 +68,6 @@
 | [AQR Capital Management](https://internscout.org/internships/at/aqr-capital-management/) | Quantitative Prediction Markets Research Summer Analyst Intern | Greenwich, CT |  | Aug 11 | [Apply](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) |
 | Quantbot Technologies | Quantitative Developer Intern | NYC |  | Aug 11 | [Apply](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) |
 | Quantbot Technologies | Quantitative Researcher Intern | NYC |  | Aug 11 | [Apply](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) |
-| [AQR](https://internscout.org/internships/at/aqr/) | 2027 Quantitative Prediction Markets Research Summer Analyst | Greenwich, CT |  | Aug 11 | [Apply](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) |
 | Belvedere Trading | Quantitative Trading Intern - Summer 2027 | Chicago, Illinois +1 |  | Aug 4 | [Apply](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab/apply) |
 | [DV Group](https://internscout.org/internships/at/dv-group/) | Quantitative Risk Intern - Summer 2027 | Chicago +1 | \$35.00-\$40.00/hr | Aug 4 | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) |
 | [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Quantitative Research – Markets – Summer Internship - Associate– United States | New York, NY +1 |  | Aug 4 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061) |
@@ -87,7 +86,6 @@
 | Radix Trading | Quantitative Technologist Intern, C++ | Chicago, IL |  | Jul 24 | [Apply](https://go.vansh.nyc/3R) |
 | Optiver | Institutional Trader Intern (2027 Start - Chicago) | Chicago, Illinois, United States +1 | \$45,000 | Jul 23 | [Apply](https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002) |
 | Virtu | 2027 Internship - Quantitative Researcher (PhD) | New York +1 | \$5,000 - \$5,800 week | Jul 22 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624424002) |
-| Virtu Financial | Quantitative Trading Intern | Austin, TX +2 |  | Jul 21 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624408002) |
 | [Akuna Capital](https://internscout.org/internships/at/akuna-capital/) | Quantitative Research Intern, Summer 2027 \| Georgia Institute of Technology | Chicago, IL | \$145,000 | Jul 15 | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065656) |
 | [Akuna Capital](https://internscout.org/internships/at/akuna-capital/) | Quantitative Development & Strategy Intern, Summer 2027 \| Massachusetts Institute of Technology | Chicago, IL | \$145,000 | Jul 15 | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8066884) |
 | [Akuna Capital](https://internscout.org/internships/at/akuna-capital/) | Quantitative Research Intern, Summer 2027 \| Massachusetts Institute of Technology | Chicago, IL | \$145,000 | Jul 15 | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065670) |
