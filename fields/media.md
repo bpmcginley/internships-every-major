@@ -1,6 +1,6 @@
 # Media: Summer 2027 Internships
 
-42 open Summer 2027 media roles, newest first (all 42). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 139 media internships on InternScout](https://internscout.org/internships/media/)
+41 open Summer 2027 media roles, newest first (all 41). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 138 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -8,7 +8,6 @@
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Audience Insights Intern | New York, NY | \$30.00 per hour | Nov 9 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752928005) |
 | Southern Poverty Law Center | Intern, Editorial (Summer 2027) | Atlanta, GA +4 | \$18.40 per hour | Nov 6 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8931208002) |
 | Deeplocal | Creative Technology Intern | Pittsburgh +1 | Paid | Nov 6 | [Apply](https://job-boards.greenhouse.io/deeplocal/jobs/8360330) |
-| [onsemi](https://internscout.org/internships/at/onsemi/) | Summer 2027 - Thin Films, Implant & Diffusion Process Engineering Intern | Hopewell Junction, NY | \$26.00 -\$44.00 per hour | Nov 5 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506637) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Video Editing Internship Summer 2027 | Centennial, CO | \$23.10 - \$37.95 | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Video-Editing-Internship-Summer-2027-CO-80112/1427399000/) |
 | [Adobe](https://internscout.org/internships/at/adobe/) | 2027 Intern - Media & Editorial Generalist | San Francisco +1 | \$25.00 - \$30.00 hour | Nov 4 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-Intern---Media---Editorial-Generalist_R173414) |
 | [Carpenter Technology](https://internscout.org/internships/at/carpenter-technology/) | Technical Writing Intern | Reading, PA | \$21.00 - \$25.00 per hour | Nov 4 | [Apply](https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Technical-Writing-Intern_26977) |

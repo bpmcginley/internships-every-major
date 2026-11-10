@@ -1,9 +1,10 @@
 # Hospitality: Summer 2027 Internships
 
-32 open Summer 2027 hospitality roles, newest first (all 32). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 118 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
+33 open Summer 2027 hospitality roles, newest first (all 33). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 119 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | IT Summer Internship Program Event Coordinator Intern - Summer 2027 | Cincinnati, OH (USA) | Paid | Nov 10 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Summer-Internship-Program-Event-Coordinator-Intern---Summer-2027_R9889) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Culinary Internships - Glacier National Park | Columbia Falls, Montana | \$18.85/hr | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40156) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Culinary Internships - Grand Canyon South Rim | GRAND CANYON, Arizona | \$16.05 per hour | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40113) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Hospitality Internships - Lodging - Grand Canyon South Rim | GRAND CANYON, Arizona | Paid | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40112) |

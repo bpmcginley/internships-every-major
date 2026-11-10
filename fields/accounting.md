@@ -1,6 +1,6 @@
 # Accounting: Summer 2027 Internships
 
-223 open Summer 2027 accounting roles, newest first (the 200 newest of 223). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 492 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+222 open Summer 2027 accounting roles, newest first (the 200 newest of 222). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 490 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -50,8 +50,7 @@
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Home Office Underwriting/Audit Internship - Summer 2027 | Lansing, MI | \$18 per hour | Nov 2 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Home-Office-Underwriting-Audit-Internship---Summer-2027_R_14361) |
 | Trilogy Health Services | Internal Audit - Intern | Louisville, Kentucky |  | Oct 30 | [Apply](https://jobs.trilogyhs.com/jobs/213295) |
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Accounting Intern (Summer 2027) | Sparks, NV |  | Oct 30 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Accounting-Intern--Summer-2027-_R0031256) |
-| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Transfer Pricing | Washington DC |  | Oct 30 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Washington/Summer-2027-Intern--Transfer-Pricing_R0020725) |
-| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Transfer Pricing | Washington | \$23.70 - \$27.50 | Oct 30 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Washington/Summer-2027-Intern--Transfer-Pricing_R0020725-1) |
+| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Transfer Pricing | Washington | \$23.70 - \$27.50 | Oct 30 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Washington/Summer-2027-Intern--Transfer-Pricing_R0020725) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027 | IL-Rosemont +1 | \$29.25 - \$48.00 | Oct 29 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Business Administration - Accounting/Finance (Pomona/Rosemead) | Rosemead, CA |  | Oct 29 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Business-Administration-AccountingFinance-%28PomonaRosemead%29-CA-91770-3714/1425449300/) |
 | [Novogradac](https://internscout.org/internships/at/novogradac/) | 2027 Summer Staff Accountant Intern | Toms River, NJ | \$27/hr | Oct 28 | [Apply](https://novoco.wd108.myworkdayjobs.com/Novogradac/job/Toms-River-NJ/XMLNAME-2027-Summer-Staff-Accountant-Intern_JR100846) |
@@ -204,6 +203,7 @@
 | [Oshkosh](https://internscout.org/internships/at/oshkosh/) | Finance & Accounting Intern (Summer 2027) | Appleton, Wisconsin, United States |  | Sep 18 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Finance---Accounting-Intern--Summer-2027-_R50186) |
 | [Guardian Life](https://internscout.org/internships/at/guardian-life/) | 2027 Guardian Summer Intern, Corporate Finance & Risk - Corporate Tax | New York | \$20.00 - \$35.00 | Sep 18 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Corporate-Tax_R000110175) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Sacramento - Tax JD - Intern - Summer 2027 | CA-Sacramento | \$29.25 - \$48.00 | Sep 18 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/CA-Sacramento/Sacramento---Tax-JD---Intern---Summer-2027_6122615EIB-1) |
+| [Newrez](https://internscout.org/internships/at/newrez/) | 2027 Summer Internship – Internal Audit | PA, Fort Washington |  | Sep 18 | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/PA-Fort-Washington/XMLNAME-2027-Summer-Internship---Internal-Audit_R10373) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

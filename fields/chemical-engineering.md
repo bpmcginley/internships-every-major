@@ -1,13 +1,12 @@
 # Chemical Engineering: Summer 2027 Internships
 
-65 open Summer 2027 chemical engineering roles, newest first (all 65). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 154 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+64 open Summer 2027 chemical engineering roles, newest first (all 64). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 153 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [ABB](https://internscout.org/internships/at/abb/) | Manufacturing Process Engineering Intern- Summer 2027 | Bartlesville, Oklahoma, United States of America | \$20 - \$34 per hour | Nov 9 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bartlesville-Oklahoma-United-States-of-America/Manufacturing-Process-Engineering-Intern--Summer-2027_JR00051490) |
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Functional Materials & Process Engineer Intern (Summer 2027) | Lone Tree, CO | \$23.54 - \$32.37 | Nov 9 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Functional-Materials---Process-Engineer-Intern--Summer-2027-_R0031370) |
 | [ABB](https://internscout.org/internships/at/abb/) | Process Engineering Intern - Summer 2027 | New Berlin, Wisconsin, United States of America | \$20 - \$34 per hour | Nov 9 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Process-Engineering-Intern---Summer-2027_JR00049939) |
-| [onsemi](https://internscout.org/internships/at/onsemi/) | Summer 2027 - Thin Films, Implant & Diffusion Process Engineering Intern | Hopewell Junction, NY | \$26.00 -\$44.00 per hour | Nov 5 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506637) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Material and Process Engineering Internship Summer 2027 | Centennial, CO | \$23.10 - \$37.95 | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Material-and-Process-Engineering-Internship-Summer-2027-CO-80112/1427398900/) |
 | [Carpenter Technology](https://internscout.org/internships/at/carpenter-technology/) | Process Engineering Intern | Reading, PA | \$21.00 - \$25.00 per hour | Nov 4 | [Apply](https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Process-Engineering-Intern_26978) |
 | [Charter Manufacturing](https://internscout.org/internships/at/charter-manufacturing/) | Process Engineer Intern (Summer 2027) | Charter Aarrowcast - Shawano, WI | Paid | Nov 4 | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Aarrowcast---Shawano-WI/Process-Engineer-Intern--Summer-2027-_R08181) |

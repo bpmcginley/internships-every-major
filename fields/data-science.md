@@ -1,6 +1,6 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-646 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 646). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 1,144 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+645 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 645). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 1,143 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -95,13 +95,11 @@
 | [Crowdstrike](https://internscout.org/internships/at/crowdstrike/) | Sales Data Analytics Intern | USA - Sunnyvale, CA +3 | Paid | Nov 5 | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sales-Data-Analytics-Intern_R30801) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Data Engineering Intern | Florida - Deerfield Beach +1 |  | Nov 5 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineering-Intern_JR105086) |
 | [CareSource](https://internscout.org/internships/at/caresource/) | 2027 Summer Internship Program - Data Analyst | Remote +1 | \$41,200.00 - \$66,000.00 | Nov 5 | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Analyst_R14356) |
-| [onsemi](https://internscout.org/internships/at/onsemi/) | Summer 2027 - IE / Data Analytics Intern | Hopewell Junction, NY | \$26.00 -\$44.00 per hour | Nov 5 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506636) |
 | [Regal Rexnord](https://internscout.org/internships/at/regal-rexnord/) | Strategic Pricing and Analytics Summer Intern | Milwaukee, Wisconsin, United States | \$21 - \$26 per hour | Nov 5 | [Apply](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Milwaukee-Wisconsin-United-States/Strategic-Pricing-and-Analytics-Summer-Intern_R26_04973-1) |
 | [Walmart](https://internscout.org/internships/at/walmart/) | (USA) Summer 2027 Corporate Intern: Last Mile Delivery Data Science Intern | (USA) J Street Offices, Suite #2 AR BENTONVILLE Home Office | \$21.00 - \$40.00 | Nov 5 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-J-Street-Offices-Suite-2-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Summer-2027-Corporate-Intern---Last-Mile-Delivery-Data-Science-Intern_R-2686828) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Analytics Intern | Florida - Deerfield Beach +1 |  | Nov 5 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Analytics-Intern_JR105200) |
 | [PayPal](https://internscout.org/internships/at/paypal/) | Data Scientist Intern - Summer 2027 | San Jose, CA |  | Nov 5 | [Apply](https://paypal.eightfold.ai/careers/job/274922982821) |
 | [Creative Artists Agency](https://internscout.org/internships/at/creative-artists-agency/) | CAA ICON Sports Data Analytics Intern – Summer 2027 (Denver, CO) | Denver, CO | \$19.84 - \$26.00 | Nov 5 | [Apply](https://caa.wd1.myworkdayjobs.com/Careers/job/Denver-CO/CAA-ICON-Data-Analytics-Intern---Summer-2027--Denver--CO-_JR9391) |
-| [onsemi](https://internscout.org/internships/at/onsemi/) | Summer 2027 - Data and Visualization Intern | Hopewell Junction, NY | \$26.00 -\$44.00 per hour | Nov 5 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506638) |
 | [Palantir Technologies](https://internscout.org/internships/at/palantir-technologies/) | Software Engineer Intern, Data Connectors | New York, NY |  | Nov 4 | [Apply](https://go.vansh.nyc/1rS) |
 | Plusgrade | Data Science Intern | Toronto, Canada |  | Nov 4 | [Apply](https://go.vansh.nyc/1gR) |
 | [Microchip Technology](https://internscout.org/internships/at/microchip-technology/) | Data Analyst Intern | Gresham, OR |  | Nov 4 | [Apply](https://go.vansh.nyc/1gQ) |
@@ -128,6 +126,7 @@
 | Maricopa Association of Governments | Socioeconomic Data Intern | Phoenix, AZ |  | Nov 3 | [Apply](https://go.vansh.nyc/1dx) |
 | Signet Jewelers | Data Analytics Intern | Support Center - Akron, OH +1 | \$19.00–\$20.00/hour | Nov 3 | [Apply](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84317) |
 | [Costco](https://internscout.org/internships/at/costco/) | Costco Data Systems Intern - IT Product Owner | Issaquah, WA |  | Nov 2 | [Apply](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11024) |
+| [Resideo](https://internscout.org/internships/at/resideo/) | Data Science Intern | Austin, TX +1 |  | Nov 2 | [Apply](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19817) |
 | [Noblis](https://internscout.org/internships/at/noblis/) | Data Science and Innovation Intern | Springfield, VA +1 |  | Nov 2 | [Apply](https://go.vansh.nyc/1i2) |
 | Intuitive | Data Science Intern | Sunnyvale, CA |  | Nov 2 | [Apply](https://go.vansh.nyc/19w) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | Data Scientist Intern | Detroit, MI +1 |  | Nov 2 | [Apply](https://go.vansh.nyc/19s) |
@@ -136,7 +135,6 @@
 | [ParetoHealth](https://internscout.org/internships/at/paretohealth/) | Analytics Summer Intern | Philadelphia, Pennsylvania, United States +1 |  | Nov 2 | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725326006) |
 | [Scotiabank](https://internscout.org/internships/at/scotiabank/) | GBM - Corporate Banking, Credit Analytics Group (CAG) Internship/Co-op - Summer 2027 | Toronto, ON, Canada |  | Nov 2 | [Apply](https://jobs.scotiabank.com/job/Toronto-GBM-Corporate-Banking%2C-Credit-Analytics-Group-%28CAG%29-InternshipCo-op-Summer-2027-ON/607644017/) |
 | [Booz Allen](https://internscout.org/internships/at/booz-allen-hamilton/) | Summer Games Data Scientist Intern | Detroit, MI |  | Nov 2 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783) |
-| [Resideo](https://internscout.org/internships/at/resideo/) | Data Science Intern - Summer 2027 | Austin, TX +1 |  | Nov 2 | [Apply](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19817) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Transportation Data Analyst Intern - Summer 2027 | Seattle, WA | \$24.76 - \$32.22 per hour | Nov 2 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97952) |
 | [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program - Patient Data Learning - Co-op | USA - Massachusetts - Cambridge (320 Bent Street) +1 | \$39,908 - \$111,111 | Nov 2 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Patient-Data-Learning---Co-op_R424526) |
 | [Cadence Design Systems](https://internscout.org/internships/at/cadence-design-systems/) | CST Intern - Data Center GTM Intern | SAN JOSE | \$28.60 to \$53.12 | Nov 2 | [Apply](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/CST-Intern---Data-Center-GTM-Intern_R57099-1) |
@@ -204,6 +202,8 @@
 | Sephora | AI & Distribution Analytics Intern | United States |  | Oct 28 | [Apply](https://go.vansh.nyc/11Q) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Summer 2027 Data/Finance Analyst Intern- Bachelor's (Santa Clara, CA) | Santa Clara,CA | Paid | Oct 28 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Finance-Analyst-Intern--Bachelor-s--Santa-Clara--CA-_R2626652) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | University - 2027 Summer Games Data Scientist Intern - Ft. Walton Beach, FL | Fort Walton Beach, FL |  | Oct 28 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach--FL_R0248409) |
+| [Leidos](https://internscout.org/internships/at/leidos/) | Data Engineer Intern | Fort Belvoir, VA |  | Oct 28 | [Apply](https://go.vansh.nyc/Y4) |
+| [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Summer 2027 Data Scientist Intern - Master's (Santa Clara, CA) | Santa Clara,CA +1 | Paid | Oct 28 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Scientist-Intern---Master-s--Santa-Clara--CA-_R2627691) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

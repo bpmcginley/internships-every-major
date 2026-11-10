@@ -1,6 +1,6 @@
 # Industrial Engineering: Summer 2027 Internships
 
-306 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 306). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 691 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+305 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 305). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 690 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -38,7 +38,6 @@
 | [Regal Rexnord](https://internscout.org/internships/at/regal-rexnord/) | Supply Chain Summer Intern | Milwaukee, Wisconsin, United States +5 | \$19 - \$25 per hour | Nov 6 | [Apply](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Milwaukee-Wisconsin-United-States/Supply-Chain-Summer-Intern_R26_04542-1) |
 | Lumbermen's | Industrial Engineer Internship | Byron Center, MI | Paid | Nov 5 | [Apply](https://job-boards.greenhouse.io/lumbermens/jobs/5474347008) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Industrial Engineer Intern (Summer 2027) | Winston Salem, NC | Paid | Nov 5 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-WINSTON-SALEM-1455--1455-Fairchild-Rd--ADMIN-BLDG/Industrial-Engineer-Intern--Summer-2027-_01887069) |
-| [onsemi](https://internscout.org/internships/at/onsemi/) | Summer 2027 - Manufacturing Engineering Intern | Hopewell Junction, NY | \$26.00 -\$44.00 per hour | Nov 5 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506639) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Supply Chain Internship - Summer 2027 | Centennial, CO | \$23.10 - \$37.95 | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Supply-Chain-Internship-Summer-2027-CO-80112/1427397500/) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Industrial Engineering Internship - Summer 2027 | Cape Canaveral, FL |  | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Cape-Canaveral-Industrial-Engineering-Internship-Summer-2027-FL-32925/1427396900/) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Logistics & Transportation Internship - Summer 2027 | Decatur, AL |  | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Decatur-Logistics-&-Transportation-Internship-Summer-2027-AL-35601/1427397300/) |
@@ -204,6 +203,7 @@
 | [Stryten](https://internscout.org/internships/at/stryten/) | 2027 Summer Intern - Logistics | Alpharetta, Georgia | Paid | Aug 30 | [Apply](https://jobs.stryten.com/jobs/5810) |
 | Northwood Space | Supply Chain Data & Analytics Intern | LA +1 |  | Aug 29 | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application?embed=true) |
 | [Shield AI](https://internscout.org/internships/at/shield-ai/) | Summer 2027 - Advanced Manufacturing Engineering Intern | Dallas, Texas +1 | Paid | Aug 27 | [Apply](https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a/apply) |
+| [CSX](https://internscout.org/internships/at/csx/) | Procurement & Supply Chain Internship - Summer 2027 (Paid) | Jacksonville, FL |  | Aug 27 | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54820) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

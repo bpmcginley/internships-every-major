@@ -1,13 +1,12 @@
 # Agriculture: Summer 2027 Internships
 
-16 open Summer 2027 agriculture roles, newest first (all 16). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 48 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
+15 open Summer 2027 agriculture roles, newest first (all 15). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 47 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Scotiabank](https://internscout.org/internships/at/scotiabank/) | ASPIRE Commercial Banking - Agriculture - Summer 2027 Co-op / Internship - Alberta | Calgary, AB, Canada |  | Nov 2 | [Apply](https://jobs.scotiabank.com/job/Calgary-ASPIRE-Commercial-Banking-Agriculture-Summer-2027-Co-op-Internship-Alberta-AB/607598717/) |
 | [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Petcare Quality and Food Safety Internship | USA-Tennessee-Lebanon | Paid | Oct 22 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Tennessee-Lebanon/Summer-2027-Mars-Petcare-Quality-and-Food-Safety-Internship_R170548-1) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | R&D Veterinary Services Intern - Fort Dodge, IA (Summer 2027) | Fort Dodge, IA | \$20-\$40/hour | Oct 19 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Fort-Dodge-IA/R-D-Veterinary-Services-Intern---Fort-Dodge--IA--Summer-2027-_R0027485-1) |
-| [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Sensory and Products Research Intern, Summer 2027 | Orrville, OH | \$21.50/hr | Oct 19 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Sensory-and-Products-Research-Intern--Summer-2027_115677) |
 | AGCO | Agricultural Business Analytics Intern | Champaign, IL |  | Oct 14 | [Apply](https://careers.agcocorp.com/job/Champaign-Agricultural-Business-Analytics-Intern-Summer-2027-IL/1440135500/?ats=successfactors) |
 | [Land O'Lakes](https://internscout.org/internships/at/land-o-lakes/) | WinField United Market Development Agronomist Intern, Summer 2027 | Remote +3 | \$25.00/hour | Oct 13 | [Apply](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Virtual-USA/WinField-United-Market-Development-Agronomist-Intern--Summer-2027_R-40235) |
 | [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | R&D Innovation, Culinary and Sensory Intern - Summer 2027 | Lewis Center, Ohio |  | Sep 21 | [Apply](https://careers.marzetticompany.com/jobs/8082) |

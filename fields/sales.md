@@ -1,9 +1,10 @@
 # Sales: Summer 2027 Internships
 
-297 open Summer 2027 sales roles, newest first (the 200 newest of 297). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 546 sales internships on InternScout](https://internscout.org/internships/sales/)
+298 open Summer 2027 sales roles, newest first (the 200 newest of 298). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 547 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| FedEx Freight | Sales Internship: Summer 2027 | FCC-US/USA/44286-9077/FCC Highlander Pkwy |  | Nov 10 | [Apply](https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FCC-USUSA44286-9077FCC-Highlander-Pkwy/Sales-Internship--Summer-2027_RC6199) |
 | [Keysight Technologies](https://internscout.org/internships/at/keysight-technologies/) | Intern - Optics Customer Success | Sacramento, California +3 | \$37.10 | Nov 10 | [Apply](https://jobs.keysight.com/jobs/55188) |
 | [CDW Corporation](https://internscout.org/internships/at/cdw-corporation/) | 2027 Sales Internship - Tampa | Tampa - FL | \$19/hour | Nov 9 | [Apply](https://cdw.wd5.myworkdayjobs.com/careers/job/Tampa---FL/XMLNAME-2027-Sales-Internship---Tampa_R26_00002849) |
 | [CDW Corporation](https://internscout.org/internships/at/cdw-corporation/) | 2027 Sales Internship - Shelton | Shelton - CT | \$19/hour | Nov 9 | [Apply](https://cdw.wd5.myworkdayjobs.com/careers/job/Shelton---CT/XMLNAME-2027-Sales-Internship---Shelton_R26_00002848) |
@@ -203,7 +204,6 @@
 | Athene | Finance Summer 2027 Internship (Sales & Expense) | West Des Moines, Iowa |  | Nov 10 | [Apply](https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Finance-Summer-2027-Internship--Sales---Expense-_R255321) |
 | Evo | Evo Summer Sales Internship | Richmond, VA | \$3,000.00 - \$5,000.00 per month | Nov 10 | [Apply](https://www.indeed.com/viewjob?jk=802ab6e313e77c2b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Sales Administration - Marketing | Denton, TX |  | Nov 3 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Sales-Administration-Marketing-TX-76205-7864/1453616333/) |
-| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Sales and Use Tax | The Woodlands TX |  | Nov 3 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/The-Woodlands/Summer-2027-Intern--Sales-and-Use-Tax_R0020800-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
