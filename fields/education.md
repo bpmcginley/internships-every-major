@@ -1,6 +1,6 @@
 # Education: Summer 2027 Internships
 
-29 open Summer 2027 education roles, newest first (all 29). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 227 education internships on InternScout](https://internscout.org/internships/education/)
+31 open Summer 2027 education roles, newest first (all 31). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 259 education internships on InternScout](https://internscout.org/internships/education/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -27,6 +27,8 @@
 | [Strada Education Foundation](https://internscout.org/internships/at/strada-education-foundation/) | Strada Education Foundation Internship: Communication Intern | Indianapolis, Indiana +1 | \$22.75/hour | Oct 27 | [Apply](https://jobs.lever.co/stradaeducation/91b84789-7d6d-4009-a5a3-13bbf90dc7d4/apply) |
 | [University of Virginia](https://internscout.org/internships/at/university-of-virginia/) | Precollege Program Coordinator Intern (Student Wage) | Charlottesville, VA | \$18/hour | Oct 14 | [Apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Precollege-Program-Coordinator-Intern--Student-Wage-_R0088400) |
 | [University of Texas at Austin](https://internscout.org/internships/at/university-of-texas-at-austin/) | Sr. Student Associate, Collection Appraisal Intern | Austin, TX | \$16.00 per hour | Oct 12 | [Apply](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Sr-Student-Associate--Collection-Appraisal-Intern_R_00049286) |
+| Auburn University | Advancement Internship - Events & Experience | Auburn, AL | \$14.00/hour | Oct 9 | [Apply](https://jobs.auburn.edu/jobs/10541) |
+| Auburn University | Student Summer Intern - Alabama Extension | Auburn University, AL |  | Oct 5 | [Apply](https://jobs.auburn.edu/jobs/10556) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Leadership Instructional Design Internship | IRVINE, California | Paid | Sep 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36762) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Sales Instructional Design Internship | Caledonia, Michigan | Paid | Sep 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36655) |
 | [Compeer Financial](https://internscout.org/internships/at/compeer-financial/) | Intern Events & Education | MN-Mankato +4 | Paid | Sep 9 | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5420089008) |

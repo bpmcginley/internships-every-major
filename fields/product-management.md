@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Legrand](https://internscout.org/internships/at/legrand/) | Product Management Intern | Syracuse, NY |  | Nov 10 | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1837) |
 | [DreamWorks Animation](https://internscout.org/internships/at/dreamworks-animation/) | Streaming Platforms – Product Management Intern | NYC |  | Nov 9 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160661249) |
 | [Scout Motors](https://internscout.org/internships/at/scout-motors/) | Digital Products Intern | Charlotte, NC |  | Nov 9 | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5287137007) |
 | Pyrotek | Product Management Intern | Spokane, WA |  | Nov 9 | [Apply](https://jobs.smartrecruiters.com/Pyrotek3/744000160635163) |
@@ -68,9 +69,9 @@
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Product Management Intern - Summer 2027 | Downers Grove, IL | \$20.00 - \$25.00 per hour | Oct 19 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065) |
 | Propio | Product Manager Intern | Overland Park, KS |  | Oct 15 | [Apply](https://go.vansh.nyc/gi) |
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Program Management Intern - Summer 2027 (For SNC Summer 2026 Interns Only) | Lone Tree, CO |  | Oct 15 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Program-Management-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031093) |
-| [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Terawave Product Management Intern - MBA | Kent, WA |  | Oct 15 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Kent-WA/Summer-2027-Terawave-Product-Management-Internship---MBA_R74200) |
+| [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Terawave Product Management Internship - MBA | Kent, WA | \$50.00 | Oct 15 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Kent-WA/Summer-2027-Terawave-Product-Management-Internship---MBA_R74200) |
 | [Allied Solutions](https://internscout.org/internships/at/allied-solutions/) | Product Management Intern - Risk Management | St. Paul, MN +1 | \$16 to \$22 | Oct 15 | [Apply](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083) |
-| [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | EMG Program Manager Intern IS \| Summer 2027 | Deer Park, TX |  | Oct 14 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166908) |
+| [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | EMG Program Manager Intern IS \| Summer 2027 | Deer Park, TX | \$20/hour | Oct 14 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166908) |
 | [Saab](https://internscout.org/internships/at/saab/) | Program Management Co-Op (Summer 2027) | East Syracuse, NY (Aspen Park) | \$18.24 - \$20.27/hr | Oct 14 | [Apply](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Aspen-Park/Program-Management-Co-Op--Summer-2027-_R-03330-1) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Intern - Product Management, Vehicle Autonomy (MS or MBA) | Sunnyvale, California, United States of America +1 |  | Oct 14 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | GF Labs Research Program Management Intern (Summer 2027) | USA - New York - Malta |  | Oct 14 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/GF-Labs-Research-Program-Management-Intern--Summer-2027-_JR-2604430) |
@@ -80,7 +81,6 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Creative Product Manager Intern - Multiple Teams | San Jose, CA |  | Oct 9 | [Apply](https://lifeattiktok.com/search/7693732178706974981) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Energy Storage Product Management Intern (Summer 2027) | Delaware, OH |  | Oct 9 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279379) |
 | Viget | Project & Product Manager Intern | Boulder, CO |  | Oct 8 | [Apply](https://go.vansh.nyc/g9) |
-| [Electronic Arts](https://internscout.org/internships/at/electronic-arts/) | Product Management Intern | Austin, TX |  | Oct 6 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182) |
 | [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Platform Solutions Product Management Intern | Cary, NC |  | Oct 6 | [Apply](https://go.vansh.nyc/Fu) |
 | Mohawk | Product Management Intern | Calhoun, GA |  | Oct 5 | [Apply](https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors) |
 | Koch Industries | Product Management Intern | Eden Prairie, MN +1 |  | Oct 3 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/195099) |

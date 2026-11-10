@@ -1,12 +1,13 @@
 # Insurance: Summer 2027 Internships
 
-105 open Summer 2027 insurance roles, newest first (all 105). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 195 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+105 open Summer 2027 insurance roles, newest first (all 105). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 194 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Chubb](https://internscout.org/internships/at/chubb/) | Actuarial Intern | Chicago, IL | \$24 to \$26 per hour | Nov 9 | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38492) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Commercial Lines Underwriting Internship - Summer 2027 | Little Rock, AR | \$18.00 per hour | Nov 9 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Little-Rock-AR/Commercial-Lines-Underwriting-Internship---Summer-2027_R_14898) |
 | Markel Group, Inc. | Actuarial Intern | Richmond, VA +1 | \$24-\$28.50/hr | Nov 9 | [Apply](https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Richmond-VA/Actuarial-Intern_R0023907) |
+| [Selective Insurance](https://internscout.org/internships/at/selective-insurance/) | Actuarial - Commercial Lines, Personal Lines, and Loss Reserving Summer Internships - Short Hills, NJ (Hybrid) | Short Hills, New Jersey | \$22.00 | Nov 6 | [Apply](https://jobs.selective.com/jobs/5756) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Insurance Policy Research Intern | New York, NY +1 | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6053/summer-2027-insurance-policy-research-intern/job) |
 | [Baldwin Group](https://internscout.org/internships/at/baldwin-group/) | Underwriting Intern, MSI | Hallandale Beach, Florida, US | Paid | Nov 5 | [Apply](https://baldwin.wd1.myworkdayjobs.com/Baldwin/job/Hallandale-Beach-Florida-US/Underwriting-Intern--MSI_JR110197-1) |
 | MSI | Underwriting Intern, MSI | Hallandale Beach, Florida, US | Paid | Nov 5 | [Apply](https://baldwin.wd1.myworkdayjobs.com/MSI/job/Hallandale-Beach-Florida-US/Underwriting-Intern--MSI_JR110197) |
@@ -28,7 +29,6 @@
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Underwriting Internship - Summer 2027 | Draper, UT | \$22.00 per hour | Oct 22 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Draper-UT/Underwriting-Internship---Summer-2027_R_14460) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Underwriting Internship - Summer 2027 | Pittsburgh, PA | \$21.00 per hour | Oct 22 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Pittsburgh-PA/Underwriting-Internship---Summer-2027_R_14384) |
 | [Definity Financial](https://internscout.org/internships/at/definity-financial/) | Actuarial Analyst - Summer 2027 Co-op/Intern | Waterloo, ONT, Canada | Paid | Oct 21 | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9445) |
-| [Aon](https://internscout.org/internships/at/aon/) | Early Careers: Retirement Actuarial Intern | Dallas, Texas | \$25.00 - \$35.00 hour | Oct 21 | [Apply](https://jobs.aon.com/jobs/105687) |
 | Revantage Corporate Services | Insurance & Alternative Solutions Intern, Summer 2027 | Dallas, TX | \$25.00 To \$25.00 Hour | Oct 21 | [Apply](https://revantage.wd1.myworkdayjobs.com/Revantage/job/Dallas-TX/Insurance---Alternative-Solutions-Intern--Summer-2027_JR104457) |
 | [Everest](https://internscout.org/internships/at/everest/) | 2027 Underwriter Summer Internship Program | Warren, NJ +2 | \$800 - \$1,000 per week | Oct 21 | [Apply](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Underwriter-Summer-Internship-Program_R7400) |
 | [Everest](https://internscout.org/internships/at/everest/) | 2027 Everest Actuarial Internship Program | Warren, NJ | \$900 - 1,000 per week | Oct 21 | [Apply](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Everest-Actuarial-Internship-Program_R7399) |

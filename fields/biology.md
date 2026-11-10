@@ -1,9 +1,10 @@
 # Biology: Summer 2027 Internships
 
-27 open Summer 2027 biology roles, newest first (all 27). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 722 biology internships on InternScout](https://internscout.org/internships/biology/)
+28 open Summer 2027 biology roles, newest first (all 28). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 708 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Roche | Assay Bioinformatics Intern, CSI | Pleasanton, CA |  | Nov 9 | [Apply](https://go.vansh.nyc/1qi) |
 | [Vizient](https://internscout.org/internships/at/vizient/) | Summer 2027 Internship - Life Sciences Solutions Market Research | Chicago, IL 60607 | \$25 per hour | Nov 9 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Summer-2027-Internship---Life-Sciences-Solutions-Market-Research_36152R) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship – Applied Biological Sciences | Laurel, Maryland | \$22.60 Hour | Nov 5 | [Apply](https://careers.jhuapl.edu/jobs/60594) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Undergrad Clinical Immunology Intern (Summer 2027) | US - California - Thousand Oaks | Paid | Nov 5 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Undergrad-Clinical-Immunology-Intern--Summer-2027-_R-259640) |

@@ -1,9 +1,12 @@
 # Law and Legal: Summer 2027 Internships
 
-131 open Summer 2027 law and legal roles, newest first (all 131). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 271 law and legal internships on InternScout](https://internscout.org/internships/law/)
+134 open Summer 2027 law and legal roles, newest first (all 134). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 276 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Royal Caribbean Group](https://internscout.org/internships/at/royal-caribbean-group/) | Intern, Maritime Safety + Environmental Compliance (Summer 2027) | Miami, FL |  | Nov 10 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miami-Intern%2C-Maritime-Safety-%2B-Environmental-Compliance-%28Summer-2027%29-FL-33132/1449347100/) |
+| [The Travelers Companies](https://internscout.org/internships/at/the-travelers-companies/) | Legal Intern | NJ - Morristown | \$36.00 - \$37.00 | Nov 10 | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/NJ---Morristown/Legal-Intern_R-53701) |
+| [DP World](https://internscout.org/internships/at/dp-world/) | Legal Intern | Charlotte, NC |  | Nov 10 | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27980) |
 | [Trimble](https://internscout.org/internships/at/trimble/) | PX Compliance Intern | US - CO | \$19.62–\$29.47 | Nov 9 | [Apply](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/PX-Compliance-Intern_R58108) |
 | [Apple Bank](https://internscout.org/internships/at/apple-bank/) | 2027 Summer Intern - Compliance | New York, NY | \$24/hr | Nov 9 | [Apply](https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern---Compliance_2026-1455) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Field Compliance Intern - Summer 2027 | Norwell, MA | Paid | Nov 9 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168516) |

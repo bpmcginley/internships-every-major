@@ -1,9 +1,10 @@
 # Accounting: Summer 2027 Internships
 
-221 open Summer 2027 accounting roles, newest first (the 200 newest of 221). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 495 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+220 open Summer 2027 accounting roles, newest first (the 200 newest of 220). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 489 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [EisnerAmper](https://internscout.org/internships/at/eisneramper/) | 2027 Assurance Summer Intern - Real Estate | New York |  | Nov 10 | [Apply](https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/New-York/XMLNAME-2027-Assurance-Summer-Intern---Real-Estate_Req-9647) |
 | [EisnerAmper](https://internscout.org/internships/at/eisneramper/) | 2027 Assurance Summer Intern | Philadelphia |  | Nov 9 | [Apply](https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/Philadelphia/XMLNAME-2027-Assurance-Summer-Intern_Req-8511) |
 | Fiserv | 2027 Finance & Accounting Internship - Alpharetta | Alpharetta, Georgia | Paid | Nov 9 | [Apply](https://fiserv.wd5.myworkdayjobs.com/EXT/job/Alpharetta-Georgia/XMLNAME-2027-Finance---Accounting-Internship---Alpharetta_R-10403556) |
 | [CareSource](https://internscout.org/internships/at/caresource/) | 2027 Summer Internship Program - Internal Audit | Remote | \$41,200.00 - \$66,000.00 | Nov 9 | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Internal-Audit_R14355) |
@@ -160,7 +161,6 @@
 | [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Real Property Tax | Chicago | \$23.70 - \$27.50 | Oct 24 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Chicago/Summer-2027-Intern--Real-Property-Tax_R0020748-2) |
 | [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Sales and Use Tax | Austin TX |  | Oct 24 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Austin/Summer-2027-Intern--Sales-and-Use-Tax_R0020799-1) |
 | [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Real Property Tax | Minneapolis | \$22.60 - \$26.30 | Oct 24 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Minneapolis/Summer-2027-Intern--Real-Property-Tax_R0020751-1) |
-| [DuCharme, McMillen & Associates](https://internscout.org/internships/at/ducharme-mcmillen-associates/) | Transaction Tax Intern - Summer 2027 | Houston, TX |  | Oct 24 | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Houston-TX/Transaction-Tax-Intern---Summer-2027_REQ630) |
 | [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Real Property Tax | San Antonio |  | Oct 24 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/San-Antonio/Summer-2027-Intern--Real-Property-Tax_R0020738) |
 | [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Severance Tax Consulting Intern - Houston, TX | Houston | Paid | Oct 24 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Houston/Summer-2025-Tax-Consulting-Intern---Houston--TX_R0015214-2) |
 | [Cerity Partners](https://internscout.org/internships/at/cerity-partners/) | Summer 2027 Tax Intern | Cincinnati, OH | Paid | Oct 24 | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Cincinnati-OH/Summer-2027-Tax-Intern_R835-1) |
@@ -169,7 +169,6 @@
 | [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, State Income/Franchise Tax | Austin TX |  | Oct 24 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Austin/Summer-2027-Intern--State-Income-Franchise-Tax_R0020729) |
 | [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Complex Property Tax | Austin |  | Oct 24 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Austin/Summer-2027-Intern--Complex-Property-Tax_R0020764) |
 | [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Real Property Tax | Washington | \$23.70 - \$27.50 | Oct 24 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Washington/Summer-2027-Intern--Real-Property-Tax_R0020756-1) |
-| [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Accounts Payable | Overland Park, KS |  | Oct 24 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Summer-2027-Internship--Accounts-Payable_R2026-2016) |
 | [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Complex Property Tax | Houston |  | Oct 24 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Houston/Summer-2027-Intern--Complex-Property-Tax_R0020763-1) |
 | [DuCharme, McMillen & Associates](https://internscout.org/internships/at/ducharme-mcmillen-associates/) | Transaction Tax Intern - Summer 2027 | Phoenix, AZ |  | Oct 24 | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Phoenix-AZ/Transaction-Tax-Intern---Summer-2027_REQ660) |
 | [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, R&E Tax Credits | Washington DC |  | Oct 24 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Washington/Summer-2027-Intern--R-E-Tax-Credits_R0020727) |
@@ -204,6 +203,7 @@
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Sacramento - Tax JD - Intern - Summer 2027 | CA-Sacramento | \$29.25 - \$48.00 | Sep 18 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/CA-Sacramento/Sacramento---Tax-JD---Intern---Summer-2027_6122615EIB-1) |
 | [Newrez](https://internscout.org/internships/at/newrez/) | 2027 Summer Internship – Internal Audit | PA, Fort Washington |  | Sep 18 | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/PA-Fort-Washington/XMLNAME-2027-Summer-Internship---Internal-Audit_R10373) |
 | [Land O'Lakes](https://internscout.org/internships/at/land-o-lakes/) | Accounting Intern | Arden Hills, MN (USA) | Paid | Sep 18 | [Apply](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Arden-Hills-MN-USA/Accounting-Intern_R-40502) |
+| [DuCharme, McMillen & Associates](https://internscout.org/internships/at/ducharme-mcmillen-associates/) | Transaction Tax Intern - Summer 2027 | Houston, TX |  | Sep 18 | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Houston-TX/Transaction-Tax-Intern---Summer-2027_REQ628) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

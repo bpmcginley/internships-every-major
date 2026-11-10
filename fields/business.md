@@ -1,6 +1,6 @@
 # Business: Summer 2027 Internships
 
-77 open Summer 2027 business roles, newest first (all 77). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 141 business internships on InternScout](https://internscout.org/internships/business/)
+78 open Summer 2027 business roles, newest first (all 78). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 143 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | Force Factor | Summer 2027 MBA Internship | Boston, MA. +1 |  | Sep 17 | [Apply](https://forcefactor.com/pages/job-openings?gh_jid=6199605004) |
 | [Citizens Financial Group](https://internscout.org/internships/at/citizens-financial-group/) | Business Insights Intern - Multiple Teams | Boston, MA +2 |  | Sep 11 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49279) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Commercial Business Solutions Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 9 | [Apply](https://jobs.constellationenergy.com/jobs/138773) |
+| [Selective Insurance](https://internscout.org/internships/at/selective-insurance/) | Commercial Lines Product Summer Internship – Short Hills, NJ or Hartford, CT (Hybrid) | Short Hills, New Jersey +3 | \$22.00 | Sep 8 | [Apply](https://jobs.selective.com/jobs/5709) |
 | AlixPartners | Turnaround & Restructuring - MBA Intern | United States | \$35,000 | Sep 1 | [Apply](https://www.alixpartners.com/careers/7810004003?gh_jid=7810004003) |
 | AlixPartners | Strategy & Analysis - MBA Intern | United States | \$35,000 | Sep 1 | [Apply](https://www.alixpartners.com/careers/7809994003?gh_jid=7809994003) |
 | [DTCC](https://internscout.org/internships/at/dtcc/) | Business Systems Intern \[2027 Intern Program\] | Jersey City, NJ +2 | Paid | Aug 25 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214472) |

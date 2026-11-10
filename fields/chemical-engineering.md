@@ -1,6 +1,6 @@
 # Chemical Engineering: Summer 2027 Internships
 
-68 open Summer 2027 chemical engineering roles, newest first (all 68). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 160 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+67 open Summer 2027 chemical engineering roles, newest first (all 67). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 159 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -31,7 +31,6 @@
 | [Stantec](https://internscout.org/internships/at/stantec/) | Process Engineering Intern – Energy & Resources (Summer 2027) | Bakersfield, CA |  | Oct 20 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008254) |
 | [Skydio](https://internscout.org/internships/at/skydio/) | Process Engineering Intern - Summer 2027 | Hayward, California, United States +2 | \$47/hr | Oct 14 | [Apply](https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b/application) |
 | [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Process Engineer (Summer 2027) | Neenah, WI | \$23 - \$27/hr | Oct 14 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Process-Engineer--Summer-2027-_R040037-1) |
-| [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Chemical Engineer Intern - Summer 2027 | Wichita, KS |  | Oct 12 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166791) |
 | Plastipak | Process Engineer (Engineering) Intern – Summer 2027 | Clean Tech - Dundee, MI |  | Oct 12 | [Apply](https://plastipak.wd1.myworkdayjobs.com/Plastipak/job/Clean-Tech---Dundee-MI/Process-Engineer--Engineering--Intern---Summer-2027_REQ24690) |
 | [Solar Turbines](https://internscout.org/internships/at/solar-turbines/) | 2027 Material & Process Engineering, Summer Intern | San Diego, California | \$26.00 - \$43.00 | Oct 12 | [Apply](https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-Gas-Turbine-Product-Engineering--Summer-Intern_R0000382212) |
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-op - Midstream Natural Gas and NGL Services Chemical/Mechanical/Civil/Petroleum/Electrical Engineering (Summe… | Canonsburg, Pennsylvania +12 | \$33.54 per hour | Oct 12 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Canonsburg-Pennsylvania/Intern-Co-op---Midstream-Natural-Gas-and-NGL-Services-Chemical-Mechanical-Civil-Petroleum-Electrical-Engineering--Summer-2027-_00024214) |

@@ -1,9 +1,10 @@
 # Civil Engineering: Summer 2027 Internships
 
-341 open Summer 2027 civil engineering roles, newest first (the 200 newest of 341). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 656 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+338 open Summer 2027 civil engineering roles, newest first (the 200 newest of 338). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 652 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [STV](https://internscout.org/internships/at/stv/) | Traffic Engineering Intern - Summer 2027 | Austin, Texas +1 | \$47,959.00 - \$54,498.00 | Nov 10 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Austin-Texas/Traffic-Engineering-Intern---Summer-2027_JR6402) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors - Construction Representative Intern (Summer 2027) | Hartford, Connecticut | \$37.03 | Nov 9 | [Apply](https://careers.cdmsmith.com/jobs/4962) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Structural Engineering Intern - Summer 2027 | Goshen, NY | \$24.76- \$32.22 | Nov 9 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98934) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Structural Engineering Intern - Summer 2027 | Valhalla, NY | \$24.76- \$32.22 | Nov 9 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98940) |
@@ -80,7 +81,6 @@
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering Intern - Summer 2027 | New York, NY |  | Oct 20 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97954) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Civil Engineering Intern | Richmond, Virginia | \$20.00 | Oct 19 | [Apply](https://careers.trccompanies.com/jobs/27129) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering Intern- Summer 2027 | San Francisco, CA |  | Oct 19 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97889) |
-| [STV](https://internscout.org/internships/at/stv/) | Traffic Engineering Intern - Summer 2027 | Austin, Texas +1 | \$47,959.00 - \$54,498.00 | Oct 19 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Austin-Texas/Traffic-Engineering-Intern---Summer-2027_JR6402) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Structural Engineering Intern- Summer 2027 | Austin, TX |  | Oct 19 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97807) |
 | [Creative Artists Agency](https://internscout.org/internships/at/creative-artists-agency/) | CAA ICON Owner’s Representative / Construction Project Management Intern – Summer 2027 (San Jose, CA) | San Jose, CA | \$19.84 - \$33.00 | Oct 19 | [Apply](https://caa.wd1.myworkdayjobs.com/Careers/job/San-Jose-CA/CAA-ICON-Owner-s-Representative---Construction-Project-Management-Intern---Summer-2027--San-Jose--CA-_JR9396-1) |
 | [Creative Artists Agency](https://internscout.org/internships/at/creative-artists-agency/) | CAA ICON Owner’s Representative / Construction Project Management Intern – Summer 2027 (Oklahoma City, OK) | Oklahoma City, OK | \$19.84 - \$33.00 | Oct 19 | [Apply](https://caa.wd1.myworkdayjobs.com/Careers/job/Oklahoma-City-OK/CAA-ICON-Owner-s-Representative---Construction-Project-Management-Intern---Summer-2027--Oklahoma-City--OK-_JR9393-1) |
@@ -192,7 +192,6 @@
 | [Tighe & Bond](https://internscout.org/internships/at/tighe-bond/) | Civil Engineering Internship - Site Design - Summer 2027 | Worcester, MA | \$21.00 | Sep 9 | [Apply](https://careers-tighebond.icims.com/jobs/1842/civil-engineering-internship---site-design---summer-2027/job) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Construction Intern, Summer 2027 | Madison, WI +1 |  | Sep 9 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309859) |
 | [Tighe & Bond](https://internscout.org/internships/at/tighe-bond/) | Civil Engineering Internship - Site Design - Summer 2027 | Providence, RI | \$21.00 | Sep 9 | [Apply](https://careers-tighebond.icims.com/jobs/1844/civil-engineering-internship---site-design---summer-2027/job) |
-| [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering Intern - Summer 2027 | Fort Worth, TX |  | Sep 7 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94212) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Geotechnical Engineering Intern (Summer 2027!) | Dallas, Texas | \$40.11 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4404) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Structural Engineering Intern (Summer 2027!) | Pittsburgh, Pennsylvania | \$42.02 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4383) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Structural Engineering Intern (Bridge Design, Summer 2027!) | Knoxville, Tennessee | \$40.11 | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/4349) |
@@ -204,6 +203,7 @@
 | [Olsson](https://internscout.org/internships/at/olsson/) | Civil Engineering Internship - Data Centers Site Design | Omaha, NE |  | Sep 2 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5408688008) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Civil Engineering | Los Angeles, CA | \$30–\$40 per hour | Sep 2 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377122008) |
 | [Haskell](https://internscout.org/internships/at/haskell/) | Summer 2027 Construction Intern | Jacksonville, Florida |  | Sep 2 | [Apply](https://haskell.jibeapply.com/jobs/7053) |
+| [Ruekert & Mielke](https://internscout.org/internships/at/ruekert-mielke/) | Survey Student Intern (Summer 2027) | Waukesha, Wisconsin |  | Sep 2 | [Apply](https://ruekertmielke.bamboohr.com/careers/311) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

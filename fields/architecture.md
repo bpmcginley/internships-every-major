@@ -1,6 +1,6 @@
 # Architecture: Summer 2027 Internships
 
-56 open Summer 2027 architecture roles, newest first (all 56). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 137 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+57 open Summer 2027 architecture roles, newest first (all 57). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 139 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Tenstorrent](https://internscout.org/internships/at/tenstorrent/) | Systems Intern, Validation, Software, Design, Architecture & Packaging | Austin, TX +1 |  | Oct 14 | [Apply](https://go.vansh.nyc/gg) |
 | [STV](https://internscout.org/internships/at/stv/) | Architecture Intern - Summer 2027 | Vermont Avenue, Washington, District of Columbia | \$54,810.00 - \$62,284.00 | Oct 14 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Vermont-Avenue-Washington-District-of-Columbia/Architecture-Intern---Summer-2027_JR6256) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern-Naval Architecture Engineering | Pascagoula, Mississippi |  | Oct 14 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-NAVAL-ARCHITECTURE-ENGINEERING-Miss/1430055600/) |
+| [Tenstorrent](https://internscout.org/internships/at/tenstorrent/) | Hardware Intern, Architecture, AI HW & SoC | Austin, TX +3 |  | Oct 9 | [Apply](https://go.vansh.nyc/1qf) |
 | [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Design Architecture Engineer Intern | San Jose, CA |  | Oct 6 | [Apply](https://go.vansh.nyc/Fe) |
 | [Micron Technology](https://internscout.org/internships/at/micron-technology/) | Next-Generation HBM Architecture Intern | Folsom, CA |  | Oct 5 | [Apply](https://go.vansh.nyc/EH) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Electrical Engineering Intern – Product Architecture (Summer 2027) | Delaware, OH |  | Oct 2 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281025) |
@@ -47,8 +48,8 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - TikTok Search Architecture | San Jose, CA |  | Aug 20 | [Apply](https://lifeattiktok.com/search/7675517686256863541) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Software Engineer Intern - Global Traffic Architecture | San Jose, CA |  | Aug 15 | [Apply](https://jobs.bytedance.com/en/position/7672557061679483189/detail) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Research Engineer Intern - Agentic Systems & AI Infrastructure - Generalized Architecture | Seattle, WA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7667934792727906565) |
-| [TikTok](https://internscout.org/internships/at/tiktok/) | Artificial Intelligence Engineer Intern - Client Architecture | San Jose, CA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7667935738190465285) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Data Architecture - E-commerce | Seattle, WA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7668582146236631349) |
+| [HNTB](https://internscout.org/internships/at/hntb/) | Landscape Architect Intern - Summer 2027 | Kansas City, MO +4 |  | Nov 10 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Kansas-City-MO/Landscape-Architect-Intern---Summer-2027_R-31364) |
 | [Marriott Vacations Worldwide](https://internscout.org/internships/at/marriott-vacations-worldwide/) | Corporate Intern- Architecture & Construction | MVW Headquarters, FL | \$18.50 | Nov 3 | [Apply](https://mymvw.wd5.myworkdayjobs.com/mvw/job/MVW-Headquarters/Corporate-Intern--Architecture---Construction_JR94340) |
 | [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Landscape Architecture Intern \| Boston, MA | Boston, MA +1 | \$22.50-\$24.50 per hour | Oct 24 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Boston-MA/Landscape-Architecture-Intern---Boston--MA_R-16617) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Architecture Intern, MS - Summer 2027 | Burlington, VT | Paid | Sep 29 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Architecture-Intern--MS---Summer-2027_2604613-1) |

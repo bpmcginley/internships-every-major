@@ -1,6 +1,6 @@
 # Urban Planning: Summer 2027 Internships
 
-58 open Summer 2027 urban planning roles, newest first (all 58). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 117 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+59 open Summer 2027 urban planning roles, newest first (all 59). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 115 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [HNTB](https://internscout.org/internships/at/hntb/) | Community Engagement and Planning Intern – Summer 2027 | Boston, MA |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Boston-MA/Community-Engagement-and-Planning-Intern---Summer-2027_R-31583) |
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Transportation Planning Intern - Summer 2027 | US.FL.Orlando.482 S Keller Rd | \$ 25 - \$ 31 hour | Oct 24 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USFLOrlando482-S-Keller-Rd/Transportation-Planning-Intern---Summer-2027_R-161780) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Transportation Planning Intern - Summer 2027 | Philadelphia, PA (Pennsylvania) |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Philadelphia-PA-Pennsylvania/Transportation-Planning-Intern---Summer-2027_R-31651) |
+| [HNTB](https://internscout.org/internships/at/hntb/) | Urban Design & Planning Intern | Dallas, TX |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Dallas-TX/Urban-Design---Planning-Intern_R-31479) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | GIS Intern - Summer 2027 | Nashville, TN (City Center) +1 |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Nashville-TN-City-Center/GIS-Intern---Summer-2027_R-31562-2) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Transit Planning Intern (Summer 2027) | Houston, TX (Fannin) |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Houston-TX-Fannin/Transit-Planning-Intern--Summer-2027-_R-31473) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Transportation Planning Intern – Summer 2027 | New York, NY |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/New-York-NY/Transportation-Planning-Intern---Summer-2027_R-31830-1) |

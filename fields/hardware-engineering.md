@@ -1,9 +1,10 @@
 # Hardware Engineering: Summer 2027 Internships
 
-327 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 327). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 843 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+327 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 327). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 844 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| EquipmentShare | Engineering Intern - Embedded | Columbia, MO |  | Nov 10 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8371896) |
 | Intuitive Surgical | Robotics and Controls Engineer Intern | Sunnyvale, CA |  | Nov 10 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000160747319) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Design Verification Engineer Intern (Summer 2027) | USA - Texas - Richardson +1 |  | Nov 10 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Design-Verification-Engineer-Intern--Summer-2027-_JR-2604022) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Device Engineering Intern, Silicon Photonics (Summer 2027) | USA - New York - Malta +1 |  | Nov 10 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604261) |
@@ -38,10 +39,9 @@
 | [Symbotic](https://internscout.org/internships/at/symbotic/) | Intern- PhD Applied Scientist, Robotics Planning | USA Wilmington, MA - HQ | \$52.00 - \$54.00 | Nov 4 | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/PhD-Applied-Scientist--Routing_R7966) |
 | [Smith+Nephew](https://internscout.org/internships/at/smith-nephew/) | Intern Robotics Software Engineering | US - Pittsburgh, PA +1 |  | Nov 4 | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | Hardware Engineering Intern | Westford, MA |  | Nov 3 | [Apply](https://go.vansh.nyc/1ed) |
-| [Micron Technology](https://internscout.org/internships/at/micron-technology/) | Data Center SSD Firmware Intern | Longmont, CO |  | Nov 3 | [Apply](https://go.vansh.nyc/1d3) |
 | [Micron Technology](https://internscout.org/internships/at/micron-technology/) | SSD Firmware Intern, CICD | Longmont, CO |  | Nov 3 | [Apply](https://go.vansh.nyc/1d7) |
-| [Micron Technology](https://internscout.org/internships/at/micron-technology/) | Firmware Engineer Intern | Longmont, CO |  | Nov 3 | [Apply](https://go.vansh.nyc/1d4) |
 | [Allegion](https://internscout.org/internships/at/allegion/) | Firmware Engineer Intern, Advanced Development | Indianapolis, IN |  | Nov 3 | [Apply](https://go.vansh.nyc/1c1) |
+| [Atoms](https://internscout.org/internships/at/atoms/) | Robotics Software Engineer Intern | Pittsburgh, PA |  | Nov 3 | [Apply](https://go.vansh.nyc/1qg) |
 | [General Dynamics Mission Systems](https://internscout.org/internships/at/general-dynamics-mission-systems/) | Electrical Engineering Intern, FPGA | Middletown, RI |  | Nov 3 | [Apply](https://go.vansh.nyc/1hW) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Hardware Signal Integrity Intern | Santa Clara, CA |  | Nov 3 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Hardware-Signal-Integrity-Intern--MS---Summer-2027_2603877) |
 | [Trimble](https://internscout.org/internships/at/trimble/) | Hardware/Software Testing Intern | US - CO +7 |  | Nov 3 | [Apply](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1) |
@@ -156,6 +156,7 @@
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | ASIC Intern | Sunnyvale, CA |  | Oct 12 | [Apply](https://go.vansh.nyc/GQ) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | VLSI Logic Design Intern | Chippewa Falls, WI +1 |  | Oct 12 | [Apply](https://go.vansh.nyc/GR) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Controls, Automation & Embedded Software Intern | Palo Alto, CA |  | Oct 9 | [Apply](https://go.vansh.nyc/Hh) |
+| [Tenstorrent](https://internscout.org/internships/at/tenstorrent/) | Hardware Intern, Architecture, AI HW & SoC | Austin, TX +3 |  | Oct 9 | [Apply](https://go.vansh.nyc/1qf) |
 | [Aptiv](https://internscout.org/internships/at/aptiv/) | Embedded Software Engineer Intern | Walnut Creek, CA |  | Oct 9 | [Apply](https://go.vansh.nyc/Ge) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Electrical Hardware, Design & Test - Summer 2027 Internships | Irvine, California +2 | \$33.00-51.00 per hour | Oct 9 | [Apply](https://careers.rivian.com/jobs/34307) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Controls, Automation & Embedded Software - Summer 2027 Internships | Palo Alto, California +1 | \$33.00-51.00 per hour | Oct 9 | [Apply](https://careers.rivian.com/jobs/34310) |
@@ -203,7 +204,6 @@
 | Two Sigma | Hardware Engineering Intern | NYC +1 |  | Sep 22 | [Apply](https://twosigma.avature.net/careers/JobDetail/14289) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Analog Layout Intern - BS | Irvine, CA +1 |  | Sep 22 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Analog-Layout-Intern--BS---Summer-2027_2604735) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Embedded Engineering Internship - Summer 2027 | San Diego, CA +2 |  | Sep 21 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720737089) |
-| [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Hardware (CPU, GPU, SoC, Digital Design, DV) Engineering Internship – Summer 2027 | San Diego, CA +4 |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720740649) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

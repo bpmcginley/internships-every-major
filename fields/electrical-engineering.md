@@ -1,9 +1,10 @@
 # Electrical Engineering: Summer 2027 Internships
 
-246 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 246). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 577 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+245 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 245). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 575 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [RTX](https://internscout.org/internships/at/rtx/) | Component Electrical Test Engineer Intern (Summer 2027)(Onsite) | El Segundo, CA | Paid | Nov 10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Component-Electrical-Test-Engineer-Intern--Summer-2027--Onsite-_01885779) |
 | [Pivotal Software](https://internscout.org/internships/at/pivotal-software/) | Internship, Electrical Engineering (Summer 2027) | Palo Alto, CA |  | Nov 9 | [Apply](https://jobs.lever.co/pivotal/442a0450-f911-4ac1-a112-03374217f7fb/apply) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Electrical Engineering Intern, FPGA | Melbourne, FL |  | Nov 9 | [Apply](https://go.vansh.nyc/1ow) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Electrical Engineering Internship, FPGA | Melbourne, FL |  | Nov 9 | [Apply](https://jobs.lever.co/CesiumAstro/fc86b32c-9320-4da0-80ae-18f02bc37316/apply) |
@@ -90,7 +91,6 @@
 | [Lawrence Livermore National Laboratory (LLNL)](https://internscout.org/internships/at/lawrence-livermore-national-laboratory-llnl/) | Power Systems Undergraduate Intern, Cyber and Critical Infrastructure | Livermore, CA |  | Oct 15 | [Apply](https://go.vansh.nyc/gj) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Electrical Engineering Intern - Everett, MA | Everett, Massachusetts | Paid | Oct 15 | [Apply](https://jobs.constellationenergy.com/jobs/140008) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Electrical Engineering (Substation) Intern - Summer 2027 | Saint Louis, MO |  | Oct 14 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97613) |
-| [Rockwell Automation](https://internscout.org/internships/at/rockwell-automation/) | Co-op, Electrical Engineer (June - Dec 2027) | Chelmsford, Massachusetts, United States +1 |  | Oct 14 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Chelmsford-Massachusetts-United-States/Co-op--Electrical-Engineer--June---Dec-2027-_R26-7706) |
 | [Motorola](https://internscout.org/internships/at/motorola/) | Electrical Engineer / PCB Designer Intern - Summer 2027 | Plantation, FL |  | Oct 14 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineer---PCB-Designer-Intern---Summer-2027_R69679) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern- Electrical Engineering | Pascagoula, Mississippi |  | Oct 14 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-ELECTRICAL-ENGINEERING-Miss/1430055000/) |
 | [Inversion Space](https://internscout.org/internships/at/inversion-space/) | RF Engineer - Summer Internship 2027 | Playa Vista, California, United States | Paid | Oct 13 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4743497005) |
@@ -153,7 +153,6 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Electrical Engineering Internship - Kennett Square, PA | Kennett Square, Pennsylvania | Paid | Sep 8 | [Apply](https://jobs.constellationenergy.com/jobs/58515) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Electrical Engineering Intern (Summer 2027!) | Fairfax, Virginia | \$46.23 | Sep 8 | [Apply](https://careers.cdmsmith.com/jobs/4433) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Electrical Engineering Intern (Small Utility) - Summer 2027 | Tyler, TX |  | Sep 8 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94384) |
-| [WSP](https://internscout.org/internships/at/wsp/) | Electrical Engineering Intern - Summer 2027 | Fort Worth, TX |  | Sep 7 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94207) |
 | [Fab2](https://internscout.org/internships/at/fab2/) | Electrical Engineer Intern | SF +1 |  | Sep 5 | [Apply](https://jobs.ashbyhq.com/fab2/aec19ef8-2257-4295-abc2-87afd05224ae/application?embed=true) |
 | [Solidigm](https://internscout.org/internships/at/solidigm/) | Hardware, Electrical Validation and Product Engineering Intern - Validation | Rancho Cordova, CA |  | Sep 5 | [Apply](https://jobs.smartrecruiters.com/Solidigm/744000147613779) |
 | [AMCA](https://internscout.org/internships/at/amca/) | Electrical Engineering Internship (Summer 2027) | El Segundo, CA | Paid | Sep 4 | [Apply](https://job-boards.greenhouse.io/amca/jobs/4396690009) |
@@ -204,6 +203,7 @@
 | [IMEG](https://internscout.org/internships/at/imeg/) | Electrical Engineering Intern \| Rogers, AR | Rogers, AR | Paid | Oct 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rogers-AR/Electrical-Engineering-Intern---Rogers--AR_R-16498-1) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Intern Electrical and Mechanical/Fire Protection Engineering (Summer 2027) | Bellevue, WA (Seattle) |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Bellevue-WA-Seattle/Intern-Electrical-and-Mechanical-Fire-Protection-Engineering--Summer-2027-_R-31482) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Electrical Engineering Intern \| Seattle, WA | Seattle, WA +1 | \$22-24 per hour | Oct 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Seattle-WA/Electrical-Engineering-Intern---Seattle--WA_R-16576) |
+| [IMEG](https://internscout.org/internships/at/imeg/) | Electrical Engineering Intern \| Anaheim, CA | Anaheim, CA | \$22.00 –\$24.00 per hour | Oct 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Anaheim-CA/Electrical-Engineering-Intern---Anaheim--CA_R-16750) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

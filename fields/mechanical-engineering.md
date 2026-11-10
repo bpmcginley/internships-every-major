@@ -1,9 +1,12 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-329 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 329). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 870 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+334 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 334). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 875 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Entegris](https://internscout.org/internships/at/entegris/) | Mechanical Engineering Intern | Billerica, MA | \$20-\$30/hour | Nov 10 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Mechanical-Engineering-Intern_REQ-15834) |
+| [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | Advanced Manufacturing Engineering Intern - The Toro Company | Bloomington, MN | \$22–\$28 | Nov 10 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Advanced-Manufacturing-Engineering-Intern---The-Toro-Company_JR17845) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Manufacturing Engineering Intern (Summer 2027) | Troy, OH | Paid | Nov 10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OH-TROY-101--101-Waco-St--WACO/Manufacturing-Engineering-Intern--Summer-2027-_01884905) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027) | USA - New York - Malta |  | Nov 10 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604598) |
 | [Pivotal Software](https://internscout.org/internships/at/pivotal-software/) | Internship, Mechanical Engineering (Summer 2027) | Palo Alto, CA |  | Nov 9 | [Apply](https://jobs.lever.co/pivotal/b7f01112-1ca4-47c4-bd34-c291206bd506/apply) |
 | [Pivotal Software](https://internscout.org/internships/at/pivotal-software/) | Manufacturing Engineering Internship (Summer 2027) | Palo Alto, CA |  | Nov 9 | [Apply](https://jobs.lever.co/pivotal/9aeda482-373d-4916-82a6-180748708ac2/apply) |
@@ -182,6 +185,7 @@
 | [Antares Nuclear](https://internscout.org/internships/at/antares-nuclear/) | Space Mechanical Design Engineering Intern - Summer 2027 | Los Angeles +1 |  | Sep 18 | [Apply](https://jobs.ashbyhq.com/Antares/7feb2782-3bdc-4efe-b459-9751db944f81/application) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Mechanical Engineering Internship – Summer 2027 | San Diego, CA +2 |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720741704) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Wallops Island, VA |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7996623003) |
+| [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Mechanical Engineering Intern Summer Opportunities (May-Aug 2027) | Needham, MA, United States | Paid | Sep 17 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713812006) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Middle River, MD |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7988835003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Mechanical Engineering Intern Summer 2027 | Silver Spring, MD |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989904003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Long Beach, CA |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984564003) |
@@ -200,10 +204,6 @@
 | [Garmin](https://internscout.org/internships/at/garmin/) | Mechanical Engineering Intern | Cary, North Carolina |  | Sep 10 | [Apply](https://careers.garmin.com/jobs/19911) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | Eagan, Minnesota | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36106) |
 | [Saronic](https://internscout.org/internships/at/saronic/) | Mechanical Engineer Intern (Summer 2027) | Austin, TX +1 |  | Sep 9 | [Apply](https://jobs.ashbyhq.com/saronic/f52ae6eb-7eba-4c64-97c7-57e2a234e088/application) |
-| [Saronic](https://internscout.org/internships/at/saronic/) | Manufacturing Engineer Intern (Summer 2027) | Franklin, LA +3 |  | Sep 9 | [Apply](https://jobs.ashbyhq.com/saronic/2b037fca-754c-4077-b224-eb35cf2b2b97/application) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Additive Manufacturing Intern Summer 2027 | Long Beach, CA | \$28.00 | Sep 9 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984600003) |
-| [Pacific Fusion](https://internscout.org/internships/at/pacific-fusion/) | Summer 2027 Internship- Mechanical Engineering | San Leandro, CA/Fremont, CA +1 | Paid | Sep 9 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4398312009) |
-| [Pacific Fusion](https://internscout.org/internships/at/pacific-fusion/) | Summer 2027 Internship-Manufacturing Engineering | San Leandro, CA - Fremont, CA - Los Lunas, NM | Paid | Sep 9 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4398388009) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
