@@ -1,6 +1,6 @@
 # Materials Science: Summer 2027 Internships
 
-15 open Summer 2027 materials science roles, newest first (all 15). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 36 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
+16 open Summer 2027 materials science roles, newest first (all 16). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 37 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Materials Engineering Intern | Sparks, Nevada |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51635) |
 | Helion Energy | Materials Engineering Summer 2027 Intern | Everett, WA |  | Sep 29 | [Apply](https://jobs.ashbyhq.com/helion/56636c72-2c72-4f4f-8334-3b233a235c8d/application) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Interns - Materials Engineer - Whitehall, MI (Summer 2027) | Whitehall, MI |  | Sep 29 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119675) |
+| [Formlabs](https://internscout.org/internships/at/formlabs/) | PhD Intern - Materials Science (Summer 2027) | Somerville, MA | \$1,500 | Sep 17 | [Apply](https://careers.formlabs.com/job/8212694/apply/?gh_jid=8212694) |
 | [Freeform](https://internscout.org/internships/at/freeform/) | Materials Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) +1 | \$30/hour | Aug 19 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003) |
 | [Kairos Power](https://internscout.org/internships/at/kairos-power/) | Chemical and Materials Engineering Internship - Summer 2027 | Alameda, CA +2 | Paid | Jul 22 | [Apply](https://job-boards.greenhouse.io/kairospower/jobs/6122803004) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Raw Materials Engineering Intern - Summer 2027 - Decherd, TN | Decherd, Tennessee - United States of America |  | Oct 8 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Raw-Materials-Engineering-Intern---Summer-2027---Decherd--TN_R00214290) |

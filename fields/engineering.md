@@ -1,14 +1,18 @@
 # Engineering: Summer 2027 Internships
 
-692 open Summer 2027 engineering roles, newest first (the 200 newest of 692). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 1,723 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+697 open Summer 2027 engineering roles, newest first (the 200 newest of 697). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 1,728 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Metasys](https://internscout.org/internships/at/metasys/) | DevSecOps Engineer Intern | Remote +2 |  | Nov 10 | [Apply](https://go.vansh.nyc/1r8) |
 | [Metasys](https://internscout.org/internships/at/metasys/) | MLOps Engineer Intern | Remote +2 |  | Nov 10 | [Apply](https://go.vansh.nyc/1r6) |
 | Renesas Electronics | Applications Engineering Intern | San Jose, CA |  | Nov 10 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000160890129) |
+| [National Information Solutions Cooperative (NISC)](https://internscout.org/internships/at/national-information-solutions-cooperative-nisc/) | Intern - Test Automation | Lake Saint Louis, MO |  | Nov 10 | [Apply](https://job-boards.greenhouse.io/nisc/jobs/8372340) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Metrology/CFM Equipment Engineering Intern (Summer 2027) | USA - Vermont - Essex Junction |  | Nov 10 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Metrology-CFM-Equipment-Engineering-Intern--Summer-2027-_JR-2604642) |
+| [Walmart](https://internscout.org/internships/at/walmart/) | Summer 2027 Intern: Automation Engineer | (USA) Change Building AR Bentonville Home Office | \$21.00 - \$40.00 | Nov 10 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Change-Building-AR-Bentonville-Home-Office/Summer-2027-Intern--Automation-Engineer_R-2630033) |
 | [Granite Construction](https://internscout.org/internships/at/granite-construction/) | Engineer Intern - Summer 2027 | The Dalles, Oregon | \$24.00 | Nov 10 | [Apply](https://granite.wd1.myworkdayjobs.com/careers/job/The-Dalles-Oregon/Engineer-Intern---Summer-2027_R0000008459) |
+| [Entegris](https://internscout.org/internships/at/entegris/) | Quality Engineering Intern | Franklin, MA | \$20-\$30/hour | Nov 10 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Franklin-MA/Quality-Engineering-Intern_REQ-15850) |
+| [Entegris](https://internscout.org/internships/at/entegris/) | New Product Introduction Engineering Intern | Colorado Springs, CO | \$20-\$30/hour | Nov 10 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Colorado-Springs-CO/New-Product-Introduction-Engineering-Intern_REQ-15880) |
 | [Entegris](https://internscout.org/internships/at/entegris/) | Equipment Engineering Intern | Billerica, MA | \$20-\$30/hour | Nov 10 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Equipment-Engineering-Intern_REQ-15883) |
 | [General Dynamics Mission Systems](https://internscout.org/internships/at/general-dynamics-mission-systems/) | Linux Automation Intern, Linux Integration and Test Engineer | San Antonio, TX |  | Nov 10 | [Apply](https://go.vansh.nyc/1qr) |
 | [ABB](https://internscout.org/internships/at/abb/) | Multiphysics & Engineering Intern- Summer 2027 | USA, NC +1 | \$20 - \$34 per hour | Nov 10 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Raleigh/Multiphysics---Engineering-Intern--Summer-2027_JR00048430) |
@@ -129,6 +133,7 @@
 | Loft Orbital | Summer 2027 Internship – Test Engineering | Golden, CO |  | Oct 27 | [Apply](https://jobs.lever.co/loftorbital/be396d08-738d-4f3d-bea4-cbbdc88c3db9/apply) |
 | [Mercor](https://internscout.org/internships/at/mercor/) | Research Engineer Intern, Benchmarking | San Francisco, CA |  | Oct 27 | [Apply](https://go.vansh.nyc/WT) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Database Engineer Intern | Seattle, WA +1 |  | Oct 27 | [Apply](https://amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027) |
+| ViaSat | Pointing and Tracking Engineer Intern | Duluth, GA |  | Oct 27 | [Apply](https://careers.viasat.com/jobs/6752?icims=1) |
 | Cboe Global Markets | Linux Engineer Intern | Chicago, IL +2 |  | Oct 27 | [Apply](https://go.vansh.nyc/W4) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Sensor Performance Engineer Intern | Mountain View, CA, USA +1 | Paid | Oct 27 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8319171) |
 | Amazon Development Center U.S., Inc. - B02 | Database Engineer Intern | Seattle, WA |  | Oct 27 | [Apply](https://go.vansh.nyc/Wb) |
@@ -199,11 +204,6 @@
 | [Aptiv](https://internscout.org/internships/at/aptiv/) | Linux Engineering Intern | Kanata, Canada |  | Oct 22 | [Apply](https://go.vansh.nyc/eM) |
 | [Ricoh](https://internscout.org/internships/at/ricoh/) | SW Engineer Intern | Boulder, CO |  | Oct 22 | [Apply](https://go.vansh.nyc/Vm) |
 | [Aptiv](https://internscout.org/internships/at/aptiv/) | HVP/Certification Engineer Intern | Kanata, Canada |  | Oct 22 | [Apply](https://go.vansh.nyc/f8) |
-| [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | 2027 Summer Engineering Intern | US - EARTH CITY (MOEAR) |  | Oct 22 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---EARTH-CITY-MOEAR/XMLNAME-2027-Summer-Engineering-Intern_R26039265) |
-| [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | 2027 Summer Engineering Intern | US - CHICAGO AREA CONSOLIDATION HUB (ILHOD) | \$16.00 - \$33.44 per hour | Oct 22 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---CHICAGO-AREA-CONSOLIDATION-HUB-ILHOD/XMLNAME-2027-Summer-Engineering-Intern_R26039037) |
-| [OATEY](https://internscout.org/internships/at/oatey/) | Design Engineering Intern | Shakopee, MN (Manufacturing) |  | Oct 22 | [Apply](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Shakopee-MN-Manufacturing/Design-Engineering-Intern_R7272) |
-| [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | PMO Engineering Intern – Summer 2027 | Towson, MD, United States | \$38,600.00 - \$62,200.00 | Oct 22 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/PMO-Engineering-Intern---Summer-2027_REQ-1000052705) |
-| [Westinghouse Electric Company](https://internscout.org/internships/at/westinghouse-electric-company/) | Summer Intern - Instrumentation and Controls Engineering | Hopkins, SC | \$25.40 to \$29.00 per hour | Oct 22 | [Apply](https://careers.westinghousenuclear.com/job/Hopkins-Summer-Intern-Instrumentation-and-Controls-Engineering-SC-29061/1442814300/) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

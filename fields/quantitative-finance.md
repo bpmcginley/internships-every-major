@@ -86,8 +86,8 @@
 | [Jane Street](https://internscout.org/internships/at/jane-street/) | Quantitative Trader Intern | New York, NY |  | Jul 24 | [Apply](https://go.vansh.nyc/3X) |
 | Radix Trading | Quantitative Technologist Intern, C++ | Chicago, IL |  | Jul 24 | [Apply](https://go.vansh.nyc/3R) |
 | Optiver | Institutional Trader Intern (2027 Start - Chicago) | Chicago, Illinois, United States +1 | \$45,000 | Jul 23 | [Apply](https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002) |
-| [Virtu](https://internscout.org/internships/at/virtu/) | 2027 Internship - Quantitative Researcher (PhD) | New York +1 | \$5,000 - \$5,800 week | Jul 22 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624424002) |
-| [Virtu](https://internscout.org/internships/at/virtu/) | 2027 Internship - Quantitative Trading | Austin, TX +5 | \$5,000 - \$5,800 week | Jul 21 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624408002) |
+| Virtu | 2027 Internship - Quantitative Researcher (PhD) | New York +1 | \$5,000 - \$5,800 week | Jul 22 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624424002) |
+| Virtu Financial | Quantitative Trading Intern | Austin, TX +2 |  | Jul 21 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624408002) |
 | [Akuna Capital](https://internscout.org/internships/at/akuna-capital/) | Quantitative Research Intern, Summer 2027 \| Georgia Institute of Technology | Chicago, IL | \$145,000 | Jul 15 | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065656) |
 | [Akuna Capital](https://internscout.org/internships/at/akuna-capital/) | Quantitative Development & Strategy Intern, Summer 2027 \| Massachusetts Institute of Technology | Chicago, IL | \$145,000 | Jul 15 | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8066884) |
 | [Akuna Capital](https://internscout.org/internships/at/akuna-capital/) | Quantitative Research Intern, Summer 2027 \| Massachusetts Institute of Technology | Chicago, IL | \$145,000 | Jul 15 | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065670) |

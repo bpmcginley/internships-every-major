@@ -1,6 +1,6 @@
 # Electrical Engineering: Summer 2027 Internships
 
-245 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 245). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 576 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+246 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 246). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 576 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | EquipmentShare | Electrical Engineering Intern - Embedded | Columbia, MO |  | Sep 14 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8142763) |
 | [North Atlantic Industries](https://internscout.org/internships/at/north-atlantic-industries/) | Electrical Design Engineer Intern | Bohemia, NY |  | Sep 14 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501330) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Electrical Engineering Intern, Summer 2027 | San Diego, CA |  | Sep 14 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309857) |
+| [Formlabs](https://internscout.org/internships/at/formlabs/) | Electrical Engineering Intern (Summer 2027) | Somerville, MA | \$1,575 | Sep 13 | [Apply](https://careers.formlabs.com/job/8148251/apply/?gh_jid=8148251) |
 | [Cirrus Logic](https://internscout.org/internships/at/cirrus-logic/) | 2027 Internship - Mixed Signal Products Applications Engineer | Austin, Texas +1 |  | Sep 11 | [Apply](https://jobs.eu.lever.co/cirrus/2ca7b254-5c91-4a4e-9ba8-d05c8604eca2/apply) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Electrical Engineering Intern Summer 2027 | Long Beach, CA | \$28.00 | Sep 10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990683003) |
 | [Antares Nuclear](https://internscout.org/internships/at/antares-nuclear/) | Electrical Engineering Intern - Summer 2027 | Los Angeles +2 |  | Sep 10 | [Apply](https://jobs.ashbyhq.com/Antares/3061297c-a666-47be-a58a-b62881bf183d/application) |
@@ -203,7 +204,6 @@
 | [IMEG](https://internscout.org/internships/at/imeg/) | Electrical Engineering Intern \| Rogers, AR | Rogers, AR | Paid | Oct 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rogers-AR/Electrical-Engineering-Intern---Rogers--AR_R-16498-1) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Intern Electrical and Mechanical/Fire Protection Engineering (Summer 2027) | Bellevue, WA (Seattle) |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Bellevue-WA-Seattle/Intern-Electrical-and-Mechanical-Fire-Protection-Engineering--Summer-2027-_R-31482) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Electrical Engineering Intern \| Seattle, WA | Seattle, WA +1 | \$22-24 per hour | Oct 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Seattle-WA/Electrical-Engineering-Intern---Seattle--WA_R-16576) |
-| [IMEG](https://internscout.org/internships/at/imeg/) | Electrical Engineering Intern \| Anaheim, CA | Anaheim, CA | \$22.00 –\$24.00 per hour | Oct 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Anaheim-CA/Electrical-Engineering-Intern---Anaheim--CA_R-16750) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

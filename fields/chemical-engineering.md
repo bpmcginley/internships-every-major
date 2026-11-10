@@ -1,6 +1,6 @@
 # Chemical Engineering: Summer 2027 Internships
 
-66 open Summer 2027 chemical engineering roles, newest first (all 66). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 158 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+65 open Summer 2027 chemical engineering roles, newest first (all 65). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 156 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -21,7 +21,6 @@
 | [ABB](https://internscout.org/internships/at/abb/) | Chemist/Chemical Engineer Intern - Summer 2027 | Bartlesville, Oklahoma, United States of America | \$20 - \$34 per hour | Oct 26 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bartlesville-Oklahoma-United-States-of-America/Chemist-Chemical-Engineer-Intern---Summer-2027_JR00047103-1) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - DT Process Engineering & Automation | Philadelphia, PA | \$18.00 - \$21.00 Per Hour | Oct 26 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Philadelphia-PA/XMLNAME-2027-Summer-Internship---DT-Process-Engineering---Automation_R-104140) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations | San Francisco, CA, USA +1 | Paid | Oct 23 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8304574) |
-| [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Chemical Engineering Project Management Intern - Summer 2027 | Norwell, MA | Paid | Oct 23 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167240) |
 | Thales | Tools and Process Development Intern | Montreal, Canada |  | Oct 23 | [Apply](https://go.vansh.nyc/hj) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Systems/Process Engineering, Tapeout Operations Intern (Summer 2027) | USA - Vermont - Essex Junction +1 |  | Oct 23 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Systems-Process-Engineering--Tapeout-Operations-Summer-2027-_JR-2604924) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Undergrad Intern - Manufacturing and Clinical Supply - Process Development (Summer 2027) | US - California - Thousand Oaks | \$28.87 per hour | Oct 22 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Undergrad-Intern---Manufacturing-and-Clinical-Supply---Process-Development--Summer-2027-_R-259434) |

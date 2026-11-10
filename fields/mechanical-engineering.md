@@ -1,6 +1,6 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-336 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 336). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 880 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+337 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 337). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 879 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Keysight Technologies](https://internscout.org/internships/at/keysight-technologies/) | Manufacturing Engineering Intern | Santa Rosa, California | \$32.03 - \$34.49 | Sep 25 | [Apply](https://jobs.keysight.com/jobs/54275) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Thermal Intern (Summer 2027) | San Francisco |  | Sep 24 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704820006) |
 | [Shield AI](https://internscout.org/internships/at/shield-ai/) | Summer 2027 - Mechanical Engineering Intern | Seattle, Washington +1 | Paid | Sep 21 | [Apply](https://jobs.lever.co/shieldai/da54c482-fe62-4f60-98b1-55ac0b82b3bc/apply) |
+| [Formlabs](https://internscout.org/internships/at/formlabs/) | Mechanical Engineering Intern (Summer 2027) | Somerville, MA | \$1,575 | Sep 21 | [Apply](https://careers.formlabs.com/job/8199928/apply/?gh_jid=8199928) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Mechanical Engineering Intern/Co-op - Buildings (Summer 2027) | Rochester, NY +2 |  | Sep 21 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007884) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Mechanical Engineering Intern/Co-op - Buildings (Summer 2027) | Butler, PA |  | Sep 21 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007883) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Harness Manufacturing Intern (Summer 2027) | San Francisco | \$29.00 per hour | Sep 18 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705255006) |
@@ -203,7 +204,6 @@
 | [Antares Nuclear](https://internscout.org/internships/at/antares-nuclear/) | Mechanical Engineering Design Intern - Summer 2027 | Los Angeles +1 |  | Sep 10 | [Apply](https://jobs.ashbyhq.com/Antares/9accca59-103b-4f54-978a-d5bb46bd9c62/application) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | San Leandro, California | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36099) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | DOWNEY, California | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36094) |
-| [Garmin](https://internscout.org/internships/at/garmin/) | Mechanical Engineering Intern | Cary, North Carolina |  | Sep 10 | [Apply](https://careers.garmin.com/jobs/19911) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

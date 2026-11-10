@@ -1,6 +1,6 @@
 # Sales: Summer 2027 Internships
 
-295 open Summer 2027 sales roles, newest first (the 200 newest of 295). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 542 sales internships on InternScout](https://internscout.org/internships/sales/)
+295 open Summer 2027 sales roles, newest first (the 200 newest of 295). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 541 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
