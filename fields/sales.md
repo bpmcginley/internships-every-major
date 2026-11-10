@@ -1,6 +1,6 @@
 # Sales: Summer 2027 Internships
 
-298 open Summer 2027 sales roles, newest first (the 200 newest of 298). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 547 sales internships on InternScout](https://internscout.org/internships/sales/)
+297 open Summer 2027 sales roles, newest first (the 200 newest of 297). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 546 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -55,7 +55,6 @@
 | [Uline](https://internscout.org/internships/at/uline/) | Outside Sales Internship - Summer 2027 | Columbus, OH +3 | \$22 to \$23 per hour | Oct 28 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Columbus-OH/Outside-Sales-Internship---Summer-2027_R268640) |
 | [Uline](https://internscout.org/internships/at/uline/) | Outside Sales Internship - Summer 2027 | Chicago, IL +4 | \$22 per hour | Oct 28 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Chicago-IL/Outside-Sales-Internship---Summer-2027_R268643) |
 | [Uline](https://internscout.org/internships/at/uline/) | Outside Sales Internship - Summer 2027 | Milwaukee, WI +2 | Paid | Oct 28 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Milwaukee-WI/Outside-Sales-Internship---Summer-2027_R268639) |
-| SC Johnson | Sales Internship - Summer 2027 | USA - Minneapolis +3 | Paid | Oct 28 | [Apply](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/USA---Minneapolis/Sales-Internship---Summer-2027_34340) |
 | [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | Commercial Sales Operations Intern - Summer 2027 | Atlanta, GA, USA |  | Oct 28 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Commercial-Sales-Operations-Intern---Summer-2027_R26_0000035643) |
 | [Q2](https://internscout.org/internships/at/q2/) | 2027 Summer Internship - Sales/Customer Success | Austin, Texas |  | Oct 28 | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Sales-Customer-Success_REQ-12905) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Team Sports/Sales | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Team-SportsSales-MD-21230/1434355500/) |
@@ -204,6 +203,7 @@
 | Athene | Finance Summer 2027 Internship (Sales & Expense) | West Des Moines, Iowa |  | Nov 10 | [Apply](https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Finance-Summer-2027-Internship--Sales---Expense-_R255321) |
 | Evo | Evo Summer Sales Internship | Richmond, VA | \$3,000.00 - \$5,000.00 per month | Nov 10 | [Apply](https://www.indeed.com/viewjob?jk=802ab6e313e77c2b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Sales Administration - Marketing | Denton, TX |  | Nov 3 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Sales-Administration-Marketing-TX-76205-7864/1453616333/) |
+| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Sales and Use Tax | The Woodlands TX |  | Nov 3 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/The-Woodlands/Summer-2027-Intern--Sales-and-Use-Tax_R0020800-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

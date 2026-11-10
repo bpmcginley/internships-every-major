@@ -1,9 +1,10 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-338 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 338). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 880 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+336 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 336). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 880 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [WSP](https://internscout.org/internships/at/wsp/) | Mechanical Engineering Intern - Summer 2027 | Hamilton, NJ | \$23.90 - \$32.22 | Nov 10 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94976) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Mechanical Engineer Intern (Summer 2027) | El Segundo, CA | Paid | Nov 10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineer-Intern--Summer-2027-_01885537) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Mechanical Engineering Intern Industrial Services \| Summer 2027 | OH | \$20/hour | Nov 10 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168741) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027) | USA - New York - Malta |  | Nov 10 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604596) |
@@ -46,7 +47,6 @@
 | [Shield AI](https://internscout.org/internships/at/shield-ai/) | Structures / Mechanical Test Co-op - January 2027 Co-op | Dallas, Texas | Paid | Nov 2 | [Apply](https://jobs.lever.co/shieldai/1be0e71a-cf7f-4966-8532-09e6f40bb9dc/apply) |
 | [Zoox](https://internscout.org/internships/at/zoox/) | Hardware Engineer Intern, Manufacturing Operations \[Summer 2027\] | Foster City, CA |  | Nov 2 | [Apply](https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded/apply) |
 | [ASML](https://internscout.org/internships/at/asml/) | Internship - Mechanical Engineer | Wilton, CT, USA | \$18.00 to \$48.00 per hour | Nov 2 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00355336) |
-| [Resideo](https://internscout.org/internships/at/resideo/) | Mechanical Engineering Intern - Summer 2027 | Golden Valley, MN |  | Nov 2 | [Apply](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19815) |
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Mechanical Engineering Intern (Summer 2027) | Lanark, IL | \$19.50-21.50/hour | Nov 2 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Lanark-IL/Mechanical-Engineering-Intern--Summer-2027-_REQ-020095) |
 | [Carrier Global](https://internscout.org/internships/at/carrier-global/) | Mechanical Engineering Intern - Summer | CANHQ: CCS HQ - Syracuse, 6304 Carrier Parkway, East Syracuse, NY, 13057 USA | \$43,500.00 - \$87,500.00 annually | Nov 2 | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Mechanical-Engineering-Intern---Summer_30220093) |
 | [Procter & Gamble (P&G)](https://internscout.org/internships/at/procter-gamble-p-g/) | Summer Internship 2027: Manufacturing \| Gebze Plant | SEKERPINAR DC |  | Nov 2 | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/GEBZE-PLANT/Summer-Internship-2027--Manufacturing---Gebze-Plant_R000160922) |

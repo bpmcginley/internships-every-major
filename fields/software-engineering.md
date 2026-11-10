@@ -1,9 +1,10 @@
 # Software Engineering: Summer 2027 Internships
 
-1,869 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,869). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 3,461 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,870 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,870). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 3,460 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Skydio](https://internscout.org/internships/at/skydio/) | Middleware Software Engineer Intern - Summer 2027 | San Mateo, California, United States +2 | \$47/hr | Nov 10 | [Apply](https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03/application) |
 | [Trimble](https://internscout.org/internships/at/trimble/) | Software Engineering Intern | Knoxville, TN |  | Nov 10 | [Apply](https://go.vansh.nyc/1rP) |
 | [Shield AI](https://internscout.org/internships/at/shield-ai/) | Summer 2027 - Software Engineer Intern | San Diego, California |  | Nov 10 | [Apply](https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application) |
 | Aurora Innovation | Safety & Systems Engineering Intern | Mountain View, CA +3 | \$58.00 per hour | Nov 10 | [Apply](https://jobs.ashbyhq.com/aurora-operations-inc/058e3b3a-dd13-4736-84a8-b19d5de2c9f5/application) |
@@ -203,7 +204,6 @@
 | [JM Family Enterprises](https://internscout.org/internships/at/jm-family-enterprises/) | Software Analyst Intern | Deerfield Beach, FL |  | Nov 5 | [Apply](https://go.vansh.nyc/1iI) |
 | [SOTI](https://internscout.org/internships/at/soti/) | Software Developer Intern - Android (May 2027 - 12 Months) | Mississauga, Canada – Meadowvale Office (HQ) +1 |  | Nov 5 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Software Engineer Intern | Florida - Deerfield Beach +1 |  | Nov 5 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199) |
-| [Little Caesars Enterprises](https://internscout.org/internships/at/little-caesars-enterprises/) | Cyber IT Intern | Detroit, MI |  | Nov 5 | [Apply](https://go.vansh.nyc/1iv) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,6 +1,6 @@
 # Electrical Engineering: Summer 2027 Internships
 
-244 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 244). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 575 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+243 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 243). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 573 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -112,7 +112,6 @@
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Electrical Engineering Intern – Product Architecture (Summer 2027) | Delaware, OH |  | Oct 2 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281025) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Technical Electrical Engineering Intern - Morris, IL (ASSOCIATE'S DEGREE ONLY) | Morris, Illinois | Paid | Oct 2 | [Apply](https://jobs.constellationenergy.com/jobs/139593) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | Electrical Engineering Intern (Summer 2027) | San Jose, CA | \$40/hour | Oct 1 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5255112007) |
-| Astronics | Electrical Test Engineer Intern | Redmond, WA |  | Sep 30 | [Apply](https://job-boards.greenhouse.io/astronicscorporation/jobs/4420383009) |
 | [Xcimer Energy](https://internscout.org/internships/at/xcimer-energy/) | Summer 2027 Internship - Electrical Engineering | Denver, CO |  | Sep 30 | [Apply](https://jobs.lever.co/xcimer/87bceb04-faeb-4365-9fed-d8f5cd3fb8ac/apply) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | RF Hardware Intern (Summer 2027) | San Francisco +1 |  | Sep 30 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4708436006) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Electrical Engineering (Substation) Intern - Summer 2027 | Meridian, ID +1 |  | Sep 30 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95808) |
@@ -204,6 +203,7 @@
 | [IMEG](https://internscout.org/internships/at/imeg/) | Electrical Engineering Intern \| Seattle, WA | Seattle, WA +1 | \$22-24 per hour | Oct 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Seattle-WA/Electrical-Engineering-Intern---Seattle--WA_R-16576) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Electrical Engineering Intern \| Anaheim, CA | Anaheim, CA | \$22.00 –\$24.00 per hour | Oct 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Anaheim-CA/Electrical-Engineering-Intern---Anaheim--CA_R-16750) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Electrical Engineering Intern \| Freeport, ME | Freeport, ME | \$22.00–\$24.00 per hour | Oct 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Freeport-ME/Electrical-Engineering-Intern---Freeport--ME_R-16817) |
+| [IMEG](https://internscout.org/internships/at/imeg/) | Electrical Engineering Intern \| Scottsdale, AZ | Phoenix, AZ | Paid | Oct 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Phoenix-AZ/Electrical-Engineering-Intern---Scottsdale--AZ_R-16745) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

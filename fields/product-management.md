@@ -1,9 +1,10 @@
 # Product Management: Summer 2027 Internships
 
-182 open Summer 2027 product management roles, newest first (all 182). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 316 product management internships on InternScout](https://internscout.org/internships/product-management/)
+183 open Summer 2027 product management roles, newest first (all 183). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 318 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Addepar | Product Intern | New York, NY |  | Nov 10 | [Apply](https://go.vansh.nyc/1s3) |
 | Snowflake | Product Management Intern (Summer 2027) | Menlo Park, CA +1 |  | Nov 10 | [Apply](https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf/application) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Intern-Digital Product | Detroit, MI |  | Nov 10 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15151) |
 | [Legrand](https://internscout.org/internships/at/legrand/) | Product Management Intern | Syracuse, NY |  | Nov 10 | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1837) |
@@ -71,7 +72,7 @@
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Product Management Intern - Summer 2027 | Downers Grove, IL | \$20.00 - \$25.00 per hour | Oct 19 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065) |
 | Propio | Product Manager Intern | Overland Park, KS |  | Oct 15 | [Apply](https://go.vansh.nyc/gi) |
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Program Management Intern - Summer 2027 (For SNC Summer 2026 Interns Only) | Lone Tree, CO |  | Oct 15 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Program-Management-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031093) |
-| [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Terawave Product Management Internship - MBA | Kent, WA | \$50.00 | Oct 15 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Kent-WA/Summer-2027-Terawave-Product-Management-Internship---MBA_R74200) |
+| [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Terawave Product Management Intern - MBA | Kent, WA |  | Oct 15 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Kent-WA/Summer-2027-Terawave-Product-Management-Internship---MBA_R74200) |
 | [Allied Solutions](https://internscout.org/internships/at/allied-solutions/) | Product Management Intern - Risk Management | St. Paul, MN +1 | \$16 to \$22 | Oct 15 | [Apply](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | EMG Program Manager Intern IS \| Summer 2027 | Deer Park, TX | \$20/hour | Oct 14 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166908) |
 | [Saab](https://internscout.org/internships/at/saab/) | Program Management Co-Op (Summer 2027) | East Syracuse, NY (Aspen Park) | \$18.24 - \$20.27/hr | Oct 14 | [Apply](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Aspen-Park/Program-Management-Co-Op--Summer-2027-_R-03330-1) |
@@ -167,7 +168,7 @@
 | [HNTB](https://internscout.org/internships/at/hntb/) | Program Management Intern – Summer 2027 | New York, NY |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/New-York-NY/Program-Management-Intern---Summer-2027_R-31828) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Product Specialist Intern, Summer 2027 | Fort Myers, FL +1 | Paid | Oct 24 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Myers-FL/Product-Specialist-Intern-2027_10017586) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Construction Project & Program Management Intern (Summer 2027) | San Jose, CA |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/San-Jose-CA/Construction-Project---Program-Management-Intern--Summer-2027-_R-31763) |
-| [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Program Management Intern | Kirkland, WA |  | Oct 20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Program-Management-Intern-WA-98033/1449176233/) |
+| [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Program Management Intern | Kirkland, WA +1 |  | Oct 20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Program-Management-Intern-WA-98033/1449176233/) |
 | [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Program Manager (Summer 2027) | Neenah, WI | \$20 - \$24/hr | Oct 17 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Program-Manager--Summer-2027-_R040384) |
 | [Danaher Corporation](https://internscout.org/internships/at/danaher-corporation/) | Product Management & Marketing Intern (Summer 2027 Intern) | Logan, Utah, United States |  | Oct 17 | [Apply](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/Product-Management---Marketing-Intern--Summer-2027-Intern-_R1317692) |
 | [Workday](https://internscout.org/internships/at/workday/) | Product Manager Intern | USA, CA +1 | \$154,500 | Oct 17 | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813) |

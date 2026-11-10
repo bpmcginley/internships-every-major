@@ -1,6 +1,6 @@
 # Biology: Summer 2027 Internships
 
-27 open Summer 2027 biology roles, newest first (all 27). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 687 biology internships on InternScout](https://internscout.org/internships/biology/)
+26 open Summer 2027 biology roles, newest first (all 26). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 673 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -19,7 +19,6 @@
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Antibody Discovery & Protein Sciences | TARRYTOWN | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Antibody-Discovery---Protein-Sciences_R52550) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Genomics, Computational Biology & Translational Data Science | TARRYTOWN +3 | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Genomics--Computational-Biology---Translational-Data-Science_R52557-1) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Disease Biology & Immunology Research | TARRYTOWN | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Disease-Biology---Immunology-Research_R52553-1) |
-| [AstraZeneca](https://internscout.org/internships/at/astrazeneca/) | 2027 Summer In Vitro Oncology Intern, Biologics Innovation | US - Cambridge Kendall SQ - MA | Paid | Oct 27 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/XMLNAME-2027-Summer-In-Vitro-Oncology-Intern--Biologics-Innovation_R-262930) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Global Regulatory Sciences Biopharmaceutical Sector Internship Summer 2027 | Princeton - NJ - US +1 |  | Oct 27 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Global-Regulatory-Sciences-Biopharmaceutical-Sector-Internship-Summer-2027_R1607871) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | R&D GSC Microbiology Resource Center Internship- Brecksville, OH | Brecksville, OH |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627508) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Pharmaceutical Lab Internship (Crystallization) Summer 2027 | El Segundo, California, United States | \$33.00 | Oct 21 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8040897003) |

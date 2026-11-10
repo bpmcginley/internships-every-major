@@ -1,6 +1,6 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-207 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 207). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 443 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+208 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 208). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 445 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Safety Intern | Braintree, Massachusetts | \$20.00 | Oct 14 | [Apply](https://careers.trccompanies.com/jobs/27081) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern - Infrastructure & Sustainability | Pascagoula, Mississippi |  | Oct 14 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-INFRASTRUCTURE-&-SUSTAINABILITY-Miss/1430056400/) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student Intern, Environmental Project Services, Summer 2027 | Little Rock, Arkansas |  | Oct 14 | [Apply](https://jobs.entergy.com/job/Little-Rock-Student-Intern%2C-Environmental-Project-Services%2C-Summer-2027-Arka/1439869700/) |
+| [Republic Airways](https://internscout.org/internships/at/republic-airways/) | Safety Intern - Summer 2027 | Carmel Headquarters, IN | Paid | Oct 13 | [Apply](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Safety-Intern---Summer-2027_JR-007801) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Madison, Wisconsin | \$20.00 | Oct 13 | [Apply](https://careers.trccompanies.com/jobs/27079) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | EHS/Safety Intern, Summer 2027 | Menomonee Falls, WI +1 | \$22-23 hour | Oct 12 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Menomonee-Falls-WI/EHS-Safety-Intern--Summer--Fall-2027_10017710) |
 | [Scout Clean Energy](https://internscout.org/internships/at/scout-clean-energy/) | Geospatial Intern - Summer 2027 | Boulder, Colorado +1 | \$25-30/hour | Oct 12 | [Apply](https://apply.workable.com/j/56C8F2E503/apply) |
@@ -203,7 +204,6 @@
 | [Granite Construction](https://internscout.org/internships/at/granite-construction/) | 2027 Summer Safety Intern | Everett, Washington +2 | \$27.00 | Sep 18 | [Apply](https://granite.wd1.myworkdayjobs.com/careers/job/Everett-Washington/XMLNAME-2027-Summer-Safety-Intern_R0000008261) |
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-op - HES&S Safety and Industrial Hygiene (Summer 2027) | Findlay, Ohio +21 | \$24.09 per hour | Sep 18 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Safety-and-Industrial-Hygiene--Summer-2027-_00024175) |
 | [Barr](https://internscout.org/internships/at/barr/) | Internship – Environmental Geology Focus (Hybrid) | Grand Rapids, MI | \$22.66–\$28.90 hour | Sep 18 | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Grand-Rapids-MI/Internship---Environmental-Geology-Focus--Hybrid-_R-102298) |
-| [Hitachi](https://internscout.org/internships/at/hitachi/) | 2027 Summer Health Safety Environmental Internship-Jefferson City | Jefferson City, Missouri, United States of America |  | Sep 18 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Jefferson-City-Missouri-United-States-of-America/XMLNAME-2027-Summer-Health-Safety-Environmental-Internship-Jefferson-City_R0143630) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,6 +1,6 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-579 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 579). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 1,217 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+582 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 582). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 1,220 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,6 +11,9 @@
 | Johns Hopkins APL | AI & Data Science Intern, Analytic Capabilities | Laurel, MD |  | Nov 10 | [Apply](https://go.vansh.nyc/1pW) |
 | Kiewit | Machine Learning Intern, Kiewit Data Services | Omaha, NE |  | Nov 10 | [Apply](https://go.vansh.nyc/1pX) |
 | [onsemi](https://internscout.org/internships/at/onsemi/) | AI & Data Analytics Intern | Scottsdale, AZ |  | Nov 10 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010) |
+| [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | GDIT Summer Internship Program – Summer 2027 AI/ML Business Intelligence Development Internship | Bossier City, LA | \$19.55 - \$26.45 | Nov 10 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935) |
+| [V2X](https://internscout.org/internships/at/v2x/) | AI Engineering Intern - Junior | Indianapolis, Indiana +1 | Paid | Nov 10 | [Apply](https://careers.gov2x.com/jobs/63949) |
+| [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - Applied AI Strategy & Research | California - San Francisco | \$47 - \$57 per hour | Nov 10 | [Apply](https://salesforce.wd12.myworkdayjobs.com/futureforce_newgradroles/job/California---San-Francisco/Summer-2027-Intern---Applied-AI-Strategy---Research_JR367516-3) |
 | [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 PhD AI Machine Learning Engineer Intern | San Jose, California |  | Nov 10 | [Apply](https://careers.amd.com/jobs/91663) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Machine Learning Engineer, Embodied AI | Sunnyvale, California, United States of America +1 | \$9,600-\$11,800 per month | Nov 10 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034) |
 | [Jabil](https://internscout.org/internships/at/jabil/) | AI Agent Developer Intern (Supply Chain IT - AI & Enablement) | St. Petersburg/Tampa, FL +2 |  | Nov 10 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054) |
@@ -201,9 +204,6 @@
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - AI Adoption (Raleigh, NC) | Raleigh, North Carolina | \$18.70/hour | Oct 29 | [Apply](https://firstcitizens.jibeapply.com/jobs/35923) |
 | [Cigna Group](https://internscout.org/internships/at/cigna-group/) | Legal Operations Financial, Data & AI Analytics Intern | St. Louis, MO | \$ 24.00-\$25.00 | Oct 29 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Legal-Operations-Financial--Data---AI-Analytics-Intern_25016386) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Deep Learning Research Intern - Interim Engineering Intern - Systems | Markham, ON, Canada +1 |  | Oct 28 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721828828) |
-| Verition Group | AI Associate Intern, Equity Long/Short | New York, NY +4 |  | Oct 28 | [Apply](https://go.vansh.nyc/11S) |
-| Sephora | AI & Distribution Analytics Intern | United States |  | Oct 28 | [Apply](https://go.vansh.nyc/11Q) |
-| [RosaicLabs](https://internscout.org/internships/at/rosaiclabs/) | AI Accelerator Design Verification Engineer Intern | Austin, TX +1 |  | Oct 28 | [Apply](https://go.vansh.nyc/Xp) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

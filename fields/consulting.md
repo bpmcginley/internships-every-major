@@ -1,9 +1,11 @@
 # Consulting: Summer 2027 Internships
 
-120 open Summer 2027 consulting roles, newest first (all 120). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 240 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+122 open Summer 2027 consulting roles, newest first (all 122). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 242 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Bank of Montreal](https://internscout.org/internships/at/bank-of-montreal/) | Treasury & Payment Solutions Strategy Intern, Summer 2027 (10 weeks) | Chicago, IL, USA | \$43,000.00 - \$75,000.00 | Nov 10 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Treasury---Payment-Solutions-Strategy-Intern--Summer-2027--10-weeks-_R260031397) |
+| [BMO](https://internscout.org/internships/at/bmo/) | Treasury & Payment Solutions Strategy Intern, Summer 2027 (10 weeks) | Chicago, IL, USA | \$43,000.00 - \$75,000.00 | Nov 10 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Chicago-IL-USA/Treasury---Payment-Solutions-Strategy-Intern--Summer-2027--10-weeks-_R260031397-1) |
 | [Bank of Montreal](https://internscout.org/internships/at/bank-of-montreal/) | Treasury & Payment Solutions Strategy Internship, Summer 2027 (4 months) | Toronto, ON, CAN | \$40,500.00 - \$80,000.00 | Nov 10 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382) |
 | [BMO](https://internscout.org/internships/at/bmo/) | Treasury & Payment Solutions Strategy Internship, Summer 2027 (4 months) | Toronto, ON, CAN | \$40,500.00 - \$80,000.00 | Nov 10 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382-1) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Strategy Analyst Intern | Florida - Deerfield Beach |  | Nov 10 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Strategy-Analyst-Intern_JR105218) |

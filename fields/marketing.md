@@ -1,14 +1,15 @@
 # Marketing: Summer 2027 Internships
 
-288 open Summer 2027 marketing roles, newest first (the 200 newest of 288). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 753 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+289 open Summer 2027 marketing roles, newest first (the 200 newest of 289). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 754 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Petcare MBA Marketing and Brand Management Internship | USA-Tennessee-Franklin | Paid | Nov 10 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Tennessee-Franklin/Summer-2027-Mars-Petcare-MBA-Marketing-and-Brand-Management-Internship_R172399-1) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - Digital Marketing | Toronto, Ontario | \$40,950.00 | Nov 10 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Digital-Marketing_JR26100419) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - U.S. Retail Marketing | Boston, Massachusetts |  | Nov 10 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Boston-Massachusetts/Summer-Intern-2027---US-Retail-Marketing_JR26081277) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Intern to the Chief of Staff, External Affairs & Growth (Washington, DC) | Washington, Washington, DC |  | Nov 10 | [Apply](https://jobs.constellationenergy.com/jobs/142425) |
 | [Aon](https://internscout.org/internships/at/aon/) | 2027 Wealthspire - Marketing Brand Intern | New York, New York | \$25.00 – \$27.00 per hour | Nov 10 | [Apply](https://jobs.aon.com/jobs/109985) |
-| [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | GDIT Summer Internship Program – Summer 2027 Growth Team Technical Writer Internship | Herndon, VA |  | Nov 10 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Herndon/GDIT-Summer-Internship-Program---Summer-2027-Growth-Team-Technical-Writer-Internship_RQ231856) |
+| [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | GDIT Summer Internship Program – Summer 2027 Growth Team Technical Writer Internship | Herndon, VA | \$21.25 - \$28.75 | Nov 10 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Herndon/GDIT-Summer-Internship-Program---Summer-2027-Growth-Team-Technical-Writer-Internship_RQ231856) |
 | Jones Lang LaSalle (JLL) | Account Communications Summer 2027 Internship | Atlanta, GA |  | Nov 10 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Delta-Account-Communications-Summer-2027-Internship---Delta-Corporate-Headquarters--Atlanta--GA_REQ546149) |
 | Kyndryl | Marketing Internship | New York, NY, USA | \$30/hour | Nov 10 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Generalist_R-70009) |
 | Kyndryl | Marketing Internship, Marketing Analytics | New York, NY, USA +1 | \$30/hour | Nov 10 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analysis_R-70007-1) |
@@ -203,7 +204,6 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern, Growth Innovation | San Jose, CA |  | Aug 4 | [Apply](https://go.vansh.nyc/6e) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - Brand Ads | San Jose, CA |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7668654528822954245) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Backend Software Engineer Intern - Innovative Growth | San Jose, CA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7667934860750063925) |
-| [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Creative Intelligence and Brand Innovation | San Jose, CA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7668642761473902901) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

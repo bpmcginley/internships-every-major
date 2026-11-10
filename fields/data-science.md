@@ -1,6 +1,6 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-645 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 645). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 1,143 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+647 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 647). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 1,145 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | Johns Hopkins APL | AI & Data Science Intern, Analytic Capabilities | Laurel, MD |  | Nov 10 | [Apply](https://go.vansh.nyc/1pW) |
 | Kiewit | Machine Learning Intern, Kiewit Data Services | Omaha, NE |  | Nov 10 | [Apply](https://go.vansh.nyc/1pX) |
 | [onsemi](https://internscout.org/internships/at/onsemi/) | AI & Data Analytics Intern | Scottsdale, AZ |  | Nov 10 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010) |
+| [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | GDIT Summer Internship Program – Summer 2027 AI/ML Business Intelligence Development Internship | Bossier City, LA | \$19.55 - \$26.45 | Nov 10 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935) |
 | [Walmart](https://internscout.org/internships/at/walmart/) | Summer 2027 Corporate Intern: Data Science & Data Analytics – Last Mile Delivery | Bentonville, AR | \$21.00 - \$40.00 | Nov 10 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Summer-2027-Corporate-Intern--Data-Science---Data-Analytics---Last-Mile-Delivery_R-2690193) |
 | [DP World](https://internscout.org/internships/at/dp-world/) | AI & Analytics (Talent Management) Intern | Charlotte, NC |  | Nov 10 | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27855) |
 | [T-Mobile](https://internscout.org/internships/at/t-mobile/) | Business Analytics & Reporting Intern | Bellevue, WA |  | Nov 10 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Business-Analytics---Reporting-Internship_REQ381319) |
@@ -203,7 +204,6 @@
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Summer 2027 Data/Finance Analyst Intern- Bachelor's (Santa Clara, CA) | Santa Clara,CA | Paid | Oct 28 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Finance-Analyst-Intern--Bachelor-s--Santa-Clara--CA-_R2626652) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | University - 2027 Summer Games Data Scientist Intern - Ft. Walton Beach, FL | Fort Walton Beach, FL |  | Oct 28 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach--FL_R0248409) |
 | [Leidos](https://internscout.org/internships/at/leidos/) | Data Engineer Intern | Fort Belvoir, VA |  | Oct 28 | [Apply](https://go.vansh.nyc/Y4) |
-| [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Summer 2027 Data Scientist Intern - Master's (Santa Clara, CA) | Santa Clara,CA +1 | Paid | Oct 28 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Scientist-Intern---Master-s--Santa-Clara--CA-_R2627691) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

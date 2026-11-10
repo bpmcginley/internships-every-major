@@ -1,9 +1,10 @@
 # Cybersecurity: Summer 2027 Internships
 
-206 open Summer 2027 cybersecurity roles, newest first (the 200 newest of 206). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 354 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+207 open Summer 2027 cybersecurity roles, newest first (the 200 newest of 207). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 355 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Global Payments | CyberSecurity Intern | Columbus, GA |  | Nov 10 | [Apply](https://go.vansh.nyc/1s5) |
 | OneAmerica Financial | Cyber Security Intern | Indianapolis, IN |  | Nov 10 | [Apply](https://go.vansh.nyc/1qx) |
 | [General Dynamics Mission Systems, Inc.](https://internscout.org/internships/at/general-dynamics-mission-systems/) | Systems Intern, Cybersecurity and Linux Administration | San Antonio, TX |  | Nov 10 | [Apply](https://go.vansh.nyc/1rI) |
 | [Aerospace Corporation](https://internscout.org/internships/at/the-aerospace-corporation/) | Defensive Cyber Operations Grad Intern | El Segundo, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1pU) |
@@ -203,7 +204,6 @@
 | [Vanguard](https://internscout.org/internships/at/vanguard/) | College to Corporate IT Internship-Risk & Security Engineer (PA) | Malvern, PA |  | Sep 18 | [Apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Risk---Security-Engineer--PA-_182784) |
 | [Vanguard](https://internscout.org/internships/at/vanguard/) | College to Corporate IT Internship - Risk & Security - Engineer | Dallas/Ft. Worth, TX |  | Sep 18 | [Apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Risk---Security---Engineer_181851) |
 | [Inmar Intelligence](https://internscout.org/internships/at/inmar-intelligence/) | Information Security Internships, Summer 2027 | Headquarters, Winston Salem, NC |  | Sep 18 | [Apply](https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Information-Security-Internships--Summer-2027_JY2627635) |
-| [Vanguard](https://internscout.org/internships/at/vanguard/) | College to Corporate IT Internship-Risk & Security-Engineer (NC) | Charlotte, NC |  | Sep 18 | [Apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Risk---Security-Engineer--NC-_182785) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

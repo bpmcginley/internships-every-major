@@ -1,9 +1,10 @@
 # Physics: Summer 2027 Internships
 
-29 open Summer 2027 physics roles, newest first (all 29). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 101 physics internships on InternScout](https://internscout.org/internships/physics/)
+30 open Summer 2027 physics roles, newest first (all 30). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 102 physics internships on InternScout](https://internscout.org/internships/physics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Optical Payload Engineer Intern | Costa Mesa, California, United States | Paid | Nov 10 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | Quantum Computing Research Intern | Washington, DC |  | Nov 10 | [Apply](https://go.vansh.nyc/1qt) |
 | [Keysight Technologies](https://internscout.org/internships/at/keysight-technologies/) | Intern - Optics Customer Success | Sacramento, California +3 | \$37.10 | Nov 10 | [Apply](https://jobs.keysight.com/jobs/55188) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Silicon Photonics Process Integration Engineering Intern (Summer 2027) | USA - New York - Malta |  | Nov 10 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Engineering-Intern--Summer-2027-_JR-2605134) |

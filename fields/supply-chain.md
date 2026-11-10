@@ -1,6 +1,6 @@
 # Supply Chain: Summer 2027 Internships
 
-214 open Summer 2027 supply chain roles, newest first (the 200 newest of 214). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 457 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
+215 open Summer 2027 supply chain roles, newest first (the 200 newest of 215). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 457 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 10, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Supply Chain Internship - Summer 2027 | Eden Prairie, MN | Paid | Nov 10, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8636/supply-chain-internship---summer-2027/job) |
 | [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Supply Chain) | St Petersburg, FL |  | Nov 10, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37507/2027-summer-intern-%28supply-chain%29/job) |
+| [Republic Airways](https://internscout.org/internships/at/republic-airways/) | Supply Chain Intern - Summer 2027 | Carmel Headquarters, IN |  | Nov 10 | [Apply](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Supply-Chain-Intern---Summer-2027_JR-007632) |
 | [L.L.Bean](https://internscout.org/internships/at/l-l-bean/) | Planning & Inventory Management Intern- Supply Chain (Summer 2027) | Freeport, ME | \$20 - \$22 /hour | Nov 6 | [Apply](https://llbean.wd1.myworkdayjobs.com/LLBean_Careers/job/Freeport-ME/Supply-Chain-Intern--Summer-2027-_JR11270) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Supply Chain Intern | Seneca, South Carolina | \$23 to \$27.50 per hour | Nov 6 | [Apply](https://se.jibeapply.com/jobs/140638) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Supplier Development Management | Denton, TX |  | Nov 3 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Supplier-Development-Management-TX-76205-7864/1453612933/) |
@@ -203,7 +204,6 @@
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | UPS Supply Chain Solutions 2027 Summer Intern | US - UPS CORPORATE OFFICES (GACOR) |  | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Supply-Chain-Solutions-2027-Summer-Intern_R26030498) |
 | [Pentair](https://internscout.org/internships/at/pentair/) | Supply Chain & Operations Leadership Development Internship Program - Summer 2027 | Golden Valley, MN +10 | \$28.00/ hour | Sep 18 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Supply-Chain---Operations-Leadership-Development-Internship-Program---Summer-2027_R23712) |
 | [Ingredion](https://internscout.org/internships/at/ingredion/) | Global Supply Chain Data Science Intern | Westchester, IL | \$20-23hour | Sep 18 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Supply-Chain-Data-Science-Intern_Req-40226-1) |
-| [Shure](https://internscout.org/internships/at/shure/) | Global Logistics Intern | Niles, IL |  | Sep 18 | [Apply](https://careersus-shure.icims.com/jobs/4987/global-logistics-intern/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
