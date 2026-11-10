@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-115 open Summer 2027 human resources roles, newest first (all 115). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 254 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+114 open Summer 2027 human resources roles, newest first (all 114). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 253 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -33,10 +33,9 @@
 | [The Travelers Companies](https://internscout.org/internships/at/the-travelers-companies/) | Human Resources Leadership Development Program Internship - Summer 2027 | MN - St. Paul |  | Oct 26 | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Human-Resources-Leadership-Development-Program-Internship---Summer-2027_R-52306) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Dealer & Field Training Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 26 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Dealer---Field-Training-Intern---Summer-2027---Franklin--TN_R00214243) |
 | [The Travelers Companies](https://internscout.org/internships/at/the-travelers-companies/) | Human Resources Leadership Development Program Internship - Summer 2027 | CT - Hartford |  | Oct 26 | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Human-Resources-Leadership-Development-Program-Internship---Summer-2027_R-52303) |
-| [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Human Resource Intern (Summer 2027) | Lone Tree, CO | \$23.54 - \$32.37 | Oct 22 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Human-Resource-Intern--Summer-2027-_R0031253-1) |
+| [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Human Resource Intern (Summer 2027) | Lone Tree, CO |  | Oct 22 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Human-Resource-Intern--Summer-2027-_R0031253-1) |
 | Rakuten International | University Recruiting Intern | San Mateo, California | \$20 - \$25 per hour | Oct 21 | [Apply](https://rakuten.wd1.myworkdayjobs.com/RakutenAmericas/job/San-Mateo-California/University-Recruiting-Intern_1038982) |
 | [Polaris](https://internscout.org/internships/at/polaris/) | HR Internship - Summer 2027 | Medina, MN, USA +5 | \$21.50 to \$31.50 per hour | Oct 20 | [Apply](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/HR-Internship---Summer-2027_R30526) |
-| [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Human Resources Training (Summer 2027) | Neenah, WI | \$20 - \$24/hr | Oct 20 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Human-Resources-Training_R041070) |
 | [Ursa Major](https://internscout.org/internships/at/ursa-major/) | 2027 Summer People Operations Intern | Berthoud, Colorado | \$30.00/hour | Oct 19 | [Apply](https://ursamajor.com/careers/?gh_jid=4745117005) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Human Resources Intern | Kirkland, WA | Paid | Oct 19 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Human-Resources-Intern-WA-98033/1449175833/) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - HR Intern (Summer 2027) | Atlanta, Georgia | \$35.91 | Oct 19 | [Apply](https://careers.cdmsmith.com/jobs/4806) |

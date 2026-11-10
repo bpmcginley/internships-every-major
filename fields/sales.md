@@ -1,9 +1,10 @@
 # Sales: Summer 2027 Internships
 
-297 open Summer 2027 sales roles, newest first (the 200 newest of 297). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 545 sales internships on InternScout](https://internscout.org/internships/sales/)
+298 open Summer 2027 sales roles, newest first (the 200 newest of 298). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 546 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Sales Subsidiary Intern - Summer 2027 | Chicago, IL | \$23.00 per hour | Nov 10 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/254263) |
 | FedEx Freight | Sales Internship: Summer 2027 | FCC-US/USA/44286-9077/FCC Highlander Pkwy |  | Nov 10 | [Apply](https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FCC-USUSA44286-9077FCC-Highlander-Pkwy/Sales-Internship--Summer-2027_RC6199) |
 | [Keysight Technologies](https://internscout.org/internships/at/keysight-technologies/) | Intern - Optics Customer Success | Sacramento, California +3 | \$37.10 | Nov 10 | [Apply](https://jobs.keysight.com/jobs/55188) |
 | [CDW Corporation](https://internscout.org/internships/at/cdw-corporation/) | 2027 Sales Internship - Tampa | Tampa - FL | \$19/hour | Nov 9 | [Apply](https://cdw.wd5.myworkdayjobs.com/careers/job/Tampa---FL/XMLNAME-2027-Sales-Internship---Tampa_R26_00002849) |
@@ -48,6 +49,7 @@
 | [Uline](https://internscout.org/internships/at/uline/) | Outside Sales Internship - Summer 2027 | Seattle, WA +2 | \$22 per hour | Oct 29 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Seattle-WA/Outside-Sales-Internship---Summer-2027_R268760) |
 | [Uline](https://internscout.org/internships/at/uline/) | Sales Analyst Internship - Summer 2027 | Pleasant Prairie, WI +4 | Paid | Oct 29 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Sales-Analyst-Internship---Summer-2027_R268774) |
 | [Uline](https://internscout.org/internships/at/uline/) | Outside Sales Internship - Summer 2027 | Portland, OR +2 | \$22 per hour | Oct 29 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Portland-OR/Outside-Sales-Internship---Summer-2027_R268759) |
+| SC Johnson | Sales Internship - Summer 2027 | USA - Minneapolis +3 | Paid | Oct 28 | [Apply](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/USA---Minneapolis/Sales-Internship---Summer-2027_34340) |
 | [Keysight Technologies](https://internscout.org/internships/at/keysight-technologies/) | Product Marketing & Technical Sales Content Production, Intern | Austin, Texas |  | Oct 28 | [Apply](https://jobs.keysight.com/jobs/55234) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Gas Sales Support Intern | De Pere, Wisconsin +3 |  | Oct 28 | [Apply](https://jobs.constellationenergy.com/jobs/140893) |
 | [Uline](https://internscout.org/internships/at/uline/) | Outside Sales Internship - Summer 2027 | Kenosha, WI +3 | Paid | Oct 28 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Kenosha-WI/Outside-Sales-Internship---Summer-2027_R268642) |
@@ -55,7 +57,6 @@
 | [Uline](https://internscout.org/internships/at/uline/) | Outside Sales Internship - Summer 2027 | Columbus, OH +3 | \$22 to \$23 per hour | Oct 28 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Columbus-OH/Outside-Sales-Internship---Summer-2027_R268640) |
 | [Uline](https://internscout.org/internships/at/uline/) | Outside Sales Internship - Summer 2027 | Chicago, IL +4 | \$22 per hour | Oct 28 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Chicago-IL/Outside-Sales-Internship---Summer-2027_R268643) |
 | [Uline](https://internscout.org/internships/at/uline/) | Outside Sales Internship - Summer 2027 | Milwaukee, WI +2 | Paid | Oct 28 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Milwaukee-WI/Outside-Sales-Internship---Summer-2027_R268639) |
-| SC Johnson | Sales Internship - Summer 2027 | USA - Minneapolis +3 | Paid | Oct 28 | [Apply](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/USA---Minneapolis/Sales-Internship---Summer-2027_34340) |
 | [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | Commercial Sales Operations Intern - Summer 2027 | Atlanta, GA, USA |  | Oct 28 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Commercial-Sales-Operations-Intern---Summer-2027_R26_0000035643) |
 | [Q2](https://internscout.org/internships/at/q2/) | 2027 Summer Internship - Sales/Customer Success | Austin, Texas |  | Oct 28 | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Sales-Customer-Success_REQ-12905) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Team Sports/Sales | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Team-SportsSales-MD-21230/1434355500/) |
@@ -203,7 +204,6 @@
 | Athene | Finance Summer 2027 Internship (Sales & Expense) | West Des Moines, Iowa |  | Nov 10 | [Apply](https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Finance-Summer-2027-Internship--Sales---Expense-_R255321) |
 | Evo | Evo Summer Sales Internship | Richmond, VA | \$3,000.00 - \$5,000.00 per month | Nov 10 | [Apply](https://www.indeed.com/viewjob?jk=802ab6e313e77c2b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Sales Administration - Marketing | Denton, TX |  | Nov 3 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Sales-Administration-Marketing-TX-76205-7864/1453616333/) |
-| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Sales and Use Tax | The Woodlands TX |  | Nov 3 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/The-Woodlands/Summer-2027-Intern--Sales-and-Use-Tax_R0020800-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

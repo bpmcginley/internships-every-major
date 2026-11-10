@@ -1,6 +1,6 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-331 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 331). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 876 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+330 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 330). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 875 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [ASML](https://internscout.org/internships/at/asml/) | Internship - Mechanical Design Engineer | Wilton, CT, USA | \$17.00 - \$53.00 | Nov 6 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Design-Engineer_J-00356215) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Mechanical Engineering Co-op (Summer/Fall 2027) | Cedar Rapids, IA | Paid | Nov 6 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Mechanical-Engineering-Co-op--Summer-Fall-2027-_01887850) |
 | [Baker Hughes](https://internscout.org/internships/at/baker-hughes/) | Manufacturing Intern - Summer 2027 Opportunities | Claremore-2210 E L Anderson Blvd, OK |  | Nov 6 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-OK-CLAREMORE-2210-E-L-ANDERSON-BLVD/Intern---Manufacturing---Summer-2027-Opportunities_R168909) |
-| [RTX](https://internscout.org/internships/at/rtx/) | Process Manufacturing Intern (Summer 2027) | Santa Fe Springs, CA | Paid | Nov 5 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/Process-Manufacturing-Intern--Summer-2027-_01887179) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Process Manufacturing Intern (Summer 2027) | Santa Fe Springs, CA |  | Nov 5 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/Process-Manufacturing-Intern--Summer-2027-_01887179) |
 | [AstraZeneca](https://internscout.org/internships/at/astrazeneca/) | Manufacturing Digital and AI Intern | US - Gaithersburg - MD +1 | \$37 - \$39 per hour | Nov 5 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Manufacturing-Digital-and-AI-Intern_R-263647) |
 | [Jabil](https://internscout.org/internships/at/jabil/) | Mechanical Engineering Intern | St. Petersburg/Tampa, FL |  | Nov 5 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Mechanical-Engineering-Intern_J2470824-1) |
 | [Procter & Gamble (P&G)](https://internscout.org/internships/at/procter-gamble-p-g/) | Manufacturing Internship, Summer 2027 | LIMA (OHIO) PLANT +3 | \$29.00 - \$50.00 / hour | Nov 5 | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-CHEMICALS-PLANT/Manufacturing-Internship--Summer-2027_R000157840) |

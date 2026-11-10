@@ -1,6 +1,6 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-644 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 644). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 1,142 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+643 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 643). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 1,142 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 UCD Reporting and Analytics Undergraduate Intern | PA, Working at Home - Pennsylvania +98 | Paid | Nov 9 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-UCD-Reporting-and-Analytics-Undergraduate-Intern_J287987) |
 | [Kensington](https://internscout.org/internships/at/kensington/) | BI/Data Analyst Intern | Toronto, Canada |  | Nov 9 | [Apply](https://go.vansh.nyc/1or) |
 | [Itron](https://internscout.org/internships/at/itron/) | Intern - Data Analytics and Automation, Finance | United States of America, Washington, Liberty Lake +1 | \$15.87 - \$44.23 per hour | Nov 9 | [Apply](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Analytics-and-Automation--Finance_JR103020) |
+| The Boeing Company | Boeing Summer 2027 Internship Program (Paid) – Data Analytics Intern | USA - Everett, WA +59 | \$44,000 - \$89,000 | Nov 9 | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976) |
 | [Philips](https://internscout.org/internships/at/philips/) | Intern-Insights and Analytics (Health Systems Marketing) Cambridge, MA or Nashville, TN - Summer 2027 | Cambridge (US), Massachusetts, United States +2 | \$26 – 30 | Nov 9 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern-Insights-and-Analytics--Health-Systems-Marketing--Cambridge--MA---Summer-2027_593454) |
 | BlueCross BlueShield of Nebraska | Data Intern - Healthcare Summer 2027 | Omaha, NE |  | Nov 9 | [Apply](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Data-Intern--Summer-2027_JR101406) |
 | Citizens Energy Group | Meter Services Data Analytics Intern | Indianapolis, IN |  | Nov 8 | [Apply](https://go.vansh.nyc/1mM) |
@@ -185,7 +186,6 @@
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | IT Data Intern | Cincinnati, OH |  | Oct 29 | [Apply](https://go.vansh.nyc/Zf) |
 | [SageSure](https://internscout.org/internships/at/sagesure/) | Data Science Product Analyst Intern | Fairfield, CA |  | Oct 29 | [Apply](https://go.vansh.nyc/1oj) |
 | [Tesla](https://internscout.org/internships/at/tesla/) | Data Engineer Intern - Energy | Palo Alto, CA |  | Oct 29 | [Apply](https://www.tesla.com/careers/search/job/287982) |
-| Disney | Enterprise Technology & Data Software Engineering Intern | Orlando, FL |  | Oct 29 | [Apply](https://go.vansh.nyc/YL) |
 | [AXA](https://internscout.org/internships/at/axa/) | Summer 2027 - Underwriting Data & Analytics Intern | NEW YORK +1 | \$25.00/hr | Oct 29 | [Apply](https://careers.axa.com/jobs/25498) |
 | [Walmart](https://internscout.org/internships/at/walmart/) | Data & Tech Transformation Intern | Bentonville, AR |  | Oct 29 | [Apply](https://go.vansh.nyc/ZW) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | IT Data Intern - Summer 2027 | Cincinnati, OH (USA) +1 | Paid | Oct 29 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Data-Intern---Summer-2027_R9820) |

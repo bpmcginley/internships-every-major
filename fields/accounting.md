@@ -1,6 +1,6 @@
 # Accounting: Summer 2027 Internships
 
-225 open Summer 2027 accounting roles, newest first (the 200 newest of 225). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 499 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+224 open Summer 2027 accounting roles, newest first (the 200 newest of 224). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 498 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -12,7 +12,6 @@
 | [EisnerAmper](https://internscout.org/internships/at/eisneramper/) | 2027 Assurance Summer Intern | Philadelphia |  | Nov 9 | [Apply](https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/Philadelphia/XMLNAME-2027-Assurance-Summer-Intern_Req-8511) |
 | Fiserv | 2027 Finance & Accounting Internship - Alpharetta | Alpharetta, Georgia | Paid | Nov 9 | [Apply](https://fiserv.wd5.myworkdayjobs.com/EXT/job/Alpharetta-Georgia/XMLNAME-2027-Finance---Accounting-Internship---Alpharetta_R-10403556) |
 | [CareSource](https://internscout.org/internships/at/caresource/) | 2027 Summer Internship Program - Internal Audit | Remote | \$41,200.00 - \$66,000.00 | Nov 9 | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Internal-Audit_R14355) |
-| [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - Accounting Analyst | Toronto, Ontario |  | Nov 9 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---Accounting-Analyst_JR26090173) |
 | Fiserv | 2027 Finance & Accounting Internship Program (Milwaukee, WI) | Milwaukee, Wisconsin | Paid | Nov 9 | [Apply](https://fiserv.wd5.myworkdayjobs.com/EXT/job/Milwaukee-Wisconsin/XMLNAME-2027-Finance---Accounting-Internship-Program--Milwaukee--WI-_R-10403814) |
 | [EisnerAmper](https://internscout.org/internships/at/eisneramper/) | 2027 Tax Summer Intern - Private Client Services (PCS) | Philadelphia |  | Nov 9 | [Apply](https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/Philadelphia/XMLNAME-2027-Tax-Summer-Intern---Private-Client-Services--PCS-_Req-8518) |
 | [EisnerAmper](https://internscout.org/internships/at/eisneramper/) | 2027 Technology Assurance Summer Intern | Philadelphia +1 |  | Nov 9 | [Apply](https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/Philadelphia/XMLNAME-2027-Tech-Assurance-Summer-Intern_Req-8555) |
@@ -204,6 +203,7 @@
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Accounting Intern- Summer 2027 | Richfield, OH (USA) | Paid | Sep 18 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Richfield-OH-USA/Accounting-Intern--Summer-2027_R9497-2) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Tax Intern (Summer 2027) | Cincinnati, OH (USA) | Paid | Sep 18 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Tax-Intern--Summer-2027-_R9535) |
 | [Oshkosh](https://internscout.org/internships/at/oshkosh/) | Finance & Accounting Intern (Summer 2027) | Appleton, Wisconsin, United States |  | Sep 18 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Finance---Accounting-Intern--Summer-2027-_R50186) |
+| [Guardian Life](https://internscout.org/internships/at/guardian-life/) | 2027 Guardian Summer Intern, Corporate Finance & Risk - Corporate Tax | New York | \$20.00 - \$35.00 | Sep 18 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Corporate-Tax_R000110175) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

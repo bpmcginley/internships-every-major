@@ -1,6 +1,6 @@
 # Industrial Engineering: Summer 2027 Internships
 
-305 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 305). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 688 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+304 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 304). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 688 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -47,7 +47,6 @@
 | [Charter Manufacturing](https://internscout.org/internships/at/charter-manufacturing/) | Smart Manufacturing Engineer Intern (Summer 2027) | Charter Steel - Saukville, WI +2 |  | Nov 4 | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Smart-Manufacturing-Engineer-Intern--Summer-2027-_R08133) |
 | [Standard Aero](https://internscout.org/internships/at/standard-aero/) | Supply Chain Summer Intern | Maryville, TN |  | Nov 3 | [Apply](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10689) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Industrial Engineering Intern | Florida - Jacksonville |  | Nov 3 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Jacksonville/Industrial-Engineering-Intern_JR105189) |
-| [RTX](https://internscout.org/internships/at/rtx/) | Systems Engineering Intern (Summer 2027) | Marlborough, MA |  | Nov 3 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Systems-Engineering-Intern--Summer-2027-_01886247) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Ground Systems Engineering Intern Summer 2027 | Middle River, MD | \$25.00 | Nov 2 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8042092003) |
 | [Hy-Vee](https://internscout.org/internships/at/hy-vee/) | Supply Chain Internship - Summer 2027 | Cherokee Distribution Center, Cherokee, IA |  | Nov 2 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Cherokee-Distribution-Center-Cherokee-IA/Supply-Chain-Internship---Summer-2027_R260193) |
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | 2027 Industrial Engineering Summer Internship - Phoenix, AZ | US - PHOENIX HUB (AZPHO) |  | Nov 2 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---PHOENIX-HUB-AZPHO/XMLNAME-2027-Industrial-Engineering-Summer-Internship---Phoenix--AZ_R26039747) |
@@ -204,6 +203,7 @@
 | [Shield AI](https://internscout.org/internships/at/shield-ai/) | Summer 2027 - Advanced Manufacturing Engineering Intern | Dallas, Texas +1 | Paid | Aug 27 | [Apply](https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a/apply) |
 | [CSX](https://internscout.org/internships/at/csx/) | Procurement & Supply Chain Internship - Summer 2027 (Paid) | Jacksonville, FL |  | Aug 27 | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54820) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Manufacturing Engineering | Los Angeles, CA | \$30–\$40 per hour | Aug 20 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5376060008) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD | Seattle, WA |  | Aug 20 | [Apply](https://lifeattiktok.com/search/7675845333947812149) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,11 +1,11 @@
 # Marketing: Summer 2027 Internships
 
-289 open Summer 2027 marketing roles, newest first (the 200 newest of 289). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 754 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+289 open Summer 2027 marketing roles, newest first (the 200 newest of 289). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 755 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - Digital Marketing | Toronto, Ontario | \$40,950.00 | Nov 10 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Wealth-Marketing--8-months-_JR26080978) |
 | [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Petcare MBA Marketing and Brand Management Internship | USA-Tennessee-Franklin | Paid | Nov 10 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Tennessee-Franklin/Summer-2027-Mars-Petcare-MBA-Marketing-and-Brand-Management-Internship_R172399-1) |
-| [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - Digital Marketing | Toronto, Ontario | \$40,950.00 | Nov 10 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Digital-Marketing_JR26100419) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - U.S. Retail Marketing | Boston, Massachusetts |  | Nov 10 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Boston-Massachusetts/Summer-Intern-2027---US-Retail-Marketing_JR26081277) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Intern to the Chief of Staff, External Affairs & Growth (Washington, DC) | Washington, Washington, DC |  | Nov 10 | [Apply](https://jobs.constellationenergy.com/jobs/142425) |
 | [Aon](https://internscout.org/internships/at/aon/) | 2027 Wealthspire - Marketing Brand Intern | New York, New York | \$25.00 – \$27.00 per hour | Nov 10 | [Apply](https://jobs.aon.com/jobs/109985) |
