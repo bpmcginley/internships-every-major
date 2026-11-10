@@ -6,6 +6,8 @@ A free, automatically updated list of **8,851 open Summer 2027 internships, co-o
 
 **Updated November 10, 2026.** Other start terms, or roles near you? [Search all 20,157 open roles on InternScout](https://internscout.org), free, no account.
 
+**How to use this list:** Choose a field below, or open its full list for more roles. Apply links go to employer sites. Employers can close roles after this list updates, so check the posting before applying. [Report a problem or suggest an improvement](https://github.com/bpmcginley/InternshipFinder/issues).
+
 ## Contents
 
 - [New this week](#new-this-week) (1,066)
