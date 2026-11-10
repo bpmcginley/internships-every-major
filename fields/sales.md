@@ -1,6 +1,6 @@
 # Sales: Summer 2027 Internships
 
-297 open Summer 2027 sales roles, newest first (the 200 newest of 297). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 546 sales internships on InternScout](https://internscout.org/internships/sales/)
+297 open Summer 2027 sales roles, newest first (the 200 newest of 297). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 545 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Uline](https://internscout.org/internships/at/uline/) | Outside Sales Internship - Summer 2027 | Columbus, OH +3 | \$22 to \$23 per hour | Oct 28 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Columbus-OH/Outside-Sales-Internship---Summer-2027_R268640) |
 | [Uline](https://internscout.org/internships/at/uline/) | Outside Sales Internship - Summer 2027 | Chicago, IL +4 | \$22 per hour | Oct 28 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Chicago-IL/Outside-Sales-Internship---Summer-2027_R268643) |
 | [Uline](https://internscout.org/internships/at/uline/) | Outside Sales Internship - Summer 2027 | Milwaukee, WI +2 | Paid | Oct 28 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Milwaukee-WI/Outside-Sales-Internship---Summer-2027_R268639) |
+| SC Johnson | Sales Internship - Summer 2027 | USA - Minneapolis +3 | Paid | Oct 28 | [Apply](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/USA---Minneapolis/Sales-Internship---Summer-2027_34340) |
 | [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | Commercial Sales Operations Intern - Summer 2027 | Atlanta, GA, USA |  | Oct 28 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Commercial-Sales-Operations-Intern---Summer-2027_R26_0000035643) |
 | [Q2](https://internscout.org/internships/at/q2/) | 2027 Summer Internship - Sales/Customer Success | Austin, Texas |  | Oct 28 | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Sales-Customer-Success_REQ-12905) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Team Sports/Sales | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Team-SportsSales-MD-21230/1434355500/) |
@@ -133,7 +134,6 @@
 | [Oracle](https://internscout.org/internships/at/oracle/) | Sales Development Rep Intern - Nashville, TN- Summer 2027 | Nashville, TN |  | Sep 18 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345687) |
 | [Oracle](https://internscout.org/internships/at/oracle/) | Sales Development Rep Intern - Burlington, MA- Summer 2027 | Burlington, MA |  | Sep 18 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345688) |
 | [Oracle](https://internscout.org/internships/at/oracle/) | Sales Development Rep Intern - Santa Monica, CA- Summer 2027 | Santa Monica, CA |  | Sep 18 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345690) |
-| [Oracle](https://internscout.org/internships/at/oracle/) | Sales Development Rep Intern - Austin, TX- Summer 2027 | Austin, TX |  | Sep 18 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345686) |
 | [Post Holdings](https://internscout.org/internships/at/post-holdings/) | Kroger Sales Co-Op Summer 2027 | Cincinnati, Ohio |  | Sep 18 | [Apply](https://jobs.postholdings.com/jobs/31985) |
 | [Post Holdings](https://internscout.org/internships/at/post-holdings/) | Corporate Sales Intern Summer 2027 | New Albany, Ohio |  | Sep 18 | [Apply](https://jobs.postholdings.com/jobs/31987) |
 | [Post Holdings](https://internscout.org/internships/at/post-holdings/) | Walmart Sales Co-Op Summer 2027 | Rogers, Arkansas |  | Sep 18 | [Apply](https://jobs.postholdings.com/jobs/31986) |

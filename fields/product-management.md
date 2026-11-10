@@ -1,6 +1,6 @@
 # Product Management: Summer 2027 Internships
 
-183 open Summer 2027 product management roles, newest first (all 183). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 318 product management internships on InternScout](https://internscout.org/internships/product-management/)
+181 open Summer 2027 product management roles, newest first (all 181). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 316 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -99,11 +99,9 @@
 | [Epic Games](https://internscout.org/internships/at/epic-games/) | Product Management Intern | Cary,North Carolina,United States +1 |  | Sep 29 | [Apply](https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: Product Management Intern | Northbrook, IL +1 | \$25.50 | Sep 28 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625) |
 | [Tradeweb](https://internscout.org/internships/at/tradeweb/) | Market Data Product Management Intern | NYC |  | Sep 24 | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301932) |
-| [AMD](https://internscout.org/internships/at/amd/) | 2027 Undergrad Program Management Intern/Co-op | Austin, Texas |  | Sep 24 | [Apply](https://careers.amd.com/jobs/92880) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Product Management Project Intern - Global Payment | San Jose, CA |  | Sep 22 | [Apply](https://jobs.bytedance.com/en/position/7686394581777631541/detail) |
 | Cadence Solutions | Product Management Intern | Remote +1 | \$55/hour | Sep 21 | [Apply](https://job-boards.greenhouse.io/solutions/jobs/4715294006) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | Software Engineer Intern, Digital Product | Austin, TX +3 |  | Sep 21 | [Apply](https://go.vansh.nyc/IT) |
-| [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 PhD Technical Program Manager, AI Research Intern | Santa Clara, California |  | Sep 21 | [Apply](https://careers.amd.com/jobs/91019) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Product Management Internship - Summer 2027 | San Diego, CA |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720741706) |
 | [Farmers Mutual Hail](https://internscout.org/internships/at/farmers-mutual-hail/) | Product Owner Intern | West Des Moines, IA | Paid | Sep 17 | [Apply](https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4404335009) |
 | Illinois Tool Works | Product Management Intern | Troy, OH |  | Sep 15 | [Apply](https://careers.itw.com/global/en/job/JR10105) |

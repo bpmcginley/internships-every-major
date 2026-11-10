@@ -1,6 +1,6 @@
 # Physics: Summer 2027 Internships
 
-30 open Summer 2027 physics roles, newest first (all 30). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 102 physics internships on InternScout](https://internscout.org/internships/physics/)
+29 open Summer 2027 physics roles, newest first (all 29). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 101 physics internships on InternScout](https://internscout.org/internships/physics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -13,9 +13,8 @@
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Silicon Photonics Process Integration Intern (Summer 2027) | USA - New York - Malta |  | Nov 10 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Intern--Summer-2027-_JR-2604267) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Electro-Optic Intern (Summer 2027)(Onsite) | Tucson, AZ | Paid | Nov 9 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9070--9070-S-Rita-Rd--BLDG-9070/Electro-Optic-Intern--Summer-2027--Onsite-_01877708) |
 | [Corning](https://internscout.org/internships/at/corning/) | R&D Intern, Optical Communications Development - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Nov 6 | [Apply](https://corningjobs.corning.com/job/Corning-R&D-Intern%2C-Optical-Communications-Development-Summer-2027-NY-14831/1448753800/) |
+| [AMD](https://internscout.org/internships/at/amd/) | Masters High-Speed SerDes and Optical Interconnect Engineering Intern | Santa Clara, CA |  | Nov 5 | [Apply](https://careers.amd.com/jobs/91893?icims=1&lang=en-us) |
 | Metalenz | Optical Metrology Intern Summer 2027 | Boston, MA +1 | \$5,500 - \$8,500 per month | Nov 5 | [Apply](https://jobs.ashbyhq.com/metalenz/ecc0e9f9-e83e-4d72-abff-0bf6651850d4/application) |
-| [AMD](https://internscout.org/internships/at/amd/) | Summer/Fall 2027 PhD Photonics Design and Engineering Co-Op | San Jose, California |  | Nov 5 | [Apply](https://careers.amd.com/jobs/90710) |
-| [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 Masters High-Speed SerDes and Optical Interconnect Engineering Intern | Santa Clara, California +1 |  | Nov 5 | [Apply](https://careers.amd.com/jobs/91893) |
 | [Draper](https://internscout.org/internships/at/draper/) | Optics-Physics Sensor Engineer Intern | Cambridge, MA |  | Nov 4 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Intern--Summer-2027-_JR003094) |
 | [Draper](https://internscout.org/internships/at/draper/) | Optics-Physics Sensor Engineering Intern (Summer 2027) | Cambridge, MA | \$20.00 - \$45.00 | Nov 4 | [Apply](https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Intern--Summer-2027-_JR003094) |
 | [Corning](https://internscout.org/internships/at/corning/) | Optical Design Intern - Summer 2027 | Fairport, NY | \$1,635.00 - \$3,185.00 | Nov 4 | [Apply](https://corningjobs.corning.com/job/Fairport-Optical-Design-Intern-Summer-2027-NY-14450/1437588500/) |

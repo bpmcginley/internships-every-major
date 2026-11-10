@@ -1,6 +1,6 @@
 # Education: Summer 2027 Internships
 
-32 open Summer 2027 education roles, newest first (all 32). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 261 education internships on InternScout](https://internscout.org/internships/education/)
+31 open Summer 2027 education roles, newest first (all 31). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 260 education internships on InternScout](https://internscout.org/internships/education/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -32,7 +32,6 @@
 | Auburn University | Student Summer Intern - Alabama Extension | Auburn University, AL |  | Oct 5 | [Apply](https://jobs.auburn.edu/jobs/10556) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Leadership Instructional Design Internship | IRVINE, California | Paid | Sep 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36762) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Sales Instructional Design Internship | Caledonia, Michigan | Paid | Sep 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36655) |
-| [Compeer Financial](https://internscout.org/internships/at/compeer-financial/) | Intern Events & Education | MN-Mankato +4 | Paid | Sep 9 | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5420089008) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship - Human Centered Design | Laurel, Maryland | \$22.60 Hour | Sep 4 | [Apply](https://careers.jhuapl.edu/jobs/59986) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Medical Education - Michigan | Portage, Michigan |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Medical-Education---Michigan_R572626-1) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Marketing & Sales Education & Training Internship - Summer 2027 | Lansing, MI |  | Sep 18 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Marketing---Sales-Education---Training-Internship---Summer-2027_R_14449) |

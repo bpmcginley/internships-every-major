@@ -1,6 +1,6 @@
 # Industrial Engineering: Summer 2027 Internships
 
-306 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 306). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 689 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+305 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 305). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 688 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Walmart](https://internscout.org/internships/at/walmart/) | Summer 2027 Intern: Load Logistics Manager, Transportation Corporate Intern | Bentonville, AR | \$21.00 - \$40.00 | Nov 6 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-AR-BENTONVILLE-09848-REG-OPERATIONS-CENTER/Summer-2027--Intern--Load-Logistics-Manager--Transportation-Corporate-Intern_R-2617827) |
 | [Regal Rexnord](https://internscout.org/internships/at/regal-rexnord/) | Supply Chain Summer Intern | Milwaukee, Wisconsin, United States +5 | \$19 - \$25 per hour | Nov 6 | [Apply](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Milwaukee-Wisconsin-United-States/Supply-Chain-Summer-Intern_R26_04542-1) |
 | Lumbermen's | Industrial Engineer Internship | Byron Center, MI | Paid | Nov 5 | [Apply](https://job-boards.greenhouse.io/lumbermens/jobs/5474347008) |
-| [RTX](https://internscout.org/internships/at/rtx/) | Industrial Engineer Intern (Summer 2027) | Winston Salem, NC | Paid | Nov 5 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-WINSTON-SALEM-1455--1455-Fairchild-Rd--ADMIN-BLDG/Industrial-Engineer-Intern--Summer-2027-_01887069) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Industrial Engineer Intern (Summer 2027) | Winston Salem, NC |  | Nov 5 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-WINSTON-SALEM-1455--1455-Fairchild-Rd--ADMIN-BLDG/Industrial-Engineer-Intern--Summer-2027-_01887069) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Supply Chain Internship - Summer 2027 | Centennial, CO | \$23.10 - \$37.95 | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Supply-Chain-Internship-Summer-2027-CO-80112/1427397500/) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Industrial Engineering Internship - Summer 2027 | Cape Canaveral, FL |  | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Cape-Canaveral-Industrial-Engineering-Internship-Summer-2027-FL-32925/1427396900/) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Logistics & Transportation Internship - Summer 2027 | Decatur, AL |  | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Decatur-Logistics-&-Transportation-Internship-Summer-2027-AL-35601/1427397300/) |
@@ -176,7 +176,6 @@
 | [Lunar Outpost](https://internscout.org/internships/at/lunar-outpost/) | Systems Engineering Intern - Summer 2027 | Golden, Colorado |  | Sep 15 | [Apply](https://lunaroutpost.bamboohr.com/careers/393) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | San Leandro, California | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36099) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | DOWNEY, California | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36094) |
-| [AMD](https://internscout.org/internships/at/amd/) | 2027 Undergrad Supply Chain Co-Op/Intern | Austin, Texas |  | Sep 10 | [Apply](https://careers.amd.com/jobs/92244) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | Eagan, Minnesota | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36106) |
 | [General Dynamics Mission Systems](https://internscout.org/internships/at/general-dynamics-mission-systems/) | Payload Control System Software/Systems Engineering Intern - Summer 2027 | Middletown, RI +1 |  | Sep 9 | [Apply](https://careers-gdms.icims.com/jobs/74848/job?mobile=true&needsRedirect=false) |
 | [Saronic](https://internscout.org/internships/at/saronic/) | Manufacturing Engineer Intern (Summer 2027) | Franklin, LA +3 |  | Sep 9 | [Apply](https://jobs.ashbyhq.com/saronic/2b037fca-754c-4077-b224-eb35cf2b2b97/application) |
@@ -204,6 +203,7 @@
 | Northwood Space | Supply Chain Data & Analytics Intern | LA +1 |  | Aug 29 | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application?embed=true) |
 | [Shield AI](https://internscout.org/internships/at/shield-ai/) | Summer 2027 - Advanced Manufacturing Engineering Intern | Dallas, Texas +1 | Paid | Aug 27 | [Apply](https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a/apply) |
 | [CSX](https://internscout.org/internships/at/csx/) | Procurement & Supply Chain Internship - Summer 2027 (Paid) | Jacksonville, FL |  | Aug 27 | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54820) |
+| [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Manufacturing Engineering | Los Angeles, CA | \$30–\$40 per hour | Aug 20 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5376060008) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

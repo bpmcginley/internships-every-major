@@ -1,9 +1,10 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-336 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 336). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 880 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+331 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 331). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 876 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [RTX](https://internscout.org/internships/at/rtx/) | Manufacturing Electrical Engineer Co-op (Summer/Fall 2027) | Melbourne, FL | Paid | Nov 10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Electrical-Engineer-Co-op--Summer-Fall-2027-_01883880) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Mechanical Engineering Intern - Summer 2027 | Hamilton, NJ | \$23.90 - \$32.22 | Nov 10 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94976) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Mechanical Engineer Intern (Summer 2027) | El Segundo, CA | Paid | Nov 10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineer-Intern--Summer-2027-_01885537) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Mechanical Engineering Intern Industrial Services \| Summer 2027 | OH | \$20/hour | Nov 10 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168741) |
@@ -150,9 +151,6 @@
 | [OATEY](https://internscout.org/internships/at/oatey/) | Engineering Intern, Manufacturing & Automation | Shakopee, MN (Manufacturing) | \$21.08 - \$26.35 | Oct 12 | [Apply](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Shakopee-MN-Manufacturing/Engineering-Intern--Manufacturing---Automation_R7258) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | Summer 2027 Intern - Research and Development - Smart Manufacturing Systems | Warren, Michigan, United States of America +1 |  | Oct 12 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Research-and-Development---Smart-Manufacturing-Systems_JR-202621657) |
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-op - Midstream Natural Gas and NGL Services Chemical/Mechanical/Civil/Petroleum/Electrical Engineering (Summe… | Canonsburg, Pennsylvania +12 | \$33.54 per hour | Oct 12 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Canonsburg-Pennsylvania/Intern-Co-op---Midstream-Natural-Gas-and-NGL-Services-Chemical-Mechanical-Civil-Petroleum-Electrical-Engineering--Summer-2027-_00024214) |
-| [AMD](https://internscout.org/internships/at/amd/) | 2027 Masters Thermal Engineering Intern/Co-Op | Austin, Texas +1 |  | Oct 11 | [Apply](https://careers.amd.com/jobs/93646) |
-| [AMD](https://internscout.org/internships/at/amd/) | 2027 Masters Thermal Engineering Intern/Co-Op | Santa Clara, California |  | Oct 11 | [Apply](https://careers.amd.com/jobs/93645) |
-| [AMD](https://internscout.org/internships/at/amd/) | 2027 Undergrad Thermal Engineering Intern/Co-Op | Austin, Texas +1 |  | Oct 11 | [Apply](https://careers.amd.com/jobs/93644) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Manufacturing Engineering Intern | Sparks, Nevada |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51639) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Summer 2027: Mechanical Engineering Intern, Shark (May to August) | Needham, MA, United States |  | Oct 8 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718812006) |
 | [Peraton](https://internscout.org/internships/at/peraton/) | Summer 2027 Mechanical Engineering Intern- Topeka, KS | Topeka, Kansas | \$24.50/hour | Oct 8 | [Apply](https://peraton.jibeapply.com/jobs/172050) |
@@ -170,7 +168,6 @@
 | [Stantec](https://internscout.org/internships/at/stantec/) | Mechanical Engineering Intern - Water (Summer 2027) | Lexington, KY |  | Oct 1 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008122) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Mechanical Engineering Intern - Water (Summer 2027) | Nashville, TN |  | Oct 1 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008121) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | Thermal Engineering Intern (Summer 2027) | San Jose, CA | \$40/hour | Sep 30 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5253474007) |
-| [AMD](https://internscout.org/internships/at/amd/) | 2027 Undergrad Thermal Engineering Intern/Co-Op | Santa Clara, California |  | Sep 30 | [Apply](https://careers.amd.com/jobs/93091) |
 | [Freeform](https://internscout.org/internships/at/freeform/) | Manufacturing Engineering Intern, CNC Machining (Summer 2027) | Los Angeles, CA (On-site) | \$30/hour | Sep 29 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/8004101003) |
 | [Ralliant](https://internscout.org/internships/at/ralliant/) | Manufacturing Engineering Intern - Summer 2027 | Plainville, CT |  | Sep 29 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10681) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Interns - Manufacturing Engineer - Whitehall, MI (Summer 2027) | Whitehall, MI |  | Sep 29 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119686) |
@@ -204,6 +201,9 @@
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | San Leandro, California | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36099) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | DOWNEY, California | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36094) |
 | [Garmin](https://internscout.org/internships/at/garmin/) | Mechanical Engineering Intern | Cary, North Carolina |  | Sep 10 | [Apply](https://careers.garmin.com/jobs/19911) |
+| [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | Eagan, Minnesota | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36106) |
+| [Saronic](https://internscout.org/internships/at/saronic/) | Mechanical Engineer Intern (Summer 2027) | Austin, TX +1 |  | Sep 9 | [Apply](https://jobs.ashbyhq.com/saronic/f52ae6eb-7eba-4c64-97c7-57e2a234e088/application) |
+| [Saronic](https://internscout.org/internships/at/saronic/) | Manufacturing Engineer Intern (Summer 2027) | Franklin, LA +3 |  | Sep 9 | [Apply](https://jobs.ashbyhq.com/saronic/2b037fca-754c-4077-b224-eb35cf2b2b97/application) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

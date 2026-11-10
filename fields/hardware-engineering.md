@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-332 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 332). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 848 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+319 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 319). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 835 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -52,7 +52,6 @@
 | [Marvell](https://internscout.org/internships/at/marvell/) | Hardware Signal Integrity Intern, MS - Summer 2027 | Santa Clara, CA | Paid | Nov 3 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Hardware-Signal-Integrity-Intern--MS---Summer-2027_2603877-1) |
 | [Resideo](https://internscout.org/internships/at/resideo/) | Firmware Engineer Intern | Aurora, IL |  | Nov 2 | [Apply](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19813) |
 | [Resideo](https://internscout.org/internships/at/resideo/) | Firmware Engineer Intern | Golden Valley, MN |  | Nov 2 | [Apply](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19814) |
-| [Resideo](https://internscout.org/internships/at/resideo/) | Firmware Engineer Intern | Aurora, IL +1 |  | Nov 2 | [Apply](https://go.vansh.nyc/1bx) |
 | [Resideo](https://internscout.org/internships/at/resideo/) | Embedded Firmware Engineer Intern | Melville, NY |  | Nov 2 | [Apply](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19812) |
 | Shield | Embedded Firmware Intern | Dallas, TX |  | Nov 2 | [Apply](https://go.vansh.nyc/1bJ) |
 | [Zoox](https://internscout.org/internships/at/zoox/) | Hardware Engineer Intern, Vehicle Systems \[Summer 2027\] | Foster City, CA |  | Nov 2 | [Apply](https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b/apply) |
@@ -204,6 +203,7 @@
 | [Astranis](https://internscout.org/internships/at/astranis/) | FPGA Intern (Summer 2027) | San Francisco +2 | \$29.00 per hour | Sep 23 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704805006) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Software Defined Radio Hardware Intern (Summer 2027) | San Francisco +1 |  | Sep 23 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4716088006) |
 | [Analog Devices](https://internscout.org/internships/at/analog-devices/) | Embedded Software Engineer Intern | Toronto, Canada +1 |  | Sep 23 | [Apply](https://go.vansh.nyc/Jm) |
+| Two Sigma | Hardware Engineering Intern | NYC +1 |  | Sep 22 | [Apply](https://twosigma.avature.net/careers/JobDetail/14289) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

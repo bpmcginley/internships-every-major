@@ -1,6 +1,6 @@
 # Civil Engineering: Summer 2027 Internships
 
-334 open Summer 2027 civil engineering roles, newest first (the 200 newest of 334). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 651 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+334 open Summer 2027 civil engineering roles, newest first (the 200 newest of 334). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 650 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

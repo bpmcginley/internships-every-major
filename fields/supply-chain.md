@@ -1,6 +1,6 @@
 # Supply Chain: Summer 2027 Internships
 
-215 open Summer 2027 supply chain roles, newest first (the 200 newest of 215). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 457 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
+214 open Summer 2027 supply chain roles, newest first (the 200 newest of 214). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 456 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -107,7 +107,6 @@
 | [Ulta Beauty](https://internscout.org/internships/at/ulta-beauty/) | Intern Distribution Center | Chambersburg, Pennsylvania |  | Sep 14 | [Apply](https://careers.ulta.com/jobs/527840) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Transportation Analyst Intern (Kennett Square, PA) | Kennett Square, Pennsylvania |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138721) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Indirect Procurement Intern Summer 2027 | Long Beach, CA | \$25.00 | Sep 11 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989063003) |
-| [AMD](https://internscout.org/internships/at/amd/) | 2027 Undergrad Supply Chain Co-Op/Intern | Austin, Texas |  | Sep 10 | [Apply](https://careers.amd.com/jobs/92244) |
 | [Pacific Fusion](https://internscout.org/internships/at/pacific-fusion/) | Summer 2027 Internship- Supply Chain | San Leandro, CA/Fremont, CA +1 | Paid | Sep 9 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4398408009) |
 | Force Factor | Summer 2027 Supply Chain Intern | Boston, MA +1 |  | Sep 9 | [Apply](https://forcefactor.com/pages/job-openings?gh_jid=6167273004) |
 | [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Summer Associate Internship (Strategic Sourcing Analyst) | Vienna, VA |  | Sep 9 | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32370) |
@@ -204,6 +203,7 @@
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | UPS Supply Chain Solutions 2027 Summer Intern | US - UPS CORPORATE OFFICES (GACOR) |  | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Supply-Chain-Solutions-2027-Summer-Intern_R26030498) |
 | [Pentair](https://internscout.org/internships/at/pentair/) | Supply Chain & Operations Leadership Development Internship Program - Summer 2027 | Golden Valley, MN +10 | \$28.00/ hour | Sep 18 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Supply-Chain---Operations-Leadership-Development-Internship-Program---Summer-2027_R23712) |
 | [Ingredion](https://internscout.org/internships/at/ingredion/) | Global Supply Chain Data Science Intern | Westchester, IL | \$20-23hour | Sep 18 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Supply-Chain-Data-Science-Intern_Req-40226-1) |
+| [Shure](https://internscout.org/internships/at/shure/) | Global Logistics Intern | Niles, IL |  | Sep 18 | [Apply](https://careersus-shure.icims.com/jobs/4987/global-logistics-intern/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

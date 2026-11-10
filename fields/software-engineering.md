@@ -1,9 +1,10 @@
 # Software Engineering: Summer 2027 Internships
 
-1,870 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,870). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 3,460 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,864 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,864). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 3,457 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [ByteDance](https://internscout.org/internships/at/bytedance/) | Site Reliability Engineer Intern, Data Platform, Computer Platform | San Jose, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1s7) |
 | [Skydio](https://internscout.org/internships/at/skydio/) | Middleware Software Engineer Intern - Summer 2027 | San Mateo, California, United States +2 | \$47/hr | Nov 10 | [Apply](https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03/application) |
 | [Trimble](https://internscout.org/internships/at/trimble/) | Software Engineering Intern | Knoxville, TN |  | Nov 10 | [Apply](https://go.vansh.nyc/1rP) |
 | [Shield AI](https://internscout.org/internships/at/shield-ai/) | Summer 2027 - Software Engineer Intern | San Diego, California |  | Nov 10 | [Apply](https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application) |
@@ -28,6 +29,7 @@
 | Art of Problem Solving | Computer Science Curriculum Intern | San Diego, California, United States | \$30/hour | Nov 10 | [Apply](https://artofproblemsolving.com/careers/job/8199446003?gh_jid=8199446003) |
 | [Celestica](https://internscout.org/internships/at/celestica/) | IT Business Application Development Intern | Toronto, Canada |  | Nov 10 | [Apply](https://go.vansh.nyc/1pV) |
 | Lockheed Martin | Software Development Intern | Bethesda, MD +1 |  | Nov 10 | [Apply](https://go.vansh.nyc/1pZ) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Software Engineering Intern (Summer 2027) | St Petersburg, FL | Paid | Nov 10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01887806) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | IT Summer Internship Program Event Coordinator Intern - Summer 2027 | Cincinnati, OH (USA) | Paid | Nov 10 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Summer-Internship-Program-Event-Coordinator-Intern---Summer-2027_R9889) |
 | [Northrop Grumman](https://internscout.org/internships/at/northrop-grumman/) | 2027 Systems Engineer Intern - Dulles VA or McLean VA | United States-Virginia-Dulles +1 | \$26.75 to \$32.50 per hour | Nov 10 | [Apply](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineer-Intern---Dulles-VA-or-McLean-VA_R10259857) |
 | [Motorola](https://internscout.org/internships/at/motorola/) | Software System Technologist Intern (Summer 2027 Internship) | Allen, TX (TX139) | \$20.70 - \$24.10 | Nov 10 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-System-Technologist-Intern--Summer-2027-Internship-_R70511) |
@@ -202,8 +204,6 @@
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | University - 2027 Summer Games Systems Engineer Intern - El Segundo, CA | El Segundo, CA |  | Nov 5 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0248366) |
 | BiblioCommons | Junior Full-Stack Engineer Intern | Canada |  | Nov 5 | [Apply](https://go.vansh.nyc/1iD) |
 | [JM Family Enterprises](https://internscout.org/internships/at/jm-family-enterprises/) | Software Analyst Intern | Deerfield Beach, FL |  | Nov 5 | [Apply](https://go.vansh.nyc/1iI) |
-| [SOTI](https://internscout.org/internships/at/soti/) | Software Developer Intern - Android (May 2027 - 12 Months) | Mississauga, Canada – Meadowvale Office (HQ) +1 |  | Nov 5 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650) |
-| [JM Family](https://internscout.org/internships/at/jm-family/) | Software Engineer Intern | Florida - Deerfield Beach +1 |  | Nov 5 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

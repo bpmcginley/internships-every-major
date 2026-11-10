@@ -1,6 +1,6 @@
 # Engineering: Summer 2027 Internships
 
-688 open Summer 2027 engineering roles, newest first (the 200 newest of 688). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 1,717 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+683 open Summer 2027 engineering roles, newest first (the 200 newest of 683). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 1,713 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -116,9 +116,7 @@
 | [Pennsylvania State University](https://internscout.org/internships/at/pennsylvania-state-university/) | Research and Development Engineer Intern | State College, PA |  | Oct 28 | [Apply](https://go.vansh.nyc/Yd) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Summer 2027 Supplier Engineer Intern- Bachelor's (Chandler, AZ) | Chandler,AZ +2 | Paid | Oct 28 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Summer-2027-Supplier-Engineer-Intern--Bachelor-s--Chandler--AZ-_R2627698) |
 | [Mitsubishi Heavy Industries America](https://internscout.org/internships/at/mitsubishi-heavy-industries-america/) | Engineering Intern - Summer 2027 | Pooler, GA |  | Oct 28 | [Apply](https://mhicareers.com/job/Pooler-Engineering-Intern-Summer-2027-GA-31322/1452261433/) |
-| [Federal Home Loan Bank of Indianapolis](https://internscout.org/internships/at/federal-home-loan-bank-of-indianapolis/) | Network Engineer Intern | Indianapolis, IN | Paid | Oct 28 | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Network-Engineer-Intern_R630) |
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Network Engineer Intern (Summer 2027) | Hagerstown, MD | \$21.40 - \$29.43 | Oct 28 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Network-Engineer-Intern--Summer-2027-_R0031232) |
-| [Federal Home Loan Bank of Indianapolis](https://internscout.org/internships/at/federal-home-loan-bank-of-indianapolis/) | Automation Quality Engineer Intern | Indianapolis, IN | Paid | Oct 28 | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Automation-Quality-Engineer-Intern_R633) |
 | [Carpenter Technology](https://internscout.org/internships/at/carpenter-technology/) | R&D Materials Characterization Intern | Reading, PA | \$21.00-\$25.00 per hour | Oct 28 | [Apply](https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/R-D-Materials-Characterization-Intern_26966) |
 | [Intel](https://internscout.org/internships/at/intel/) | Process Integration Development Engineer PhD Intern 2027 | Hillsboro, OR | \$120,898.00-120,902.00 | Oct 28 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-2027_JR0288661) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Heat Pump Product Engineering Intern, Summer 2027 | Fort Worth, TX | \$22–\$26 hour | Oct 28 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Heat-Pump-Product-Support-Summer-Intern-2027_10017704) |
@@ -204,6 +202,8 @@
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | Design-To-Value Engineering Intern - Summer 2027 | Towson, MD, United States | \$38,600.00 - \$62,200.00 | Oct 22 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Design-To-Value-Engineering-Intern---Summer-2027_REQ-1000052535) |
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | 2027 Summer Engineering Intern | US - DALLAS (TXDAL) |  | Oct 22 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---DALLAS-TXDAL/XMLNAME-2027-Summer-Engineering-Intern_R26039035) |
 | [Global Infrastructure](https://internscout.org/internships/at/global-infrastructure/) | Intern Engineering Designer, Aviation | US +1 | \$24-27 hour | Oct 22 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--NH--Auburn---254-Rockingham-Road/Intern-Engineering-Designer--Aviation_6585) |
+| [Allison Transmission](https://internscout.org/internships/at/allison-transmission/) | Product Engineering Intern - Summer 2027 | Indianapolis, IN |  | Oct 21 | [Apply](https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Product-Engineering-Intern---Summer-2027_R008017) |
+| [Granite Construction](https://internscout.org/internships/at/granite-construction/) | 2027 Summer Project Engineer Internship | Kennewick, Washington | \$24.00 | Oct 21 | [Apply](https://granite.wd1.myworkdayjobs.com/careers/job/Kennewick-Washington/XMLNAME-2027-Summer-Project-Engineer-Internship_R0000008229) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
