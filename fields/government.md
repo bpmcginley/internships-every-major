@@ -1,6 +1,6 @@
 # Government and Public Policy: Summer 2027 Internships
 
-62 open Summer 2027 government and public policy roles, newest first (all 62). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 277 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+62 open Summer 2027 government and public policy roles, newest first (all 62). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 272 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | National Institute of Standards and Technology | Summer Undergraduate Research Fellowship (SURF) Program - Boulder, CO (STEM Fields) | Boulder, Colorado | \$6390 - \$7810 | Oct 16 | [Apply](https://www.usajobs.gov:443/job/889006800) |
 | National Institute of Standards and Technology | Summer Undergraduate Research Fellowship (SURF) Program - Gaithersburg, MD (STEM and Related Fields) | Gaithersburg, Maryland | \$6390 - \$7810 | Oct 16 | [Apply](https://www.usajobs.gov:443/job/889003500) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Civil Engineering Intern, Federal - Summer 2027 | Jacksonville, FL |  | Oct 13 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310064) |
-| Office of the Secretary of Defense | Student Trainee (Legal) | Arlington, Virginia | \$57736 - \$91815 Per Year | Oct 8 | [Apply](https://www.usajobs.gov:443/job/887905200) |
+| [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | Corporate Affairs & Government Relations - Summer 2027 | Columbus, Ohio |  | Oct 6 | [Apply](https://careers.marzetticompany.com/jobs/8112) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Government Operations Intern Summer 2027 | Littleton, CO | \$22.00 | Oct 2 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8001401003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Government Operations Intern Summer 2027 | Washington, DC | \$22.00 | Oct 2 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7992754003) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Internship- Public Affairs | HOUSTON, Texas |  | Sep 30 | [Apply](https://careers.kindermorgan.com/jobs/6224) |
@@ -53,8 +53,8 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Public Policy Intern (Kennett Square, PA) | Kennett Square, Pennsylvania |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138711) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Policy Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175556?gh_jid=8175556) |
 | [Air Force Civilian Career Training](https://internscout.org/internships/at/air-force-civilian-career-training/) | Student Trainee | Clear AFB, Alaska +83 | \$36409 - \$52957 Per Year | Sep 1 | [Apply](https://www.usajobs.gov:443/job/882786200) |
-| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 9, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
-| [IDEMIA](https://internscout.org/internships/at/idemia/) | Government Relations Internship - Summer 2027 | Reston, VA |  | Nov 9, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8690/government-relations-internship---summer-2027/job) |
+| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 10, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Government Relations Internship - Summer 2027 | Reston, VA |  | Nov 10, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8690/government-relations-internship---summer-2027/job) |
 | [UHY](https://internscout.org/internships/at/uhy/) | 2027 Governmental Audit Summer Internship - Maryland | Columbia, MD +1 |  | Nov 3 | [Apply](https://uhyus.wd12.myworkdayjobs.com/uhy/job/Columbia-MD/XMLNAME-2027-Governmental-Audit-Summer-Internship---Maryland_JR102309) |
 | RAND Corporation | RAND Summer Associate Program - POLICY Research | Santa Monica, CA (Greater Los Angeles Area) +4 | \$32.00/hour | Oct 17 | [Apply](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Santa-Monica-CA-Greater-Los-Angeles-Area/RAND-Summer-Associate-Program---POLICY-Research_R3660) |
 | [Plante Moran](https://internscout.org/internships/at/plante-moran/) | 2027 Governmental Accounting Practice Summer Intern | Detroit +1 | \$28.00 - \$28.00 | Oct 5 | [Apply](https://plantemoran.wd1.myworkdayjobs.com/pmexternalcareers/job/Southfield/XMLNAME-2027-Governmental-Accounting-Practice-Summer-Intern_JR-03325) |

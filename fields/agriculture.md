@@ -1,6 +1,6 @@
 # Agriculture: Summer 2027 Internships
 
-15 open Summer 2027 agriculture roles, newest first (all 15). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 47 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
+16 open Summer 2027 agriculture roles, newest first (all 16). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 48 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -10,6 +10,7 @@
 | [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Sensory and Products Research Intern, Summer 2027 | Orrville, OH | \$21.50/hr | Oct 19 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Sensory-and-Products-Research-Intern--Summer-2027_115677) |
 | AGCO | Agricultural Business Analytics Intern | Champaign, IL |  | Oct 14 | [Apply](https://careers.agcocorp.com/job/Champaign-Agricultural-Business-Analytics-Intern-Summer-2027-IL/1440135500/?ats=successfactors) |
 | [Land O'Lakes](https://internscout.org/internships/at/land-o-lakes/) | WinField United Market Development Agronomist Intern, Summer 2027 | Remote +3 | \$25.00/hour | Oct 13 | [Apply](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Virtual-USA/WinField-United-Market-Development-Agronomist-Intern--Summer-2027_R-40235) |
+| [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | R&D Innovation, Culinary and Sensory Intern - Summer 2027 | Lewis Center, Ohio |  | Sep 21 | [Apply](https://careers.marzetticompany.com/jobs/8082) |
 | [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Forestry Field Office Internship – Emerging Talent Summer Experience Program | Junction City, OR |  | Sep 21 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792106) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Food Safety & Quality Intern - Summer 2027 - Campus Recruiting (Multiple Locations) | Austin, MN +11 |  | Sep 4 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35738) |
 | [Ruekert & Mielke](https://internscout.org/internships/at/ruekert-mielke/) | Agricultural Engineering Student Intern (Summer 2027) | Madison, Wisconsin |  | Sep 1 | [Apply](https://ruekertmielke.bamboohr.com/careers/310) |

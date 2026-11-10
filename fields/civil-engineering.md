@@ -1,9 +1,10 @@
 # Civil Engineering: Summer 2027 Internships
 
-344 open Summer 2027 civil engineering roles, newest first (the 200 newest of 344). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 656 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+341 open Summer 2027 civil engineering roles, newest first (the 200 newest of 341). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 656 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors - Construction Representative Intern (Summer 2027) | Hartford, Connecticut | \$37.03 | Nov 9 | [Apply](https://careers.cdmsmith.com/jobs/4962) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Structural Engineering Intern - Summer 2027 | Goshen, NY | \$24.76- \$32.22 | Nov 9 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98934) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Structural Engineering Intern - Summer 2027 | Valhalla, NY | \$24.76- \$32.22 | Nov 9 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98940) |
 | [STV](https://internscout.org/internships/at/stv/) | Civil Engineering Intern - Summer 2027 | Empire State Building, New York, New York | \$54,810.00 - \$62,284.00 | Nov 9 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Empire-State-Building-New-York-New-York/Civil-Engineering-Intern---Summer-2027_JR6006) |
@@ -134,7 +135,6 @@
 | [Stantec](https://internscout.org/internships/at/stantec/) | Geotechnical Engineering Intern (Summer 2027) – 12 or 16 Month Term | Calgary, AB, Canada |  | Sep 30 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008094) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Roadway Design Intern, Summer 2027 | Tampa, FL +3 |  | Sep 30 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309973) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Bridge Inspection Intern, Summer 2027 | Tampa, FL +3 |  | Sep 30 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309972) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors - Construction Representative Intern (Summer 2027) | Hartford, Connecticut | \$37.03 | Sep 29 | [Apply](https://careers.cdmsmith.com/jobs/4615) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Structural Engineering Intern/Co-op – Infrastructure (Summer 2027) | New Haven, CT +1 |  | Sep 29 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008077) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Structural Intern, Summer 2027 | Pittsburgh, PA |  | Sep 28 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309901) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Civil Engineering Intern | Arlington, Texas | \$20.00 | Sep 25 | [Apply](https://careers.trccompanies.com/jobs/26963) |
@@ -166,7 +166,6 @@
 | [Stantec](https://internscout.org/internships/at/stantec/) | Transportation Engineering Co-op/Intern - Infrastructure (Summer 2027) | Auburn, NH |  | Sep 21 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007837) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Transportation Engineering Co-op/Intern - Infrastructure (Summer 2027) | South Burlington, VT |  | Sep 21 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007876) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Internship - Community Development (Summer 2027) | Mequon, WI |  | Sep 18 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007861) |
-| [Stantec](https://internscout.org/internships/at/stantec/) | Transportation Engineering Intern - Infrastructure (Summer 2027) | Lexington, KY |  | Sep 18 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007804) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Highway Design Intern | Dearborn, MI +1 |  | Sep 18 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309914) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Bridge Inspection Engineering Intern- Summer 2027 | Lawrenceville, NJ |  | Sep 18 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95572) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Transportation Engineering Co-op/Intern (Summer 2027) | New York, NY |  | Sep 18 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007815) |
@@ -204,6 +203,7 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors - Transportation Engineering Intern (Summer 2027!) | Harrisburg, Pennsylvania | \$42.02 | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/4354) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Civil Engineering Internship - Data Centers Site Design | Omaha, NE |  | Sep 2 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5408688008) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Civil Engineering | Los Angeles, CA | \$30–\$40 per hour | Sep 2 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377122008) |
+| [Haskell](https://internscout.org/internships/at/haskell/) | Summer 2027 Construction Intern | Jacksonville, Florida |  | Sep 2 | [Apply](https://haskell.jibeapply.com/jobs/7053) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,6 +1,6 @@
 # Journalism: Summer 2027 Internships
 
-24 open Summer 2027 journalism roles, newest first (all 24). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 83 journalism internships on InternScout](https://internscout.org/internships/journalism/)
+23 open Summer 2027 journalism roles, newest first (all 23). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 83 journalism internships on InternScout](https://internscout.org/internships/journalism/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -16,7 +16,6 @@
 | [Hearst](https://internscout.org/internships/at/hearst/) | Local News Intern - Summer 2027 | Dallas, TX |  | Sep 23 | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027548) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX News Media Internship Program - Chicago, IL | Chicago, Illinois, USA | \$20.00 per hour | Oct 24 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Chicago-Illinois-USA/Summer-2027-FOX-News-Media-Internship-Program---Chicago--IL_R50033979) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX News Media Internship Program - Atlanta, GA | Atlanta, Georgia, USA | \$20.00 per hour | Oct 24 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Atlanta-Georgia-USA/Summer-2027-FOX-News-Media-Internship-Program---Atlanta--GA_R50033978) |
-| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Intern - Marketing, Communications, Journalism Majors | Chicago, IL | \$20 to \$33, | Oct 1 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern---Marketing--Communications--Journalism-Majors_R-0000033618-1) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX News Media Internship Program - Miami, FL | Miami, Florida, USA | \$20.00 per hour | Sep 28 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Miami-Florida-USA/Summer--2027-FOX-News-Media-Internship-Program---Miami--FL_R50033988) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX News Media Internship Program - New York | New York, New York, USA | \$20.00 per hour | Sep 28 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---New-York_R50033989) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX News Media Internship Program - FOX Weather | New York, New York, USA | \$20.00 per hour | Sep 28 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---FOX-Weather_R50033961) |

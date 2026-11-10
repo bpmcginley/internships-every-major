@@ -1,9 +1,10 @@
 # Architecture: Summer 2027 Internships
 
-55 open Summer 2027 architecture roles, newest first (all 55). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 137 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+56 open Summer 2027 architecture roles, newest first (all 56). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 137 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Zoetis](https://internscout.org/internships/at/zoetis/) | AI Architecture, Enablement & Tools Intern, AI Capabilities | Remote +2 |  | Nov 9 | [Apply](https://go.vansh.nyc/1ph) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | New York, NY | \$21.74 - \$30.53 per hour | Nov 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98916) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | South Jordan, UT |  | Nov 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98842) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | New Orleans, LA +1 |  | Nov 5 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98834) |

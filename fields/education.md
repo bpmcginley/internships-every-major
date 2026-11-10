@@ -1,9 +1,10 @@
 # Education: Summer 2027 Internships
 
-28 open Summer 2027 education roles, newest first (all 28). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 224 education internships on InternScout](https://internscout.org/internships/education/)
+29 open Summer 2027 education roles, newest first (all 29). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 227 education internships on InternScout](https://internscout.org/internships/education/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Art of Problem Solving | Math Curriculum Intern | San Diego, California, United States | \$30/hour | Nov 9 | [Apply](https://artofproblemsolving.com/careers/job/8199370003?gh_jid=8199370003) |
 | [Chubb](https://internscout.org/internships/at/chubb/) | Agency Education and Development Intern | Chicago, IL | \$18 to \$24 per hour | Nov 6 | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38424) |
 | [Motorola](https://internscout.org/internships/at/motorola/) | Global Education Intern (Summer 2027 Internship) | Chicago, IL +1 |  | Nov 5 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Global-Education-Intern--Summer-2027-Internship-_R70403) |
 | [University Corporation for Atmospheric Research](https://internscout.org/internships/at/university-corporation-for-atmospheric-research/) | 2027 SIParCS Undergraduate Student Internships | Boulder, CO | \$23.41/hr | Nov 3 | [Apply](https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/XMLNAME-2027-SIParCS-Undergraduate-Student-Internships_REQ-2026-231-1) |

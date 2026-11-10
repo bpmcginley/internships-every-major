@@ -1,6 +1,6 @@
 # Chemical Engineering: Summer 2027 Internships
 
-66 open Summer 2027 chemical engineering roles, newest first (all 66). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 158 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+68 open Summer 2027 chemical engineering roles, newest first (all 68). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 160 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -36,6 +36,8 @@
 | [Solar Turbines](https://internscout.org/internships/at/solar-turbines/) | 2027 Material & Process Engineering, Summer Intern | San Diego, California | \$26.00 - \$43.00 | Oct 12 | [Apply](https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-Gas-Turbine-Product-Engineering--Summer-Intern_R0000382212) |
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-op - Midstream Natural Gas and NGL Services Chemical/Mechanical/Civil/Petroleum/Electrical Engineering (Summe… | Canonsburg, Pennsylvania +12 | \$33.54 per hour | Oct 12 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Canonsburg-Pennsylvania/Intern-Co-op---Midstream-Natural-Gas-and-NGL-Services-Chemical-Mechanical-Civil-Petroleum-Electrical-Engineering--Summer-2027-_00024214) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Cell & Process Engineering Intern | Sparks, Nevada |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51641) |
+| [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | Process Engineering Intern - Summer 2027 | Columbus, Ohio | \$22.00/hour | Oct 6 | [Apply](https://careers.marzetticompany.com/jobs/8120) |
+| [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | Process Engineering Manufacturing Intern - Summer 2027 | Horse Cave, Kentucky | \$22.00/hour | Oct 6 | [Apply](https://careers.marzetticompany.com/jobs/8156) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations | Mountain View, CA, USA +1 | Paid | Oct 1 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8243556) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Process/Chemical Engineering Intern - Water (Summer 2027) | Nashville, TN |  | Oct 1 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008118) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Process/Chemical Engineering Intern - Water (Summer 2027) | Charlotte, NC |  | Oct 1 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008119) |
@@ -46,7 +48,7 @@
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Process Engineering Intern | Del Rio, TX |  | Sep 9 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119147) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Chemical Engineering Intern - Water (Summer 2027) | Houston, TX |  | Sep 1 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007432) |
 | [Freeform](https://internscout.org/internships/at/freeform/) | Process Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | \$30/hour | Aug 19 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895787003) |
-| [Shure](https://internscout.org/internships/at/shure/) | Process Engineering Machine Controls Intern | Niles, IL | \$23-\$43 per hour | Nov 9, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4993/process-engineering-machine-controls-intern/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Process Engineering Machine Controls Intern | Niles, IL | \$23-\$43 per hour | Nov 10, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4993/process-engineering-machine-controls-intern/job) |
 | [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Chemical Engineering Intern \| Boulder, CO | Boulder, CO +1 | \$22.00/hr | Oct 24 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Boulder-CO/Chemical-Engineering-Intern---Boulder--CO_R-16798) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Process Engineering Intern - Summer 2027 - Smyrna, TN | Smyrna, Tennessee - United States of America |  | Oct 24 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Process-Engineering-Intern---Summer-2027---Smyrna--TN_R00214285) |
 | [Primient](https://internscout.org/internships/at/primient/) | Process Engineering Intern - Summer 2027 | Duluth, MN | \$1,500 to \$3,000 | Oct 24 | [Apply](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Duluth-MN/Process-Engineering-Intern---Summer-2027_JREQ7015) |

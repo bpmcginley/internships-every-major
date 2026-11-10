@@ -1,9 +1,10 @@
 # Sustainability: Summer 2027 Internships
 
-83 open Summer 2027 sustainability roles, newest first (all 83). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 132 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+83 open Summer 2027 sustainability roles, newest first (all 83). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 134 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern, Production Technician, Summer 2027 | Lake Charles, Louisiana |  | Nov 10 | [Apply](https://jobs.entergy.com/job/Lake-Charles-Student%2C-Intern%2C-Production-Technician%2C-Summer-2027-Loui/1439246500/) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Energy Efficiency | Ottawa, ON | \$31,621 - \$59,132 | Nov 9 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Ottawa-ON/XMLNAME-2027-Summer-Intern--Energy-Efficiency_R2603780) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Building Science Co-op/Intern (Summer 2027) | San Francisco, CA |  | Nov 9 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008756) |
 | [Corning](https://internscout.org/internships/at/corning/) | Sustainability Intern - Summer 2027 | Charlotte, NC | \$1,635.00 - \$3,185.00 | Nov 7 | [Apply](https://corningjobs.corning.com/job/Charlotte-Sustainability-Intern-Summer-2027-NC-28216/1448781500/) |
@@ -27,7 +28,7 @@
 | [Scout Clean Energy](https://internscout.org/internships/at/scout-clean-energy/) | Renewable Energy Analyst Intern | Boulder, CO |  | Oct 26 | [Apply](https://apply.workable.com/scout-clean-energy/j/30CCB1602D/apply) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern Enterprise Safety Summer 2027 | Jackson, Mississippi |  | Oct 23 | [Apply](https://jobs.entergy.com/job/Jackson-Student%2C-Intern-Enterprise-Safety-Summer-2027-Miss/1433660400/) |
 | [Arch Capital Group](https://internscout.org/internships/at/arch-capital-group/) | Sustainability Reporting & Strategy Summer Intern | White Plains, NY United States of America | Paid | Oct 22 | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/White-Plains-NY-United-States-of-America/Sustainability-Reporting---Strategy-Summer-Intern_R26_802) |
-| [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern, Capital Projects, Summer 2027 | Malvern, Arkansas +2 |  | Oct 20 | [Apply](https://jobs.entergy.com/job/Malvern-Student%2C-Intern%2C-Capital-Projects%2C-Summer-2027-Arka/1441956200/) |
+| [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern, Capital Projects, Summer 2027 | Malvern, Arkansas +1 |  | Oct 20 | [Apply](https://jobs.entergy.com/job/Malvern-Student%2C-Intern%2C-Capital-Projects%2C-Summer-2027-Arka/1441956200/) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Electrical Engineering (Renewable Transmission Interconnections) Intern – Summer 2027 | Billings, MT |  | Oct 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96761) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil/Structural Engineering Intern (Renewable Transmission Interconnections) - Summer 2027 | Billings, MT |  | Oct 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96768) |
 | [Westinghouse Electric Company](https://internscout.org/internships/at/westinghouse-electric-company/) | Summer Intern - Fluid Systems | Rock Hill, SC | \$25.40 to \$29.00 per hour | Oct 16 | [Apply](https://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Fluid-Systems-SC-29730/1440910300/) |
@@ -44,7 +45,6 @@
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern - Infrastructure & Sustainability | Pascagoula, Mississippi |  | Oct 14 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-INFRASTRUCTURE-&-SUSTAINABILITY-Miss/1430056400/) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Nuclear Technical Internship - Pottstown, PA (ASSOCIATE'S DEGREES ONLY) | Pottstown, Pennsylvania | Paid | Oct 13 | [Apply](https://jobs.constellationenergy.com/jobs/138604) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern – CO2 | MIDLAND, Texas +2 |  | Oct 13 | [Apply](https://careers.kindermorgan.com/jobs/6044) |
-| [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern, Production Technician, Summer 2027 | Lake Charles, Louisiana |  | Oct 12 | [Apply](https://jobs.entergy.com/job/Lake-Charles-Student%2C-Intern%2C-Production-Technician%2C-Summer-2027-Loui/1439246500/) |
 | Neuberger Berman | MBA Intern, Stewardship & Sustainable Investing Summer 2027 | New York, NY | \$140,000-\$140,000 | Oct 12 | [Apply](https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/MBA-Intern--Stewardship---Sustainability-Summer-2027_R0012713) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Acoustics Intern (Summer 2027) | Chicago, IL |  | Oct 9 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008256) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Sustainability Intern | Pittsburgh, Pennsylvania | \$20.00 | Oct 8 | [Apply](https://careers.trccompanies.com/jobs/27037) |

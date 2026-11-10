@@ -1,9 +1,11 @@
 # Real Estate: Summer 2027 Internships
 
-20 open Summer 2027 real estate roles, newest first (all 20). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 48 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
+22 open Summer 2027 real estate roles, newest first (all 22). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 49 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [KeyBank](https://internscout.org/internships/at/keybank/) | 2027 Summer Real Estate Capital Internship - New York City CMG | New York, NY | \$27 per hour | Nov 9 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/New-York-NY/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---New-York-City-CMG_R-43108) |
+| [KeyBank](https://internscout.org/internships/at/keybank/) | 2027 KeyBank Corporate Real Estate Summer Internship - Cleveland, OH | Brooklyn, OH | \$23 per hour | Nov 9 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-KeyBank-Corporate-Real-Estate-Summer-Internship---Cleveland--OH_R-42994) |
 | [Invesco](https://internscout.org/internships/at/invesco/) | Real Estate Intern, Data Science | Dallas, TX |  | Nov 6 | [Apply](https://go.vansh.nyc/1ly) |
 | [Invesco](https://internscout.org/internships/at/invesco/) | Data Science Intern - Real Estate | Dallas, TX |  | Nov 6 | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091) |
 | [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Real Estate | New York, NY | \$35.00 per hour | Nov 6 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/New-York-NY/XMLNAME-2027-Summer-Intern---Commercial-Real-Estate_2620100-1) |

@@ -1,11 +1,11 @@
 # Aerospace Engineering: Summer 2027 Internships
 
-37 open Summer 2027 aerospace engineering roles, newest first (all 37). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 68 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
+37 open Summer 2027 aerospace engineering roles, newest first (all 37). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 68 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Pivotal Software](https://internscout.org/internships/at/pivotal-software/) | Internship, Flight Test Engineer (Summer 2027) | Palo Alto, CA |  | Nov 9 | [Apply](https://jobs.lever.co/pivotal/67927cb0-cf1a-4775-93be-61db3efe684b/apply) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Aerospace, Defense & Government Finance | New York, New York | \$22.44 | Nov 6 | [Apply](https://firstcitizens.jibeapply.com/jobs/35782) |
-| [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Aerospace Engineering Internship Summer 2027 | Centennial, CO | \$23.10 - \$37.95 | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Aerospace-Engineering-Internship-Summer-2027-CO-80112/1427399400/) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Avionics & Electrical Engineering Internship Summer 2027 | Centennial, CO | \$23.10 - \$37.95 | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Avionics-&-Electrical-Engineering-Internship-Summer-2027-CO-80112/1427399200/) |
 | [Astro Mechanica](https://internscout.org/internships/at/astro-mechanica/) | Propulsion Engineering Intern | San Francisco +1 | Paid | Nov 2 | [Apply](https://jobs.ashbyhq.com/Astro-Mechanica/8406a0b9-d8d6-40ff-b3e1-081a3e68968f/application) |
 | [Astro Mechanica](https://internscout.org/internships/at/astro-mechanica/) | Electrical/Avionics Engineering Intern | San Francisco +1 | Paid | Nov 2 | [Apply](https://jobs.ashbyhq.com/Astro-Mechanica/0916ad59-846f-4635-a68a-276da216a906/application) |

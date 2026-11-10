@@ -1,9 +1,10 @@
 # Lab Research: Summer 2027 Internships
 
-33 open Summer 2027 lab research roles, newest first (all 33). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 125 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
+36 open Summer 2027 lab research roles, newest first (all 36). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 128 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Carnegie Mellon University](https://internscout.org/internships/at/carnegie-mellon-university/) | Advanced Computing Lab Intern | Pittsburgh, PA |  | Nov 9 | [Apply](https://go.vansh.nyc/1pb) |
 | [Rivian and Volkswagen Group Technologies](https://internscout.org/internships/at/rivian-and-volkswagen-group-technologies/) | Mechatronics Lab Engineering Intern (January - August 2027) | Vancouver, British Columbia +1 |  | Nov 6 | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/e1647212-5d09-4877-a172-da50ae46dfe8/application) |
 | [Philips](https://internscout.org/internships/at/philips/) | Intern - Product Investigations Lab - New Kensington, PA - Summer 2027 | New Kensington, Pennsylvania, United States +1 | \$26.00-29.00 | Nov 4 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Product-Investigations-Lab---New-Kensington--PA---Summer-2027_593027) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Engineering Internship - Lab Focus (Summer 2027) | Columbus, OH |  | Nov 2 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279603) |
@@ -33,9 +34,11 @@
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Lab Chemist Intern - Summer 2027 | El Dorado, AR |  | Oct 1 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166509) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Lab Chemist Intern - Summer 2027 | Clive, UT |  | Oct 1 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166596) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Lab Chemist Intern - Summer 2027 | Buttonwillow, CA |  | Oct 1 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166506) |
+| [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | Lab Analytics Intern - Summer 2027 | Lewis Center, Ohio |  | Sep 22 | [Apply](https://careers.marzetticompany.com/jobs/8107) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Innovation Lab Intern | Delaware, OH |  | Sep 11 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280126) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | R&D Chemistry Laboratory Intern (Austin MN) - Summer 2027 - Campus Recruiting | Austin, MN |  | Sep 8 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35724) |
 | [Ginkgo Bioworks](https://internscout.org/internships/at/ginkgo-bioworks/) | Software Intern, Autonomous Lab | Emeryville, CA |  | Apr 1 | [Apply](https://go.vansh.nyc/Qz) |
+| TPG Careers Page | Y Analytics, Responsible Investing, Summer Research Assistant, Internship | Little Rock, AR | \$22.5/hour | Nov 10 | [Apply](https://www.jobleads.com/us/job/y-analytics-responsible-investing-summer-research-assistant-internship--little-rock--e5d9ee5d23b62d2c65e99fe0ea0827aa4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Momentive](https://internscout.org/internships/at/momentive/) | Summer 2027 Intern - Construction Application Development Lab | Waterford, NY | \$22.00 - \$26.00 | Sep 18 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/Summer-2027-Intern---Construction-Application-Development-Lab_R9806) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

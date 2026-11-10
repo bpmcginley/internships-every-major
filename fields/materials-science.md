@@ -1,6 +1,6 @@
 # Materials Science: Summer 2027 Internships
 
-16 open Summer 2027 materials science roles, newest first (all 16). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 37 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
+15 open Summer 2027 materials science roles, newest first (all 15). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 36 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -10,7 +10,6 @@
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Polymer R&D Summer Internship- Marengo, IL | Marengo, IL |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627494) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | R&D GSC Materials Science Internship- Brecksville, OH | Brecksville, OH |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627598) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | R&D GSC Polymer Internship- Brecksville, OH | Brecksville, OH |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627577) |
-| [Commonwealth Fusion Systems](https://internscout.org/internships/at/commonwealth-fusion-systems/) | Intern - Materials Test Engineer - Summer 2027 | Devens, MA | Paid | Oct 22 | [Apply](https://jobs.lever.co/cfsenergy/da8cc185-70d0-4a8e-b484-9866c71b593e/apply) |
 | [Carrier Global](https://internscout.org/internships/at/carrier-global/) | Chemical Materials Engineering Intern - Summer | CANHQ: CCS HQ - Syracuse, 6304 Carrier Parkway, East Syracuse, NY, 13057 USA | \$43,500.00 - \$87,500.00 annually | Oct 22 | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Chemical-Materials-Engineering-Intern---Summer_30220341) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Research and Development - Computational Materials Science: Continuum Scales and Materials Discove… | Warren, Michigan, United States of America |  | Oct 12 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Computational-Materials-Science--Continuum-Scales-and-Materials-Discovery_JR-202621642) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Research and Development - Physical Metallurgist (Steels) | Warren, Michigan, United States of America |  | Oct 12 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Physical-Metallurgist--Steels-_JR-202621636) |

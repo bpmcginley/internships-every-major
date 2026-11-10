@@ -1,10 +1,9 @@
 # Economics: Summer 2027 Internships
 
-28 open Summer 2027 economics roles, newest first (all 28). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 57 economics internships on InternScout](https://internscout.org/internships/economics/)
+27 open Summer 2027 economics roles, newest first (all 27). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 56 economics internships on InternScout](https://internscout.org/internships/economics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Research Intern - 2027 | Cleveland, OH | \$20.50 | Nov 9 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Cleveland-OH/Research-Intern---2027_R-0000033640) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Economics Research Intern | Washington, DC | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6068/summer-2027-economics-research-intern/job) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Economic Research, Internship – Summer 2027 | Kansas City, MO |  | Nov 5 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Kansas-City-MO/Economic-Research--Internship---Summer-2027_R-0000034027) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Oklahoma City – Regional Affairs Economics, Internship – Summer 2027 | Oklahoma City, OK |  | Nov 5 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Oklahoma-City-OK/Oklahoma-City---Regional-Affairs-Economics--Internship---Summer-2027_R-0000034004) |

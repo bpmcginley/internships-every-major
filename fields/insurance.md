@@ -1,6 +1,6 @@
 # Insurance: Summer 2027 Internships
 
-104 open Summer 2027 insurance roles, newest first (all 104). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 191 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+105 open Summer 2027 insurance roles, newest first (all 105). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 195 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Personal Lines Underwriting Internship - Summer 2027 | Columbia, SC | \$18.00 per hour | Nov 2 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Columbia-SC/Personal-Lines-Underwriting-Internship---Summer-2027_R_14337) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Home Office Underwriting/Audit Internship - Summer 2027 | Lansing, MI | \$18 per hour | Nov 2 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Home-Office-Underwriting-Audit-Internship---Summer-2027_R_14361) |
 | [Zurich Insurance](https://internscout.org/internships/at/zurich-insurance/) | Underwriting Internship - Summer 2027 - Los Angeles | Los Angeles, CA | \$21.00 - \$23.00 | Nov 1 | [Apply](https://www.careers.zurich.com/job/Los-Angeles-Underwriting-Internship-Summer-2027-Los-Angeles-CA-90001/1371367657/) |
+| [Voya Financial](https://internscout.org/internships/at/voya-financial/) | Summer 2027 Actuarial Intern | Remote | \$24.00/hr | Oct 30 | [Apply](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/United-States-Remote/Summer-2027-Actuarial-Intern_JR0033152) |
 | Revantage Corporate Services | Insurance Technology & AI Analytics Intern, Summer 2027 | Chicago, IL +1 | \$25.00 To \$30.00 Hour | Oct 30 | [Apply](https://revantage.wd1.myworkdayjobs.com/Revantage/job/Chicago-IL/Insurance-Technology---AI-Analytics-Intern--Summer-2027_JR104539) |
 | [AXA](https://internscout.org/internships/at/axa/) | Summer 2027 - Underwriting Data & Analytics Intern | NEW YORK +1 | \$25.00/hr | Oct 29 | [Apply](https://careers.axa.com/jobs/25498) |
 | [IAT Insurance Group](https://internscout.org/internships/at/iat-insurance-group/) | Contract Surety Underwriting Internship | Houston TX |  | Oct 29 | [Apply](https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Houston-TX/Contract-Surety-Underwriting-Internship_JR100422) |
@@ -62,7 +63,7 @@
 | [National Life](https://internscout.org/internships/at/national-life/) | Actuarial Intern - Summer 2027 | Addison, TX +1 | Paid | Aug 19 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4376293009) |
 | GuideWell Mutual | 2027 Actuarial Summer Internship | Jacksonville, FL |  | Aug 18 | [Apply](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41855) |
 | Jencap | 2027 Summer Insurance Internship | Atlanta, GA +3 |  | Jul 29 | [Apply](https://job-boards.greenhouse.io/jencapinc/jobs/5198365007) |
-| [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Global Risk Solutions Claims Internship - Summer 2027 | Plano, TX +5 |  | Nov 9, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261686/global-risk-solutions-claims-internship---summer-2027/job) |
+| [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Global Risk Solutions Claims Internship - Summer 2027 | Plano, TX +5 |  | Nov 10, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261686/global-risk-solutions-claims-internship---summer-2027/job) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Personal Lines Underwriting Internship - Summer 2027 | Brentwood, TN |  | Oct 24 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Brentwood-TN/Personal-Lines-Underwriting-Internship---Summer-2027_R_14319) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Personal Lines Underwriting Internship - Summer 2027 | Forest, VA |  | Oct 24 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Forest-VA/Personal-Lines-Underwriting-Internship---Summer-2027_R_14338) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Commercial Lines Underwriting Internship - Summer 2027 | Montgomery, AL | \$18.00 per hour | Oct 24 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Montgomery-AL/Underwriting-Internship---Summer-2027_R_14564) |

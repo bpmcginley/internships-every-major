@@ -1,6 +1,6 @@
 # Math: Summer 2027 Internships
 
-30 open Summer 2027 math roles, newest first (all 30). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 50 math internships on InternScout](https://internscout.org/internships/math/)
+31 open Summer 2027 math roles, newest first (all 31). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 51 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -8,6 +8,7 @@
 | [Sanofi](https://internscout.org/internships/at/sanofi/) | 2027 Summer Intern Biostatistics Interactive Benchmarking Platform Cambridge MA | Cambridge, MA | Paid | Nov 9 | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-Biostatistics-Interactive-Benchmarking-Platform--Cambridge-MA_R2865024) |
 | Markel Group, Inc. | Actuarial Intern | Richmond, VA +1 | \$24-\$28.50/hr | Nov 9 | [Apply](https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Richmond-VA/Actuarial-Intern_R0023907) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Statistics Intern | Atlanta, GA |  | Nov 6 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Statistics-Intern_R-0000033876) |
+| [Voya Financial](https://internscout.org/internships/at/voya-financial/) | Summer 2027 Actuarial Intern | Remote | \$24.00/hr | Oct 30 | [Apply](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/United-States-Remote/Summer-2027-Actuarial-Intern_JR0033152) |
 | BCBST | Actuarial Summer Intern-2 | USA, TN | Paid | Oct 28 | [Apply](https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Actuarial-Summer-Intern-2_R-51964) |
 | [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Biostatistics & Statistical Programming | TARRYTOWN | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Biostatistics---Statistical-Programming_R52558-1) |
 | [AstraZeneca](https://internscout.org/internships/at/astrazeneca/) | Preclinical Mathematical Modeling Internship | US - Cambridge Kendall SQ - MA | \$37-\$39 per hour | Oct 27 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Preclinical-Mathematical-Modeling-Internship_R-262630) |
@@ -32,7 +33,7 @@
 | [CNA Insurance](https://internscout.org/internships/at/cna-insurance/) | Actuarial Intern – Summer 2027 | Chicago, IL, USA | \$35,000 to \$65,000 annually | Sep 18 | [Apply](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Actuarial-Intern---Summer-2027_R-8026) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Data Analytics/Science/Applied Math - (Pomona/Rosemead) | Rosemead, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-%28PomonaRosemead%29-CA-91770/1425208900/) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Statistical Programming - California | Irvine, California +1 |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Irvine-California/Summer-2027-Internship---Statistical-Programming---California_R572769) |
-| [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Data Analytics/Science/Applied Math- Santa Ana/Westminster/Irvine/Fullerton | Westminster, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425178600/) |
+| [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Data Analytics/Science/Applied Math- Santa Ana/Westminster/Irvine/Fullerton | Westminster, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/) |
 | [Empower](https://internscout.org/internships/at/empower/) | Summer 2027 Intern – Actuarial Benefit Consulting Services | CT Hartford | \$26.50 - \$30.50 per hour | Sep 18 | [Apply](https://empower.wd12.myworkdayjobs.com/empower/job/CT-Hartford/Summer-2027-Intern---Actuarial-Benefit-Consulting-Services_R0062346) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

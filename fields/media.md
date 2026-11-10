@@ -1,9 +1,11 @@
 # Media: Summer 2027 Internships
 
-41 open Summer 2027 media roles, newest first (all 41). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 133 media internships on InternScout](https://internscout.org/internships/media/)
+42 open Summer 2027 media roles, newest first (all 42). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 135 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Pika | Applied AI Engineer Intern, Creative Experiences | Palo Alto, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1pR) |
+| [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Audience Insights Intern | New York, NY | \$30.00 per hour | Nov 9 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752928005) |
 | Southern Poverty Law Center | Intern, Editorial (Summer 2027) | Atlanta, GA +4 | \$18.40 per hour | Nov 6 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8931208002) |
 | Deeplocal | Creative Technology Intern | Pittsburgh +1 | Paid | Nov 6 | [Apply](https://job-boards.greenhouse.io/deeplocal/jobs/8360330) |
 | [onsemi](https://internscout.org/internships/at/onsemi/) | Summer 2027 - Thin Films, Implant & Diffusion Process Engineering Intern | Hopewell Junction, NY | \$26.00 -\$44.00 per hour | Nov 5 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506637) |
@@ -40,7 +42,6 @@
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | ASIC Design Engineer Intern - Video Silicon IP | San Jose, CA |  | Aug 6 | [Apply](https://jobs.bytedance.com/en/position/7670332179383699717/detail) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Video/Image AI/ML Software Engineer Intern - Multimedia | San Diego, CA |  | Aug 6 | [Apply](https://jobs.bytedance.com/en/position/7670354329765464373/detail) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Creative Intelligence and Brand Innovation | San Jose, CA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7668642761473902901) |
-| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Intern - Marketing, Communications, Journalism Majors | Chicago, IL | \$20 to \$33, | Oct 1 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern---Marketing--Communications--Journalism-Majors_R-0000033618-1) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Creative Design (Interior/Exterior) | Warren, Michigan, United States of America +1 | \$6,100 month | Sep 19 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Creative-Design--Interior-Exterior-_JR-202619314) |
 | [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Photo and Video Marketing Production | Overland Park, KS |  | Sep 18 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Summer-2027-Internship--Photo-and-Video-Marketing-Production_R2026-2015) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Video Production Intern, Summer 2027 | North Andover, MA | \$21-23 per hour | Sep 18 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Video-Production-Intern--Summer-2027_10017537) |
