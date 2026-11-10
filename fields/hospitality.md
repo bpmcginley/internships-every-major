@@ -1,6 +1,6 @@
 # Hospitality: Summer 2027 Internships
 
-34 open Summer 2027 hospitality roles, newest first (all 34). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 119 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
+31 open Summer 2027 hospitality roles, newest first (all 31). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 111 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -9,9 +9,6 @@
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Hospitality Internship - Oasis at Death Valley | Death Valley, California | \$16.65 per hour | Nov 6 | [Apply](https://xanterra.jibeapply.com/jobs/40114) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Culinary Internships - Grand Canyon South Rim | GRAND CANYON, Arizona | \$16.05 per hour | Nov 6 | [Apply](https://xanterra.jibeapply.com/jobs/40113) |
 | [Mary Free Bed Rehabilitation Hospital](https://internscout.org/internships/at/mary-free-bed-rehabilitation-hospital/) | Foundation Events Intern - Summer 2027 Semester | Grand Rapids, MI | \$18/hour | Nov 4 | [Apply](https://maryfreebed.wd12.myworkdayjobs.com/mfb/job/Grand-Rapids-MI/Foundation-Events-Intern---Summer-2027-Semester_JB103472) |
-| [westernalliancebank](https://internscout.org/internships/at/westernalliancebank/) | Summer 2027 Internship - Phoenix, AZ - Resort Finance | Phoenix, AZ | Paid | Oct 28 | [Apply](https://westernalliancebank.wd5.myworkdayjobs.com/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Resort-Finance_R13961) |
-| [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Resort Finance | Phoenix, AZ | Paid | Oct 28 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Resort-Finance_R13961) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Biomechanics | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Biomechanics-MD-21230/1434382000/) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Product Line Management | Baltimore, MD | \$23 per hour | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Product-Line-Management-MD-21230/1434387800/) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Food & Events Intern - Summer 2027 | Dallas, TX, United States |  | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466385009) |
 | [David Yurman](https://internscout.org/internships/at/david-yurman/) | Events Intern | New York, NY | \$25/hour | Oct 22 | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Events-Intern_R-101163) |

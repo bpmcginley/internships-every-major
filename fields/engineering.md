@@ -1,11 +1,18 @@
 # Engineering: Summer 2027 Internships
 
-680 open Summer 2027 engineering roles, newest first (the 200 newest of 680). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 1,707 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+677 open Summer 2027 engineering roles, newest first (the 200 newest of 677). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 1,709 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [NBCUniversal](https://internscout.org/internships/at/nbcuniversal/) | Product & Engineering Intern, Media Tech | Universal City, CA |  | Nov 9 | [Apply](https://go.vansh.nyc/1oF) |
+| [NBCUniversal](https://internscout.org/internships/at/nbcuniversal/) | Media Tech: Product & Engineering Intern | New York, NY |  | Nov 9 | [Apply](https://go.vansh.nyc/1oy) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Research Engineer Intern | San Jose, CA |  | Nov 9 | [Apply](https://lifeattiktok.com/search/7704986879082907909) |
-| [Shield AI](https://internscout.org/internships/at/shield-ai/) | 2027 Summer Intern - Supplier Development Engineer - 6463 | Dallas, Texas |  | Nov 7 | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/463966b6-fd51-47ef-b9b1-cb53c47cc275/application) |
+| Pacific Northwest National Laboratory | Summer Undergraduate Engineering Intern – Energy Systems | Richland, Washington | \$17.13/Hr | Nov 9 | [Apply](https://careers.pnnl.gov/jobs/13295) |
+| [Oshkosh](https://internscout.org/internships/at/oshkosh/) | Supplier Quality Engineer Intern | Oshkosh, Wisconsin, United States | \$18.00 - \$37.00 | Nov 9 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Supplier-Quality-Engineer-Intern_R50855) |
+| [PTC](https://internscout.org/internships/at/ptc/) | EDU Engineering Solutions Intern (Summer 2027) | Boston, MA, USA | Paid | Nov 9 | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/EDU-Engineering-Solutions-Intern--Summer-2027-_JR112949-1) |
+| [KION Group](https://internscout.org/internships/at/kion-group/) | Controls Engineering Intern - Summer 2027 | Grand Rapids, MI, United States +1 | \$20 - \$24 per hour | Nov 9 | [Apply](https://kiongroup.wd3.myworkdayjobs.com/KION_SCS/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern---Summer-2027_JR-0098968) |
+| [AES](https://internscout.org/internships/at/aes/) | Transmission Planning Engineer - Intern (Summer 2027) | Dayton, OH |  | Nov 9 | [Apply](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/Transmission-Planning-Engineer---Intern--Summer-2027-_R1064789) |
+| [Shield AI](https://internscout.org/internships/at/shield-ai/) | 2027 Summer Intern - Supplier Development Engineer - 6463 | Dallas, Texas |  | Nov 7 | [Apply](https://jobs.ashbyhq.com/shield/463966b6-fd51-47ef-b9b1-cb53c47cc275/application) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Design For Test Intern, MS - Summer 2027 | Santa Clara, CA | Paid | Nov 7 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-For-Test-Intern--MS---Summer-2027_2603788-1) |
 | [Westinghouse Electric Company](https://internscout.org/internships/at/westinghouse-electric-company/) | Summer Intern - Licensing Engineer | Hopkins, SC | \$25.40 to \$29.00 per hour | Nov 7 | [Apply](https://careers.westinghousenuclear.com/job/Hopkins-Summer-Intern-Licensing-Engineer-SC-29061/1438848000/) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Digital Design Engineer Intern - Interim Engineering Intern - Systems | Toronto, ON, Canada +1 |  | Nov 6 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722005254) |
@@ -24,7 +31,7 @@
 | [Baker Hughes](https://internscout.org/internships/at/baker-hughes/) | Field Engineering Intern- Summer 2027 Opportunities | Canonsburg-400 Technology Drive, PA | Paid | Nov 6 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-PA-CANONSBURG-400-TECHNOLOGY-DRIVE/Field-Engineering-Intern--Summer-2027-Opportunities_R169855) |
 | [Ensign-Bickford Industries](https://internscout.org/internships/at/ensign-bickford-industries/) | Development Engineer Intern | Simsbury, CT | \$21 - \$28 per hour | Nov 6 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Development-Engineer-Intern_REQ107694-1) |
 | [Ensign-Bickford Aerospace & Defense Company](https://internscout.org/internships/at/ensign-bickford-aerospace-defense-company/) | Development Engineer Intern | Simsbury, CT | \$21 - \$28 per hour | Nov 6 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Development-Engineer-Intern_REQ107694) |
-| DwyerOmega | Sensors Engineer Intern | Westerville, OH |  | Nov 5 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640964) |
+| [DwyerOmega](https://internscout.org/internships/at/dwyeromega/) | Sensors Engineer Intern | Westerville, OH |  | Nov 5 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640964) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Field Engineer | Paducah, Kentucky, United States | \$30–\$40 per hour | Nov 5 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5473803008) |
 | Novelis | Automotive Engineering Co-op | Kennesaw, GA |  | Nov 5 | [Apply](https://careers-novelis.icims.com/jobs/53836/job?mobile=true&needsRedirect=false) |
 | [John Deere](https://internscout.org/internships/at/john-deere/) | Product Engineering Student Intern | Urbandale, IA |  | Nov 5 | [Apply](https://go.vansh.nyc/1hv) |
@@ -70,7 +77,6 @@
 | [HNTB](https://internscout.org/internships/at/hntb/) | Intern Engineer - Summer 2027 | White Plains, NY (Westchester Hudson Valley) |  | Nov 2 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/White-Plains-NY-Westchester-Hudson-Valley/Intern-Engineer---Summer-2027_R-32291-1) |
 | [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Automation Engineer (Summer 2027) | Nampa, ID | \$23 - \$27/hr | Nov 2 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Nampa-ID/Intern---Automation-Engineer--Summer-2027-_R041024-1) |
 | Fermilab | LBNF/DUNE in South Dakota I&I Engineering Internship | Lead, SD | \$20/hr | Nov 2 | [Apply](https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Lead-SD/LBNF-DUNE-Internship-in-South-Dakota_R_010100) |
-| [Draper](https://internscout.org/internships/at/draper/) | Digital Engineering – Requirements Engineering Intern (Summer 2027) | Lowell, MA +2 | \$20.00 - \$45.00 | Nov 2 | [Apply](https://draper.wd5.myworkdayjobs.com/draper_careers/job/Lowell-MA/Digital-Engineering---Requirements-Engineering-Intern--Summer-2027-_JR002945-1) |
 | Samsung Semiconductor | SRAM Design Engineer Intern | San Jose, CA |  | Oct 30 | [Apply](https://go.vansh.nyc/10P) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Soft IP Engineer Co-op Intern | Ottawa, ON, Canada +1 |  | Oct 30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862542) |
 | [Hyster-Yale Materials Handling](https://internscout.org/internships/at/hyster-yale-materials-handling/) | Summer 2027 Engineering Intern | HY US Greenville, NC (Clark St) +2 |  | Oct 30 | [Apply](https://hysteryale.wd1.myworkdayjobs.com/hyster-yalecareers/job/HY-US-Greenville-NC-Clark-St/Summer-2027-Engineering-Intern_R8538) |
@@ -197,13 +203,7 @@
 | [DP World](https://internscout.org/internships/at/dp-world/) | Network Engineering Intern | Charlotte, NC |  | Oct 21 | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27403) |
 | [Granite Construction](https://internscout.org/internships/at/granite-construction/) | 2027 Summer Project Engineer Internship | Vancouver, Washington | \$24.00 | Oct 21 | [Apply](https://granite.wd1.myworkdayjobs.com/careers/job/Vancouver-Washington/XMLNAME-2027-Summer-Project-Engineer-Internship_R0000008371) |
 | [Everest](https://internscout.org/internships/at/everest/) | 2027 Everest Design Engineering Internship Program | Warren, NJ | \$900.00-1,000.00 per week | Oct 21 | [Apply](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Everest-Design-Engineering-Internship-Program_R7401) |
-| [Entergy](https://internscout.org/internships/at/entergy/) | Student Intern Nuclear Engineering Summer 2027 | Russellville, Arkansas |  | Oct 21 | [Apply](https://jobs.entergy.com/job/Russellville-Student-Intern-Nuclear-Engineering-Summer-2027-Arka/1432553700/) |
 | [Regal Rexnord](https://internscout.org/internships/at/regal-rexnord/) | Engineering Summer Intern | Radford, Virginia, United States +8 | \$21.50 - \$28 per hour | Oct 21 | [Apply](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Radford-Virginia-United-States/Engineering-Summer-Intern_R26_04578-2) |
-| Metamorphic | Research and Engineering Intern (Summer 2027) | Palo Alto +2 | \$6-8k/month | Oct 20 | [Apply](https://jobs.ashbyhq.com/metamorphic/cf518648-4e65-4f7d-aa05-f01066d8bd8a/application) |
-| HPR | Applications Engineering Intern - Summer 2027 | Needham, MA | \$40/hour | Oct 20 | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/8016173003) |
-| Riverlane | Engineering Internship 2027 | Boston, MA +1 | \$35-\$42 per hour | Oct 20 | [Apply](https://www.riverlane.com/jobs?gh_jid=5010283101#vacancies) |
-| [RoviSys](https://internscout.org/internships/at/rovisys/) | Engineering Co-op - Summer 2027 | Indianapolis, IN | \$24-\$25/hr | Oct 20 | [Apply](https://careers-rovisys.icims.com/jobs/2198/engineering-co-op---summer-2027/job) |
-| [Ryan](https://internscout.org/internships/at/ryan/) | Application Engineering Intern | Plano, TX |  | Oct 20 | [Apply](https://go.vansh.nyc/cX) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,9 +1,10 @@
 # Journalism: Summer 2027 Internships
 
-23 open Summer 2027 journalism roles, newest first (all 23). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 84 journalism internships on InternScout](https://internscout.org/internships/journalism/)
+24 open Summer 2027 journalism roles, newest first (all 24). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 83 journalism internships on InternScout](https://internscout.org/internships/journalism/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [NBCUniversal](https://internscout.org/internships/at/nbcuniversal/) | Technology Intern, NBC News Group | New York, NY |  | Nov 9 | [Apply](https://go.vansh.nyc/1os) |
 | Southern Poverty Law Center | Intern, Editorial (Summer 2027) | Atlanta, GA +4 | \$18.40 per hour | Nov 6 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8931208002) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Interactive News Engineering Intern | New York, NY +1 | \$40 per hour | Nov 6 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005) |
 | [Adobe](https://internscout.org/internships/at/adobe/) | 2027 Intern - Media & Editorial Generalist | San Francisco +1 | \$25.00 - \$30.00 hour | Nov 4 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-Intern---Media---Editorial-Generalist_R173414) |

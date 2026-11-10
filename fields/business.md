@@ -1,9 +1,11 @@
 # Business: Summer 2027 Internships
 
-77 open Summer 2027 business roles, newest first (all 77). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 138 business internships on InternScout](https://internscout.org/internships/business/)
+78 open Summer 2027 business roles, newest first (all 78). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 140 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [S&P Global](https://internscout.org/internships/at/s-p-global/) | Summer Intern, Commercial Strategy | New York, NY | \$20 to \$25 | Nov 9 | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Summer-Intern--Commercial-Strategy_332621-1) |
+| [PETRONAS Canada](https://internscout.org/internships/at/petronas-canada/) | Summer Student, Commercial and Joint Venture Management | Calgary |  | Nov 9 | [Apply](https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Commercial-and-Joint-Venture-Management_R0001884) |
 | Securities and Exchange Commission | Summer 2027 SEC Scholars Business Program- RO (Volunteer) | Los Angeles, California +9 |  | Nov 9 | [Apply](https://www.usajobs.gov:443/job/891900000) |
 | Securities and Exchange Commission | Summer 2027 SEC Scholars Business Program- HQ (Volunteer) | Washington, District of Columbia |  | Nov 9 | [Apply](https://www.usajobs.gov:443/job/891901100) |
 | [Vizient](https://internscout.org/internships/at/vizient/) | 2027 Summer Internship - Cross-Business-Unit Proposal Development | Chicago, IL 60607 | \$25 per hour | Nov 6 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Cross-Business-Unit-Proposal-Development_36077R-1) |
@@ -50,7 +52,6 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Commercial Business Solutions Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 9 | [Apply](https://jobs.constellationenergy.com/jobs/138773) |
 | AlixPartners | Turnaround & Restructuring - MBA Intern | United States | \$35,000 | Sep 1 | [Apply](https://www.alixpartners.com/careers/7810004003?gh_jid=7810004003) |
 | AlixPartners | Strategy & Analysis - MBA Intern | United States | \$35,000 | Sep 1 | [Apply](https://www.alixpartners.com/careers/7809994003?gh_jid=7809994003) |
-| [Honeywell](https://internscout.org/internships/at/honeywell/) | Business Management – Summer 2027 Intern | United States |  | Aug 27 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155593) |
 | [DTCC](https://internscout.org/internships/at/dtcc/) | Business Systems Intern \[2027 Intern Program\] | Jersey City, NJ +2 | Paid | Aug 25 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214472) |
 | Weatherford | USA - Weatherford Summer Business Internship | Houston, TX |  | Aug 12 | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/107149) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Business Valuation Internship | Portland, ME | \$30 per hour | Nov 9, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4018/summer-2027-business-valuation-internship/job) |

@@ -1,9 +1,11 @@
 # Design: Summer 2027 Internships
 
-80 open Summer 2027 design roles, newest first (all 80). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 202 design internships on InternScout](https://internscout.org/internships/design/)
+82 open Summer 2027 design roles, newest first (all 82). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 204 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Learning Solutions Designer (Reston, VA) | Reston, VA | \$23/hour | Nov 9 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Learning-Solutions-Designer--Reston--VA-_R2603779) |
+| [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | Engineering Intern, Industrial Design 3D Surfacing - Summer 2027 | Valley City, OH, United States | \$22.00- \$27.00 per hour | Nov 9 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Intern--Industrial-Design-3D-Surfacing---Summer-2027_REQ-1000052712) |
 | AFL | Web Design/Development Intern | Duncan, SC |  | Nov 6 | [Apply](https://go.vansh.nyc/1mq) |
 | [Tinder](https://internscout.org/internships/at/tinder/) | User Experience Research Intern | Los Angeles, California |  | Nov 6 | [Apply](https://jobs.lever.co/matchgroup/e2747122-5e35-4230-9d54-8d274dd0a713/apply) |
 | [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Interior Design Projects | Duluth, GA |  | Nov 6 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Duluth-GA/Summer-2027-Internship--Interior-Design-Projects_R2026-2431) |

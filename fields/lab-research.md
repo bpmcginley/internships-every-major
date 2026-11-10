@@ -1,6 +1,6 @@
 # Lab Research: Summer 2027 Internships
 
-34 open Summer 2027 lab research roles, newest first (all 34). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 126 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
+33 open Summer 2027 lab research roles, newest first (all 33). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 125 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -37,7 +37,6 @@
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | R&D Chemistry Laboratory Intern (Austin MN) - Summer 2027 - Campus Recruiting | Austin, MN |  | Sep 8 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35724) |
 | [Ginkgo Bioworks](https://internscout.org/internships/at/ginkgo-bioworks/) | Software Intern, Autonomous Lab | Emeryville, CA |  | Apr 1 | [Apply](https://go.vansh.nyc/Qz) |
 | [Momentive](https://internscout.org/internships/at/momentive/) | Summer 2027 Intern - Construction Application Development Lab | Waterford, NY | \$22.00 - \$26.00 | Sep 18 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/Summer-2027-Intern---Construction-Application-Development-Lab_R9806) |
-| [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Analytical Lab Intern, Summer 2027 | Orrville, OH | \$21.50/hr | Sep 18 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Analytical-Lab-Intern--Summer-2027_115678) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

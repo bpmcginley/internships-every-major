@@ -1,12 +1,35 @@
 # Software Engineering: Summer 2027 Internships
 
-1,844 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,844). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 3,417 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,853 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,853). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 3,430 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Skydio](https://internscout.org/internships/at/skydio/) | Systems Engineering Intern - Summer 2027 | San Mateo, California, United States +2 | \$47/hr | Nov 9 | [Apply](https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a/application) |
+| Citizens Energy Group | IT Security Intern | Indianapolis, IN |  | Nov 9 | [Apply](https://go.vansh.nyc/1oR) |
+| UiPath | Software Engineer Intern | Bellevue +2 |  | Nov 9 | [Apply](https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04/application) |
+| [NBCUniversal](https://internscout.org/internships/at/nbcuniversal/) | Software Engineering Intern | New York, NY +1 |  | Nov 9 | [Apply](https://go.vansh.nyc/1oA) |
+| [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Embedded Software Engineer Intern | Melbourne, FL |  | Nov 9 | [Apply](https://go.vansh.nyc/1ov) |
+| [Scout Motors Inc.](https://internscout.org/internships/at/scout-motors/) | IT Intern | Charlotte, NC |  | Nov 9 | [Apply](https://go.vansh.nyc/1oW) |
+| Mettler Toledo | Embedded Software Engineering Intern | Oakland, CA |  | Nov 9 | [Apply](https://mt.avature.net/en_US/careers/JobDetail/23080) |
+| [Zoetis](https://internscout.org/internships/at/zoetis/) | IT/OT Security Intern | Kalamazoo, MI |  | Nov 9 | [Apply](https://go.vansh.nyc/1op) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Embedded Software Engineering Internship | Melbourne, FL |  | Nov 9 | [Apply](https://jobs.lever.co/CesiumAstro/e3abc815-107d-4206-8a83-dd02932e2361/apply) |
+| [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Finance Technology Intern, Summer 2027 | Orrville, OH |  | Nov 9 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Summer-2027_116135) |
+| [Jabil](https://internscout.org/internships/at/jabil/) | Finance & IT Controls Intern | St. Petersburg/Tampa, FL |  | Nov 9 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Finance---IT-Controls-Intern_J2470789) |
+| [ABB](https://internscout.org/internships/at/abb/) | Systems Engineering Intern Houston - Summer 2027 | Houston, Texas, United States of America +1 | \$20 - \$34 per hour | Nov 9 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Houston-Texas-United-States-of-America/Systems-Engineering-Intern-Houston---Summer-2027_JR00048684) |
+| [CIBC](https://internscout.org/internships/at/cibc/) | Associate Technology Leadership Advancement Program Intern | Toronto, ON, Canada |  | Nov 9 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate-Technology-Leadership-Advancement-Program---Summer-2027_2623078-1) |
+| Sharp Electronics | IT AI Intern | Montvale, NJ |  | Nov 9 | [Apply](https://go.vansh.nyc/1ot) |
+| [General Dynamics Mission Systems](https://internscout.org/internships/at/general-dynamics-mission-systems/) | Full-Stack Software Engineer Intern | Chantilly, VA +2 |  | Nov 9 | [Apply](https://careers-gdms.icims.com/jobs/75970/job?mobile=true&needsRedirect=false) |
+| [General Dynamics Mission Systems](https://internscout.org/internships/at/general-dynamics-mission-systems/) | Full-Stack Application Development Intern | Chantilly, VA +2 |  | Nov 9 | [Apply](https://careers-gdms.icims.com/jobs/75971/job?mobile=true&needsRedirect=false) |
+| [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | Operation Technology Support Intern - Amarillo, TX | Amarillo, TX, 79101 | \$18.90 to \$22.10 per hour | Nov 9 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Amarillo-Operations-Center/Operation-Technology-Support-Intern---MN--TX_JR115716-1) |
+| [ABB](https://internscout.org/internships/at/abb/) | Systems Engineering Intern - Summer 2027 | USA, OH | \$20 - \$34 per hour | Nov 9 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-OH-Cleveland/Systems-Engineering-Intern---Summer-2027_JR00048328) |
+| [NBCUniversal](https://internscout.org/internships/at/nbcuniversal/) | Technology Intern, NBC News Group | New York, NY |  | Nov 9 | [Apply](https://go.vansh.nyc/1os) |
+| [Stantec](https://internscout.org/internships/at/stantec/) | Structural Engineering Intern - Infrastructure (Summer 2027) | Lexington, KY |  | Nov 9 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008822) |
 | [EisnerAmper](https://internscout.org/internships/at/eisneramper/) | 2027 Technology Assurance Summer Intern | Philadelphia +1 |  | Nov 9 | [Apply](https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/Philadelphia/XMLNAME-2027-Tech-Assurance-Summer-Intern_Req-8555) |
 | [Sanofi](https://internscout.org/internships/at/sanofi/) | 2027 Summer Intern Biostatistics Interactive Benchmarking Platform Cambridge MA | Cambridge, MA | Paid | Nov 9 | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-Biostatistics-Interactive-Benchmarking-Platform--Cambridge-MA_R2865024) |
+| Veterans United Home Loans | Intern - Software Engineer - Summer 2027 | Remote +1 |  | Nov 9 | [Apply](https://veteransunited.wd1.myworkdayjobs.com/vuhl/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249) |
+| CAI | Programmer Intern | PA-CLIENT-STATE +1 | \$20 per hour | Nov 9 | [Apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Programmer-Intern_R8523) |
+| Realty Income | Technology Intern - Multiple Opportunities | San Diego, California +1 | \$21.00 – \$25.00 | Nov 9 | [Apply](https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Technology-Intern---Multiple-Opportunities_R-100339) |
+| [Regal Rexnord](https://internscout.org/internships/at/regal-rexnord/) | Information Technology Summer Intern | Grafton, Wisconsin, United States | \$21.50 - \$30 per hour | Nov 9 | [Apply](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Grafton-Wisconsin-United-States/Information-Technology-Summer-Intern_R26_04545-1) |
 | Dayton Freight | Software Developer Intern | Dayton, OH |  | Nov 7 | [Apply](https://go.vansh.nyc/1m9) |
 | [Springs Window Fashions](https://internscout.org/internships/at/springs-window-fashions/) | Textile Engineering Analytics & Software Intern | Middleton, WI |  | Nov 7 | [Apply](https://go.vansh.nyc/1me) |
 | [Blackhawk Network](https://internscout.org/internships/at/blackhawk-network-holdings/) | Technology Intern | Coppell, TX +1 |  | Nov 7 | [Apply](https://go.vansh.nyc/1m7) |
@@ -19,7 +42,7 @@
 | Group 1 Automotive | IT Intern | Houston, TX |  | Nov 7 | [Apply](https://go.vansh.nyc/1ms) |
 | Enovation Controls | Manufacturing Software Engineer Intern | Tulsa, OK |  | Nov 6 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648416) |
 | [PETRONAS Canada](https://internscout.org/internships/at/petronas-canada/) | Student Intern, Infrastructure Automation and Innovation | Calgary, Canada |  | Nov 6 | [Apply](https://go.vansh.nyc/1lK) |
-| [Shield AI](https://internscout.org/internships/at/shield-ai/) | Summer 2027 - Software Engineer Intern | San Diego, California +1 |  | Nov 6 | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/db04c516-d21a-449c-8bfd-1cf830eafb5a/application) |
+| [Shield AI](https://internscout.org/internships/at/shield-ai/) | Summer 2027 - Software Engineer Intern | San Diego, California |  | Nov 6 | [Apply](https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application) |
 | [Baird](https://internscout.org/internships/at/baird/) | IT Data & Analytics Intern | Milwaukee, WI +1 |  | Nov 6 | [Apply](https://go.vansh.nyc/1lb) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Digital Technology Intern | Andover, MA |  | Nov 6 | [Apply](https://go.vansh.nyc/1l2) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Software Validation Engineering Intern | Markham, Canada |  | Nov 6 | [Apply](https://go.vansh.nyc/1kR) |
@@ -76,7 +99,7 @@
 | [Netsmart](https://internscout.org/internships/at/netsmart/) | Cloud Engineer Future (Summer 2027 Internship) | Overland Park, KS | Paid | Nov 6 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Driver and Tools Developer Intern - Telemetry Firmware | Markham, ON, Canada |  | Nov 5 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721989047) |
 | Cintas | IT Engineer Intern, Customer Channels | Mason, OH |  | Nov 5 | [Apply](https://go.vansh.nyc/1jw) |
-| DwyerOmega | Software Engineer Intern | Westerville, OH |  | Nov 5 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640548) |
+| [DwyerOmega](https://internscout.org/internships/at/dwyeromega/) | Software Engineer Intern | Westerville, OH |  | Nov 5 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640548) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Telemetry Firmware, Driver and Tools Developer Intern | Markham, Canada |  | Nov 5 | [Apply](https://go.vansh.nyc/1jr) |
 | [Garmin](https://internscout.org/internships/at/garmin/) | IT DevOps Administrator Intern | Olathe, KS |  | Nov 5 | [Apply](https://go.vansh.nyc/1jp) |
 | [Nordson](https://internscout.org/internships/at/nordson/) | Software Intern | Minneapolis, MN |  | Nov 5 | [Apply](https://go.vansh.nyc/1jk) |
@@ -87,7 +110,7 @@
 | [Apex Technology, Inc.](https://internscout.org/internships/at/apex-technology-inc/) | Software Engineering Internship, Test & Automation (Summer 2027) | Los Angeles +1 | \$100k | Nov 5 | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/692bb497-59ba-44df-bacf-fffd2f7c6344/application) |
 | [Palantir Technologies](https://internscout.org/internships/at/palantir-technologies/) | Software Engineer Intern, Sovereign AI Systems | New York, NY |  | Nov 5 | [Apply](https://go.vansh.nyc/1j0) |
 | Element Fleet Management | Forward Deployed Engineer (FDE) Intern | Toronto, Canada |  | Nov 5 | [Apply](https://go.vansh.nyc/1iM) |
-| [Shield AI](https://internscout.org/internships/at/shield-ai/) | June 2027 Co-Op - Software Engineer Intern | Dallas, Texas +1 |  | Nov 5 | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a28e047a-ee12-452c-883b-ecd995d1b6b2/application) |
+| [Shield AI](https://internscout.org/internships/at/shield-ai/) | June 2027 Co-Op - Software Engineer Intern | Dallas, Texas |  | Nov 5 | [Apply](https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2/application) |
 | [Shield AI](https://internscout.org/internships/at/shield-ai/) | June 2027 Co-Op - Software Engineer Intern | Dallas, Texas +7 | Paid | Nov 5 | [Apply](https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949/apply) |
 | Acumatica | Developer Intern | Montreal, Canada |  | Nov 5 | [Apply](https://go.vansh.nyc/1iT) |
 | [Little Caesars Enterprises](https://internscout.org/internships/at/little-caesars-enterprises/) | Developer IT Intern | Detroit, MI |  | Nov 5 | [Apply](https://go.vansh.nyc/1iC) |
@@ -110,6 +133,7 @@
 | [General Dynamics Mission Systems](https://internscout.org/internships/at/general-dynamics-mission-systems/) | Software Engineering Intern | Lakewood, OH |  | Nov 5 | [Apply](https://careers-gdms.icims.com/jobs/75131/job?mobile=true&needsRedirect=false) |
 | [Blackhawk Network Holdings](https://internscout.org/internships/at/blackhawk-network-holdings/) | Technology Intern | Coppell, TX |  | Nov 5 | [Apply](https://careers-blackhawknetwork.icims.com/jobs/26866/job?mobile=true&needsRedirect=false) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Research Scientist Intern - Monetization Technology - Ads Core | San Jose, CA |  | Nov 5 | [Apply](https://lifeattiktok.com/search/7703777085291415813) |
+| [Shield AI](https://internscout.org/internships/at/shield-ai/) | Software Engineer Intern Co-op | Dallas, TX |  | Nov 5 | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a28e047a-ee12-452c-883b-ecd995d1b6b2/application?embed=true) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 IT Client Services Intern | New York, NY | \$7,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6059/summer-2027-it-client-services-intern/job) |
 | [Little Caesars Enterprises](https://internscout.org/internships/at/little-caesars-enterprises/) | QA IT Intern | Detroit, MI |  | Nov 5 | [Apply](https://go.vansh.nyc/1jC) |
 | Versant | Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango | North Hollywood, CA +2 |  | Nov 5 | [Apply](https://go.vansh.nyc/1jE) |
@@ -124,7 +148,6 @@
 | [JM Family Enterprises](https://internscout.org/internships/at/jm-family-enterprises/) | Software Analyst Intern | Deerfield Beach, FL |  | Nov 5 | [Apply](https://go.vansh.nyc/1iI) |
 | [SOTI](https://internscout.org/internships/at/soti/) | Software Developer Intern - Android (May 2027 - 12 Months) | Mississauga, Canada – Meadowvale Office (HQ) +1 |  | Nov 5 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Software Engineer Intern | Florida - Deerfield Beach +1 |  | Nov 5 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199) |
-| [PPL](https://internscout.org/internships/at/ppl/) | Summer 2027 Information Technology Intern (Hybrid PA or KY) | Allentown, Pennsylvania +1 |  | Nov 5 | [Apply](https://careers.pplweb.com/jobs/15403) |
 | [Little Caesars Enterprises](https://internscout.org/internships/at/little-caesars-enterprises/) | Cyber IT Intern | Detroit, MI |  | Nov 5 | [Apply](https://go.vansh.nyc/1iv) |
 | [PayPal](https://internscout.org/internships/at/paypal/) | Mobile Engineer Intern - Summer 2027 | San Jose, CA +4 |  | Nov 5 | [Apply](https://paypal.eightfold.ai/careers/job/274922982818) |
 | [Marriott Vacations Worldwide](https://internscout.org/internships/at/marriott-vacations-worldwide/) | Corporate Intern-Information Technology | MVW Headquarters, FL +1 | \$18.50 | Nov 5 | [Apply](https://mymvw.wd5.myworkdayjobs.com/mvw/job/MVW-Headquarters/Corporate-Intern-Information-Technology_JR95562) |
@@ -138,7 +161,6 @@
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Software Engineering Internship Summer 2027 | Centennial, CO | \$23.10 - \$37.95 | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Software-Engineering-Internship-Summer-2027-CO-80112/1427398300/) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Information Technology Internship Summer 2027 | Centennial, CO | \$23.10 - \$37.95 | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Information-Technology-Internship-Summer-2027-CO-80112/1427399100/) |
 | [Smith+Nephew](https://internscout.org/internships/at/smith-nephew/) | Robotics Software Engineering Intern | Pittsburgh, PA |  | Nov 4 | [Apply](https://go.vansh.nyc/1gO) |
-| [BorgWarner](https://internscout.org/internships/at/borgwarner/) | Software Engineering Intern | Auburn Hills, MI |  | Nov 4 | [Apply](https://go.vansh.nyc/1gH) |
 | Ericsson | Technology and AI Intern | Plano, TX |  | Nov 4 | [Apply](https://go.vansh.nyc/1gz) |
 | [Moog](https://internscout.org/internships/at/moog/) | Software Engineering Intern | Torrance, CA |  | Nov 4 | [Apply](https://go.vansh.nyc/1gy) |
 | [Figma](https://internscout.org/internships/at/figma/) | PhD Intern, Software Engineer - Interaction Design (2027) | SF +1 |  | Nov 4 | [Apply](https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004) |
@@ -148,18 +170,13 @@
 | Ryder System | IT Internship - Summer 2027 | USA - Coral Gables FL HQ +1 | \$25/hour | Nov 4 | [Apply](https://ryder.wd5.myworkdayjobs.com/RyderCareers/job/USA---Coral-Gables-FL-HQ/IT-Internship---Summer-2027_R188357) |
 | [Prologis](https://internscout.org/internships/at/prologis/) | IT Customer Experience Technologies Intern | Denver, CO |  | Nov 4 | [Apply](https://go.vansh.nyc/1gs) |
 | [Prologis](https://internscout.org/internships/at/prologis/) | AI and Automation Intern, IT | Denver, CO |  | Nov 4 | [Apply](https://go.vansh.nyc/1gr) |
-| [Kudu Dynamics](https://internscout.org/internships/at/kudu-dynamics/) | Software Engineering & AI Intern | Odenton, MD +4 | \$48,100.00 - \$86,950.00 | Nov 4 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220) |
-| [RTX](https://internscout.org/internships/at/rtx/) | Intern: Summer 2027 - Control/Diagnostic Software (Onsite) | Jupiter-Adr, FL +1 | Paid | Nov 4 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Intern: Summer 2027 - Control/Diagnostic Software (Onsite) | Jupiter-Adr, FL +1 |  | Nov 4 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840) |
 | [CACI](https://internscout.org/internships/at/caci/) | Systems Engineering Co-op/Intern - Summer 2027 | Rochester, NY, US +1 | \$39,900-\$79,900 | Nov 4 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Systems-Engineering-Co-op-Intern---Spring-2027_334157) |
-| [CACI](https://internscout.org/internships/at/caci/) | Software Engineering Co-op/Intern - Summer 2027 | Florham Park, NJ +2 | \$39,900-\$79,900 | Nov 4 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160) |
 | CAI | GIS Software Developer Intern | PA-CLIENT-STATE +1 | \$20 per hour | Nov 4 | [Apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8554) |
 | [Smith+Nephew](https://internscout.org/internships/at/smith-nephew/) | Intern Robotics Software Engineering | US - Pittsburgh, PA +1 |  | Nov 4 | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482) |
 | [Microsoft](https://internscout.org/internships/at/microsoft/) | Software Engineer Intern | Redmond, WA +1 |  | Nov 3 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557037859) |
-| [Simon Property Group](https://internscout.org/internships/at/simon-property-group/) | Front End Developer Intern | Indianapolis, IN |  | Nov 3 | [Apply](https://go.vansh.nyc/1fs) |
 | GreatAmerica Financial Services | Software Engineer Intern | Cedar Rapids, IA |  | Nov 3 | [Apply](https://go.vansh.nyc/1fo) |
 | TruStage | IT Intern, Innovation & AI Technology | Madison, WI |  | Nov 3 | [Apply](https://go.vansh.nyc/1fm) |
-| Blackberry | Software Development Intern | Ottawa, Canada |  | Nov 3 | [Apply](https://go.vansh.nyc/1ff) |
-| Blackberry | Software Developer Intern | Ottawa, Canada |  | Nov 3 | [Apply](https://go.vansh.nyc/1fe) |
 | GreatAmerica Financial Services | Platform Engineering Intern | Cedar Rapids, IA |  | Nov 3 | [Apply](https://go.vansh.nyc/1fj) |
 | GreatAmerica Financial Services | Quality Assurance Analyst Intern | Cedar Rapids, IA +1 |  | Nov 3 | [Apply](https://go.vansh.nyc/1fi) |
 | [Baird](https://internscout.org/internships/at/baird/) | Quality Assurance Automation Engineer Intern | Milwaukee, WI |  | Nov 3 | [Apply](https://go.vansh.nyc/1f0) |
@@ -187,23 +204,6 @@
 | [Micron Technology](https://internscout.org/internships/at/micron-technology/) | IT Software Engineer Intern | Boise, ID |  | Nov 3 | [Apply](https://go.vansh.nyc/1d6) |
 | [CWAN](https://internscout.org/internships/at/cwan/) | Software Development Intern | Boise, ID +1 |  | Nov 3 | [Apply](https://go.vansh.nyc/1cl) |
 | CAI | GIS Software Developer Intern | United States |  | Nov 3 | [Apply](https://go.vansh.nyc/1ce) |
-| [Cambridge Investment Research](https://internscout.org/internships/at/cambridge-investment-research/) | Salesforce Developer Intern | Phoenix, AZ +1 |  | Nov 3 | [Apply](https://go.vansh.nyc/1ci) |
-| [Cambridge Investment Research](https://internscout.org/internships/at/cambridge-investment-research/) | Software Engineering Intern | Fairfield, IA +2 |  | Nov 3 | [Apply](https://go.vansh.nyc/1ch) |
-| [CNA Insurance](https://internscout.org/internships/at/cna-insurance/) | AI Engineering Intern, Technology | Chicago, IL |  | Nov 3 | [Apply](https://go.vansh.nyc/1ca) |
-| [CNA Insurance](https://internscout.org/internships/at/cna-insurance/) | Software Engineering Intern, Technology | Chicago, IL |  | Nov 3 | [Apply](https://go.vansh.nyc/1c9) |
-| [CNA Insurance](https://internscout.org/internships/at/cna-insurance/) | Cybersecurity Intern, Technology | Chicago, IL |  | Nov 3 | [Apply](https://go.vansh.nyc/1cc) |
-| [Alcon](https://internscout.org/internships/at/alcon/) | Software, Data & AI Engineering Intern | Fort Worth, TX +4 |  | Nov 3 | [Apply](https://go.vansh.nyc/1bZ) |
-| [Allegion](https://internscout.org/internships/at/allegion/) | Software Engineering Intern | Golden, CO |  | Nov 3 | [Apply](https://go.vansh.nyc/1c3) |
-| [Allegion](https://internscout.org/internships/at/allegion/) | Software Engineering Intern, DevOps | Carmel, IN +1 |  | Nov 3 | [Apply](https://go.vansh.nyc/1c0) |
-| [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Analytics Web Systems Developer Intern | Lansing, MI |  | Nov 3 | [Apply](https://go.vansh.nyc/1c4) |
-| [Axos Bank](https://internscout.org/internships/at/axos-bank/) | Software Development Intern | San Diego, CA |  | Nov 3 | [Apply](https://go.vansh.nyc/1bT) |
-| [HP Inc.](https://internscout.org/internships/at/hp-inc/) | Software Engineer Intern - AIML Platform - HP IQ | SF |  | Nov 3 | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--AIML-Platform---HP-IQ_UNI4800) |
-| [T-Mobile](https://internscout.org/internships/at/t-mobile/) | T-Ads Software Engineer Intern | Philadelphia, PA |  | Nov 3 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234) |
-| [HP Inc.](https://internscout.org/internships/at/hp-inc/) | Software Engineer Intern - Product & Developer Productivity | SF |  | Nov 3 | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803) |
-| [American Express](https://internscout.org/internships/at/american-express/) | Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Technology Services | Phoenix, AZ |  | Nov 3 | [Apply](https://go.vansh.nyc/1dS) |
-| [Arch Capital Group](https://internscout.org/internships/at/arch-capital-group/) | Originations Portal IT Intern | Greensboro, NC United States of America +1 | Paid | Nov 3 | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135) |
-| [Dell Technologies](https://internscout.org/internships/at/dell-technologies/) | Software Engineering Undergraduate Intern, CSG | United States |  | Nov 3 | [Apply](https://go.vansh.nyc/1dN) |
-| [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Site IT (Summer 2027) | Buffalo Grove, IL | \$23 - \$25/hr | Nov 3 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Buffalo-Grove-IL/Intern---Site-IT--Summer-2027-_R041054) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

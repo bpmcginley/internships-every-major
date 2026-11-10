@@ -1,6 +1,6 @@
 # Urban Planning: Summer 2027 Internships
 
-59 open Summer 2027 urban planning roles, newest first (all 59). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 119 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+58 open Summer 2027 urban planning roles, newest first (all 58). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 119 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -37,7 +37,6 @@
 | [Stantec](https://internscout.org/internships/at/stantec/) | Transportation Planning Intern- Infrastructure (Summer 2027) | Minneapolis, MN +1 |  | Sep 21 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007905) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Internship - Community Development (Summer 2027) | Mequon, WI |  | Sep 18 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007861) |
 | [Pilot Company](https://internscout.org/internships/at/pilot-company/) | GIS Intern - GIS | Knoxville, TN |  | Sep 9 | [Apply](https://jobs.smartrecruiters.com/PilotCompany/744000148576444) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors or Masters - Transportation Planning Intern (Summer 2027!) | Chicago, Illinois | \$39.82 | Sep 9 | [Apply](https://careers.cdmsmith.com/jobs/4441) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Planning Intern - Summer 2027 | Harrisburg, PA |  | Sep 9 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309847) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors or Masters - Transportation Planning Intern (Summer 2027!) | Orlando, Florida | \$38.01 | Sep 9 | [Apply](https://careers.cdmsmith.com/jobs/4439) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Masters - Transportation Planning Intern (Summer 2027!) | Indianapolis, Indiana | \$36.20 | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/4371) |

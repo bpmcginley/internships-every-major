@@ -1,9 +1,10 @@
 # Math: Summer 2027 Internships
 
-29 open Summer 2027 math roles, newest first (all 29). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 49 math internships on InternScout](https://internscout.org/internships/math/)
+30 open Summer 2027 math roles, newest first (all 30). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 50 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Chubb](https://internscout.org/internships/at/chubb/) | Actuarial Intern | Chicago, IL | \$24 to \$26 per hour | Nov 9 | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38492) |
 | [Sanofi](https://internscout.org/internships/at/sanofi/) | 2027 Summer Intern Biostatistics Interactive Benchmarking Platform Cambridge MA | Cambridge, MA | Paid | Nov 9 | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-Biostatistics-Interactive-Benchmarking-Platform--Cambridge-MA_R2865024) |
 | Markel Group, Inc. | Actuarial Intern | Richmond, VA +1 | \$24-\$28.50/hr | Nov 9 | [Apply](https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Richmond-VA/Actuarial-Intern_R0023907) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Statistics Intern | Atlanta, GA |  | Nov 6 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Statistics-Intern_R-0000033876) |

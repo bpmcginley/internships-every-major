@@ -1,9 +1,11 @@
 # Health: Summer 2027 Internships
 
-55 open Summer 2027 health roles, newest first (all 55). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 290 health internships on InternScout](https://internscout.org/internships/health/)
+56 open Summer 2027 health roles, newest first (all 56). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 289 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Philips](https://internscout.org/internships/at/philips/) | Intern-Insights and Analytics (Health Systems Marketing) Cambridge, MA or Nashville, TN - Summer 2027 | Cambridge (US), Massachusetts, United States +2 | \$26 – 30 | Nov 9 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern-Insights-and-Analytics--Health-Systems-Marketing--Cambridge--MA---Summer-2027_593454) |
+| BlueCross BlueShield of Nebraska | Data Intern - Healthcare Summer 2027 | Omaha, NE |  | Nov 9 | [Apply](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Data-Intern--Summer-2027_JR101406) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Hospitality Internships - Lodging - Grand Canyon South Rim | GRAND CANYON, Arizona | Paid | Nov 6 | [Apply](https://xanterra.jibeapply.com/jobs/40112) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Hospitality Internship - Oasis at Death Valley | Death Valley, California | \$16.65 per hour | Nov 6 | [Apply](https://xanterra.jibeapply.com/jobs/40114) |
 | [Geisinger](https://internscout.org/internships/at/geisinger/) | Nursing Student Summer Externship - RN Operating Room - Ambulatory Surgery | Danville, PA | Paid | Nov 6 | [Apply](https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Danville-PA/Nursing-Student-Summer-Externship---RN-Operating-Room---Ambulatory-Surgery_R-15960) |
@@ -18,7 +20,6 @@
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (Wisconsin Health Plan) – Summer 2027 (Undergraduate) | WI |  | Nov 3 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040147) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (New York Health Plan) – Summer 2027 (Undergraduate) | New York, NY |  | Nov 3 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040153) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Patient Safety Intern Summer 2027 | Princeton - NJ - US +1 | \$21-\$45/hour | Nov 3 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Patient-Safety-Intern-Summer-2027_R1607761) |
-| BlueCross BlueShield of Nebraska | Data Intern - Healthcare Summer 2027 | Omaha, NE |  | Nov 3 | [Apply](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Data-Intern--Summer-2027_JR101406) |
 | [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program - Patient Data Learning - Co-op | USA - Massachusetts - Cambridge (320 Bent Street) +1 | \$39,908 - \$111,111 | Nov 2 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Patient-Data-Learning---Co-op_R424526) |
 | [Geisinger](https://internscout.org/internships/at/geisinger/) | Nursing Student Summer Externship - Apply here for Interventional Radiology | Danville, PA | Paid | Nov 2 | [Apply](https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Danville-PA/Nursing-Student-Summer-Externship---Apply-here-for-Interventional-Radiology_R-13834) |
 | [Emory University](https://internscout.org/internships/at/emory-university/) | Emory Healthcare Spiritual Health Internship Summer 2027 | Atlanta, Georgia |  | Nov 2 | [Apply](https://emory.jibeapply.com/jobs/176578) |

@@ -1,9 +1,10 @@
 # Physics: Summer 2027 Internships
 
-24 open Summer 2027 physics roles, newest first (all 24). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 95 physics internships on InternScout](https://internscout.org/internships/physics/)
+25 open Summer 2027 physics roles, newest first (all 25). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 95 physics internships on InternScout](https://internscout.org/internships/physics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [RTX](https://internscout.org/internships/at/rtx/) | Electro-Optic Intern (Summer 2027)(Onsite) | Tucson, AZ | Paid | Nov 9 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9070--9070-S-Rita-Rd--BLDG-9070/Electro-Optic-Intern--Summer-2027--Onsite-_01877708) |
 | [Corning](https://internscout.org/internships/at/corning/) | R&D Intern, Optical Communications Development - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Nov 6 | [Apply](https://corningjobs.corning.com/job/Corning-R&D-Intern%2C-Optical-Communications-Development-Summer-2027-NY-14831/1448753800/) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Silicon Photonics Process Integration Intern (Summer 2027) | USA - New York - Malta |  | Nov 6 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Intern--Summer-2027-_JR-2604266) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Device Engineering Intern, Silicon Photonics (Summer 2027) | USA - New York - Malta +1 |  | Nov 6 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604264) |

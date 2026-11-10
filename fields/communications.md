@@ -1,9 +1,10 @@
 # Communications: Summer 2027 Internships
 
-59 open Summer 2027 communications roles, newest first (all 59). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 183 communications internships on InternScout](https://internscout.org/internships/communications/)
+60 open Summer 2027 communications roles, newest first (all 60). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 185 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Jones Lang LaSalle (JLL) | Delta Account Communications Summer 2027 Internship – Delta Corporate Headquarters, Atlanta, GA | Atlanta, GA |  | Nov 9 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Delta-Account-Communications-Summer-2027-Internship---Delta-Corporate-Headquarters--Atlanta--GA_REQ546149) |
 | [Corning](https://internscout.org/internships/at/corning/) | R&D Intern, Optical Communications Development - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Nov 6 | [Apply](https://corningjobs.corning.com/job/Corning-R&D-Intern%2C-Optical-Communications-Development-Summer-2027-NY-14831/1448753800/) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Corporate Communications & Digital Experience Intern | Florida - Deerfield Beach |  | Nov 5 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Corporate-Communications---Digital-Experience-Intern_JR105209) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Public Relations & Government Affairs Intern | Norwell, MA | Paid | Nov 4 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168265) |

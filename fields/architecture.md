@@ -1,6 +1,6 @@
 # Architecture: Summer 2027 Internships
 
-56 open Summer 2027 architecture roles, newest first (all 56). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 137 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+55 open Summer 2027 architecture roles, newest first (all 55). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 137 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -9,7 +9,6 @@
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | New Orleans, LA +1 |  | Nov 5 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98834) |
 | Logiqal | Quantum Error Correction and Architecture Intern | Princeton, NJ |  | Nov 4 | [Apply](https://go.vansh.nyc/1hg) |
 | [STV](https://internscout.org/internships/at/stv/) | Architecture Intern - Summer 2027 | South Flower Street, Los Angeles, California | \$52,526.00 - \$59,689.00 | Nov 3 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/South-Flower-Street-Los-Angeles-California/Architecture-Intern---Summer-2027_JR6442) |
-| [RTX](https://internscout.org/internships/at/rtx/) | Receiver, Exciter & Processing Architecture Electrical Engineer Intern (Summer 2027) | Tewksbury, MA | Paid | Nov 3 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027-_01873437) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18h) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Research and Development - Energy and Propulsion Systems Architecture | Warren, Michigan, United States of America |  | Oct 30 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Energy-and-Propulsion-Systems-Architecture_JR-202622231) |
 | [STV](https://internscout.org/internships/at/stv/) | Architecture Intern - Summer 2027 | Montgomery Street, San Francisco, California | \$57,094.00 - \$64,879.00 | Oct 30 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Montgomery-Street-San-Francisco-California/Architecture-Intern---Summer-2027_JR6435) |

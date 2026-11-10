@@ -1,6 +1,6 @@
 # Agriculture: Summer 2027 Internships
 
-16 open Summer 2027 agriculture roles, newest first (all 16). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 47 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
+15 open Summer 2027 agriculture roles, newest first (all 15). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 47 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -19,7 +19,6 @@
 | [Ecolab](https://internscout.org/internships/at/ecolab/) | Animal Health, Dairy Farm, Agriculture Industry - Technical Sales Intern | USA - Ohio - Columbus | \$23.00 - \$25.00 per hour | Sep 18 | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Ohio---Columbus/Animal-Health--Dairy-Farm--Agriculture-Industry---Technical-Sales-Intern_R00303111) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | Marketing Intern - US Farm Animal (Summer 2027) | Indianapolis, IN | \$20-\$40/hour | Sep 18 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Marketing-Intern---US-Farm-Animal--Summer-2027-_R0026873) |
 | [The Andersons](https://internscout.org/internships/at/the-andersons/) | Agronomy Intern (Summer 2027) | Galveston, IN |  | Sep 18 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Galveston-IN/Agronomy-Intern--Summer-2027-_R12478) |
-| [Meijer](https://internscout.org/internships/at/meijer/) | Food Safety Intern- Summer 2027 | Grand Rapids, MI |  | Sep 18 | [Apply](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Food-Safety-Intern--Summer-2027_R000700342) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,16 +1,23 @@
 # Cybersecurity: Summer 2027 Internships
 
-197 open Summer 2027 cybersecurity roles, newest first (all 197). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 344 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+205 open Summer 2027 cybersecurity roles, newest first (the 200 newest of 205). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 353 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Citizens Energy Group | IT Security Intern | Indianapolis, IN |  | Nov 9 | [Apply](https://go.vansh.nyc/1oR) |
+| [Kudu Dynamics](https://internscout.org/internships/at/kudu-dynamics/) | Cybersecurity Analyst Intern | Odenton, MD |  | Nov 9 | [Apply](https://go.vansh.nyc/1oS) |
+| [NBCUniversal](https://internscout.org/internships/at/nbcuniversal/) | Cybersecurity, Governance & Security Engineering Intern, Media Tech | New York, NY |  | Nov 9 | [Apply](https://go.vansh.nyc/1oC) |
+| [Zoetis](https://internscout.org/internships/at/zoetis/) | Information Security Intern | Parsippany, NJ |  | Nov 9 | [Apply](https://go.vansh.nyc/1ox) |
+| [CACI](https://internscout.org/internships/at/caci/) | Cyber Security Intern | Sterling, VA |  | Nov 9 | [Apply](https://go.vansh.nyc/1oq) |
+| [Zoetis](https://internscout.org/internships/at/zoetis/) | IT/OT Security Intern | Kalamazoo, MI |  | Nov 9 | [Apply](https://go.vansh.nyc/1op) |
+| [CACI](https://internscout.org/internships/at/caci/) | Cyber Security Intern - Summer 2027 | Sterling, VA, US | \$45,900 - \$91,900 | Nov 9 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Cyber-Security-Intern---Summer-2027_334812) |
 | Rockefeller Capital Management | Analyst Intern, Information Security | New York, NY |  | Nov 7 | [Apply](https://go.vansh.nyc/1mv) |
 | Envista Forensics | Digital Forensics Intern | Morrisville, NC |  | Nov 6 | [Apply](https://go.vansh.nyc/1kg) |
 | [Intercontinental Exchange, Inc.](https://internscout.org/internships/at/intercontinental-exchange/) | Application Security Intern | Jacksonville, FL |  | Nov 6 | [Apply](https://go.vansh.nyc/1k7) |
 | [PETRONAS Canada](https://internscout.org/internships/at/petronas-canada/) | Summer Student, Network and Security | Calgary |  | Nov 6 | [Apply](https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Network-and-Security_R0001882) |
 | [CareSource](https://internscout.org/internships/at/caresource/) | Cybersecurity Intern | Remote +1 |  | Nov 5 | [Apply](https://go.vansh.nyc/1je) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | Cybersecurity Analyst Intern | McLean, VA |  | Nov 5 | [Apply](https://go.vansh.nyc/1iU) |
-| DwyerOmega | Cyber Resilience & Product Security Intern | Michigan City, IN |  | Nov 5 | [Apply](https://go.vansh.nyc/1kY) |
+| [DwyerOmega](https://internscout.org/internships/at/dwyeromega/) | Cyber Resilience & Product Security Intern | Michigan City, IN |  | Nov 5 | [Apply](https://go.vansh.nyc/1kY) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Systems Security Engineer Intern | Tewksbury, MA |  | Nov 5 | [Apply](https://go.vansh.nyc/1iL) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Information Security Intern | Atlanta, GA |  | Nov 5 | [Apply](https://go.vansh.nyc/1iJ) |
 | Kimball Electronics | Cybersecurity Intern | Remote +1 |  | Nov 5 | [Apply](https://go.vansh.nyc/1iy) |
@@ -67,6 +74,7 @@
 | [Costco](https://internscout.org/internships/at/costco/) | CDS Intern, OT/IoT Security Engineering | Wa, WA |  | Oct 29 | [Apply](https://go.vansh.nyc/1gX) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | University - 2027 Summer Games Cyber Security Intern - Lexington, MA | Lexington, MA |  | Oct 29 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Cyber-Security-Intern---Lexington--MA_R0252278) |
 | [Nintendo](https://internscout.org/internships/at/nintendo/) | Software Engineer Intern, Platform Security | Redmond, WA |  | Oct 28 | [Apply](https://go.vansh.nyc/12o) |
+| SeatGeek | Security Engineer Intern | New York, NY |  | Oct 28 | [Apply](https://go.vansh.nyc/1oZ) |
 | [L3Harris Technologies](https://internscout.org/internships/at/l3harris-technologies/) | Information Security Systems Engineer Intern | Salt Lake City, UT |  | Oct 28 | [Apply](https://go.vansh.nyc/XU) |
 | [Nintendo](https://internscout.org/internships/at/nintendo/) | Intern - Software Engineer, Platform Security (NTD) | Redmond, WA | Paid | Oct 28 | [Apply](https://careers.nintendo.com/?gh_jid=4469778009) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | University, 2027 Summer Games Cyber Security Intern - Colorado Springs, CO | Colorado Springs, CO |  | Oct 28 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Cybersecurity-Intern_R0248131) |
@@ -196,11 +204,6 @@
 | [Inmar Intelligence](https://internscout.org/internships/at/inmar-intelligence/) | Information Security Internships, Summer 2027 | Headquarters, Winston Salem, NC |  | Sep 18 | [Apply](https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Information-Security-Internships--Summer-2027_JY2627635) |
 | [Vanguard](https://internscout.org/internships/at/vanguard/) | College to Corporate IT Internship-Risk & Security-Engineer (NC) | Charlotte, NC |  | Sep 18 | [Apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Risk---Security-Engineer--NC-_182785) |
 | [Vanguard](https://internscout.org/internships/at/vanguard/) | College to Corporate IT Internship - Risk & Security - Analyst (NC) | Charlotte, NC |  | Sep 18 | [Apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Analyst---NC-_181764) |
-| Iberdrola Group | 2027 Technology, Cyber & Data Internship Program | United States Of America, Connecticut, Orange +9 | Paid | Sep 18 | [Apply](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Technology--Cyber---Data-Internship-Program_R-32747) |
-| [Air Products](https://internscout.org/internships/at/air-products/) | Summer Intern- IT & Cyber Audit (2027) | Allentown, Pennsylvania |  | Sep 18 | [Apply](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Allentown-Pennsylvania/Summer-Intern--IT---Cyber-Audit--2027-_JR-2026-21954) |
-| [Walmart](https://internscout.org/internships/at/walmart/) | Summer 2027 Intern: Cybersecurity Masters | (USA) ISD Office - DGTC AR BENTONVILLE Home Office | \$23.00 - \$45.00 | Sep 18 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Cybersecurity-Masters_R-2630026) |
-| [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | IT Security Engineer Internship - Summer 2027 | Lansing, MI |  | Sep 18 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/IT-Security-Engineer-Internship---Summer-2027_R_14477) |
-| [Walmart](https://internscout.org/internships/at/walmart/) | Summer 2027 Intern: Cybersecurity Undergrad | (USA) ISD Office - DGTC AR BENTONVILLE Home Office | \$21.00 - \$40.00 | Sep 18 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Cybersecurity-Undergrad_R-2630025) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

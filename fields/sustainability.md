@@ -1,9 +1,10 @@
 # Sustainability: Summer 2027 Internships
 
-83 open Summer 2027 sustainability roles, newest first (all 83). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 133 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+83 open Summer 2027 sustainability roles, newest first (all 83). **Updated November 9, 2026.** [Back to every major](../README.md) · [See all 132 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Energy Efficiency | Ottawa, ON | \$31,621 - \$59,132 | Nov 9 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Ottawa-ON/XMLNAME-2027-Summer-Intern--Energy-Efficiency_R2603780) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Building Science Co-op/Intern (Summer 2027) | San Francisco, CA |  | Nov 9 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008756) |
 | [Corning](https://internscout.org/internships/at/corning/) | Sustainability Intern - Summer 2027 | Charlotte, NC | \$1,635.00 - \$3,185.00 | Nov 7 | [Apply](https://corningjobs.corning.com/job/Charlotte-Sustainability-Intern-Summer-2027-NC-28216/1448781500/) |
 | [Global Infrastructure](https://internscout.org/internships/at/global-infrastructure/) | Sustainability Intern | US +3 | \$20 to \$30 per hour | Nov 6 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--NY--New-York---32-Old-Slip/Sustainability-Intern_6695-1) |
@@ -55,7 +56,6 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Strategic/Systems Intern - Morris, IL | Morris, Illinois | Paid | Sep 30 | [Apply](https://jobs.constellationenergy.com/jobs/139584) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Nuclear Technician Internship - Oswego, NY (ASSOCIATE'S DEGREE) | Oswego, New York | Paid | Sep 30 | [Apply](https://jobs.constellationenergy.com/jobs/138600) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | Asheville, North Carolina | \$20.00 | Sep 25 | [Apply](https://careers.trccompanies.com/jobs/26953) |
-| [Stantec](https://internscout.org/internships/at/stantec/) | Renewable Energy Civil Intern (Summer 2027) | Minneapolis, MN |  | Sep 25 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008002) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | Seattle, Washington +1 | \$20.00 | Sep 25 | [Apply](https://careers.trccompanies.com/jobs/26950) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Nuclear Technician Internship - Oswego, NY (ASSOCIATE'S DEGREE ONLY) | Oswego, New York | Paid | Sep 24 | [Apply](https://jobs.constellationenergy.com/jobs/139373) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Intern – Corporate Environmental and Sustainability (EHS) | Pittsburgh, PA |  | Sep 23 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119566) |
