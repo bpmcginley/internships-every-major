@@ -1,6 +1,6 @@
 # Electrical Engineering: Summer 2027 Internships
 
-245 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 245). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 575 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+245 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 245). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 576 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

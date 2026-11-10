@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | New Providence, New Jersey | \$20.00 | Nov 10 | [Apply](https://careers.trccompanies.com/jobs/28467) |
 | [Royal Caribbean Group](https://internscout.org/internships/at/royal-caribbean-group/) | Intern, Maritime Safety + Environmental Compliance (Summer 2027) | Miami, FL |  | Nov 10 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miami-Intern%2C-Maritime-Safety-%2B-Environmental-Compliance-%28Summer-2027%29-FL-33132/1449347100/) |
 | [Nucor](https://internscout.org/internships/at/nucor/) | Safety and Health Intern (Summer 2027) | Salt Lake City, UT | \$27.00/Hour | Nov 10 | [Apply](https://jobs.nucor.com/job/Salt-Lake-City-Safety-and-Health-Intern-%28Summer-2027%29-UT-84104/1449345000/) |
 | Sentry Insurance | Occupational Safety Internship Summer 2027 | Stevens Point, WI |  | Nov 10 | [Apply](https://sentryinsurance.wd1.myworkdayjobs.com/SentryCareers/job/Stevens-Point-WI/Risk-Control-Occupational-Safety-Internship-Summer-2027_JR-142809) |
@@ -77,7 +78,6 @@
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Liverpool, New York | \$20.00 | Oct 14 | [Apply](https://careers.trccompanies.com/jobs/27090) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Safety Intern | Exton, Pennsylvania | \$20.00 | Oct 14 | [Apply](https://careers.trccompanies.com/jobs/27098) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | New York, New York | \$20.00 | Oct 14 | [Apply](https://careers.trccompanies.com/jobs/27091) |
-| [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | New Providence, New Jersey | \$20.00 | Oct 14 | [Apply](https://careers.trccompanies.com/jobs/27083) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Houston, Texas | \$20.00 | Oct 14 | [Apply](https://careers.trccompanies.com/jobs/27082) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Safety Intern | Braintree, Massachusetts | \$20.00 | Oct 14 | [Apply](https://careers.trccompanies.com/jobs/27081) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern - Infrastructure & Sustainability | Pascagoula, Mississippi |  | Oct 14 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-INFRASTRUCTURE-&-SUSTAINABILITY-Miss/1430056400/) |

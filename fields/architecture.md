@@ -1,6 +1,6 @@
 # Architecture: Summer 2027 Internships
 
-57 open Summer 2027 architecture roles, newest first (all 57). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 139 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+56 open Summer 2027 architecture roles, newest first (all 56). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 138 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -36,7 +36,6 @@
 | [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Design Architecture Engineer Intern | San Jose, CA |  | Oct 6 | [Apply](https://go.vansh.nyc/Fe) |
 | [Micron Technology](https://internscout.org/internships/at/micron-technology/) | Next-Generation HBM Architecture Intern | Folsom, CA |  | Oct 5 | [Apply](https://go.vansh.nyc/EH) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Electrical Engineering Intern – Product Architecture (Summer 2027) | Delaware, OH |  | Oct 2 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281025) |
-| [Micron Technology](https://internscout.org/internships/at/micron-technology/) | DRAM Architecture Intern | San Jose, CA +1 |  | Oct 1 | [Apply](https://go.vansh.nyc/Ef) |
 | [Oceaneering](https://internscout.org/internships/at/oceaneering/) | IT Security Architecture Intern | Houston, TX |  | Sep 30 | [Apply](https://go.vansh.nyc/H2) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | Mission Architecture Intern (Summer 2027) | Woodbridge, VA | \$40/hour | Sep 29 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5252672007) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Architecture Intern | Burlington, VT |  | Sep 28 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Architecture-Intern--MS---Summer-2027_2604613) |

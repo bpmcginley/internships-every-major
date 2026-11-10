@@ -1,9 +1,10 @@
 # Chemistry: Summer 2027 Internships
 
-23 open Summer 2027 chemistry roles, newest first (all 23). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 44 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
+24 open Summer 2027 chemistry roles, newest first (all 24). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 44 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Entegris](https://internscout.org/internships/at/entegris/) | Analytical Chemist Intern | Danbury, CT | \$20-\$30/hour | Nov 10 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Danbury-CT/Analytical-Chemist-Intern_REQ-15855) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern Chemistry Summer 2027 | Port Gibson, Mississippi |  | Nov 9 | [Apply](https://jobs.entergy.com/job/Port-Gibson-Student%2C-Intern-Chemistry-Summer-2027-Miss/1448978900/) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Global Discovery Chemistry Intern | San Diego - CA - US | \$24.00 - \$30.00 | Nov 4 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/San-Diego---CA---US/Global-Discovery-Chemistry-Intern_R1608184) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Lab Chemist Intern - Summer 2027 | Waynoka, OK | Paid | Oct 30 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168059) |

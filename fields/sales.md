@@ -1,6 +1,6 @@
 # Sales: Summer 2027 Internships
 
-296 open Summer 2027 sales roles, newest first (the 200 newest of 296). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 543 sales internships on InternScout](https://internscout.org/internships/sales/)
+295 open Summer 2027 sales roles, newest first (the 200 newest of 295). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 542 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -199,11 +199,11 @@
 | [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | PacWest - Sales Internship (Comparion) - Summer 2027 | Chandler, AZ +8 |  | Nov 10, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261753/pacwest---sales-internship-%28comparion%29---summer-2027/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Sales Enablement Intern | Niles, IL | \$23-\$43 per hour | Nov 10, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5009/global-sales-enablement-intern/job) |
 | Evo | Evo Summer Sales Internship | Richmond, VA | \$3,000.00 - \$5,000.00 per month | Nov 10 | [Apply](https://www.indeed.com/viewjob?jk=802ab6e313e77c2b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [Athene](https://internscout.org/internships/at/athene/) | Finance Summer 2027 Internship (Sales & Expense) | West Des Moines, Iowa |  | Nov 9 | [Apply](https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Finance-Summer-2027-Internship--Sales---Expense-_R255321) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Sales Administration - Marketing | Denton, TX |  | Nov 3 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Sales-Administration-Marketing-TX-76205-7864/1453616333/) |
 | [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Sales and Use Tax | The Woodlands TX |  | Nov 3 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/The-Woodlands/Summer-2027-Intern--Sales-and-Use-Tax_R0020800-1) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Sales Administration Data Analyst - Greenhouse Gas | Denton, TX |  | Nov 2 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Sales-Administration-Data-Analyst-Greenhouse-Gas-TX-76205-7864/1453564433/) |
 | [Holmes Murphy](https://internscout.org/internships/at/holmes-murphy/) | Sales Intern - Summer 2027 | Dallas |  | Oct 27 | [Apply](https://holmesmurphy.wd1.myworkdayjobs.com/HolmesMurphyCareers/job/Dallas/Sales-Intern---Summer-2027_R0000960) |
+| [Holmes Murphy](https://internscout.org/internships/at/holmes-murphy/) | Sales Intern - Summer 2027 | Denver |  | Oct 27 | [Apply](https://holmesmurphy.wd1.myworkdayjobs.com/HolmesMurphyCareers/job/Denver/Sales-Intern---Summer-2027_R0001012) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

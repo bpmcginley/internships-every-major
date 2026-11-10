@@ -1,6 +1,6 @@
 # Urban Planning: Summer 2027 Internships
 
-59 open Summer 2027 urban planning roles, newest first (all 59). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 115 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+59 open Summer 2027 urban planning roles, newest first (all 59). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 113 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

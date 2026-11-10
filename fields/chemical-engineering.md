@@ -1,6 +1,6 @@
 # Chemical Engineering: Summer 2027 Internships
 
-67 open Summer 2027 chemical engineering roles, newest first (all 67). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 159 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+66 open Summer 2027 chemical engineering roles, newest first (all 66). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 158 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -62,7 +62,6 @@
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Advanced Manufacturing Process Engineering Intern, Sophomore (Summer 2027) | USA - Vermont - Essex Junction |  | Sep 18 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Sophomore--Summer-2027-_JR-2604639) |
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Refining Chemical Engineering Intern/Co-op Summer 2027 | Findlay, Ohio +16 | \$33.54 - \$42.45 | Sep 18 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Refining-Chemical-Engineering-Intern-Co-op-Summer-2027_00024022) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Intern, Process Engineering, Advanced Operations - Tempe | Tempe, Arizona |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tempe-Arizona/Intern--Process-Engineering--Advanced-Operations_R572881) |
-| [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Process Engineer - Florida | Weston, Florida |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Weston-Florida/Summer-2027-Internship---Process-Engineer---Florida_R572764) |
 | [Intel](https://internscout.org/internships/at/intel/) | Manufacturing and Process Development - Intern, Bachelor’s | Hillsboro, OR +2 | \$76,398.00-76,402.00 | Sep 18 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Manufacturing-and-Process-Development---Intern--Bachelor-s_JR0286825) |
 | [Intel](https://internscout.org/internships/at/intel/) | Manufacturing and Process Development - Intern, Graduate | Hillsboro, OR +2 | \$89,098.00-89,102.00 | Sep 18 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Manufacturing-and-Process-Development---Intern--Graduate_JR0286833) |
 | [Allegion](https://internscout.org/internships/at/allegion/) | Summer Intern - Process Engineering (Fabrication) | Indianapolis, IN - Tobey Dr |  | Sep 18 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Tobey-Dr/Summer-Intern---Process-Engineering--Fabrication-_JR37368-2) |

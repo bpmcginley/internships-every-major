@@ -1,9 +1,10 @@
 # Civil Engineering: Summer 2027 Internships
 
-338 open Summer 2027 civil engineering roles, newest first (the 200 newest of 338). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 652 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+338 open Summer 2027 civil engineering roles, newest first (the 200 newest of 338). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 650 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [STV](https://internscout.org/internships/at/stv/) | Transportation Engineering Intern - Summer 2027 | San Antonio, Texas | \$43,391.00 - \$49,308.00 | Nov 10 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/San-Antonio-Texas/Transportation-Engineering-Intern---Summer-2027_JR6201) |
 | [STV](https://internscout.org/internships/at/stv/) | Traffic Engineering Intern - Summer 2027 | Austin, Texas +1 | \$47,959.00 - \$54,498.00 | Nov 10 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Austin-Texas/Traffic-Engineering-Intern---Summer-2027_JR6402) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors - Construction Representative Intern (Summer 2027) | Hartford, Connecticut | \$37.03 | Nov 9 | [Apply](https://careers.cdmsmith.com/jobs/4962) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Structural Engineering Intern - Summer 2027 | Goshen, NY | \$24.76- \$32.22 | Nov 9 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98934) |
@@ -203,7 +204,6 @@
 | [Olsson](https://internscout.org/internships/at/olsson/) | Civil Engineering Internship - Data Centers Site Design | Omaha, NE |  | Sep 2 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5408688008) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Civil Engineering | Los Angeles, CA | \$30–\$40 per hour | Sep 2 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377122008) |
 | [Haskell](https://internscout.org/internships/at/haskell/) | Summer 2027 Construction Intern | Jacksonville, Florida |  | Sep 2 | [Apply](https://haskell.jibeapply.com/jobs/7053) |
-| [Ruekert & Mielke](https://internscout.org/internships/at/ruekert-mielke/) | Survey Student Intern (Summer 2027) | Waukesha, Wisconsin |  | Sep 2 | [Apply](https://ruekertmielke.bamboohr.com/careers/311) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

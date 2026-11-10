@@ -1,9 +1,11 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-334 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 334). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 875 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+336 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 336). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 880 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Entegris](https://internscout.org/internships/at/entegris/) | Manufacturing Engineer Intern | Bedford, MA | \$20-\$30/hour | Nov 10 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bedford-MA/Manufacturing-Engineer-Intern_REQ-15886-1) |
+| [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program - Manufacturing Intern | USA - North Carolina - Durham (Old Oxford) | \$39,908 - \$111,111 | Nov 10 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---North-Carolina---Durham-Old-Oxford/XMLNAME-2027-Future-Talent-Program---Manufacturing-Intern_R416739) |
 | [Entegris](https://internscout.org/internships/at/entegris/) | Mechanical Engineering Intern | Billerica, MA | \$20-\$30/hour | Nov 10 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Mechanical-Engineering-Intern_REQ-15834) |
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | Advanced Manufacturing Engineering Intern - The Toro Company | Bloomington, MN | \$22–\$28 | Nov 10 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Advanced-Manufacturing-Engineering-Intern---The-Toro-Company_JR17845) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Manufacturing Engineering Intern (Summer 2027) | Troy, OH | Paid | Nov 10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OH-TROY-101--101-Waco-St--WACO/Manufacturing-Engineering-Intern--Summer-2027-_01884905) |
@@ -202,8 +204,6 @@
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | San Leandro, California | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36099) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | DOWNEY, California | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36094) |
 | [Garmin](https://internscout.org/internships/at/garmin/) | Mechanical Engineering Intern | Cary, North Carolina |  | Sep 10 | [Apply](https://careers.garmin.com/jobs/19911) |
-| [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | Eagan, Minnesota | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36106) |
-| [Saronic](https://internscout.org/internships/at/saronic/) | Mechanical Engineer Intern (Summer 2027) | Austin, TX +1 |  | Sep 9 | [Apply](https://jobs.ashbyhq.com/saronic/f52ae6eb-7eba-4c64-97c7-57e2a234e088/application) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

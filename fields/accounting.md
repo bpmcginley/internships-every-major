@@ -1,9 +1,11 @@
 # Accounting: Summer 2027 Internships
 
-220 open Summer 2027 accounting roles, newest first (the 200 newest of 220). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 489 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+222 open Summer 2027 accounting roles, newest first (the 200 newest of 222). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 490 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - Accounting | Toronto, Ontario | \$40,950.00 | Nov 10 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---Accounting_JR26080118-1) |
+| [Entegris](https://internscout.org/internships/at/entegris/) | Internal Audit Intern | Billerica, MA | \$20-\$30/hour | Nov 10 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Internal-Audit-Intern_REQ-15845) |
 | [EisnerAmper](https://internscout.org/internships/at/eisneramper/) | 2027 Assurance Summer Intern - Real Estate | New York |  | Nov 10 | [Apply](https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/New-York/XMLNAME-2027-Assurance-Summer-Intern---Real-Estate_Req-9647) |
 | [EisnerAmper](https://internscout.org/internships/at/eisneramper/) | 2027 Assurance Summer Intern | Philadelphia |  | Nov 9 | [Apply](https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/Philadelphia/XMLNAME-2027-Assurance-Summer-Intern_Req-8511) |
 | Fiserv | 2027 Finance & Accounting Internship - Alpharetta | Alpharetta, Georgia | Paid | Nov 9 | [Apply](https://fiserv.wd5.myworkdayjobs.com/EXT/job/Alpharetta-Georgia/XMLNAME-2027-Finance---Accounting-Internship---Alpharetta_R-10403556) |
@@ -202,8 +204,6 @@
 | [Guardian Life](https://internscout.org/internships/at/guardian-life/) | 2027 Guardian Summer Intern, Corporate Finance & Risk - Corporate Tax | New York | \$20.00 - \$35.00 | Sep 18 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Corporate-Tax_R000110175) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Sacramento - Tax JD - Intern - Summer 2027 | CA-Sacramento | \$29.25 - \$48.00 | Sep 18 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/CA-Sacramento/Sacramento---Tax-JD---Intern---Summer-2027_6122615EIB-1) |
 | [Newrez](https://internscout.org/internships/at/newrez/) | 2027 Summer Internship – Internal Audit | PA, Fort Washington |  | Sep 18 | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/PA-Fort-Washington/XMLNAME-2027-Summer-Internship---Internal-Audit_R10373) |
-| [Land O'Lakes](https://internscout.org/internships/at/land-o-lakes/) | Accounting Intern | Arden Hills, MN (USA) | Paid | Sep 18 | [Apply](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Arden-Hills-MN-USA/Accounting-Intern_R-40502) |
-| [DuCharme, McMillen & Associates](https://internscout.org/internships/at/ducharme-mcmillen-associates/) | Transaction Tax Intern - Summer 2027 | Houston, TX |  | Sep 18 | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Houston-TX/Transaction-Tax-Intern---Summer-2027_REQ628) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
