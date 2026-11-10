@@ -1,9 +1,11 @@
 # Product Management: Summer 2027 Internships
 
-180 open Summer 2027 product management roles, newest first (all 180). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 314 product management internships on InternScout](https://internscout.org/internships/product-management/)
+182 open Summer 2027 product management roles, newest first (all 182). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 316 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Snowflake | Product Management Intern (Summer 2027) | Menlo Park, CA +1 |  | Nov 10 | [Apply](https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf/application) |
+| [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Intern-Digital Product | Detroit, MI |  | Nov 10 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15151) |
 | [Legrand](https://internscout.org/internships/at/legrand/) | Product Management Intern | Syracuse, NY |  | Nov 10 | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1837) |
 | [DreamWorks Animation](https://internscout.org/internships/at/dreamworks-animation/) | Streaming Platforms – Product Management Intern | NYC |  | Nov 9 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160661249) |
 | [Scout Motors](https://internscout.org/internships/at/scout-motors/) | Digital Products Intern | Charlotte, NC |  | Nov 9 | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5287137007) |
@@ -117,6 +119,7 @@
 | ID.me | Summer Intern 2027 - Product Intern | Mountain View, CA |  | Sep 8 | [Apply](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003) |
 | Dick's Sporting Goods | Product Management Intern - Corporate Internship | Pittsburgh, PA |  | Sep 8 | [Apply](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1) |
 | [Ernst & Young](https://internscout.org/internships/at/ernst-young/) | Product Manager Intern - Tax - Other Tax | NYC |  | Sep 4 | [Apply](https://eyglobal.yello.co/jobs/ScWvvhAQZFvHMXityc1Mgw?job_board_id=c1riT--B2O-KySgYWsZO1Q) |
+| [OATEY](https://internscout.org/internships/at/oatey/) | Product Management Intern | Cleveland, OH |  | Sep 4 | [Apply](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Headquarters/Product-Management-Intern_R7185) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem | San Jose, CA |  | Sep 3 | [Apply](https://lifeattiktok.com/search/7677493272788683013) |
 | [Atlassian](https://internscout.org/internships/at/atlassian/) | Product Management Intern | SF |  | Sep 2 | [Apply](https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Product Development Intern - 2027 Product Development - US Consumer Services | NYC |  | Sep 1 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011605) |
@@ -164,7 +167,6 @@
 | [HNTB](https://internscout.org/internships/at/hntb/) | Program Management Intern – Summer 2027 | New York, NY |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/New-York-NY/Program-Management-Intern---Summer-2027_R-31828) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Product Specialist Intern, Summer 2027 | Fort Myers, FL +1 | Paid | Oct 24 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Myers-FL/Product-Specialist-Intern-2027_10017586) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Construction Project & Program Management Intern (Summer 2027) | San Jose, CA |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/San-Jose-CA/Construction-Project---Program-Management-Intern--Summer-2027-_R-31763) |
-| [OATEY](https://internscout.org/internships/at/oatey/) | Product Management Intern | Cleveland, OH (Headquarters) +1 | \$20.00 | Oct 23 | [Apply](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Headquarters/Product-Management-Intern_R7185) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Program Management Intern | Kirkland, WA |  | Oct 20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Program-Management-Intern-WA-98033/1449176233/) |
 | [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Program Manager (Summer 2027) | Neenah, WI | \$20 - \$24/hr | Oct 17 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Program-Manager--Summer-2027-_R040384) |
 | [Danaher Corporation](https://internscout.org/internships/at/danaher-corporation/) | Product Management & Marketing Intern (Summer 2027 Intern) | Logan, Utah, United States |  | Oct 17 | [Apply](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/Product-Management---Marketing-Intern--Summer-2027-Intern-_R1317692) |

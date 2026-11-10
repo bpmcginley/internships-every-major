@@ -1,6 +1,6 @@
 # Consulting: Summer 2027 Internships
 
-121 open Summer 2027 consulting roles, newest first (all 121). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 242 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+120 open Summer 2027 consulting roles, newest first (all 120). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 240 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -91,7 +91,6 @@
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 10, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Medicaid Policy | Portland, ME | \$30 per hour | Nov 10, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3977/summer-2027-consulting-internship---medicaid-policy/job) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Medicaid Policy | Kapolei, HI | \$30 per hour | Nov 10, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3978/summer-2027-consulting-internship---medicaid-policy/job) |
-| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Digital Transformation | Portland, ME | \$30 per hour | Nov 10, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3984/summer-2027-consulting-internship---digital-transformation/job) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Organizational Excellence, Medicaid | Portland, ME | \$30 per hour | Nov 10, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3980/summer-2027-consulting-internship---organizational-excellence%2c-medicaid/job) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Organizational Development & Public Development Services | Portland, ME | \$30 per hour | Nov 10, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3981/summer-2027-consulting-internship---organizational-development-%26-public-development-services/job) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Medicaid | Kapolei, HI | \$30 per hour | Nov 10, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3976/summer-2027-consulting-internship---medicaid/job) |

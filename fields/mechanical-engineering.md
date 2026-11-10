@@ -1,9 +1,10 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-339 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 339). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 881 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+340 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 340). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 882 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Mechanical Engineering Intern Industrial Services \| Summer 2027 | OH | \$20/hour | Nov 10 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168741) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027) | USA - New York - Malta |  | Nov 10 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604596) |
 | [Entegris](https://internscout.org/internships/at/entegris/) | Manufacturing Engineer Intern | Bedford, MA | \$20-\$30/hour | Nov 10 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bedford-MA/Manufacturing-Engineer-Intern_REQ-15886-1) |
 | [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program - Manufacturing Intern | USA - North Carolina - Durham (Old Oxford) | \$39,908 - \$111,111 | Nov 10 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---North-Carolina---Durham-Old-Oxford/XMLNAME-2027-Future-Talent-Program---Manufacturing-Intern_R416739) |
@@ -203,7 +204,6 @@
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Mechanical Engineering Intern Summer 2027 | Toronto, CAN |  | Sep 11 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7991769003) |
 | [Antares Nuclear](https://internscout.org/internships/at/antares-nuclear/) | Mechanical Engineering Design Intern - Summer 2027 | Los Angeles +1 |  | Sep 10 | [Apply](https://jobs.ashbyhq.com/Antares/9accca59-103b-4f54-978a-d5bb46bd9c62/application) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | San Leandro, California | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36099) |
-| [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | DOWNEY, California | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36094) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

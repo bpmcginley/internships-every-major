@@ -1,6 +1,6 @@
 # Operations: Summer 2027 Internships
 
-408 open Summer 2027 operations roles, newest first (the 200 newest of 408). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 985 operations internships on InternScout](https://internscout.org/internships/operations/)
+407 open Summer 2027 operations roles, newest first (the 200 newest of 407). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 985 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -137,8 +137,8 @@
 | [C&S Wholesale Grocers](https://internscout.org/internships/at/c-s-wholesale-grocers/) | National Project Management Office (NPMO) Intern- Summer 2027 | Keene, NH | Paid | Oct 22 | [Apply](https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Keene-NH/National-Project-Management-Office--NPMO--Intern--Summer-2027_R-269081) |
 | Kobo | eReader Quality Assurance Intern (12-month contract) | Toronto, Canada |  | Oct 22 | [Apply](https://rakuten.wd1.myworkdayjobs.com/Kobo/job/Toronto-Canada/eReader-Quality-Assurance-Intern--12-month-contract-_1039072) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Project Management - California | San Jose, California |  | Oct 22 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Project-Management---California_R572838) |
-| [Anduril](https://internscout.org/internships/at/anduril/) | Business Operations Engineer Intern | Ashville, OH +1 |  | Oct 21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271672007) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Business Operations Intern | Costa Mesa, California, United States +1 | Paid | Oct 21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007) |
+| [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Business Operations Engineer Intern | Ashville, Ohio, United States +3 | Paid | Oct 21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) |
 | [Uline](https://internscout.org/internships/at/uline/) | Packaging Project Management Internship | Pleasant Prairie, WI +4 | Paid | Oct 21 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Packaging-Project-Management-Internship_R268433) |
 | [Uline](https://internscout.org/internships/at/uline/) | Operations Analyst Internship - Summer 2027 | Pleasant Prairie, WI +4 | Paid | Oct 21 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Operations-Analyst-Internship---Summer-2027_R268435) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Project Management | Philadelphia, PA +2 | \$18.00 - \$21.00 Per Hour | Oct 21 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Philadelphia-PA/XMLNAME-2027-Summer-Internship---Project-Management_R-104163-2) |
@@ -179,7 +179,7 @@
 | [Assurant](https://internscout.org/internships/at/assurant/) | Summer 2027 Intern: Assurant Claims Operations Intern | Georgia Virtual +1 | \$20-22/hour | Oct 14 | [Apply](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Georgia-Virtual/Summer-2027-Intern--Assurant-Claims-Operations-Intern_R-115960) |
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | Operations Management Intern - The Toro Company | Tomah, WI | \$20–\$24 | Oct 14 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Tomah-WI/Operations-Management-Intern---The-Toro-Company_JR17598) |
 | [Allegion](https://internscout.org/internships/at/allegion/) | Software Operations Engineer Intern | Carmel, IN |  | Oct 13 | [Apply](https://go.vansh.nyc/8p) |
-| [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Project Manager Intern IS \| Summer 2027 | Baton Rouge, LA +1 | \$20/hour | Oct 13 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167272) |
+| [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Project Manager Intern IS \| Summer 2027 | Baton Rouge, LA +1 |  | Oct 13 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167272) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Global Supply Chain, Procurement Intern (Summer 2027) | USA - Texas - Austin |  | Oct 13 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Supply-Chain--Procurement-Intern--Summer-2027-_JR-2604481) |
 | [Mary Free Bed Rehabilitation Hospital](https://internscout.org/internships/at/mary-free-bed-rehabilitation-hospital/) | Process Improvement Intern - Summer 2027 | Grand Rapids, MI | \$18/hour | Oct 13 | [Apply](https://maryfreebed.wd12.myworkdayjobs.com/mfb/job/Grand-Rapids-MI/Process-Improvement-Intern---Summer-2027_JB103361) |
 | Plastipak | Manufacturing Operations (Engineering) Intern – Summer 2027 | Plastipak - Havre de Grace, MD |  | Oct 12 | [Apply](https://plastipak.wd1.myworkdayjobs.com/Plastipak/job/Plastipak---Havre-de-Grace-MD/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24670) |
@@ -195,7 +195,6 @@
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Facilities Intern | Sparks, Nevada |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51643) |
 | Happyrobot | Product Operations Engineer Intern | San Francisco, CA |  | Oct 7 | [Apply](https://go.vansh.nyc/FZ) |
 | [Arc](https://internscout.org/internships/at/arc/) | People Operations Intern | Torrance, CA | \$32 per hour | Oct 7 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5447151008) |
-| [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | Quality Intern - Summer 2027 | Horse Cave, Kentucky | \$22.00/hour | Oct 6 | [Apply](https://careers.marzetticompany.com/jobs/8110) |
 | [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | Procurement COE Intern - Summer 2027 | Columbus, Ohio |  | Oct 6 | [Apply](https://careers.marzetticompany.com/jobs/8155) |
 | [CAE](https://internscout.org/internships/at/cae/) | Full Stack Developer Intern, Training Center Operations Experience | Montreal, Canada |  | Oct 6 | [Apply](https://go.vansh.nyc/F1) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | People Operations Intern (Summer 2027) | Mountain View, CA | \$40/hour | Oct 2 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5255938007) |
@@ -204,6 +203,7 @@
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Government Operations Intern Summer 2027 | Washington, DC | \$22.00 | Oct 2 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7992754003) |
 | [Scout Clean Energy](https://internscout.org/internships/at/scout-clean-energy/) | Operations Engineering Intern - Summer 2027 | Boulder, Colorado +1 | \$25-30/hour | Oct 2 | [Apply](https://apply.workable.com/j/7BF0CEDF9F/apply) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Mission Operations Internship - Summer 2027 | El Segundo, California, United States +1 | \$37.00 | Oct 1 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010682003) |
+| [Garmin](https://internscout.org/internships/at/garmin/) | Project Manager Intern - Global Partnerships & Engineering Business Development | Olathe, Kansas |  | Oct 1 | [Apply](https://careers.garmin.com/jobs/20134) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

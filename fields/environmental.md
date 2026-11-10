@@ -1,9 +1,10 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-206 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 206). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 442 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+207 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 207). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 443 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Stantec](https://internscout.org/internships/at/stantec/) | Civil/Environmental Engineering Co-op/Intern – Water (Summer 2027) | Fairfax, VA +1 |  | Nov 10 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008828) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | New Providence, New Jersey | \$20.00 | Nov 10 | [Apply](https://careers.trccompanies.com/jobs/28467) |
 | [Royal Caribbean Group](https://internscout.org/internships/at/royal-caribbean-group/) | Intern, Maritime Safety + Environmental Compliance (Summer 2027) | Miami, FL |  | Nov 10 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miami-Intern%2C-Maritime-Safety-%2B-Environmental-Compliance-%28Summer-2027%29-FL-33132/1449347100/) |
 | [Nucor](https://internscout.org/internships/at/nucor/) | Safety and Health Intern (Summer 2027) | Salt Lake City, UT | \$27.00/Hour | Nov 10 | [Apply](https://jobs.nucor.com/job/Salt-Lake-City-Safety-and-Health-Intern-%28Summer-2027%29-UT-84104/1449345000/) |
@@ -203,7 +204,6 @@
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-op - HES&S Safety and Industrial Hygiene (Summer 2027) | Findlay, Ohio +21 | \$24.09 per hour | Sep 18 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Safety-and-Industrial-Hygiene--Summer-2027-_00024175) |
 | [Barr](https://internscout.org/internships/at/barr/) | Internship – Environmental Geology Focus (Hybrid) | Grand Rapids, MI | \$22.66–\$28.90 hour | Sep 18 | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Grand-Rapids-MI/Internship---Environmental-Geology-Focus--Hybrid-_R-102298) |
 | [Hitachi](https://internscout.org/internships/at/hitachi/) | 2027 Summer Health Safety Environmental Internship-Jefferson City | Jefferson City, Missouri, United States of America |  | Sep 18 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Jefferson-City-Missouri-United-States-of-America/XMLNAME-2027-Summer-Health-Safety-Environmental-Internship-Jefferson-City_R0143630) |
-| [Cleveland-Cliffs](https://internscout.org/internships/at/cleveland-cliffs/) | Health & Safety Intern | Indiana Harbor |  | Sep 18 | [Apply](https://aksteel.wd1.myworkdayjobs.com/careers/job/Indiana-Harbor/Health---Safety-Intern_R13490) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

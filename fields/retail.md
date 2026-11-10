@@ -1,9 +1,10 @@
 # Retail: Summer 2027 Internships
 
-219 open Summer 2027 retail roles, newest first (the 200 newest of 219). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 282 retail internships on InternScout](https://internscout.org/internships/retail/)
+219 open Summer 2027 retail roles, newest first (the 200 newest of 219). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 281 retail internships on InternScout](https://internscout.org/internships/retail/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - U.S. Retail Marketing | Boston, Massachusetts |  | Nov 10 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Boston-Massachusetts/Summer-Intern-2027---US-Retail-Marketing_JR26081277) |
 | [Meijer](https://internscout.org/internships/at/meijer/) | Retail Management Intern Milwaukee- Summer 2027 | Greenfield, WI |  | Nov 9 | [Apply](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Greenfield-WI/Retail-Management-Intern-Milwaukee--Summer-2027_R000717127) |
 | [Meijer](https://internscout.org/internships/at/meijer/) | Retail Management Intern Central IL- Summer 2027 | Champaign, IL | \$20.50 - \$30.05 | Nov 9 | [Apply](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Champaign-IL/Retail-Management-Intern-Central-IL--Summer-2027_R000717129) |
 | [Meijer](https://internscout.org/internships/at/meijer/) | Retail Management Intern NW Chicago- Summer 2027 | St. Charles, IL | \$20.50 - \$30.05 | Nov 9 | [Apply](https://meijer.wd5.myworkdayjobs.com/Meijer/job/St-Charles-IL/Retail-Management-Intern-NW-Chicago--Summer-2027_R000717131) |
@@ -26,7 +27,6 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern, Global E-Commerce Search | Seattle, WA |  | Nov 1 | [Apply](https://go.vansh.nyc/18r) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern, Recommendation Global E-Commerce | Seattle, WA |  | Nov 1 | [Apply](https://go.vansh.nyc/18l) |
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | Marketing Intern, Mass Retail - The Toro Company | Bloomington, MN | \$20–\$24 | Oct 30 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Marketing-Intern--Mass-Retail---The-Toro-Company_JR17701) |
-| [Philips](https://internscout.org/internships/at/philips/) | Intern- eCommerce (Health Systems Marketing) — Cambridge, MA — Summer 2027 | Cambridge (US), Massachusetts, United States | \$26 – 30 | Oct 30 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern--eCommerce--Health-Systems-Marketing----Cambridge--MA---Summer-2027_593452) |
 | [Meijer](https://internscout.org/internships/at/meijer/) | Store Experience Intern- Summer 2027 | Grand Rapids, MI |  | Oct 30 | [Apply](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Store-Experience-Intern--Summer-2027_R000714485) |
 | [Walmart](https://internscout.org/internships/at/walmart/) | (USA) 2027 Summer Corporate Intern: Portfolio and Development Intern | (USA) Always AR Bentonville Home Office | \$21.00 - \$40.00 | Oct 29 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/XMLNAME--USA--2027-Summer-Corporate-Intern---Portfolio-and-Development-Intern_R-2690819) |
 | [Walmart](https://internscout.org/internships/at/walmart/) | R-2690831 Summer 2027 Corporate Intern: Portfolio and Development Intern | (USA) Always AR Bentonville Home Office | \$21.00 - \$40.00 | Oct 29 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/R-2690831-Summer-2027-Corporate-Intern---Portfolio-and-Development-Intern_R-2690831) |
@@ -203,7 +203,7 @@
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Retail Store Management Internship Summer 2027 - Pensacola, FL (Metro) | FL - Gulf Breeze +3 | \$ 20- \$22 per hour | Sep 19 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---Gulf-Breeze/Retail-Store-Management-Internship-Summer-2027---Pensacola--FL--Metro-_R1038226) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Retail Store Management Internship Summer 2027 - Columbia, SC | SC - Columbia |  | Sep 18 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/SC---Columbia/Retail-Store-Management-Internship-Summer-2027---Columbia--SC_R1038251) |
 | BJ's Wholesale Club | Summer Intern - Club Operations (Retail) | BJ's Club Support Center Marlborough, MA #5997 | \$20.00/hr | Sep 18 | [Apply](https://bjswholesaleclub.wd1.myworkdayjobs.com/BJsCareers/job/BJs-Club-Support-Center-Marlborough-MA-5997/Summer-Intern---Club-Operations--Retail-_R253252) |
-| [General Mills](https://internscout.org/internships/at/general-mills/) | Internship - Research & Development Food Scientist | Minneapolis, MN | \$31.73/hour | Sep 18 | [Apply](https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Internship---Research---Development-Food-Scientist_10128712) |
+| General Mills | Internship - Research & Development Food Scientist | Minneapolis, MN | \$31.73/hour | Sep 18 | [Apply](https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Internship---Research---Development-Food-Scientist_10128712) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

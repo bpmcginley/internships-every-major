@@ -1,6 +1,6 @@
 # Sales: Summer 2027 Internships
 
-295 open Summer 2027 sales roles, newest first (the 200 newest of 295). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 543 sales internships on InternScout](https://internscout.org/internships/sales/)
+297 open Summer 2027 sales roles, newest first (the 200 newest of 297). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 546 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -127,6 +127,8 @@
 | K1 | Intern, Business Development (Summer 2027) | Manhattan Beach, CA | \$30/hour | Sep 28 | [Apply](https://k1im.applytojob.com/apply/F0mWtqiiQC/Intern-Business-Development-Summer-2027) |
 | Protective Life | 2027 Sales Summer Internship Program | Birmingham, AL |  | Sep 21 | [Apply](https://jobs.lever.co/protective/ece5130e-cf55-42b5-b928-cd4372b4488f/apply) |
 | [Lunar Outpost](https://internscout.org/internships/at/lunar-outpost/) | Business Development Engineering Intern - Summer 2027 | Golden, Colorado |  | Sep 21 | [Apply](https://lunaroutpost.bamboohr.com/careers/397) |
+| Klaviyo | Sales Intern (Summer 2027) | Boston | Paid | Sep 18 | [Apply](https://jobs.ashbyhq.com/f40d14d9-07f4-403d-802b-37453deccf0a/201c652b-db63-406c-982e-6f9bce3646cc/application) |
+| Klaviyo | Sales Intern (Summer 2027) | Boston, MA | \$21.50 | Sep 18 | [Apply](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989958003) |
 | [Oracle](https://internscout.org/internships/at/oracle/) | Sales Development Rep Intern - Denver, CO- Summer 2027 | Denver, CO |  | Sep 18 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345689) |
 | [Oracle](https://internscout.org/internships/at/oracle/) | Sales Development Rep Intern - Nashville, TN- Summer 2027 | Nashville, TN |  | Sep 18 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345687) |
 | [Oracle](https://internscout.org/internships/at/oracle/) | Sales Development Rep Intern - Burlington, MA- Summer 2027 | Burlington, MA |  | Sep 18 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345688) |
@@ -202,8 +204,6 @@
 | Evo | Evo Summer Sales Internship | Richmond, VA | \$3,000.00 - \$5,000.00 per month | Nov 10 | [Apply](https://www.indeed.com/viewjob?jk=802ab6e313e77c2b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Sales Administration - Marketing | Denton, TX |  | Nov 3 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Sales-Administration-Marketing-TX-76205-7864/1453616333/) |
 | [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Sales and Use Tax | The Woodlands TX |  | Nov 3 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/The-Woodlands/Summer-2027-Intern--Sales-and-Use-Tax_R0020800-1) |
-| [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Sales Administration Data Analyst - Greenhouse Gas | Denton, TX |  | Nov 2 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Sales-Administration-Data-Analyst-Greenhouse-Gas-TX-76205-7864/1453564433/) |
-| [Holmes Murphy](https://internscout.org/internships/at/holmes-murphy/) | Sales Intern - Summer 2027 | Dallas |  | Oct 27 | [Apply](https://holmesmurphy.wd1.myworkdayjobs.com/HolmesMurphyCareers/job/Dallas/Sales-Intern---Summer-2027_R0000960) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

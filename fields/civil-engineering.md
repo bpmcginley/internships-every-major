@@ -1,6 +1,6 @@
 # Civil Engineering: Summer 2027 Internships
 
-337 open Summer 2027 civil engineering roles, newest first (the 200 newest of 337). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 654 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+336 open Summer 2027 civil engineering roles, newest first (the 200 newest of 336). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 653 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -46,7 +46,6 @@
 | [Walmart](https://internscout.org/internships/at/walmart/) | (USA) 2027 Summer Corporate Intern: Construction Project Management Intern | (USA) Always AR Bentonville Home Office | \$21.00 - \$40.00 | Oct 29 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/XMLNAME--USA--2027-Summer-Corporate-Intern---Construction-Project-Management-Intern_R-2690400) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Water (Summer 2027) | Coral Gables, FL |  | Oct 29 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008539) |
 | [STV](https://internscout.org/internships/at/stv/) | Civil Engineering Intern - Summer 2027 | Waco, Texas | \$41,107.00 - \$46,713.00 | Oct 29 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Waco-Texas/Civil-Engineering-Intern---Summer-2027_JR6431) |
-| [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Structural Engineering Intern - Summer 2027 (For SNC Summer 2026 Interns Only) | Lone Tree, CO | \$23.54 - \$32.37 | Oct 29 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Structural-Engineering-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031291) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Structural Engineering Intern (Bridge Design, Summer 2027!) | Latham, New York | \$43.93 | Oct 29 | [Apply](https://careers.cdmsmith.com/jobs/4888) |
 | [STV](https://internscout.org/internships/at/stv/) | Civil Engineering Intern - Summer 2027 | Newark, New Jersey | \$52,526.00 - \$59,689.00 | Oct 29 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Newark-New-Jersey/Civil-Engineering-Intern---Summer-2027_JR6284) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering Intern- Summer 2027 | Lawrenceville, NJ +3 |  | Oct 28 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98469) |
@@ -204,6 +203,7 @@
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Civil Engineering | Los Angeles, CA | \$30–\$40 per hour | Sep 2 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377122008) |
 | [Haskell](https://internscout.org/internships/at/haskell/) | Summer 2027 Construction Intern | Jacksonville, Florida |  | Sep 2 | [Apply](https://haskell.jibeapply.com/jobs/7053) |
 | [Ruekert & Mielke](https://internscout.org/internships/at/ruekert-mielke/) | Survey Student Intern (Summer 2027) | Waukesha, Wisconsin |  | Sep 2 | [Apply](https://ruekertmielke.bamboohr.com/careers/311) |
+| [Olsson](https://internscout.org/internships/at/olsson/) | Commissioning Student Internship | Kansas City, MO +1 |  | Sep 1 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5408599008) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

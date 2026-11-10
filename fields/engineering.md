@@ -1,12 +1,13 @@
 # Engineering: Summer 2027 Internships
 
-692 open Summer 2027 engineering roles, newest first (the 200 newest of 692). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 1,722 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+692 open Summer 2027 engineering roles, newest first (the 200 newest of 692). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 1,723 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Hewlett Packard (HP)](https://internscout.org/internships/at/hewlett-packard-hp/) | Performance Engineering Co-op | Fort Collins, CO |  | Nov 10 | [Apply](https://go.vansh.nyc/1rR) |
 | Renesas Electronics | Applications Engineering Intern | San Jose, CA |  | Nov 10 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000160890129) |
 | [National Information Solutions Cooperative (NISC)](https://internscout.org/internships/at/national-information-solutions-cooperative-nisc/) | Intern - Test Automation | Lake Saint Louis, MO |  | Nov 10 | [Apply](https://job-boards.greenhouse.io/nisc/jobs/8372340) |
+| Air Liquide | 2027 Summer Intern - Non Engineering | Houston, TX (HO) - NAM Corporate | \$23.00 - \$33.00 per hour | Nov 10 | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Houston-TX-HO---NAM-Corporate/XMLNAME-2027Summer-Intern---Non-Engineering_R10099605) |
 | [Walmart](https://internscout.org/internships/at/walmart/) | Summer 2027 Intern: Automation Engineer | (USA) Change Building AR Bentonville Home Office | \$21.00 - \$40.00 | Nov 10 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Change-Building-AR-Bentonville-Home-Office/Summer-2027-Intern--Automation-Engineer_R-2630033) |
 | [Granite Construction](https://internscout.org/internships/at/granite-construction/) | Engineer Intern - Summer 2027 | The Dalles, Oregon | \$24.00 | Nov 10 | [Apply](https://granite.wd1.myworkdayjobs.com/careers/job/The-Dalles-Oregon/Engineer-Intern---Summer-2027_R0000008459) |
 | [Entegris](https://internscout.org/internships/at/entegris/) | Quality Engineering Intern | Franklin, MA | \$20-\$30/hour | Nov 10 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Franklin-MA/Quality-Engineering-Intern_REQ-15850) |
@@ -203,7 +204,6 @@
 | [Ricoh](https://internscout.org/internships/at/ricoh/) | SW Engineer Intern | Boulder, CO |  | Oct 22 | [Apply](https://go.vansh.nyc/Vm) |
 | [Aptiv](https://internscout.org/internships/at/aptiv/) | HVP/Certification Engineer Intern | Kanata, Canada |  | Oct 22 | [Apply](https://go.vansh.nyc/f8) |
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | 2027 Summer Engineering Intern | US - EARTH CITY (MOEAR) |  | Oct 22 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---EARTH-CITY-MOEAR/XMLNAME-2027-Summer-Engineering-Intern_R26039265) |
-| [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | 2027 Summer Engineering Intern | US - CHICAGO AREA CONSOLIDATION HUB (ILHOD) | \$16.00 - \$33.44 per hour | Oct 22 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---CHICAGO-AREA-CONSOLIDATION-HUB-ILHOD/XMLNAME-2027-Summer-Engineering-Intern_R26039037) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

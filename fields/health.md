@@ -1,6 +1,6 @@
 # Health: Summer 2027 Internships
 
-62 open Summer 2027 health roles, newest first (all 62). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 302 health internships on InternScout](https://internscout.org/internships/health/)
+61 open Summer 2027 health roles, newest first (all 61). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 302 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -33,7 +33,6 @@
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Quality Analytics Internship (Michigan Health Plan) – Summer 2027 (Undergraduate) | MI +1 |  | Oct 30 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040141) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Quality Analytics Internship (Kentucky Health Plan) – Summer 2027 (Undergraduate) | KY |  | Oct 30 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040139) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Nonclinical Discovery & Development Sciences (NDDS)-2027 Summer Intern | Princeton - NJ - US +4 | \$24-\$30/hour | Oct 30 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Nonclinical-Discovery---Development-Sciences--NDDS--2027-Summer-Intern_R1607996) |
-| [Philips](https://internscout.org/internships/at/philips/) | Intern- eCommerce (Health Systems Marketing) — Cambridge, MA — Summer 2027 | Cambridge (US), Massachusetts, United States | \$26 – 30 | Oct 30 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern--eCommerce--Health-Systems-Marketing----Cambridge--MA---Summer-2027_593452) |
 | [Netsmart](https://internscout.org/internships/at/netsmart/) | Revenue Cycle Management (RCM) Operations Analyst Intern(Summer 2027 Internship) | Overland Park, KS | Paid | Oct 30 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Revenue-Cycle-Management--RCM--Operations-Analyst-Intern-Summer-2027-Internship-_R015757) |
 | [Geisinger](https://internscout.org/internships/at/geisinger/) | Nursing Student Summer Externship - RN Reproductive Endocrinology | Danville, PA | Paid | Oct 29 | [Apply](https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Danville-PA/Nursing-Student-Summer-Externship---RN-Reproductive-Endocrinology_R-12021) |
 | [Universal Health Services](https://internscout.org/internships/at/universal-health-services/) | Hospital Administration Internship - Summer 2027 | SCOTTSDALE, Arizona | Paid | Oct 29 | [Apply](https://jobs.uhsinc.com/jobs/379616) |

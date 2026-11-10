@@ -1,6 +1,6 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-645 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 645). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 1,141 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+646 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 646). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 1,144 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Data Analyst enGen Undergraduate Intern | Pittsburgh PA, 15222, PAP, Penn Avenue Place +1 |  | Nov 10 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826) |
 | Kyndryl | Marketing Internship, Marketing Analytics | New York, NY, USA +1 | \$30/hour | Nov 10 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analysis_R-70007-1) |
 | [Cerity Partners](https://internscout.org/internships/at/cerity-partners/) | Investment Data & Technology Analyst Internship | New York City, NY +1 |  | Nov 10 | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Investment-Data---Technology-Analyst-Internship_R929) |
+| [Centene](https://internscout.org/internships/at/centene/) | Analytics Summer 2027 Intern (Graduate) | Remote-FL +1 | \$21.00 - \$30.00 per hour | Nov 10 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479) |
 | [Medpace](https://internscout.org/internships/at/medpace/) | Clinical Informatics Internship/Co-op - Summer 2027 | Cincinnati, Ohio +1 |  | Nov 10 | [Apply](https://careers.medpace.com/jobs/12988) |
 | [The Hartford](https://internscout.org/internships/at/the-hartford/) | Data Science Intern - Summer 2027 | Hartford, CT +2 | Paid | Nov 10 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114) |
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Telematics / Predictive Analytics Intern | Cincinnati, OH |  | Nov 9 | [Apply](https://go.vansh.nyc/1pj) |
@@ -203,7 +204,6 @@
 | Sephora | AI & Distribution Analytics Intern | United States |  | Oct 28 | [Apply](https://go.vansh.nyc/11Q) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Summer 2027 Data/Finance Analyst Intern- Bachelor's (Santa Clara, CA) | Santa Clara,CA | Paid | Oct 28 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Finance-Analyst-Intern--Bachelor-s--Santa-Clara--CA-_R2626652) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | University - 2027 Summer Games Data Scientist Intern - Ft. Walton Beach, FL | Fort Walton Beach, FL |  | Oct 28 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach--FL_R0248409) |
-| [Leidos](https://internscout.org/internships/at/leidos/) | Data Engineer Intern | Fort Belvoir, VA |  | Oct 28 | [Apply](https://go.vansh.nyc/Y4) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

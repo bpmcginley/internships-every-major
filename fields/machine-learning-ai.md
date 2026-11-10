@@ -1,13 +1,12 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-580 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 580). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 1,217 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+579 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 579). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 1,217 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [SRC, Inc](https://internscout.org/internships/at/src-inc/) | Machine Learning Engineer Intern | United States |  | Nov 10 | [Apply](https://go.vansh.nyc/1rU) |
 | [Toyota Research Institute](https://internscout.org/internships/at/toyota-research-institute/) | Human-Centered AI Research Intern, Causal Reasoning Models (Summer 2027) | Los Altos, CA |  | Nov 10 | [Apply](https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37/apply) |
 | SigIQ.ai | Machine Learning Intern/Resident | Berkeley, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1rw) |
-| Mason | AI Engineer Intern | New York, NY |  | Nov 10 | [Apply](https://go.vansh.nyc/1rz) |
 | Addepar | AI Engineering Intern | New York, NY |  | Nov 10 | [Apply](https://go.vansh.nyc/1rX) |
 | Johns Hopkins APL | AI & Data Science Intern, Analytic Capabilities | Laurel, MD |  | Nov 10 | [Apply](https://go.vansh.nyc/1pW) |
 | Kiewit | Machine Learning Intern, Kiewit Data Services | Omaha, NE |  | Nov 10 | [Apply](https://go.vansh.nyc/1pX) |
@@ -204,6 +203,7 @@
 | Verition Group | AI Associate Intern, Equity Long/Short | New York, NY +4 |  | Oct 28 | [Apply](https://go.vansh.nyc/11S) |
 | Sephora | AI & Distribution Analytics Intern | United States |  | Oct 28 | [Apply](https://go.vansh.nyc/11Q) |
 | [RosaicLabs](https://internscout.org/internships/at/rosaiclabs/) | AI Accelerator Design Verification Engineer Intern | Austin, TX +1 |  | Oct 28 | [Apply](https://go.vansh.nyc/Xp) |
+| [T-Mobile](https://internscout.org/internships/at/t-mobile/) | Associate AI Engineer Intern | Frisco, TX +1 |  | Oct 28 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

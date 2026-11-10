@@ -1,6 +1,6 @@
 # Finance: Summer 2027 Internships
 
-525 open Summer 2027 finance roles, newest first (the 200 newest of 525). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 841 finance internships on InternScout](https://internscout.org/internships/finance/)
+525 open Summer 2027 finance roles, newest first (the 200 newest of 525). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 839 finance internships on InternScout](https://internscout.org/internships/finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -113,8 +113,9 @@
 | Neuberger Berman | Private Markets MBA Intern Summer 2027 | New York, NY | \$185,000-\$185,000 | Oct 30 | [Apply](https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/Private-Markets-MBA-Intern_R0012787) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Property & Casualty Claims - Claim Specialist - Proximity, CO | Denver, Colorado | \$24.00/hour | Oct 30 | [Apply](https://jobs.statefarm.com/jobs/46775) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Property & Casualty Claims - Claim Specialist - Proximity, MN | Minneapolis, Minnesota | \$24.00/hour | Oct 30 | [Apply](https://jobs.statefarm.com/jobs/46777) |
-| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Transfer Pricing | Washington | \$23.70 - \$27.50 | Oct 30 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Washington/Summer-2027-Intern--Transfer-Pricing_R0020725) |
+| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Transfer Pricing | Washington DC |  | Oct 30 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Washington/Summer-2027-Intern--Transfer-Pricing_R0020725) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - BMTA Investment Research & Strategies | Berwyn, PA | \$18.00 - \$21.00 Per Hour | Oct 30 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Berwyn-PA/XMLNAME-2027-Summer-Internship---BMTA-Investment-Research---Strategies_R-104128-3) |
+| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Transfer Pricing | Washington | \$23.70 - \$27.50 | Oct 30 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Washington/Summer-2027-Intern--Transfer-Pricing_R0020725-1) |
 | [CareSource](https://internscout.org/internships/at/caresource/) | 2027 Summer Internship Program - Market Finance Cost Reporting | Remote | \$41,200.00 - \$66,000.00 | Oct 29 | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Market-Finance-Cost-Reporting_R14107) |
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Program Financial Analyst Intern (Summer 2027) | Lone Tree, CO | \$23.54 - \$32.37 | Oct 29 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Program-Financial-Analyst-Intern--Summer-2027-_R0031190) |
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Program Finance Systems Analyst Intern (Summer 2027) | Lone Tree, CO | \$23.54 - \$32.37 | Oct 29 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Program-Finance-Systems-Analyst-Intern--Summer-2027-_R0031193) |
@@ -203,7 +204,6 @@
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Consumer Banking Finance | Wilmington, DE | \$18.00 - \$21.00 Per Hour | Oct 21 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-internship---Finance_R-104109-2) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Trust & Wealth Finance | Wilmington, DE | \$18.00 - \$21.00 Per Hour | Oct 21 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Trust---Wealth-Finance_R-104122-2) |
 | [The Hartford](https://internscout.org/internships/at/the-hartford/) | 2027 Summer Intern - Rotational (IT, Operations, Risk, and Fund Treasury) | Wayne, PA | \$20.00 - \$25.00 | Oct 20 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Wayne-PA/XMLNAME-2027-Summer-Intern---Rotational--IT--Operations--Risk--and-Fund-Treasury-_R2627500) |
-| [The Hartford](https://internscout.org/internships/at/the-hartford/) | 2027 Summer Intern - Investment Consulting Group | Wayne, PA | \$20.00 - \$25.00 | Oct 20 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Wayne-PA/XMLNAME-2027-Summer-Intern---Investment-Consulting-Group_R2627498) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

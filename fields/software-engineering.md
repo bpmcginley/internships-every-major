@@ -1,10 +1,11 @@
 # Software Engineering: Summer 2027 Internships
 
-1,871 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,871). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 3,465 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,868 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,868). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 3,459 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Trimble](https://internscout.org/internships/at/trimble/) | Software Engineering Intern | Knoxville, TN |  | Nov 10 | [Apply](https://go.vansh.nyc/1rP) |
+| [Shield AI](https://internscout.org/internships/at/shield-ai/) | Summer 2027 - Software Engineer Intern | San Diego, California |  | Nov 10 | [Apply](https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application) |
 | Aurora Innovation | Safety & Systems Engineering Intern | Mountain View, CA +3 | \$58.00 per hour | Nov 10 | [Apply](https://jobs.ashbyhq.com/aurora-operations-inc/058e3b3a-dd13-4736-84a8-b19d5de2c9f5/application) |
 | Echo | Software Engineering Intern | Chicago, IL +2 |  | Nov 10 | [Apply](https://go.vansh.nyc/1rF) |
 | Rivet | Full-Stack Engineering Intern | United States |  | Nov 10 | [Apply](https://go.vansh.nyc/1ru) |
@@ -99,7 +100,6 @@
 | Group 1 Automotive | IT Intern | Houston, TX |  | Nov 7 | [Apply](https://go.vansh.nyc/1ms) |
 | Enovation Controls | Manufacturing Software Engineer Intern | Tulsa, OK |  | Nov 6 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648416) |
 | [PETRONAS Canada](https://internscout.org/internships/at/petronas-canada/) | Student Intern, Infrastructure Automation and Innovation | Calgary, Canada |  | Nov 6 | [Apply](https://go.vansh.nyc/1lK) |
-| [Shield AI](https://internscout.org/internships/at/shield-ai/) | Summer 2027 - Software Engineer Intern | San Diego, California |  | Nov 6 | [Apply](https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application) |
 | [Baird](https://internscout.org/internships/at/baird/) | IT Data & Analytics Intern | Milwaukee, WI +1 |  | Nov 6 | [Apply](https://go.vansh.nyc/1lb) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Digital Technology Intern | Andover, MA |  | Nov 6 | [Apply](https://go.vansh.nyc/1l2) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Software Validation Engineering Intern | Markham, Canada |  | Nov 6 | [Apply](https://go.vansh.nyc/1kR) |
