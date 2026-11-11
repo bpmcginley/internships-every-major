@@ -1,6 +1,6 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-329 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 329). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 866 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+332 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 332). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 869 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Mechanical Engineering Internship | Melbourne, FL |  | Nov 9 | [Apply](https://jobs.lever.co/CesiumAstro/cfcdb403-c51a-430d-a1e2-4378178714d5/apply) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Mechanical Intern - Buildings (Summer 2027) - 12 Month Term | Calgary, AB, Canada |  | Nov 9 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008815) |
 | [ASML](https://internscout.org/internships/at/asml/) | Internship - Mechanical Design Engineer | Wilton, CT, USA | \$17.00 - \$53.00 | Nov 7 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Design-Engineer_J-00356215) |
-| [RTX](https://internscout.org/internships/at/rtx/) | Mechanical Engineering Co-op (Summer/Fall 2027) | Cedar Rapids, IA | Paid | Nov 7 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Mechanical-Engineering-Co-op--Summer-Fall-2027-_01887850) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Mechanical Engineering Co-op (Summer/Fall 2027) | Cedar Rapids, IA |  | Nov 7 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Mechanical-Engineering-Co-op--Summer-Fall-2027-_01887850) |
 | [Westinghouse Electric Company](https://internscout.org/internships/at/westinghouse-electric-company/) | Summer Intern - LEU+ Mechanical Engineering | Hopkins, SC | \$25.40 to \$29.00 per hour | Nov 7 | [Apply](https://careers.westinghousenuclear.com/job/Hopkins-Summer-Intern-LEU%2B-Mechanical-Engineering-SC-29061/1438637100/) |
 | [Baker Hughes](https://internscout.org/internships/at/baker-hughes/) | Manufacturing Intern - Summer 2027 Opportunities | Claremore-2210 E L Anderson Blvd, OK |  | Nov 7 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-OK-CLAREMORE-2210-E-L-ANDERSON-BLVD/Intern---Manufacturing---Summer-2027-Opportunities_R168909) |
 | Enovation Controls | Manufacturing Engineering Test Intern | Tulsa, OK |  | Nov 6 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648371) |
@@ -147,6 +147,9 @@
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Structural & Mechanical Systems Engineering Internship - Graduate | Van Horn, TX +4 | \$38.00 | Oct 14 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Structural---Mechanical-Systems-Engineering-Internship---Graduate_R71445) |
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Manufacturing Engineering Internship - Undergraduate | Space Coast, FL +2 | \$32.00 | Oct 14 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Summer-2027-Manufacturing-Engineering-Internship---Undergraduate_R71428) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern- Mechanical Engineering | Pascagoula, Mississippi |  | Oct 14 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-MECHANICAL-ENGINEERING-Miss/1430054800/) |
+| [Wing](https://internscout.org/internships/at/wing/) | Manufacturing Software Test Intern, Summer 2027 | Palo Alto, California +1 | \$112,000 | Oct 13 | [Apply](https://wing.com/careers/8872468002?gh_jid=8872468002) |
+| [Wing](https://internscout.org/internships/at/wing/) | Mechanical Engineering Intern, Summer 2027 | Palo Alto, California | \$120,000 | Oct 13 | [Apply](https://wing.com/careers/8872579002?gh_jid=8872579002) |
+| [Wing](https://internscout.org/internships/at/wing/) | Manufacturing Engineering Intern, Summer 2027 | Palo Alto, California | \$112,000 | Oct 13 | [Apply](https://wing.com/careers/8872469002?gh_jid=8872469002) |
 | [Allison Transmission](https://internscout.org/internships/at/allison-transmission/) | Internship - Manufacturing Engineer | Indianapolis, IN |  | Oct 13 | [Apply](https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Internship---Manufacturing-Engineer_R008319) |
 | Plastipak | Manufacturing Operations (Engineering) Intern – Summer 2027 | Plastipak - Havre de Grace, MD |  | Oct 13 | [Apply](https://plastipak.wd1.myworkdayjobs.com/Plastipak/job/Plastipak---Havre-de-Grace-MD/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24670) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Manufacturing Digital Data Intern - Summer 2027 - Smyrna, TN | Smyrna, Tennessee - United States of America |  | Oct 13 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Smyrna--TN_R00214880) |
@@ -201,9 +204,6 @@
 | [Antares Nuclear](https://internscout.org/internships/at/antares-nuclear/) | Mechanical Engineering Design Intern - Summer 2027 | Los Angeles +1 |  | Sep 10 | [Apply](https://jobs.ashbyhq.com/Antares/9accca59-103b-4f54-978a-d5bb46bd9c62/application) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | San Leandro, California | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36099) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | DOWNEY, California | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36094) |
-| [Garmin](https://internscout.org/internships/at/garmin/) | Mechanical Engineering Intern | Cary, North Carolina |  | Sep 10 | [Apply](https://careers.garmin.com/jobs/19911) |
-| [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | Eagan, Minnesota | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36106) |
-| [Saronic](https://internscout.org/internships/at/saronic/) | Mechanical Engineer Intern (Summer 2027) | Austin, TX +1 |  | Sep 9 | [Apply](https://jobs.ashbyhq.com/saronic/f52ae6eb-7eba-4c64-97c7-57e2a234e088/application) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

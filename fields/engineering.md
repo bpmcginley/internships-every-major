@@ -1,6 +1,6 @@
 # Engineering: Summer 2027 Internships
 
-683 open Summer 2027 engineering roles, newest first (the 200 newest of 683). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,719 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+689 open Summer 2027 engineering roles, newest first (the 200 newest of 689). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,724 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Ensign-Bickford Industries](https://internscout.org/internships/at/ensign-bickford-industries/) | Development Engineer Intern | Simsbury, CT | \$21 - \$28 per hour | Nov 7 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Development-Engineer-Intern_REQ107694-1) |
 | [Ensign-Bickford Aerospace & Defense Company](https://internscout.org/internships/at/ensign-bickford-aerospace-defense-company/) | Development Engineer Intern | Simsbury, CT | \$21 - \$28 per hour | Nov 7 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Development-Engineer-Intern_REQ107694) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Digital Design Engineer Intern - Interim Engineering Intern - Systems | Toronto, ON, Canada +1 |  | Nov 6 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722005254) |
+| Machina Cognita Technologies | Engineering Intern | Lafayette, IN |  | Nov 6 | [Apply](https://go.vansh.nyc/1tg) |
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Release Engineering Intern | Jacksonville, FL |  | Nov 6 | [Apply](https://go.vansh.nyc/1lD) |
 | Spectrum Control | Engineering Co-op | Philadelphia, PA |  | Nov 6 | [Apply](https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Philadelphia-PA/Engineering-Co-Op_JR101547) |
 | [Eversource Energy](https://internscout.org/internships/at/eversource-energy/) | 2027 Summer Distribution Engineering Intern (Tilton, NH-Hybrid Schedule) | Tilton, NH |  | Nov 6 | [Apply](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Tilton-NH/XMLNAME-2027-Summer-Distribution-Engineering-Intern--Tilton--NH-Hybrid-Schedule-_R-032407) |
@@ -203,7 +204,6 @@
 | [L3Harris Technologies](https://internscout.org/internships/at/l3harris-technologies/) | Image Processing Engineer Intern | Tulsa, OK |  | Oct 22 | [Apply](https://go.vansh.nyc/er) |
 | [Peak Energy](https://internscout.org/internships/at/peak-energy/) | Test Engineer Intern, ESS (Summer 2027) | Burlingame, California | \$35/hour | Oct 22 | [Apply](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272578007&gh_jid=5272578007) |
 | [Peak Energy](https://internscout.org/internships/at/peak-energy/) | Systems Integration and Test Engineer Intern (Summer 2027) | Burlingame, California +1 | \$35/hr | Oct 22 | [Apply](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272567007&gh_jid=5272567007) |
-| [Aptiv](https://internscout.org/internships/at/aptiv/) | Linux Engineering Intern | Kanata, Canada |  | Oct 22 | [Apply](https://go.vansh.nyc/eM) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

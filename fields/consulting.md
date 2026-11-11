@@ -1,6 +1,6 @@
 # Consulting: Summer 2027 Internships
 
-122 open Summer 2027 consulting roles, newest first (all 122). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 242 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+123 open Summer 2027 consulting roles, newest first (all 123). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 243 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -64,13 +64,14 @@
 | [Rivian](https://internscout.org/internships/at/rivian/) | Business and Administrative Intern - Strategy Analyst, CCO Strategy and Program Management | Palo Alto, California | \$28,00-51.00 per hour | Oct 12 | [Apply](https://careers.rivian.com/jobs/34239) |
 | [DocuSign](https://internscout.org/internships/at/docusign/) | Solution Consultant Intern | Seattle, Washington | \$31/hour | Oct 12 | [Apply](https://careers.docusign.com/jobs/30524) |
 | [WTW](https://internscout.org/internships/at/wtw/) | Early Careers: Pharmacy Benefits Consulting Internship - Chicago - Summer 2027 | Chicago, IL |  | Oct 8 | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606458) |
+| [West Monroe](https://internscout.org/internships/at/west-monroe/) | Software Engineering Consultant Intern - AI Concentration | Seattle, WA |  | Oct 6 | [Apply](https://go.vansh.nyc/1ta) |
 | [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | Foodservice Pricing and Trade Strategy Intern - Summer 2027 | Columbus, Ohio |  | Oct 1 | [Apply](https://careers.marzetticompany.com/jobs/8153) |
 | [Cisco](https://internscout.org/internships/at/cisco/) | Software Consulting Engineer I Intern | Research Triangle Park, NC |  | Oct 1 | [Apply](https://go.vansh.nyc/fX) |
 | [Peraton](https://internscout.org/internships/at/peraton/) | Summer 2027 Business Analyst Intern | San Diego, California | \$25–30/hr | Sep 30 | [Apply](https://peraton.jibeapply.com/jobs/171542) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | Data Governance Engineer Intern | Warren, MI |  | Sep 28 | [Apply](https://go.vansh.nyc/Q1) |
 | Newmark Group | Newmark Management Consulting Intern | TX |  | Sep 18 | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/249950) |
 | [Garmin](https://internscout.org/internships/at/garmin/) | Business Analyst Intern | Olathe, Kansas |  | Sep 16 | [Apply](https://careers.garmin.com/jobs/20154) |
-| Elire | AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data | Remote +1 |  | Sep 15 | [Apply](https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false) |
+| Elire | AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data | Remote +3 |  | Sep 15 | [Apply](https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Client Solutions Manager Intern - GBS-LATAM | Miami, FL |  | Sep 14 | [Apply](https://lifeattiktok.com/search/7684612598114240821) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Sustainability and Climate Strategy Intern (Remote) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138731) |
 | [Dell Technologies](https://internscout.org/internships/at/dell-technologies/) | Hardware Engineering Intern - Client Solutions Group Engineering | Austin, TX |  | Sep 10 | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298216) |

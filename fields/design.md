@@ -1,6 +1,6 @@
 # Design: Summer 2027 Internships
 
-82 open Summer 2027 design roles, newest first (all 82). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 199 design internships on InternScout](https://internscout.org/internships/design/)
+83 open Summer 2027 design roles, newest first (all 83). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 200 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Figma](https://internscout.org/internships/at/figma/) | Product Design Intern (2027) | San Francisco, CA • New York, NY |  | Sep 14 | [Apply](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Graphic Design & Creative Media Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138723) |
 | [Lyft](https://internscout.org/internships/at/lyft/) | UX Research Intern (Summer 2027) | Toronto, Canada | \$48 per hour | Sep 11 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002) |
+| [Wellmark](https://internscout.org/internships/at/wellmark/) | Software Engineer Intern - User Experience Team | Des Moines, IA |  | Sep 11 | [Apply](https://go.vansh.nyc/1tn) |
 | Immuta | UX Design Internship - Summer 2027 | College Park, MD +2 | Paid | Sep 9 | [Apply](https://jobs.lever.co/immuta/682fa987-3f52-4d95-8239-8e145ce04ed3/apply) |
 | Force Factor | Summer 2027 Digital Graphic Design Intern | Boston, MA +1 |  | Sep 9 | [Apply](https://forcefactor.com/pages/job-openings?gh_jid=6165087004) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Product Design Intern | Hybrid - San Francisco, CA | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175339?gh_jid=8175339) |

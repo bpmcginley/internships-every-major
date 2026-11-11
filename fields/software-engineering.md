@@ -1,6 +1,6 @@
 # Software Engineering: Summer 2027 Internships
 
-1,864 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,864). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 3,463 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,878 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,878). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 3,479 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -14,7 +14,6 @@
 | [Northrop Grumman](https://internscout.org/internships/at/northrop-grumman/) | 2027 Systems Engineer Intern - Dulles VA or McLean VA | United States-Virginia-Dulles +1 | \$26.75 to \$32.50 per hour | Nov 11 | [Apply](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineer-Intern---Dulles-VA-or-McLean-VA_R10259857) |
 | [Motorola](https://internscout.org/internships/at/motorola/) | Software System Technologist Intern (Summer 2027 Internship) | Allen, TX (TX139) | \$20.70 - \$24.10 | Nov 11 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-System-Technologist-Intern--Summer-2027-Internship-_R70511) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Systems Engineering Intern (Summer 2027) | USA - Texas - Richardson +1 | \$20.00 - \$40.00 | Nov 11 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604045) |
-| [Echo Global Logistics](https://internscout.org/internships/at/echo-global-logistics/) | Software Engineering Intern- Chicago | Remote +1 | \$35,223.00-50,166.00 per year | Nov 11 | [Apply](https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1) |
 | [SOTI](https://internscout.org/internships/at/soti/) | Software Developer Intern (May 2027 - 12 months) | Mississauga, Canada – Meadowvale Office (HQ) +1 |  | Nov 11 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677) |
 | [Jabil](https://internscout.org/internships/at/jabil/) | AI Agent Developer Intern (Supply Chain IT - AI & Enablement) | St. Petersburg/Tampa, FL +2 |  | Nov 11 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054) |
 | [Entegris](https://internscout.org/internships/at/entegris/) | Solutions Engineering Intern | Billerica, MA | \$20-\$30/hour | Nov 11 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Solutions-Engineering-Intern_REQ-15884) |
@@ -53,6 +52,7 @@
 | [Addepar](https://internscout.org/internships/at/addepar/) | Software Engineering Intern - Summer 2027 | New York, NY +1 | Paid | Nov 10 | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8927531002) |
 | [Celestica](https://internscout.org/internships/at/celestica/) | IT Business Application Development Intern | Toronto, Canada |  | Nov 10 | [Apply](https://go.vansh.nyc/1pV) |
 | Lockheed Martin | Software Development Intern | Bethesda, MD +1 |  | Nov 10 | [Apply](https://go.vansh.nyc/1pZ) |
+| [Echo Global Logistics](https://internscout.org/internships/at/echo-global-logistics/) | Software Engineer Intern | United States |  | Nov 10 | [Apply](https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1) |
 | [International](https://internscout.org/internships/at/international/) | Digital IT Intern | Lisle, Illinois | \$27–\$32 per hour | Nov 10 | [Apply](https://careers.international.com/jobs/60457) |
 | [International](https://internscout.org/internships/at/international/) | IT Security Intern | Lisle, Illinois | \$27–\$32 per hour | Nov 10 | [Apply](https://careers.international.com/jobs/60661) |
 | JMP Statistical Discovery | C++ Software Development Intern | Cary, NC |  | Nov 10 | [Apply](https://jmp-sas.icims.com/jobs/46960/job?mobile=true&needsRedirect=false) |
@@ -64,7 +64,6 @@
 | [T-Mobile](https://internscout.org/internships/at/t-mobile/) | Software Engineer Intern | Philadelphia, PA |  | Nov 10 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381225) |
 | [T-Mobile](https://internscout.org/internships/at/t-mobile/) | Software Engineer Intern - T-Ads | Philadelphia, PA |  | Nov 10 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Systems Engineering Intern (Summer 2027), SAOC, Cedar Rapids, IA (Onsite) | Cedar Rapids, IA | Paid | Nov 10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Systems-Engineering-Intern--Summer-2027---SAOC--Cedar-Rapids--IA--Onsite-_01886221) |
-| [Centene](https://internscout.org/internships/at/centene/) | ServiceNow Business Systems Analyst Intern (Undergraduate Summer 2027) | Remote-MO | \$18-26/hour | Nov 10 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/ServiceNow-Business-Systems-Analyst-Intern--Undergraduate-Summer-2027-_1667729) |
 | [REGENT](https://internscout.org/internships/at/regent/) | Mission Software Engineering Intern | North Kingstown, RI |  | Nov 10 | [Apply](https://jobs.ashbyhq.com/regent/1da518a0-9030-48d1-a58c-15d1f88f0eaa/application?embed=true) |
 | [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Finance Technology Intern, Summer 2027 | Orrville, OH |  | Nov 10 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Summer-2027_116135) |
 | [Jabil](https://internscout.org/internships/at/jabil/) | Finance & IT Controls Intern | St. Petersburg/Tampa, FL |  | Nov 10 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Finance---IT-Controls-Intern_J2470789) |
@@ -204,6 +203,7 @@
 | Lumbermen's | Software Developer Internship | Grand Rapids, MI |  | Nov 5 | [Apply](https://job-boards.greenhouse.io/lumbermens/jobs/5474346008) |
 | Prospect Equities | Backend / Frontend Developer Intern | Chicago, IL |  | Nov 5 | [Apply](https://go.vansh.nyc/1ia) |
 | Lyte AI | Software Engineering Intern | Sunnyvale, CA |  | Nov 5 | [Apply](https://go.vansh.nyc/1in) |
+| [Nebo](https://internscout.org/internships/at/nebo/) | Front-End Engineering Intern | Atlanta, GA |  | Nov 5 | [Apply](https://go.vansh.nyc/1i7) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

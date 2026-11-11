@@ -1,6 +1,6 @@
 # Marketing: Summer 2027 Internships
 
-289 open Summer 2027 marketing roles, newest first (the 200 newest of 289). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 752 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+290 open Summer 2027 marketing roles, newest first (the 200 newest of 290). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 753 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Peraton](https://internscout.org/internships/at/peraton/) | Summer 2027 Social Media & Marketing Analyst Intern | San Diego, California | \$22–25/hr | Sep 30 | [Apply](https://peraton.jibeapply.com/jobs/171546) |
 | [AMCA](https://internscout.org/internships/at/amca/) | Growth Internship (Summer 2027) | El Segundo, CA | Paid | Sep 29 | [Apply](https://job-boards.greenhouse.io/amca/jobs/4425052009) |
 | [Hasbro](https://internscout.org/internships/at/hasbro/) | 2027 Summer Marketing Internships | Boston, Massachusetts, United States +1 | Paid | Sep 29 | [Apply](https://job-boards.greenhouse.io/hasbro/jobs/4424981009) |
+| [Wellmark](https://internscout.org/internships/at/wellmark/) | Software Engineer Intern - Marketing and Digital Team | Des Moines, IA |  | Sep 28 | [Apply](https://go.vansh.nyc/1tx) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: Marketing Intern | Northbrook, IL | \$25.00 | Sep 28 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10799) |
 | [Post Holdings](https://internscout.org/internships/at/post-holdings/) | Marketing Intern Summer 2027 | New Albany, Ohio |  | Sep 25 | [Apply](https://jobs.postholdings.com/jobs/31979) |
 | [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | MBA - Brand Management Internship - Summer 2027 | Columbus, Ohio |  | Sep 24 | [Apply](https://careers.marzetticompany.com/jobs/8070) |
@@ -203,7 +204,6 @@
 | [Mortenson](https://internscout.org/internships/at/mortenson/) | Social Media Intern | MN | Paid | Aug 10 | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23364) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern, Growth Innovation | San Jose, CA |  | Aug 4 | [Apply](https://go.vansh.nyc/6e) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - Brand Ads | San Jose, CA |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7668654528822954245) |
-| [TikTok](https://internscout.org/internships/at/tiktok/) | Backend Software Engineer Intern - Innovative Growth | San Jose, CA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7667934860750063925) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

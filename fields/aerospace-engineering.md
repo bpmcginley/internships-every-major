@@ -1,6 +1,6 @@
 # Aerospace Engineering: Summer 2027 Internships
 
-35 open Summer 2027 aerospace engineering roles, newest first (all 35). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 67 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
+36 open Summer 2027 aerospace engineering roles, newest first (all 36). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 68 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Avionics Software Internship - Graduate | Los Angeles, CA +3 | \$38.00 | Oct 14 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Graduate_R71423) |
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Avionics Software Internship - Undergraduate | Denver, CO +4 | \$32.00 | Oct 14 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Undergraduate_R71424) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern Eng - Structural & Aerospace Engineering | Pascagoula, Mississippi |  | Oct 14 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-ENG-STRUCTURAL-&-AEROSPACE-ENGINEERING-Miss/1430053500/) |
+| [Wing](https://internscout.org/internships/at/wing/) | Flight Test Engineering Intern, Summer 2027 | Palo Alto, California | \$128,000 | Oct 13 | [Apply](https://wing.com/careers/8872480002?gh_jid=8872480002) |
 | [Skyband Systems](https://internscout.org/internships/at/skyband-systems/) | Avionics Hardware & Test Engineer Intern | Kirkland, WA |  | Oct 7 | [Apply](https://jobs.ashbyhq.com/skyband%20systems/74d42f88-5265-4879-9c6d-61f532e89b20/application?embed=true) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Avionics Engineering Internship - Summer 2027 | El Segundo, California, United States +1 | \$33.00 | Oct 1 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010158003) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Propulsion Engineering Internship - Summer 2027 | El Segundo, California, United States | \$33.00 | Oct 1 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010169003) |

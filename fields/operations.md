@@ -1,6 +1,6 @@
 # Operations: Summer 2027 Internships
 
-405 open Summer 2027 operations roles, newest first (the 200 newest of 405). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 990 operations internships on InternScout](https://internscout.org/internships/operations/)
+406 open Summer 2027 operations roles, newest first (the 200 newest of 406). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 991 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Ingredion](https://internscout.org/internships/at/ingredion/) | Global Operations Finance Intern | Westchester, IL |  | Nov 8 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Operations-Finance-Intern_Req-40191-1) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Data Operations Intern | LA |  | Nov 7 | [Apply](https://lifeattiktok.com/search/7704912455690504453) |
 | Duke Energy | Training Technology and System Operations Internship - Summer 2027 | Charlotte, NC +3 |  | Nov 7 | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Training-Technology-and-System-Operations-Internship---Summer-2027_R42351) |
-| [RTX](https://internscout.org/internships/at/rtx/) | Digital Technologies Project Management Office Operations Intern (Summer 2027) | Cedar Rapids, IA | Paid | Nov 7 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Digital-Technologies-Project-Management-Office-Operations-Intern--Summer-2027-_01884834) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Digital Technologies Project Management Office Operations Intern (Summer 2027) | Cedar Rapids, IA |  | Nov 7 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Digital-Technologies-Project-Management-Office-Operations-Intern--Summer-2027-_01884834) |
 | NORY | Program Development & Operations Intern (Boston) | Boston +1 | \$20 per hour | Nov 6 | [Apply](https://jobs.ashbyhq.com/nory-co/4bc21310-9787-4690-9ed8-ff7a5844b818/application) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Operations Internships - Mount Rushmore National Memorial | KEYSTONE, South Dakota | \$15.00 per hour | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40160) |
 | Atlantic Health System | Construction/Facilities Intern | Morristown, NJ |  | Nov 6 | [Apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34191) |
@@ -186,6 +186,7 @@
 | [Ingredion](https://internscout.org/internships/at/ingredion/) | Operations Intern | Indianapolis, IN |  | Oct 13 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Indianapolis-IN/Operations-Intern_Req-40342-1) |
 | [ADT](https://internscout.org/internships/at/adt/) | Product Management & Product Operations Intern | Boca Raton, FL |  | Oct 12 | [Apply](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Creative Product Operations Intern - Multiple Teams | San Jose, CA |  | Oct 9 | [Apply](https://lifeattiktok.com/search/7693727532178229509) |
+| [SageSure](https://internscout.org/internships/at/sagesure/) | Data Operations Engineer Intern | Jersey City, NJ +1 |  | Oct 9 | [Apply](https://go.vansh.nyc/1tc) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Process Improvement Intern | Sparks, Nevada |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51654) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Procurement Intern - Infrastructure Solutions (Summer 2027) | Greenville, SC +1 |  | Oct 9 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279203) |
 | [Emerson Electric](https://internscout.org/internships/at/emerson-electric/) | Quality Intern (Summer 2027) | Knoxville, TN |  | Oct 9 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009955) |
@@ -203,7 +204,6 @@
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Mission Operations Internship - Summer 2027 | El Segundo, California, United States +1 | \$37.00 | Oct 1 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010682003) |
 | [Garmin](https://internscout.org/internships/at/garmin/) | Project Manager Intern - Global Partnerships & Engineering Business Development | Olathe, Kansas |  | Oct 1 | [Apply](https://careers.garmin.com/jobs/20134) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Procurement Intern Summer 2027 | Pittsburgh, PA |  | Oct 1 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119768) |
-| [AXA](https://internscout.org/internships/at/axa/) | Summer 2027 - Operations Intern | ATLANTA +1 | \$25.00/hr | Sep 29 | [Apply](https://careers.axa.com/jobs/25504) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

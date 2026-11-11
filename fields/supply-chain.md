@@ -1,6 +1,6 @@
 # Supply Chain: Summer 2027 Internships
 
-217 open Summer 2027 supply chain roles, newest first (the 200 newest of 217). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 460 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
+219 open Summer 2027 supply chain roles, newest first (the 200 newest of 219). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 462 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -83,6 +83,8 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM / Agent | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694365861943953717) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Global Supply Chain, Procurement Intern (Summer 2027) | USA - Texas - Austin |  | Oct 14 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Supply-Chain--Procurement-Intern--Summer-2027-_JR-2604481) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 Summer College Intern - Supply Chain Management | Pascagoula, Mississippi |  | Oct 14 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-SUMMER-COLLEGE-INTERN-SUPPLY-CHAIN-MANAGEMENT-Miss/1430057300/) |
+| [Wing](https://internscout.org/internships/at/wing/) | Logistics Systems Intern, Summer 2027 | Palo Alto, California | \$120,000 | Oct 13 | [Apply](https://wing.com/careers/8872483002?gh_jid=8872483002) |
+| [Wing](https://internscout.org/internships/at/wing/) | Supply Chain Systems Intern, Summer 2027 | Palo Alto, California | \$112,000 | Oct 13 | [Apply](https://wing.com/careers/8872474002?gh_jid=8872474002) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Enterprise Sourcing (Raleigh, NC) | Raleigh, North Carolina |  | Oct 13 | [Apply](https://firstcitizens.jibeapply.com/jobs/35907) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Purchasing Aftersales Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America +1 |  | Oct 13 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Purchasing-Aftersales-Intern---Summer-2027---Franklin--TN_R00214278) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Supply Chain Management Intern | Sparks, Nevada |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51645) |
@@ -202,8 +204,6 @@
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | Procurement Summer Internship 2027 | US - UPS CORPORATE OFFICES (GACOR) |  | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Procurement-Summer-Internship-2027_R26030489) |
 | [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Procurement and Supply Chain | Duluth, GA +2 |  | Sep 18 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Duluth-GA/Summer-2027-Internship--Procurement-and-Supply-Chain_R2026-2088) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Supply Chain - Michigan | Portage, Michigan |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Supply-Chain---Michigan_R572585) |
-| [Church & Dwight](https://internscout.org/internships/at/church-dwight/) | 2027 Undergraduate Global Supply Chain Co-Op | Ewing, NJ |  | Sep 18 | [Apply](https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/XMLNAME-2027-Undergraduate-Global-Supply-Chain-Co-Op_R2026-15617) |
-| [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | UPS Supply Chain Solutions 2027 Summer Intern | US - UPS CORPORATE OFFICES (GACOR) |  | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Supply-Chain-Solutions-2027-Summer-Intern_R26030498) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

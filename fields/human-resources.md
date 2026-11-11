@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-114 open Summer 2027 human resources roles, newest first (all 114). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 255 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+113 open Summer 2027 human resources roles, newest first (all 113). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 255 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -42,7 +42,6 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - HR Intern (Summer 2027) | Atlanta, Georgia | \$35.91 | Oct 19 | [Apply](https://careers.cdmsmith.com/jobs/4806) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer Internship - Talent Acquisition | Renton, WA | \$25.00/Hour | Oct 19 | [Apply](https://jobs.paccar.com/job/Renton-Summer-Internship-Talent-Acquisition-WA-98055/1449187033/) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Human Resource Business Partner Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 15 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Human-Resource-Business-Partner-Intern---Summer-2027---Franklin--TN_R00214300) |
-| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Human Resources Intern - HR Analytics | Malta, NY |  | Oct 14 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Human-Resources-Intern--HR-Analytics--Summer-2027-_JR-2604494) |
 | [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Talent Acquisition Intern, Summer 2027 | Orrville, OH | \$18-\$24/hr | Oct 14 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Talent-Acquisition-Intern--Summer-2027_115992) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern- Human Resources | Pascagoula, Mississippi |  | Oct 14 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-HUMAN-RESOURCES-Miss/1430053000/) |
 | [Republic Airways](https://internscout.org/internships/at/republic-airways/) | Human Resources Shared Services Intern - Summer 2027 | Carmel Headquarters, IN | Paid | Oct 13 | [Apply](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Human-Resources-Shared-Services-Intern---Summer-2027_JR-007624) |

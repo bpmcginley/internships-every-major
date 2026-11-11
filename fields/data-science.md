@@ -1,6 +1,6 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-645 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 645). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,147 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+652 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 652). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,155 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | Roche | Assay Bioinformatics Intern, CSI | Pleasanton, CA |  | Nov 9 | [Apply](https://go.vansh.nyc/1qi) |
 | Enova | Analytics Internship Summer 2027 (Hybrid) | Chicago, IL | \$33.00 per hour | Nov 9 | [Apply](https://job-boards.greenhouse.io/enova/jobs/8366036) |
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Data Scientist Intern | Lakeland, FL |  | Nov 9 | [Apply](https://go.vansh.nyc/1ni) |
+| Philadelphia Gas Works | Data and Analytics Intern | Philadelphia, PA |  | Nov 9 | [Apply](https://go.vansh.nyc/1ti) |
 | Integration Innovation (i3) | Data Management Internship | Huntsville, Alabama +1 |  | Nov 9 | [Apply](https://i3-corps.jibeapply.com/jobs/5490) |
 | 7-Eleven | Data Engineer Intern | Irving, TX |  | Nov 9 | [Apply](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Data-Engineer-Intern_R26_6281) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Greenhouse Gas Data Analyst Intern | Kirkland, WA | Paid | Nov 9 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Greenhouse-Gas-Data-Analyst-Intern-WA-98033/1455720933/) |
@@ -203,7 +204,6 @@
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Summer 2027 Data Science Intern- Bachelor's/Master's (Santa Clara, CA) | Santa Clara,CA +1 | Paid | Oct 29 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | University - 2027 Summer Games Data Scientist Intern - Lexington, MA | Lexington, MA |  | Oct 29 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Data-Scientist-Intern---Lexington--MA_R0252275) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Digital Assurance & Transparency (DAT) - Data - Intern - Summer 2027 | IL-Rosemont +6 | \$29.25 - \$48.00 | Oct 29 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Digital-Assurance---Transparency--DAT----Data---Intern---Summer-2027_756926WD) |
-| [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Summer 2027 Data Scientist Intern -Bachelor's (Austin, TX) | Austin,TX +1 | Paid | Oct 29 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

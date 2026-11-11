@@ -1,6 +1,6 @@
 # Retail: Summer 2027 Internships
 
-218 open Summer 2027 retail roles, newest first (the 200 newest of 218). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 280 retail internships on InternScout](https://internscout.org/internships/retail/)
+217 open Summer 2027 retail roles, newest first (the 200 newest of 217). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 279 retail internships on InternScout](https://internscout.org/internships/retail/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -57,7 +57,6 @@
 | Tapestry | E-Commerce Intern - E-Commerce | NYC |  | Oct 28 | [Apply](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/MBA-Intern--E-Commerce_JR20545) |
 | [Target](https://internscout.org/internships/at/target/) | Associate Buyer Internship - Minneapolis, MN (Starting Summer, 2027) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | \$29.00 per hour | Oct 28 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Associate-Buyer-Internship---Minneapolis--MN--Starting-Summer--2027-_R0000450961) |
 | [Target](https://internscout.org/internships/at/target/) | Store Executive Intern (Store Leadership Intern) Rochester, MN (Starting Summer 2027) ​ | Rochester,MN 55901-3192 +9 | \$24.00- \$28.00 | Oct 28 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/3827-Marketplace-Dr-NW-RochesterMN-55901-3192/Store-Executive-Intern--Store-Leadership-Intern--Rochester--MN--Starting-Summer-2027---_R0000479039) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Merchandising | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Merchandising-MD-21230/1434378900/) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Retail Operations Strategy Corporate Internship (Graduate) - Summer 2027 | RI - Woonsocket |  | Oct 27 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Retail-Operations-Strategy-Corporate-Internship--Graduate----Summer-2027_R1086477) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Design (Apparel and Footwear) | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Design-%28Apparel-and-Footwear%29-MD-21230/1434389000/) |
 | [TD Bank](https://internscout.org/internships/at/td-bank/) | 2027 Summer Internship Graduate Leadership Program- Retail Banking Strategy & AI | New York, New York +3 | \$65.00 - \$67.00 | Oct 27 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Graduate-Leadership-Internship-Program---Retail-Distribution_R_1508518-1) |
@@ -204,6 +203,7 @@
 | BJ's Wholesale Club | Summer Intern - Club Operations (Retail) | BJ's Club Support Center Marlborough, MA #5997 | \$20.00/hr | Sep 18 | [Apply](https://bjswholesaleclub.wd1.myworkdayjobs.com/BJsCareers/job/BJs-Club-Support-Center-Marlborough-MA-5997/Summer-Intern---Club-Operations--Retail-_R253252) |
 | General Mills | Internship - Research & Development Food Scientist | Minneapolis, MN | \$31.73/hour | Sep 18 | [Apply](https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Internship---Research---Development-Food-Scientist_10128712) |
 | [Target](https://internscout.org/internships/at/target/) | Store Executive Intern (Store Leadership Intern) – Cookeville, TN (Starting Summer 2027) | 1100 S Willow Ave, Cookeville,TN 38501-4139 | \$23.25- \$24.25 | Sep 18 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/1100-S-Willow-Ave-CookevilleTN-38501-4139/Store-Executive-Intern--Store-Leadership-Intern----Knoxville--TN--Starting-Summer-2027-_R0000449839) |
+| BJ's Wholesale Club | Summer Intern - Club Support Center (Corporate) | BJ's Club Support Center Marlborough, MA #5997 | \$20.00/hr | Sep 18 | [Apply](https://bjswholesaleclub.wd1.myworkdayjobs.com/BJsCareers/job/BJs-Club-Support-Center-Marlborough-MA-5997/Summer-Intern---Club-Support-Center--Corporate-_R253241) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

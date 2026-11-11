@@ -1,6 +1,6 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-577 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 577). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,218 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+582 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 582). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,227 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [DreamWorks Animation](https://internscout.org/internships/at/dreamworks-animation/) | Media Tech: Data – AI & Machine Learning Intern | Universal City, LA |  | Nov 9 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160649935) |
 | [DreamWorks Animation](https://internscout.org/internships/at/dreamworks-animation/) | Media Tech: Data – AI & Machine Learning Intern | NYC |  | Nov 9 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160650767) |
 | Trilogy Health Services | Information Systems Developer of AI and Automated Solutions Intern | Louisville, KY |  | Nov 9 | [Apply](https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us) |
+| [Haskell](https://internscout.org/internships/at/haskell/) | AI Engineering Design Intern | Jacksonville, FL |  | Nov 9 | [Apply](https://go.vansh.nyc/1tj) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship - Artificial Intelligence - Information Fusion | Laurel, Maryland +1 | \$22.60 Hour | Nov 9 | [Apply](https://careers.jhuapl.edu/jobs/60673) |
 | [Haskell](https://internscout.org/internships/at/haskell/) | Summer 2027 AI Design Intern for Facility Design | Jacksonville, Florida +1 |  | Nov 9 | [Apply](https://haskell.jibeapply.com/jobs/7415) |
 | Sharp Electronics | IT AI Intern | Montvale, NJ |  | Nov 9 | [Apply](https://go.vansh.nyc/1ot) |
@@ -118,7 +119,6 @@
 | [Axos Bank](https://internscout.org/internships/at/axos-bank/) | AI Engineer Intern | San Diego, CA |  | Nov 3 | [Apply](https://go.vansh.nyc/1bU) |
 | onepot | Research Intern, Machine Learning | South San Francisco, CA |  | Nov 3 | [Apply](https://go.vansh.nyc/1cp) |
 | [JM Family Enterprises](https://internscout.org/internships/at/jm-family-enterprises/) | AI Center of Excellence Delivery Team Intern | Deerfield Beach, FL |  | Nov 3 | [Apply](https://go.vansh.nyc/1fK) |
-| [American Express](https://internscout.org/internships/at/american-express/) | Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Technology Services | Phoenix, AZ |  | Nov 3 | [Apply](https://go.vansh.nyc/1dS) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Applied AI (Raleigh, NC) | Raleigh, North Carolina +1 |  | Nov 3 | [Apply](https://firstcitizens.jibeapply.com/jobs/36413) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Technical Product Marketing MBA Intern, AI Infrastructure - Summer 2027 | US, CA +1 |  | Nov 3 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-MBA-Intern--AI-Infrastructure---Summer-2027_JR2028995) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | AI Compiler and Kernel Intern – Summer 2027 | US, TX +2 |  | Nov 3 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1) |

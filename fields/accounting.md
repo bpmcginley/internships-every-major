@@ -1,6 +1,6 @@
 # Accounting: Summer 2027 Internships
 
-217 open Summer 2027 accounting roles, newest first (the 200 newest of 217). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 484 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+217 open Summer 2027 accounting roles, newest first (the 200 newest of 217). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 486 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern- Human Resources (Payroll/Benefits) | HOUSTON, Texas |  | Sep 24 | [Apply](https://careers.kindermorgan.com/jobs/6310) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Tax Information Reporting Intern | Hybrid - New York, NY | Paid | Sep 21 | [Apply](https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Internal Audit Analytics Intern | Hybrid - New York, NY | Paid | Sep 21 | [Apply](https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238) |
-| [Waters Corporation](https://internscout.org/internships/at/waters-corporation/) | Accounting Intern | Milford, MA +1 | \$22-25 per hour | Sep 21 | [Apply](https://uscareers-waters.icims.com/jobs/27743/2026-27743/job) |
+| [Waters Corporation](https://internscout.org/internships/at/waters-corporation/) | Accounting Intern | Milford, MA +1 | \$22-25 per hour | Sep 21 | [Apply](https://uscareers-waters.icims.com/jobs/27743/accounting-intern/job) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Intern – Financial Accounting Services (FAS) | Pittsburgh, PA | \$20- \$22 per hour | Sep 21 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119524) |
 | [AutoZone](https://internscout.org/internships/at/autozone/) | AutoZone 2027 Summer Internship – Internal Audit | Memphis, TN |  | Sep 21 | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155456) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: Finance/Accounting/Tax Intern | Northbrook, IL +1 | \$25.00 | Sep 18 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10627) |

@@ -1,6 +1,6 @@
 # Industrial Engineering: Summer 2027 Internships
 
-306 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 306). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 691 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+309 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 309). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 694 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -122,6 +122,9 @@
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Structural & Mechanical Systems Engineering Internship - Graduate | Van Horn, TX +4 | \$38.00 | Oct 14 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Structural---Mechanical-Systems-Engineering-Internship---Graduate_R71445) |
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Manufacturing Engineering Internship - Undergraduate | Space Coast, FL +2 | \$32.00 | Oct 14 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Summer-2027-Manufacturing-Engineering-Internship---Undergraduate_R71428) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 Summer College Intern - Supply Chain Management | Pascagoula, Mississippi |  | Oct 14 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-SUMMER-COLLEGE-INTERN-SUPPLY-CHAIN-MANAGEMENT-Miss/1430057300/) |
+| [Wing](https://internscout.org/internships/at/wing/) | Logistics Systems Intern, Summer 2027 | Palo Alto, California | \$120,000 | Oct 13 | [Apply](https://wing.com/careers/8872483002?gh_jid=8872483002) |
+| [Wing](https://internscout.org/internships/at/wing/) | Supply Chain Systems Intern, Summer 2027 | Palo Alto, California | \$112,000 | Oct 13 | [Apply](https://wing.com/careers/8872474002?gh_jid=8872474002) |
+| [Wing](https://internscout.org/internships/at/wing/) | Manufacturing Engineering Intern, Summer 2027 | Palo Alto, California | \$112,000 | Oct 13 | [Apply](https://wing.com/careers/8872469002?gh_jid=8872469002) |
 | [Allison Transmission](https://internscout.org/internships/at/allison-transmission/) | Internship - Manufacturing Engineer | Indianapolis, IN |  | Oct 13 | [Apply](https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Internship---Manufacturing-Engineer_R008319) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Manufacturing Engineering Intern | Sparks, Nevada |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51639) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Supply Chain Management Intern | Sparks, Nevada |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51645) |
@@ -201,9 +204,6 @@
 | Lexington Medical | Manufacturing Engineering Intern | Bedford, MA | Paid | Aug 31 | [Apply](https://job-boards.greenhouse.io/lexingtonmedical/jobs/5404584008) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship - Sensor Systems Engineering | Laurel, Maryland | \$22.60 Hour | Aug 31 | [Apply](https://careers.jhuapl.edu/jobs/59874) |
 | [Stryten](https://internscout.org/internships/at/stryten/) | 2027 Summer Intern - Logistics | Alpharetta, Georgia | Paid | Aug 30 | [Apply](https://jobs.stryten.com/jobs/5810) |
-| Northwood Space | Supply Chain Data & Analytics Intern | LA +1 |  | Aug 29 | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application?embed=true) |
-| [Shield AI](https://internscout.org/internships/at/shield-ai/) | Summer 2027 - Advanced Manufacturing Engineering Intern | Dallas, Texas +1 | Paid | Aug 27 | [Apply](https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a/apply) |
-| [CSX](https://internscout.org/internships/at/csx/) | Procurement & Supply Chain Internship - Summer 2027 (Paid) | Jacksonville, FL |  | Aug 27 | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54820) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
