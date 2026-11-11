@@ -1,11 +1,12 @@
 # Accounting: Summer 2027 Internships
 
-217 open Summer 2027 accounting roles, newest first (the 200 newest of 217). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 487 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+218 open Summer 2027 accounting roles, newest first (the 200 newest of 218). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 487 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Arch Capital Group](https://internscout.org/internships/at/arch-capital-group/) | Tax Summer Intern | White Plains, NY United States of America | Paid | Nov 11 | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/White-Plains-NY-United-States-of-America/Tax-Summer-Intern_R26_794) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - Accounting | Toronto, Ontario | \$40,950.00 | Nov 11 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---Accounting_JR26080118-1) |
+| [Entegris](https://internscout.org/internships/at/entegris/) | Internal Audit Intern | Billerica, MA | \$20-\$30/hour | Nov 11 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Internal-Audit-Intern_REQ-15845) |
 | [EisnerAmper](https://internscout.org/internships/at/eisneramper/) | 2027 Assurance Summer Intern - Real Estate | New York |  | Nov 11 | [Apply](https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/New-York/XMLNAME-2027-Assurance-Summer-Intern---Real-Estate_Req-9647) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Summer 2027: Accounting Intern (May through August) | Needham, MA, United States |  | Nov 10 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727347006) |
 | [EisnerAmper](https://internscout.org/internships/at/eisneramper/) | 2027 Assurance Summer Intern | Philadelphia |  | Nov 10 | [Apply](https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/Philadelphia/XMLNAME-2027-Assurance-Summer-Intern_Req-8511) |
@@ -203,7 +204,6 @@
 | [DuCharme, McMillen & Associates](https://internscout.org/internships/at/ducharme-mcmillen-associates/) | Transaction Tax Intern - Summer 2027 | Houston, TX |  | Sep 18 | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Houston-TX/Transaction-Tax-Intern---Summer-2027_REQ628) |
 | [Guardian Life](https://internscout.org/internships/at/guardian-life/) | 2027 Guardian Summer Intern, Corporate Finance & Risk - Agency Accounting | New York | \$20.00 - \$35.00 | Sep 18 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Corporate-Finance---Risk---Agency-Accounting_R000110129) |
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Accounting Intern- Summer 2027 | Richfield, OH (USA) | Paid | Sep 18 | [Apply](https://gaig.wd1.myworkdayjobs.com/National_Interstate_External/job/Richfield-OH-USA/Accounting-Intern--Summer-2027_R9497-1) |
-| [Newrez](https://internscout.org/internships/at/newrez/) | 2027 Summer Internship - Finance & Accounting | TX, Coppell |  | Sep 18 | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Finance---Accounting_R10354) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

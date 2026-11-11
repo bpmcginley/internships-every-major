@@ -1,6 +1,6 @@
 # Software Engineering: Summer 2027 Internships
 
-1,866 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,866). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 3,461 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,865 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,865). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 3,465 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [General Dynamics Mission Systems](https://internscout.org/internships/at/general-dynamics-mission-systems/) | Full-Stack Application Development Intern | Chantilly, VA +2 |  | Nov 9 | [Apply](https://careers-gdms.icims.com/jobs/75971/job?mobile=true&needsRedirect=false) |
 | [NBCUniversal](https://internscout.org/internships/at/nbcuniversal/) | Technology Intern, NBC News Group | New York, NY |  | Nov 9 | [Apply](https://go.vansh.nyc/1os) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Structural Engineering Intern - Infrastructure (Summer 2027) | Lexington, KY |  | Nov 9 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008822) |
+| Formulary Financial | Software Engineering Intern | New York City (4 days on-site) +3 | \$25 per hour | Nov 8 | [Apply](https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04/application) |
 | Dayton Freight | Software Developer Intern | Dayton, OH |  | Nov 7 | [Apply](https://go.vansh.nyc/1m9) |
 | [Springs Window Fashions](https://internscout.org/internships/at/springs-window-fashions/) | Textile Engineering Analytics & Software Intern | Middleton, WI |  | Nov 7 | [Apply](https://go.vansh.nyc/1me) |
 | [Blackhawk Network](https://internscout.org/internships/at/blackhawk-network-holdings/) | Technology Intern | Coppell, TX +1 |  | Nov 7 | [Apply](https://go.vansh.nyc/1m7) |
@@ -203,7 +204,6 @@
 | [Hearst](https://internscout.org/internships/at/hearst/) | Software Engineer Intern | Carmel, IN |  | Nov 5 | [Apply](https://go.vansh.nyc/1iE) |
 | Lumbermen's | Software Developer Internship | Grand Rapids, MI |  | Nov 5 | [Apply](https://job-boards.greenhouse.io/lumbermens/jobs/5474346008) |
 | Prospect Equities | Backend / Frontend Developer Intern | Chicago, IL |  | Nov 5 | [Apply](https://go.vansh.nyc/1ia) |
-| Lyte AI | Software Engineering Intern | Sunnyvale, CA |  | Nov 5 | [Apply](https://go.vansh.nyc/1in) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
