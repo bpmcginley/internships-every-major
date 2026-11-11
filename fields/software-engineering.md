@@ -1,6 +1,6 @@
 # Software Engineering: Summer 2027 Internships
 
-1,865 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,865). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 3,467 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,866 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,866). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 3,468 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Netsmart](https://internscout.org/internships/at/netsmart/) | Cloud Engineer Future (Summer 2027 Internship) | Overland Park, KS | Paid | Nov 11 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668) |
 | [Clarios](https://internscout.org/internships/at/clarios/) | IT Digital/AI Intern (Summer 2027) | United States, Wisconsin, Milwaukee +1 |  | Nov 11 | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910) |
 | McDonald's | Software Development Engineer Intern | Chicago, IL |  | Nov 10 | [Apply](https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449046600/?ats=successfactors) |
+| [Astranis](https://internscout.org/internships/at/astranis/) | Embedded Software Developer, Network/Payload Intern (Summer 2027) | San Francisco | \$29.00 per hour | Nov 10 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704569006) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Site Reliability Engineer Intern, Data Platform, Computer Platform | San Jose, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1s7) |
 | Western Digital | Software Engineering Intern | San Jose, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1s8) |
 | [Skydio](https://internscout.org/internships/at/skydio/) | Middleware Software Engineer Intern - Summer 2027 | San Mateo, California, United States +3 | \$47/hr | Nov 10 | [Apply](https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03/application) |
@@ -203,7 +204,6 @@
 | Parsons | Embedded Developer Intern | Columbia, MD |  | Nov 5 | [Apply](https://go.vansh.nyc/1iA) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Software Engineer Intern | Carmel, IN |  | Nov 5 | [Apply](https://go.vansh.nyc/1iE) |
 | Lumbermen's | Software Developer Internship | Grand Rapids, MI |  | Nov 5 | [Apply](https://job-boards.greenhouse.io/lumbermens/jobs/5474346008) |
-| Prospect Equities | Backend / Frontend Developer Intern | Chicago, IL |  | Nov 5 | [Apply](https://go.vansh.nyc/1ia) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

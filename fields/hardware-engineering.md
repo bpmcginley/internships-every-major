@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-309 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 309). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 826 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+310 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 310). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 827 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -9,6 +9,7 @@
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Design Verification Engineer Intern (Summer 2027) | USA - Texas - Richardson +1 |  | Nov 11 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Design-Verification-Engineer-Intern--Summer-2027-_JR-2604022) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Device Engineering Intern, Silicon Photonics (Summer 2027) | USA - New York - Malta +1 |  | Nov 11 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604261) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Silicon Photonics Process Integration Intern (Summer 2027) | USA - New York - Malta |  | Nov 11 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Intern--Summer-2027-_JR-2604267) |
+| [Astranis](https://internscout.org/internships/at/astranis/) | Embedded Software Developer, Network/Payload Intern (Summer 2027) | San Francisco | \$29.00 per hour | Nov 10 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704569006) |
 | [General Dynamics Mission Systems, Inc.](https://internscout.org/internships/at/general-dynamics-mission-systems/) | ASIC/FPGA Engineer Intern | Scottsdale, AZ |  | Nov 10 | [Apply](https://go.vansh.nyc/1rJ) |
 | Ixana | Embedded Hardware Engineer Intern, FPGA Design | West Lafayette, IN |  | Nov 10 | [Apply](https://go.vansh.nyc/1qS) |
 | Ixana | Embedded Software Engineer Intern, Wearables and IoT | West Lafayette, IN |  | Nov 10 | [Apply](https://go.vansh.nyc/1qR) |
@@ -203,7 +204,6 @@
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Embedded Engineering Internship - Summer 2027 | San Diego, CA +2 |  | Sep 21 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720737089) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Hardware (CPU, GPU, SoC, Digital Design, DV) Engineering Internship – Summer 2027 | San Diego, CA +4 |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720740649) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | RF/Analog Design/Mixed-Signal Engineering Internship – Summer 2027 | San Diego, CA +3 |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720740912) |
-| [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Firmware Engineer Intern - Embedded Software Engineering - Embedded Firmware and SDK Development | Toronto, ON, Canada +1 |  | Sep 17 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721141411) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

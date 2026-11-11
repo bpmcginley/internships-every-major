@@ -1,6 +1,6 @@
 # Engineering: Summer 2027 Internships
 
-685 open Summer 2027 engineering roles, newest first (the 200 newest of 685). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,720 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+684 open Summer 2027 engineering roles, newest first (the 200 newest of 684). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,719 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -42,7 +42,6 @@
 | [onsemi](https://internscout.org/internships/at/onsemi/) | Summer 2027 - Validation Engineering Intern | Nampa, ID |  | Nov 9 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506606) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Design For Test Intern, MS - Summer 2027 | Santa Clara, CA | Paid | Nov 8 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-For-Test-Intern--MS---Summer-2027_2603788-1) |
 | [Shield AI](https://internscout.org/internships/at/shield-ai/) | 2027 Summer Intern - Supplier Development Engineer - 6463 | Dallas, Texas |  | Nov 7 | [Apply](https://jobs.ashbyhq.com/shield/463966b6-fd51-47ef-b9b1-cb53c47cc275/application) |
-| [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Liaison Engineer Intern - Summer 2027 | Vandalia, OH |  | Nov 7 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Vandalia-OH/Liason-Engineer-Intern_R0031178) |
 | Greene Tweed | Rotational Engineer - Summer 2027 | Kulpsville, PA, United States of America +2 |  | Nov 7 | [Apply](https://gtweed.wd1.myworkdayjobs.com/Careers/job/Kulpsville-PA-United-States-of-America/Rotational-Engineer_R3094) |
 | [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | GE Vernova- Grid Engineering Internship - Summer 2027 | Bellevue | \$21.00/hr | Nov 7 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova--Grid-Engineering-Internship---Summer-2027_R5056820-2) |
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | 2027 Summer Engineering Intern - Cleveland OH | US - MIDDLEBURG HEIGHTS (OHMID) +1 |  | Nov 7 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---MIDDLEBURG-HEIGHTS-OHMID/XMLNAME-2027-Summer-Engineering-Intern---Cleveland-OH_R26039950) |
@@ -204,6 +203,7 @@
 | [L3Harris Technologies](https://internscout.org/internships/at/l3harris-technologies/) | Image Processing Engineer Intern | Tulsa, OK |  | Oct 22 | [Apply](https://go.vansh.nyc/er) |
 | [Peak Energy](https://internscout.org/internships/at/peak-energy/) | Test Engineer Intern, ESS (Summer 2027) | Burlingame, California | \$35/hour | Oct 22 | [Apply](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272578007&gh_jid=5272578007) |
 | [Peak Energy](https://internscout.org/internships/at/peak-energy/) | Systems Integration and Test Engineer Intern (Summer 2027) | Burlingame, California +1 | \$35/hr | Oct 22 | [Apply](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272567007&gh_jid=5272567007) |
+| [Aptiv](https://internscout.org/internships/at/aptiv/) | Linux Engineering Intern | Kanata, Canada |  | Oct 22 | [Apply](https://go.vansh.nyc/eM) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

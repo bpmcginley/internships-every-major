@@ -1,6 +1,6 @@
 # Marketing: Summer 2027 Internships
 
-290 open Summer 2027 marketing roles, newest first (the 200 newest of 290). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 754 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+289 open Summer 2027 marketing roles, newest first (the 200 newest of 289). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 753 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -21,13 +21,11 @@
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | stagiaire Coordonnateur(trice) Marketing Terrain (FMC) / Field Marketing Coordinator (FMC) Intern | Quebec City , Quebec, Canada | \$22.00/hour | Nov 10 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Quebec-City--Quebec-Canada/stagiaire-Coordonnateur-trice--Marketing-Terrain--FMC----Field-Marketing-Coordinator--FMC--Intern_REQ-1000053922) |
 | [McKesson](https://internscout.org/internships/at/mckesson/) | Digital Marketing Intern - Summer 2027 | USA, TX | \$17.33 - \$28.88 | Nov 10 | [Apply](https://mckesson.wd3.myworkdayjobs.com/sourcer_on_req/job/USA-TX-The-Woodlands/Digital-Marketing-Intern---Summer-2027_JR0153094-1) |
 | [Itron](https://internscout.org/internships/at/itron/) | Intern - Product Marketing & Sales (Summer 2027) | United States of America, Washington, Liberty Lake | \$44.23/hr | Nov 10 | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Product-Marketing---Sales-Enablement--Summer-2027-_JR102949-1) |
-| [Philips](https://internscout.org/internships/at/philips/) | Intern-Insights and Analytics (Health Systems Marketing) Cambridge, MA or Nashville, TN - Summer 2027 | Cambridge (US), Massachusetts, United States +2 | \$26 – 30 | Nov 10 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern-Insights-and-Analytics--Health-Systems-Marketing--Cambridge--MA---Summer-2027_593454) |
 | [DreamWorks Animation](https://internscout.org/internships/at/dreamworks-animation/) | Advertising & Partnerships: Data Science Intern | NYC |  | Nov 9 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160689930) |
 | [DreamWorks Animation](https://internscout.org/internships/at/dreamworks-animation/) | Data Science Intern, Advertising & Partnerships | New York, NY |  | Nov 9 | [Apply](https://go.vansh.nyc/1pJ) |
 | [DreamWorks Animation](https://internscout.org/internships/at/dreamworks-animation/) | Advertising & Partnerships: Ad Products Intern | NYC |  | Nov 9 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160686479) |
 | [NBCUniversal](https://internscout.org/internships/at/nbcuniversal/) | Data Science Intern, Advertising & Partnerships | New York, NY |  | Nov 9 | [Apply](https://go.vansh.nyc/1oO) |
 | [Veeam Software](https://internscout.org/internships/at/veeam-software/) | Field Marketing Intern - Summer 2027 | Toronto, Canada |  | Nov 9 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5031428101) |
-| [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Portfolio Marketing | Holtsville, New York | \$24.00-\$25.50/hour | Nov 7 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Portfolio-Marketing_JR103615) |
 | [Tinder](https://internscout.org/internships/at/tinder/) | Social Marketing Intern | Los Angeles, California |  | Nov 6 | [Apply](https://jobs.lever.co/matchgroup/d4f57475-3ea3-4560-924b-5a5507d4f002/apply) |
 | [Corning](https://internscout.org/internships/at/corning/) | R&D Intern, Optical Communications Development - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Nov 6 | [Apply](https://corningjobs.corning.com/job/Corning-R&D-Intern%2C-Optical-Communications-Development-Summer-2027-NY-14831/1448753800/) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Corporate Communications & Digital Experience Intern | Florida - Deerfield Beach |  | Nov 6 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Corporate-Communications---Digital-Experience-Intern_JR105209) |
@@ -142,6 +140,7 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce User Growth | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694357619162532149) |
 | [Wolf & Company](https://internscout.org/internships/at/wolf-company/) | Marketing Intern - Summer 2027 | Boston, MA | \$26.00 per hour | Oct 14 | [Apply](https://career-portal-wolfandco.icims.com/jobs/1597/marketing-intern---summer-2027/job) |
 | [HF Sinclair](https://internscout.org/internships/at/hf-sinclair/) | Branded Fuels - Business Analytics Intern | Dallas, TX |  | Oct 14 | [Apply](https://careers.hfsinclair.com/job/Dallas-Branded-Fuels-Business-Analytics-Intern-TX-75219/1430072700/) |
+| [Philips](https://internscout.org/internships/at/philips/) | Insights and Analytics Intern - Health Systems Marketing | Cambridge, MA |  | Oct 14 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern-Insights-and-Analytics--Health-Systems-Marketing--Cambridge--MA---Summer-2027_593454) |
 | [GAF](https://internscout.org/internships/at/gaf/) | Customer Experience Intern | Parsippany, NJ | \$20.00 | Oct 14 | [Apply](https://gafsgi.wd5.myworkdayjobs.com/GAF_Careers/job/Parsippany-NJ/Customer-Experience-Intern_26415-1) |
 | [Land O'Lakes](https://internscout.org/internships/at/land-o-lakes/) | Marketing Brand Management MBA Intern, Summer 2027 | Arden Hills, MN (USA) | \$18,800 | Oct 14 | [Apply](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Arden-Hills-MN-USA/Marketing-Brand-Management-MBA-Intern--Summer-2027_R-40561) |
 | [Land O'Lakes](https://internscout.org/internships/at/land-o-lakes/) | WinField United FGI Marketing Intern, Summer 2027 | Arden Hills, MN (USA) | \$25.00/hour | Oct 14 | [Apply](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Arden-Hills-MN-USA/WinField-United-FGI-Marketing-Intern--Summer-2027_R-40233) |
@@ -204,6 +203,7 @@
 | [Mortenson](https://internscout.org/internships/at/mortenson/) | Social Media Intern | MN | Paid | Aug 10 | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23364) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern, Growth Innovation | San Jose, CA |  | Aug 4 | [Apply](https://go.vansh.nyc/6e) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - Brand Ads | San Jose, CA |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7668654528822954245) |
+| [TikTok](https://internscout.org/internships/at/tiktok/) | Backend Software Engineer Intern - Innovative Growth | San Jose, CA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7667934860750063925) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

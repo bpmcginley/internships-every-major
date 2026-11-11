@@ -1,6 +1,6 @@
 # Accounting: Summer 2027 Internships
 
-218 open Summer 2027 accounting roles, newest first (the 200 newest of 218). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 487 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+217 open Summer 2027 accounting roles, newest first (the 200 newest of 217). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 485 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -17,7 +17,6 @@
 | [EisnerAmper](https://internscout.org/internships/at/eisneramper/) | 2027 Technology Assurance Summer Intern | Philadelphia +1 |  | Nov 10 | [Apply](https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/Philadelphia/XMLNAME-2027-Tech-Assurance-Summer-Intern_Req-8555) |
 | [EisnerAmper](https://internscout.org/internships/at/eisneramper/) | 2027 Assurance Summer Intern | San Francisco |  | Nov 10 | [Apply](https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/San-Francisco/XMLNAME-2027-Assurance-Summer-Intern_Req-8540) |
 | [EisnerAmper](https://internscout.org/internships/at/eisneramper/) | 2027 Assurance Summer Intern - Not for Profit | New York |  | Nov 10 | [Apply](https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/New-York/XMLNAME-2027-Assurance-Summer-Intern---Not-for-Profit_Req-8542) |
-| TIAA | 2027 Early Talent Internship: Internal Audit | Charlotte, NC, USA +2 | \$22.00/hr | Nov 7 | [Apply](https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Internship--Internal-Audit_R261000123) |
 | [SpartanNash](https://internscout.org/internships/at/spartannash/) | Accounting Intern - Summer 2027 | Byron Center, Michigan | Paid | Nov 7 | [Apply](https://spartannash.wd1.myworkdayjobs.com/SpartanNash_Careers/job/Byron-Center-Michigan/Accounting-Intern---Summer-2027_R90488) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Indirect Tax Corporate Internship - Summer 2027 (Undergraduate) | RI - Cumberland |  | Nov 7 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Cumberland/Indirect-Tax-Corporate-Internship---Summer-2027--Undergraduate-_R1069264) |
 | [GCM Grosvenor](https://internscout.org/internships/at/gcm-grosvenor/) | 2027 Fund Accounting Summer Intern | Chicago, Illinois, United States | \$65,000 | Nov 6 | [Apply](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/7989281003) |
@@ -204,6 +203,7 @@
 | [DuCharme, McMillen & Associates](https://internscout.org/internships/at/ducharme-mcmillen-associates/) | Transaction Tax Intern - Summer 2027 | Houston, TX |  | Sep 18 | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Houston-TX/Transaction-Tax-Intern---Summer-2027_REQ628) |
 | [Guardian Life](https://internscout.org/internships/at/guardian-life/) | 2027 Guardian Summer Intern, Corporate Finance & Risk - Agency Accounting | New York | \$20.00 - \$35.00 | Sep 18 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Corporate-Finance---Risk---Agency-Accounting_R000110129) |
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Accounting Intern- Summer 2027 | Richfield, OH (USA) | Paid | Sep 18 | [Apply](https://gaig.wd1.myworkdayjobs.com/National_Interstate_External/job/Richfield-OH-USA/Accounting-Intern--Summer-2027_R9497-1) |
+| [Newrez](https://internscout.org/internships/at/newrez/) | 2027 Summer Internship - Finance & Accounting | TX, Coppell |  | Sep 18 | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Finance---Accounting_R10354) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
