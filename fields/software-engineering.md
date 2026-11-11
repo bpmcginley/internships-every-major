@@ -1,6 +1,6 @@
 # Software Engineering: Summer 2027 Internships
 
-1,872 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,872). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 3,470 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,871 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,871). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 3,472 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

@@ -1,6 +1,6 @@
 # Operations: Summer 2027 Internships
 
-405 open Summer 2027 operations roles, newest first (the 200 newest of 405). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 989 operations internships on InternScout](https://internscout.org/internships/operations/)
+405 open Summer 2027 operations roles, newest first (the 200 newest of 405). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 990 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -143,8 +143,8 @@
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Technology Project Management | Berwyn, PA | \$18.00 - \$21.00 Per Hour | Oct 22 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Berwyn-PA/XMLNAME-2027-Summer-Internship---Technology-Project-Management_R-104142-2) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Business Continuity of Operations | Berwyn, PA | \$18.00 - \$21.00 Per Hour | Oct 22 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Berwyn-PA/XMLNAME-2027-Summer-Internship---Business-Continuity-of-Operations_R-104141) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Bryn Mawr Trust and Wealth Management Operations | Berwyn, PA | \$18.00 - \$21.00 Per Hour | Oct 22 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Berwyn-PA/XMLNAME-2027-Summer-Internship---Bryn-Mawr-Trust-and-Wealth-Management-Operations_R-104130-3) |
-| [Anduril](https://internscout.org/internships/at/anduril/) | Business Operations Engineer Intern | Ashville, OH +1 |  | Oct 21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271672007) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Business Operations Intern | Costa Mesa, California, United States +1 | Paid | Oct 21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007) |
+| [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Business Operations Engineer Intern | Ashville, Ohio, United States +3 | Paid | Oct 21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) |
 | [DP World](https://internscout.org/internships/at/dp-world/) | Procurement intern | Charlotte, NC |  | Oct 21 | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27446) |
 | [The Hartford](https://internscout.org/internships/at/the-hartford/) | 2027 Summer Intern - Rotational (IT, Operations, Risk, and Fund Treasury) | Wayne, PA | \$20.00 - \$25.00 | Oct 21 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Wayne-PA/XMLNAME-2027-Summer-Intern---Rotational--IT--Operations--Risk--and-Fund-Treasury-_R2627500) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Operations Intern (Summer 2027) | Westerville, OH |  | Oct 20 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279296) |

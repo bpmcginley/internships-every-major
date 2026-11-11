@@ -1,6 +1,6 @@
 # Electrical Engineering: Summer 2027 Internships
 
-244 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 244). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 568 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+243 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 243). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 566 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -124,7 +124,6 @@
 | [Astranis](https://internscout.org/internships/at/astranis/) | Electrical Integration Intern - RF (Summer 2027) | San Francisco | \$29.00 per hour | Sep 24 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4715788006) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Electrical Engineering Student - Buildings (Summer 2027) - 12-16 Month Term | Calgary, AB, Canada |  | Sep 23 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007930) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Electrical Reliability Intern (Summer 2027) | San Francisco +1 | \$29.00 per hour | Sep 22 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704784006) |
-| [Astranis](https://internscout.org/internships/at/astranis/) | Power Electronics Intern (Summer 2027) | San Francisco |  | Sep 22 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4706425006) |
 | [Eaton](https://internscout.org/internships/at/eaton/) | Electrical Engineer Intern/Co-op - Engineering | Peachtree City, GA |  | Sep 22 | [Apply](https://eaton.eightfold.ai/careers/job/687238597770) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Electrical Validation Intern - BS | Santa Clara, CA |  | Sep 22 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Electrical-Validation-Intern--BS---Summer-2027_2603795) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Electrical Engineering Intern - Water (Summer 2027) | Phoenix, AZ |  | Sep 22 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007852) |
@@ -185,7 +184,7 @@
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Electrical Engineering Intern - Energy Storage (Summer 2027) | Delaware, OH |  | Aug 12 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279271) |
 | [Mortenson](https://internscout.org/internships/at/mortenson/) | Electrical Engineering Intern – Summer 2027 | United States | Paid | Aug 10 | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23239) |
 | [Kairos Power](https://internscout.org/internships/at/kairos-power/) | Electrical Engineering Internship - Summer 2027 | Alameda, CA +2 | Paid | Jul 23 | [Apply](https://job-boards.greenhouse.io/kairospower/jobs/6123657004) |
-| [Anduril](https://internscout.org/internships/at/anduril/) | Electrical Engineer Intern | Boston, MA +8 |  | Jun 11 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007) |
+| [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States +17 | Paid | Jun 11 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
 | [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering (Pro Audio Circuitry) Intern | Niles, IL | \$23-\$43 per hour | Nov 11, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5017/electrical-engineering-%28pro-audio-circuitry%29-intern/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering Intern (Digital Circuitry) | Niles, IL | \$23-\$43 per hour | Nov 11, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5013/electrical-engineering-intern-%28digital-circuitry%29/job) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Intern Electrical Engineer - Summer 2027 | Kansas City, MO +1 |  | Nov 7 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/Intern-Electrical-Engineer---Summer-2027_R-31347-1) |
@@ -204,6 +203,7 @@
 | [IMEG](https://internscout.org/internships/at/imeg/) | Electrical Engineering Intern \| Seattle, WA | Seattle, WA +1 | \$22-24 per hour | Oct 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Seattle-WA/Electrical-Engineering-Intern---Seattle--WA_R-16576) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Electrical Engineering Intern \| Anaheim, CA | Anaheim, CA | \$22.00 –\$24.00 per hour | Oct 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Anaheim-CA/Electrical-Engineering-Intern---Anaheim--CA_R-16750) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Electrical Engineering Intern \| Freeport, ME | Freeport, ME | \$22.00–\$24.00 per hour | Oct 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Freeport-ME/Electrical-Engineering-Intern---Freeport--ME_R-16817) |
+| [IMEG](https://internscout.org/internships/at/imeg/) | Electrical Engineering Intern \| Scottsdale, AZ | Phoenix, AZ | Paid | Oct 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Phoenix-AZ/Electrical-Engineering-Intern---Scottsdale--AZ_R-16745) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

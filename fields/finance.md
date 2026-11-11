@@ -1,6 +1,6 @@
 # Finance: Summer 2027 Internships
 
-526 open Summer 2027 finance roles, newest first (the 200 newest of 526). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 843 finance internships on InternScout](https://internscout.org/internships/finance/)
+525 open Summer 2027 finance roles, newest first (the 200 newest of 525). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 843 finance internships on InternScout](https://internscout.org/internships/finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -157,7 +157,6 @@
 | [Baird](https://internscout.org/internships/at/baird/) | Internship – Private Wealth Management (Salt Lake City, UT Summer 2027) | UT-Salt Lake City |  | Oct 27 | [Apply](https://baird.wd1.myworkdayjobs.com/careers/job/UT-Salt-Lake-City/Internship---Private-Wealth-Management--Salt-Lake-City--UT-Summer-2027-_R20261220) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Cyber Risk Management Analyst Undergraduate Intern | Camp Hill PA, 17011, Center Street Building 1B +1 |  | Oct 27 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Camp-Hill-PA-17011-Center-Street-Building-1B/Summer-2027-Cyber-Risk-Management-Analyst-Undergraduate-Intern_J286841) |
 | [Federal Home Loan Bank of Indianapolis](https://internscout.org/internships/at/federal-home-loan-bank-of-indianapolis/) | Model Risk Intern | Indianapolis, IN | Paid | Oct 27 | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Model-Risk-Intern_R636) |
-| [Federal Home Loan Bank of Indianapolis](https://internscout.org/internships/at/federal-home-loan-bank-of-indianapolis/) | Market Risk Intern | Indianapolis, IN | Paid | Oct 27 | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Market-Risk-Intern_R634) |
 | [Genentech](https://internscout.org/internships/at/genentech/) | 2027 Summer Intern - Finance Summer Associate | South San Francisco, CA | \$55.00 per hour | Oct 27 | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Finance-Summer-Associate_202610-126855) |
 | [Baird](https://internscout.org/internships/at/baird/) | Internship – Private Wealth Management (Sioux City, IA Summer 2027) | IA-Sioux City |  | Oct 27 | [Apply](https://baird.wd1.myworkdayjobs.com/careers/job/IA-Sioux-City/Internship---Private-Wealth-Management--Sioux-City--IA-Summer-2027-_R20261218-1) |
 | [KeyBank](https://internscout.org/internships/at/keybank/) | Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Toledo, OH | Toledo, OH | \$23 per hour | Oct 27 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Toledo-OH/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Toledo--OH_R-41225) |
@@ -204,6 +203,7 @@
 | [AXA](https://internscout.org/internships/at/axa/) | Summer 2027 - Finance Intern, Chief Accounting & Capital Office | STAMFORD | \$25.00/hr | Oct 21 | [Apply](https://careers.axa.com/jobs/28352) |
 | [Aon](https://internscout.org/internships/at/aon/) | 2027 Investments Intern - Chicago, IL | Chicago, Illinois | \$20.00 – \$22.00 per hour | Oct 21 | [Apply](https://jobs.aon.com/jobs/109997) |
 | [Aon](https://internscout.org/internships/at/aon/) | 2027 M&A Intern - Chicago, IL | Chicago, Illinois | \$25.00 – \$27.00 per hour | Oct 21 | [Apply](https://jobs.aon.com/jobs/109977) |
+| [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern, Nuclear Finance, Summer 2027 | Jackson, Mississippi |  | Oct 21 | [Apply](https://jobs.entergy.com/job/Jackson-Student%2C-Intern%2C-Nuclear-Finance%2C-Summer-2027-Miss/1442315500/) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

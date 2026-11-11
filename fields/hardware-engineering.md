@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-318 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 318). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 835 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+318 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 318). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 834 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -146,13 +146,13 @@
 | [Nissan](https://internscout.org/internships/at/nissan/) | AI Robotics Research Intern - Summer 2027 - Santa Clara, CA | Santa Clara, California - United States of America +1 |  | Oct 15 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/AI-Robotics-Research-Intern---Summer-2027---Santa-Clara--CA_R00214267) |
 | [Figure](https://internscout.org/internships/at/figure/) | Embedded Software Engineer Intern, Platform | San Jose, CA |  | Oct 14 | [Apply](https://go.vansh.nyc/Cq) |
 | [Formlabs](https://internscout.org/internships/at/formlabs/) | Hardware Systems Integration Intern (Summer 2027) | Somerville, MA | \$1,575 | Oct 14 | [Apply](https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683) |
-| [Anduril](https://internscout.org/internships/at/anduril/) | Firmware Engineer Intern | Costa Mesa, CA |  | Oct 14 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265158007) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Hardware Development Engineer Intern | North Reading, MA +2 |  | Oct 14 | [Apply](https://amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027) |
 | [AeroVironment](https://internscout.org/internships/at/aerovironment/) | Summer 2027 Embedded Software Engineering Intern | Simi Valley, CA +16 |  | Oct 14 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8388) |
 | [AeroVironment](https://internscout.org/internships/at/aerovironment/) | Summer 2027 Autonomy & Robotics Engineering Intern | Simi Valley, CA +14 |  | Oct 14 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8556) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Firmware Engineer Intern, BS - Summer 2027 | Santa Clara, CA +1 | Paid | Oct 14 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Hardware Development Engineer Intern Co-op - Robotics | North Reading, MA +1 |  | Oct 13 | [Apply](https://amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027) |
 | [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Design Verification Engineer Intern | San Jose, CA +1 |  | Oct 13 | [Apply](https://go.vansh.nyc/C9) |
+| [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Firmware Engineer Intern | Costa Mesa, California, United States +1 | Paid | Oct 13 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007) |
 | [Bosch](https://internscout.org/internships/at/bosch/) | Robotics Research Intern | Sunnyvale, CA |  | Oct 12 | [Apply](https://go.vansh.nyc/86) |
 | [Life Fitness](https://internscout.org/internships/at/life-fitness/) | Embedded Software Engineer Intern | Schaumburg, IL |  | Oct 12 | [Apply](https://go.vansh.nyc/GL) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | ASIC Intern | Sunnyvale, CA |  | Oct 12 | [Apply](https://go.vansh.nyc/GQ) |
@@ -199,9 +199,9 @@
 | [Neuralink](https://internscout.org/internships/at/neuralink/) | Firmware Engineer Intern, Robotics and Surgery Engineering | South San Francisco, CA |  | Sep 25 | [Apply](https://go.vansh.nyc/QH) |
 | [Neuralink](https://internscout.org/internships/at/neuralink/) | Embedded Software Engineer Intern, Implant Embedded Systems | Austin, TX +1 |  | Sep 25 | [Apply](https://go.vansh.nyc/QF) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Software Defined Radio Hardware Associate Intern | SF |  | Sep 24 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4715983006) |
+| [Astranis](https://internscout.org/internships/at/astranis/) | Software Defined Radio Hardware Intern - Summer 2027 | SF |  | Sep 24 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4716088006) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Firmware Development Intern - PAL | Markham, ON, Canada +1 |  | Sep 23 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721229661) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | FPGA Intern (Summer 2027) | San Francisco +2 | \$29.00 per hour | Sep 23 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704805006) |
-| [Astranis](https://internscout.org/internships/at/astranis/) | Software Defined Radio Hardware Intern (Summer 2027) | San Francisco +1 |  | Sep 23 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4716088006) |
 | [Analog Devices](https://internscout.org/internships/at/analog-devices/) | Embedded Software Engineer Intern | Toronto, Canada +1 |  | Sep 23 | [Apply](https://go.vansh.nyc/Jm) |
 | Two Sigma | Hardware Engineering Intern | NYC +1 |  | Sep 22 | [Apply](https://twosigma.avature.net/careers/JobDetail/14289) |
 
