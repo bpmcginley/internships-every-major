@@ -1,6 +1,6 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-208 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 208). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 445 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+205 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 205). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 429 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student Intern, Environmental Project Services, Summer 2027 | Little Rock, Arkansas |  | Oct 14 | [Apply](https://jobs.entergy.com/job/Little-Rock-Student-Intern%2C-Environmental-Project-Services%2C-Summer-2027-Arka/1439869700/) |
 | [Republic Airways](https://internscout.org/internships/at/republic-airways/) | Safety Intern - Summer 2027 | Carmel Headquarters, IN | Paid | Oct 13 | [Apply](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Safety-Intern---Summer-2027_JR-007801) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Madison, Wisconsin | \$20.00 | Oct 13 | [Apply](https://careers.trccompanies.com/jobs/27079) |
-| [Watts Water](https://internscout.org/internships/at/watts-water/) | EHS/Safety Intern, Summer 2027 | Menomonee Falls, WI +1 | \$22-23 hour | Oct 12 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Menomonee-Falls-WI/EHS-Safety-Intern--Summer--Fall-2027_10017710) |
+| [Watts Water](https://internscout.org/internships/at/watts-water/) | EHS/Safety Intern, Summer 2027 | Menomonee Falls, WI +1 | \$22-23 hour | Oct 13 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Menomonee-Falls-WI/EHS-Safety-Intern--Summer--Fall-2027_10017710) |
 | [Scout Clean Energy](https://internscout.org/internships/at/scout-clean-energy/) | Geospatial Intern - Summer 2027 | Boulder, Colorado +1 | \$25-30/hour | Oct 12 | [Apply](https://apply.workable.com/j/56C8F2E503/apply) |
 | Neuberger Berman | MBA Intern, Stewardship & Sustainable Investing Summer 2027 | New York, NY | \$140,000-\$140,000 | Oct 12 | [Apply](https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/MBA-Intern--Stewardship---Sustainability-Summer-2027_R0012713) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Concord, California | \$20.00 | Oct 9 | [Apply](https://careers.trccompanies.com/jobs/27051) |
@@ -169,9 +169,6 @@
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Environmental, Health & Safety (EHS) | Los Angeles, CA | \$28–\$36 per hour | Aug 26 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5376633008) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Water Resources Intern - (Summer 2027) | Chandler, AZ |  | Aug 19 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007271) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Environmental Health & Safety (EHS) Internship – Summer 2027 | El Segundo, California, United States |  | Nov 13, 2025 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7527870003) |
-| Langan Engineering & Environmental Services | Intern/Co-op - Environmental (Summer 2027) | Calgary, AB |  | Nov 9 | [Apply](https://emplois.ca.indeed.com/viewjob?jk=722c602bf6ad6562&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| Kiewit | Safety Intern - Kiewit Energy Canada (Summer 2027) | Calgary, AB |  | Nov 9 | [Apply](https://kiewitcareers.kiewit.com/job/Calgary-Safety-Intern-Kiewit-Energy-Canada-%28Summer-2027%29-AB/1429932400/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| Kiewit | Safety Intern - Kiewit Energy Canada (Summer 2027) Job Details \| Kiewit | Calgary, AB |  | Nov 9 | [Apply](https://jobright.ai/jobs/info/6ad107fe3d3a5aa909b37390?utm_campaign=1048&utm_source=git&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Environmental, Health & Safety Intern | Fairfield, Ohio | \$23 to \$27.50 per hour | Nov 6 | [Apply](https://se.jibeapply.com/jobs/141019) |
 | [Faith Technologies](https://internscout.org/internships/at/faith-technologies/) | Construction Safety Internship Summer 2027 | WI - Appleton +5 |  | Oct 30 | [Apply](https://faithtechnologies.wd1.myworkdayjobs.com/fti/job/WI---Appleton/Construction-Safety-Internship-Summer-2027_R11919-2) |
 | [Holmes Murphy](https://internscout.org/internships/at/holmes-murphy/) | Risk & Safety Intern - Summer 2027 | Denver |  | Oct 28 | [Apply](https://holmesmurphy.wd1.myworkdayjobs.com/HolmesMurphyCareers/job/Waukee/Risk---Safety-Intern---Summer-2027_R0001040) |
@@ -204,6 +201,9 @@
 | [Granite Construction](https://internscout.org/internships/at/granite-construction/) | 2027 Summer Safety Intern | Everett, Washington +2 | \$27.00 | Sep 18 | [Apply](https://granite.wd1.myworkdayjobs.com/careers/job/Everett-Washington/XMLNAME-2027-Summer-Safety-Intern_R0000008261) |
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-op - HES&S Safety and Industrial Hygiene (Summer 2027) | Findlay, Ohio +21 | \$24.09 per hour | Sep 18 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Safety-and-Industrial-Hygiene--Summer-2027-_00024175) |
 | [Barr](https://internscout.org/internships/at/barr/) | Internship – Environmental Geology Focus (Hybrid) | Grand Rapids, MI | \$22.66–\$28.90 hour | Sep 18 | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Grand-Rapids-MI/Internship---Environmental-Geology-Focus--Hybrid-_R-102298) |
+| [Hitachi](https://internscout.org/internships/at/hitachi/) | 2027 Summer Health Safety Environmental Internship-Jefferson City | Jefferson City, Missouri, United States of America |  | Sep 18 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Jefferson-City-Missouri-United-States-of-America/XMLNAME-2027-Summer-Health-Safety-Environmental-Internship-Jefferson-City_R0143630) |
+| [Cleveland-Cliffs](https://internscout.org/internships/at/cleveland-cliffs/) | Health & Safety Intern | Indiana Harbor |  | Sep 18 | [Apply](https://aksteel.wd1.myworkdayjobs.com/careers/job/Indiana-Harbor/Health---Safety-Intern_R13490) |
+| [Cleveland-Cliffs](https://internscout.org/internships/at/cleveland-cliffs/) | Environmental Engineering Intern | Indiana Harbor |  | Sep 18 | [Apply](https://aksteel.wd1.myworkdayjobs.com/careers/job/Indiana-Harbor/Environmental-Engineering-Intern_R13483) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

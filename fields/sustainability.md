@@ -1,6 +1,6 @@
 # Sustainability: Summer 2027 Internships
 
-83 open Summer 2027 sustainability roles, newest first (all 83). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 134 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+83 open Summer 2027 sustainability roles, newest first (all 83). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 133 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Berkshire Hathaway Energy](https://internscout.org/internships/at/berkshire-hathaway-energy/) | Intern - Renewable Generation Performance | Des Moines, IA |  | Nov 4 | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006008) |
 | [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Sustainability & Energy Engineering Intern | St. Louis, MO +3 | \$22.00–\$24.00 per hour | Nov 3 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/St-Louis-MO/Sustainability---Energy-Engineering-Intern_R-16761) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Sustainability & Energy Engineering Intern | St. Louis, MO +3 | \$22.00–\$24.00 per hour | Nov 3 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Sustainability---Energy-Engineering-Intern_R-16761) |
-| [Walmart](https://internscout.org/internships/at/walmart/) | Summer 2027 Corporate Intern: Walmart Energy Internship | Bentonville, AR | \$21.00 - \$40.00 | Oct 30 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Summer-2027-Corporate-Intern--Walmart-Energy-Internship_R-2694378) |
+| [Walmart](https://internscout.org/internships/at/walmart/) | Summer 2027 Corporate Intern: Walmart Energy Internship | Bentonville, AR | \$21.00 - \$40.00 | Oct 31 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Summer-2027-Corporate-Intern--Walmart-Energy-Internship_R-2694378) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Mining Studies & Project Development Intern - Energy & Resources (Summer 2027) | Reno, NV |  | Oct 30 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008549) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | PhD Research Intern, AI for Climate and Weather Simulation - 2027 | US, CA +4 |  | Oct 30 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | Melville, New York | \$20.00 | Oct 29 | [Apply](https://careers.trccompanies.com/jobs/27378) |

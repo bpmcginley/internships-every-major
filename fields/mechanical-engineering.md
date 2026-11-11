@@ -1,9 +1,10 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-330 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 330). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 875 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+330 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 330). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 869 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Northrop Grumman](https://internscout.org/internships/at/northrop-grumman/) | 2027 Operations Manufacturing Engineering Intern | United States-Florida-Saint Augustine | \$18.50 to \$33.50 per hour | Nov 10 | [Apply](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Saint-Augustine/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10260120-1) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Manufacturing Electrical Engineer Co-op (Summer/Fall 2027) | Melbourne, FL | Paid | Nov 10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Electrical-Engineer-Co-op--Summer-Fall-2027-_01883880) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Mechanical Engineering Intern - Summer 2027 | Hamilton, NJ | \$23.90 - \$32.22 | Nov 10 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94976) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Mechanical Engineer Intern (Summer 2027) | El Segundo, CA | Paid | Nov 10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineer-Intern--Summer-2027-_01885537) |
@@ -98,9 +99,9 @@
 | [Badger Meter](https://internscout.org/internships/at/badger-meter/) | Mechanical Engineering NPD Intern | Milwaukee HQ, WI |  | Oct 26 | [Apply](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Mechanical-Engineering-NPD-Intern_4642) |
 | [Life Fitness](https://internscout.org/internships/at/life-fitness/) | Manufacturing Quality Engineering Intern | Owatonna, MN | \$24.00 - \$27.00 per hour | Oct 26 | [Apply](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Owatonna-MN/Manufacturing-Quality-Engineering-Intern---Owatonna--MN_JR-025245) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | 2027 Manufacturing Engineer Summer Internship (Bachelors Austin, TX) | Austin,TX | Paid | Oct 26 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2027-Manufacturing-Engineer-Summer-Internship--Bachelors-Austin--TX-_R2626242) |
+| [Verdantas](https://internscout.org/internships/at/verdantas/) | Mechanical Engineer Summer Intern | Holden MA | \$20.00 - \$22.00 | Oct 24 | [Apply](https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Holden-MA/Mechanical-Engineer-Summer-Intern_R-101230) |
 | [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Mechanical Engineering Intern \| Madison, WI | Madison, WI | \$22.00 - \$24.00 per hour | Oct 23 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Madison-WI/Mechanical-Engineering-Intern---Madison--WI_R-16461) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Mechanical Engineering Intern - Summer 2027 | Minneapolis, MN |  | Oct 23 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98140) |
-| [Verdantas](https://internscout.org/internships/at/verdantas/) | Mechanical Engineer Summer Intern | Holden MA | \$20.00 - \$22.00 | Oct 23 | [Apply](https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Holden-MA/Mechanical-Engineer-Summer-Intern_R-101230) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Mechanical Engineering Intern \| Madison, WI | Madison, WI | \$22.00 - \$24.00 per hour | Oct 23 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Madison-WI/Mechanical-Engineering-Intern---Madison--WI_R-16461) |
 | [DoorDash](https://internscout.org/internships/at/doordash/) | Mechanical Engineering, Intern - Labs (Summer 2027) | Oakland, CA | Paid | Oct 22 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8313401) |
 | [Motorola](https://internscout.org/internships/at/motorola/) | Mechanical Engineering Intern - Summer 2027 | Schaumburg, IL |  | Oct 22 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Mechanical-Engineering-Intern---Summer-2027_R69727) |
@@ -203,7 +204,6 @@
 | [Garmin](https://internscout.org/internships/at/garmin/) | Mechanical Engineering Intern | Cary, North Carolina |  | Sep 10 | [Apply](https://careers.garmin.com/jobs/19911) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | Eagan, Minnesota | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36106) |
 | [Saronic](https://internscout.org/internships/at/saronic/) | Mechanical Engineer Intern (Summer 2027) | Austin, TX +1 |  | Sep 9 | [Apply](https://jobs.ashbyhq.com/saronic/f52ae6eb-7eba-4c64-97c7-57e2a234e088/application) |
-| [Saronic](https://internscout.org/internships/at/saronic/) | Manufacturing Engineer Intern (Summer 2027) | Franklin, LA +3 |  | Sep 9 | [Apply](https://jobs.ashbyhq.com/saronic/2b037fca-754c-4077-b224-eb35cf2b2b97/application) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

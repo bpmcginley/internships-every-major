@@ -1,6 +1,6 @@
 # Urban Planning: Summer 2027 Internships
 
-61 open Summer 2027 urban planning roles, newest first (all 61). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 115 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+61 open Summer 2027 urban planning roles, newest first (all 61). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 103 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [HNTB](https://internscout.org/internships/at/hntb/) | GIS Intern - Summer 2027 | Nashville, TN (City Center) +1 |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Nashville-TN-City-Center/GIS-Intern---Summer-2027_R-31562-2) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Transit Planning Intern (Summer 2027) | Houston, TX (Fannin) |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Houston-TX-Fannin/Transit-Planning-Intern--Summer-2027-_R-31473) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Transportation Planning Intern – Summer 2027 | New York, NY |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/New-York-NY/Transportation-Planning-Intern---Summer-2027_R-31830-1) |
-| [HNTB](https://internscout.org/internships/at/hntb/) | Planning Intern - Summer 2027 | Chicago, IL | \$23.18 - \$34.76 | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Chicago-IL/Planning-Intern---Summer-2027_R-31365) |
+| [HNTB](https://internscout.org/internships/at/hntb/) | Planning Intern - Summer 2027 | Chicago, IL |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Chicago-IL/Planning-Intern---Summer-2027_R-31365) |
 | [AES](https://internscout.org/internships/at/aes/) | Investment Planning Intern - Summer 2027 | Dayton, OH |  | Oct 24 | [Apply](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/Investment-Planning-Intern---Summer-2027_R1064784) |
 | Emerson College | Campus Planning Intern | Boston, MA | \$25 per hour | Oct 17 | [Apply](https://emerson.wd5.myworkdayjobs.com/Emerson_College_Staff/job/Boston-Campus/Campus-Planning-Intern_JR008645) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Product Planning Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America +1 |  | Oct 8 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Product-Planning-Intern---Summer-2027---Franklin--TN_R00214297) |

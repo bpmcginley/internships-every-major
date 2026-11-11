@@ -1,6 +1,6 @@
 # Physics: Summer 2027 Internships
 
-29 open Summer 2027 physics roles, newest first (all 29). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 101 physics internships on InternScout](https://internscout.org/internships/physics/)
+29 open Summer 2027 physics roles, newest first (all 29). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 102 physics internships on InternScout](https://internscout.org/internships/physics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

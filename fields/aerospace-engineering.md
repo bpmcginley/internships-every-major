@@ -1,6 +1,6 @@
 # Aerospace Engineering: Summer 2027 Internships
 
-37 open Summer 2027 aerospace engineering roles, newest first (all 37). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 69 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
+37 open Summer 2027 aerospace engineering roles, newest first (all 37). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 69 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

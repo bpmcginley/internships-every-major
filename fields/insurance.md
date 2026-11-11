@@ -1,6 +1,6 @@
 # Insurance: Summer 2027 Internships
 
-102 open Summer 2027 insurance roles, newest first (all 102). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 189 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+102 open Summer 2027 insurance roles, newest first (all 102). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 188 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

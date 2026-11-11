@@ -1,19 +1,20 @@
 # Design: Summer 2027 Internships
 
-82 open Summer 2027 design roles, newest first (all 82). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 198 design internships on InternScout](https://internscout.org/internships/design/)
+83 open Summer 2027 design roles, newest first (all 83). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 200 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Notion](https://internscout.org/internships/at/notion/) | Product Design Intern (Summer 2027) | New York, New York +1 | \$57/hr | Nov 10 | [Apply](https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9/application) |
+| [Addepar](https://internscout.org/internships/at/addepar/) | Design Intern - Summer 2027 | New York, NY | Paid | Nov 10 | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8927595002) |
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | Industrial Design Engineering Intern - Summer 2027 | Towson, MD, United States | \$38,600.00 - \$62,200.00 | Nov 10 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern---Summer-2027_REQ-1000052666) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Learning Solutions Designer (Reston, VA) | Reston, VA | \$23/hour | Nov 9 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Learning-Solutions-Designer--Reston--VA-_R2603779) |
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | Engineering Intern, Industrial Design 3D Surfacing - Summer 2027 | Valley City, OH, United States | \$22.00- \$27.00 per hour | Nov 9 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Intern--Industrial-Design-3D-Surfacing---Summer-2027_REQ-1000052712) |
+| [Zillow](https://internscout.org/internships/at/zillow/) | Product Design Intern | Seattle-WA-2nd Ave | \$104,000.00 - \$166,000.00 annually | Nov 7 | [Apply](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Product-Design-Intern_P751613) |
 | AFL | Web Design/Development Intern | Duncan, SC |  | Nov 6 | [Apply](https://go.vansh.nyc/1mq) |
 | [Tinder](https://internscout.org/internships/at/tinder/) | User Experience Research Intern | Los Angeles, California |  | Nov 6 | [Apply](https://jobs.lever.co/matchgroup/e2747122-5e35-4230-9d54-8d274dd0a713/apply) |
 | [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Interior Design Projects | Duluth, GA |  | Nov 6 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Duluth-GA/Summer-2027-Internship--Interior-Design-Projects_R2026-2431) |
 | [S&P Global](https://internscout.org/internships/at/s-p-global/) | Summer Intern, Business Content Design & Production | Massachusetts, US | \$20 to \$25 | Nov 6 | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Massachusetts-US/Summer-Intern--Business-Content-Design---Production_332657) |
 | [Uline](https://internscout.org/internships/at/uline/) | UX Design Internship - Summer 2027 | Pleasant Prairie, WI +4 | Paid | Nov 6 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/UX-Internship---Summer-2027_R268775) |
-| [Zillow](https://internscout.org/internships/at/zillow/) | Product Design Intern | Seattle-WA-2nd Ave | \$104,000.00 - \$166,000.00 annually | Nov 6 | [Apply](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Product-Design-Intern_P751613) |
 | [Duke Energy](https://internscout.org/internships/at/duke-energy/) | UX Design Internship – Summer 2027 | Charlotte, NC |  | Nov 5 | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/UX-Design-Internship---Summer-2027_R41850) |
 | [Pattern](https://internscout.org/internships/at/pattern/) | UX Design Intern - Summer 2027 | Lehi, UT, US |  | Nov 4 | [Apply](https://jobs.lever.co/pattern/c125d285-71d1-4af5-9ed2-b1f8884f2a2d/apply) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Summer 2027: Industrial Design Intern (May through August) | Needham, MA, United States |  | Nov 4 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720355006) |

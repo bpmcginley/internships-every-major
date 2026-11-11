@@ -1,14 +1,14 @@
 # Government and Public Policy: Summer 2027 Internships
 
-65 open Summer 2027 government and public policy roles, newest first (all 65). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 282 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+65 open Summer 2027 government and public policy roles, newest first (all 65). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 271 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Supervision & Regulation (ePartners) | Atlanta, GA |  | Nov 10 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--ePartners-_R-0000033868) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Supervision & Regulation (Professional Development Group) | Atlanta, GA |  | Nov 10 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Professional-Development-Group-_R-0000033864) |
+| [Vizient](https://internscout.org/internships/at/vizient/) | 2027 Summer Internship – Public Policy & Government Relations | Washington, DC 20001 | \$25 per hour | Nov 10 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Washington-DC-20001/XMLNAME-2027-Summer-Internship---Public-Policy---Government-Relations_36153R) |
 | Dept Of Design & Construction | College Aide (CR) | New York, NY | \$17.5 - \$21.9 Hour | Nov 9 | [Apply](https://cityjobs.nyc.gov/job/807371) |
 | Dept Of Design & Construction | College Aide | New York, NY | \$17.5 - \$20.3 Hour | Nov 9 | [Apply](https://cityjobs.nyc.gov/job/806590) |
-| [Vizient](https://internscout.org/internships/at/vizient/) | 2027 Summer Internship – Public Policy & Government Relations | Washington, DC 20001 | \$25 per hour | Nov 9 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Washington-DC-20001/XMLNAME-2027-Summer-Internship---Public-Policy---Government-Relations_36153R) |
 | Securities and Exchange Commission | Summer 2027 SEC Scholars Business Program- RO (Volunteer) | Los Angeles, California +9 |  | Nov 9 | [Apply](https://www.usajobs.gov:443/job/891900000) |
 | Securities and Exchange Commission | Summer 2027 SEC Scholars Legal Program- RO (1L, 2L, 3L, or LL.M.) (Volunteer) | Los Angeles, California +9 |  | Nov 9 | [Apply](https://www.usajobs.gov:443/job/891904500) |
 | Securities and Exchange Commission | Summer 2027 SEC Scholars Legal Program- HQ (1L, 2L, 3L, or LL.M.) (Volunteer) | Washington, District of Columbia |  | Nov 9 | [Apply](https://www.usajobs.gov:443/job/891903400) |

@@ -1,6 +1,6 @@
 # Electrical Engineering: Summer 2027 Internships
 
-244 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 244). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 576 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+244 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 244). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 566 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Electrical Engineering Intern - Energy Storage (Summer 2027) | Delaware, OH |  | Aug 12 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279271) |
 | [Mortenson](https://internscout.org/internships/at/mortenson/) | Electrical Engineering Intern – Summer 2027 | United States | Paid | Aug 10 | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23239) |
 | [Kairos Power](https://internscout.org/internships/at/kairos-power/) | Electrical Engineering Internship - Summer 2027 | Alameda, CA +2 | Paid | Jul 23 | [Apply](https://job-boards.greenhouse.io/kairospower/jobs/6123657004) |
-| [Anduril](https://internscout.org/internships/at/anduril/) | Electrical Engineer Intern | Boston, MA +8 |  | Jun 11 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007) |
+| [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States +17 | Paid | Jun 11 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
 | [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering (Pro Audio Circuitry) Intern | Niles, IL | \$23-\$43 per hour | Nov 10, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5017/electrical-engineering-%28pro-audio-circuitry%29-intern/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering Intern (Digital Circuitry) | Niles, IL | \$23-\$43 per hour | Nov 10, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5013/electrical-engineering-intern-%28digital-circuitry%29/job) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Intern Electrical Engineer - Summer 2027 | Kansas City, MO +1 |  | Nov 7 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/Intern-Electrical-Engineer---Summer-2027_R-31347-1) |

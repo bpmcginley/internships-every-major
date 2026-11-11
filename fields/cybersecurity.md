@@ -1,14 +1,14 @@
 # Cybersecurity: Summer 2027 Internships
 
-205 open Summer 2027 cybersecurity roles, newest first (the 200 newest of 205). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 353 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+205 open Summer 2027 cybersecurity roles, newest first (the 200 newest of 205). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 352 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Security | Lincolnshire, Illinois +1 | \$27.00 | Nov 11 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Security_JR103608) |
 | Global Payments | CyberSecurity Intern | Columbus, GA |  | Nov 10 | [Apply](https://go.vansh.nyc/1s5) |
 | OneAmerica Financial | Cyber Security Intern | Indianapolis, IN |  | Nov 10 | [Apply](https://go.vansh.nyc/1qx) |
 | [General Dynamics Mission Systems, Inc.](https://internscout.org/internships/at/general-dynamics-mission-systems/) | Systems Intern, Cybersecurity and Linux Administration | San Antonio, TX |  | Nov 10 | [Apply](https://go.vansh.nyc/1rI) |
 | [Aerospace Corporation](https://internscout.org/internships/at/the-aerospace-corporation/) | Defensive Cyber Operations Grad Intern | El Segundo, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1pU) |
-| [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Security | Lincolnshire, Illinois +1 | \$27.00 | Nov 10 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Security_JR103608) |
 | Steel Dynamics | Information Security Intern | Fort Wayne, IN |  | Nov 10 | [Apply](https://go.vansh.nyc/1pP) |
 | i3 | Cybersecurity Intern | Huntsville, AL |  | Nov 9 | [Apply](https://go.vansh.nyc/1pd) |
 | Citizens Energy Group | IT Security Intern | Indianapolis, IN |  | Nov 9 | [Apply](https://go.vansh.nyc/1oR) |
@@ -56,7 +56,7 @@
 | ID.me | Summer Intern 2027 - Product Security Engineering Intern | Mountain View, CA | Paid | Nov 2 | [Apply](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8076649003) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Supervision & Regulation (Cybersecurity) | Atlanta, GA |  | Nov 2 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Cybersecurity-_R-0000033866) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Offensive Security Intern | Florida - Deerfield Beach |  | Nov 2 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Offensive-Security-Intern_JR105164) |
-| [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | GDIT Summer Internship Program – Summer 2027 Cybersecurity Associate Internship | Bossier City, LA |  | Nov 2 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2) |
+| [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | GDIT Summer Internship Program – Summer 2027 Cybersecurity Associate Internship | Bossier City, LA | \$19.55 - \$26.45 | Nov 2 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Security Software Engineer Project Intern, Network Security | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/14B) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Machine Learning Engineer Project Intern, Security-Data | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/14A) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Software Engineer Project Intern, Security-Data | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/14C) |

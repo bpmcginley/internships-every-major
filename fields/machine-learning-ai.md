@@ -1,20 +1,21 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-578 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 578). **Updated November 10, 2026.** [Back to every major](../README.md) · [See all 1,218 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+578 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 578). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,220 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Hook Music](https://internscout.org/internships/at/hook-music/) | Machine Learning Engineering Intern, Recommendation Systems | Remote +1 |  | Nov 10 | [Apply](https://go.vansh.nyc/1sf) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | AI/ML Business Intelligence Development Intern | Bossier City, LA |  | Nov 10 | [Apply](https://go.vansh.nyc/1s6) |
 | [SRC, Inc](https://internscout.org/internships/at/src-inc/) | Machine Learning Engineer Intern | United States |  | Nov 10 | [Apply](https://go.vansh.nyc/1rU) |
 | [Toyota Research Institute](https://internscout.org/internships/at/toyota-research-institute/) | Human-Centered AI Research Intern, Causal Reasoning Models (Summer 2027) | Los Altos, CA |  | Nov 10 | [Apply](https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37/apply) |
 | SigIQ.ai | Machine Learning Intern/Resident | Berkeley, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1rw) |
-| Addepar | AI Engineering Intern | New York, NY |  | Nov 10 | [Apply](https://go.vansh.nyc/1rX) |
+| [Addepar](https://internscout.org/internships/at/addepar/) | AI Engineering Intern - Summer 2027 | New York, NY +1 | Paid | Nov 10 | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8927543002) |
 | Johns Hopkins APL | AI & Data Science Intern, Analytic Capabilities | Laurel, MD |  | Nov 10 | [Apply](https://go.vansh.nyc/1pW) |
 | Kiewit | Machine Learning Intern, Kiewit Data Services | Omaha, NE |  | Nov 10 | [Apply](https://go.vansh.nyc/1pX) |
 | [onsemi](https://internscout.org/internships/at/onsemi/) | AI & Data Analytics Intern | Scottsdale, AZ |  | Nov 10 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010) |
-| [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - Applied AI Strategy & Research | California - San Francisco | \$47 - \$57 per hour | Nov 10 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Applied-AI-Strategy---Research_JR367516-1) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | GDIT Summer Internship Program – Summer 2027 AI/ML Business Intelligence Development Internship | Bossier City, LA | \$19.55 - \$26.45 | Nov 10 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935) |
 | [V2X](https://internscout.org/internships/at/v2x/) | AI Engineering Intern - Junior | Indianapolis, Indiana +1 | Paid | Nov 10 | [Apply](https://careers.gov2x.com/jobs/63949) |
+| [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - Applied AI Strategy & Research | California - San Francisco | \$47 - \$57 per hour | Nov 10 | [Apply](https://salesforce.wd12.myworkdayjobs.com/futureforce_newgradroles/job/California---San-Francisco/Summer-2027-Intern---Applied-AI-Strategy---Research_JR367516-3) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Machine Learning Engineer, Embodied AI | Sunnyvale, California, United States of America +1 | \$9,600-\$11,800 per month | Nov 10 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034) |
 | [Jabil](https://internscout.org/internships/at/jabil/) | AI Agent Developer Intern (Supply Chain IT - AI & Enablement) | St. Petersburg/Tampa, FL +2 |  | Nov 10 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054) |
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - AI Research Incubator | California - Palo Alto +1 | \$54 - \$70 per hour | Nov 10 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Foundry-Incubation_JR366655) |
@@ -203,7 +204,6 @@
 | [V2X](https://internscout.org/internships/at/v2x/) | Artificial Intelligence Intern 2027 | Indianapolis, Indiana +1 | Paid | Oct 29 | [Apply](https://careers.gov2x.com/jobs/62843) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - AI Adoption (Raleigh, NC) | Raleigh, North Carolina | \$18.70/hour | Oct 29 | [Apply](https://firstcitizens.jibeapply.com/jobs/35923) |
 | [Cigna Group](https://internscout.org/internships/at/cigna-group/) | Legal Operations Financial, Data & AI Analytics Intern | St. Louis, MO | \$ 24.00-\$25.00 | Oct 29 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Legal-Operations-Financial--Data---AI-Analytics-Intern_25016386) |
-| [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Deep Learning Research Intern - Interim Engineering Intern - Systems | Markham, ON, Canada +1 |  | Oct 28 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721828828) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
