@@ -1,6 +1,6 @@
 # Government and Public Policy: Summer 2027 Internships
 
-64 open Summer 2027 government and public policy roles, newest first (all 64). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 283 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+65 open Summer 2027 government and public policy roles, newest first (all 65). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 283 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [CareBridge](https://internscout.org/internships/at/carebridge/) | Public Policy Intern - Summer 2027 | DC-WASHINGTON, 1001 PENNSYLVANIA AVE NW, STE 710 | \$19.78 to \$28.26 | Oct 27 | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/DC-WASHINGTON-1001-PENNSYLVANIA-AVE-NW-STE-710/Public-Policy-Intern---Summer-2027_JR202078) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Local Government, Politics Intern - Summer 2027 | Dallas, TX, United States |  | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466421009) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Public Policy/Political Science (Rosemead) | Rosemead, CA |  | Oct 25 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Public-PolicyPolitical-Science-%28Rosemead%29-CA-91770-3714/1424642000/) |
+| [LPL Financial Holdings](https://internscout.org/internships/at/lpl-financial-holdings/) | Intern 2027 - Government Relations | Washington, DC | Paid | Oct 22 | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Washington-DC/Intern-2027---Government-Relations_R-054560) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Legislative and Regulatory Department Undergraduate Intern | Camp Hill PA, 17011, Center Street Building 1B |  | Oct 20 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Camp-Hill-PA-17011-Center-Street-Building-1B/Summer-2027-Legislative-and-Regulatory-Department-Undergraduate-Intern_J286835) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Public Policy (Lansing) | Detroit, MI |  | Oct 19 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14981) |
 | National Institute of Standards and Technology | Summer Undergraduate Research Fellowship (SURF) Program - Boulder, CO (STEM Fields) | Boulder, Colorado | \$6390 - \$7810 | Oct 16 | [Apply](https://www.usajobs.gov:443/job/889006800) |

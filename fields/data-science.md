@@ -1,6 +1,6 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-644 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 644). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,148 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+643 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 643). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,148 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -129,7 +129,6 @@
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Analytics Web Systems Developer Intern | Lansing, MI |  | Nov 3 | [Apply](https://go.vansh.nyc/1c4) |
 | Maricopa Association of Governments | Socioeconomic Data Intern | Phoenix, AZ |  | Nov 3 | [Apply](https://go.vansh.nyc/1dx) |
 | [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program - Patient Data Learning - Co-op | USA - Massachusetts - Cambridge (320 Bent Street) +1 | \$39,908 - \$111,111 | Nov 3 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Patient-Data-Learning---Co-op_R424526) |
-| [Cadence Design Systems](https://internscout.org/internships/at/cadence-design-systems/) | CST Intern - Data Center GTM Intern | SAN JOSE | \$28.60 to \$53.12 | Nov 3 | [Apply](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/CST-Intern---Data-Center-GTM-Intern_R57099-1) |
 | [Cadence](https://internscout.org/internships/at/cadence/) | CST Intern - Data Center GTM Intern | SAN JOSE | \$28.60 to \$53.12 | Nov 3 | [Apply](https://cadence.wd1.myworkdayjobs.com/external_careers/job/SAN-JOSE/CST-Intern---Data-Center-GTM-Intern_R57099-2) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Summer 2027 Data Intelligence/Technical Program Management Intern- Master's (Santa Clara, CA) | Santa Clara,CA +1 |  | Nov 3 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Intelligence-Technical-Program-Management-Intern--Master-s--Santa-Clara--CA-_R2627705) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | University - 2027 Summer Games Data Scientist Intern - Royal Oak, MI | Detroit, MI |  | Nov 3 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783) |
@@ -204,6 +203,7 @@
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | University - 2027 Summer Games Data Scientist Intern - Lexington, MA | Lexington, MA |  | Oct 29 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Data-Scientist-Intern---Lexington--MA_R0252275) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Digital Assurance & Transparency (DAT) - Data - Intern - Summer 2027 | IL-Rosemont +6 | \$29.25 - \$48.00 | Oct 29 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Digital-Assurance---Transparency--DAT----Data---Intern---Summer-2027_756926WD) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Summer 2027 Data Scientist Intern -Bachelor's (Austin, TX) | Austin,TX +1 | Paid | Oct 29 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409) |
+| [CVS Health](https://internscout.org/internships/at/cvs-health/) | Innovation & Technology Internship - Tech Strategy Ops & Business Analytics Summer 2027 (Undergrad) | CT - Hartford +3 | \$35.00-\$38.50/hr | Oct 29 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Innovation---Technology-Internship---Tech-Strategy-Ops---Business-Analytics-Summer-2027--Undergrad-_R1080789-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

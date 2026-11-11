@@ -6,7 +6,7 @@
 
 Explore 54 fields at 1,349 employers in the US and Canada. Free to browse. Apply directly on employer sites.
 
-**Updated November 11, 2026.** Other start terms, or roles near you? [Search all 19,921 open roles on InternScout](https://internscout.org), free, no account.
+**Updated November 11, 2026.** Other start terms, or roles near you? [Search all 19,920 open roles on InternScout](https://internscout.org), free, no account.
 
 Star this repository to follow updates.
 
@@ -14,7 +14,7 @@ Star this repository to follow updates.
 
 ## Contents
 
-- [New this week](#new-this-week) (951)
+- [New this week](#new-this-week) (952)
 - [About this list](#about-this-list)
 
 | Field | Summer 2027 roles | Full list |
@@ -32,7 +32,7 @@ Star this repository to follow updates.
 | [Communications](#communications) | 60 | [fields/communications.md](fields/communications.md) |
 | [Consulting](#consulting) | 122 | [fields/consulting.md](fields/consulting.md) |
 | [Cybersecurity](#cybersecurity) | 207 | [fields/cybersecurity.md](fields/cybersecurity.md) |
-| [Data Science and Analytics](#data-science-and-analytics) | 644 | [fields/data-science.md](fields/data-science.md) |
+| [Data Science and Analytics](#data-science-and-analytics) | 643 | [fields/data-science.md](fields/data-science.md) |
 | [Design](#design) | 83 | [fields/design.md](fields/design.md) |
 | [Economics](#economics) | 27 | [fields/economics.md](fields/economics.md) |
 | [Education](#education) | 31 | [fields/education.md](fields/education.md) |
@@ -41,7 +41,7 @@ Star this repository to follow updates.
 | [Environmental Science and Engineering](#environmental-science-and-engineering) | 205 | [fields/environmental.md](fields/environmental.md) |
 | [Film](#film) | 6 | [fields/film.md](fields/film.md) |
 | [Finance](#finance) | 521 | [fields/finance.md](fields/finance.md) |
-| [Government and Public Policy](#government-and-public-policy) | 64 | [fields/government.md](fields/government.md) |
+| [Government and Public Policy](#government-and-public-policy) | 65 | [fields/government.md](fields/government.md) |
 | [Hardware Engineering](#hardware-engineering) | 309 | [fields/hardware-engineering.md](fields/hardware-engineering.md) |
 | [Health](#health) | 59 | [fields/health.md](fields/health.md) |
 | [Hospitality](#hospitality) | 34 | [fields/hospitality.md](fields/hospitality.md) |
@@ -76,7 +76,7 @@ Star this repository to follow updates.
 
 ## New this week
 
-951 Summer 2027 roles found in the last 7 days; the 50 newest are below. [Every role found this week, of any start term](https://internscout.org/internships/new/).
+952 Summer 2027 roles found in the last 7 days; the 50 newest are below. [Every role found this week, of any start term](https://internscout.org/internships/new/).
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -235,7 +235,7 @@ Star this repository to follow updates.
 
 ## Architecture
 
-59 Summer 2027 roles, the 30 newest below. [One page with all of them](fields/architecture.md) · [See all 114 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+59 Summer 2027 roles, the 30 newest below. [One page with all of them](fields/architecture.md) · [See all 113 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -363,7 +363,7 @@ Star this repository to follow updates.
 
 ## Chemical Engineering
 
-64 Summer 2027 roles, the 30 newest below. [One page with all of them](fields/chemical-engineering.md) · [See all 150 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+64 Summer 2027 roles, the 30 newest below. [One page with all of them](fields/chemical-engineering.md) · [See all 149 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -591,7 +591,7 @@ Star this repository to follow updates.
 
 ## Data Science and Analytics
 
-644 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/data-science.md) · [See all 1,148 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+643 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/data-science.md) · [See all 1,148 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -783,7 +783,7 @@ Star this repository to follow updates.
 
 ## Engineering
 
-685 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/engineering.md) · [See all 1,719 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+685 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/engineering.md) · [See all 1,720 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -915,7 +915,7 @@ Star this repository to follow updates.
 
 ## Government and Public Policy
 
-64 Summer 2027 roles, the 30 newest below. [One page with all of them](fields/government.md) · [See all 283 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+65 Summer 2027 roles, the 30 newest below. [One page with all of them](fields/government.md) · [See all 283 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -993,7 +993,7 @@ Star this repository to follow updates.
 
 ## Health
 
-59 Summer 2027 roles, the 30 newest below. [One page with all of them](fields/health.md) · [See all 300 health internships on InternScout](https://internscout.org/internships/health/)
+59 Summer 2027 roles, the 30 newest below. [One page with all of them](fields/health.md) · [See all 301 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -1579,7 +1579,7 @@ Star this repository to follow updates.
 
 ## Operations
 
-405 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/operations.md) · [See all 993 operations internships on InternScout](https://internscout.org/internships/operations/)
+405 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/operations.md) · [See all 992 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
