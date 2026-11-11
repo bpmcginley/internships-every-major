@@ -1,6 +1,6 @@
 # Engineering: Summer 2027 Internships
 
-683 open Summer 2027 engineering roles, newest first (the 200 newest of 683). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,717 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+683 open Summer 2027 engineering roles, newest first (the 200 newest of 683). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,718 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -9,8 +9,6 @@
 | [Walmart](https://internscout.org/internships/at/walmart/) | Summer 2027 Intern: Automation Engineer | (USA) Change Building AR Bentonville Home Office | \$21.00 - \$40.00 | Nov 11 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Change-Building-AR-Bentonville-Home-Office/Summer-2027-Intern--Automation-Engineer_R-2630033) |
 | [Granite Construction](https://internscout.org/internships/at/granite-construction/) | Engineer Intern - Summer 2027 | The Dalles, Oregon | \$24.00 | Nov 11 | [Apply](https://granite.wd1.myworkdayjobs.com/careers/job/The-Dalles-Oregon/Engineer-Intern---Summer-2027_R0000008459) |
 | [Entegris](https://internscout.org/internships/at/entegris/) | Quality Engineering Intern | Franklin, MA | \$20-\$30/hour | Nov 11 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Franklin-MA/Quality-Engineering-Intern_REQ-15850) |
-| [Entegris](https://internscout.org/internships/at/entegris/) | New Product Introduction Engineering Intern | Colorado Springs, CO | \$20-\$30/hour | Nov 11 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Colorado-Springs-CO/New-Product-Introduction-Engineering-Intern_REQ-15880) |
-| [Entegris](https://internscout.org/internships/at/entegris/) | Equipment Engineering Intern | Billerica, MA | \$20-\$30/hour | Nov 11 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Equipment-Engineering-Intern_REQ-15883) |
 | [ABB](https://internscout.org/internships/at/abb/) | Multiphysics & Engineering Intern- Summer 2027 | USA, NC +1 | \$20 - \$34 per hour | Nov 11 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Raleigh/Multiphysics---Engineering-Intern--Summer-2027_JR00048430) |
 | [Ensign-Bickford Aerospace & Defense Company](https://internscout.org/internships/at/ensign-bickford-aerospace-defense-company/) | Analytical Engineer Intern | Simsbury, CT |  | Nov 11 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Analytical-Engineer-Intern_REQ107843) |
 | [Entegris](https://internscout.org/internships/at/entegris/) | R&D Intern | Franklin, MA | \$20-\$30/hour | Nov 11 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Franklin-MA/R-D-Intern_REQ-15857-1) |
@@ -20,6 +18,7 @@
 | [Ensign-Bickford Aerospace & Defense Company](https://internscout.org/internships/at/ensign-bickford-aerospace-defense-company/) | Product Engineer Intern | Simsbury, CT | \$21 - \$28 per hour | Nov 11 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Product-Engineer-Intern_REQ107697) |
 | Renesas Electronics | Applications Engineer Intern | Morrisville, NC |  | Nov 10 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000160975701) |
 | [Hewlett Packard (HP)](https://internscout.org/internships/at/hewlett-packard-hp/) | Performance Engineering Co-op | Fort Collins, CO |  | Nov 10 | [Apply](https://go.vansh.nyc/1rR) |
+| [National Information Solutions Cooperative](https://internscout.org/internships/at/national-information-solutions-cooperative/) | Test Automation Intern | Lake Saint Louis, MO |  | Nov 10 | [Apply](https://go.vansh.nyc/1sM) |
 | Renesas Electronics | Applications Engineering Intern | San Jose, CA |  | Nov 10 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000160890129) |
 | [National Information Solutions Cooperative (NISC)](https://internscout.org/internships/at/national-information-solutions-cooperative-nisc/) | Intern - Test Automation | Lake Saint Louis, MO |  | Nov 10 | [Apply](https://job-boards.greenhouse.io/nisc/jobs/8372340) |
 | [Rambus](https://internscout.org/internships/at/rambus/) | Product Engineer Intern | San Jose, CA |  | Nov 10 | [Apply](https://careers-rambus.icims.com/jobs/23119/job?mobile=true&needsRedirect=false) |
@@ -204,6 +203,7 @@
 | [Peak Energy](https://internscout.org/internships/at/peak-energy/) | Test Engineer Intern, ESS (Summer 2027) | Burlingame, California | \$35/hour | Oct 22 | [Apply](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272578007&gh_jid=5272578007) |
 | [Peak Energy](https://internscout.org/internships/at/peak-energy/) | Systems Integration and Test Engineer Intern (Summer 2027) | Burlingame, California +1 | \$35/hr | Oct 22 | [Apply](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272567007&gh_jid=5272567007) |
 | [Aptiv](https://internscout.org/internships/at/aptiv/) | Linux Engineering Intern | Kanata, Canada |  | Oct 22 | [Apply](https://go.vansh.nyc/eM) |
+| [Ricoh](https://internscout.org/internships/at/ricoh/) | SW Engineer Intern | Boulder, CO |  | Oct 22 | [Apply](https://go.vansh.nyc/Vm) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

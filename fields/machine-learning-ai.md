@@ -1,6 +1,6 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-579 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 579). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,221 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+577 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 577). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,218 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

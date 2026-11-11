@@ -1,6 +1,6 @@
 # Physics: Summer 2027 Internships
 
-29 open Summer 2027 physics roles, newest first (all 29). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 102 physics internships on InternScout](https://internscout.org/internships/physics/)
+28 open Summer 2027 physics roles, newest first (all 28). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 101 physics internships on InternScout](https://internscout.org/internships/physics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -13,7 +13,6 @@
 | [Keysight Technologies](https://internscout.org/internships/at/keysight-technologies/) | Intern - Optics Customer Success | Sacramento, California +3 | \$37.10 | Nov 10 | [Apply](https://jobs.keysight.com/jobs/55188) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Electro-Optic Intern (Summer 2027)(Onsite) | Tucson, AZ | Paid | Nov 10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9070--9070-S-Rita-Rd--BLDG-9070/Electro-Optic-Intern--Summer-2027--Onsite-_01877708) |
 | [Corning](https://internscout.org/internships/at/corning/) | R&D Intern, Optical Communications Development - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Nov 6 | [Apply](https://corningjobs.corning.com/job/Corning-R&D-Intern%2C-Optical-Communications-Development-Summer-2027-NY-14831/1448753800/) |
-| [AMD](https://internscout.org/internships/at/amd/) | Masters High-Speed SerDes and Optical Interconnect Engineering Intern | Santa Clara, CA |  | Nov 5 | [Apply](https://careers.amd.com/jobs/91893?icims=1&lang=en-us) |
 | Metalenz | Optical Metrology Intern Summer 2027 | Boston, MA +1 | \$5,500 - \$8,500 per month | Nov 5 | [Apply](https://jobs.ashbyhq.com/metalenz/ecc0e9f9-e83e-4d72-abff-0bf6651850d4/application) |
 | [Draper](https://internscout.org/internships/at/draper/) | Optics-Physics Sensor Engineering Intern (Summer 2027) | Cambridge, MA | \$20.00 - \$45.00 | Nov 5 | [Apply](https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Intern--Summer-2027-_JR003094) |
 | [Draper](https://internscout.org/internships/at/draper/) | Optics-Physics Sensor Engineer Intern | Cambridge, MA |  | Nov 4 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Intern--Summer-2027-_JR003094) |

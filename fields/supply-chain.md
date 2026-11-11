@@ -1,12 +1,13 @@
 # Supply Chain: Summer 2027 Internships
 
-215 open Summer 2027 supply chain roles, newest first (the 200 newest of 215). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 459 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
+216 open Summer 2027 supply chain roles, newest first (the 200 newest of 216). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 460 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Oshkosh](https://internscout.org/internships/at/oshkosh/) | MRO Supply Chain Intern - Summer 2027 | Hagerstown, Maryland, United States | \$18.00 - \$37.00 | Nov 11 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/MRO-Supply-Chain-Intern---Summer-2027_R49938) |
 | [Jabil](https://internscout.org/internships/at/jabil/) | AI Agent Developer Intern (Supply Chain IT - AI & Enablement) | St. Petersburg/Tampa, FL +2 |  | Nov 11 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054) |
 | [Uline](https://internscout.org/internships/at/uline/) | Warehouse Management Internship - Summer 2027 | Reno, NV +3 | \$21.50 per hour | Nov 11 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Reno-NV/Warehouse-Management-Internship---Summer-2027_R268534) |
+| [Coinbase](https://internscout.org/internships/at/coinbase/) | Strategic Sourcing Intern | Hybrid - New York, NY | Paid | Nov 10 | [Apply](https://www.coinbase.com/careers/positions/8376084?gh_jid=8376084) |
 | [Formlabs](https://internscout.org/internships/at/formlabs/) | Global Sourcing Intern (Summer 2027) | Somerville, MA | \$1,575 | Nov 10 | [Apply](https://careers.formlabs.com/job/8161800/apply/?gh_jid=8161800) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Global Supply Chain & Sourcing Intern (Summer 2027) | USA - New York - Malta | \$20.00 - \$40.00 | Nov 10 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Global-Supply-Chain---Sourcing-Intern--Summer-2027-_JR-2604471) |
 | [Vizient](https://internscout.org/internships/at/vizient/) | 2027 Summer Internship – Corporate Procurement | Irving, TX 75062 Vizient Corporate HQ | \$25 per hour | Nov 10 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Corporate-Procurement_36214R) |
@@ -203,7 +204,6 @@
 | [Church & Dwight](https://internscout.org/internships/at/church-dwight/) | 2027 Undergraduate Global Supply Chain Co-Op | Ewing, NJ |  | Sep 18 | [Apply](https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/XMLNAME-2027-Undergraduate-Global-Supply-Chain-Co-Op_R2026-15617) |
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | UPS Supply Chain Solutions 2027 Summer Intern | US - UPS CORPORATE OFFICES (GACOR) |  | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Supply-Chain-Solutions-2027-Summer-Intern_R26030498) |
 | [Pentair](https://internscout.org/internships/at/pentair/) | Supply Chain & Operations Leadership Development Internship Program - Summer 2027 | Golden Valley, MN +10 | \$28.00/ hour | Sep 18 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Supply-Chain---Operations-Leadership-Development-Internship-Program---Summer-2027_R23712) |
-| [Ingredion](https://internscout.org/internships/at/ingredion/) | Global Supply Chain Data Science Intern | Westchester, IL | \$20-23hour | Sep 18 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Supply-Chain-Data-Science-Intern_Req-40226-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

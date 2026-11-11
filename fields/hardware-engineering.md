@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-313 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 313). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 827 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+311 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 311). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 827 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -54,8 +54,6 @@
 | [Marvell](https://internscout.org/internships/at/marvell/) | Hardware Signal Integrity Intern | Santa Clara, CA |  | Nov 3 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Hardware-Signal-Integrity-Intern--MS---Summer-2027_2603877) |
 | [KLA Corporation](https://internscout.org/internships/at/kla/) | Mechatronics Summer Intern | Ann Arbor, MI | \$27.00 - \$38.50 per hour | Nov 3 | [Apply](https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Mechatronics-Summer-Intern_2641557-3) |
 | [Draper](https://internscout.org/internships/at/draper/) | Analog ASIC Design Intern (Summer 2027) | Cambridge, MA | \$20.00 - \$45.00 | Nov 3 | [Apply](https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Analog-ASIC-Design-Intern--Summer-2027-_JR003085) |
-| Resideo | Firmware Engineer Intern | Aurora, IL |  | Nov 2 | [Apply](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19813) |
-| Resideo | Firmware Engineer Intern | Golden Valley, MN |  | Nov 2 | [Apply](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19814) |
 | Shield | Embedded Firmware Intern | Dallas, TX |  | Nov 2 | [Apply](https://go.vansh.nyc/1bJ) |
 | [Zoox](https://internscout.org/internships/at/zoox/) | Hardware Engineer Intern, Vehicle Systems \[Summer 2027\] | Foster City, CA |  | Nov 2 | [Apply](https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b/apply) |
 | [Zoox](https://internscout.org/internships/at/zoox/) | Hardware Engineer Intern, Vehicle Development \[Summer 2027\] | Foster City, CA |  | Nov 2 | [Apply](https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62/apply) |
@@ -204,6 +202,8 @@
 | [Analog Devices](https://internscout.org/internships/at/analog-devices/) | Embedded Software Engineer Intern | Toronto, Canada +1 |  | Sep 23 | [Apply](https://go.vansh.nyc/Jm) |
 | Two Sigma | Hardware Engineering Intern | NYC +1 |  | Sep 22 | [Apply](https://twosigma.avature.net/careers/JobDetail/14289) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Analog Layout Intern - BS | Irvine, CA +1 |  | Sep 22 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Analog-Layout-Intern--BS---Summer-2027_2604735) |
+| [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Embedded Engineering Internship - Summer 2027 | San Diego, CA +2 |  | Sep 21 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720737089) |
+| [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Hardware (CPU, GPU, SoC, Digital Design, DV) Engineering Internship – Summer 2027 | San Diego, CA +4 |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720740649) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
