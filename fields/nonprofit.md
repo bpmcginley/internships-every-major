@@ -1,6 +1,6 @@
 # Nonprofit: Summer 2027 Internships
 
-24 open Summer 2027 nonprofit roles, newest first (all 24). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 101 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
+24 open Summer 2027 nonprofit roles, newest first (all 24). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 102 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

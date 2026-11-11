@@ -1,9 +1,10 @@
 # Hardware Engineering: Summer 2027 Internships
 
-318 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 318). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 835 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+307 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 307). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 822 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | AI Processor Hardware/Software Integration Engineer Intern (Summer 2027) | USA - Texas - Richardson +1 |  | Nov 11 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer-Intern--Summer-2027-_JR-2604028) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Embedded Software Developer, Network/Payload Intern (Summer 2027) | San Francisco +2 | \$29.00 per hour | Nov 10 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704569006) |
 | [General Dynamics Mission Systems, Inc.](https://internscout.org/internships/at/general-dynamics-mission-systems/) | ASIC/FPGA Engineer Intern | Scottsdale, AZ |  | Nov 10 | [Apply](https://go.vansh.nyc/1rJ) |
 | Ixana | Embedded Hardware Engineer Intern, FPGA Design | West Lafayette, IN |  | Nov 10 | [Apply](https://go.vansh.nyc/1qS) |
@@ -47,7 +48,6 @@
 | [Smith+Nephew](https://internscout.org/internships/at/smith-nephew/) | Intern Robotics Software Engineering | US - Pittsburgh, PA +1 |  | Nov 4 | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | Hardware Engineering Intern | Westford, MA |  | Nov 3 | [Apply](https://go.vansh.nyc/1ed) |
 | [Micron Technology](https://internscout.org/internships/at/micron-technology/) | SSD Firmware Intern, CICD | Longmont, CO |  | Nov 3 | [Apply](https://go.vansh.nyc/1d7) |
-| [Allegion](https://internscout.org/internships/at/allegion/) | Firmware Engineer Intern, Advanced Development | Indianapolis, IN |  | Nov 3 | [Apply](https://go.vansh.nyc/1c1) |
 | [Atoms](https://internscout.org/internships/at/atoms/) | Robotics Software Engineer Intern | Pittsburgh, PA |  | Nov 3 | [Apply](https://go.vansh.nyc/1qg) |
 | [General Dynamics Mission Systems](https://internscout.org/internships/at/general-dynamics-mission-systems/) | Electrical Engineering Intern, FPGA | Middletown, RI |  | Nov 3 | [Apply](https://go.vansh.nyc/1hW) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Hardware Signal Integrity Intern | Santa Clara, CA |  | Nov 3 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Hardware-Signal-Integrity-Intern--MS---Summer-2027_2603877) |

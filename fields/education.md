@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [University of Arkansas](https://internscout.org/internships/at/university-of-arkansas/) | Experiential Scholars Program (ESP) Intern | Little Rock, AR | \$12.50 | Nov 11 | [Apply](https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/Experiential-Scholars-Program--ESP--Intern_R0093730-1) |
 | Art of Problem Solving | Computer Science Curriculum Intern | San Diego, California, United States | \$30/hour | Nov 10 | [Apply](https://artofproblemsolving.com/careers/job/8199446003?gh_jid=8199446003) |
 | Art of Problem Solving | Math Curriculum Intern | San Diego, California, United States | \$30/hour | Nov 9 | [Apply](https://artofproblemsolving.com/careers/job/8199370003?gh_jid=8199370003) |
 | [Chubb](https://internscout.org/internships/at/chubb/) | Agency Education and Development Intern | Chicago, IL | \$18 to \$24 per hour | Nov 6 | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38424) |
@@ -27,7 +28,6 @@
 | [Strada Education Foundation](https://internscout.org/internships/at/strada-education-foundation/) | Strada Education Foundation Internship: Clear Outcomes and Data Science Intern | Washington, DC | \$22.75/hour | Oct 27 | [Apply](https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b/apply) |
 | [Strada Education Foundation](https://internscout.org/internships/at/strada-education-foundation/) | Strada Education Foundation Internship: Communication Intern | Indianapolis, Indiana +1 | \$22.75/hour | Oct 27 | [Apply](https://jobs.lever.co/stradaeducation/91b84789-7d6d-4009-a5a3-13bbf90dc7d4/apply) |
 | [University of Virginia](https://internscout.org/internships/at/university-of-virginia/) | Precollege Program Coordinator Intern (Student Wage) | Charlottesville, VA | \$18/hour | Oct 14 | [Apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Precollege-Program-Coordinator-Intern--Student-Wage-_R0088400) |
-| [University of Texas at Austin](https://internscout.org/internships/at/university-of-texas-at-austin/) | Sr. Student Associate, Collection Appraisal Intern | Austin, TX | \$16.00 per hour | Oct 12 | [Apply](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Sr-Student-Associate--Collection-Appraisal-Intern_R_00049286) |
 | Auburn University | Advancement Internship - Events & Experience | Auburn, AL | \$14.00/hour | Oct 9 | [Apply](https://jobs.auburn.edu/jobs/10541) |
 | Auburn University | Student Summer Intern - Alabama Extension | Auburn University, AL |  | Oct 5 | [Apply](https://jobs.auburn.edu/jobs/10556) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Leadership Instructional Design Internship | IRVINE, California | Paid | Sep 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36762) |

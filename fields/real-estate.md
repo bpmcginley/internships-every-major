@@ -1,9 +1,10 @@
 # Real Estate: Summer 2027 Internships
 
-21 open Summer 2027 real estate roles, newest first (all 21). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 48 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
+22 open Summer 2027 real estate roles, newest first (all 22). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 49 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - Canadian Real Estate Finance Group | Toronto, Ontario +1 | \$40,950.00 | Nov 11 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---Canadian-Real-Estate-Finance-Group_JR26091907) |
 | [EisnerAmper](https://internscout.org/internships/at/eisneramper/) | 2027 Assurance Summer Intern - Real Estate | New York |  | Nov 10 | [Apply](https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/New-York/XMLNAME-2027-Assurance-Summer-Intern---Real-Estate_Req-9647) |
 | [KeyBank](https://internscout.org/internships/at/keybank/) | 2027 Summer Real Estate Capital Internship - New York City CMG | New York, NY | \$27 per hour | Nov 9 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/New-York-NY/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---New-York-City-CMG_R-43108) |
 | [KeyBank](https://internscout.org/internships/at/keybank/) | 2027 KeyBank Corporate Real Estate Summer Internship - Cleveland, OH | Brooklyn, OH | \$23 per hour | Nov 9 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-KeyBank-Corporate-Real-Estate-Summer-Internship---Cleveland--OH_R-42994) |

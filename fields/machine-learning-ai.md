@@ -1,10 +1,13 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-584 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 584). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,233 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+585 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 585). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,234 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | Synopsys | Engineering Documentation and AI Automation Co-op | Nepean, Canada |  | Nov 11 | [Apply](https://go.vansh.nyc/1uz) |
+| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | AI Processor Hardware/Software Integration Engineer Intern (Summer 2027) | USA - Texas - Richardson +1 |  | Nov 11 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer-Intern--Summer-2027-_JR-2604028) |
+| [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | AI Solutions Intern- Human Resources- Summer 2027 | Columbus, Ohio +1 |  | Nov 11 | [Apply](https://careers.marzetticompany.com/jobs/8128) |
+| [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, AI Engineer (Master's Degree, Reston, VA) | Reston, VA | \$32 per hour | Nov 11 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1) |
 | [DwyerOmega](https://internscout.org/internships/at/dwyeromega/) | Applied AI Intern | Remote +1 |  | Nov 10 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4650662) |
 | [Hook Music](https://internscout.org/internships/at/hook-music/) | Machine Learning Engineering Intern, Recommendation Systems | Remote +1 |  | Nov 10 | [Apply](https://go.vansh.nyc/1sf) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | AI/ML Business Intelligence Development Intern | Bossier City, LA |  | Nov 10 | [Apply](https://go.vansh.nyc/1s6) |
@@ -20,7 +23,7 @@
 | [V2X](https://internscout.org/internships/at/v2x/) | AI Engineering Intern - Junior | Indianapolis, Indiana +1 | Paid | Nov 10 | [Apply](https://careers.gov2x.com/jobs/63949) |
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - Applied AI Strategy & Research | California - San Francisco | \$47 - \$57 per hour | Nov 10 | [Apply](https://salesforce.wd12.myworkdayjobs.com/futureforce_newgradroles/job/California---San-Francisco/Summer-2027-Intern---Applied-AI-Strategy---Research_JR367516-3) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Machine Learning Engineer, Embodied AI | Sunnyvale, California, United States of America +1 | \$9,600-\$11,800 per month | Nov 10 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034) |
-| [Jabil](https://internscout.org/internships/at/jabil/) | AI Agent Developer Intern (Supply Chain IT - AI & Enablement) | St. Petersburg/Tampa, FL +2 |  | Nov 10 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054) |
+| [Jabil](https://internscout.org/internships/at/jabil/) | AI Agent Developer Intern - Supply Chain IT - AI & Enablement | St. Petersburg, FL +1 |  | Nov 10 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054) |
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - AI Research Incubator | California - Palo Alto +1 | \$54 - \$70 per hour | Nov 10 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Foundry-Incubation_JR366655) |
 | [DP World](https://internscout.org/internships/at/dp-world/) | AI & Analytics (Talent Management) Intern | Charlotte, NC |  | Nov 10 | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27855) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | AI Operations Intern, AI Clouds - Summer 2027 | US, CA +2 |  | Nov 10 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1) |
@@ -201,9 +204,6 @@
 | [MITRE](https://internscout.org/internships/at/mitre/) | AI Solutions Architect Intern | McLean, VA |  | Oct 29 | [Apply](https://go.vansh.nyc/13Y) |
 | Ericsson | AI and Automation Engineer Intern | Plano, TX |  | Oct 29 | [Apply](https://go.vansh.nyc/YK) |
 | Syntiant | DevOps Machine Learning Infrastructure Intern | Irvine, CA |  | Oct 29 | [Apply](https://go.vansh.nyc/11V) |
-| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles | Sunnyvale, California, United States of America +2 | \$9,600 – \$11,800 per month | Oct 29 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439) |
-| Metova Federal | AI Intern | Orlando, FL |  | Oct 29 | [Apply](https://go.vansh.nyc/ZU) |
-| [V2X](https://internscout.org/internships/at/v2x/) | Artificial Intelligence Intern 2027 | Indianapolis, Indiana +1 | Paid | Oct 29 | [Apply](https://careers.gov2x.com/jobs/62843) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

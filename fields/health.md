@@ -1,6 +1,6 @@
 # Health: Summer 2027 Internships
 
-57 open Summer 2027 health roles, newest first (all 57). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 298 health internships on InternScout](https://internscout.org/internships/health/)
+58 open Summer 2027 health roles, newest first (all 58). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 302 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Epidemiology / Biostatistics Intern | Detroit, MI |  | Oct 6 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14949) |
 | [Wellmark](https://internscout.org/internships/at/wellmark/) | Software Engineer Intern - Technology Healthcare Innovation | Des Moines, IA |  | Sep 21 | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000150732768) |
 | [Medpace](https://internscout.org/internships/at/medpace/) | Summer 2027 Clinical Trials Feasibility & Proposals Internship | Cincinnati, Ohio |  | Sep 17 | [Apply](https://careers.medpace.com/jobs/13001) |
+| [Medpace](https://internscout.org/internships/at/medpace/) | Account Management Internship - Summer 2027 | Cincinnati, Ohio |  | Aug 20 | [Apply](https://careers.medpace.com/jobs/12957) |
 | [Holmes Murphy](https://internscout.org/internships/at/holmes-murphy/) | Clinical Wellbeing Intern - Summer 2027 | Minneapolis |  | Oct 27 | [Apply](https://holmesmurphy.wd1.myworkdayjobs.com/HolmesMurphyCareers/job/Minneapolis/Clinical-Wellbeing-Intern---Summer-2027_R0001034) |
 | [Baird](https://internscout.org/internships/at/baird/) | Internship – Hospitality (Louisville, KY Summer 2027) | KY-Louisville |  | Oct 2 | [Apply](https://baird.wd1.myworkdayjobs.com/careers/job/KY-Louisville/Internship---Hospitality--Louisville--KY-Summer-2027-_R20261112-1) |
 | [Humana](https://internscout.org/internships/at/humana/) | Summer 2027 MBA Internship – Primary Care & Clinical Innovation | Louisville, KY +5 | \$37,440 - \$96,800 per year | Sep 22 | [Apply](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Summer-2027-MBA-Internship---Primary-Care---Clinical-Innovation_R-431364) |

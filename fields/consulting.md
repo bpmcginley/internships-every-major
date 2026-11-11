@@ -1,10 +1,12 @@
 # Consulting: Summer 2027 Internships
 
-124 open Summer 2027 consulting roles, newest first (all 124). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 245 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+125 open Summer 2027 consulting roles, newest first (all 125). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 246 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | Daimler Truck | Governance, Risk, and Compliance (GRC) Analyst Intern, Cybersecurity | Detroit, MI |  | Nov 11 | [Apply](https://go.vansh.nyc/1uo) |
+| [exacare ai](https://internscout.org/internships/at/exacare-ai/) | Solutions Consultant Intern (Summer 2027) | Toronto, Canada |  | Nov 11 | [Apply](https://ats.rippling.com/exacare-inc/jobs/4bb0eb09-e113-4e33-9179-57bf18029d9b) |
+| [Vizient](https://internscout.org/internships/at/vizient/) | 2027 Summer Internship - Consulting Intern, Spend Insights & Services | Irving, TX 75062 Vizient Corporate HQ | \$25 per hour | Nov 11 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Consulting-Intern--Spend-Insights---Services_36154R-1) |
 | [Bank of Montreal](https://internscout.org/internships/at/bank-of-montreal/) | Treasury & Payment Solutions Strategy Intern, Summer 2027 (10 weeks) | Chicago, IL, USA | \$43,000.00 - \$75,000.00 | Nov 10 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Treasury---Payment-Solutions-Strategy-Intern--Summer-2027--10-weeks-_R260031397) |
 | [BMO](https://internscout.org/internships/at/bmo/) | Treasury & Payment Solutions Strategy Intern, Summer 2027 (10 weeks) | Chicago, IL, USA | \$43,000.00 - \$75,000.00 | Nov 10 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Chicago-IL-USA/Treasury---Payment-Solutions-Strategy-Intern--Summer-2027--10-weeks-_R260031397-1) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - Strategy Analyst | Toronto, Ontario | \$48,800.00 | Nov 10 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Strategy-Analyst_JR26100105) |
@@ -40,7 +42,7 @@
 | [Rivian](https://internscout.org/internships/at/rivian/) | Business and Administrative Intern - Strategy Analyst | Palo Alto, California | \$25.00hr | Oct 22 | [Apply](https://careers.rivian.com/jobs/34575) |
 | [C&S Wholesale Grocers](https://internscout.org/internships/at/c-s-wholesale-grocers/) | Market Research & Brand Strategy Intern- Summer 2027 | York, PA | Paid | Oct 22 | [Apply](https://cswg.wd1.myworkdayjobs.com/cs_careers/job/York-PA/Market-Research---Brand-Strategy-Intern--Summer-2027_R-269063) |
 | [Cigna Group](https://internscout.org/internships/at/cigna-group/) | Pharmacy Benefits Management - Strategy Intern | St. Louis, MO | Paid | Oct 21 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Pharmacy-Benefits-Management---Strategy-Intern_26009416-1) |
-| RSM | D365 Business Central Consulting Intern - Summer 2027 | Vancouver | \$50,160 - \$59,850 | Oct 21 | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Vancouver/D365-Business-Central-Consulting-Intern---Summer-2027_JR117165-1) |
+| [RSM](https://internscout.org/internships/at/rsm/) | D365 Business Central Consulting Intern - Summer 2027 | Vancouver | \$50,160 - \$59,850 | Oct 21 | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Vancouver/D365-Business-Central-Consulting-Intern---Summer-2027_JR117165-1) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Governance, Risk and Compliance | Philadelphia, PA +1 | \$18.00 - \$21.00 Per Hour | Oct 21 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Philadelphia-PA/XMLNAME-2027-Summer-Internship---Governance--Risk-and-Compliance_R-104143-2) |
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program Product Owner Intern | Chicago, IL +1 |  | Oct 20 | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8038087003) |
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | Product Owner Intern, AI Consulting Associate Program | Chicago, IL +1 |  | Oct 20 | [Apply](https://go.vansh.nyc/df) |
@@ -126,7 +128,6 @@
 | [Cerity Partners](https://internscout.org/internships/at/cerity-partners/) | Central Solutions Strategy Analyst Internship | New York City, NY |  | Sep 18 | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Central-Solutions-Strategy-Analyst-Internship_R919) |
 | [Adobe](https://internscout.org/internships/at/adobe/) | 2027 Intern - Solutions Consulting Analyst | New York | \$25.00 - \$30.00 hour | Sep 18 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2027-Intern---Solutions-Consulting-Analyst_R171696) |
 | First National Bank | Summer 2027 Enterprise Data Governance Intern | Pittsburgh, PA |  | Sep 18 | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Enterprise-Data-Governance-Intern_2026-01835-1) |
-| [Empower](https://internscout.org/internships/at/empower/) | Summer 2027 Intern – Actuarial Benefit Consulting Services | CT Hartford | \$26.50 - \$30.50 per hour | Sep 18 | [Apply](https://empower.wd12.myworkdayjobs.com/empower/job/CT-Hartford/Summer-2027-Intern---Actuarial-Benefit-Consulting-Services_R0062346) |
 | [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Severance Tax Consulting Intern - Houston, TX | Houston TX |  | Sep 18 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Houston/Summer-2025-Tax-Consulting-Intern---Houston--TX_R0015214) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

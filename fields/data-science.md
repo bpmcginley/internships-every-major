@@ -1,11 +1,13 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-656 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 656). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,160 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+652 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 652). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,160 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [State of Wisconsin Investment Board](https://internscout.org/internships/at/state-of-wisconsin-investment-board/) | Data Analytics Engineering Intern | Madison, WI |  | Nov 11 | [Apply](https://go.vansh.nyc/1uG) |
 | Riot Games | Data Engineering Intern | Los Angeles, CA |  | Nov 11 | [Apply](https://go.vansh.nyc/1sS) |
 | Riot Games | Data Engineer Intern | Remote |  | Nov 11 | [Apply](https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716) |
+| [exacare ai](https://internscout.org/internships/at/exacare-ai/) | Data and Analytics Intern (Summer 2027) | Toronto, Canada +1 |  | Nov 11 | [Apply](https://ats.rippling.com/exacare-inc/jobs/e42f12bc-041a-4ef2-90d8-a77cd7f1f166) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Site Reliability Engineer Intern, Data Platform, Computer Platform | San Jose, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1s7) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | AI/ML Business Intelligence Development Intern | Bossier City, LA |  | Nov 10 | [Apply](https://go.vansh.nyc/1s6) |
 | Art of Problem Solving | Data Science Intern | San Diego, California, United States +1 | \$30 / hour | Nov 10 | [Apply](https://artofproblemsolving.com/careers/job/8201037003?gh_jid=8201037003) |
@@ -28,7 +30,6 @@
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Quality & Analytics Internship (Wisconsin Health Plan) – Summer 2027 (Undergraduate) | WI +1 |  | Nov 10 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040143) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Data Analyst enGen Undergraduate Intern | Pittsburgh PA, 15222, PAP, Penn Avenue Place +1 |  | Nov 10 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826) |
 | Kyndryl | Marketing Internship, Marketing Analytics | New York, NY, USA +1 | \$30/hour | Nov 10 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analysis_R-70007-1) |
-| [Cerity Partners](https://internscout.org/internships/at/cerity-partners/) | Investment Data & Technology Analyst Internship | New York City, NY +1 |  | Nov 10 | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Investment-Data---Technology-Analyst-Internship_R929) |
 | [Centene](https://internscout.org/internships/at/centene/) | Analytics Summer 2027 Intern (Graduate) | Remote-FL +1 | \$21.00 - \$30.00 per hour | Nov 10 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479) |
 | [Medpace](https://internscout.org/internships/at/medpace/) | Clinical Informatics Internship/Co-op - Summer 2027 | Cincinnati, Ohio +1 |  | Nov 10 | [Apply](https://careers.medpace.com/jobs/12988) |
 | [The Hartford](https://internscout.org/internships/at/the-hartford/) | Data Science Intern - Summer 2027 | Hartford, CT +2 | Paid | Nov 10 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114) |
@@ -49,7 +50,6 @@
 | Philadelphia Gas Works | Data and Analytics Intern | Philadelphia, PA |  | Nov 9 | [Apply](https://go.vansh.nyc/1ti) |
 | Integration Innovation (i3) | Data Management Internship | Huntsville, Alabama +1 |  | Nov 9 | [Apply](https://i3-corps.jibeapply.com/jobs/5490) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Graduate Internship – Data Science | Minneapolis, MN +1 | \$27.00/hour | Nov 9 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Minneapolis-MN/Summer-2027-Graduate-Internship---Data-Science_R-0000034056-1) |
-| 7-Eleven | Data Engineer Intern | Irving, TX |  | Nov 9 | [Apply](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Data-Engineer-Intern_R26_6281) |
 | [Vizient](https://internscout.org/internships/at/vizient/) | 2027 Summer Internship - Data Management | Irving, TX 75062 Vizient Corporate HQ +1 | \$25 per hour | Nov 9 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Data-Management_36162R) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Telematics Intern / Predictive Analytics Intern - Summer 2027 | Cincinnati, OH (USA) +1 | Paid | Nov 9 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Telematics-Intern---Predictive-Analytics-Intern---Summer-2027_R9868) |
 | [Vizient](https://internscout.org/internships/at/vizient/) | 2027 Summer Internship – Data & Digital Sales Operations | Chicago, IL 60607 | \$25 per hour | Nov 9 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Data---Digital-Sales-Operations_36211R) |

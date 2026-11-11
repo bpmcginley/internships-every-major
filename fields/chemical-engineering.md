@@ -1,6 +1,6 @@
 # Chemical Engineering: Summer 2027 Internships
 
-64 open Summer 2027 chemical engineering roles, newest first (all 64). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 149 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+63 open Summer 2027 chemical engineering roles, newest first (all 63). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 149 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -48,7 +48,6 @@
 | [Shure](https://internscout.org/internships/at/shure/) | Process Engineering Machine Controls Intern | Niles, IL | \$23-\$43 per hour | Nov 11, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4993/process-engineering-machine-controls-intern/job) |
 | [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Chemical Engineering Intern \| Boulder, CO | Boulder, CO +1 | \$22.00/hr | Oct 24 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Boulder-CO/Chemical-Engineering-Intern---Boulder--CO_R-16798) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Process Engineering Intern - Summer 2027 - Smyrna, TN | Smyrna, Tennessee - United States of America |  | Oct 24 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Process-Engineering-Intern---Summer-2027---Smyrna--TN_R00214285) |
-| [Primient](https://internscout.org/internships/at/primient/) | Process Engineering Intern - Summer 2027 | Duluth, MN | \$1,500 to \$3,000 | Oct 24 | [Apply](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Duluth-MN/Process-Engineering-Intern---Summer-2027_JREQ7015) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Advanced Manufacturing Process Engineering Intern, Junior (Summer 2027) | USA - Vermont - Essex Junction |  | Oct 24 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Junior--Summer-2027-_JR-2604658) |
 | [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Process Engineer (Summer 2027) | Nampa, ID | \$23 - \$27/hr | Oct 17 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Nampa-ID/Intern---Process-Engineer--Summer-2027-_R040433) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | 2027 Summer Intern - Process Engineer - BS/MS Degree (Santa Clara, CA) | Santa Clara,CA | Paid | Oct 9 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Process-Engineer---BS-MS-Degree--Santa-Clara--CA-_R2629424) |

@@ -1,6 +1,6 @@
 # Communications: Summer 2027 Internships
 
-60 open Summer 2027 communications roles, newest first (all 60). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 185 communications internships on InternScout](https://internscout.org/internships/communications/)
+59 open Summer 2027 communications roles, newest first (all 59). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 183 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -39,7 +39,6 @@
 | [Axiom Space](https://internscout.org/internships/at/axiom-space/) | Communications & Marketing Intern (Summer 2027) | Houston |  | Oct 15 | [Apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Communications---Marketing-Intern--Summer-2027-_JR100753) |
 | [Sigma Computing](https://internscout.org/internships/at/sigma-computing/) | Technical Writer Intern (Summer 2027) | New York, NY | \$36.00 - \$42.00 per hour | Oct 14 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8034205003) |
 | [Sigma Computing](https://internscout.org/internships/at/sigma-computing/) | Technical Writer Intern (Summer 2027) | San Francisco, CA | \$36.00 - \$42.00 per hour | Oct 14 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8034168003) |
-| Capstone Investment Advisors | Summer 2027 - Marketing & Communications Internship | New York, New York | \$29.00 - \$40.00/hr | Oct 14 | [Apply](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8888414002) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern - Communications | Pascagoula, Mississippi |  | Oct 14 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMMUNICATIONS-Miss/1430056000/) |
 | [Worthington Enterprises](https://internscout.org/internships/at/worthington-enterprises/) | Corporate Communications Intern | Columbus, OH |  | Oct 2 | [Apply](https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43366) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Communications Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138732) |

@@ -1,6 +1,6 @@
 # Architecture: Summer 2027 Internships
 
-59 open Summer 2027 architecture roles, newest first (all 59). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 113 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+58 open Summer 2027 architecture roles, newest first (all 58). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 113 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -59,7 +59,6 @@
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Architecture Intern - Summer 2027 | US.VA.Alexandria.1925 Ballenger Ave, Suite 400 | \$ 19 - \$ 25 hour | Sep 24 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USVAAlexandria1925-Ballenger-Ave-Suite-400/Architecture-Intern---Summer-2027_R-162315-1) |
 | [Zekelman Industries](https://internscout.org/internships/at/zekelman-industries/) | Intern, Architectural Designer | Troy, MI | Paid | Sep 24 | [Apply](https://zekelman.wd12.myworkdayjobs.com/Careers/job/Troy-MI/Intern--Architectural-Designer_JR002771) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Landscape Architecture Intern \| Boston, MA | Boston, MA +1 | \$22.50-\$24.50 per hour | Sep 19 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Boston-MA/Landscape-Architecture-Intern---Boston--MA_R-16617) |
-| [Barry-Wehmiller](https://internscout.org/internships/at/barry-wehmiller/) | Architecture, Engineering & Construction Engineering Internship/Co-Op (Summer 2027 or 6-Month) | Fort Worth, TX USA | \$23–\$30 per hour | Sep 18 | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Fort-Worth-TX-USA/Architecture--Engineering---Construction-Engineering-Internship-Co-Op--Summer-2027-or-6-Month-_R022717) |
 | AArete | Data Architecture & Engineering Intern (Summer 2027) | Chicago, Illinois +1 |  | Sep 18 | [Apply](https://jobs.jobvite.com/aarete/job/otGLAfwe/apply) |
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Landscape Architecture Intern – Summer 2027 | US.NV.Henderson | \$25 - \$31 hour | Sep 18 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USNVHenderson/Landscape-Architecture-Intern---Summer-2027_R-161002-1) |
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Architectural Intern – Summer 2027 | US.CO.Denver | \$25 - \$31 hour | Sep 18 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Architectural-Intern---Summer-2027_R-161179-1) |

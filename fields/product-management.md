@@ -1,9 +1,11 @@
 # Product Management: Summer 2027 Internships
 
-182 open Summer 2027 product management roles, newest first (all 182). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 322 product management internships on InternScout](https://internscout.org/internships/product-management/)
+179 open Summer 2027 product management roles, newest first (all 179). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 319 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [APEX Analytix](https://internscout.org/internships/at/apex-analytix/) | Product Management Intern (Summer 2027) | Greensboro, NC |  | Nov 11 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/116e13fe-7202-45ba-a119-a81af4fcb4b9) |
+| H&R Block | Embark Product Management Intern - S | KANSAS CITY, Missouri +1 | \$25/hour | Nov 11 | [Apply](https://careers.hrblock.com/jobs/76986) |
 | [Altice USA](https://internscout.org/internships/at/altice-usa/) | Product Management Customer Management App Intern | Bethpage, NY |  | Nov 10 | [Apply](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-Customer-Management-App-NY-11714/1449512200/?ats=successfactors) |
 | [Altice USA](https://internscout.org/internships/at/altice-usa/) | Product Management B2B Broadband Services Intern | Bethpage, NY |  | Nov 10 | [Apply](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-B2B-Broadband-Services-NY-11714/1449513100/?ats=successfactors) |
 | Rubrik | Product Management Intern | Palo Alto, CA |  | Nov 10 | [Apply](https://www.rubrik.com/company/careers/departments/job.8350601?gh_jid=8350601) |
@@ -124,10 +126,6 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem | San Jose, CA |  | Sep 3 | [Apply](https://lifeattiktok.com/search/7677493272788683013) |
 | [Atlassian](https://internscout.org/internships/at/atlassian/) | Product Management Intern | SF |  | Sep 2 | [Apply](https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Product Development Intern - 2027 Product Development - US Consumer Services | NYC |  | Sep 1 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011605) |
-| [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 Long Term Product Management Intern/Co-Op | CALGARY, Alberta, Canada +1 |  | Sep 1 | [Apply](https://careers.amd.com/jobs/90411) |
-| [AMD](https://internscout.org/internships/at/amd/) | Short Term 2027 Program Management Intern/Co-Op | CALGARY, Alberta, Canada |  | Sep 1 | [Apply](https://careers.amd.com/jobs/91365) |
-| [AMD](https://internscout.org/internships/at/amd/) | Summer 2027 Long Term Program Management Intern/Co-Op | MARKHAM, Ontario, Canada |  | Sep 1 | [Apply](https://careers.amd.com/jobs/90414) |
-| [AMD](https://internscout.org/internships/at/amd/) | Short Term 2027 Program Management Intern/Co-Op | MARKHAM, Ontario, Canada |  | Sep 1 | [Apply](https://careers.amd.com/jobs/91364) |
 | [Blackhawk Network Holdings](https://internscout.org/internships/at/blackhawk-network-holdings/) | Product Management Intern | Pleasanton, CA |  | Aug 31 | [Apply](https://careers-blackhawknetwork.icims.com/jobs/26869/job?mobile=true&needsRedirect=false) |
 | [Blackhawk Network Holdings](https://internscout.org/internships/at/blackhawk-network-holdings/) | Product Management Intern | Coppell, TX |  | Aug 31 | [Apply](https://careers-blackhawknetwork.icims.com/jobs/26868/job?mobile=true&needsRedirect=false) |
 | [Blackhawk Network Holdings](https://internscout.org/internships/at/blackhawk-network-holdings/) | Product Management Intern | Coppell, Texas +1 | \$25.00/hr | Aug 31 | [Apply](https://blackhawknetwork.jibeapply.com/jobs/26868) |
@@ -168,7 +166,6 @@
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Product Specialist Intern, Summer 2027 | Fort Myers, FL +1 | Paid | Oct 24 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Myers-FL/Product-Specialist-Intern-2027_10017586) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Construction Project & Program Management Intern (Summer 2027) | San Jose, CA |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/San-Jose-CA/Construction-Project---Program-Management-Intern--Summer-2027-_R-31763) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Program Management Intern | Kirkland, WA +1 |  | Oct 20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Program-Management-Intern-WA-98033/1449176233/) |
-| [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Program Manager (Summer 2027) | Neenah, WI | \$20 - \$24/hr | Oct 17 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Program-Manager--Summer-2027-_R040384) |
 | [Danaher Corporation](https://internscout.org/internships/at/danaher-corporation/) | Product Management & Marketing Intern (Summer 2027 Intern) | Logan, Utah, United States |  | Oct 17 | [Apply](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/Product-Management---Marketing-Intern--Summer-2027-Intern-_R1317692) |
 | [Workday](https://internscout.org/internships/at/workday/) | Product Manager Intern | USA, CA +1 | \$154,500 | Oct 17 | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Digital Products & AI Strategy Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 8 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Digital-Products---AI-Strategy-Intern---Summer-2027---Franklin--TN_R00214215) |

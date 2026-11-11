@@ -1,6 +1,6 @@
 # Math: Summer 2027 Internships
 
-30 open Summer 2027 math roles, newest first (all 30). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 50 math internships on InternScout](https://internscout.org/internships/math/)
+29 open Summer 2027 math roles, newest first (all 29). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 49 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -24,8 +24,8 @@
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Actuarial Intern- Summer 2027 | Richfield, OH (USA) | Paid | Oct 8 | [Apply](https://gaig.wd1.myworkdayjobs.com/National_Interstate_External/job/Richfield-OH-USA/Actuarial-Intern--Summer-2027_R9665) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Actuarial Intern- Summer 2027 | Richfield, OH (USA) | Paid | Oct 8 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Richfield-OH-USA/Actuarial-Intern--Summer-2027_R9665-1) |
 | [Marsh](https://internscout.org/internships/at/marsh/) | Oliver Wyman Actuarial - Internship - Summer 2027 | New York - 1166 +2 | \$1,350 – 1,600 | Oct 7 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Oliver-Wyman-Actuarial---Internship---Summer-2027_R_356561) |
-| [Empower](https://internscout.org/internships/at/empower/) | Summer 2027 Intern - Corporate Actuarial (Greenwood Village, CO) | CO Greenwood Village | \$26.50 - \$30.50 per hour | Oct 2 | [Apply](https://empower.wd12.myworkdayjobs.com/empower/job/CO-Greenwood-Village/Summer-2027-Intern---Corporate-Actuarial--Greenwood-Village--CO-_R0062375) |
-| [Empower](https://internscout.org/internships/at/empower/) | Summer 2027 Intern - Corporate Actuarial (Hartford) | CT Hartford | \$26.50 - \$30.50 per hour | Oct 2 | [Apply](https://empower.wd12.myworkdayjobs.com/empower/job/CT-Hartford/Summer-2027-Intern---Corporate-Actuarial--Hartford-_R0062373) |
+| Empower | Summer 2027 Intern - Corporate Actuarial (Greenwood Village, CO) | CO Greenwood Village | \$26.50 - \$30.50 per hour | Oct 2 | [Apply](https://empower.wd12.myworkdayjobs.com/empower/job/CO-Greenwood-Village/Summer-2027-Intern---Corporate-Actuarial--Greenwood-Village--CO-_R0062375) |
+| Empower | Summer 2027 Intern - Corporate Actuarial (Hartford) | CT Hartford | \$26.50 - \$30.50 per hour | Oct 2 | [Apply](https://empower.wd12.myworkdayjobs.com/empower/job/CT-Hartford/Summer-2027-Intern---Corporate-Actuarial--Hartford-_R0062373) |
 | [Pacific Life](https://internscout.org/internships/at/pacific-life/) | Summer 2027 Actuarial Intern (Omaha) | Omaha NE-6750 | \$26.00 per hour | Sep 26 | [Apply](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Omaha-NE-6750/Summer-2027-Actuarial-Intern--Omaha-_R17461) |
 | [Pacific Life](https://internscout.org/internships/at/pacific-life/) | Summer 2027 Actuarial Intern (Charlotte) | Charlotte - NC | \$26.00 per hour | Sep 26 | [Apply](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Charlotte---NC/Summer-2027-Actuarial-Intern--Charlotte-_R17462) |
 | [Pacific Life](https://internscout.org/internships/at/pacific-life/) | Summer 2027 Actuarial Intern (Newport Beach) | Newport Beach CA-700 | \$26.00 per hour | Sep 26 | [Apply](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Actuarial-Intern--Newport-Beach-_R17460) |
@@ -33,7 +33,6 @@
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Data Analytics/Science/Applied Math - (Pomona/Rosemead) | Rosemead, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-%28PomonaRosemead%29-CA-91770/1425207700/) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Statistical Programming - California | Irvine, California +1 |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Irvine-California/Summer-2027-Internship---Statistical-Programming---California_R572769) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Data Analytics/Science/Applied Math- Santa Ana/Westminster/Irvine/Fullerton | Westminster, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425178600/) |
-| [Empower](https://internscout.org/internships/at/empower/) | Summer 2027 Intern – Actuarial Benefit Consulting Services | CT Hartford | \$26.50 - \$30.50 per hour | Sep 18 | [Apply](https://empower.wd12.myworkdayjobs.com/empower/job/CT-Hartford/Summer-2027-Intern---Actuarial-Benefit-Consulting-Services_R0062346) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

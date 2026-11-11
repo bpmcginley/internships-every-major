@@ -1,9 +1,11 @@
 # Marketing: Summer 2027 Internships
 
-289 open Summer 2027 marketing roles, newest first (the 200 newest of 289). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 753 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+287 open Summer 2027 marketing roles, newest first (the 200 newest of 287). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 740 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [PTC](https://internscout.org/internships/at/ptc/) | Documentation Content Intern (Summer 2027) | Boston, MA, USA | \$28-32/hour | Nov 11 | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Documentation-Content-Intern--Summer-2027-_JR112948) |
+| [exacare ai](https://internscout.org/internships/at/exacare-ai/) | Growth and Marketing Intern (Summer 2027) | Toronto, Canada |  | Nov 11 | [Apply](https://ats.rippling.com/exacare-inc/jobs/773ffdbd-d087-485a-a123-e8c002b9b1df) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - Digital Marketing | Toronto, Ontario | \$40,950.00 | Nov 10 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Wealth-Marketing--8-months-_JR26080978) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - Canada Retail Marketing | Toronto, Ontario | \$44,900.00 | Nov 10 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Canada-Retail-Marketing_JR26091051) |
 | [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Petcare MBA Marketing and Brand Management Internship | USA-Tennessee-Franklin | Paid | Nov 10 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Tennessee-Franklin/Summer-2027-Mars-Petcare-MBA-Marketing-and-Brand-Management-Internship_R172399-1) |
@@ -42,7 +44,6 @@
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Advertising Marketing Design Intern | New York, NY | \$20.00 per hour | Nov 4 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751089005) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (Nebraska Health Plan) – Summer 2027 (Undergraduate) | NE |  | Nov 4 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040148) |
 | [Prologis](https://internscout.org/internships/at/prologis/) | IT Customer Experience Technologies Intern | Denver, CO |  | Nov 4 | [Apply](https://go.vansh.nyc/1gs) |
-| [CVS Health](https://internscout.org/internships/at/cvs-health/) | Pharmacy Growth and Innovation Corporate Internship – Summer 2027 (Graduate) | RI - Woonsocket |  | Nov 4 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Pharmacy-Growth-and-Innovation-Corporate-Internship---Summer-2027--Graduate-_R1058711-1) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Advertising Marketing Measurement Intern | New York, NY | \$20.00 per hour | Nov 3 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750498005) |
 | [Invesco](https://internscout.org/internships/at/invesco/) | Early Career Intern - Communications | Atlanta, Georgia | \$35/hr | Nov 3 | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Communications_R-15968) |
 | [State of Nebraska](https://internscout.org/internships/at/state-of-nebraska/) | Marketing Internship (Summer 2027) | Lincoln, NE | \$15.000 | Nov 3 | [Apply](https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Marketing-Internship--Summer-2027-_JR2026-00030323) |
@@ -136,7 +137,6 @@
 | [Axiom Space](https://internscout.org/internships/at/axiom-space/) | Communications & Marketing Intern (Summer 2027) | Houston |  | Oct 15 | [Apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Communications---Marketing-Intern--Summer-2027-_JR100753) |
 | [Humana](https://internscout.org/internships/at/humana/) | Summer 2027 MBA Internship – Enterprise Growth | Louisville, KY +6 | \$37,440 - \$96,800 per year | Oct 15 | [Apply](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Summer-2027-MBA-Internship---Enterprise-Growth_R-433594) |
 | [Pentair](https://internscout.org/internships/at/pentair/) | Marketing Leadership Development Internship Program - Summer 2027 | Golden Valley, MN +2 | \$28.00/hour | Oct 15 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Marketing-Leadership-Development-Intern-Program---Summer-2027_R23693) |
-| Capstone Investment Advisors | Summer 2027 - Marketing & Communications Internship | New York, New York | \$29.00 - \$40.00/hr | Oct 14 | [Apply](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8888414002) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce User Growth | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694357619162532149) |
 | [Wolf & Company](https://internscout.org/internships/at/wolf-company/) | Marketing Intern - Summer 2027 | Boston, MA | \$26.00 per hour | Oct 14 | [Apply](https://career-portal-wolfandco.icims.com/jobs/1597/marketing-intern---summer-2027/job) |
 | [HF Sinclair](https://internscout.org/internships/at/hf-sinclair/) | Branded Fuels - Business Analytics Intern | Dallas, TX |  | Oct 14 | [Apply](https://careers.hfsinclair.com/job/Dallas-Branded-Fuels-Business-Analytics-Intern-TX-75219/1430072700/) |
@@ -173,7 +173,6 @@
 | [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Product Marketing Intern - Summer 2027 | Pella, IA | \$23.00 per hour | Sep 21 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253576) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Product Development, Design & Consumer Insights Intern Summer Opportunities (May-Aug 2027) | Needham, MA, United States | Paid | Sep 17 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713878006) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Marketing, Creative & eCommerce Intern Summer Opportunities (May-Aug 2027) | Needham, MA, United States | Paid | Sep 17 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713883006) |
-| [AMD](https://internscout.org/internships/at/amd/) | Short Term 2027 Technical Marketing - Performance Analysis Intern/Co-Op | MARKHAM, Ontario, Canada +1 |  | Sep 16 | [Apply](https://careers.amd.com/jobs/91953) |
 | [Emergent Holdings](https://internscout.org/internships/at/emergent-holdings/) | Summer 2027 Intern - Program Oversight/Marketing Compliance | Detroit, MI | Paid | Sep 16 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14772) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Digital Marketing Intern – Summer 2027 | Addison, TX +1 | Paid | Sep 14 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403684009) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Customer Experience and Transformation Intern – Summer 2027 | Addison, TX +1 | Paid | Sep 14 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403604009) |
@@ -204,6 +203,7 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - Brand Ads | San Jose, CA |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7668654528822954245) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Backend Software Engineer Intern - Innovative Growth | San Jose, CA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7667934860750063925) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Creative Intelligence and Brand Innovation | San Jose, CA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7668642761473902901) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Marketing & Events Internship - Summer 2027 | Reston, VA | Paid | Nov 11, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8676/marketing-%26-events-internship---summer-2027/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
