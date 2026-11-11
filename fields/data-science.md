@@ -1,6 +1,6 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-645 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 645). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,151 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+644 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 644). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,149 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -103,7 +103,6 @@
 | Tenet Healthcare | Data Engineer Intern | Dallas, TX |  | Nov 5 | [Apply](https://go.vansh.nyc/1jn) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Undergraduate Electronic Data Interchange Intern | Remote +1 |  | Nov 5 | [Apply](https://go.vansh.nyc/1jD) |
 | [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Data Science Intern | Remote |  | Nov 5 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118) |
-| [CareSource](https://internscout.org/internships/at/caresource/) | Data Analyst Intern | Remote +1 |  | Nov 5 | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Analyst_R14356) |
 | [PayPal](https://internscout.org/internships/at/paypal/) | Data Scientist Intern - Summer 2027 | San Jose, CA |  | Nov 5 | [Apply](https://paypal.eightfold.ai/careers/job/274922982821) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Grad Intern – R&D TSRS Data Sciences Operations & Analytic (Summer 2027) | Remote +1 | \$35.34 - \$41.20 per hour | Nov 5 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---R-D-TSRS-Data-Sciences-Operations---Analytic--Summer-2027-_R-260585) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Business Intelligence (Power BI) Intern - Summer 2027 | Cincinnati, OH (USA) +1 | Paid | Nov 5 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Business-Intelligence--Power-BI--Intern---Summer-2027_R9843) |
@@ -204,6 +203,7 @@
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Summer 2027 Data Science Intern- Bachelor's/Master's (Santa Clara, CA) | Santa Clara,CA +1 | Paid | Oct 29 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | University - 2027 Summer Games Data Scientist Intern - Lexington, MA | Lexington, MA |  | Oct 29 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Data-Scientist-Intern---Lexington--MA_R0252275) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Digital Assurance & Transparency (DAT) - Data - Intern - Summer 2027 | IL-Rosemont +6 | \$29.25 - \$48.00 | Oct 29 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Digital-Assurance---Transparency--DAT----Data---Intern---Summer-2027_756926WD) |
+| [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Summer 2027 Data Scientist Intern -Bachelor's (Austin, TX) | Austin,TX +1 | Paid | Oct 29 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,6 +1,6 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-205 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 205). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 429 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+205 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 205). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 428 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -155,10 +155,10 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - (Summer 2027) | Charlotte, North Carolina | \$39.73 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/3831) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Edison, New Jersey | \$40.48 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4374) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern (Summer 2027!) | Sacramento, California | \$42.24 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4143) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Water Resources Engineering Intern (Summer 2027!) | Denver, Colorado | \$42.02 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4217) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Geologist Intern (Summer 2027!) | Denver, Colorado | \$34.32 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4343) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Tampa, Florida | \$36.96 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/3877) |
 | [Arcadis](https://internscout.org/internships/at/arcadis/) | Environmental Engineering Intern | Indianapolis, IN | \$17.00- \$31.00/hour | Sep 4 | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43937) |
+| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Water Resources Engineering Intern (Summer 2027!) | Denver, Colorado | \$42.02 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4186) |
 | [Hunt Oil Company](https://internscout.org/internships/at/hunt-oil-company/) | Geoscience Intern - Summer 2027 | Dallas, TX |  | Sep 4 | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1059) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027) | Dallas, Texas | \$36.96 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4311) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern (Summer 2027!) | Truckee, California | \$42.24 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4145) |

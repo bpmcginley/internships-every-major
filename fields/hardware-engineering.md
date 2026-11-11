@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-318 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 318). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 834 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+313 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 313). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 827 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -199,11 +199,11 @@
 | [Neuralink](https://internscout.org/internships/at/neuralink/) | Firmware Engineer Intern, Robotics and Surgery Engineering | South San Francisco, CA |  | Sep 25 | [Apply](https://go.vansh.nyc/QH) |
 | [Neuralink](https://internscout.org/internships/at/neuralink/) | Embedded Software Engineer Intern, Implant Embedded Systems | Austin, TX +1 |  | Sep 25 | [Apply](https://go.vansh.nyc/QF) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Software Defined Radio Hardware Associate Intern | SF |  | Sep 24 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4715983006) |
-| [Astranis](https://internscout.org/internships/at/astranis/) | Software Defined Radio Hardware Intern - Summer 2027 | SF |  | Sep 24 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4716088006) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Firmware Development Intern - PAL | Markham, ON, Canada +1 |  | Sep 23 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721229661) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | FPGA Intern (Summer 2027) | San Francisco +2 | \$29.00 per hour | Sep 23 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704805006) |
 | [Analog Devices](https://internscout.org/internships/at/analog-devices/) | Embedded Software Engineer Intern | Toronto, Canada +1 |  | Sep 23 | [Apply](https://go.vansh.nyc/Jm) |
 | Two Sigma | Hardware Engineering Intern | NYC +1 |  | Sep 22 | [Apply](https://twosigma.avature.net/careers/JobDetail/14289) |
+| [Marvell](https://internscout.org/internships/at/marvell/) | Analog Layout Intern - BS | Irvine, CA +1 |  | Sep 22 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Analog-Layout-Intern--BS---Summer-2027_2604735) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

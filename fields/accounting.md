@@ -203,7 +203,7 @@
 | [Land O'Lakes](https://internscout.org/internships/at/land-o-lakes/) | Accounting Intern | Arden Hills, MN (USA) | Paid | Sep 18 | [Apply](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Arden-Hills-MN-USA/Accounting-Intern_R-40502) |
 | [DuCharme, McMillen & Associates](https://internscout.org/internships/at/ducharme-mcmillen-associates/) | Transaction Tax Intern - Summer 2027 | Houston, TX |  | Sep 18 | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Houston-TX/Transaction-Tax-Intern---Summer-2027_REQ628) |
 | [Guardian Life](https://internscout.org/internships/at/guardian-life/) | 2027 Guardian Summer Intern, Corporate Finance & Risk - Agency Accounting | New York | \$20.00 - \$35.00 | Sep 18 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Corporate-Finance---Risk---Agency-Accounting_R000110129) |
-| [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Accounting Intern- Summer 2027 | Richfield, OH (USA) | Paid | Sep 18 | [Apply](https://gaig.wd1.myworkdayjobs.com/National_Interstate_External/job/Richfield-OH-USA/Accounting-Intern--Summer-2027_R9497-1) |
+| [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Accounting Intern- Summer 2027 | Richfield, OH (USA) |  | Sep 18 | [Apply](https://gaig.wd1.myworkdayjobs.com/National_Interstate_External/job/Richfield-OH-USA/Accounting-Intern--Summer-2027_R9497-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

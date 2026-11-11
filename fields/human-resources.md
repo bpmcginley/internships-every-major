@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-115 open Summer 2027 human resources roles, newest first (all 115). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 254 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+114 open Summer 2027 human resources roles, newest first (all 114). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 253 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -58,7 +58,6 @@
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern- Human Resources (Compensation) | HOUSTON, Texas |  | Sep 24 | [Apply](https://careers.kindermorgan.com/jobs/6309) |
 | Domino Data Lab | Software Engineer Intern, Campus Recruiting | New York, NY |  | Sep 23 | [Apply](https://go.vansh.nyc/1q4) |
 | [F&G](https://internscout.org/internships/at/f-g/) | Intern, Human Resources - Summer, 2027 | Des Moines, Iowa, United States |  | Sep 22 | [Apply](https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996524003) |
-| [AMD](https://internscout.org/internships/at/amd/) | AI Research Infrastructure – Reinforcement Learning Post-Training Intern | Santa Clara, CA |  | Sep 21 | [Apply](https://careers.amd.com/jobs/90950?icims=1) |
 | [AutoZone](https://internscout.org/internships/at/autozone/) | AutoZone 2027 Summer Internship – Human Resources | Memphis, TN |  | Sep 21 | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155429) |
 | [Post Holdings](https://internscout.org/internships/at/post-holdings/) | Talent Acquisition Intern Summer 2027 | New Albany, Ohio |  | Sep 18 | [Apply](https://jobs.postholdings.com/jobs/31978) |
 | [APEX Analytix](https://internscout.org/internships/at/apex-analytix/) | Learning and Development Intern (Summer 2027) | Greensboro, NC |  | Sep 15 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/c65b88f8-9e36-4c70-9c02-fe49feab120b) |
