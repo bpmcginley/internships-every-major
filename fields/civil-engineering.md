@@ -1,9 +1,10 @@
 # Civil Engineering: Summer 2027 Internships
 
-336 open Summer 2027 civil engineering roles, newest first (the 200 newest of 336). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 556 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+337 open Summer 2027 civil engineering roles, newest first (the 200 newest of 337). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 556 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Structural Engineering Intern - Summer 2027 | US.MI.Lansing.3100 West Road | \$25 - \$31 hour | Nov 11 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USMILansing3100-West-Road/Structural-Engineering-Intern---Summer-2027_R-171365) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Structural Engineering Intern (Summer 2027)(Onsite) | East Hartford-Eng, CT | Paid | Nov 11 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ENG--400-Main-St--BLDG-ENG/Structural-Engineering-Intern--Summer-2027--Onsite-_01887158) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Construction Intern, Summer 2027 | Harrisburg, PA |  | Nov 11 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310191) |
 | [STV](https://internscout.org/internships/at/stv/) | Structural Engineering Intern - Summer 2027 | Frisco, Texas | \$41,107.00 - \$46,713.00 | Nov 11 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Frisco-Texas/Structural-Engineering-Intern---Summer-2027_JR6490) |
@@ -203,7 +204,6 @@
 | [Haskell](https://internscout.org/internships/at/haskell/) | Summer 2027 Construction Intern | Jacksonville, Florida |  | Sep 2 | [Apply](https://haskell.jibeapply.com/jobs/7053) |
 | [Ruekert & Mielke](https://internscout.org/internships/at/ruekert-mielke/) | Survey Student Intern (Summer 2027) | Waukesha, Wisconsin |  | Sep 2 | [Apply](https://ruekertmielke.bamboohr.com/careers/311) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Commissioning Student Internship | Kansas City, MO +1 |  | Sep 1 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5408599008) |
-| [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Water (Summer 2027) | Houston, TX |  | Sep 1 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007363) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

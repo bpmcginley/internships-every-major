@@ -1,6 +1,6 @@
 # Marketing: Summer 2027 Internships
 
-287 open Summer 2027 marketing roles, newest first (the 200 newest of 287). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 740 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+285 open Summer 2027 marketing roles, newest first (the 200 newest of 285). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 737 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -13,9 +13,9 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Intern to the Chief of Staff, External Affairs & Growth (Washington, DC) | Washington, Washington, DC |  | Nov 10 | [Apply](https://jobs.constellationenergy.com/jobs/142425) |
 | [Aon](https://internscout.org/internships/at/aon/) | 2027 Wealthspire - Marketing Brand Intern | New York, New York | \$25.00 – \$27.00 per hour | Nov 10 | [Apply](https://jobs.aon.com/jobs/109985) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | GDIT Summer Internship Program – Summer 2027 Growth Team Technical Writer Internship | Herndon, VA | \$21.25 - \$28.75 | Nov 10 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Herndon/GDIT-Summer-Internship-Program---Summer-2027-Growth-Team-Technical-Writer-Internship_RQ231856) |
-| Jones Lang LaSalle (JLL) | Account Communications Summer 2027 Internship | Atlanta, GA |  | Nov 10 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Delta-Account-Communications-Summer-2027-Internship---Delta-Corporate-Headquarters--Atlanta--GA_REQ546149) |
+| [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Account Communications Summer 2027 Internship | Atlanta, GA |  | Nov 10 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Delta-Account-Communications-Summer-2027-Internship---Delta-Corporate-Headquarters--Atlanta--GA_REQ546149) |
 | Kyndryl | Marketing Internship | New York, NY, USA | \$30/hour | Nov 10 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Generalist_R-70009) |
-| Kyndryl | Marketing Internship, Marketing Analytics | New York, NY, USA +1 | \$30/hour | Nov 10 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analysis_R-70007-1) |
+| Kyndryl | Marketing Internship, Marketing Analytics | New York, NY, USA +1 |  | Nov 10 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analysis_R-70007-1) |
 | [DreamWorks Animation](https://internscout.org/internships/at/dreamworks-animation/) | Advertising & Partnerships: Data Science Intern | NYC |  | Nov 9 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160689930) |
 | [DreamWorks Animation](https://internscout.org/internships/at/dreamworks-animation/) | Data Science Intern, Advertising & Partnerships | New York, NY |  | Nov 9 | [Apply](https://go.vansh.nyc/1pJ) |
 | [DreamWorks Animation](https://internscout.org/internships/at/dreamworks-animation/) | Advertising & Partnerships: Ad Products Intern | NYC |  | Nov 9 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160686479) |
@@ -129,7 +129,6 @@
 | [Ursa Major](https://internscout.org/internships/at/ursa-major/) | 2027 Summer Marketing & Communications Intern | Berthoud, Colorado | \$30.00/hour | Oct 19 | [Apply](https://ursamajor.com/careers/?gh_jid=4744833005) |
 | [Ricoh](https://internscout.org/internships/at/ricoh/) | Software Engineer Intern, Graphic Communications | Boulder, CO |  | Oct 19 | [Apply](https://go.vansh.nyc/Vl) |
 | [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Marketing Insights | Lincolnshire, Illinois | \$25.50/hour | Oct 19 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Marketing-Insights_JR103616) |
-| [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Channel Marketing | Lincolnshire, Illinois | \$25.50 - \$32.00/hour | Oct 19 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Channel-Marketing_JR103613) |
 | [David Yurman](https://internscout.org/internships/at/david-yurman/) | Social Media Intern | New York, NY | \$25/hour | Oct 19 | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Social-Media-Intern_R-101140) |
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | ​International Digital Marketing Intern - The Toro Company | Bloomington, MN | \$20–\$24 | Oct 19 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/XMLNAME--International-Digital-Marketing-Intern---The-Toro-Company_JR17503) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Marketing and Sales Intern - Summer 2027 - Aurora, IL | Aurora, Illinois - United States of America |  | Oct 19 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Aurora-Illinois---United-States-of-America/Marketing-and-Sales-Intern---Summer-2027---Aurora--IL_R00214230) |
@@ -204,6 +203,7 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Backend Software Engineer Intern - Innovative Growth | San Jose, CA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7667934860750063925) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Creative Intelligence and Brand Innovation | San Jose, CA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7668642761473902901) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Marketing & Events Internship - Summer 2027 | Reston, VA | Paid | Nov 11, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8676/marketing-%26-events-internship---summer-2027/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Global Marketing Intern (Events & Content Small Scale) | Niles, IL | \$23-\$43 per hour | Nov 11, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5023/global-marketing-intern-%28events-%26-content-small-scale%29/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

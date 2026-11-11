@@ -1,6 +1,6 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-585 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 585). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,234 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+585 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 585). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,231 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | Johns Hopkins APL | AI & Data Science Intern, Analytic Capabilities | Laurel, MD |  | Nov 10 | [Apply](https://go.vansh.nyc/1pW) |
 | Kiewit | Machine Learning Intern, Kiewit Data Services | Omaha, NE |  | Nov 10 | [Apply](https://go.vansh.nyc/1pX) |
 | [onsemi](https://internscout.org/internships/at/onsemi/) | AI & Data Analytics Intern | Scottsdale, AZ |  | Nov 10 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010) |
+| [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Graduate Researcher (Summer 2027) – Applied Artificial Intelligence for Petroleum Engineering | Houston, TX |  | Nov 10 | [Apply](https://aramcoservices.applytojob.com/apply/tIaTOfPJhn/Graduate-Researcher-Summer-2027-Applied-Artificial-Intelligence-For-Petroleum-Engineering) |
 | [International](https://internscout.org/internships/at/international/) | AI/ML Intern | Lisle, Illinois +1 | \$27–\$32 per hour | Nov 10 | [Apply](https://careers.international.com/jobs/60456) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | GDIT Summer Internship Program – Summer 2027 AI/ML Business Intelligence Development Internship | Bossier City, LA | \$19.55 - \$26.45 | Nov 10 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935) |
 | [V2X](https://internscout.org/internships/at/v2x/) | AI Engineering Intern - Junior | Indianapolis, Indiana +1 | Paid | Nov 10 | [Apply](https://careers.gov2x.com/jobs/63949) |
@@ -203,7 +204,6 @@
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Deep Learning Research Intern - Embodied AI - Interim Engineering Intern - Systems | Markham, ON, Canada |  | Oct 29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721858024) |
 | [MITRE](https://internscout.org/internships/at/mitre/) | AI Solutions Architect Intern | McLean, VA |  | Oct 29 | [Apply](https://go.vansh.nyc/13Y) |
 | Ericsson | AI and Automation Engineer Intern | Plano, TX |  | Oct 29 | [Apply](https://go.vansh.nyc/YK) |
-| Syntiant | DevOps Machine Learning Infrastructure Intern | Irvine, CA |  | Oct 29 | [Apply](https://go.vansh.nyc/11V) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

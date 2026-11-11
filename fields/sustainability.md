@@ -1,9 +1,10 @@
 # Sustainability: Summer 2027 Internships
 
-83 open Summer 2027 sustainability roles, newest first (all 83). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 134 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+84 open Summer 2027 sustainability roles, newest first (all 84). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 135 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Climate Resiliency and Planning Intern (Summer 2027!) | Denver, Colorado | \$36.44 | Nov 11 | [Apply](https://careers.cdmsmith.com/jobs/4825) |
 | [Arcadis](https://internscout.org/internships/at/arcadis/) | EH&S Intern | Middletown, CT | \$24.96 - \$37.44 | Nov 10 | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45664) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern, Production Technician, Summer 2027 | Lake Charles, Louisiana |  | Nov 10 | [Apply](https://jobs.entergy.com/job/Lake-Charles-Student%2C-Intern%2C-Production-Technician%2C-Summer-2027-Loui/1439246500/) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Energy Efficiency | Ottawa, ON | \$31,621 - \$59,132 | Nov 9 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Ottawa-ON/XMLNAME-2027-Summer-Intern--Energy-Efficiency_R2603780) |

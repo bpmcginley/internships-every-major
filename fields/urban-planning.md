@@ -1,9 +1,10 @@
 # Urban Planning: Summer 2027 Internships
 
-61 open Summer 2027 urban planning roles, newest first (all 61). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 103 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+62 open Summer 2027 urban planning roles, newest first (all 62). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 104 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Climate Resiliency and Planning Intern (Summer 2027!) | Denver, Colorado | \$36.44 | Nov 11 | [Apply](https://careers.cdmsmith.com/jobs/4825) |
 | [Entegris](https://internscout.org/internships/at/entegris/) | Production Planning Intern | Danbury, CT | \$20-\$30/hour | Nov 10 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Danbury-CT/Production-Planning-Intern_REQ-15837) |
 | [Eversource Energy](https://internscout.org/internships/at/eversource-energy/) | 2027 Summer: GIS Intern (NH) | Manchester, NH | \$21.20 | Nov 10 | [Apply](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Manchester-NH/XMLNAME-2027-Summer--GIS-Intern--NH-_R-032537) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | New York, NY | \$21.74 - \$30.53 per hour | Nov 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98916) |

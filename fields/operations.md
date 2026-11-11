@@ -1,9 +1,10 @@
 # Operations: Summer 2027 Internships
 
-407 open Summer 2027 operations roles, newest first (the 200 newest of 407). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 982 operations internships on InternScout](https://internscout.org/internships/operations/)
+406 open Summer 2027 operations roles, newest first (the 200 newest of 406). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 983 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Clarios](https://internscout.org/internships/at/clarios/) | Quality Intern - Toledo, OH (Summer 2027) | United States, Ohio, Holland |  | Nov 11 | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Ohio-Holland/Quality-Intern---Toledo--OH--Summer-2027-_WD51208) |
 | [exacare ai](https://internscout.org/internships/at/exacare-ai/) | Sales Strategy and Operations Intern (Summer 2027) | Toronto, Canada |  | Nov 11 | [Apply](https://ats.rippling.com/exacare-inc/jobs/f67a7421-8d3e-4c58-aa82-bc1a864f4c55) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Client Experience Operations Intern - Summer 2027 | Phoenix, AZ |  | Nov 11 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Phoenix-AZ/Client-Experience-Operations-Intern--AZ----Winter-2027_R-085291) |
 | [Aerospace Corporation](https://internscout.org/internships/at/the-aerospace-corporation/) | Defensive Cyber Operations Grad Intern | El Segundo, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1pU) |
@@ -203,7 +204,6 @@
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Government Operations Intern Summer 2027 | Washington, DC | \$22.00 | Oct 2 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7992754003) |
 | [Scout Clean Energy](https://internscout.org/internships/at/scout-clean-energy/) | Operations Engineering Intern - Summer 2027 | Boulder, Colorado +1 | \$25-30/hour | Oct 2 | [Apply](https://apply.workable.com/j/7BF0CEDF9F/apply) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Mission Operations Internship - Summer 2027 | El Segundo, California, United States +1 | \$37.00 | Oct 1 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010682003) |
-| [Garmin](https://internscout.org/internships/at/garmin/) | Project Manager Intern - Global Partnerships & Engineering Business Development | Olathe, Kansas |  | Oct 1 | [Apply](https://careers.garmin.com/jobs/20134) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

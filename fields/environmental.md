@@ -1,9 +1,10 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-204 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 204). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 426 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+204 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 204). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 425 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Climate Resiliency and Planning Intern (Summer 2027!) | Denver, Colorado | \$36.44 | Nov 11 | [Apply](https://careers.cdmsmith.com/jobs/4825) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil/Environmental Engineering Co-op/Intern – Water (Summer 2027) | Fairfax, VA +1 |  | Nov 10 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008828) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | New Providence, New Jersey | \$20.00 | Nov 10 | [Apply](https://careers.trccompanies.com/jobs/28467) |
 | [Royal Caribbean Group](https://internscout.org/internships/at/royal-caribbean-group/) | Intern, Maritime Safety + Environmental Compliance (Summer 2027) | Miami, FL |  | Nov 10 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miami-Intern%2C-Maritime-Safety-%2B-Environmental-Compliance-%28Summer-2027%29-FL-33132/1449347100/) |
@@ -164,7 +165,6 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern (Summer 2027!) | Truckee, California | \$42.24 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4145) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Geology/Geological Engineering - Hydro & Dams Intern(Summer 2027) | Denver, CO |  | Sep 3 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007472) |
 | [Textron](https://internscout.org/internships/at/textron/) | 2027 Intern- EHS - Williamsport, PA | Williamsport, Pennsylvania |  | Sep 1 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342599) |
-| [Olsson](https://internscout.org/internships/at/olsson/) | Engineering Internship - Water Resources | Dallas, TX |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5399436008) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Water Resources Intern | Detroit, MI |  | Aug 31 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309782) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Environmental, Health & Safety (EHS) | Los Angeles, CA | \$28–\$36 per hour | Aug 26 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5376633008) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Environmental Health & Safety (EHS) Internship – Summer 2027 | El Segundo, California, United States |  | Nov 13, 2025 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7527870003) |

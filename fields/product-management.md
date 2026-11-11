@@ -1,6 +1,6 @@
 # Product Management: Summer 2027 Internships
 
-179 open Summer 2027 product management roles, newest first (all 179). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 319 product management internships on InternScout](https://internscout.org/internships/product-management/)
+180 open Summer 2027 product management roles, newest first (all 180). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 319 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -24,8 +24,9 @@
 | Southern Poverty Law Center | Intern, Program Management - Civil Rights Memorial Center (Summer 2027) | Montgomery, AL | \$18.40 per hour | Nov 6 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8930204002) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | POI Content Product Manager Intern | San Jose, CA |  | Nov 6 | [Apply](https://lifeattiktok.com/search/7696000179569854725) |
 | [DwyerOmega](https://internscout.org/internships/at/dwyeromega/) | Product Management Intern - Pressure & Force | Michigan City, IN +1 |  | Nov 6 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4645741) |
-| [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - Product Management | California - San Francisco +3 | \$54 - \$61 per hour | Nov 6 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659) |
+| [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - Product Management | California - San Francisco +3 | \$54 - \$61 per hour | Nov 6 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659-1) |
 | [Honeywell](https://internscout.org/internships/at/honeywell/) | Product Management Intern (MBA) | Atlanta, GA |  | Nov 6 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159658) |
+| [Salesforce](https://internscout.org/internships/at/salesforce/) | Product Management Intern - Product Management | SF +1 |  | Nov 6 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659) |
 | [Invesco](https://internscout.org/internships/at/invesco/) | Digital Product Management Intern | Atlanta, GA |  | Nov 5 | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1) |
 | [Trimble](https://internscout.org/internships/at/trimble/) | Product Management Intern | US - CO +4 |  | Nov 3 | [Apply](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1) |
 | [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Go-To-Market Product Manager | Lincolnshire, Illinois +1 | \$24.00-\$29.00/hour | Nov 3 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Go-To-Market-Product-Manager_JR103647) |

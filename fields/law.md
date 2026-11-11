@@ -1,10 +1,11 @@
 # Law and Legal: Summer 2027 Internships
 
-130 open Summer 2027 law and legal roles, newest first (all 130). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 256 law and legal internships on InternScout](https://internscout.org/internships/law/)
+131 open Summer 2027 law and legal roles, newest first (all 131). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 257 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | Daimler Truck | Governance, Risk, and Compliance (GRC) Analyst Intern, Cybersecurity | Detroit, MI |  | Nov 11 | [Apply](https://go.vansh.nyc/1uo) |
+| Ace Hardware | Legal 2027 Summer Internship (Full Time/Paid/12 weeks) | IL - Oak Brook | \$22.00 per hour | Nov 11 | [Apply](https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/Legal-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34989) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Legal Intern | Atlanta, GA |  | Nov 10 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Legal-Intern_R-0000033894) |
 | [Royal Caribbean Group](https://internscout.org/internships/at/royal-caribbean-group/) | Intern, Maritime Safety + Environmental Compliance (Summer 2027) | Miami, FL |  | Nov 10 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miami-Intern%2C-Maritime-Safety-%2B-Environmental-Compliance-%28Summer-2027%29-FL-33132/1449347100/) |
 | [The Travelers Companies](https://internscout.org/internships/at/the-travelers-companies/) | Legal Intern | NJ - Morristown | \$36.00 - \$37.00 | Nov 10 | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/NJ---Morristown/Legal-Intern_R-53701) |

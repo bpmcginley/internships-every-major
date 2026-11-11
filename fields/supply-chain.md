@@ -1,6 +1,6 @@
 # Supply Chain: Summer 2027 Internships
 
-217 open Summer 2027 supply chain roles, newest first (the 200 newest of 217). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 457 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
+216 open Summer 2027 supply chain roles, newest first (the 200 newest of 216). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 455 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -138,7 +138,6 @@
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Supply Chain Operations Intern - Summer 2027 | Mechanicsburg, Pennsylvania | \$23 to \$27.50 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/137740) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Logistics Quality Engineering Intern - Summer 2027 | Middletown, Pennsylvania | \$23 to \$27.50 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/138184) |
 | [Allison Transmission](https://internscout.org/internships/at/allison-transmission/) | Global Supply Chain Intern - Summer 2027 | Indianapolis, IN |  | Oct 26 | [Apply](https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Global-Supply-Chain-Intern---Summer-2027_R008236) |
-| [Allison Transmission](https://internscout.org/internships/at/allison-transmission/) | Supplier Quality Intern - Summer 2027 | Indianapolis, IN |  | Oct 26 | [Apply](https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Supplier-Quality-Intern---Summer-2027_R008280) |
 | [Target](https://internscout.org/internships/at/target/) | Operation Manager Intern (Starting Summer 2027) Regional Distribution Center - Topeka, KS | 1100 SW 57th St, Topeka,KS 66609-1261 |  | Oct 24 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/1100-SW-57th-St-TopekaKS-66609-1261/Operation-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center---Topeka--KS_R0000450433) |
 | [Target](https://internscout.org/internships/at/target/) | Operation Manager Intern (Starting Summer 2027) Regional Distribution Center - Rialto, CA | 3105 N Mango Ave, Rialto,CA 92377-4901 |  | Oct 24 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/3105-N-Mango-Ave-RialtoCA-92377-4901/Operation-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center---Rialto--CA_R0000450434-1) |
 | [Target](https://internscout.org/internships/at/target/) | Operation Manager Intern (Starting Summer 2027) Regional Distribution Center - Oconomowoc, WI | 1100 E Valley Rd, Oconomowoc,WI 53066-4821 |  | Oct 24 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/1100-E-Valley-Rd-OconomowocWI-53066-4821/Operation-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center---Oconomowoc--WI_R0000450394-1) |
@@ -204,6 +203,7 @@
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Supply Chain - Michigan | Portage, Michigan |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Supply-Chain---Michigan_R572585) |
 | [Church & Dwight](https://internscout.org/internships/at/church-dwight/) | 2027 Undergraduate Global Supply Chain Co-Op | Ewing, NJ |  | Sep 18 | [Apply](https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/XMLNAME-2027-Undergraduate-Global-Supply-Chain-Co-Op_R2026-15617) |
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | UPS Supply Chain Solutions 2027 Summer Intern | US - UPS CORPORATE OFFICES (GACOR) |  | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Supply-Chain-Solutions-2027-Summer-Intern_R26030498) |
+| [Pentair](https://internscout.org/internships/at/pentair/) | Supply Chain & Operations Leadership Development Internship Program - Summer 2027 | Golden Valley, MN +10 | \$28.00/ hour | Sep 18 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Supply-Chain---Operations-Leadership-Development-Internship-Program---Summer-2027_R23712) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

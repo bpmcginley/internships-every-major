@@ -1,9 +1,10 @@
 # Accounting: Summer 2027 Internships
 
-215 open Summer 2027 accounting roles, newest first (the 200 newest of 215). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 482 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+216 open Summer 2027 accounting roles, newest first (the 200 newest of 216). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 483 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Motorola](https://internscout.org/internships/at/motorola/) | Finance & Accounting Intern (2027 Internship) | Chicago, IL |  | Nov 11 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Finance---Accounting-Intern--2027-Internship-_R68331) |
 | [RSM](https://internscout.org/internships/at/rsm/) | International Business Tax Intern Summer 2027 | Houston | \$34 - \$40 per hour | Nov 11 | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Houston/International-Business-Tax-Intern-Summer-2027_JR119118) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Summer 2027: Accounting Intern (May through August) | Needham, MA, United States |  | Nov 10 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727347006) |
 | [Arch Capital Group](https://internscout.org/internships/at/arch-capital-group/) | Tax Summer Intern | White Plains, NY United States of America | Paid | Nov 10 | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/White-Plains-NY-United-States-of-America/Tax-Summer-Intern_R26_794) |
@@ -102,7 +103,7 @@
 | [CareBridge](https://internscout.org/internships/at/carebridge/) | Internal IT Audit Intern - Summer 2027 | FL-TAMPA, 5411 SKYCENTER DR, STE 700 & 800 |  | Oct 14 | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-TAMPA-5411-SKYCENTER-DR-STE-700--800/Intern_JR210003) |
 | [HF Sinclair](https://internscout.org/internships/at/hf-sinclair/) | Accounting Intern | Dallas, TX |  | Oct 14 | [Apply](https://careers.hfsinclair.com/job/Dallas-Accounting-Intern-TX-75219/1430072000/) |
 | [westernalliancebank](https://internscout.org/internships/at/westernalliancebank/) | Summer 2027 Internship - Phoenix, AZ - Accounting | Phoenix, AZ | Paid | Oct 13 | [Apply](https://westernalliancebank.wd5.myworkdayjobs.com/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Accounting_R13756-1) |
-| [C&S Wholesale Grocers](https://internscout.org/internships/at/c-s-wholesale-grocers/) | Finance/Accounting Intern - Summer 2027 | Brattleboro, VT |  | Oct 13 | [Apply](https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Brattleboro-VT/Job-Posting-Title-Finance-Accounting-Intern---Summer-2027_R-269101) |
+| [C&S Wholesale Grocers](https://internscout.org/internships/at/c-s-wholesale-grocers/) | Finance/Accounting Intern - Summer 2027 | Brattleboro, VT | Paid | Oct 13 | [Apply](https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Brattleboro-VT/Job-Posting-Title-Finance-Accounting-Intern---Summer-2027_R-269101) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Technical Accounting Intern (Summer 2027) | USA - Texas - Austin | \$20.00 - \$40.00 | Oct 13 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Technical-Accounting-Intern--Summer-2027-_JR-2604485) |
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Accounting | Phoenix, AZ | Paid | Oct 13 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Accounting_R13756-1) |
 | [Republic Airways](https://internscout.org/internships/at/republic-airways/) | Accounting Intern - Summer 2027 | Carmel Headquarters, IN |  | Oct 12 | [Apply](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Accounting-Intern---Summer-2027_JR-007798) |
@@ -203,7 +204,6 @@
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Accounting Intern- Summer 2027 | Richfield, OH (USA) | Paid | Sep 18 | [Apply](https://gaig.wd1.myworkdayjobs.com/National_Interstate_External/job/Richfield-OH-USA/Accounting-Intern--Summer-2027_R9497-1) |
 | [Newrez](https://internscout.org/internships/at/newrez/) | 2027 Summer Internship - Finance & Accounting | TX, Coppell |  | Sep 18 | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Finance---Accounting_R10354) |
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | UPS Global Finance & Accounting Summer 2027 Internship | US - UPS CORPORATE OFFICES (GACOR) |  | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Global-Finance---Accounting-Summer-2027-Internship_R26030590) |
-| [Church & Dwight](https://internscout.org/internships/at/church-dwight/) | 2027 Undergraduate Summer Corporate Accounting Intern | Ewing, NJ |  | Sep 18 | [Apply](https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/XMLNAME-2027-Undergraduate-Summer-Corporate-Accounting-Intern_R2026-15648) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
