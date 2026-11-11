@@ -1,6 +1,6 @@
 # Supply Chain: Summer 2027 Internships
 
-215 open Summer 2027 supply chain roles, newest first (the 200 newest of 215). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 455 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
+214 open Summer 2027 supply chain roles, newest first (the 200 newest of 214). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 454 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -64,7 +64,6 @@
 | [DP World](https://internscout.org/internships/at/dp-world/) | Procurement intern | Charlotte, NC |  | Oct 21 | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27446) |
 | [SpartanNash](https://internscout.org/internships/at/spartannash/) | Strategic Sourcing Intern - Summer 2027 | Byron Center, Michigan | Paid | Oct 21 | [Apply](https://spartannash.wd1.myworkdayjobs.com/SpartanNash_Careers/job/Byron-Center-Michigan/Strategic-Sourcing-Intern---Summer-2027_R90583) |
 | [ABB](https://internscout.org/internships/at/abb/) | Manufacturing Supply Chain Intern Westville, OK- Summer 2027 | USA, OK |  | Oct 21 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-OK-Westville/Manufacturing-Supply-Chain-Intern-Westville--OK--Summer-2027_JR00050263-1) |
-| [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program – Translational Sciences and Outsourcing – Intern | USA - California - South San Francisco (Grand Ave) | \$39,108 | Oct 20 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Translational-Sciences-and-Outsourcing---Intern_R413062) |
 | [Target](https://internscout.org/internships/at/target/) | Operation Manager Intern (Starting Summer 2027) Flow Distribution Center - Riverside, CA | 23000 Van Buren Blvd, Riverside,CA 92518-2401 | \$28.00 per hour | Oct 20 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/23000-Van-Buren-Blvd-RiversideCA-92518-2401/Operation-Manager-Intern--Starting-Summer-2027--Flow-Distribution-Center---Riverside--CA_R0000450436) |
 | Astronics | Supply Chain Internship - Summer 2027 | Redmond, Washington, United States | \$30 per hour | Oct 19 | [Apply](https://job-boards.greenhouse.io/astronicscorporation/jobs/4458283009) |
 | [Amplify](https://internscout.org/internships/at/amplify/) | Summer 2027: Supply Chain Intern | Remote |  | Oct 19 | [Apply](https://jobs.ashbyhq.com/amplify/143c8ccc-69ce-4141-bcfe-0bc553ea49b4/application) |
@@ -204,6 +203,7 @@
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | UPS Supply Chain Solutions 2027 Summer Intern | US - UPS CORPORATE OFFICES (GACOR) |  | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Supply-Chain-Solutions-2027-Summer-Intern_R26030498) |
 | [Pentair](https://internscout.org/internships/at/pentair/) | Supply Chain & Operations Leadership Development Internship Program - Summer 2027 | Golden Valley, MN +10 | \$28.00/ hour | Sep 18 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Supply-Chain---Operations-Leadership-Development-Internship-Program---Summer-2027_R23712) |
 | [Ingredion](https://internscout.org/internships/at/ingredion/) | Global Supply Chain Data Science Intern | Westchester, IL | \$20-23hour | Sep 18 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Supply-Chain-Data-Science-Intern_Req-40226-1) |
+| [Shure](https://internscout.org/internships/at/shure/) | Global Logistics Intern | Niles, IL |  | Sep 18 | [Apply](https://careersus-shure.icims.com/jobs/4987/global-logistics-intern/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,9 +1,10 @@
 # Civil Engineering: Summer 2027 Internships
 
-340 open Summer 2027 civil engineering roles, newest first (the 200 newest of 340). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 560 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+340 open Summer 2027 civil engineering roles, newest first (the 200 newest of 340). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 559 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [WSP](https://internscout.org/internships/at/wsp/) | Civil/Structural Engineering (Transmission Lines) Intern - Summer 2027 | Ann Arbor, MI | \$23.03- \$29.96 per hour | Nov 11 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99140) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Geotechnical Engineering Intern - Summer 2027 | Reno, NV | \$23.03 - \$31.11 | Nov 11 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98841) |
 | [Global Infrastructure](https://internscout.org/internships/at/global-infrastructure/) | Intern Construction Management | US +1 |  | Nov 11 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IL--Chicago---200-South-Wacker-Drive/Intern-Construction-Management_6729-1) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Geotechnical Engineering Intern - Summer 2027 | Elko, NV | \$23.03 - \$31.11 | Nov 11 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99165) |
@@ -11,7 +12,6 @@
 | [RTX](https://internscout.org/internships/at/rtx/) | Structural Engineering Intern (Summer 2027)(Onsite) | East Hartford-Eng, CT | Paid | Nov 11 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ENG--400-Main-St--BLDG-ENG/Structural-Engineering-Intern--Summer-2027--Onsite-_01887158) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Construction Intern, Summer 2027 | Harrisburg, PA |  | Nov 11 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310191) |
 | [STV](https://internscout.org/internships/at/stv/) | Structural Engineering Intern - Summer 2027 | Frisco, Texas | \$41,107.00 - \$46,713.00 | Nov 11 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Frisco-Texas/Structural-Engineering-Intern---Summer-2027_JR6490) |
-| [WSP](https://internscout.org/internships/at/wsp/) | Traffic Engineering Intern- Summer 2027 | Chicago, IL | Paid | Nov 11 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97028) |
 | [ATC](https://internscout.org/internships/at/atc/) | Intern - Civil Engineering Summer 2027 | Pewaukee, WI +2 | \$23-27/hr | Nov 11 | [Apply](https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern---Engineering-Summer-2027_R0003304) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Civil Engineering Intern, Rotational Program - Summer 2027 | Harrisburg, PA |  | Nov 10 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310189) |
 | [STV](https://internscout.org/internships/at/stv/) | Transportation Engineering Intern - Summer 2027 | San Antonio, Texas | \$43,391.00 - \$49,308.00 | Nov 10 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/San-Antonio-Texas/Transportation-Engineering-Intern---Summer-2027_JR6201) |

@@ -1,6 +1,6 @@
 # Consulting: Summer 2027 Internships
 
-126 open Summer 2027 consulting roles, newest first (all 126). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 245 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+125 open Summer 2027 consulting roles, newest first (all 125). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 244 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -78,7 +78,6 @@
 | Elire | AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data | Remote +3 |  | Sep 15 | [Apply](https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Client Solutions Manager Intern - GBS-LATAM | Miami, FL |  | Sep 14 | [Apply](https://lifeattiktok.com/search/7684612598114240821) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Sustainability and Climate Strategy Intern (Remote) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138731) |
-| [Dell Technologies](https://internscout.org/internships/at/dell-technologies/) | Hardware Engineering Intern - Client Solutions Group Engineering | Austin, TX |  | Sep 10 | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298216) |
 | [Pilot Company](https://internscout.org/internships/at/pilot-company/) | Data Governance Intern | Knoxville, TN |  | Sep 9 | [Apply](https://jobs.smartrecruiters.com/PilotCompany/744000148572871) |
 | [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Summer Associate Internship (Fraud Data Governance) | Vienna, VA |  | Sep 9 | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32310) |
 | [RF-SMART](https://internscout.org/internships/at/rf-smart/) | Product Strategy Intern - Summer 2027 | Jacksonville, Florida, United States +1 | \$25/hour | Sep 8 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5409030008) |

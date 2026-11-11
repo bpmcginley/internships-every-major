@@ -1,6 +1,6 @@
 # Product Management: Summer 2027 Internships
 
-179 open Summer 2027 product management roles, newest first (all 179). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 319 product management internships on InternScout](https://internscout.org/internships/product-management/)
+179 open Summer 2027 product management roles, newest first (all 179). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 318 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Shure](https://internscout.org/internships/at/shure/) | Global Product Management Data Intern | Niles, IL | \$23-\$43 per hour | Nov 11, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5024/global-product-management-data-intern/job) |
 | [Databricks](https://internscout.org/internships/at/databricks/) | Product Management Intern (Summer 2027) | Bellevue, Washington +5 | \$51.50 | Aug 17, 2023 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Program Management Intern – Summer 2027 | New York, NY |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/New-York-NY/Program-Management-Intern---Summer-2027_R-31828) |
-| [Watts Water](https://internscout.org/internships/at/watts-water/) | Product Specialist Intern, Summer 2027 | Fort Myers, FL +1 |  | Oct 24 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Myers-FL/Product-Specialist-Intern-2027_10017586) |
+| [Watts Water](https://internscout.org/internships/at/watts-water/) | Product Specialist Intern, Summer 2027 | Fort Myers, FL +1 | Paid | Oct 24 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Myers-FL/Product-Specialist-Intern-2027_10017586) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Construction Project & Program Management Intern (Summer 2027) | San Jose, CA |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/San-Jose-CA/Construction-Project---Program-Management-Intern--Summer-2027-_R-31763) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Program Management Intern | Kirkland, WA +1 |  | Oct 20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Program-Management-Intern-WA-98033/1449176233/) |
 | [Danaher Corporation](https://internscout.org/internships/at/danaher-corporation/) | Product Management & Marketing Intern (Summer 2027 Intern) | Logan, Utah, United States |  | Oct 17 | [Apply](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/Product-Management---Marketing-Intern--Summer-2027-Intern-_R1317692) |

@@ -1,6 +1,6 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-652 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 652). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,159 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+651 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 651). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,159 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,6 +11,7 @@
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Data Analytics (Reston, VA or Remote) | Reston, VA | \$23/hour | Nov 11 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1) |
 | [Genentech](https://internscout.org/internships/at/genentech/) | 2027 Summer Intern - Biostatistics and Analytical Data Sciences | South San Francisco, CA | \$34.00-\$52.00 per hour | Nov 11 | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Biostatistics-and-Analytical-Data-Sciences_202611-128787) |
 | [exacare ai](https://internscout.org/internships/at/exacare-ai/) | Data and Analytics Intern (Summer 2027) | Toronto, Canada +1 |  | Nov 11 | [Apply](https://ats.rippling.com/exacare-inc/jobs/e42f12bc-041a-4ef2-90d8-a77cd7f1f166) |
+| [Cigna Group](https://internscout.org/internships/at/cigna-group/) | Product Analytics Summer Intern - Start Date: May 24, 2027 | Morris Plains, NJ +1 | \$26.00 | Nov 11 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Product-Analytics-Summer-Intern---Start-Date--May-24--2027_26010180) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Site Reliability Engineer Intern, Data Platform, Computer Platform | San Jose, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1s7) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | AI/ML Business Intelligence Development Intern | Bossier City, LA |  | Nov 10 | [Apply](https://go.vansh.nyc/1s6) |
 | Art of Problem Solving | Data Science Intern | San Diego, California, United States +1 | \$30 / hour | Nov 10 | [Apply](https://artofproblemsolving.com/careers/job/8201037003?gh_jid=8201037003) |
@@ -142,9 +143,9 @@
 | [Scotiabank](https://internscout.org/internships/at/scotiabank/) | GBM - Corporate Banking, Credit Analytics Group (CAG) Internship/Co-op - Summer 2027 | Toronto, ON, Canada |  | Nov 2 | [Apply](https://jobs.scotiabank.com/job/Toronto-GBM-Corporate-Banking%2C-Credit-Analytics-Group-%28CAG%29-InternshipCo-op-Summer-2027-ON/607644017/) |
 | [Booz Allen](https://internscout.org/internships/at/booz-allen-hamilton/) | Summer Games Data Scientist Intern | Detroit, MI |  | Nov 2 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Transportation Data Analyst Intern - Summer 2027 | Seattle, WA |  | Nov 2 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97952) |
+| [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program - Patient Data Learning - Co-op | USA - Massachusetts - Cambridge (320 Bent Street) +1 | \$39,908 - \$111,111 | Nov 2 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Patient-Data-Learning---Co-op_R424526) |
 | [Cadence Design Systems](https://internscout.org/internships/at/cadence-design-systems/) | CST Intern - Data Center GTM Intern | SAN JOSE | \$28.60 to \$53.12 | Nov 2 | [Apply](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/CST-Intern---Data-Center-GTM-Intern_R57099-1) |
 | [Cadence](https://internscout.org/internships/at/cadence/) | CST Intern - Data Center GTM Intern | SAN JOSE | \$28.60 to \$53.12 | Nov 2 | [Apply](https://cadence.wd1.myworkdayjobs.com/external_careers/job/SAN-JOSE/CST-Intern---Data-Center-GTM-Intern_R57099-2) |
-| [Merck](https://internscout.org/internships/at/merck/) | Future Talent Program Co-op - Patient Data Learning | Cambridge, MA |  | Nov 2 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Patient-Data-Learning---Co-op_R424526) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Summer 2027 Data Intelligence/Technical Program Management Intern- Master's (Santa Clara, CA) | Santa Clara,CA +1 |  | Nov 2 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Intelligence-Technical-Program-Management-Intern--Master-s--Santa-Clara--CA-_R2627705) |
 | [Noblis](https://internscout.org/internships/at/noblis/) | Summer 2027 - Data Science and Innovation Intern | Reston, Virginia +3 | \$22.00 | Nov 2 | [Apply](https://careers.noblis.org/jobs/28097) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | University - 2027 Summer Games Data Scientist Intern - Royal Oak, MI | Detroit, MI |  | Nov 2 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783) |
@@ -203,7 +204,6 @@
 | [SageSure](https://internscout.org/internships/at/sagesure/) | Data Science Intern | Jersey City, NJ |  | Oct 28 | [Apply](https://go.vansh.nyc/1oi) |
 | [Micron Technology](https://internscout.org/internships/at/micron-technology/) | Data Science Intern | San Jose, CA +1 |  | Oct 28 | [Apply](https://go.vansh.nyc/XF) |
 | PrizePicks | Business Intelligence Intern - Game Operations | Atlanta, GA |  | Oct 28 | [Apply](http://prizepicks.com/position?gh_jid=8047188003) |
-| [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | Genomics, Computational Biology & Translational Data Science Intern | Tarrytown, NY +1 |  | Oct 28 | [Apply](https://go.vansh.nyc/Zj) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,9 +1,10 @@
 # Aerospace Engineering: Summer 2027 Internships
 
-36 open Summer 2027 aerospace engineering roles, newest first (all 36). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 68 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
+37 open Summer 2027 aerospace engineering roles, newest first (all 37). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 69 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Castelion | Propulsion Engineering Intern (Summer 2027) | Torrance, CA |  | Nov 11 | [Apply](https://job-boards.greenhouse.io/castelioncorporation/jobs/4503740009) |
 | [Pivotal Software](https://internscout.org/internships/at/pivotal-software/) | Internship, Flight Test Engineer (Summer 2027) | Palo Alto, CA |  | Nov 9 | [Apply](https://jobs.lever.co/pivotal/67927cb0-cf1a-4775-93be-61db3efe684b/apply) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Aerospace, Defense & Government Finance | New York, New York | \$22.44 | Nov 6 | [Apply](https://firstcitizens.jibeapply.com/jobs/35782) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Avionics & Electrical Engineering Internship Summer 2027 | Centennial, CO | \$23.10 - \$37.95 | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Avionics-&-Electrical-Engineering-Internship-Summer-2027-CO-80112/1427399200/) |

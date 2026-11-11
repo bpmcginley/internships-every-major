@@ -1,6 +1,6 @@
 # Insurance: Summer 2027 Internships
 
-101 open Summer 2027 insurance roles, newest first (all 101). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 188 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+101 open Summer 2027 insurance roles, newest first (all 101). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 186 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -10,7 +10,7 @@
 | Markel Group, Inc. | Actuarial Intern | Richmond, VA +1 | \$24-\$28.50/hr | Nov 9 | [Apply](https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Richmond-VA/Actuarial-Intern_R0023907) |
 | [Selective Insurance](https://internscout.org/internships/at/selective-insurance/) | Actuarial - Commercial Lines, Personal Lines, and Loss Reserving Summer Internships - Short Hills, NJ (Hybrid) | Short Hills, New Jersey | \$22.00 | Nov 6 | [Apply](https://jobs.selective.com/jobs/5756) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Insurance Policy Research Intern | New York, NY +1 | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6053/summer-2027-insurance-policy-research-intern/job) |
-| [Baldwin Group](https://internscout.org/internships/at/baldwin-group/) | Underwriting Intern, MSI | Hallandale Beach, Florida, US | Paid | Nov 5 | [Apply](https://baldwin.wd1.myworkdayjobs.com/Baldwin/job/Hallandale-Beach-Florida-US/Underwriting-Intern--MSI_JR110197-1) |
+| Baldwin Group | Underwriting Intern, MSI | Hallandale Beach, Florida, US | Paid | Nov 5 | [Apply](https://baldwin.wd1.myworkdayjobs.com/Baldwin/job/Hallandale-Beach-Florida-US/Underwriting-Intern--MSI_JR110197-1) |
 | MSI | Underwriting Intern, MSI | Hallandale Beach, Florida, US | Paid | Nov 5 | [Apply](https://baldwin.wd1.myworkdayjobs.com/MSI/job/Hallandale-Beach-Florida-US/Underwriting-Intern--MSI_JR110197) |
 | [Chubb](https://internscout.org/internships/at/chubb/) | Underwriting Intern | Chicago, IL +3 | \$18 to \$24 per hour | Nov 4 | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38333) |
 | [Chubb](https://internscout.org/internships/at/chubb/) | Underwriting Intern | Chattanooga, TN +3 | \$18 to \$24 per hour | Nov 4 | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38331) |

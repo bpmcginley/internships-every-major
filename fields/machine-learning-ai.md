@@ -1,6 +1,6 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-587 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 587). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,235 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+584 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 584). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,234 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -188,7 +188,6 @@
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | AI Systems Software Engineering Intern | Austin, TX |  | Oct 30 | [Apply](https://go.vansh.nyc/10o) |
 | [MITRE](https://internscout.org/internships/at/mitre/) | Trustworthy AI Intern | McLean, VA |  | Oct 30 | [Apply](https://go.vansh.nyc/10r) |
 | University of Miami | Data Science & AI Intern | Miami, FL |  | Oct 30 | [Apply](https://go.vansh.nyc/11t) |
-| Revvity | Full-Stack AI Developer Intern | Canada |  | Oct 30 | [Apply](https://go.vansh.nyc/116) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern – Research and Development – Vehicle Aerodynamics and Machine Learning | Warren, Michigan, United States of America |  | Oct 30 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Aerodynamics-and-Machine-Learning_JR-202622746) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Software Development Engineer Intern, Machine Learning/Automated Reasoning | Seattle, WA |  | Oct 30 | [Apply](https://go.vansh.nyc/10y) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | VLSI CAD Timing Intern, Applied AI - Summer 2027 | US, CA +3 |  | Oct 30 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799) |
@@ -204,6 +203,7 @@
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Deep Learning Research Intern, Embodied AI Systems | Markham, Canada |  | Oct 29 | [Apply](https://go.vansh.nyc/ZM) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | AI Software Systems Co-op Intern | Toronto, ON, Canada +1 |  | Oct 29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862430) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | AI Software Engineering Co-op Intern | Toronto, ON, Canada +1 |  | Oct 29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862429) |
+| [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Deep Learning Research Intern - Embodied AI - Interim Engineering Intern - Systems | Markham, ON, Canada |  | Oct 29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721858024) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

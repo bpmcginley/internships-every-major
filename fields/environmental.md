@@ -1,9 +1,10 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-204 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 204). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 425 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+204 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 204). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 426 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | San Francisco, California | \$20.00 | Nov 11 | [Apply](https://careers.trccompanies.com/jobs/28632) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Climate Resiliency and Planning Intern (Summer 2027!) | Denver, Colorado | \$36.44 | Nov 11 | [Apply](https://careers.cdmsmith.com/jobs/4825) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil/Environmental Engineering Co-op/Intern – Water (Summer 2027) | Fairfax, VA +1 |  | Nov 10 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008828) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | New Providence, New Jersey | \$20.00 | Nov 10 | [Apply](https://careers.trccompanies.com/jobs/28467) |
@@ -116,7 +117,6 @@
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Woburn, Massachusetts | \$20.00 | Sep 22 | [Apply](https://careers.trccompanies.com/jobs/26916) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Windsor, Connecticut | \$20.00 | Sep 22 | [Apply](https://careers.trccompanies.com/jobs/26917) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Chicago, Illinois | \$20.00 | Sep 22 | [Apply](https://careers.trccompanies.com/jobs/26856) |
-| [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | San Francisco, California | \$20.00 | Sep 22 | [Apply](https://careers.trccompanies.com/jobs/26787) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Jackson, Wyoming | \$20.00 | Sep 22 | [Apply](https://careers.trccompanies.com/jobs/26910) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Midland, Texas | \$20.00 | Sep 22 | [Apply](https://careers.trccompanies.com/jobs/26811) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Boston, Massachusetts | \$20.00 | Sep 22 | [Apply](https://careers.trccompanies.com/jobs/26817) |

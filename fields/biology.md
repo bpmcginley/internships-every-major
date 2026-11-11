@@ -1,6 +1,6 @@
 # Biology: Summer 2027 Internships
 
-21 open Summer 2027 biology roles, newest first (all 21). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 728 biology internships on InternScout](https://internscout.org/internships/biology/)
+20 open Summer 2027 biology roles, newest first (all 20). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 731 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -13,7 +13,6 @@
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Pharmacy Operations Internship (Remote) – Summer 2027 (Undergraduate) | United States |  | Nov 3 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040155) |
 | LabCorp | Full-Stack Life Sciences Software Engineer Co-op | Durham, NC +1 |  | Nov 2 | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Summer Intern, QC Microbiology | Indianapolis - RayzeBio - IN | \$24.00 - \$45.00 | Oct 30 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Indianapolis---RayzeBio---IN/Summer-Intern--QC-Microbiology_R1608000) |
-| [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | Genomics, Computational Biology & Translational Data Science Intern | Tarrytown, NY +1 |  | Oct 28 | [Apply](https://go.vansh.nyc/Zj) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Biologics Development 2027 Summer Internship Program | Devens - MA - US | \$24.00 - \$45.00 | Oct 28 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Devens---MA---US/Biologics-Development-2027-Summer-Internship-Program_R1607941) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Global Regulatory Sciences Biopharmaceutical Sector Internship Summer 2027 | Princeton - NJ - US +1 |  | Oct 27 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Global-Regulatory-Sciences-Biopharmaceutical-Sector-Internship-Summer-2027_R1607871) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | R&D GSC Microbiology Resource Center Internship- Brecksville, OH | Brecksville, OH |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627508) |

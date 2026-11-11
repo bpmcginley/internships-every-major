@@ -1,9 +1,10 @@
 # Operations: Summer 2027 Internships
 
-402 open Summer 2027 operations roles, newest first (the 200 newest of 402). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 979 operations internships on InternScout](https://internscout.org/internships/operations/)
+403 open Summer 2027 operations roles, newest first (the 200 newest of 403). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 979 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Amgen](https://internscout.org/internships/at/amgen/) | Grad Intern - Operations – Process Development (Summer 2027) | US - California - Thousand Oaks | \$35.34 - \$41.20 per hour | Nov 11 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Process-Development--Summer-2027-_R-254519) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Operations Engineering Intern (Summer 2027) | Farmington, NM | Paid | Nov 11 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NM-FARMINGTON-426S--10059-Hwy-371-S--SOUTH-BLDG/Operations-Engineering-Intern--Summer-2027-_01878570) |
 | [Clarios](https://internscout.org/internships/at/clarios/) | Quality Intern - Toledo, OH (Summer 2027) | United States, Ohio, Holland |  | Nov 11 | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Ohio-Holland/Quality-Intern---Toledo--OH--Summer-2027-_WD51208) |
 | [exacare ai](https://internscout.org/internships/at/exacare-ai/) | Sales Strategy and Operations Intern (Summer 2027) | Toronto, Canada |  | Nov 11 | [Apply](https://ats.rippling.com/exacare-inc/jobs/f67a7421-8d3e-4c58-aa82-bc1a864f4c55) |
@@ -203,7 +204,6 @@
 | [Garmin](https://internscout.org/internships/at/garmin/) | Project Manager Intern - Global Partnerships & Engineering Business Development | Olathe, Kansas |  | Oct 1 | [Apply](https://careers.garmin.com/jobs/20134) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Procurement Intern Summer 2027 | Pittsburgh, PA |  | Oct 1 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119768) |
 | [AXA](https://internscout.org/internships/at/axa/) | Summer 2027 - Operations Intern | ATLANTA +1 | \$25.00/hr | Sep 29 | [Apply](https://careers.axa.com/jobs/25504) |
-| [Ralliant](https://internscout.org/internships/at/ralliant/) | Supply Chain & Procurement Intern - Summer 2027 | Plainville, CT |  | Sep 29 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10679) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
