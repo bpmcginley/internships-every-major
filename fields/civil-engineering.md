@@ -1,9 +1,12 @@
 # Civil Engineering: Summer 2027 Internships
 
-337 open Summer 2027 civil engineering roles, newest first (the 200 newest of 337). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 556 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+340 open Summer 2027 civil engineering roles, newest first (the 200 newest of 340). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 560 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [WSP](https://internscout.org/internships/at/wsp/) | Geotechnical Engineering Intern - Summer 2027 | Reno, NV | \$23.03 - \$31.11 | Nov 11 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98841) |
+| [Global Infrastructure](https://internscout.org/internships/at/global-infrastructure/) | Intern Construction Management | US +1 |  | Nov 11 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IL--Chicago---200-South-Wacker-Drive/Intern-Construction-Management_6729-1) |
+| [WSP](https://internscout.org/internships/at/wsp/) | Geotechnical Engineering Intern - Summer 2027 | Elko, NV | \$23.03 - \$31.11 | Nov 11 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99165) |
 | [AtkinsRéalis](https://internscout.org/internships/at/atkinsr-alis/) | Structural Engineering Intern - Summer 2027 | US.MI.Lansing.3100 West Road | \$25 - \$31 hour | Nov 11 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USMILansing3100-West-Road/Structural-Engineering-Intern---Summer-2027_R-171365) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Structural Engineering Intern (Summer 2027)(Onsite) | East Hartford-Eng, CT | Paid | Nov 11 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ENG--400-Main-St--BLDG-ENG/Structural-Engineering-Intern--Summer-2027--Onsite-_01887158) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Construction Intern, Summer 2027 | Harrisburg, PA |  | Nov 11 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310191) |
@@ -201,9 +204,6 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Structural Engineering Intern (Bridge Design, Summer 2027!) | Wayne, Pennsylvania | \$42.02 | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/4359) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Civil Engineering Internship - Data Centers Site Design | Omaha, NE |  | Sep 2 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5408688008) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Civil Engineering | Los Angeles, CA | \$30–\$40 per hour | Sep 2 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377122008) |
-| [Haskell](https://internscout.org/internships/at/haskell/) | Summer 2027 Construction Intern | Jacksonville, Florida |  | Sep 2 | [Apply](https://haskell.jibeapply.com/jobs/7053) |
-| [Ruekert & Mielke](https://internscout.org/internships/at/ruekert-mielke/) | Survey Student Intern (Summer 2027) | Waukesha, Wisconsin |  | Sep 2 | [Apply](https://ruekertmielke.bamboohr.com/careers/311) |
-| [Olsson](https://internscout.org/internships/at/olsson/) | Commissioning Student Internship | Kansas City, MO +1 |  | Sep 1 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5408599008) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

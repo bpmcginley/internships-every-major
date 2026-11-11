@@ -1,10 +1,12 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-585 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 585). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,231 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+587 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 587). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,235 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | Synopsys | Engineering Documentation and AI Automation Co-op | Nepean, Canada |  | Nov 11 | [Apply](https://go.vansh.nyc/1uz) |
+| Huron | Internal Audit and Risk Management - Data Analytics & AI (Summer 2027 Internship - Washington, D.C.) | Washington DC - 1800 M Street, NW | \$30/hr | Nov 11 | [Apply](https://huron.wd1.myworkdayjobs.com/huroncareers/job/Washington-DC---1800-M-Street-NW/Internal-Audit-and-Risk-Management---Data-Analytics---AI--Summer-2027-Internship-_JR-0017165) |
+| [Genentech](https://internscout.org/internships/at/genentech/) | 2027 Summer Intern - Digital, AI, and Clinical Outcome Assessments | South San Francisco, CA | \$34.00-\$52.00 per hour | Nov 11 | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Digital--AI--and-Clinical-Outcome-Assessments_202611-128790) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | AI Processor Hardware/Software Integration Engineer Intern (Summer 2027) | USA - Texas - Richardson +1 |  | Nov 11 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer-Intern--Summer-2027-_JR-2604028) |
 | [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | AI Solutions Intern- Human Resources- Summer 2027 | Columbus, Ohio +1 |  | Nov 11 | [Apply](https://careers.marzetticompany.com/jobs/8128) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, AI Engineer (Master's Degree, Reston, VA) | Reston, VA | \$32 per hour | Nov 11 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1) |
@@ -98,6 +100,7 @@
 | [ABB](https://internscout.org/internships/at/abb/) | AI Engineering, Business Systems Intern- Summer 2027 | USA, NC +1 | \$20 - \$34 per hour | Nov 4 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714) |
 | [ABB](https://internscout.org/internships/at/abb/) | AI Engineering, ERP Intern- Summer 2027 | USA, NC +1 | \$20 - \$34 per hour | Nov 4 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711) |
 | [Smith+Nephew](https://internscout.org/internships/at/smith-nephew/) | Intern AI Center of Excellence Data Science | US - Pittsburgh, PA +1 |  | Nov 4 | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1) |
+| Vatic Investments | AI Research Intern | NYC |  | Nov 3 | [Apply](https://job-boards.greenhouse.io/vaticlabs/jobs/7205954) |
 | TruStage | IT Intern, Innovation & AI Technology | Madison, WI |  | Nov 3 | [Apply](https://go.vansh.nyc/1fm) |
 | Direct Supply | AI Engineer Intern | Milwaukee, WI |  | Nov 3 | [Apply](https://go.vansh.nyc/1ep) |
 | [JM Family Enterprises](https://internscout.org/internships/at/jm-family-enterprises/) | AI & Decision Science Intern | Deerfield Beach, FL |  | Nov 3 | [Apply](https://go.vansh.nyc/1dZ) |
@@ -201,9 +204,6 @@
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Deep Learning Research Intern, Embodied AI Systems | Markham, Canada |  | Oct 29 | [Apply](https://go.vansh.nyc/ZM) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | AI Software Systems Co-op Intern | Toronto, ON, Canada +1 |  | Oct 29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862430) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | AI Software Engineering Co-op Intern | Toronto, ON, Canada +1 |  | Oct 29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862429) |
-| [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Deep Learning Research Intern - Embodied AI - Interim Engineering Intern - Systems | Markham, ON, Canada |  | Oct 29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721858024) |
-| [MITRE](https://internscout.org/internships/at/mitre/) | AI Solutions Architect Intern | McLean, VA |  | Oct 29 | [Apply](https://go.vansh.nyc/13Y) |
-| Ericsson | AI and Automation Engineer Intern | Plano, TX |  | Oct 29 | [Apply](https://go.vansh.nyc/YK) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

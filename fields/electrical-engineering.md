@@ -1,6 +1,6 @@
 # Electrical Engineering: Summer 2027 Internships
 
-238 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 238). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 567 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+237 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 237). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 566 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -162,7 +162,6 @@
 | [Marvell](https://internscout.org/internships/at/marvell/) | Physical Design Engineer Intern - MS - Multiple Teams | Morrisville, NC +6 |  | Sep 4 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Physical Design Engineer Intern - BS | Morrisville, NC +6 |  | Sep 4 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Electrical Engineering Intern (Summer 2027!) | Los Angeles, California | \$48.24 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4392) |
-| [AMD](https://internscout.org/internships/at/amd/) | Analog and Mixed Signal Engineer Intern/Co-op | Markham, ON, Canada |  | Sep 1 | [Apply](https://careers.amd.com/jobs/91369?icims=1) |
 | [Shield AI](https://internscout.org/internships/at/shield-ai/) | Summer 2027 - Electrical Engineering Intern | Dallas, Texas +3 | Paid | Sep 1 | [Apply](https://jobs.lever.co/shieldai/200a293f-71ce-4982-a100-ac4b500c4cf7/apply) |
 | [K2 Space](https://internscout.org/internships/at/k2-space/) | Electrical Engineering Intern – Summer 2027 | Los Angeles, CA +1 | \$30 - \$40 per hour | Sep 1 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411918008) |
 | [Textron](https://internscout.org/internships/at/textron/) | 2027 Intern - Electrical Engineer (Howe & Howe) - Waterboro, ME | Waterboro, ME |  | Sep 1 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342547) |
@@ -204,6 +203,7 @@
 | [IMEG](https://internscout.org/internships/at/imeg/) | Electrical Engineering Intern \| Cincinnati, OH | Cincinnati, OH | \$22.00/hr | Oct 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Cincinnati-OH/Electrical-Engineering-Intern---Cincinnati--OH_R-16734) |
 | [AES](https://internscout.org/internships/at/aes/) | Intern - T&D standards Power Systems - (Summer 2027) | Dayton, OH +1 |  | Oct 24 | [Apply](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/Intern---T-D-standards-Power-Systems----Summer-2027-_R1064748) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | WED - Intern Electrical Power System (Summer 2027) (For Current & Recent HNTB Interns Only) | Los Angeles, CA (Figueroa Street) | \$24.23 - \$36.34 | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Los-Angeles-CA-Figueroa-Street/WED---Intern-Electrical-Power-System--Summer-2027---For-Current---Recent-HNTB-Interns-Only-_R-31767) |
+| [IMEG](https://internscout.org/internships/at/imeg/) | Electrical Engineering Intern \| Independence, OH | Cleveland, OH | \$22.00/hour | Oct 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Cleveland-OH/Electrical-Engineering-Intern---Independence--OH_R-16577) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,6 +1,6 @@
 # Chemistry: Summer 2027 Internships
 
-24 open Summer 2027 chemistry roles, newest first (all 24). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 44 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
+23 open Summer 2027 chemistry roles, newest first (all 23). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 43 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,7 +11,6 @@
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Lab Chemist Intern - Summer 2027 | Waynoka, OK | Paid | Oct 30 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168059) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | PhD Research Intern, Quantum and AI for Chemistry - 2027 | Canada, Toronto +1 |  | Oct 30 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Grad Intern – Bioanalytical Research Associate (Summer 2027) | US - California - Thousand Oaks | \$35.34 - \$41.20 per hour | Oct 29 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Grad-Intern---Bioanalytical-Research-Associate--Summer-2027-_R-260097) |
-| [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Bioanalytical, Analytical & Formulation Sciences | TARRYTOWN | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Bioanalytical--Analytical---Formulation-Sciences_R52555) |
 | [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program - Discovery Chemistry & Process Research - Intern | USA - New Jersey - Rahway +3 | \$39,108 | Oct 27 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Discovery-Chemistry---Process-Research---Intern_R414395) |
 | [ABB](https://internscout.org/internships/at/abb/) | Chemist/Chemical Engineer Intern - Summer 2027 | Bartlesville, Oklahoma, United States of America | \$20 - \$34 per hour | Oct 26 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bartlesville-Oklahoma-United-States-of-America/Chemist-Chemical-Engineer-Intern---Summer-2027_JR00047103-1) |
 | [KLA Corporation](https://internscout.org/internships/at/kla/) | Chemistry R&D Intern | Totowa, NJ | \$31.50 - \$50.00 | Oct 23 | [Apply](https://kla.wd1.myworkdayjobs.com/search/job/Totowa-NJ/Chemistry-R-D-Intern_2642152-1) |

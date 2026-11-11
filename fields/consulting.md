@@ -1,10 +1,11 @@
 # Consulting: Summer 2027 Internships
 
-125 open Summer 2027 consulting roles, newest first (all 125). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 244 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+126 open Summer 2027 consulting roles, newest first (all 126). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 245 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | Daimler Truck | Governance, Risk, and Compliance (GRC) Analyst Intern, Cybersecurity | Detroit, MI |  | Nov 11 | [Apply](https://go.vansh.nyc/1uo) |
+| [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: Business Analyst Intern RC&S | Northbrook, IL +1 | \$25.50 | Nov 11 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11495) |
 | [exacare ai](https://internscout.org/internships/at/exacare-ai/) | Solutions Consultant Intern (Summer 2027) | Toronto, Canada |  | Nov 11 | [Apply](https://ats.rippling.com/exacare-inc/jobs/4bb0eb09-e113-4e33-9179-57bf18029d9b) |
 | [Vizient](https://internscout.org/internships/at/vizient/) | 2027 Summer Internship - Consulting Intern, Spend Insights & Services | Irving, TX 75062 Vizient Corporate HQ | \$25 per hour | Nov 11 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Consulting-Intern--Spend-Insights---Services_36154R-1) |
 | [Bank of Montreal](https://internscout.org/internships/at/bank-of-montreal/) | Treasury & Payment Solutions Strategy Intern, Summer 2027 (10 weeks) | Chicago, IL, USA | \$43,000.00 - \$75,000.00 | Nov 10 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Treasury---Payment-Solutions-Strategy-Intern--Summer-2027--10-weeks-_R260031397) |

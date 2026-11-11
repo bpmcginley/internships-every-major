@@ -1,6 +1,6 @@
 # Supply Chain: Summer 2027 Internships
 
-216 open Summer 2027 supply chain roles, newest first (the 200 newest of 216). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 455 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
+215 open Summer 2027 supply chain roles, newest first (the 200 newest of 215). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 455 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -41,7 +41,6 @@
 | [Walmart](https://internscout.org/internships/at/walmart/) | (USA) Summer 2027 Corporate Intern: Facilities Services Parts and Inventory Strategy Intern | (USA) Always AR Bentonville Home Office | \$21.00 - \$40.00 | Oct 29 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/XMLNAME--USA--Summer-2027-Corporate-Intern---Facilities-Services-Parts-and-Inventory-Strategy-Intern_R-2690441-1) |
 | [Uline](https://internscout.org/internships/at/uline/) | Warehouse Management Internship - Summer 2027 | Lacey, WA +2 | \$22 per hour | Oct 29 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Lacey-WA/Warehouse-Management-Internship---Summer-2027_R268758) |
 | Ace Hardware | Supply Chain Replenishment Planning Internship – Summer 2027, Full Time/Paid/12 Weeks | IL - Oak Brook | \$22.00 per hour | Oct 29 | [Apply](https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/Inventory-Internship---Summer-2027--Full-Time-Paid-12-Weeks_REQ-34900) |
-| [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Global Procurement, Sourcing & Supplier Risk | TARRYTOWN +1 | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Global-Procurement--Sourcing---Supplier-Risk_R52576-1) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - IT Procurement Intern | Atlanta, GA |  | Oct 28 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---IT-Procurement-Intern_R-0000033911) |
 | [Uline](https://internscout.org/internships/at/uline/) | Warehouse Management Internship - Summer 2027 | Kenosha, WI +3 | Paid | Oct 28 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Kenosha-WI/Warehouse-Management-Internship---Summer-2027_R268641) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Enterprise Procurement Undergraduate Supply Chain Intern | Pittsburgh PA, 15222, FAP, 5th Avenue Place |  | Oct 27 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Enterprise-Procurement-Undergraduate-Supply-Chain-Intern_J286294) |
@@ -204,6 +203,7 @@
 | [Church & Dwight](https://internscout.org/internships/at/church-dwight/) | 2027 Undergraduate Global Supply Chain Co-Op | Ewing, NJ |  | Sep 18 | [Apply](https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/XMLNAME-2027-Undergraduate-Global-Supply-Chain-Co-Op_R2026-15617) |
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | UPS Supply Chain Solutions 2027 Summer Intern | US - UPS CORPORATE OFFICES (GACOR) |  | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Supply-Chain-Solutions-2027-Summer-Intern_R26030498) |
 | [Pentair](https://internscout.org/internships/at/pentair/) | Supply Chain & Operations Leadership Development Internship Program - Summer 2027 | Golden Valley, MN +10 | \$28.00/ hour | Sep 18 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Supply-Chain---Operations-Leadership-Development-Internship-Program---Summer-2027_R23712) |
+| [Ingredion](https://internscout.org/internships/at/ingredion/) | Global Supply Chain Data Science Intern | Westchester, IL | \$20-23hour | Sep 18 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Supply-Chain-Data-Science-Intern_Req-40226-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

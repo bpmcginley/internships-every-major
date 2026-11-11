@@ -1,6 +1,6 @@
 # Lab Research: Summer 2027 Internships
 
-36 open Summer 2027 lab research roles, newest first (all 36). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 127 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
+35 open Summer 2027 lab research roles, newest first (all 35). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 126 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,7 +11,6 @@
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Research Scientist Intern - Video and Edge - Multimedia Lab | San Jose, CA |  | Oct 30 | [Apply](https://jobs.bytedance.com/en/position/7702155940239264005/detail) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Lab Chemist Intern - Summer 2027 | Waynoka, OK | Paid | Oct 30 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168059) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Research and Development - EPSR Lab | Warren, Michigan, United States of America |  | Oct 30 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---EPSR-Lab_JR-202623300) |
-| [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern Research Core Facilities, Lab Automation & Sample Management | TARRYTOWN | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Research-Core-Facilities--Lab-Automation---Sample-Management_R52556-1) |
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Claims Lab Developer Intern | Cincinnati, OH |  | Oct 27 | [Apply](https://go.vansh.nyc/Wm) |
 | [STV](https://internscout.org/internships/at/stv/) | Geotechnical Lab and Field Services Intern - Summer 2027 | Glasgow, Kentucky |  | Oct 27 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Glasgow-Kentucky/Geotechnical-Lab-and-Field-Services-Intern-----Summer-2027_JR6460) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Claims Lab Developer Intern – Summer 2027 | Cincinnati, OH (USA) +1 | Paid | Oct 27 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Claims-Lab-Developer-Intern---Summer-2027_R9803) |

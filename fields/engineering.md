@@ -1,10 +1,11 @@
 # Engineering: Summer 2027 Internships
 
-689 open Summer 2027 engineering roles, newest first (the 200 newest of 689). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,723 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+687 open Summer 2027 engineering roles, newest first (the 200 newest of 687). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,724 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Eaton](https://internscout.org/internships/at/eaton/) | Design Engineer Internship (Summer 2027) | Calverton, MD |  | Nov 11 | [Apply](https://eaton.eightfold.ai/careers/job/687240116405) |
+| [STV](https://internscout.org/internships/at/stv/) | Rail/Transit Engineering Intern - Summer 2027 | Philadelphia, Pennsylvania |  | Nov 11 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Philadelphia-Pennsylvania/Rail-Transit-Engineering-Intern---Summer-2027_JR6002) |
 | [Hitachi](https://internscout.org/internships/at/hitachi/) | Intern - Component Engineering | Pittsburgh, Pennsylvania, United States +1 | Paid | Nov 11 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Component-Engineering_R0149585) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Fuels Engineering Internship - Warrenville, IL | Warrenville, Illinois | Paid | Nov 11 | [Apply](https://jobs.constellationenergy.com/jobs/138697) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Aftermarket & Sustainment Engineering Methods Engineering Intern (Summer 2027)(Onsite) | East Hartford-Etc, CT | Paid | Nov 11 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Aftermarket---Sustainment-Engineering-Methods-Engineering-Intern--Summer-2027--Onsite-_01887864) |
@@ -203,7 +204,6 @@
 | [Aptiv](https://internscout.org/internships/at/aptiv/) | Linux Engineering Intern | Kanata, Canada |  | Oct 22 | [Apply](https://go.vansh.nyc/eM) |
 | [Ricoh](https://internscout.org/internships/at/ricoh/) | SW Engineer Intern | Boulder, CO |  | Oct 22 | [Apply](https://go.vansh.nyc/Vm) |
 | [Aptiv](https://internscout.org/internships/at/aptiv/) | HVP/Certification Engineer Intern | Kanata, Canada |  | Oct 22 | [Apply](https://go.vansh.nyc/f8) |
-| [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | 2027 Summer Engineering Intern | US - EARTH CITY (MOEAR) |  | Oct 22 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---EARTH-CITY-MOEAR/XMLNAME-2027-Summer-Engineering-Intern_R26039265) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

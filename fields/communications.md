@@ -1,6 +1,6 @@
 # Communications: Summer 2027 Internships
 
-59 open Summer 2027 communications roles, newest first (all 59). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 183 communications internships on InternScout](https://internscout.org/internships/communications/)
+58 open Summer 2027 communications roles, newest first (all 58). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 182 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -18,7 +18,6 @@
 | Hyster-Yale Materials Handling | Summer 2027 Business Marketing & Communications Intern | HY US Greenville, NC (Headquarters) |  | Oct 30 | [Apply](https://hysteryale.wd1.myworkdayjobs.com/hyster-yalecareers/job/HY-US-Greenville-NC-Headquarters/Summer-2027-Business-Marketing---Communications-Intern_R8540) |
 | [American Electric Power](https://internscout.org/internships/at/american-electric-power/) | Communications & Marketing Intern | Roanoke, VA | Paid | Oct 30 | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Roanoke-VA/Communications---Marketing-Intern_R20502) |
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | Information Technology Unified Communications Intern - The Toro Company | Bloomington, MN | \$22–\$28 | Oct 30 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Information-Technology-Unified-Communications-Intern---The-Toro-Company_JR17713) |
-| [Regeneron Pharmaceuticals](https://internscout.org/internships/at/regeneron-pharmaceuticals/) | 2027 Summer Intern People, Communications, Change & Learning | TARRYTOWN +2 | \$17.90-\$50.90 per hour | Oct 28 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-People--Communications--Change---Learning_R52600-1) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Communications Intern - Summer 2027 | Kansas City, MO |  | Oct 27 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/Communications-Intern---Summer-2027_R-32203-1) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Marketing and Communications | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Marketing-and-Communications-MD-21230/1434386400/) |
 | [Together AI](https://internscout.org/internships/at/together-ai/) | Technical Writer Intern, Developer Experience (Summer 2027) | San Francisco |  | Oct 26 | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5271149007) |
