@@ -1,6 +1,6 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-576 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 576). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,218 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+577 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 577). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,218 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [JM Family](https://internscout.org/internships/at/jm-family/) | AI Center of Excellence (COE) Delivery Team Intern | Florida - Deerfield Beach +1 |  | Nov 4 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Center-of-Excellence--COE--Delivery-Team-Intern_JR105176) |
 | The Mosaic Company | Artificial Intelligence Co-Op/Intern - Summer 2027 | US - Tampa, FL (Lithia area) +2 |  | Nov 4 | [Apply](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Summer-2027_65420) |
 | Unisys | Digital & AI Marketing Intern \| US | Blue Bell, PA, United States of America |  | Nov 4 | [Apply](https://unisys.wd5.myworkdayjobs.com/External/job/Blue-Bell-PA-United-States-of-America/Digital---AI-Marketing-Intern---US_REQ576885) |
+| [American Express](https://internscout.org/internships/at/american-express/) | Cybersecurity AI Engineer Intern - Enterprise Technology Services | Phoenix, AZ |  | Nov 3 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065) |
 | TruStage | IT Intern, Innovation & AI Technology | Madison, WI |  | Nov 3 | [Apply](https://go.vansh.nyc/1fm) |
 | Direct Supply | AI Engineer Intern | Milwaukee, WI |  | Nov 3 | [Apply](https://go.vansh.nyc/1ep) |
 | [JM Family Enterprises](https://internscout.org/internships/at/jm-family-enterprises/) | AI & Decision Science Intern | Deerfield Beach, FL |  | Nov 3 | [Apply](https://go.vansh.nyc/1dZ) |
@@ -119,7 +120,6 @@
 | [JM Family Enterprises](https://internscout.org/internships/at/jm-family-enterprises/) | AI Center of Excellence Delivery Team Intern | Deerfield Beach, FL |  | Nov 3 | [Apply](https://go.vansh.nyc/1fK) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Technology Services | Phoenix, AZ |  | Nov 3 | [Apply](https://go.vansh.nyc/1dS) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Applied AI (Raleigh, NC) | Raleigh, North Carolina +1 |  | Nov 3 | [Apply](https://firstcitizens.jibeapply.com/jobs/36413) |
-| [American Express](https://internscout.org/internships/at/american-express/) | Campus Undergraduate Summer Internship Program - 2027 Cybersecurity AI Engineer, Enterprise Technology Services- Phoeni… | Phoenix, AZ |  | Nov 3 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Technical Product Marketing MBA Intern, AI Infrastructure - Summer 2027 | US, CA +1 |  | Nov 3 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-MBA-Intern--AI-Infrastructure---Summer-2027_JR2028995) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | AI Compiler and Kernel Intern – Summer 2027 | US, TX +2 |  | Nov 3 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1) |
 | GenMD | Member of Technical Staff Intern, Applied AI | Palo Alto, CA |  | Nov 3 | [Apply](https://go.vansh.nyc/1bK) |

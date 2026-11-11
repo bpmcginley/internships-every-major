@@ -1,6 +1,6 @@
 # Cybersecurity: Summer 2027 Internships
 
-207 open Summer 2027 cybersecurity roles, newest first (the 200 newest of 207). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 356 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+207 open Summer 2027 cybersecurity roles, newest first (the 200 newest of 207). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 355 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [LLNL](https://internscout.org/internships/at/llnl/) | Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure | Livermore, CA |  | Nov 4 | [Apply](https://go.vansh.nyc/1fR) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Cybersecurity Intern | Pittsburgh, PA |  | Nov 4 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119551) |
 | [Netsmart](https://internscout.org/internships/at/netsmart/) | Security Analyst Future (Summer 2027 Internship) | Overland Park, KS | Paid | Nov 4 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Security-Analyst-Future--Summer-2027-Internship-_R015669) |
+| [American Express](https://internscout.org/internships/at/american-express/) | Cybersecurity AI Engineer Intern - Enterprise Technology Services | Phoenix, AZ |  | Nov 3 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065) |
 | [EMC Insurance](https://internscout.org/internships/at/emc-insurance/) | Cybersecurity Intern | United States |  | Nov 3 | [Apply](https://go.vansh.nyc/1ei) |
 | [Two Six Technologies](https://internscout.org/internships/at/two-six-technologies/) | Security Operations Intern | Arlington, VA |  | Nov 3 | [Apply](https://go.vansh.nyc/1dI) |
 | [KnowBe4](https://internscout.org/internships/at/knowbe4/) | Security Awareness Content Specialist Summer Internship (Hybrid) | Clearwater, Florida | Paid | Nov 3 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8928056002) |
@@ -49,7 +50,6 @@
 | ICD | Cyber Security Intern | New York, NY |  | Nov 3 | [Apply](https://go.vansh.nyc/1eu) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Technology Services | Phoenix, AZ |  | Nov 3 | [Apply](https://go.vansh.nyc/1dS) |
 | [Tradeweb](https://internscout.org/internships/at/tradeweb/) | Summer 2027 Cyber Security Internship | New York, NY |  | Nov 3 | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301991) |
-| [American Express](https://internscout.org/internships/at/american-express/) | Campus Undergraduate Summer Internship Program - 2027 Cybersecurity AI Engineer, Enterprise Technology Services- Phoeni… | Phoenix, AZ |  | Nov 3 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Security Verification/Validation Engineer Intern | Chandler, AZ |  | Nov 3 | [Apply](https://go.vansh.nyc/1dy) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Supervision & Regulation (Cybersecurity) | Atlanta, GA |  | Nov 3 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Cybersecurity-_R-0000033866) |
 | [JM Family](https://internscout.org/internships/at/jm-family/) | Offensive Security Intern | Florida - Deerfield Beach |  | Nov 3 | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Offensive-Security-Intern_JR105164) |

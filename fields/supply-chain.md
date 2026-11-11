@@ -1,6 +1,6 @@
 # Supply Chain: Summer 2027 Internships
 
-216 open Summer 2027 supply chain roles, newest first (the 200 newest of 216). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 460 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
+217 open Summer 2027 supply chain roles, newest first (the 200 newest of 217). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 460 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [ABB](https://internscout.org/internships/at/abb/) | Manufacturing Supply Chain Intern Westville, OK- Summer 2027 | USA, OK |  | Oct 22 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-OK-Westville/Manufacturing-Supply-Chain-Intern-Westville--OK--Summer-2027_JR00050263-1) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Supply Chain Management (Rosemead) | Rosemead, CA |  | Oct 22 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Supply-Chain-Management-%28Rosemead%29-CA-91770-3714/1423200600/) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Product Sourcing Engineer Intern | Costa Mesa, California, United States +2 | Paid | Oct 21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007) |
+| [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program – Translational Sciences and Outsourcing – Intern | USA - California - South San Francisco (Grand Ave) | \$39,108 | Oct 21 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Translational-Sciences-and-Outsourcing---Intern_R413062) |
 | [DP World](https://internscout.org/internships/at/dp-world/) | Procurement intern | Charlotte, NC |  | Oct 21 | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27446) |
 | [Target](https://internscout.org/internships/at/target/) | Operation Manager Intern (Starting Summer 2027) Flow Distribution Center - Riverside, CA | 23000 Van Buren Blvd, Riverside,CA 92518-2401 | \$28.00 per hour | Oct 21 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/23000-Van-Buren-Blvd-RiversideCA-92518-2401/Operation-Manager-Intern--Starting-Summer-2027--Flow-Distribution-Center---Riverside--CA_R0000450436) |
 | Astronics | Supply Chain Internship - Summer 2027 | Redmond, Washington, United States | \$30 per hour | Oct 19 | [Apply](https://job-boards.greenhouse.io/astronicscorporation/jobs/4458283009) |
@@ -203,7 +204,6 @@
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Supply Chain - Michigan | Portage, Michigan |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Supply-Chain---Michigan_R572585) |
 | [Church & Dwight](https://internscout.org/internships/at/church-dwight/) | 2027 Undergraduate Global Supply Chain Co-Op | Ewing, NJ |  | Sep 18 | [Apply](https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/XMLNAME-2027-Undergraduate-Global-Supply-Chain-Co-Op_R2026-15617) |
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | UPS Supply Chain Solutions 2027 Summer Intern | US - UPS CORPORATE OFFICES (GACOR) |  | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Supply-Chain-Solutions-2027-Summer-Intern_R26030498) |
-| [Pentair](https://internscout.org/internships/at/pentair/) | Supply Chain & Operations Leadership Development Internship Program - Summer 2027 | Golden Valley, MN +10 | \$28.00/ hour | Sep 18 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Supply-Chain---Operations-Leadership-Development-Internship-Program---Summer-2027_R23712) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

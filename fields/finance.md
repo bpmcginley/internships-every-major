@@ -1,6 +1,6 @@
 # Finance: Summer 2027 Internships
 
-521 open Summer 2027 finance roles, newest first (the 200 newest of 521). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 839 finance internships on InternScout](https://internscout.org/internships/finance/)
+520 open Summer 2027 finance roles, newest first (the 200 newest of 520). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 837 finance internships on InternScout](https://internscout.org/internships/finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -25,7 +25,6 @@
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Summer 2027: Commercial Finance Internship, Americas (May through August) | Needham, MA, United States |  | Nov 10 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727554006) |
 | [Royal Bank of Canada](https://internscout.org/internships/at/royal-bank-of-canada/) | Capital Markets Quant Summer Associate Intern - Quantitative Technology Services | NYC |  | Nov 10 | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000186729-3) |
 | [Royal Caribbean Group](https://internscout.org/internships/at/royal-caribbean-group/) | Intern, Revenue Management (Summer 2027) | Miami, FL |  | Nov 10 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miami-Intern%2C-Revenue-Management-%28Summer-2027%29-FL-33132/1449350000/) |
-| [RTX](https://internscout.org/internships/at/rtx/) | Finance Intern (Summer 2027) | Tewksbury, MA | Paid | Nov 10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB4--836-North-St--INNOVATION-BLDG/Finance-Intern--Summer-2027-_01888472) |
 | [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Finance Technology Intern, Summer 2027 | Orrville, OH |  | Nov 10 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Summer-2027_116135) |
 | [Jabil](https://internscout.org/internships/at/jabil/) | Finance & IT Controls Intern | St. Petersburg/Tampa, FL |  | Nov 10 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Finance---IT-Controls-Intern_J2470789) |
 | [Santander](https://internscout.org/internships/at/santander/) | 2027 Pre & Post Trade Finance Operations Summer Intern | Miami | Paid | Nov 10 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/XMLNAME-2027-Pre---Post-Trade-Finance-Operations-Summer-Intern_Req1632817) |
@@ -204,6 +203,7 @@
 | [AXA](https://internscout.org/internships/at/axa/) | Summer 2027 - Finance Intern, Chief Accounting & Capital Office | STAMFORD | \$25.00/hr | Oct 21 | [Apply](https://careers.axa.com/jobs/28352) |
 | [Aon](https://internscout.org/internships/at/aon/) | 2027 Investments Intern - Chicago, IL | Chicago, Illinois | \$20.00 – \$22.00 per hour | Oct 21 | [Apply](https://jobs.aon.com/jobs/109997) |
 | [Aon](https://internscout.org/internships/at/aon/) | 2027 M&A Intern - Chicago, IL | Chicago, Illinois | \$25.00 – \$27.00 per hour | Oct 21 | [Apply](https://jobs.aon.com/jobs/109977) |
+| [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern, Nuclear Finance, Summer 2027 | Jackson, Mississippi |  | Oct 21 | [Apply](https://jobs.entergy.com/job/Jackson-Student%2C-Intern%2C-Nuclear-Finance%2C-Summer-2027-Miss/1442315500/) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

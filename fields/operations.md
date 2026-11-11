@@ -1,6 +1,6 @@
 # Operations: Summer 2027 Internships
 
-405 open Summer 2027 operations roles, newest first (the 200 newest of 405). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 993 operations internships on InternScout](https://internscout.org/internships/operations/)
+405 open Summer 2027 operations roles, newest first (the 200 newest of 405). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 990 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -25,8 +25,8 @@
 | [DreamWorks Animation](https://internscout.org/internships/at/dreamworks-animation/) | Studio Operations – Data Analytics Intern | Universal City, LA |  | Nov 9 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160648109) |
 | [Ingredion](https://internscout.org/internships/at/ingredion/) | Global Operations Finance Intern | Westchester, IL |  | Nov 8 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Operations-Finance-Intern_Req-40191-1) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Data Operations Intern | LA |  | Nov 7 | [Apply](https://lifeattiktok.com/search/7704912455690504453) |
-| [Duke Energy](https://internscout.org/internships/at/duke-energy/) | Training Technology and System Operations Internship - Summer 2027 | Charlotte, NC +3 |  | Nov 7 | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Training-Technology-and-System-Operations-Internship---Summer-2027_R42351) |
-| [RTX](https://internscout.org/internships/at/rtx/) | Digital Technologies Project Management Office Operations Intern (Summer 2027) | Cedar Rapids, IA |  | Nov 7 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Digital-Technologies-Project-Management-Office-Operations-Intern--Summer-2027-_01884834) |
+| Duke Energy | Training Technology and System Operations Internship - Summer 2027 | Charlotte, NC +3 |  | Nov 7 | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Training-Technology-and-System-Operations-Internship---Summer-2027_R42351) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Digital Technologies Project Management Office Operations Intern (Summer 2027) | Cedar Rapids, IA | Paid | Nov 7 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Digital-Technologies-Project-Management-Office-Operations-Intern--Summer-2027-_01884834) |
 | NORY | Program Development & Operations Intern (Boston) | Boston +1 | \$20 per hour | Nov 6 | [Apply](https://jobs.ashbyhq.com/nory-co/4bc21310-9787-4690-9ed8-ff7a5844b818/application) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Operations Internships - Mount Rushmore National Memorial | KEYSTONE, South Dakota | \$15.00 per hour | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40160) |
 | Atlantic Health System | Construction/Facilities Intern | Morristown, NJ |  | Nov 6 | [Apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34191) |
@@ -184,7 +184,7 @@
 | Plastipak | Manufacturing Operations (Engineering) Intern – Summer 2027 | Plastipak - Havre de Grace, MD |  | Oct 13 | [Apply](https://plastipak.wd1.myworkdayjobs.com/Plastipak/job/Plastipak---Havre-de-Grace-MD/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24670) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Commercial Strategy & Operations Corporate Internship – Summer 2027 (Undergraduate) | CT - Hartford |  | Oct 13 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Commercial-Strategy---Operations-Corporate-Internship---Summer-2027--Undergraduate-_R1066634) |
 | [Ingredion](https://internscout.org/internships/at/ingredion/) | Operations Intern | Indianapolis, IN |  | Oct 13 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Indianapolis-IN/Operations-Intern_Req-40342-1) |
-| [ADT](https://internscout.org/internships/at/adt/) | Product Management & Product Operations Internship | Boca Raton, FL |  | Oct 12 | [Apply](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393) |
+| [ADT](https://internscout.org/internships/at/adt/) | Product Management & Product Operations Intern | Boca Raton, FL |  | Oct 12 | [Apply](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Creative Product Operations Intern - Multiple Teams | San Jose, CA |  | Oct 9 | [Apply](https://lifeattiktok.com/search/7693727532178229509) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Process Improvement Intern | Sparks, Nevada |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51654) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Procurement Intern - Infrastructure Solutions (Summer 2027) | Greenville, SC +1 |  | Oct 9 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279203) |

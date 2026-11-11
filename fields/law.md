@@ -1,6 +1,6 @@
 # Law and Legal: Summer 2027 Internships
 
-130 open Summer 2027 law and legal roles, newest first (all 130). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 268 law and legal internships on InternScout](https://internscout.org/internships/law/)
+130 open Summer 2027 law and legal roles, newest first (all 130). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 256 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -83,19 +83,19 @@
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, Voting Rights Project | Hybrid-New York City +1 |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8853159002) |
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, Reproductive Freedom Project | Remote/Hybrid-New York, NY |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8853145002) |
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, LGBTQ & HIV Project | Remote/Hybrid- New York, NY |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8853077002) |
-| [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, Capital Punishment Project | Hybrid-Durham, North Carolina |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8843536002) |
-| [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, Disability Rights Program- Veterans' Rights | Remote/Hybrid- San Francisco, CA +1 |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8843411002) |
+| [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, Capital Punishment Project | Hybrid-Durham, North Carolina | \$24/hour | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8843536002) |
+| [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, Disability Rights Program- Veterans' Rights | Remote/Hybrid- San Francisco, CA +1 | \$24/hour | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8843411002) |
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, Speech, Privacy and Technology Project | Remote/Hybrid-New York City |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8843280002) |
-| [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, Human Rights Program | Hybrid - New York, NY |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8842911002) |
+| [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, Human Rights Program | Hybrid - New York, NY | \$24/hour | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8842911002) |
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, State Supreme Court Initiative | Remote/Hybrid-New York City +1 |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8843188002) |
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, SCOTUS Docket | Hybrid-New York, NY +2 |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8843060002) |
-| [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, Criminal Law Reform Project | Hybrid-New York, NY +1 |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8842773002) |
+| [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, Criminal Law Reform Project | Hybrid-New York, NY +1 | \$24/hour | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8842773002) |
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, Program on Freedom of Religion and Belief | Washington D.C. |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8843601002) |
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, Women's Rights Project | Remote/Hybrid-New York City |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8846084002) |
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, National Security Project | Hybrid-New York City |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8846143002) |
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, Immigrants' Rights Project- New York | Remote/Hybrid- New York |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8843576002) |
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, Racial Justice Program | Remote/Hybrid-New York, NY |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8846186002) |
-| [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, Disability Rights Program | Remote/Hybrid-Washington D.C. +1 |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8846199002) |
+| [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, Disability Rights Program | Remote/Hybrid-Washington D.C. +1 | \$24/hour | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8846199002) |
 | [Democratic National Committee](https://internscout.org/internships/at/democratic-national-committee/) | Summer 2027 DNC Civic Engagement and Voter Protection Legal Internship | Washington, DC | \$3,700 | Sep 28 | [Apply](https://ats.rippling.com/democratic-national-committee/jobs/152213e1-54d9-4b2c-9511-96eb02f38241) |
 | [Democratic National Committee](https://internscout.org/internships/at/democratic-national-committee/) | Summer 2027 DNC Legal Internship | Washington, DC | \$3,700 | Sep 28 | [Apply](https://ats.rippling.com/democratic-national-committee/jobs/05aee341-a46e-4a53-8bb0-ee4a45187219) |
 | [Internal Revenue Service](https://internscout.org/internships/at/internal-revenue-service/) | Summer Intern (Legal Administrative Specialist) (Non-Tax) | Los Angeles, California +6 | \$65271 - \$100315 Per Year | Sep 28 | [Apply](https://www.usajobs.gov:443/job/886641800) |
