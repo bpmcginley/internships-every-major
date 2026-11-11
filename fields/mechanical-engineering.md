@@ -1,11 +1,12 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-333 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 333). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 869 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+334 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 334). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 876 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Eaton](https://internscout.org/internships/at/eaton/) | Manufacturing Engineer Internship (Summer 2027) | Calverton, MD |  | Nov 11 | [Apply](https://eaton.eightfold.ai/careers/job/687240115170) |
 | [Formlabs](https://internscout.org/internships/at/formlabs/) | 2027 (Summer) - Manufacturing - Manufacturing Test Software Intern | Somerville, MA | \$1,850 | Nov 11 | [Apply](https://careers.formlabs.com/job/8374598/apply/?gh_jid=8374598) |
+| [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Snacking Manufacturing Internship - Muncy, PA | USA-Pennsylvania-Elizabethtown | Paid | Nov 11 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Pennsylvania-Elizabethtown/Summer-2027-Mars-Snacking-Manufacturing-Internship---Muncy--PA_R172446-1) |
 | [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Snacking Manufacturing Internship - Jackson, TN | USA-Tennessee-Franklin | Paid | Nov 11 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Tennessee-Franklin/Summer-2027-Mars-Snacking-Manufacturing-Internship---Jackson--TN_R172450-1) |
 | [Rambus](https://internscout.org/internships/at/rambus/) | CAD Engineer Intern | San Jose, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1sx) |
 | [Northrop Grumman](https://internscout.org/internships/at/northrop-grumman/) | 2027 Operations Manufacturing Engineering Intern | United States-Florida-Saint Augustine | \$18.50 to \$33.50 per hour | Nov 10 | [Apply](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Saint-Augustine/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10260120-1) |
@@ -203,7 +204,6 @@
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Mechanical Engineering Intern Summer 2027 | Long Beach, CA |  | Sep 13 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7991448003) |
 | [Xcimer Energy](https://internscout.org/internships/at/xcimer-energy/) | Summer 2027 Internship - Mechanical Engineering | Denver, CO |  | Sep 11 | [Apply](https://jobs.lever.co/xcimer/c672a37e-007d-45ee-a4f9-b5d4dd25a2e3/apply) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Mechanical Engineering Intern Summer 2027 | Toronto, CAN |  | Sep 11 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7991769003) |
-| [Antares Nuclear](https://internscout.org/internships/at/antares-nuclear/) | Mechanical Engineering Design Intern - Summer 2027 | Los Angeles +1 |  | Sep 10 | [Apply](https://jobs.ashbyhq.com/Antares/9accca59-103b-4f54-978a-d5bb46bd9c62/application) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

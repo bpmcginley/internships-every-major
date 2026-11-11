@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Bloom Energy | Commercial Operations Intern | San Jose, California | \$31.25 - \$34.25 | Nov 11 | [Apply](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Commercial-Operations-Intern_JR-25354) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Grad Intern - Operations – Process Development (Summer 2027) | US - California - Thousand Oaks | \$35.34 - \$41.20 per hour | Nov 11 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Process-Development--Summer-2027-_R-254519) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Operations Engineering Intern (Summer 2027) | Farmington, NM | Paid | Nov 11 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NM-FARMINGTON-426S--10059-Hwy-371-S--SOUTH-BLDG/Operations-Engineering-Intern--Summer-2027-_01878570) |
 | [Clarios](https://internscout.org/internships/at/clarios/) | Quality Intern - Toledo, OH (Summer 2027) | United States, Ohio, Holland |  | Nov 11 | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Ohio-Holland/Quality-Intern---Toledo--OH--Summer-2027-_WD51208) |
@@ -203,7 +204,6 @@
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Mission Operations Internship - Summer 2027 | El Segundo, California, United States +1 | \$37.00 | Oct 1 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010682003) |
 | [Garmin](https://internscout.org/internships/at/garmin/) | Project Manager Intern - Global Partnerships & Engineering Business Development | Olathe, Kansas |  | Oct 1 | [Apply](https://careers.garmin.com/jobs/20134) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Procurement Intern Summer 2027 | Pittsburgh, PA |  | Oct 1 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119768) |
-| [AXA](https://internscout.org/internships/at/axa/) | Summer 2027 - Operations Intern | ATLANTA +1 | \$25.00/hr | Sep 29 | [Apply](https://careers.axa.com/jobs/25504) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

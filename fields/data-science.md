@@ -1,6 +1,6 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-653 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 653). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,160 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+653 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 653). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,159 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -22,8 +22,9 @@
 | Grey State Apparel | Data Analyst Intern | New York, NY |  | Nov 10 | [Apply](https://go.vansh.nyc/1qN) |
 | Elas | Data Science Intern | Pleasanton, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1qK) |
 | [Addepar](https://internscout.org/internships/at/addepar/) | Data Engineering Intern - Summer 2027 | New York, NY +1 | Paid | Nov 10 | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8910327002) |
+| Penn Engineering | AI & Data Intern | United States |  | Nov 10 | [Apply](https://go.vansh.nyc/1v0) |
 | Johns Hopkins APL | AI & Data Science Intern, Analytic Capabilities | Laurel, MD |  | Nov 10 | [Apply](https://go.vansh.nyc/1pW) |
-| Kiewit | Machine Learning Intern, Kiewit Data Services | Omaha, NE |  | Nov 10 | [Apply](https://go.vansh.nyc/1pX) |
+| Kiewit | Machine Learning Intern, Kiewit Data Services | Omaha, NE +1 |  | Nov 10 | [Apply](https://go.vansh.nyc/1pX) |
 | [onsemi](https://internscout.org/internships/at/onsemi/) | AI & Data Analytics Intern | Scottsdale, AZ |  | Nov 10 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010) |
 | [Walmart](https://internscout.org/internships/at/walmart/) | Data Science & Data Analytics Intern, Last Mile Delivery | Bentonville, AR |  | Nov 10 | [Apply](https://go.vansh.nyc/1sh) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | GDIT Summer Internship Program – Summer 2027 AI/ML Business Intelligence Development Internship | Bossier City, LA | \$19.55 - \$26.45 | Nov 10 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935) |
@@ -203,7 +204,6 @@
 | [Cigna Group](https://internscout.org/internships/at/cigna-group/) | Legal Operations Financial, Data & AI Analytics Intern | St. Louis, MO | \$ 24.00-\$25.00 | Oct 29 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Legal-Operations-Financial--Data---AI-Analytics-Intern_25016386) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | R&D Data Science Co-op | Brecksville, OH |  | Oct 28 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627789) |
 | Beli | Data Science Intern | New York, NY |  | Oct 28 | [Apply](https://go.vansh.nyc/11U) |
-| [SageSure](https://internscout.org/internships/at/sagesure/) | Data Science Intern | Jersey City, NJ |  | Oct 28 | [Apply](https://go.vansh.nyc/1oi) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

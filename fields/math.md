@@ -1,6 +1,6 @@
 # Math: Summer 2027 Internships
 
-29 open Summer 2027 math roles, newest first (all 29). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 50 math internships on InternScout](https://internscout.org/internships/math/)
+28 open Summer 2027 math roles, newest first (all 28). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 49 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -13,7 +13,6 @@
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Statistics Intern | Atlanta, GA |  | Nov 6 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Statistics-Intern_R-0000033876) |
 | BCBST | Actuarial Summer Intern-2 | USA, TN | Paid | Oct 28 | [Apply](https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Actuarial-Summer-Intern-2_R-51964) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Grad Intern - Biostatistics (Summer 2027) | Remote | \$35.34 – \$41.20 per hour | Oct 26 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Biostatistics--Summer-2027-_R-259820) |
-| [Definity Financial](https://internscout.org/internships/at/definity-financial/) | Actuarial Analyst - Summer 2027 Co-op/Intern | Waterloo, ONT, Canada | Paid | Oct 21 | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9445) |
 | [Everest](https://internscout.org/internships/at/everest/) | 2027 Everest Actuarial Internship Program | Warren, NJ | \$900 - 1,000 per week | Oct 21 | [Apply](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Everest-Actuarial-Internship-Program_R7399) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Epidemiology / Biostatistics Intern | Detroit, MI |  | Oct 6 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14949) |
 | [SCOR](https://internscout.org/internships/at/scor/) | Actuarial Intern | Charlotte, North Carolina |  | Sep 25 | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5435) |

@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-300 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 300). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 813 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+303 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 303). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 815 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -83,6 +83,9 @@
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | ASIC Verification Engineering Intern | Roseville, CA |  | Oct 29 | [Apply](https://go.vansh.nyc/Zt) |
 | [Micron Technology](https://internscout.org/internships/at/micron-technology/) | ASIC Digital Design Intern | Minneapolis, MN |  | Oct 29 | [Apply](https://go.vansh.nyc/Z8) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Robotics Applied Scientist 2 Intern | Seattle, WA +5 |  | Oct 28 | [Apply](https://amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states) |
+| [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Firmware Engineer Intern, SCO2 | San Jose, CA |  | Oct 28 | [Apply](https://go.vansh.nyc/1uT) |
+| [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Firmware Engineer Intern, Leo | San Jose, CA |  | Oct 28 | [Apply](https://go.vansh.nyc/1uU) |
+| [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Firmware Engineer Intern, DevSecOps | San Jose, CA |  | Oct 28 | [Apply](https://go.vansh.nyc/1uV) |
 | Intuitive | Robotics Engineering Intern | Sunnyvale, CA |  | Oct 28 | [Apply](https://go.vansh.nyc/1tN) |
 | Intuitive Surgical | Robotics Engineer Intern | Sunnyvale, CA |  | Oct 28 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000158313717) |
 | [RosaicLabs](https://internscout.org/internships/at/rosaiclabs/) | AI Accelerator Design Verification Engineer Intern | Austin, TX +1 |  | Oct 28 | [Apply](https://go.vansh.nyc/Xp) |
@@ -201,9 +204,6 @@
 | [onsemi](https://internscout.org/internships/at/onsemi/) | Integrated Circuit Design Engineer Intern | Allen, TX |  | Sep 28 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506546) |
 | [Field AI](https://internscout.org/internships/at/field-ai/) | Robotics Research, Humanoid Manipulation Intern (Summer 2027) \| PhD | Boston, MA |  | Sep 27 | [Apply](https://jobs.lever.co/field-ai/ada8184d-153b-4172-8f55-2b0ae74c6820/apply) |
 | [Neuralink](https://internscout.org/internships/at/neuralink/) | Firmware Engineer Intern, Robotics and Surgery Engineering | South San Francisco, CA |  | Sep 25 | [Apply](https://go.vansh.nyc/QH) |
-| [Neuralink](https://internscout.org/internships/at/neuralink/) | Embedded Software Engineer Intern, Implant Embedded Systems | Austin, TX +1 |  | Sep 25 | [Apply](https://go.vansh.nyc/QF) |
-| Arista Networks | Hardware Engineering Intern | Nashua, NH |  | Sep 24 | [Apply](https://go.vansh.nyc/1tu) |
-| [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Firmware Development Intern - PAL | Markham, ON, Canada +1 |  | Sep 23 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721229661) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

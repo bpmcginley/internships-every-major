@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [PTC](https://internscout.org/internships/at/ptc/) | UI/UX Design Intern (Summer 2027) | USA-San Mateo, CA | Paid | Nov 11 | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/USA-San-Mateo-CA/UI-UX-Designer-Intern--Summer-2027-_JR112956) |
 | [Notion](https://internscout.org/internships/at/notion/) | Product Design Intern (Summer 2027) | New York, New York +1 | \$57/hr | Nov 10 | [Apply](https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9/application) |
 | [Addepar](https://internscout.org/internships/at/addepar/) | Design Intern - Summer 2027 | New York, NY | Paid | Nov 10 | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8927595002) |
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | Industrial Design Engineering Intern - Summer 2027 | Towson, MD, United States | \$38,600.00 - \$62,200.00 | Nov 10 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern---Summer-2027_REQ-1000052666) |
@@ -22,7 +23,6 @@
 | [Insomniac Games](https://internscout.org/internships/at/insomniac-games/) | Undergraduate Tech Art Intern | Burbank, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18Q) |
 | [Global Infrastructure](https://internscout.org/internships/at/global-infrastructure/) | Intern, Technology Designer | US +1 | \$23 to \$28 per hour | Oct 30 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--MO--St-Louis---6-South-Old-Orchard/Intern-Technology-Designer_6625) |
 | [Philips](https://internscout.org/internships/at/philips/) | Intern - Industrial Design - Murrysville, PA - Summer 2027 | Murrysville, Pennsylvania, United States | \$24.00 to \$27.00 | Oct 29 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Intern---Industrial-Design---Murrysville--PA---Summer-2027_593133) |
-| [PTC](https://internscout.org/internships/at/ptc/) | UI/UX Designer Intern (Summer 2027) | USA-San Mateo, CA | Paid | Oct 29 | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/USA-San-Mateo-CA/UI-UX-Designer-Intern--Summer-2027-_JR112956) |
 | [Systems Planning and Analysis (SPA)](https://internscout.org/internships/at/systems-planning-and-analysis-spa/) | UI/UX Software Intern - Summer 2027 | Alexandria, Virginia | \$23.00/Hr | Oct 28 | [Apply](https://spa.jibeapply.com/jobs/23699) |
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | Industrial Design Engineering Intern, 3D Surfacing - Summer 2027 | Towson, MD, United States | \$22.00- \$27.00 per hour | Oct 28 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern--3D-Surfacing---Summer-2027_REQ-1000052665) |
 | CSAA Insurance Group | UX Design Intern | Arizona - Home Teleworkers | \$29.50 | Oct 27 | [Apply](https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/UX-Design-Intern_R8001-1) |

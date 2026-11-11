@@ -1,6 +1,6 @@
 # Industrial Engineering: Summer 2027 Internships
 
-308 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 308). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 686 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+307 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 307). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 690 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,7 +11,6 @@
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027) | USA - New York - Malta |  | Nov 10 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604596) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Systems Engineering Intern (Summer 2027) | USA - Texas - Richardson +1 | \$20.00 - \$40.00 | Nov 10 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604045) |
 | [Entegris](https://internscout.org/internships/at/entegris/) | Manufacturing Engineer Intern | Bedford, MA | \$20-\$30/hour | Nov 10 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bedford-MA/Manufacturing-Engineer-Intern_REQ-15886-1) |
-| [Jabil](https://internscout.org/internships/at/jabil/) | AI Agent Developer Intern - Supply Chain IT - AI & Enablement | St. Petersburg, FL +1 |  | Nov 10 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054) |
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | Advanced Manufacturing Engineering Intern - The Toro Company | Bloomington, MN | \$22–\$28 | Nov 10 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Advanced-Manufacturing-Engineering-Intern---The-Toro-Company_JR17845) |
 | [Entegris](https://internscout.org/internships/at/entegris/) | Continuous Improvement Intern | Bedford, MA | \$20-\$30/hour | Nov 10 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bedford-MA/Continuous-Improvement-Intern_REQ-15862) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Manufacturing Engineering Intern (Summer 2027) | Troy, OH | Paid | Nov 10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OH-TROY-101--101-Waco-St--WACO/Manufacturing-Engineering-Intern--Summer-2027-_01884905) |
@@ -204,6 +203,7 @@
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship - Sensor Systems Engineering | Laurel, Maryland | \$22.60 Hour | Aug 31 | [Apply](https://careers.jhuapl.edu/jobs/59874) |
 | [Stryten](https://internscout.org/internships/at/stryten/) | 2027 Summer Intern - Logistics | Alpharetta, Georgia | Paid | Aug 30 | [Apply](https://jobs.stryten.com/jobs/5810) |
 | Northwood Space | Supply Chain Data & Analytics Intern | LA +1 |  | Aug 29 | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application?embed=true) |
+| [Shield AI](https://internscout.org/internships/at/shield-ai/) | Summer 2027 - Advanced Manufacturing Engineering Intern | Dallas, Texas +1 | Paid | Aug 27 | [Apply](https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a/apply) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

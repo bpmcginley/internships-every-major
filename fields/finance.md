@@ -1,6 +1,6 @@
 # Finance: Summer 2027 Internships
 
-524 open Summer 2027 finance roles, newest first (the 200 newest of 524). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 842 finance internships on InternScout](https://internscout.org/internships/finance/)
+522 open Summer 2027 finance roles, newest first (the 200 newest of 522). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 841 finance internships on InternScout](https://internscout.org/internships/finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -24,8 +24,6 @@
 | [Philips](https://internscout.org/internships/at/philips/) | Intern - Finance - Plymouth, MN – Summer 2027 | Plymouth, Minnesota, United States | \$24.00 to \$27.00 | Nov 10 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Finance-Intern_592696) |
 | [Royal Caribbean Group](https://internscout.org/internships/at/royal-caribbean-group/) | Intern, Revenue Management (Summer 2027) | Miami, FL |  | Nov 10 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miami-Intern%2C-Revenue-Management-%28Summer-2027%29-FL-33132/1449350000/) |
 | Truist Bank | 2027 Wholesale Client Coverage & Credit Summer Intern (Internship) | Atlanta, GA +4 | \$41 - \$45 per hour | Nov 10 | [Apply](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Wholesale-Client-Coverage---Credit-Summer-Intern--Internship-_R0121545) |
-| [Ensign-Bickford Industries](https://internscout.org/internships/at/ensign-bickford-industries/) | Finance Intern | Simsbury, CT | \$21 - \$28 per hour | Nov 10 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Finance-Intern_REQ107740-1) |
-| [Ensign-Bickford Aerospace & Defense Company](https://internscout.org/internships/at/ensign-bickford-aerospace-defense-company/) | Finance Intern | Simsbury, CT | \$21 - \$28 per hour | Nov 10 | [Apply](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Finance-Intern_REQ107740) |
 | [Cerity Partners](https://internscout.org/internships/at/cerity-partners/) | Financial Planning Analyst Internship | New York City, NY +1 |  | Nov 10 | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Financial-Planning-Analyst-Internship_R931) |
 | [Cerity Partners](https://internscout.org/internships/at/cerity-partners/) | 2027 Summer Risk Management Strategy Analyst Internship | Louisville, KY |  | Nov 10 | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/XMLNAME-2027-Summer-Risk-Management-Strategy-Analyst-Internship_R918-1) |
 | [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Finance Technology Intern, Summer 2027 | Orrville, OH |  | Nov 9 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Summer-2027_116135) |
@@ -204,6 +202,8 @@
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Global Capital Markets | Wilmington, DE | \$18.00 - \$21.00 Per Hour | Oct 21 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Global-Capital-Markets_R-104105-2) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Consumer Banking Products | Wilmington, DE | \$18.00 - \$21.00 Per Hour | Oct 21 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Product_R-104113-2) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Consumer Banking Finance | Wilmington, DE | \$18.00 - \$21.00 Per Hour | Oct 21 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-internship---Finance_R-104109-2) |
+| [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Trust & Wealth Finance | Wilmington, DE | \$18.00 - \$21.00 Per Hour | Oct 21 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Trust---Wealth-Finance_R-104122-2) |
+| [The Hartford](https://internscout.org/internships/at/the-hartford/) | 2027 Summer Intern - Rotational (IT, Operations, Risk, and Fund Treasury) | Wayne, PA | \$20.00 - \$25.00 | Oct 20 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Wayne-PA/XMLNAME-2027-Summer-Intern---Rotational--IT--Operations--Risk--and-Fund-Treasury-_R2627500) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,6 +1,6 @@
 # Insurance: Summer 2027 Internships
 
-101 open Summer 2027 insurance roles, newest first (all 101). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 186 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+100 open Summer 2027 insurance roles, newest first (all 100). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 185 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -27,7 +27,6 @@
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Trucking Claims Intern (Summer 2027) | Cincinnati, OH (USA) | Paid | Oct 23 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Trucking-Claims-Intern--Summer-2027-_R9775) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Underwriting Internship - Summer 2027 | Draper, UT | \$22.00 per hour | Oct 22 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Draper-UT/Underwriting-Internship---Summer-2027_R_14460) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Underwriting Internship - Summer 2027 | Pittsburgh, PA | \$21.00 per hour | Oct 22 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Pittsburgh-PA/Underwriting-Internship---Summer-2027_R_14384) |
-| [Definity Financial](https://internscout.org/internships/at/definity-financial/) | Actuarial Analyst - Summer 2027 Co-op/Intern | Waterloo, ONT, Canada | Paid | Oct 21 | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9445) |
 | Revantage Corporate Services | Insurance & Alternative Solutions Intern, Summer 2027 | Dallas, TX | \$25.00 To \$25.00 Hour | Oct 21 | [Apply](https://revantage.wd1.myworkdayjobs.com/Revantage/job/Dallas-TX/Insurance---Alternative-Solutions-Intern--Summer-2027_JR104457) |
 | [Everest](https://internscout.org/internships/at/everest/) | 2027 Underwriter Summer Internship Program | Warren, NJ +2 | \$800 - \$1,000 per week | Oct 21 | [Apply](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Underwriter-Summer-Internship-Program_R7400) |
 | [Everest](https://internscout.org/internships/at/everest/) | 2027 Everest Actuarial Internship Program | Warren, NJ | \$900 - 1,000 per week | Oct 21 | [Apply](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Everest-Actuarial-Internship-Program_R7399) |

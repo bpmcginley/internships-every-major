@@ -1,9 +1,10 @@
 # Marketing: Summer 2027 Internships
 
-281 open Summer 2027 marketing roles, newest first (the 200 newest of 281). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 734 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+283 open Summer 2027 marketing roles, newest first (the 200 newest of 283). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 734 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Marketing - Direct Market Planning & Execution | Bloomington, Illinois +1 | \$24.00/hour | Nov 11 | [Apply](https://jobs.statefarm.com/jobs/46584) |
 | [Target](https://internscout.org/internships/at/target/) | Marketing Intern-Minneapolis, MN (Starting Summer 2027) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | \$26.00 per hour | Nov 11 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Marketing-Intern-Minneapolis--MN--Starting-Summer-2027-_R0000449107) |
 | [PTC](https://internscout.org/internships/at/ptc/) | Documentation Content Intern (Summer 2027) | Boston, MA, USA | \$28-32/hour | Nov 11 | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Documentation-Content-Intern--Summer-2027-_JR112948) |
 | [exacare ai](https://internscout.org/internships/at/exacare-ai/) | Growth and Marketing Intern (Summer 2027) | Toronto, Canada |  | Nov 11 | [Apply](https://ats.rippling.com/exacare-inc/jobs/773ffdbd-d087-485a-a123-e8c002b9b1df) |
@@ -15,6 +16,7 @@
 | [Aon](https://internscout.org/internships/at/aon/) | 2027 Wealthspire - Marketing Brand Intern | New York, New York | \$25.00 – \$27.00 per hour | Nov 10 | [Apply](https://jobs.aon.com/jobs/109985) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | GDIT Summer Internship Program – Summer 2027 Growth Team Technical Writer Internship | Herndon, VA | \$21.25 - \$28.75 | Nov 10 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Herndon/GDIT-Summer-Internship-Program---Summer-2027-Growth-Team-Technical-Writer-Internship_RQ231856) |
 | [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Account Communications Summer 2027 Internship | Atlanta, GA |  | Nov 10 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Delta-Account-Communications-Summer-2027-Internship---Delta-Corporate-Headquarters--Atlanta--GA_REQ546149) |
+| Kyndryl | Marketing Internship | New York, NY, USA | \$30/hour | Nov 10 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Generalist_R-70009) |
 | Kyndryl | Marketing Internship, Marketing Analytics | New York, NY, USA +1 | \$30/hour | Nov 10 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analysis_R-70007-1) |
 | [DreamWorks Animation](https://internscout.org/internships/at/dreamworks-animation/) | Advertising & Partnerships: Data Science Intern | NYC |  | Nov 9 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160689930) |
 | [DreamWorks Animation](https://internscout.org/internships/at/dreamworks-animation/) | Data Science Intern, Advertising & Partnerships | New York, NY |  | Nov 9 | [Apply](https://go.vansh.nyc/1pJ) |
@@ -202,8 +204,6 @@
 | [Shure](https://internscout.org/internships/at/shure/) | Global Marketing Intern (Events & Content Small Scale) | Niles, IL | \$23-\$43 per hour | Nov 11, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5023/global-marketing-intern-%28events-%26-content-small-scale%29/job) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Sales Administration - Marketing | Denton, TX |  | Nov 3 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Sales-Administration-Marketing-TX-76205-7864/1453616333/) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Summer 2027 Product Marketing Intern | Boston, Massachusetts +1 | \$23.00-\$27.50 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/138534) |
-| Dee Zee | Marketing Intern | Des Moines, IA |  | Oct 30 | [Apply](https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Marketing-Intern_REQ00383) |
-| [Faith Technologies](https://internscout.org/internships/at/faith-technologies/) | Marketing Operations Intern-Summer 2027 | WI - Menasha |  | Oct 30 | [Apply](https://faithtechnologies.wd1.myworkdayjobs.com/fti/job/WI---Menasha/Marketing-Operations-Intern-Summer-2027_R12069-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

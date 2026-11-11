@@ -1,6 +1,6 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-584 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 584). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,229 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+584 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 584). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,226 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -17,8 +17,9 @@
 | [Toyota Research Institute](https://internscout.org/internships/at/toyota-research-institute/) | Human-Centered AI Research Intern, Causal Reasoning Models (Summer 2027) | Los Altos, CA |  | Nov 10 | [Apply](https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37/apply) |
 | SigIQ.ai | Machine Learning Intern/Resident | Berkeley, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1rw) |
 | [Addepar](https://internscout.org/internships/at/addepar/) | AI Engineering Intern - Summer 2027 | New York, NY +1 | Paid | Nov 10 | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8927543002) |
+| Penn Engineering | AI & Data Intern | United States |  | Nov 10 | [Apply](https://go.vansh.nyc/1v0) |
 | Johns Hopkins APL | AI & Data Science Intern, Analytic Capabilities | Laurel, MD |  | Nov 10 | [Apply](https://go.vansh.nyc/1pW) |
-| Kiewit | Machine Learning Intern, Kiewit Data Services | Omaha, NE |  | Nov 10 | [Apply](https://go.vansh.nyc/1pX) |
+| Kiewit | Machine Learning Intern, Kiewit Data Services | Omaha, NE +1 |  | Nov 10 | [Apply](https://go.vansh.nyc/1pX) |
 | [onsemi](https://internscout.org/internships/at/onsemi/) | AI & Data Analytics Intern | Scottsdale, AZ |  | Nov 10 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Graduate Researcher (Summer 2027) – Applied Artificial Intelligence for Petroleum Engineering | Houston, TX |  | Nov 10 | [Apply](https://aramcoservices.applytojob.com/apply/tIaTOfPJhn/Graduate-Researcher-Summer-2027-Applied-Artificial-Intelligence-For-Petroleum-Engineering) |
 | [International](https://internscout.org/internships/at/international/) | AI/ML Intern | Lisle, Illinois +1 | \$27–\$32 per hour | Nov 10 | [Apply](https://careers.international.com/jobs/60456) |
@@ -26,7 +27,6 @@
 | [V2X](https://internscout.org/internships/at/v2x/) | AI Engineering Intern - Junior | Indianapolis, Indiana +1 | Paid | Nov 10 | [Apply](https://careers.gov2x.com/jobs/63949) |
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - Applied AI Strategy & Research | California - San Francisco | \$47 - \$57 per hour | Nov 10 | [Apply](https://salesforce.wd12.myworkdayjobs.com/futureforce_newgradroles/job/California---San-Francisco/Summer-2027-Intern---Applied-AI-Strategy---Research_JR367516-3) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Machine Learning Engineer, Embodied AI | Sunnyvale, California, United States of America +1 | \$9,600-\$11,800 per month | Nov 10 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034) |
-| [Jabil](https://internscout.org/internships/at/jabil/) | AI Agent Developer Intern - Supply Chain IT - AI & Enablement | St. Petersburg, FL +1 |  | Nov 10 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054) |
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - AI Research Incubator | California - Palo Alto +1 | \$54 - \$70 per hour | Nov 10 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Foundry-Incubation_JR366655) |
 | [DP World](https://internscout.org/internships/at/dp-world/) | AI & Analytics (Talent Management) Intern | Charlotte, NC |  | Nov 10 | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27855) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | AI Operations Intern, AI Clouds - Summer 2027 | US, CA +2 |  | Nov 10 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1) |

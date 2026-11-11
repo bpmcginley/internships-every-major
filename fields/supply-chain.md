@@ -1,13 +1,12 @@
 # Supply Chain: Summer 2027 Internships
 
-214 open Summer 2027 supply chain roles, newest first (the 200 newest of 214). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 454 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
+213 open Summer 2027 supply chain roles, newest first (the 200 newest of 213). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 453 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Strategic Sourcing Intern | Hybrid - New York, NY | Paid | Nov 10 | [Apply](https://www.coinbase.com/careers/positions/8376084?gh_jid=8376084) |
 | [Formlabs](https://internscout.org/internships/at/formlabs/) | Global Sourcing Intern (Summer 2027) | Somerville, MA | \$1,575 | Nov 10 | [Apply](https://careers.formlabs.com/job/8161800/apply/?gh_jid=8161800) |
 | [Oshkosh](https://internscout.org/internships/at/oshkosh/) | MRO Supply Chain Intern - Summer 2027 | Hagerstown, Maryland, United States | \$18.00 - \$37.00 | Nov 10 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/MRO-Supply-Chain-Intern---Summer-2027_R49938) |
-| [Jabil](https://internscout.org/internships/at/jabil/) | AI Agent Developer Intern - Supply Chain IT - AI & Enablement | St. Petersburg, FL +1 |  | Nov 10 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054) |
 | [Uline](https://internscout.org/internships/at/uline/) | Warehouse Management Internship - Summer 2027 | Reno, NV +3 | \$21.50 per hour | Nov 10 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Reno-NV/Warehouse-Management-Internship---Summer-2027_R268534) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Global Supply Chain & Sourcing Intern (Summer 2027) | USA - New York - Malta | \$20.00 - \$40.00 | Nov 9 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Global-Supply-Chain---Sourcing-Intern--Summer-2027-_JR-2604471) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Purchasing Intern (Summer 2027) | Anderson, SC |  | Nov 9 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279277) |
@@ -204,6 +203,7 @@
 | [Pentair](https://internscout.org/internships/at/pentair/) | Supply Chain & Operations Leadership Development Internship Program - Summer 2027 | Golden Valley, MN +10 | \$28.00/ hour | Sep 18 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Supply-Chain---Operations-Leadership-Development-Internship-Program---Summer-2027_R23712) |
 | [Ingredion](https://internscout.org/internships/at/ingredion/) | Global Supply Chain Data Science Intern | Westchester, IL | \$20-23hour | Sep 18 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Supply-Chain-Data-Science-Intern_Req-40226-1) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Logistics Intern | Niles, IL |  | Sep 18 | [Apply](https://careersus-shure.icims.com/jobs/4987/global-logistics-intern/job) |
+| [Target](https://internscout.org/internships/at/target/) | Operation Manager Intern (Starting Summer 2027) Food Distribution Center - Thornton, CO | 15450 Washington St, Thornton,CO 80023-9719 |  | Sep 18 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/15450-Washington-St-ThorntonCO-80023-9719/Operation-Manager-Intern--Starting-Summer-2027--Food-Distribution-Center---Thornton--CO_R0000450440-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
