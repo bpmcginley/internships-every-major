@@ -1,9 +1,10 @@
 # Health: Summer 2027 Internships
 
-57 open Summer 2027 health roles, newest first (all 57). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 301 health internships on InternScout](https://internscout.org/internships/health/)
+58 open Summer 2027 health roles, newest first (all 58). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 302 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program – Global Clinical Supply - Co-op | USA - New Jersey - Rahway +1 | \$39,908 - \$111,111 | Nov 11 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Clinical-Supply---Co-op_R413309) |
 | [Genentech](https://internscout.org/internships/at/genentech/) | 2027 Summer Intern - Digital, AI, and Clinical Outcome Assessments | South San Francisco, CA | \$34.00-\$52.00 per hour | Nov 11 | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Digital--AI--and-Clinical-Outcome-Assessments_202611-128790) |
 | [Sanofi](https://internscout.org/internships/at/sanofi/) | 2027 Summer Intern Clinical Statistical Modeling Cambridge MA | Cambridge, MA +1 | Paid | Nov 10 | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-Clinical-Statistical-Modeling-Cambridge-MA_R2866227) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Grad Intern - Global Patient Safety (Summer 2027) | Remote | \$35.34 – \$41.20 per hour | Nov 10 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Global-Patient-Safety--Summer-2027-_R-260757) |

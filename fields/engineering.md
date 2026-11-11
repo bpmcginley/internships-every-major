@@ -1,6 +1,6 @@
 # Engineering: Summer 2027 Internships
 
-688 open Summer 2027 engineering roles, newest first (the 200 newest of 688). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,725 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+687 open Summer 2027 engineering roles, newest first (the 200 newest of 687). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,722 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -167,7 +167,6 @@
 | [ABB](https://internscout.org/internships/at/abb/) | Application Engineering Intern - Summer 2027 | Alpharetta, Georgia, United States of America +3 | \$20 - \$34 per hour | Oct 27 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Summer-2027_JR00045706) |
 | [HP IQ](https://internscout.org/internships/at/hp-iq/) | Engineering Intern, Wireless Automation and Test (Summer 2027) | San Francisco, CA +1 | \$40.00–\$50.00 per hour | Oct 26 | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6114741004) |
 | [Commonwealth Fusion Systems](https://internscout.org/internships/at/commonwealth-fusion-systems/) | Intern - Microwave Engineer - Summer 2027 | Devens, MA | Paid | Oct 26 | [Apply](https://jobs.lever.co/cfsenergy/79cd53ba-b864-4bcb-8421-60cf58f7df54/apply) |
-| [BorgWarner](https://internscout.org/internships/at/borgwarner/) | Systems Test Automation Engineering Intern | Kokomo, IN |  | Oct 26 | [Apply](https://go.vansh.nyc/Sy) |
 | [Copart](https://internscout.org/internships/at/copart/) | Vulnerability Management Engineering Intern | Dallas, TX |  | Oct 26 | [Apply](https://go.vansh.nyc/SC) |
 | [IKO](https://internscout.org/internships/at/iko/) | Maintenance and Reliability Intern | Ironton, MO | \$24.00 -\$25.00 per hour | Oct 26 | [Apply](https://iko.wd3.myworkdayjobs.com/iko_careers/job/Ironton-MO/Maintenance-and-Reliability-Intern_REQ-14024) |
 | [Carrier Global](https://internscout.org/internships/at/carrier-global/) | Quality Engineering Intern - Summer | CAI23: Carrier-Indianapolis, 7310 West Morris Street, Indianapolis, IN, 46231 USA | \$43,500.00 - \$87,500.00 annually | Oct 26 | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Quality-Engineering-Intern---Summer_30220757) |
@@ -204,6 +203,7 @@
 | [Aptiv](https://internscout.org/internships/at/aptiv/) | Linux Engineering Intern | Kanata, Canada |  | Oct 22 | [Apply](https://go.vansh.nyc/eM) |
 | [Ricoh](https://internscout.org/internships/at/ricoh/) | SW Engineer Intern | Boulder, CO |  | Oct 22 | [Apply](https://go.vansh.nyc/Vm) |
 | [Aptiv](https://internscout.org/internships/at/aptiv/) | HVP/Certification Engineer Intern | Kanata, Canada |  | Oct 22 | [Apply](https://go.vansh.nyc/f8) |
+| [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | 2027 Summer Engineering Intern | US - EARTH CITY (MOEAR) |  | Oct 22 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---EARTH-CITY-MOEAR/XMLNAME-2027-Summer-Engineering-Intern_R26039265) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

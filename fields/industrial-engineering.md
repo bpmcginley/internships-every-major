@@ -1,6 +1,6 @@
 # Industrial Engineering: Summer 2027 Internships
 
-308 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 308). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 687 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+308 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 308). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 686 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

@@ -1,12 +1,14 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-651 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 651). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,159 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+653 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 653). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 1,160 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [ICF](https://internscout.org/internships/at/icf/) | Data Analytics Intern | Reston, VA +2 |  | Nov 11 | [Apply](https://go.vansh.nyc/1uQ) |
 | [State of Wisconsin Investment Board](https://internscout.org/internships/at/state-of-wisconsin-investment-board/) | Data Analytics Engineering Intern | Madison, WI |  | Nov 11 | [Apply](https://go.vansh.nyc/1uG) |
 | Riot Games | Data Engineering Intern | Los Angeles, CA |  | Nov 11 | [Apply](https://go.vansh.nyc/1sS) |
 | Riot Games | Data Engineer Intern | Remote |  | Nov 11 | [Apply](https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716) |
+| [Genentech](https://internscout.org/internships/at/genentech/) | 2027 Summer Intern - Product Development Data Sciences | Boston | \$29.00-\$52.00 per hour | Nov 11 | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/Boston/XMLNAME-2027-Summer-Intern---Product-Development-Data-Sciences_202611-128802) |
 | Huron | Internal Audit and Risk Management - Data Analytics & AI (Summer 2027 Internship - Washington, D.C.) | Washington DC - 1800 M Street, NW | \$30/hr | Nov 11 | [Apply](https://huron.wd1.myworkdayjobs.com/huroncareers/job/Washington-DC---1800-M-Street-NW/Internal-Audit-and-Risk-Management---Data-Analytics---AI--Summer-2027-Internship-_JR-0017165) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Data Analytics (Reston, VA or Remote) | Reston, VA | \$23/hour | Nov 11 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1) |
 | [Genentech](https://internscout.org/internships/at/genentech/) | 2027 Summer Intern - Biostatistics and Analytical Data Sciences | South San Francisco, CA | \$34.00-\$52.00 per hour | Nov 11 | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Biostatistics-and-Analytical-Data-Sciences_202611-128787) |
@@ -202,8 +204,6 @@
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | R&D Data Science Co-op | Brecksville, OH |  | Oct 28 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627789) |
 | Beli | Data Science Intern | New York, NY |  | Oct 28 | [Apply](https://go.vansh.nyc/11U) |
 | [SageSure](https://internscout.org/internships/at/sagesure/) | Data Science Intern | Jersey City, NJ |  | Oct 28 | [Apply](https://go.vansh.nyc/1oi) |
-| [Micron Technology](https://internscout.org/internships/at/micron-technology/) | Data Science Intern | San Jose, CA +1 |  | Oct 28 | [Apply](https://go.vansh.nyc/XF) |
-| PrizePicks | Business Intelligence Intern - Game Operations | Atlanta, GA |  | Oct 28 | [Apply](http://prizepicks.com/position?gh_jid=8047188003) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

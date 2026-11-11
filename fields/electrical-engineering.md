@@ -1,9 +1,10 @@
 # Electrical Engineering: Summer 2027 Internships
 
-237 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 237). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 567 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+239 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 239). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 568 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [RTX](https://internscout.org/internships/at/rtx/) | Electrical (FCS Hardware) Engineering Intern (Summer 2027)(Onsite) | Cedar Rapids, IA | Paid | Nov 11 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical--FCS-Hardware--Engineering-Intern--Summer-2027--Onsite-_01888815) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Receiver, Exciter & Processing Architecture Electrical Engineer Intern (Summer 2027) | Tewksbury, MA | Paid | Nov 11 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027-_01873437) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Electrical Components Engineer Intern (Summer 2027) (Onsite) | Tucson, AZ | Paid | Nov 11 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Electrical-Components-Engineer-Intern--Summer-2027---Onsite-_01888885) |
 | [MSA Safety](https://internscout.org/internships/at/msa-safety/) | Intern/Co-op: Electrical Engineering Technology, Cranberry (Summer 2027) | Cranberry Township, Pennsylvania |  | Nov 11 | [Apply](https://careers.msasafety.com/jobs/10392) |
@@ -86,6 +87,7 @@
 | [Stantec](https://internscout.org/internships/at/stantec/) | Electrical Engineering Intern - Buildings (Summer 2027) | Plano, TX |  | Oct 20 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008416) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Electrical Engineering Intern - Buildings (Summer 2027) | Dallas, TX |  | Oct 20 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008417) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Electrical Engineering Intern - Buildings (Summer 2027) | Houston, TX |  | Oct 20 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008418) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Electrical Components Engineer Intern | Tucson, AZ |  | Oct 20 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Electrical-Components-Engineer-Intern--Summer-2027--Onsite-_01879761) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Substation Electrical Engineering Intern - Summer 2027 | Spring, TX |  | Oct 20 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97953) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Electrical Engineering Intern - Buildings (Summer 2027) | Austin, TX |  | Oct 20 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008372) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | QDSP Hardware Physical Design Intern | Markham, ON, Canada |  | Oct 19 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721636316) |
@@ -202,8 +204,6 @@
 | [IMEG](https://internscout.org/internships/at/imeg/) | Electrical Engineering Intern \| Scottsdale, AZ | Phoenix, AZ | Paid | Oct 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Phoenix-AZ/Electrical-Engineering-Intern---Scottsdale--AZ_R-16745) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Electrical Engineering Intern \| Cincinnati, OH | Cincinnati, OH | \$22.00/hr | Oct 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Cincinnati-OH/Electrical-Engineering-Intern---Cincinnati--OH_R-16734) |
 | [AES](https://internscout.org/internships/at/aes/) | Intern - T&D standards Power Systems - (Summer 2027) | Dayton, OH +1 |  | Oct 24 | [Apply](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/Intern---T-D-standards-Power-Systems----Summer-2027-_R1064748) |
-| [HNTB](https://internscout.org/internships/at/hntb/) | WED - Intern Electrical Power System (Summer 2027) (For Current & Recent HNTB Interns Only) | Los Angeles, CA (Figueroa Street) | \$24.23 - \$36.34 | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Los-Angeles-CA-Figueroa-Street/WED---Intern-Electrical-Power-System--Summer-2027---For-Current---Recent-HNTB-Interns-Only-_R-31767) |
-| [IMEG](https://internscout.org/internships/at/imeg/) | Electrical Engineering Intern \| Independence, OH | Cleveland, OH | \$22.00/hour | Oct 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Cleveland-OH/Electrical-Engineering-Intern---Independence--OH_R-16577) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

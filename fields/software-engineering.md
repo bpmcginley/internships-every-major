@@ -1,6 +1,6 @@
 # Software Engineering: Summer 2027 Internships
 
-1,858 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,858). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 3,459 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,858 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,858). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 3,449 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -14,11 +14,14 @@
 | Unisys | Software Engineer Intern | Eagan, MN |  | Nov 11 | [Apply](https://go.vansh.nyc/1uC) |
 | [MSA Safety](https://internscout.org/internships/at/msa-safety/) | Intern/Co-op: Electrical Engineering Technology, Cranberry (Summer 2027) | Cranberry Township, Pennsylvania |  | Nov 11 | [Apply](https://careers.msasafety.com/jobs/10392) |
 | [GM financial](https://internscout.org/internships/at/gm-financial/) | Intern - Software Development Engineer | Arlington, TX |  | Nov 11 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260818) |
+| Arrowstreet Capital | Quantitative Developer Intern, Summer 2027 | Boston +1 | \$3,500 - \$5,000 per week | Nov 11 | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) |
+| [Netsmart](https://internscout.org/internships/at/netsmart/) | Software Engineer Intern (Summer 2027 Internship) | Overland Park, KS | Paid | Nov 11 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Embedded Software Developer, Network/Payload Intern (Summer 2027) | San Francisco +2 | \$29.00 per hour | Nov 10 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704569006) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Site Reliability Engineer Intern, Data Platform, Computer Platform | San Jose, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1s7) |
 | Western Digital | Software Engineering Intern | San Jose, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1s8) |
 | [Skydio](https://internscout.org/internships/at/skydio/) | Middleware Software Engineer Intern - Summer 2027 | San Mateo, California, United States +3 | \$47/hr | Nov 10 | [Apply](https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03/application) |
 | [Trimble](https://internscout.org/internships/at/trimble/) | Software Engineering Intern | Knoxville, TN |  | Nov 10 | [Apply](https://go.vansh.nyc/1rP) |
+| 7-Eleven | Enterprise Technology Intern | Irving, TX |  | Nov 10 | [Apply](https://go.vansh.nyc/1uR) |
 | [Shield AI](https://internscout.org/internships/at/shield-ai/) | Summer 2027 - Software Engineer Intern | San Diego, California +1 |  | Nov 10 | [Apply](https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application) |
 | Aurora Innovation | Safety & Systems Engineering Intern | Mountain View, CA +3 | \$58.00 per hour | Nov 10 | [Apply](https://jobs.ashbyhq.com/aurora-operations-inc/058e3b3a-dd13-4736-84a8-b19d5de2c9f5/application) |
 | Rivet | Full-Stack Engineering Intern | United States |  | Nov 10 | [Apply](https://go.vansh.nyc/1ru) |
@@ -201,9 +204,6 @@
 | METECS | Software Intern | Houston, TX |  | Nov 5 | [Apply](https://go.vansh.nyc/1i5) |
 | Genesys | Web Software Developer Intern, WFM | Toronto, Canada |  | Nov 5 | [Apply](https://go.vansh.nyc/1hJ) |
 | [DraftKings](https://internscout.org/internships/at/draftkings/) | Software Engineer Intern | Boston, MA |  | Nov 5 | [Apply](https://go.vansh.nyc/1hI) |
-| [NCR Atleos](https://internscout.org/internships/at/ncr-atleos/) | Technology Intern | Atlanta, GA +1 |  | Nov 5 | [Apply](https://go.vansh.nyc/1hL) |
-| [Tencent](https://internscout.org/internships/at/tencent/) | Site Reliability Engineer (SRE) Intern, AI Infrastructure | Palo Alto, CA |  | Nov 5 | [Apply](https://go.vansh.nyc/1hQ) |
-| [General Dynamics Mission Systems](https://internscout.org/internships/at/general-dynamics-mission-systems/) | Software Engineering Intern | Lakewood, OH +1 |  | Nov 5 | [Apply](https://go.vansh.nyc/1mz) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

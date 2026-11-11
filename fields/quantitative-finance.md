@@ -4,11 +4,13 @@
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Arrowstreet Capital | Quantitative Developer Intern, Summer 2027 | Boston +1 | \$3,500 - \$5,000 per week | Nov 11 | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) |
 | [Santander](https://internscout.org/internships/at/santander/) | 2027 Credit Portfolio Management Summer Intern – Miami | Miami | Paid | Nov 9 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/XMLNAME-2027-Credit-Portfolio-Management-Summer-Intern---Miami_Req1633015) |
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Trading System Development Intern | New York, NY |  | Nov 6 | [Apply](https://go.vansh.nyc/1lC) |
 | [BMO](https://internscout.org/internships/at/bmo/) | Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months | Toronto, ON, CAN +1 | \$65,000.00 - \$140,000.00 | Nov 6 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097-1) |
 | [Bank of Montreal](https://internscout.org/internships/at/bank-of-montreal/) | Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months | Toronto, ON, CAN +1 | \$65,000.00 - \$140,000.00 | Nov 6 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097) |
 | [Galaxy](https://internscout.org/internships/at/galaxy/) | 2027 Sales and Trading Internships - NYC | New York | \$55/hr | Nov 3 | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6242350004) |
+| LSEG | Intern - Quantitative Services | Boston, Massachusetts +1 |  | Nov 3 | [Apply](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Boston-Massachusetts/Intern---Quantitative-Services_R0124310-2) |
 | Man Group | Systematic Quant Intern - PhD | Massachusetts +1 | Paid | Nov 2 | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012811101) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Quantitative Modeling (Raleigh, NC) | Raleigh, North Carolina +1 |  | Oct 30 | [Apply](https://firstcitizens.jibeapply.com/jobs/36317) |
 | [Jain Global](https://internscout.org/internships/at/jain-global/) | Quant Research Intern, Systematic Trading | New York, New York | \$182,000 | Oct 30 | [Apply](https://jainglobal.wd5.myworkdayjobs.com/LinkedInCareerSite/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603) |
@@ -26,7 +28,6 @@
 | InfiniteQuant | Quantitative Researcher Intern | New York, NY |  | Oct 22 | [Apply](https://go.vansh.nyc/eP) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Structuring & Portfolio Management Intern - San Diego, CA | San Diego, California +1 | Paid | Oct 22 | [Apply](https://jobs.constellationenergy.com/jobs/140355) |
 | Graviton | Quantitative Researcher - 2027 Summer Internship | New York +1 |  | Oct 19 | [Apply](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002) |
-| LSEG | Quantitative Services Intern | Boston, MA |  | Oct 14 | [Apply](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Boston-Massachusetts/Intern---Quantitative-Services_R0124310-2) |
 | Acadian Asset Management | Quantitative Investment Internship Program - Summer 2027 | Boston, Massachusetts, United States +1 | \$50.00 per hour | Oct 13 | [Apply](https://www.acadian-asset.com/careers/open-positions?gh_jid=4720681006) |
 | PDT Partners | Quantitative Research Intern | NYC |  | Oct 7 | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8263031) |
 | [Jain Global](https://internscout.org/internships/at/jain-global/) | Quant Modelling Intern | NYC |  | Oct 7 | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Modelling-Intern_JR100616) |
@@ -104,7 +105,6 @@
 | Akuna Capital University | Quantitative Research Intern | Chicago, IL |  | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
 | Akunacapital | Quantitative Development & Strategy Intern, Summer 2027 | Chicago, IL | \$145,000 | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
 | Akunacapital | Quantitative Research Intern, Summer 2027 | Chicago, IL | \$145,000 | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
-| Arrowstreet Capital | Quantitative Developer Intern | Boston, MA |  | Jul 10 | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) |
 | [Jump Trading](https://internscout.org/internships/at/jump-trading/) | Quantitative Trader Intern | Chicago, IL +1 |  | Jul 9 | [Apply](https://go.vansh.nyc/3k) |
 | [Jump Trading](https://internscout.org/internships/at/jump-trading/) | Campus Quantitative Researcher, PhD (Intern) | Chicago +3 | \$300,000 per year | Jul 8 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8049938) |
 | Flowtraders | Quantitative Trading Intern Summer 2027 | New York +1 | \$150,000 | Jul 8 | [Apply](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) |

@@ -4,9 +4,9 @@
 
 **8,749 open Summer 2027 internships, co-ops and research roles.**
 
-Explore 54 fields at 1,366 employers in the US and Canada. Free to browse. Apply directly on employer sites.
+Explore 54 fields at 1,367 employers in the US and Canada. Free to browse. Apply directly on employer sites.
 
-**Updated November 11, 2026.** Other start terms, or roles near you? [Search all 19,950 open roles on InternScout](https://internscout.org), free, no account.
+**Updated November 11, 2026.** Other start terms, or roles near you? [Search all 19,927 open roles on InternScout](https://internscout.org), free, no account.
 
 Star this repository to follow updates.
 
@@ -14,7 +14,7 @@ Star this repository to follow updates.
 
 ## Contents
 
-- [New this week](#new-this-week) (1,029)
+- [New this week](#new-this-week) (1,036)
 - [About this list](#about-this-list)
 
 | Field | Summer 2027 roles | Full list |
@@ -28,23 +28,23 @@ Star this repository to follow updates.
 | [Business](#business) | 80 | [fields/business.md](fields/business.md) |
 | [Chemical Engineering](#chemical-engineering) | 65 | [fields/chemical-engineering.md](fields/chemical-engineering.md) |
 | [Chemistry](#chemistry) | 23 | [fields/chemistry.md](fields/chemistry.md) |
-| [Civil Engineering](#civil-engineering) | 340 | [fields/civil-engineering.md](fields/civil-engineering.md) |
+| [Civil Engineering](#civil-engineering) | 339 | [fields/civil-engineering.md](fields/civil-engineering.md) |
 | [Communications](#communications) | 58 | [fields/communications.md](fields/communications.md) |
 | [Consulting](#consulting) | 125 | [fields/consulting.md](fields/consulting.md) |
 | [Cybersecurity](#cybersecurity) | 213 | [fields/cybersecurity.md](fields/cybersecurity.md) |
-| [Data Science and Analytics](#data-science-and-analytics) | 651 | [fields/data-science.md](fields/data-science.md) |
+| [Data Science and Analytics](#data-science-and-analytics) | 653 | [fields/data-science.md](fields/data-science.md) |
 | [Design](#design) | 83 | [fields/design.md](fields/design.md) |
 | [Economics](#economics) | 26 | [fields/economics.md](fields/economics.md) |
 | [Education](#education) | 31 | [fields/education.md](fields/education.md) |
-| [Electrical Engineering](#electrical-engineering) | 237 | [fields/electrical-engineering.md](fields/electrical-engineering.md) |
-| [Engineering](#engineering) | 688 | [fields/engineering.md](fields/engineering.md) |
+| [Electrical Engineering](#electrical-engineering) | 239 | [fields/electrical-engineering.md](fields/electrical-engineering.md) |
+| [Engineering](#engineering) | 687 | [fields/engineering.md](fields/engineering.md) |
 | [Environmental Science and Engineering](#environmental-science-and-engineering) | 204 | [fields/environmental.md](fields/environmental.md) |
 | [Film](#film) | 6 | [fields/film.md](fields/film.md) |
 | [Finance](#finance) | 524 | [fields/finance.md](fields/finance.md) |
 | [Government and Public Policy](#government-and-public-policy) | 65 | [fields/government.md](fields/government.md) |
 | [Hardware Engineering](#hardware-engineering) | 300 | [fields/hardware-engineering.md](fields/hardware-engineering.md) |
-| [Health](#health) | 57 | [fields/health.md](fields/health.md) |
-| [Hospitality](#hospitality) | 34 | [fields/hospitality.md](fields/hospitality.md) |
+| [Health](#health) | 58 | [fields/health.md](fields/health.md) |
+| [Hospitality](#hospitality) | 33 | [fields/hospitality.md](fields/hospitality.md) |
 | [Human Resources](#human-resources) | 113 | [fields/human-resources.md](fields/human-resources.md) |
 | [Industrial Engineering](#industrial-engineering) | 308 | [fields/industrial-engineering.md](fields/industrial-engineering.md) |
 | [Insurance](#insurance) | 101 | [fields/insurance.md](fields/insurance.md) |
@@ -67,19 +67,20 @@ Star this repository to follow updates.
 | [Quantitative Finance](#quantitative-finance) | 152 | [fields/quantitative-finance.md](fields/quantitative-finance.md) |
 | [Real Estate](#real-estate) | 24 | [fields/real-estate.md](fields/real-estate.md) |
 | [Retail](#retail) | 218 | [fields/retail.md](fields/retail.md) |
-| [Sales](#sales) | 300 | [fields/sales.md](fields/sales.md) |
+| [Sales](#sales) | 301 | [fields/sales.md](fields/sales.md) |
 | [Software Engineering](#software-engineering) | 1,858 | [fields/software-engineering.md](fields/software-engineering.md) |
-| [Sports](#sports) | 11 | [fields/sports.md](fields/sports.md) |
+| [Sports](#sports) | 12 | [fields/sports.md](fields/sports.md) |
 | [Supply Chain](#supply-chain) | 214 | [fields/supply-chain.md](fields/supply-chain.md) |
 | [Sustainability](#sustainability) | 84 | [fields/sustainability.md](fields/sustainability.md) |
 | [Urban Planning](#urban-planning) | 63 | [fields/urban-planning.md](fields/urban-planning.md) |
 
 ## New this week
 
-1,029 Summer 2027 roles found in the last 7 days; the 50 newest are below. [Every role found this week, of any start term](https://internscout.org/internships/new/).
+1,036 Summer 2027 roles found in the last 7 days; the 50 newest are below. [Every role found this week, of any start term](https://internscout.org/internships/new/).
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [ICF](https://internscout.org/internships/at/icf/) | Data Analytics Intern | Reston, VA +2 |  | Nov 11 | [Apply](https://go.vansh.nyc/1uQ) |
 | [State of Wisconsin Investment Board](https://internscout.org/internships/at/state-of-wisconsin-investment-board/) | Data Analytics Engineering Intern | Madison, WI |  | Nov 11 | [Apply](https://go.vansh.nyc/1uG) |
 | [Rockwell Automation](https://internscout.org/internships/at/rockwell-automation/) | Software Developer/Engineering Intern | Mequon, WI |  | Nov 11 | [Apply](https://go.vansh.nyc/1uD) |
 | [Eaton](https://internscout.org/internships/at/eaton/) | Design Engineer Internship (Summer 2027) | Calverton, MD |  | Nov 11 | [Apply](https://eaton.eightfold.ai/careers/job/687240116405) |
@@ -94,6 +95,11 @@ Star this repository to follow updates.
 | Riot Games | Data Engineering Intern | Los Angeles, CA |  | Nov 11 | [Apply](https://go.vansh.nyc/1sS) |
 | Riot Games | Data Engineer Intern | Remote |  | Nov 11 | [Apply](https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716) |
 | [Tesla](https://internscout.org/internships/at/tesla/) | Software Developer Intern - IT Apps | Fremont, CA |  | Nov 11 | [Apply](https://www.tesla.com/careers/search/job/289683) |
+| [PTC](https://internscout.org/internships/at/ptc/) | Creo Core Geometry Intern (Summer 2027) | Boston, MA, USA | Paid | Nov 11 | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Creo-Core-Geometry-Intern--Summer-2027-_JR112959) |
+| [Genentech](https://internscout.org/internships/at/genentech/) | 2027 Summer Intern - Product Development Data Sciences | Boston | \$29.00-\$52.00 per hour | Nov 11 | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/Boston/XMLNAME-2027-Summer-Intern---Product-Development-Data-Sciences_202611-128802) |
+| [Target](https://internscout.org/internships/at/target/) | Marketing Intern-Minneapolis, MN (Starting Summer 2027) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | \$26.00 per hour | Nov 11 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Marketing-Intern-Minneapolis--MN--Starting-Summer-2027-_R0000449107) |
+| [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program – Global Clinical Supply - Co-op | USA - New Jersey - Rahway +1 | \$39,908 - \$111,111 | Nov 11 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Clinical-Supply---Co-op_R413309) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Electrical (FCS Hardware) Engineering Intern (Summer 2027)(Onsite) | Cedar Rapids, IA | Paid | Nov 11 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical--FCS-Hardware--Engineering-Intern--Summer-2027--Onsite-_01888815) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | GIS Intern | Lakewood, Colorado | \$20.00 | Nov 11 | [Apply](https://careers.trccompanies.com/jobs/28698) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Field Services Intern | Lakeland, Florida | \$20.00 | Nov 11 | [Apply](https://careers.trccompanies.com/jobs/28665) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Field Services Intern | Houston, Texas | \$20.00 | Nov 11 | [Apply](https://careers.trccompanies.com/jobs/28666) |
@@ -124,12 +130,6 @@ Star this repository to follow updates.
 | [RTX](https://internscout.org/internships/at/rtx/) | Receiver, Exciter & Processing Architecture Electrical Engineer Intern (Summer 2027) | Tewksbury, MA | Paid | Nov 11 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027-_01873437) |
 | [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Leasing Summer 2027 Internship - Richmond, VA | Richmond, VA |  | Nov 11 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Richmond-VA/Leasing-Summer-2027-Internship---Richmond--VA_REQ546397) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Structural Engineering Intern (Summer 2027)(Onsite) | East Hartford-Eng, CT | Paid | Nov 11 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ENG--400-Main-St--BLDG-ENG/Structural-Engineering-Intern--Summer-2027--Onsite-_01887158) |
-| [exacare ai](https://internscout.org/internships/at/exacare-ai/) | Business Development Representative Intern (Summer 2027) | Toronto, Canada |  | Nov 11 | [Apply](https://ats.rippling.com/exacare-inc/jobs/57582910-0434-40d2-91dc-1764f0573379) |
-| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | AI Processor Hardware/Software Integration Engineer Intern (Summer 2027) | USA - Texas - Richardson +1 |  | Nov 11 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer-Intern--Summer-2027-_JR-2604028) |
-| [Lazard](https://internscout.org/internships/at/lazard/) | 2027 Summer Associate - New York M&A/Restructuring | New York |  | Nov 11 | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6769) |
-| Unisys | Software Engineer Intern | Eagan, MN |  | Nov 11 | [Apply](https://go.vansh.nyc/1uC) |
-| [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Construction Intern, Summer 2027 | Harrisburg, PA |  | Nov 11 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310191) |
-| [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | AI Solutions Intern- Human Resources- Summer 2027 | Columbus, Ohio +1 |  | Nov 11 | [Apply](https://careers.marzetticompany.com/jobs/8128) |
 
 ## Accounting
 
@@ -274,7 +274,7 @@ Star this repository to follow updates.
 
 ## Biology
 
-20 Summer 2027 roles, all of them below. [One page with all of them](fields/biology.md) · [See all 731 biology internships on InternScout](https://internscout.org/internships/biology/)
+20 Summer 2027 roles, all of them below. [One page with all of them](fields/biology.md) · [See all 726 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -318,7 +318,7 @@ Star this repository to follow updates.
 
 ## Business
 
-80 Summer 2027 roles, the 30 newest below. [One page with all of them](fields/business.md) · [See all 150 business internships on InternScout](https://internscout.org/internships/business/)
+80 Summer 2027 roles, the 30 newest below. [One page with all of them](fields/business.md) · [See all 149 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -357,7 +357,7 @@ Star this repository to follow updates.
 
 ## Chemical Engineering
 
-65 Summer 2027 roles, the 30 newest below. [One page with all of them](fields/chemical-engineering.md) · [See all 153 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+65 Summer 2027 roles, the 30 newest below. [One page with all of them](fields/chemical-engineering.md) · [See all 152 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -428,7 +428,7 @@ Star this repository to follow updates.
 
 ## Civil Engineering
 
-340 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/civil-engineering.md) · [See all 559 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+339 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/civil-engineering.md) · [See all 559 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -506,7 +506,7 @@ Star this repository to follow updates.
 
 ## Consulting
 
-125 Summer 2027 roles, the 30 newest below. [One page with all of them](fields/consulting.md) · [See all 244 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+125 Summer 2027 roles, the 30 newest below. [One page with all of them](fields/consulting.md) · [See all 243 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -584,13 +584,15 @@ Star this repository to follow updates.
 
 ## Data Science and Analytics
 
-651 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/data-science.md) · [See all 1,159 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+653 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/data-science.md) · [See all 1,160 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [ICF](https://internscout.org/internships/at/icf/) | Data Analytics Intern | Reston, VA +2 |  | Nov 11 | [Apply](https://go.vansh.nyc/1uQ) |
 | [State of Wisconsin Investment Board](https://internscout.org/internships/at/state-of-wisconsin-investment-board/) | Data Analytics Engineering Intern | Madison, WI |  | Nov 11 | [Apply](https://go.vansh.nyc/1uG) |
 | Riot Games | Data Engineering Intern | Los Angeles, CA |  | Nov 11 | [Apply](https://go.vansh.nyc/1sS) |
 | Riot Games | Data Engineer Intern | Remote |  | Nov 11 | [Apply](https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716) |
+| [Genentech](https://internscout.org/internships/at/genentech/) | 2027 Summer Intern - Product Development Data Sciences | Boston | \$29.00-\$52.00 per hour | Nov 11 | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/Boston/XMLNAME-2027-Summer-Intern---Product-Development-Data-Sciences_202611-128802) |
 | Huron | Internal Audit and Risk Management - Data Analytics & AI (Summer 2027 Internship - Washington, D.C.) | Washington DC - 1800 M Street, NW | \$30/hr | Nov 11 | [Apply](https://huron.wd1.myworkdayjobs.com/huroncareers/job/Washington-DC---1800-M-Street-NW/Internal-Audit-and-Risk-Management---Data-Analytics---AI--Summer-2027-Internship-_JR-0017165) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Data Analytics (Reston, VA or Remote) | Reston, VA | \$23/hour | Nov 11 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1) |
 | [Genentech](https://internscout.org/internships/at/genentech/) | 2027 Summer Intern - Biostatistics and Analytical Data Sciences | South San Francisco, CA | \$34.00-\$52.00 per hour | Nov 11 | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Biostatistics-and-Analytical-Data-Sciences_202611-128787) |
@@ -616,8 +618,6 @@ Star this repository to follow updates.
 | [General Dynamics Mission Systems](https://internscout.org/internships/at/general-dynamics-mission-systems/) | Ontology Data Analysis and Validation Intern | Chantilly, VA +2 |  | Nov 10 | [Apply](https://careers-gdms.icims.com/jobs/76095/job?mobile=true&needsRedirect=false) |
 | i3 | Data Management Intern | Huntsville, AL |  | Nov 10 | [Apply](https://go.vansh.nyc/1pN) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Quality & Analytics Internship (Wisconsin Health Plan) – Summer 2027 (Undergraduate) | WI +1 |  | Nov 10 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040143) |
-| [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Data Analyst enGen Undergraduate Intern | Pittsburgh PA, 15222, PAP, Penn Avenue Place +1 |  | Nov 10 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826) |
-| Kyndryl | Marketing Internship, Marketing Analytics | New York, NY, USA +1 | \$30/hour | Nov 10 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analysis_R-70007-1) |
 
 [Back to contents](#contents)
 
@@ -736,10 +736,11 @@ Star this repository to follow updates.
 
 ## Electrical Engineering
 
-237 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/electrical-engineering.md) · [See all 567 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+239 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/electrical-engineering.md) · [See all 568 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [RTX](https://internscout.org/internships/at/rtx/) | Electrical (FCS Hardware) Engineering Intern (Summer 2027)(Onsite) | Cedar Rapids, IA | Paid | Nov 11 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical--FCS-Hardware--Engineering-Intern--Summer-2027--Onsite-_01888815) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Receiver, Exciter & Processing Architecture Electrical Engineer Intern (Summer 2027) | Tewksbury, MA | Paid | Nov 11 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027-_01873437) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Electrical Components Engineer Intern (Summer 2027) (Onsite) | Tucson, AZ | Paid | Nov 11 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Electrical-Components-Engineer-Intern--Summer-2027---Onsite-_01888885) |
 | [MSA Safety](https://internscout.org/internships/at/msa-safety/) | Intern/Co-op: Electrical Engineering Technology, Cranberry (Summer 2027) | Cranberry Township, Pennsylvania |  | Nov 11 | [Apply](https://careers.msasafety.com/jobs/10392) |
@@ -769,13 +770,12 @@ Star this repository to follow updates.
 | [Charter Manufacturing](https://internscout.org/internships/at/charter-manufacturing/) | Electrical Controls Engineer Intern (Summer 2027) | Charter Wire - 81st Street - Milwaukee, WI | Paid | Nov 4 | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Wire---81st-Street---Milwaukee-WI/Electrical-Controls-Engineer-Intern_R08114) |
 | [General Dynamics Mission Systems](https://internscout.org/internships/at/general-dynamics-mission-systems/) | Electrical Engineering Intern, FPGA | Middletown, RI |  | Nov 3 | [Apply](https://go.vansh.nyc/1hW) |
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Electrical & Electronics Engineering Intern (Summer 2027) | Downers Grove, IL | \$20.00 - \$25.00 per hour | Nov 3 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Electrical---Electronics-Engineering-Intern--Summer-2027-_REQ-020097) |
-| [Marvell](https://internscout.org/internships/at/marvell/) | Hardware Signal Integrity Intern | Santa Clara, CA |  | Nov 3 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Hardware-Signal-Integrity-Intern--MS---Summer-2027_2603877) |
 
 [Back to contents](#contents)
 
 ## Engineering
 
-688 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/engineering.md) · [See all 1,725 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+687 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/engineering.md) · [See all 1,722 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -868,7 +868,7 @@ Star this repository to follow updates.
 
 ## Finance
 
-524 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/finance.md) · [See all 840 finance internships on InternScout](https://internscout.org/internships/finance/)
+524 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/finance.md) · [See all 842 finance internships on InternScout](https://internscout.org/internships/finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -950,6 +950,7 @@ Star this repository to follow updates.
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [RTX](https://internscout.org/internships/at/rtx/) | Electrical (FCS Hardware) Engineering Intern (Summer 2027)(Onsite) | Cedar Rapids, IA | Paid | Nov 11 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical--FCS-Hardware--Engineering-Intern--Summer-2027--Onsite-_01888815) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | AI Processor Hardware/Software Integration Engineer Intern (Summer 2027) | USA - Texas - Richardson +1 |  | Nov 11 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer-Intern--Summer-2027-_JR-2604028) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Embedded Software Developer, Network/Payload Intern (Summer 2027) | San Francisco +2 | \$29.00 per hour | Nov 10 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704569006) |
 | [General Dynamics Mission Systems, Inc.](https://internscout.org/internships/at/general-dynamics-mission-systems/) | ASIC/FPGA Engineer Intern | Scottsdale, AZ |  | Nov 10 | [Apply](https://go.vansh.nyc/1rJ) |
@@ -979,16 +980,16 @@ Star this repository to follow updates.
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | RF/Analog Verification Engineer Intern | Markham, ON, Canada |  | Nov 6 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722001120) |
 | [Rivian and Volkswagen Group Technologies](https://internscout.org/internships/at/rivian-and-volkswagen-group-technologies/) | Mechatronics Lab Engineering Intern (January - August 2027) | Vancouver, British Columbia +1 |  | Nov 6 | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/e1647212-5d09-4877-a172-da50ae46dfe8/application) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Driver and Tools Developer Intern - Telemetry Firmware | Markham, ON, Canada |  | Nov 5 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721989047) |
-| [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Telemetry Firmware, Driver and Tools Developer Intern | Markham, Canada |  | Nov 5 | [Apply](https://go.vansh.nyc/1jr) |
 
 [Back to contents](#contents)
 
 ## Health
 
-57 Summer 2027 roles, the 30 newest below. [One page with all of them](fields/health.md) · [See all 301 health internships on InternScout](https://internscout.org/internships/health/)
+58 Summer 2027 roles, the 30 newest below. [One page with all of them](fields/health.md) · [See all 302 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program – Global Clinical Supply - Co-op | USA - New Jersey - Rahway +1 | \$39,908 - \$111,111 | Nov 11 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Clinical-Supply---Co-op_R413309) |
 | [Genentech](https://internscout.org/internships/at/genentech/) | 2027 Summer Intern - Digital, AI, and Clinical Outcome Assessments | South San Francisco, CA | \$34.00-\$52.00 per hour | Nov 11 | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Digital--AI--and-Clinical-Outcome-Assessments_202611-128790) |
 | [Sanofi](https://internscout.org/internships/at/sanofi/) | 2027 Summer Intern Clinical Statistical Modeling Cambridge MA | Cambridge, MA +1 | Paid | Nov 10 | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-Clinical-Statistical-Modeling-Cambridge-MA_R2866227) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Grad Intern - Global Patient Safety (Summer 2027) | Remote | \$35.34 – \$41.20 per hour | Nov 10 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Global-Patient-Safety--Summer-2027-_R-260757) |
@@ -1018,13 +1019,12 @@ Star this repository to follow updates.
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Quality Analytics Internship (Michigan Health Plan) – Summer 2027 (Undergraduate) | MI +1 |  | Oct 30 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040141) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Quality Analytics Internship (Kentucky Health Plan) – Summer 2027 (Undergraduate) | KY |  | Oct 30 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040139) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Nonclinical Discovery & Development Sciences (NDDS)-2027 Summer Intern | Princeton - NJ - US +4 | \$24-\$30/hour | Oct 30 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Nonclinical-Discovery---Development-Sciences--NDDS--2027-Summer-Intern_R1607996) |
-| [Netsmart](https://internscout.org/internships/at/netsmart/) | Revenue Cycle Management (RCM) Operations Analyst Intern(Summer 2027 Internship) | Overland Park, KS | Paid | Oct 30 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Revenue-Cycle-Management--RCM--Operations-Analyst-Intern-Summer-2027-Internship-_R015757) |
 
 [Back to contents](#contents)
 
 ## Hospitality
 
-34 Summer 2027 roles, the 30 newest below. [One page with all of them](fields/hospitality.md) · [See all 116 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
+33 Summer 2027 roles, the 30 newest below. [One page with all of them](fields/hospitality.md) · [See all 115 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -1034,7 +1034,6 @@ Star this repository to follow updates.
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Hospitality Internships - Lodging - Grand Canyon South Rim | GRAND CANYON, Arizona | Paid | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40112) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Hospitality Internship - Oasis at Death Valley | Death Valley, California | \$16.65 per hour | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40114) |
 | [Mary Free Bed Rehabilitation Hospital](https://internscout.org/internships/at/mary-free-bed-rehabilitation-hospital/) | Foundation Events Intern - Summer 2027 Semester | Grand Rapids, MI | \$18/hour | Nov 4 | [Apply](https://maryfreebed.wd12.myworkdayjobs.com/mfb/job/Grand-Rapids-MI/Foundation-Events-Intern---Summer-2027-Semester_JB103472) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Biomechanics | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Biomechanics-MD-21230/1434382000/) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Product Line Management | Baltimore, MD | \$23 per hour | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Product-Line-Management-MD-21230/1434387800/) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Food & Events Intern - Summer 2027 | Dallas, TX, United States |  | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466385009) |
 | [David Yurman](https://internscout.org/internships/at/david-yurman/) | Events Intern | New York, NY | \$25/hour | Oct 22 | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Events-Intern_R-101163) |
@@ -1058,6 +1057,7 @@ Star this repository to follow updates.
 | [Dallas Fort Worth International Airport](https://internscout.org/internships/at/dallas-fort-worth-international-airport/) | 2027 Undergraduate Summer Internship - Concessions | Airport Headquarters, TX |  | Sep 23 | [Apply](https://dfwairport.wd5.myworkdayjobs.com/External/job/Airport-Headquarters/XMLNAME-2027-Undergraduate-Summer-Internship---Concessions_JR102113) |
 | [Solenis](https://internscout.org/internships/at/solenis/) | Technical Sales Intern - Food & Beverage Market | United States of America, Delaware (Remote) +7 |  | Sep 19 | [Apply](https://solenis.wd1.myworkdayjobs.com/Solenis/job/United-States-of-America-Delaware-Remote/Technical-Sales-Intern---Food---Beverage-Market_R0032387) |
 | [Land O'Lakes](https://internscout.org/internships/at/land-o-lakes/) | Culinary Center Intern | Arden Hills, MN (USA) | Paid | Sep 18 | [Apply](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Arden-Hills-MN-USA/Culinary-Center-Intern_R-40365) |
+| [Hyatt](https://internscout.org/internships/at/hyatt/) | Summer 2027 - Food and Beverage Corporate Internship Program | United States | \$17.00 to \$21.00 per hour | Sep 18 | [Apply](https://hyatt.taleo.net/careersection/10780/jobdetail.ftl?job=UNI002289) |
 
 [Back to contents](#contents)
 
@@ -1102,7 +1102,7 @@ Star this repository to follow updates.
 
 ## Industrial Engineering
 
-308 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/industrial-engineering.md) · [See all 687 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+308 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/industrial-engineering.md) · [See all 686 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -1251,7 +1251,7 @@ Star this repository to follow updates.
 
 ## Law and Legal
 
-130 Summer 2027 roles, the 30 newest below. [One page with all of them](fields/law.md) · [See all 256 law and legal internships on InternScout](https://internscout.org/internships/law/)
+130 Summer 2027 roles, the 30 newest below. [One page with all of them](fields/law.md) · [See all 255 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -1290,7 +1290,7 @@ Star this repository to follow updates.
 
 ## Machine Learning and AI
 
-584 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/machine-learning-ai.md) · [See all 1,234 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+584 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/machine-learning-ai.md) · [See all 1,229 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -1329,10 +1329,11 @@ Star this repository to follow updates.
 
 ## Marketing
 
-281 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/marketing.md) · [See all 733 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+281 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/marketing.md) · [See all 734 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Target](https://internscout.org/internships/at/target/) | Marketing Intern-Minneapolis, MN (Starting Summer 2027) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | \$26.00 per hour | Nov 11 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Marketing-Intern-Minneapolis--MN--Starting-Summer-2027-_R0000449107) |
 | [PTC](https://internscout.org/internships/at/ptc/) | Documentation Content Intern (Summer 2027) | Boston, MA, USA | \$28-32/hour | Nov 11 | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Documentation-Content-Intern--Summer-2027-_JR112948) |
 | [exacare ai](https://internscout.org/internships/at/exacare-ai/) | Growth and Marketing Intern (Summer 2027) | Toronto, Canada |  | Nov 11 | [Apply](https://ats.rippling.com/exacare-inc/jobs/773ffdbd-d087-485a-a123-e8c002b9b1df) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - Digital Marketing | Toronto, Ontario | \$40,950.00 | Nov 10 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Wealth-Marketing--8-months-_JR26080978) |
@@ -1343,7 +1344,6 @@ Star this repository to follow updates.
 | [Aon](https://internscout.org/internships/at/aon/) | 2027 Wealthspire - Marketing Brand Intern | New York, New York | \$25.00 – \$27.00 per hour | Nov 10 | [Apply](https://jobs.aon.com/jobs/109985) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | GDIT Summer Internship Program – Summer 2027 Growth Team Technical Writer Internship | Herndon, VA | \$21.25 - \$28.75 | Nov 10 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Herndon/GDIT-Summer-Internship-Program---Summer-2027-Growth-Team-Technical-Writer-Internship_RQ231856) |
 | [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Account Communications Summer 2027 Internship | Atlanta, GA |  | Nov 10 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Delta-Account-Communications-Summer-2027-Internship---Delta-Corporate-Headquarters--Atlanta--GA_REQ546149) |
-| Kyndryl | Marketing Internship | New York, NY, USA | \$30/hour | Nov 10 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Generalist_R-70009) |
 | Kyndryl | Marketing Internship, Marketing Analytics | New York, NY, USA +1 | \$30/hour | Nov 10 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analysis_R-70007-1) |
 | [DreamWorks Animation](https://internscout.org/internships/at/dreamworks-animation/) | Advertising & Partnerships: Data Science Intern | NYC |  | Nov 9 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160689930) |
 | [DreamWorks Animation](https://internscout.org/internships/at/dreamworks-animation/) | Data Science Intern, Advertising & Partnerships | New York, NY |  | Nov 9 | [Apply](https://go.vansh.nyc/1pJ) |
@@ -1393,7 +1393,7 @@ Star this repository to follow updates.
 
 ## Math
 
-29 Summer 2027 roles, all of them below. [One page with all of them](fields/math.md) · [See all 49 math internships on InternScout](https://internscout.org/internships/math/)
+29 Summer 2027 roles, all of them below. [One page with all of them](fields/math.md) · [See all 50 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -1431,7 +1431,7 @@ Star this repository to follow updates.
 
 ## Mechanical Engineering
 
-333 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/mechanical-engineering.md) · [See all 870 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+333 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/mechanical-engineering.md) · [See all 869 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -1570,7 +1570,7 @@ Star this repository to follow updates.
 
 ## Operations
 
-403 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/operations.md) · [See all 979 operations internships on InternScout](https://internscout.org/internships/operations/)
+403 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/operations.md) · [See all 978 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -1719,11 +1719,13 @@ Star this repository to follow updates.
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Arrowstreet Capital | Quantitative Developer Intern, Summer 2027 | Boston +1 | \$3,500 - \$5,000 per week | Nov 11 | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) |
 | [Santander](https://internscout.org/internships/at/santander/) | 2027 Credit Portfolio Management Summer Intern – Miami | Miami | Paid | Nov 9 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/XMLNAME-2027-Credit-Portfolio-Management-Summer-Intern---Miami_Req1633015) |
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Trading System Development Intern | New York, NY |  | Nov 6 | [Apply](https://go.vansh.nyc/1lC) |
 | [BMO](https://internscout.org/internships/at/bmo/) | Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months | Toronto, ON, CAN +1 | \$65,000.00 - \$140,000.00 | Nov 6 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097-1) |
 | [Bank of Montreal](https://internscout.org/internships/at/bank-of-montreal/) | Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months | Toronto, ON, CAN +1 | \$65,000.00 - \$140,000.00 | Nov 6 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097) |
 | [Galaxy](https://internscout.org/internships/at/galaxy/) | 2027 Sales and Trading Internships - NYC | New York | \$55/hr | Nov 3 | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6242350004) |
+| LSEG | Intern - Quantitative Services | Boston, Massachusetts +1 |  | Nov 3 | [Apply](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Boston-Massachusetts/Intern---Quantitative-Services_R0124310-2) |
 | Man Group | Systematic Quant Intern - PhD | Massachusetts +1 | Paid | Nov 2 | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012811101) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Quantitative Modeling (Raleigh, NC) | Raleigh, North Carolina +1 |  | Oct 30 | [Apply](https://firstcitizens.jibeapply.com/jobs/36317) |
 | [Jain Global](https://internscout.org/internships/at/jain-global/) | Quant Research Intern, Systematic Trading | New York, New York | \$182,000 | Oct 30 | [Apply](https://jainglobal.wd5.myworkdayjobs.com/LinkedInCareerSite/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603) |
@@ -1741,14 +1743,12 @@ Star this repository to follow updates.
 | InfiniteQuant | Quantitative Researcher Intern | New York, NY |  | Oct 22 | [Apply](https://go.vansh.nyc/eP) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Structuring & Portfolio Management Intern - San Diego, CA | San Diego, California +1 | Paid | Oct 22 | [Apply](https://jobs.constellationenergy.com/jobs/140355) |
 | Graviton | Quantitative Researcher - 2027 Summer Internship | New York +1 |  | Oct 19 | [Apply](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002) |
-| LSEG | Quantitative Services Intern | Boston, MA |  | Oct 14 | [Apply](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Boston-Massachusetts/Intern---Quantitative-Services_R0124310-2) |
 | Acadian Asset Management | Quantitative Investment Internship Program - Summer 2027 | Boston, Massachusetts, United States +1 | \$50.00 per hour | Oct 13 | [Apply](https://www.acadian-asset.com/careers/open-positions?gh_jid=4720681006) |
 | PDT Partners | Quantitative Research Intern | NYC |  | Oct 7 | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8263031) |
 | [Jain Global](https://internscout.org/internships/at/jain-global/) | Quant Modelling Intern | NYC |  | Oct 7 | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Modelling-Intern_JR100616) |
 | [Jain Global](https://internscout.org/internships/at/jain-global/) | Quant Research Intern - Systematic Trading | NYC |  | Oct 5 | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603-1) |
 | [Diversified Energy](https://internscout.org/internships/at/diversified-energy/) | 2027 Summer Intern- Marketing/ Trading | Lexington, Kentucky |  | Oct 2 | [Apply](https://careers.div.energy/jobs/2735) |
 | [Pinterest](https://internscout.org/internships/at/pinterest/) | UX Quantitative Research Intern (USA) | Remote +4 | \$11,000 month | Oct 1 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) |
-| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Quantitative Analytics & Data Science Intern (Baltimore, MD) | Baltimore, Maryland +1 |  | Sep 28 | [Apply](https://jobs.constellationenergy.com/jobs/139494) |
 
 [Back to contents](#contents)
 
@@ -1826,7 +1826,7 @@ Star this repository to follow updates.
 
 ## Sales
 
-300 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/sales.md) · [See all 545 sales internships on InternScout](https://internscout.org/internships/sales/)
+301 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/sales.md) · [See all 546 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -1865,7 +1865,7 @@ Star this repository to follow updates.
 
 ## Software Engineering
 
-1,858 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/software-engineering.md) · [See all 3,459 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,858 Summer 2027 roles, the 30 newest below. [One page with the newest 200](fields/software-engineering.md) · [See all 3,449 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -1879,11 +1879,14 @@ Star this repository to follow updates.
 | Unisys | Software Engineer Intern | Eagan, MN |  | Nov 11 | [Apply](https://go.vansh.nyc/1uC) |
 | [MSA Safety](https://internscout.org/internships/at/msa-safety/) | Intern/Co-op: Electrical Engineering Technology, Cranberry (Summer 2027) | Cranberry Township, Pennsylvania |  | Nov 11 | [Apply](https://careers.msasafety.com/jobs/10392) |
 | [GM financial](https://internscout.org/internships/at/gm-financial/) | Intern - Software Development Engineer | Arlington, TX |  | Nov 11 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260818) |
+| Arrowstreet Capital | Quantitative Developer Intern, Summer 2027 | Boston +1 | \$3,500 - \$5,000 per week | Nov 11 | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) |
+| [Netsmart](https://internscout.org/internships/at/netsmart/) | Software Engineer Intern (Summer 2027 Internship) | Overland Park, KS | Paid | Nov 11 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Embedded Software Developer, Network/Payload Intern (Summer 2027) | San Francisco +2 | \$29.00 per hour | Nov 10 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704569006) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Site Reliability Engineer Intern, Data Platform, Computer Platform | San Jose, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1s7) |
 | Western Digital | Software Engineering Intern | San Jose, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1s8) |
 | [Skydio](https://internscout.org/internships/at/skydio/) | Middleware Software Engineer Intern - Summer 2027 | San Mateo, California, United States +3 | \$47/hr | Nov 10 | [Apply](https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03/application) |
 | [Trimble](https://internscout.org/internships/at/trimble/) | Software Engineering Intern | Knoxville, TN |  | Nov 10 | [Apply](https://go.vansh.nyc/1rP) |
+| 7-Eleven | Enterprise Technology Intern | Irving, TX |  | Nov 10 | [Apply](https://go.vansh.nyc/1uR) |
 | [Shield AI](https://internscout.org/internships/at/shield-ai/) | Summer 2027 - Software Engineer Intern | San Diego, California +1 |  | Nov 10 | [Apply](https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application) |
 | Aurora Innovation | Safety & Systems Engineering Intern | Mountain View, CA +3 | \$58.00 per hour | Nov 10 | [Apply](https://jobs.ashbyhq.com/aurora-operations-inc/058e3b3a-dd13-4736-84a8-b19d5de2c9f5/application) |
 | Rivet | Full-Stack Engineering Intern | United States |  | Nov 10 | [Apply](https://go.vansh.nyc/1ru) |
@@ -1896,15 +1899,12 @@ Star this repository to follow updates.
 | Diffuse Bio | Software Engineering Intern | Redwood City, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1qJ) |
 | Avary.ai | Quality Assurance (QA) Intern | United States |  | Nov 10 | [Apply](https://go.vansh.nyc/1qG) |
 | Headstarter | Software Engineering Intern, Agents & FE | New York, NY |  | Nov 10 | [Apply](https://go.vansh.nyc/1qO) |
-| North Texas Family Health | Software Engineering Intern | United States |  | Nov 10 | [Apply](https://go.vansh.nyc/1rd) |
-| Ixana | Embedded Software Engineer Intern, Wearables and IoT | West Lafayette, IN |  | Nov 10 | [Apply](https://go.vansh.nyc/1qR) |
-| Decoda Health | Software Engineer Intern, WW | Toronto, Canada |  | Nov 10 | [Apply](https://go.vansh.nyc/1qI) |
 
 [Back to contents](#contents)
 
 ## Sports
 
-11 Summer 2027 roles, all of them below. [One page with all of them](fields/sports.md) · [See all 71 sports internships on InternScout](https://internscout.org/internships/sports/)
+12 Summer 2027 roles, all of them below. [One page with all of them](fields/sports.md) · [See all 72 sports internships on InternScout](https://internscout.org/internships/sports/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -1913,6 +1913,7 @@ Star this repository to follow updates.
 | Nex | Summer 2027 \| Software Engineer Intern (Sports & Fitness) | San Jose, California (Hybrid) +1 |  | Nov 3 | [Apply](https://job-boards.greenhouse.io/nex/jobs/5421056008) |
 | Denver | Therapeutic Recreation Intern | Greater Denver Area, CO | \$19.29 - \$21.80 | Nov 2 | [Apply](https://denver.wd1.myworkdayjobs.com/CCD-denver-denvergov-CSC_Jobs-Civil_service_jobs-Police_Jobs-Fire_Jobs/job/Greater-Denver-Area/Therapeutic-Recreation-Intern_R0083838) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer and Fall 2027 FOX Technology Internship Program - Live Sports Virtual Enhancement Operator | Tempe, AZ |  | Oct 30 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Summer-and-Fall-2027-FOX-Technology-Internship-Program---Live-Sports-Virtual-Enhancement-Operator_R50033973) |
+| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Team Sports/Sales | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Team-SportsSales-MD-21230/1434355500/) |
 | Jazz Basketball Investors | Basketball Analytics Intern (Current Student, Summer 2027) | South Salt Lake, UT |  | Nov 11 | [Apply](https://career.io/job/basketball-analytics-intern-current-student-summer-south-salt-lake-jazz-basketball-investors-5dbf4f84bb2c361a9a38f5ee041da1ca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Marriott Vacations Worldwide](https://internscout.org/internships/at/marriott-vacations-worldwide/) | Summer 2027 - College Internship – Palm Desert, CA (Housekeeping, Recreation, & Food & Beverage) | Marriott's Shadow Ridge, FL +1 | \$16.90-23.05 /hour | Nov 3 | [Apply](https://mymvw.wd5.myworkdayjobs.com/mvw/job/Marriotts-Shadow-Ridge/Summer-2027---College-Internship---Palm-Desert--CA--Housekeeping--Recreation----Food---Beverage-_JR94008) |
 | PGA TOUR | 2027 PGA Tour Summer Internship Program | PGA TOUR Global Home - Ponte Vedra Beach, FL | Paid | Oct 17 | [Apply](https://pgatour.wd5.myworkdayjobs.com/PGATOURExternal/job/PGA-TOUR-Global-Home---Ponte-Vedra-Beach-FL/XMLNAME-2027-PGA-Tour-Summer-Internship-Program_R015374) |
@@ -2002,7 +2003,7 @@ Star this repository to follow updates.
 
 ## Urban Planning
 
-63 Summer 2027 roles, the 30 newest below. [One page with all of them](fields/urban-planning.md) · [See all 105 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+63 Summer 2027 roles, the 30 newest below. [One page with all of them](fields/urban-planning.md) · [See all 104 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

@@ -1,6 +1,6 @@
 # Sales: Summer 2027 Internships
 
-300 open Summer 2027 sales roles, newest first (the 200 newest of 300). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 545 sales internships on InternScout](https://internscout.org/internships/sales/)
+301 open Summer 2027 sales roles, newest first (the 200 newest of 301). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 546 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | SC Johnson | Sales Internship - Summer 2027 | USA - Minneapolis +3 | Paid | Oct 28 | [Apply](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/USA---Minneapolis/Sales-Internship---Summer-2027_34340) |
 | [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | Commercial Sales Operations Intern - Summer 2027 | Atlanta, GA, USA |  | Oct 28 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Commercial-Sales-Operations-Intern---Summer-2027_R26_0000035643) |
 | [Q2](https://internscout.org/internships/at/q2/) | 2027 Summer Internship - Sales/Customer Success | Austin, Texas |  | Oct 28 | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Sales-Customer-Success_REQ-12905) |
+| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Team Sports/Sales | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Team-SportsSales-MD-21230/1434355500/) |
 | [W.W. Grainger](https://internscout.org/internships/at/w-w-grainger/) | Sales Support Operations Intern - Summer 2027 | GREEN BAY, WI | Paid | Oct 27 | [Apply](https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-Sales-Support-Operations-Intern-Summer-2027-WI-54304-5677/1434548100/) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Intern - Sales Over 1000 | Detroit, MI +1 |  | Oct 27 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15035) |
 | [S&P Global](https://internscout.org/internships/at/s-p-global/) | Market Intelligence Sales Associate Internship | New York, NY |  | Oct 27 | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Exclusive-Networking-Event---Client-Forward--Early-Careers-in-Commercial-Functions-at-S-P-Global_332243-1) |
@@ -203,7 +204,6 @@
 | [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | PacWest - Sales Internship (Comparion) - Summer 2027 | Chandler, AZ +8 |  | Nov 11, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261753/pacwest---sales-internship-%28comparion%29---summer-2027/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Sales Enablement Intern | Niles, IL | \$23-\$43 per hour | Nov 11, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5009/global-sales-enablement-intern/job) |
 | Southern Glazer's Wine & Spirits | 2027 Summer Internship \| Sales - Salt Lake City, UT \| Southern Glazer's Wine & Spirits \| Handshake | Sandy, UT |  | Nov 11 | [Apply](https://app.joinhandshake.com/public/jobs/11426369?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| PEAR Window Cleaning | University Summer Sales Rep (Summer 2027) | Toronto, ON | \$11,000 to \$45,000 | Nov 11 | [Apply](https://emplois.ca.indeed.com/viewjob?jk=989c28c927d12be7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

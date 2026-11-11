@@ -1,9 +1,10 @@
 # Marketing: Summer 2027 Internships
 
-281 open Summer 2027 marketing roles, newest first (the 200 newest of 281). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 733 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+281 open Summer 2027 marketing roles, newest first (the 200 newest of 281). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 734 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Target](https://internscout.org/internships/at/target/) | Marketing Intern-Minneapolis, MN (Starting Summer 2027) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | \$26.00 per hour | Nov 11 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Marketing-Intern-Minneapolis--MN--Starting-Summer-2027-_R0000449107) |
 | [PTC](https://internscout.org/internships/at/ptc/) | Documentation Content Intern (Summer 2027) | Boston, MA, USA | \$28-32/hour | Nov 11 | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Documentation-Content-Intern--Summer-2027-_JR112948) |
 | [exacare ai](https://internscout.org/internships/at/exacare-ai/) | Growth and Marketing Intern (Summer 2027) | Toronto, Canada |  | Nov 11 | [Apply](https://ats.rippling.com/exacare-inc/jobs/773ffdbd-d087-485a-a123-e8c002b9b1df) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - Digital Marketing | Toronto, Ontario | \$40,950.00 | Nov 10 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Wealth-Marketing--8-months-_JR26080978) |
@@ -14,7 +15,6 @@
 | [Aon](https://internscout.org/internships/at/aon/) | 2027 Wealthspire - Marketing Brand Intern | New York, New York | \$25.00 – \$27.00 per hour | Nov 10 | [Apply](https://jobs.aon.com/jobs/109985) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | GDIT Summer Internship Program – Summer 2027 Growth Team Technical Writer Internship | Herndon, VA | \$21.25 - \$28.75 | Nov 10 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Herndon/GDIT-Summer-Internship-Program---Summer-2027-Growth-Team-Technical-Writer-Internship_RQ231856) |
 | [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Account Communications Summer 2027 Internship | Atlanta, GA |  | Nov 10 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Delta-Account-Communications-Summer-2027-Internship---Delta-Corporate-Headquarters--Atlanta--GA_REQ546149) |
-| Kyndryl | Marketing Internship | New York, NY, USA | \$30/hour | Nov 10 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Generalist_R-70009) |
 | Kyndryl | Marketing Internship, Marketing Analytics | New York, NY, USA +1 | \$30/hour | Nov 10 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analysis_R-70007-1) |
 | [DreamWorks Animation](https://internscout.org/internships/at/dreamworks-animation/) | Advertising & Partnerships: Data Science Intern | NYC |  | Nov 9 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160689930) |
 | [DreamWorks Animation](https://internscout.org/internships/at/dreamworks-animation/) | Data Science Intern, Advertising & Partnerships | New York, NY |  | Nov 9 | [Apply](https://go.vansh.nyc/1pJ) |
