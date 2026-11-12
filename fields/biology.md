@@ -1,9 +1,10 @@
 # Biology: Summer 2027 Internships
 
-19 open Summer 2027 biology roles, newest first (all 19). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 720 biology internships on InternScout](https://internscout.org/internships/biology/)
+18 open Summer 2027 biology roles, newest first (all 18). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 691 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Vizient](https://internscout.org/internships/at/vizient/) | 2027 Summer Internship – Pharmacy Commit | Chicago, IL 60607 +6 | \$25 per hour | Nov 12 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Pharmacy-Commit_36213R-1) |
 | Roche | Assay Bioinformatics Intern, CSI | Pleasanton, CA |  | Nov 9 | [Apply](https://go.vansh.nyc/1qi) |
 | [Vizient](https://internscout.org/internships/at/vizient/) | Summer 2027 Internship - Life Sciences Solutions Market Research | Chicago, IL 60607 | \$25 per hour | Nov 9 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Summer-2027-Internship---Life-Sciences-Solutions-Market-Research_36152R) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship – Applied Biological Sciences | Laurel, Maryland | \$22.60 Hour | Nov 5 | [Apply](https://careers.jhuapl.edu/jobs/60594) |
@@ -13,7 +14,6 @@
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Pharmacy Operations Internship (Remote) – Summer 2027 (Undergraduate) | United States |  | Nov 3 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040155) |
 | [LabCorp](https://internscout.org/internships/at/labcorp/) | Full-Stack Life Sciences Software Engineer Co-op | Durham, NC +1 |  | Nov 2 | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Summer Intern, QC Microbiology | Indianapolis - RayzeBio - IN | \$24.00 - \$45.00 | Oct 30 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Indianapolis---RayzeBio---IN/Summer-Intern--QC-Microbiology_R1608000) |
-| [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Biologics Development 2027 Summer Internship Program | Devens - MA - US | \$24.00 - \$45.00 | Oct 28 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Devens---MA---US/Biologics-Development-2027-Summer-Internship-Program_R1607941) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | R&D GSC Microbiology Resource Center Internship- Brecksville, OH | Brecksville, OH |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627508) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Pharmaceutical Lab Internship (Crystallization) Summer 2027 | El Segundo, California, United States | \$33.00 | Oct 21 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8040897003) |
 | [Cigna Group](https://internscout.org/internships/at/cigna-group/) | Pharmacy Benefits Management - Strategy Intern | St. Louis, MO | Paid | Oct 21 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Pharmacy-Benefits-Management---Strategy-Intern_26009416-1) |
@@ -22,7 +22,6 @@
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Pharmacy Intern – Emerging Therapies and Health Outcomes | Detroit, MI |  | Sep 22 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14836) |
 | [Marsh](https://internscout.org/internships/at/marsh/) | Oliver Wyman - 2027 MBA Summer Associate - Health & Life Sciences | New York - 1166 | \$3,650 | Sep 19 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Oliver-Wyman---2027-MBA-Summer-Associate---Health---Life-Sciences_R_363378) |
 | [Alcon](https://internscout.org/internships/at/alcon/) | 2027 Chemistry, Materials & Life Sciences Interns | Fort Worth, Texas +4 |  | Sep 18 | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2027-Chemistry--Materials---Life-Sciences-Interns_R-2026-49482) |
-| [McKesson](https://internscout.org/internships/at/mckesson/) | Pharmacy Solutions Intern - Summer 2027 | USA, TX | \$17.33 - \$28.88 | Sep 18 | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Pharmacy-Solutions-Intern---Summer-2027_JR0152252) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

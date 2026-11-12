@@ -1,6 +1,6 @@
 # Architecture: Summer 2027 Internships
 
-58 open Summer 2027 architecture roles, newest first (all 58). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 112 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+57 open Summer 2027 architecture roles, newest first (all 57). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 110 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -12,7 +12,6 @@
 | [Freese and Nichols](https://internscout.org/internships/at/freese-and-nichols/) | Summer 2027 Internship - Architecture | Fort Worth, Texas |  | Nov 10 | [Apply](https://freese.wd1.myworkdayjobs.com/Freese_Nichols_External/job/Fort-Worth-Texas/Summer-2027-Internship---Architecture_JR104016) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 – General Account Investments Business Architecture | Toronto, Ontario | \$48,800.00 | Nov 10 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---General-Account-Investments-Business-Architecture_JR26110296) |
 | [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Architecture / Engineering Summer 2027 Internship | New York, NY |  | Nov 10 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Architecture---Engineering-Summer-2027-Internship_REQ544579) |
-| [Zoetis](https://internscout.org/internships/at/zoetis/) | AI Architecture, Enablement & Tools Intern, AI Capabilities | Remote +2 |  | Nov 9 | [Apply](https://go.vansh.nyc/1ph) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | New York, NY | \$21.74 - \$30.53 per hour | Nov 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98916) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | South Jordan, UT |  | Nov 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98842) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | New Orleans, LA +1 |  | Nov 5 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98834) |

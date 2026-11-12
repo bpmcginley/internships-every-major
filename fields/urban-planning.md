@@ -1,9 +1,11 @@
 # Urban Planning: Summer 2027 Internships
 
-61 open Summer 2027 urban planning roles, newest first (all 61). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 103 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+64 open Summer 2027 urban planning roles, newest first (all 64). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 106 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Entegris](https://internscout.org/internships/at/entegris/) | Supply Planning Intern - Summer 2027 | Bloomington, MN | \$20-\$30/hour | Nov 12 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bloomington-MN/Supply-Planning-Intern---Summer-2027_REQ-15885-1) |
+| [WSP](https://internscout.org/internships/at/wsp/) | Planning Intern - Summer 2027 | Philadelphia, PA |  | Nov 12 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99352) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | GIS Intern | Lakewood, Colorado +6 | \$20.00 | Nov 11 | [Apply](https://careers.trccompanies.com/jobs/28698) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Climate Resiliency and Planning Intern (Summer 2027!) | Denver, Colorado | \$36.44 | Nov 11 | [Apply](https://careers.cdmsmith.com/jobs/4825) |
 | [Entegris](https://internscout.org/internships/at/entegris/) | Production Planning Intern | Danbury, CT | \$20-\$30/hour | Nov 10 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Danbury-CT/Production-Planning-Intern_REQ-15837) |
@@ -41,6 +43,7 @@
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Planning Intern - Summer 2027 | Harrisburg, PA |  | Sep 9 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309847) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors or Masters - Transportation Planning Intern (Summer 2027!) | Orlando, Florida | \$38.01 | Sep 9 | [Apply](https://careers.cdmsmith.com/jobs/4439) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Masters - Transportation Planning Intern (Summer 2027!) | Indianapolis, Indiana | \$36.20 | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/4371) |
+| [Ruekert & Mielke](https://internscout.org/internships/at/ruekert-mielke/) | GIS Student Intern (Summer 2027) | Waukesha, Wisconsin |  | Aug 28 | [Apply](https://ruekertmielke.bamboohr.com/careers/300) |
 | [Southern Star Central Gas Pipeline](https://internscout.org/internships/at/southern-star-central-gas-pipeline/) | Intern, GIS Analyst | Owensboro, KY |  | Nov 12, 2024 | [Apply](https://careers-sscgp.icims.com/jobs/3036/intern%2c-gis-analyst/job) |
 | DLR Group USA | Theater Planning Intern \| Summer 2027 | Los Angeles, CA | Paid | Nov 12 | [Apply](https://prosple.com/graduate-employers/dlr-group/jobs-internships/theater-planning-intern-summer-2027?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Planning Intern \| Fort Lauderdale, FL | Fort Lauderdale, FL | Paid | Oct 24 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Fort-Lauderdale-FL/Planning-Intern---Fort-Lauderdale--FL_R-16509) |

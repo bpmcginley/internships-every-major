@@ -1,6 +1,6 @@
 # Sustainability: Summer 2027 Internships
 
-84 open Summer 2027 sustainability roles, newest first (all 84). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 136 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+83 open Summer 2027 sustainability roles, newest first (all 83). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 135 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -35,7 +35,6 @@
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil/Structural Engineering Intern (Renewable Transmission Interconnections) - Summer 2027 | Billings, MT |  | Oct 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96768) |
 | [Westinghouse Electric Company](https://internscout.org/internships/at/westinghouse-electric-company/) | Summer Intern - Fluid Systems | Rock Hill, SC | \$25.40 to \$29.00 per hour | Oct 16 | [Apply](https://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Fluid-Systems-SC-29730/1440910300/) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering (Renewables) Intern - Summer 2027 | Las Vegas, NV |  | Oct 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97678) |
-| [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering (Renewables) Intern - Summer 2027 | Cincinnati, OH +2 |  | Oct 15 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97670) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Power Technical Internship - Granbury, TX (ASSOCIATE'S DEGREE ONLY) | Granbury, Texas | Paid | Oct 15 | [Apply](https://jobs.constellationenergy.com/jobs/140012) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Power Technical Internship - Wharton, TX (ASSOCIATE'S DEGREE ONLY) | Wharton, Texas | Paid | Oct 15 | [Apply](https://jobs.constellationenergy.com/jobs/138675) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Renewables Engineering Intern - Oakland, MD | Oakland, Maryland | Paid | Oct 15 | [Apply](https://jobs.constellationenergy.com/jobs/140007) |

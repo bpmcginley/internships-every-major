@@ -1,11 +1,14 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-581 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 581). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 1,220 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+583 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 583). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 1,230 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [ServiceNow](https://internscout.org/internships/at/servicenow/) | Associate AI Engineering Intern, Cloud Security Automation | Santa Clara, CA |  | Nov 12 | [Apply](https://go.vansh.nyc/1vZ) |
 | [Bloom Energy](https://internscout.org/internships/at/bloom-energy/) | AI Solutions Engineer Intern | San Jose, CA |  | Nov 12 | [Apply](https://go.vansh.nyc/1vK) |
+| [CareSource](https://internscout.org/internships/at/caresource/) | 2027 Summer Internship Program - Provider Analytics AI Intern | Remote | \$41,200.00 - \$66,000.00 | Nov 12 | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481) |
+| [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Business Analysis and AI enGen Undergraduate Intern | Pittsburgh PA, 15222, PAP, Penn Avenue Place |  | Nov 12 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Business-Analysis-and-AI-enGen-Undergraduate-Intern_J291552) |
+| [Philips](https://internscout.org/internships/at/philips/) | Intern - AI & Analytics Analyst - Nashville, TN - Summer 2027 | Nashville, Tennessee, United States +1 | \$26.00 to \$29.00 | Nov 12 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012) |
 | [HUB International](https://internscout.org/internships/at/hub/) | AI Engineering Intern | Chicago, IL |  | Nov 11 | [Apply](https://go.vansh.nyc/1vr) |
 | [Riot Games](https://internscout.org/internships/at/riot-games/) | Machine Learning Engineer Intern | Remote |  | Nov 11 | [Apply](https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771) |
 | [StepStone Group](https://internscout.org/internships/at/stepstone-group/) | 2027 AI Quant Summer Analyst | La Jolla, MD +3 | \$30/hour | Nov 11 | [Apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8368989) |
@@ -40,14 +43,13 @@
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship - AI & Data Science - Analytic Capabilities | Laurel, Maryland +1 | \$22.60 Hour | Nov 10 | [Apply](https://careers.jhuapl.edu/jobs/60008) |
 | Pika | Applied AI Engineer Intern, Creative Experiences | Palo Alto, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1pR) |
 | [Medpace](https://internscout.org/internships/at/medpace/) | AI Engineering Intern - Summer 2027 | Cincinnati, Ohio +1 |  | Nov 10 | [Apply](https://careers.medpace.com/jobs/12729) |
-| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern – Machine Learning Engineer, AV/AI Platform | Sunnyvale, California, United States of America +1 | \$8,100 – 11,800 per month | Nov 10 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695) |
+| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern – Machine Learning Engineer, AV/AI Platform | Sunnyvale, California, United States of America +1 |  | Nov 10 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695) |
 | [Clarios](https://internscout.org/internships/at/clarios/) | IT Digital/AI Intern (Summer 2027) | United States, Wisconsin, Milwaukee +1 |  | Nov 10 | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910) |
 | [Cirrus Logic](https://internscout.org/internships/at/cirrus-logic/) | Applied AI Engineering Intern | Austin, TX |  | Nov 9 | [Apply](https://go.vansh.nyc/1pL) |
 | [Epic Games](https://internscout.org/internships/at/epic-games/) | AI Programmer Intern | Cary, NC |  | Nov 9 | [Apply](https://go.vansh.nyc/1pv) |
-| [Zoetis](https://internscout.org/internships/at/zoetis/) | AI Architecture, Enablement & Tools Intern, AI Capabilities | Remote +2 |  | Nov 9 | [Apply](https://go.vansh.nyc/1ph) |
+| [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | ML Scientist Intern | New York, NY |  | Nov 9 | [Apply](https://go.vansh.nyc/1pn) |
 | Johns Hopkins APL | Artificial Intelligence Intern, Information Fusion | Laurel, MD |  | Nov 9 | [Apply](https://go.vansh.nyc/1oQ) |
-| [Zoetis](https://internscout.org/internships/at/zoetis/) | AI Assistant Development Intern | Parsippany, NJ |  | Nov 9 | [Apply](https://go.vansh.nyc/1oP) |
-| [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | ML Scientist Intern | New York, NY +1 | \$40.00 per hour | Nov 9 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005) |
+| [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | ML Scientist Intern | New York, NY +1 |  | Nov 9 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005) |
 | UiPath | AI Engineer Intern | Bellevue +2 |  | Nov 9 | [Apply](https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555/application) |
 | Biodesix | AI Research & Development Intern | Louisville, CO |  | Nov 9 | [Apply](https://www.biodesix.com/careers/current-openings?gh_jid=4485306009) |
 | [NBCUniversal](https://internscout.org/internships/at/nbcuniversal/) | Data, AI & Machine Learning Intern, Media Tech | New York, NY |  | Nov 9 | [Apply](https://go.vansh.nyc/1oD) |
@@ -76,7 +78,6 @@
 | [Match Group](https://internscout.org/internships/at/match-group/) | Machine Learning Engineer Intern | Palo Alto, CA |  | Nov 6 | [Apply](https://go.vansh.nyc/1kl) |
 | [Tinder](https://internscout.org/internships/at/tinder/) | Machine Learning Engineer Intern | Palo Alto, California +1 |  | Nov 6 | [Apply](https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72/apply) |
 | Moody's | Applied AI & Analytics Intern | Newark, NJ |  | Nov 6 | [Apply](https://go.vansh.nyc/1mn) |
-| [T-Mobile](https://internscout.org/internships/at/t-mobile/) | AI Engineering Intern | Bellevue, WA |  | Nov 6 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765) |
 | [T-Mobile](https://internscout.org/internships/at/t-mobile/) | AI Strategist Intern | Bellevue, WA |  | Nov 6 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern – Software Engineer, AV/AI Platform | Warren, Michigan, United States of America +2 | \$8,100 – \$10,300 per month | Nov 6 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696) |
 | [V2X](https://internscout.org/internships/at/v2x/) | AI Engineer Intern | Indianapolis, IN |  | Nov 5 | [Apply](https://go.vansh.nyc/1jI) |
@@ -87,7 +88,7 @@
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | AI/ML Data Science and Engineering Intern | Bossier City, LA |  | Nov 5 | [Apply](https://go.vansh.nyc/1hS) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Research Scientist Intern - Monetization Technology - Ads Core | San Jose, CA |  | Nov 5 | [Apply](https://lifeattiktok.com/search/7703777085291415813) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Machine Learning Engineering Intern | Markham, ON, Canada +1 |  | Nov 5 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721969461) |
-| [AstraZeneca](https://internscout.org/internships/at/astrazeneca/) | Manufacturing Digital and AI Intern | US - Gaithersburg - MD +1 | \$37 - \$39 per hour | Nov 5 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Manufacturing-Digital-and-AI-Intern_R-263647) |
+| [AstraZeneca](https://internscout.org/internships/at/astrazeneca/) | Manufacturing Digital and AI Intern | Gaithersburg, MD |  | Nov 5 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Manufacturing-Digital-and-AI-Intern_R-263647) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Technical Learning Content Development Intern, Physical AI — Summer 2027 | US, CA +1 |  | Nov 5 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Learning-Content-Development-Intern--Physical-AI---Summer-2027_JR2028148) |
 | [PayPal](https://internscout.org/internships/at/paypal/) | Machine Learning Engineer PhD Intern - Summer 2027 | San Jose, CA |  | Nov 5 | [Apply](https://paypal.eightfold.ai/careers/job/274922983152) |
 | [PayPal](https://internscout.org/internships/at/paypal/) | Machine Learning Engineer Intern - Summer 2027 | San Jose, CA |  | Nov 5 | [Apply](https://paypal.eightfold.ai/careers/job/274922983149) |
@@ -98,14 +99,14 @@
 | [Toyota Research Institute](https://internscout.org/internships/at/toyota-research-institute/) | Automated Driving Advanced Development Intern, Machine Learning Research | Los Altos, CA |  | Nov 4 | [Apply](https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b/apply) |
 | [Smith+Nephew](https://internscout.org/internships/at/smith-nephew/) | AI Engineer Intern, R&D | Andover, MA |  | Nov 4 | [Apply](https://go.vansh.nyc/1gP) |
 | Ericsson | Technology and AI Intern | Plano, TX |  | Nov 4 | [Apply](https://go.vansh.nyc/1gz) |
-| Plusgrade | Applied AI Test Engineer Intern | Toronto, Canada |  | Nov 4 | [Apply](https://go.vansh.nyc/1gu) |
-| Plusgrade | Applied AI Engineer Intern | Toronto, Canada |  | Nov 4 | [Apply](https://go.vansh.nyc/1gq) |
+| [Plusgrade](https://internscout.org/internships/at/plusgrade/) | Applied AI Test Engineer Intern | Toronto, Canada |  | Nov 4 | [Apply](https://go.vansh.nyc/1gu) |
+| [Plusgrade](https://internscout.org/internships/at/plusgrade/) | Applied AI Engineer Intern | Toronto, Canada |  | Nov 4 | [Apply](https://go.vansh.nyc/1gq) |
 | [Royal Bank of Canada](https://internscout.org/internships/at/royal-bank-of-canada/) | AI Engineer Co-op, Capital Markets, Global Equities | Toronto, Canada |  | Nov 4 | [Apply](https://go.vansh.nyc/1fV) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027 | US, CA +4 |  | Nov 4 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548) |
 | Tokyo Electron | Research Scientist Intern - Summer 2027 | Austin, TX |  | Nov 4 | [Apply](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Research-Scientist---ATG-Optical-Sensor-Development-Intern--Summer-2027-_R26-02311) |
 | [Bose](https://internscout.org/internships/at/bose/) | DSP/ML Research Engineer Intern \| Summer 2027 | US, MA - Framingham +1 | \$40.00-\$51.25 per hour | Nov 4 | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371) |
 | [Prologis](https://internscout.org/internships/at/prologis/) | AI and Automation Intern, IT | Denver, CO |  | Nov 4 | [Apply](https://go.vansh.nyc/1gr) |
-| [ABB](https://internscout.org/internships/at/abb/) | AI Engineering, Business Systems Intern- Summer 2027 | USA, NC +1 | \$20 - \$34 per hour | Nov 4 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714) |
+| [ABB](https://internscout.org/internships/at/abb/) | AI Engineering, Business Systems Intern- Summer 2027 | USA, NC +1 |  | Nov 4 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714) |
 | [ABB](https://internscout.org/internships/at/abb/) | AI Engineering, ERP Intern- Summer 2027 | USA, NC +1 | \$20 - \$34 per hour | Nov 4 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711) |
 | [Smith+Nephew](https://internscout.org/internships/at/smith-nephew/) | Intern AI Center of Excellence Data Science | US - Pittsburgh, PA +1 |  | Nov 4 | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1) |
 | TruStage | IT Intern, Innovation & AI Technology | Madison, WI |  | Nov 3 | [Apply](https://go.vansh.nyc/1fm) |
@@ -203,7 +204,6 @@
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | PhD Research Intern, Quantum Simulation and AI - 2027 | US, CA +2 |  | Oct 30 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | NVIDIA 2027 Internships: Deep Learning Computer Architecture | US, CA +2 | Paid | Oct 30 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | PhD Research Intern, Physical AI - Foundation Models - 2027 | US, CA +2 | Paid | Oct 30 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025) |
-| [NVIDIA](https://internscout.org/internships/at/nvidia/) | PhD Research Intern, Autonomous Systems and Physical AI Research - 2027 | US, CA +2 | Paid | Oct 30 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

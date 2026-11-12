@@ -1,6 +1,6 @@
 # Aerospace Engineering: Summer 2027 Internships
 
-37 open Summer 2027 aerospace engineering roles, newest first (all 37). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 69 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
+35 open Summer 2027 aerospace engineering roles, newest first (all 35). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 67 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -20,7 +20,6 @@
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Flight Test Engineer Intern | Costa Mesa, California, United States | Paid | Oct 14 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007) |
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Aerospace Systems Engineering Intern - Graduate | Space Coast, FL +1 | \$38.00 | Oct 14 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Aerospace-Systems-Engineering-Intern---Graduate_R71435) |
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Aerospace Systems Engineering Internship - Undergraduate | Space Coast, FL +1 | \$32.00 | Oct 14 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Aerospace-Systems-Engineering-Internship----Undergraduate_R71436) |
-| [Wing](https://internscout.org/internships/at/wing/) | Flight Test Engineering Intern, Summer 2027 | Palo Alto, California | \$128,000 | Oct 13 | [Apply](https://wing.com/careers/8872480002?gh_jid=8872480002) |
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Fluid Systems & Propulsion Engineering Internship - Graduate | Space Coast, FL +1 | \$38.00 | Oct 13 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Fluid-Systems---Propulsion-Engineering-Internship---Graduate_R71439) |
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Fluid Systems & Propulsion Engineering Internship - Undergraduate | Space Coast, FL +2 | \$32.00 | Oct 13 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Fluid-Systems---Propulsion-Engineering-Internship---Undergraduate_R71441) |
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Avionics Software Internship - Graduate | Los Angeles, CA +3 | \$38.00 | Oct 13 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Graduate_R71423) |
@@ -37,7 +36,6 @@
 | [Rendezvous Robotics](https://internscout.org/internships/at/rendezvous-robotics/) | Avionics Engineering Intern (Summer 2027) | Golden, CO |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408578009) |
 | [Hermeus](https://internscout.org/internships/at/hermeus/) | Avionics Electrical Engineering Intern - Summer 2027 | Atlanta, GA |  | Sep 9 | [Apply](https://jobs.lever.co/hermeus/b7babdb5-64ee-49ad-a193-918d6a31c462/apply) |
 | [Skydio](https://internscout.org/internships/at/skydio/) | Flight Test Intern - Summer 2027 | San Mateo, California, United States +2 | \$41/hr | Sep 4 | [Apply](https://jobs.ashbyhq.com/skydio/3eb06d6e-b6f0-4814-a80a-f1c43075873b/application) |
-| [K2 Space](https://internscout.org/internships/at/k2-space/) | Avionics Systems/Test Engineering Intern – Summer 2027 | Los Angeles, CA | \$30 - \$40 per hour | Sep 1 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411921008) |
 | Sensata | Mechanical Engineer Intern (Aerospace) - Summer 2027 | Vista, CA | \$25.00 | Oct 24 | [Apply](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Vista-CA/Mechanical-Engineer-Intern--Aerospace----Summer-2027_IRC98483) |
 | [Brunswick](https://internscout.org/internships/at/brunswick/) | Mercury Marine: Drives & Propulsion Systems Engineering Intern | Oshkosh, WI | \$18.00-27.50 per hour | Sep 18 | [Apply](https://brunswick.wd1.myworkdayjobs.com/search/job/Oshkosh-WI/Mercury-Marine--Drives---Propulsion-Systems-Engineering-Intern_JR-051237) |
 | Sensata | Mechanical Engineer Intern (Aerospace) - Summer 2027 | Thousand Oaks, CA | \$25.00 | Sep 18 | [Apply](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Thousand-Oaks-CA/Mechanical-Engineer-Intern--Aerospace----Summer-2027_IRC98482) |

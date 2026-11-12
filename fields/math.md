@@ -1,6 +1,6 @@
 # Math: Summer 2027 Internships
 
-29 open Summer 2027 math roles, newest first (all 29). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 49 math internships on InternScout](https://internscout.org/internships/math/)
+26 open Summer 2027 math roles, newest first (all 26). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 47 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -10,7 +10,6 @@
 | [Chubb](https://internscout.org/internships/at/chubb/) | Actuarial Intern | Chicago, IL | \$24 to \$26 per hour | Nov 9 | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38492) |
 | [Sanofi](https://internscout.org/internships/at/sanofi/) | 2027 Summer Intern Biostatistics Interactive Benchmarking Platform Cambridge MA | Cambridge, MA | Paid | Nov 9 | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-Biostatistics-Interactive-Benchmarking-Platform--Cambridge-MA_R2865024) |
 | Markel Group, Inc. | Actuarial Intern | Richmond, VA +1 | \$24-\$28.50/hr | Nov 9 | [Apply](https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Richmond-VA/Actuarial-Intern_R0023907) |
-| [Selective Insurance](https://internscout.org/internships/at/selective-insurance/) | Actuarial - Commercial Lines, Personal Lines, and Loss Reserving Summer Internships - Short Hills, NJ (Hybrid) | Short Hills, New Jersey | \$22.00 | Nov 6 | [Apply](https://jobs.selective.com/jobs/5756) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Statistics Intern | Atlanta, GA |  | Nov 6 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Statistics-Intern_R-0000033876) |
 | BCBST | Actuarial Summer Intern-2 | USA, TN | Paid | Oct 28 | [Apply](https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Actuarial-Summer-Intern-2_R-51964) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Grad Intern - Biostatistics (Summer 2027) | Remote | \$35.34 – \$41.20 per hour | Oct 26 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Biostatistics--Summer-2027-_R-259820) |
@@ -24,8 +23,6 @@
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Actuarial Intern- Summer 2027 | Richfield, OH (USA) | Paid | Oct 8 | [Apply](https://gaig.wd1.myworkdayjobs.com/National_Interstate_External/job/Richfield-OH-USA/Actuarial-Intern--Summer-2027_R9665) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Actuarial Intern- Summer 2027 | Richfield, OH (USA) | Paid | Oct 8 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Richfield-OH-USA/Actuarial-Intern--Summer-2027_R9665-1) |
 | [Marsh](https://internscout.org/internships/at/marsh/) | Oliver Wyman Actuarial - Internship - Summer 2027 | New York - 1166 +2 | \$1,350 – 1,600 | Oct 7 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Oliver-Wyman-Actuarial---Internship---Summer-2027_R_356561) |
-| Empower | Summer 2027 Intern - Corporate Actuarial (Greenwood Village, CO) | CO Greenwood Village | \$26.50 - \$30.50 per hour | Oct 2 | [Apply](https://empower.wd12.myworkdayjobs.com/empower/job/CO-Greenwood-Village/Summer-2027-Intern---Corporate-Actuarial--Greenwood-Village--CO-_R0062375) |
-| Empower | Summer 2027 Intern - Corporate Actuarial (Hartford) | CT Hartford | \$26.50 - \$30.50 per hour | Oct 2 | [Apply](https://empower.wd12.myworkdayjobs.com/empower/job/CT-Hartford/Summer-2027-Intern---Corporate-Actuarial--Hartford-_R0062373) |
 | [Pacific Life](https://internscout.org/internships/at/pacific-life/) | Summer 2027 Actuarial Intern (Omaha) | Omaha NE-6750 | \$26.00 per hour | Sep 26 | [Apply](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Omaha-NE-6750/Summer-2027-Actuarial-Intern--Omaha-_R17461) |
 | [Pacific Life](https://internscout.org/internships/at/pacific-life/) | Summer 2027 Actuarial Intern (Charlotte) | Charlotte - NC | \$26.00 per hour | Sep 26 | [Apply](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Charlotte---NC/Summer-2027-Actuarial-Intern--Charlotte-_R17462) |
 | [Pacific Life](https://internscout.org/internships/at/pacific-life/) | Summer 2027 Actuarial Intern (Newport Beach) | Newport Beach CA-700 | \$26.00 per hour | Sep 26 | [Apply](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Actuarial-Intern--Newport-Beach-_R17460) |

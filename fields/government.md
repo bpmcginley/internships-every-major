@@ -1,9 +1,11 @@
 # Government and Public Policy: Summer 2027 Internships
 
-65 open Summer 2027 government and public policy roles, newest first (all 65). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 283 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+68 open Summer 2027 government and public policy roles, newest first (all 68). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 287 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Records and Information Management Intern | Atlanta, GA |  | Nov 12 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Records-and-Information-Management-Intern_R-0000033909) |
+| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - ASO Professional Development Intern | Atlanta, GA |  | Nov 12 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---ASO-Professional-Development-Intern_R-0000033893) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Supervision & Regulation (ePartners) | Atlanta, GA |  | Nov 10 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--ePartners-_R-0000033868) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Supervision & Regulation (Professional Development Group) | Atlanta, GA |  | Nov 10 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Professional-Development-Group-_R-0000033864) |
 | Dept Of Design & Construction | College Aide (CR) | New York, NY | \$17.5 - \$21.9 Hour | Nov 9 | [Apply](https://cityjobs.nyc.gov/job/807371) |
@@ -54,6 +56,7 @@
 | [Hearst](https://internscout.org/internships/at/hearst/) | Local Government - Politics Intern - Summer 2027 | Dallas, TX |  | Sep 26 | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027547) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Qualcomm Government Technologies (QGOV) Engineering Internship – Summer 2027 (San Diego or Boulder) \| US CITIZENSHIP RE… | San Diego, CA |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720740540) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Public Policy Intern (Kennett Square, PA) | Kennett Square, Pennsylvania |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138711) |
+| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Masters - Transportation Communications & Policy Intern (Summer 2027!) | Austin, Texas | \$39.82 | Sep 9 | [Apply](https://careers.cdmsmith.com/jobs/4445) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Policy Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175556?gh_jid=8175556) |
 | [Air Force Civilian Career Training](https://internscout.org/internships/at/air-force-civilian-career-training/) | Student Trainee | Clear AFB, Alaska +83 | \$36409 - \$52957 Per Year | Sep 1 | [Apply](https://www.usajobs.gov:443/job/882786200) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 12, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |

@@ -1,10 +1,12 @@
 # Lab Research: Summer 2027 Internships
 
-35 open Summer 2027 lab research roles, newest first (all 35). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 131 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
+37 open Summer 2027 lab research roles, newest first (all 37). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 131 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | Research Associate Intern, Systems Architecture Lab | Milpitas, CA |  | Nov 12 | [Apply](https://go.vansh.nyc/1w1) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Intern: Quality Core Lab (Summer 2027) | East Hartford-Etc, CT | Paid | Nov 12 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Intern--Quality-Core-Lab--Summer-2027-_01868899) |
+| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Research and Development - Defense Lab Support | Warren, Michigan, United States of America |  | Nov 12 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Defense-Lab-Support_JR-202621738) |
 | [Carnegie Mellon University](https://internscout.org/internships/at/carnegie-mellon-university/) | Advanced Computing Lab Intern | Pittsburgh, PA |  | Nov 9 | [Apply](https://go.vansh.nyc/1pb) |
 | [Rivian and Volkswagen Group Technologies](https://internscout.org/internships/at/rivian-and-volkswagen-group-technologies/) | Mechatronics Lab Engineering Intern (January - August 2027) | Vancouver, British Columbia +1 |  | Nov 6 | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/e1647212-5d09-4877-a172-da50ae46dfe8/application) |
 | [Philips](https://internscout.org/internships/at/philips/) | Intern - Product Investigations Lab - New Kensington, PA - Summer 2027 | New Kensington, Pennsylvania, United States +1 | \$26.00-29.00 | Nov 4 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Product-Investigations-Lab---New-Kensington--PA---Summer-2027_593027) |

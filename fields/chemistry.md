@@ -1,9 +1,10 @@
 # Chemistry: Summer 2027 Internships
 
-23 open Summer 2027 chemistry roles, newest first (all 23). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 43 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
+24 open Summer 2027 chemistry roles, newest first (all 24). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 43 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Amgen](https://internscout.org/internships/at/amgen/) | Grad Intern - Computational Chemistry (summer 2027) | Remote | \$35.34 - \$41.20 per hour | Nov 12 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Computational-Chemistry--summer-2027-_R-261449) |
 | Genesis Molecular AI | Computational Chemistry Intern - 2027 | San Mateo, CA |  | Nov 10 | [Apply](https://jobs.ashbyhq.com/genesis-molecular-ai/3de36849-b8da-4da9-bd22-d706343db9e1/application) |
 | [Entegris](https://internscout.org/internships/at/entegris/) | Analytical Chemist Intern | Danbury, CT | \$20-\$30/hour | Nov 10 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Danbury-CT/Analytical-Chemist-Intern_REQ-15855) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern Chemistry Summer 2027 | Port Gibson, Mississippi |  | Nov 9 | [Apply](https://jobs.entergy.com/job/Port-Gibson-Student%2C-Intern-Chemistry-Summer-2027-Miss/1448978900/) |

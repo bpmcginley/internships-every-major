@@ -1,13 +1,13 @@
 # Product Management: Summer 2027 Internships
 
-180 open Summer 2027 product management roles, newest first (all 180). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 321 product management internships on InternScout](https://internscout.org/internships/product-management/)
+180 open Summer 2027 product management roles, newest first (all 180). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 322 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Entegris](https://internscout.org/internships/at/entegris/) | Product Management Intern | Rockrimmon, Colorado Springs, CO | \$20-\$30/hour | Nov 12 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Product-Management-Intern_REQ-15838) |
 | Rubrik | Product Manager Intern - Managed Service Provider | Palo Alto, CA |  | Nov 11 | [Apply](https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967) |
 | FNBO | Banking Product Intern | Omaha, NE |  | Nov 11 | [Apply](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Intern--Banking-Product_R-20261996) |
 | [APEX Analytix](https://internscout.org/internships/at/apex-analytix/) | Product Management Intern (Summer 2027) | Greensboro, NC |  | Nov 11 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/116e13fe-7202-45ba-a119-a81af4fcb4b9) |
-| H&R Block | Embark Product Management Intern - S | KANSAS CITY, Missouri +1 | \$25/hour | Nov 11 | [Apply](https://careers.hrblock.com/jobs/76986) |
 | [Motorola](https://internscout.org/internships/at/motorola/) | Program Manager Intern - Summer 2027 | Plantation, FL |  | Nov 11 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Program-Manager-Intern---Summer-2027_R69762) |
 | [Altice USA](https://internscout.org/internships/at/altice-usa/) | Product Management Customer Management App Intern | Bethpage, NY |  | Nov 10 | [Apply](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-Customer-Management-App-NY-11714/1449512200/?ats=successfactors) |
 | [Altice USA](https://internscout.org/internships/at/altice-usa/) | Product Management B2B Broadband Services Intern | Bethpage, NY |  | Nov 10 | [Apply](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-B2B-Broadband-Services-NY-11714/1449513100/?ats=successfactors) |
@@ -71,7 +71,7 @@
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program Product Owner Intern | Chicago, IL +1 |  | Oct 20 | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8038087003) |
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | Product Owner Intern, AI Consulting Associate Program | Chicago, IL +1 |  | Oct 20 | [Apply](https://go.vansh.nyc/df) |
 | GoFundMe | MBA Product Management Internship, Summer 2027 | San Francisco, CA +1 | \$75.00 | Oct 20 | [Apply](https://job-boards.greenhouse.io/gofundme/jobs/8304644) |
-| [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program Product Owner Intern | Chicago, IL |  | Oct 20 | [Apply](https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application?embed=true) |
+| [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program (AI CAP) Product Manager Intern - Summer 2027 | Chicago +3 | \$35-40 per hour | Oct 20 | [Apply](https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application) |
 | [Amplify](https://internscout.org/internships/at/amplify/) | Summer 2027: Product Management Intern | Remote +1 |  | Oct 19 | [Apply](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Technical Program Manager Intern | Costa Mesa, California, United States +4 | Paid | Oct 19 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007) |
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Product Management Intern - Summer 2027 | Downers Grove, IL | \$20.00 - \$25.00 per hour | Oct 19 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065) |
