@@ -1,9 +1,10 @@
 # Marketing: Summer 2027 Internships
 
-279 open Summer 2027 marketing roles, newest first (the 200 newest of 279). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 730 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+278 open Summer 2027 marketing roles, newest first (the 200 newest of 278). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 730 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Veeam Software](https://internscout.org/internships/at/veeam-software/) | Customer Experience Intern - Summer 2027 | Remote, Georgia, USA |  | Nov 12 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5035360101) |
 | [Galaxy](https://internscout.org/internships/at/galaxy/) | 2027 Data Center Growth & Development Intern - NYC | New York | \$55/hr | Nov 12 | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6256234004) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | B2B Subscriptions, Marketing Intern | New York, NY | \$20.00 per hour | Nov 12 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4753228005) |
 | TIAA | 2027 Early Talent Internship: Marketing & Communications, Sports Sponsorships, Folds of Honor | Charlotte, NC, USA +3 | \$22.00/hr | Nov 12 | [Apply](https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Internship--Marketing---Communications--Sports-Sponsorships--Folds-of-Honor_R261000122-1) |
@@ -137,7 +138,6 @@
 | [Wolf & Company](https://internscout.org/internships/at/wolf-company/) | Marketing Intern - Summer 2027 | Boston, MA | \$26.00 per hour | Oct 14 | [Apply](https://career-portal-wolfandco.icims.com/jobs/1597/marketing-intern---summer-2027/job) |
 | [GAF](https://internscout.org/internships/at/gaf/) | Customer Experience Intern | Parsippany, NJ | \$20.00 | Oct 13 | [Apply](https://gafsgi.wd5.myworkdayjobs.com/GAF_Careers/job/Parsippany-NJ/Customer-Experience-Intern_26415-1) |
 | [Land O'Lakes](https://internscout.org/internships/at/land-o-lakes/) | Marketing Brand Management MBA Intern, Summer 2027 | Arden Hills, MN (USA) | \$18,800 | Oct 13 | [Apply](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Arden-Hills-MN-USA/Marketing-Brand-Management-MBA-Intern--Summer-2027_R-40561) |
-| [Land O'Lakes](https://internscout.org/internships/at/land-o-lakes/) | WinField United FGI Marketing Intern, Summer 2027 | Arden Hills, MN (USA) | \$25.00/hour | Oct 13 | [Apply](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Arden-Hills-MN-USA/WinField-United-FGI-Marketing-Intern--Summer-2027_R-40233) |
 | [Arc](https://internscout.org/internships/at/arc/) | Brand Marketing Intern | Torrance, CA | \$32 per hour | Oct 7 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5446659008) |
 | [Dow Jones](https://internscout.org/internships/at/dow-jones/) | Marketing Data Science Intern | New York, NY |  | Oct 7 | [Apply](https://go.vansh.nyc/1nD) |
 | [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | SCS Commercial Strategy & Growth Intern | Longmont, CO |  | Oct 7 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/SCS-Commercial-Strategy---Growth-Internship-Summer-2027_R5055048-2) |
@@ -175,7 +175,6 @@
 | [Veeam Software](https://internscout.org/internships/at/veeam-software/) | Launch Strategy Marketing Intern - Summer 2027 | Remote, Georgia, USA |  | Sep 11 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955350101) |
 | [Veeam Software](https://internscout.org/internships/at/veeam-software/) | Campaign Marketing Intern - Summer 2027 | Remote, Georgia, USA |  | Sep 11 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955286101) |
 | [Veeam Software](https://internscout.org/internships/at/veeam-software/) | Talent Growth and Inclusion Intern- Summer 2027 | Remote, Washington, USA |  | Sep 11 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4971204101) |
-| [Veeam Software](https://internscout.org/internships/at/veeam-software/) | Field Marketing Intern - Summer 2027 | Remote, Georgia, USA |  | Sep 11 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4952602101) |
 | [Veeam Software](https://internscout.org/internships/at/veeam-software/) | CoE Program & Content Intern - Summer 2027 | Remote, Georgia, USA |  | Sep 11 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4964357101) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Masters - Transportation Communications & Policy Intern (Summer 2027!) | Austin, Texas | \$39.82 | Sep 9 | [Apply](https://careers.cdmsmith.com/jobs/4445) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Affiliated Distribution Strategy & Marketing Intern – Summer 2027 | Montpelier, VT | Paid | Sep 8 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4390937009) |
@@ -184,6 +183,7 @@
 | [CSX](https://internscout.org/internships/at/csx/) | Sales & Marketing Analytics Internship - Summer 2027 (Paid) | Jacksonville, FL |  | Sep 4 | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54839) |
 | [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | Hardware Engineer Intern - Critical Infrastructure Communications | Rochester, NY |  | Sep 3 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-2) |
 | [Compeer Financial](https://internscout.org/internships/at/compeer-financial/) | Intern Marketing | IL-Bloomington | Paid | Aug 31 | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5409763008) |
+| [Honeywell](https://internscout.org/internships/at/honeywell/) | Marketing - Summer 2027 Intern | United States |  | Aug 25 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155591) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Marketing (New York, NY) | New York, NY |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81268) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Marketing (Pittsburgh, PA) | Pittsburgh, PA |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81270) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Product Marketing Intern | Delaware, OH |  | Aug 21 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279046) |

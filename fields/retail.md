@@ -1,9 +1,10 @@
 # Retail: Summer 2027 Internships
 
-212 open Summer 2027 retail roles, newest first (the 200 newest of 212). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 271 retail internships on InternScout](https://internscout.org/internships/retail/)
+213 open Summer 2027 retail roles, newest first (the 200 newest of 213). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 275 retail internships on InternScout](https://internscout.org/internships/retail/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Walmart](https://internscout.org/internships/at/walmart/) | Summer 2027 Corporate Intern: eCommerce Site Experience | Bentonville, AR | \$21.00 - \$40.00 | Nov 12 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Summer-2027-Corporate-Intern--eCommerce-Site-Experience_R-2699454) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - Canada Retail Marketing | Toronto, Ontario | \$44,900.00 | Nov 10 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Canada-Retail-Marketing_JR26091051) |
 | [Meijer](https://internscout.org/internships/at/meijer/) | Retail Management Intern Milwaukee- Summer 2027 | Greenfield, WI |  | Nov 9 | [Apply](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Greenfield-WI/Retail-Management-Intern-Milwaukee--Summer-2027_R000717127) |
 | [Meijer](https://internscout.org/internships/at/meijer/) | Retail Management Intern Central IL- Summer 2027 | Champaign, IL | \$20.50 - \$30.05 | Nov 9 | [Apply](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Champaign-IL/Retail-Management-Intern-Central-IL--Summer-2027_R000717129) |
@@ -203,7 +204,6 @@
 | [POET](https://internscout.org/internships/at/poet/) | Merchandising Intern - Summer 2027 | Sioux Falls, SD |  | Sep 18 | [Apply](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Merchandising-Intern---Summer-2027_R101700) |
 | [Target](https://internscout.org/internships/at/target/) | Store Executive Intern (Store Leadership Intern) - Algonquin, IL (Starting Summer 2027) ​ ​ | 750 S Randall Rd, Algonquin,IL 60102-5915 +10 | \$24.00- \$28.00 | Sep 18 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/750-S-Randall-Rd-AlgonquinIL-60102-5915/Store-Executive-Intern--Store-Leadership-Intern----Algonquin--Starting-Summer-2027------_R0000449248) |
 | [Target](https://internscout.org/internships/at/target/) | Store Executive Intern (Store Leadership Intern) - Charleston, SC + Savannah, GA (Starting Summer 2027) ​ | 450 Azalea Square Blvd, Summerville,SC 29483-7321 +4 | \$24.00- \$25.00 | Sep 18 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/450-Azalea-Square-Blvd-SummervilleSC-29483-7321/Store-Executive-Intern--Store-Leadership-Intern----Charleston--SC---Savannah--GA--Starting-Summer-2027---_R0000448584) |
-| [Target](https://internscout.org/internships/at/target/) | Store Executive Intern (Store Leadership Intern) - Miami- Starting Summer 2027)​ | 249 NW 6th St, Ste 120, Miami,FL 33136-4248 +3 | \$25.50- \$25.75 | Sep 18 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/249-NW-6th-St-Ste-120-MiamiFL-33136-4248/Store-Executive-Intern--Store-Leadership-Intern----South-FL--Miami-to-West-Palm---Starting-Summer-2027--_R0000448573) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,9 +1,12 @@
 # Quantitative Finance: Summer 2027 Internships
 
-152 open Summer 2027 quantitative finance roles, newest first (all 152). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 208 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
+155 open Summer 2027 quantitative finance roles, newest first (all 155). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 211 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Alexion](https://internscout.org/internships/at/alexion/) | Summer 2027 Quantitative Intern PhD | US - Boston - MA | Paid | Nov 12 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---Boston---MA/Summer-2027-Quantitative-Intern-PhD_R-264278-1) |
+| [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Middle Market Banking/Portfolio Management (Charlotte, NC) | Charlotte, North Carolina |  | Nov 12 | [Apply](https://firstcitizens.jibeapply.com/jobs/36564) |
+| [AstraZeneca](https://internscout.org/internships/at/astrazeneca/) | Summer 2027 Quantitative Intern PhD | US - Boston - MA | Paid | Nov 12 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Boston---MA/Summer-2027-Quantitative-Intern-PhD_R-264278) |
 | [StepStone Group](https://internscout.org/internships/at/stepstone-group/) | 2027 AI Quant Summer Analyst | La Jolla, MD +3 | \$30/hour | Nov 11 | [Apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8368989) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Data & Quantitative Sciences Intern-Summer 2027 | Princeton - NJ - US +5 | \$30-\$45/hour | Nov 11 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Data---Quantitative-Sciences-Intern-Summer-2027_R1608215) |
 | Arrowstreet Capital | Quantitative Developer Intern, Summer 2027 | Boston +1 | \$3,500 - \$5,000 per week | Nov 11 | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) |

@@ -1,6 +1,6 @@
 # Sustainability: Summer 2027 Internships
 
-83 open Summer 2027 sustainability roles, newest first (all 83). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 135 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+82 open Summer 2027 sustainability roles, newest first (all 82). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 134 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -29,7 +29,6 @@
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | San Diego, California | \$20.00 | Oct 27 | [Apply](https://careers.trccompanies.com/jobs/27152) |
 | [Scout Clean Energy](https://internscout.org/internships/at/scout-clean-energy/) | Renewable Energy Analyst Intern | Boulder, CO |  | Oct 26 | [Apply](https://apply.workable.com/scout-clean-energy/j/30CCB1602D/apply) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern Enterprise Safety Summer 2027 | Jackson, Mississippi |  | Oct 23 | [Apply](https://jobs.entergy.com/job/Jackson-Student%2C-Intern-Enterprise-Safety-Summer-2027-Miss/1433660400/) |
-| [Arch Capital Group](https://internscout.org/internships/at/arch-capital-group/) | Sustainability Reporting & Strategy Summer Intern | White Plains, NY United States of America | Paid | Oct 22 | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/White-Plains-NY-United-States-of-America/Sustainability-Reporting---Strategy-Summer-Intern_R26_802) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern, Capital Projects, Summer 2027 | Malvern, Arkansas +1 |  | Oct 20 | [Apply](https://jobs.entergy.com/job/Malvern-Student%2C-Intern%2C-Capital-Projects%2C-Summer-2027-Arka/1441956200/) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Electrical Engineering (Renewable Transmission Interconnections) Intern – Summer 2027 | Billings, MT |  | Oct 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96761) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil/Structural Engineering Intern (Renewable Transmission Interconnections) - Summer 2027 | Billings, MT |  | Oct 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96768) |

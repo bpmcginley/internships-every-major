@@ -1,10 +1,11 @@
 # Design: Summer 2027 Internships
 
-85 open Summer 2027 design roles, newest first (all 85). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 199 design internships on InternScout](https://internscout.org/internships/design/)
+86 open Summer 2027 design roles, newest first (all 86). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 201 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [Entegris](https://internscout.org/internships/at/entegris/) | Product Design R&D Intern - Summer 2027 | Colorado Springs, CO | \$20-\$30/hour | Nov 12 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Colorado-Springs-CO/Product-Design-R-D-Intern---Summer-2027_REQ-15877) |
+| [Entegris](https://internscout.org/internships/at/entegris/) | Product Design R&D Intern - Summer 2027 | Colorado Springs, CO |  | Nov 12 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Colorado-Springs-CO/Product-Design-R-D-Intern---Summer-2027_REQ-15877) |
+| Systems Planning and Analysis | UI/UX Software Intern | Alexandria, VA |  | Nov 11 | [Apply](https://go.vansh.nyc/1xp) |
 | [HP IQ](https://internscout.org/internships/at/hp-iq/) | Experience Design Intern (Summer 2027) | San Francisco, CA | \$40.00–\$50.00 per hour | Nov 11 | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6230959004) |
 | [Riot Games](https://internscout.org/internships/at/riot-games/) | Technical Game Design Intern - League of Legends and Teamfight Tactics | LA |  | Nov 11 | [Apply](https://www.riotgames.com/en/work-with-us/job/8356525?gh_jid=8356525) |
 | [PTC](https://internscout.org/internships/at/ptc/) | UI/UX Design Intern (Summer 2027) | USA-San Mateo, CA | Paid | Nov 11 | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/USA-San-Mateo-CA/UI-UX-Designer-Intern--Summer-2027-_JR112956) |

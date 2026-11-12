@@ -1,9 +1,11 @@
 # Chemical Engineering: Summer 2027 Internships
 
-65 open Summer 2027 chemical engineering roles, newest first (all 65). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 148 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+67 open Summer 2027 chemical engineering roles, newest first (all 67). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 150 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [AstraZeneca](https://internscout.org/internships/at/astrazeneca/) | Summer 2027 Analytical Development & Quality Control Intern | US - New Haven - CT | \$37-\$39 per hour | Nov 12 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---New-Haven---CT/Summer-2027-Analytical-Development---Quality-Control-Intern_R-264277-1) |
+| [Alexion](https://internscout.org/internships/at/alexion/) | Summer 2027 Analytical Development & Quality Control Intern | US - New Haven - CT | \$37-\$39 per hour | Nov 12 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---New-Haven---CT/Summer-2027-Analytical-Development---Quality-Control-Intern_R-264277) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Grad Intern - Operations – Process Development (Summer 2027) | US - California - Thousand Oaks | \$35.34 - \$41.20 per hour | Nov 11 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Process-Development--Summer-2027-_R-254519) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Graduate Researcher (Summer 2027) – Applied Artificial Intelligence for Petroleum Engineering | Houston, TX |  | Nov 10 | [Apply](https://aramcoservices.applytojob.com/apply/tIaTOfPJhn/Graduate-Researcher-Summer-2027-Applied-Artificial-Intelligence-For-Petroleum-Engineering) |
 | [ABB](https://internscout.org/internships/at/abb/) | Manufacturing Process Engineering Intern- Summer 2027 | Bartlesville, Oklahoma, United States of America | \$20 - \$34 per hour | Nov 9 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bartlesville-Oklahoma-United-States-of-America/Manufacturing-Process-Engineering-Intern--Summer-2027_JR00051490) |

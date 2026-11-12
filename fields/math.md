@@ -1,9 +1,12 @@
 # Math: Summer 2027 Internships
 
-26 open Summer 2027 math roles, newest first (all 26). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 47 math internships on InternScout](https://internscout.org/internships/math/)
+29 open Summer 2027 math roles, newest first (all 29). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 50 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Alexion](https://internscout.org/internships/at/alexion/) | Summer 2027 Biostatistics Intern PhD | US - Boston - MA | Paid | Nov 12 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---Boston---MA/Summer-2027-Biostatistics-Intern-PhD_R-264273) |
+| [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Intern - Data Science / Biostatistician | Detroit, MI |  | Nov 12 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14837) |
+| [AstraZeneca](https://internscout.org/internships/at/astrazeneca/) | Summer 2027 Biostatistics Intern PhD | US - Boston - MA | Paid | Nov 12 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Boston---MA/Summer-2027-Biostatistics-Intern-PhD_R-264273-1) |
 | [Sanofi](https://internscout.org/internships/at/sanofi/) | 2027 Summer Intern Statistical Methodology Cambridge MA | Cambridge, MA | Paid | Nov 11 | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-Statistical-Methodology-Cambridge-MA_R2865711-1) |
 | [Genentech](https://internscout.org/internships/at/genentech/) | 2027 Summer Intern - Biostatistics and Analytical Data Sciences | South San Francisco, CA | \$34.00-\$52.00 per hour | Nov 11 | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Biostatistics-and-Analytical-Data-Sciences_202611-128787) |
 | [Sanofi](https://internscout.org/internships/at/sanofi/) | 2027 Summer Intern Clinical Statistical Modeling Cambridge MA | Cambridge, MA +1 | Paid | Nov 10 | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-Clinical-Statistical-Modeling-Cambridge-MA_R2866227) |

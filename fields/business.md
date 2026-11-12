@@ -1,9 +1,10 @@
 # Business: Summer 2027 Internships
 
-87 open Summer 2027 business roles, newest first (all 87). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 155 business internships on InternScout](https://internscout.org/internships/business/)
+88 open Summer 2027 business roles, newest first (all 88). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 157 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Fifth Third Bank | Summer 2027 Commercial Middle Market Internship - San Jose | San Jose, CA | Paid | Nov 12 | [Apply](https://fifththird.wd5.myworkdayjobs.com/53careers/job/San-Jose-CA/Summer-2027-Commercial-Middle-Market-Internship---San-Jose_R72043) |
 | [Citizens Financial Group](https://internscout.org/internships/at/citizens-financial-group/) | 2027 Commercial Summer Intern - Houston, TX | United States +1 |  | Nov 12 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49213) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 Summer College Intern - Business | Pascagoula, Mississippi |  | Nov 12 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-SUMMER-COLLEGE-INTERN-BUSINESS-Miss/1430057000/) |
 | Williams | Summer 2027 Business Intern - NYU Financial Engineering Students | OK Tulsa - Headquarters +2 | \$2,500 | Nov 11 | [Apply](https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Summer-2027-Business-Intern_R112663) |

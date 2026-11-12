@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-110 open Summer 2027 human resources roles, newest first (all 110). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 252 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+110 open Summer 2027 human resources roles, newest first (all 110). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 253 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

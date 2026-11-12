@@ -1,9 +1,10 @@
 # Product Management: Summer 2027 Internships
 
-180 open Summer 2027 product management roles, newest first (all 180). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 322 product management internships on InternScout](https://internscout.org/internships/product-management/)
+179 open Summer 2027 product management roles, newest first (all 179). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 321 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [T-Mobile](https://internscout.org/internships/at/t-mobile/) | Data Product Intern | Bellevue, WA |  | Nov 12 | [Apply](https://go.vansh.nyc/1wM) |
 | [Entegris](https://internscout.org/internships/at/entegris/) | Product Management Intern | Rockrimmon, Colorado Springs, CO | \$20-\$30/hour | Nov 12 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Product-Management-Intern_REQ-15838) |
 | Rubrik | Product Manager Intern - Managed Service Provider | Palo Alto, CA |  | Nov 11 | [Apply](https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967) |
 | FNBO | Banking Product Intern | Omaha, NE |  | Nov 11 | [Apply](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Intern--Banking-Product_R-20261996) |
@@ -76,8 +77,7 @@
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Technical Program Manager Intern | Costa Mesa, California, United States +4 | Paid | Oct 19 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007) |
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Product Management Intern - Summer 2027 | Downers Grove, IL | \$20.00 - \$25.00 per hour | Oct 19 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065) |
 | Propio | Product Manager Intern | Overland Park, KS |  | Oct 15 | [Apply](https://go.vansh.nyc/gi) |
-| [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Program Management Intern - Summer 2027 (For SNC Summer 2026 Interns Only) | Lone Tree, CO |  | Oct 15 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Program-Management-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031093) |
-| [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Terawave Product Management Internship - MBA | Kent, WA | \$50.00 | Oct 15 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Kent-WA/Summer-2027-Terawave-Product-Management-Internship---MBA_R74200) |
+| [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Terawave Product Management Intern - MBA | Kent, WA |  | Oct 15 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Kent-WA/Summer-2027-Terawave-Product-Management-Internship---MBA_R74200) |
 | [Allied Solutions](https://internscout.org/internships/at/allied-solutions/) | Product Management Intern - Risk Management | St. Paul, MN +1 | \$16 to \$22 | Oct 15 | [Apply](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | EMG Program Manager Intern IS \| Summer 2027 | Deer Park, TX | \$20/hour | Oct 14 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166908) |
 | [Saab](https://internscout.org/internships/at/saab/) | Program Management Co-Op (Summer 2027) | East Syracuse, NY (Aspen Park) | \$18.24 - \$20.27/hr | Oct 14 | [Apply](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Aspen-Park/Program-Management-Co-Op--Summer-2027-_R-03330-1) |
@@ -96,7 +96,6 @@
 | [C3.ai](https://internscout.org/internships/at/c3-ai/) | AI Product Manager - MBA Intern (Summer 2027) | Redwood City, CA | \$8,000 - \$10,000 | Oct 2 | [Apply](https://job-boards.greenhouse.io/c3ascend/jobs/8860562002) |
 | [Bedrock Robotics](https://internscout.org/internships/at/bedrock-robotics/) | 2027 Internship Product Intern | San Francisco, CA +2 | Paid | Oct 1 | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/e199e72a-0361-40dc-8fd3-e02e534af85a/application) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Product Management (Lake Mary, FL) | Lake Mary, FL |  | Oct 1 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82784) |
-| [Capital One](https://internscout.org/internships/at/capital-one/) | MBA Product Intern | McLean, VA +3 |  | Oct 1 | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/MBA-Product-Intern---Summer-2027_R244815-1) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Product Management (Pittsburgh, PA) | Pittsburgh, PA |  | Oct 1 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82782) |
 | [Acuity](https://internscout.org/internships/at/acuity/) | Product Management Technology Intern | Conyers, GA |  | Sep 29 | [Apply](https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors) |
 | [Acuity](https://internscout.org/internships/at/acuity/) | Finance AI Product Management Intern | Atlanta, GA |  | Sep 29 | [Apply](https://careers.acuityinc.com/job/Atlanta-Finance-AI-Product-Management-Intern-Onsite-GA-30309/1434874300/?ats=successfactors) |

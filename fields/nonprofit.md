@@ -1,9 +1,10 @@
 # Nonprofit: Summer 2027 Internships
 
-25 open Summer 2027 nonprofit roles, newest first (all 25). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 106 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
+25 open Summer 2027 nonprofit roles, newest first (all 25). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 105 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Arch Capital Group](https://internscout.org/internships/at/arch-capital-group/) | Community Impact Summer Intern | White Plains, NY United States of America | Paid | Nov 12 | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/White-Plains-NY-United-States-of-America/Community-Impact-Summer-Intern_R26_803) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Adaptation Advocacy Intern | Washington, DC | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6047/summer-2027-adaptation-advocacy-intern/job) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Food Waste Reduction Intern | San Francisco, CA +2 | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6054/summer-2027-food-waste-reduction-intern/job) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Carbon Dioxide Removal Intern | Chicago, IL +1 | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6049/summer-2027-carbon-dioxide-removal-intern/job) |
@@ -28,7 +29,6 @@
 | [AARP](https://internscout.org/internships/at/aarp/) | Foundation Litigation Intern (Summer 2027) | Washington, DC | Paid | Jul 30 | [Apply](https://careers.aarp.org/jobs/7733) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Community Engagement and Planning Intern – Summer 2027 | Boston, MA |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Boston-MA/Community-Engagement-and-Planning-Intern---Summer-2027_R-31583) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Sustainability and Philanthropy Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 8 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Sustainability-and-Philanthropy-Intern---Summer-2027---Franklin--TN_R00214221) |
-| [Arch Capital Group](https://internscout.org/internships/at/arch-capital-group/) | Community Impact Summer Intern | White Plains, NY United States of America | Paid | Sep 18 | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/White-Plains-NY-United-States-of-America/Community-Impact-Summer-Intern_R26_803) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

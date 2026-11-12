@@ -1,9 +1,10 @@
 # Urban Planning: Summer 2027 Internships
 
-64 open Summer 2027 urban planning roles, newest first (all 64). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 106 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+65 open Summer 2027 urban planning roles, newest first (all 65). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 108 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Eversource Energy](https://internscout.org/internships/at/eversource-energy/) | 2027 Summer: GIS Intern (MA) | Dorchester, MA | \$21.20 | Nov 12 | [Apply](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Dorchester-MA/XMLNAME-2027-Summer--GIS-Intern--MA-_R-032519) |
 | [Entegris](https://internscout.org/internships/at/entegris/) | Supply Planning Intern - Summer 2027 | Bloomington, MN | \$20-\$30/hour | Nov 12 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bloomington-MN/Supply-Planning-Intern---Summer-2027_REQ-15885-1) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Planning Intern - Summer 2027 | Philadelphia, PA |  | Nov 12 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99352) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | GIS Intern | Lakewood, Colorado +6 | \$20.00 | Nov 11 | [Apply](https://careers.trccompanies.com/jobs/28698) |

@@ -1,10 +1,14 @@
 # Civil Engineering: Summer 2027 Internships
 
-342 open Summer 2027 civil engineering roles, newest first (the 200 newest of 342). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 561 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+340 open Summer 2027 civil engineering roles, newest first (the 200 newest of 340). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 559 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Galaxy](https://internscout.org/internships/at/galaxy/) | 2027 Construction Intern-Afton, Texas | Afton, Texas |  | Nov 12 | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6256113004) |
+| [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Civil Engineering Intern \| Hardin, MT | Hardin, MT | Paid | Nov 12 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Hardin-MT/Civil-Engineering-Intern---Hardin--MT_R-16994) |
+| [IMEG](https://internscout.org/internships/at/imeg/) | Civil Engineering Intern \| Hardin, MT | Hardin, MT | Paid | Nov 12 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Hardin-MT/Civil-Engineering-Intern---Hardin--MT_R-16994) |
+| [IMEG](https://internscout.org/internships/at/imeg/) | Civil Engineering Intern \| Havre, MT | Havre, MT | Paid | Nov 12 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Havre-MT/Civil-Engineering-Intern---Havre--MT_R-16993) |
+| [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Civil Engineering Intern \| Havre, MT | Havre, MT | Paid | Nov 12 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Havre-MT/Civil-Engineering-Intern---Havre--MT_R-16993) |
 | [Global Infrastructure](https://internscout.org/internships/at/global-infrastructure/) | Transportation Engineering Intern | US +2 | \$23.00 - \$26.00 hour | Nov 12 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--NY--New-York---322-Eighth-Avenue/Transportation-Engineering-Intern_6749) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering Intern (Transmission) - Summer 2027 | Saint Louis, MO |  | Nov 12 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98953) |
 | [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Facilities Engineering and Commissioning | Atlanta, GA +1 |  | Nov 12 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Atlanta-GA/Summer-2027-Internship--Facilities-Engineering-and-Commissioning_R2026-1905) |
@@ -200,10 +204,6 @@
 | [Tighe & Bond](https://internscout.org/internships/at/tighe-bond/) | Civil Engineering Internship - Site Design - Summer 2027 | Worcester, MA | \$21.00 | Sep 9 | [Apply](https://careers-tighebond.icims.com/jobs/1842/civil-engineering-internship---site-design---summer-2027/job) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Construction Intern, Summer 2027 | Madison, WI +1 |  | Sep 9 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309859) |
 | [Tighe & Bond](https://internscout.org/internships/at/tighe-bond/) | Civil Engineering Internship - Site Design - Summer 2027 | Providence, RI | \$21.00 | Sep 9 | [Apply](https://careers-tighebond.icims.com/jobs/1844/civil-engineering-internship---site-design---summer-2027/job) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Geotechnical Engineering Intern (Summer 2027!) | Dallas, Texas | \$40.11 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4404) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Structural Engineering Intern (Summer 2027!) | Pittsburgh, Pennsylvania | \$42.02 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4383) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Structural Engineering Intern (Bridge Design, Summer 2027!) | Knoxville, Tennessee | \$40.11 | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/4349) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors - Transportation Engineering Intern (Summer 2027!) | Lisle, Illinois | \$38.20 | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/3911) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
