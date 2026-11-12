@@ -1,6 +1,6 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-204 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 204). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 426 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+202 open Summer 2027 environmental science and engineering roles, newest first (the 200 newest of 202). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 421 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -30,7 +30,6 @@
 | [Michelin](https://internscout.org/internships/at/michelin/) | Summer 2027 Environmental Health and Safety Intern (Upstate South Carolina) | SANDY SPRINGS, SC |  | Nov 3 | [Apply](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/SANDY-SPRINGS-SC/Summer-2027-Environmental-Health-and-Safety-Intern--Upstate-South-Carolina-_R-2026032367) |
 | [Michelin](https://internscout.org/internships/at/michelin/) | 2027 Summer Safety Specialist Intern | PEOSTA, IA |  | Nov 3 | [Apply](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/PEOSTA-IA/XMLNAME-2027-Summer-Safety-Specialist-Intern_R-2026040399) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Miami, Florida | \$36.96 | Nov 3 | [Apply](https://careers.cdmsmith.com/jobs/4916) |
-| [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Patient Safety Intern Summer 2027 | Princeton - NJ - US +1 | \$21-\$45/hour | Nov 3 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Patient-Safety-Intern-Summer-2027_R1607761) |
 | [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Sustainability & Energy Engineering Intern | St. Louis, MO +3 | \$22.00–\$24.00 per hour | Nov 3 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/St-Louis-MO/Sustainability---Energy-Engineering-Intern_R-16761) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Sustainability & Energy Engineering Intern | St. Louis, MO +3 | \$22.00–\$24.00 per hour | Nov 3 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Sustainability---Energy-Engineering-Intern_R-16761) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Masters Environmental Engineering Intern (Summer 2027!) | Austin, Texas | \$38.72 | Nov 2 | [Apply](https://careers.cdmsmith.com/jobs/4141) |
@@ -151,7 +150,6 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern (Summer 2027!) | Houston, Texas | \$38.72 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4339) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Hartford, Connecticut | \$40.48 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4377) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern (Summer 2027!) | Boston, Massachusetts | \$40.48 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4340) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern (Summer 2027) | Jacksonville, Florida | \$36.96 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4034) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Pittsburgh, Pennsylvania | \$38.72 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4287) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - (Summer 2027) | Charlotte, North Carolina | \$39.73 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/3831) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Edison, New Jersey | \$40.48 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4374) |
@@ -204,6 +202,8 @@
 | [Cleveland-Cliffs](https://internscout.org/internships/at/cleveland-cliffs/) | Health & Safety Intern | Indiana Harbor |  | Sep 18 | [Apply](https://aksteel.wd1.myworkdayjobs.com/careers/job/Indiana-Harbor/Health---Safety-Intern_R13490) |
 | [Cleveland-Cliffs](https://internscout.org/internships/at/cleveland-cliffs/) | Environmental Engineering Intern | Indiana Harbor |  | Sep 18 | [Apply](https://aksteel.wd1.myworkdayjobs.com/careers/job/Indiana-Harbor/Environmental-Engineering-Intern_R13483) |
 | [Verdantas](https://internscout.org/internships/at/verdantas/) | Summer 2027 Environmental Intern | Wilmington DE | \$21.00 - \$22.00 | Sep 18 | [Apply](https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Wilmington-DE/Summer-2027-Environmental-Intern_R-101162) |
+| [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | EHS Intern - BOSS Snowplow | Iron Mountain, MI | \$20–\$24 | Sep 18 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Iron-Mountain-MI/EHS-Intern---BOSS-Snowplow_JR17203) |
+| [Shure](https://internscout.org/internships/at/shure/) | Data Driven Sustainability Intern | Niles, IL |  | Sep 18 | [Apply](https://careersus-shure.icims.com/jobs/4979/data-driven-sustainability-intern/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

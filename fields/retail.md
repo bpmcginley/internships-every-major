@@ -1,6 +1,6 @@
 # Retail: Summer 2027 Internships
 
-218 open Summer 2027 retail roles, newest first (the 200 newest of 218). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 276 retail internships on InternScout](https://internscout.org/internships/retail/)
+217 open Summer 2027 retail roles, newest first (the 200 newest of 217). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 275 retail internships on InternScout](https://internscout.org/internships/retail/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -155,7 +155,6 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Backend Software Engineer Intern - Global E-Commerce | San Jose, CA +1 |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7668834837268138293) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Data Architecture - E-commerce | Seattle, WA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7668582146236631349) |
 | [Target](https://internscout.org/internships/at/target/) | Store Executive Intern (Store Leadership Intern) - Milwaukee, WI (Starting Summer 2027) ​ ​ | 2950 S Chase Ave, Milwaukee,WI 53207-6407 +9 | \$24.00- \$28.00 | Nov 10 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/2950-S-Chase-Ave-MilwaukeeWI-53207-6407/Store-Executive-Intern--Store-Leadership-Intern----Milwaukee--WI--Starting-Summer-2027------_R0000449239) |
-| [Target](https://internscout.org/internships/at/target/) | Store Executive Intern (Store Leadership Intern) - Greater Salt Lake City, UT (Starting Summer 2027) ​ | 1110 S 300 W, Salt Lake City, UT 84101-3053 +11 | \$21.25- \$33.25 | Nov 10 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/1110-S-300-W-Salt-Lake-City-UT-84101-3053/Store-Executive-Intern--Store-Leadership-Intern----Greater-Salt-Lake-City--UT--Starting-Summer-2027---_R0000448965) |
 | [Target](https://internscout.org/internships/at/target/) | Store Executive Intern (Store Leadership Intern) - Melrose Park, IL (Starting Summer 2027) ​ | 850 W North Ave, Melrose Park,IL 60160-1611 +9 | \$28.00- \$29.00 | Nov 9 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/850-W-North-Ave-Melrose-ParkIL-60160-1611/Store-Executive-Intern--Store-Leadership-Intern----Melrose-Park--IL--Starting-Summer-2027---_R0000449083) |
 | [L.L.Bean](https://internscout.org/internships/at/l-l-bean/) | Fulfillment Intern (Summer 2027) | Freeport, ME | \$20 - \$22 /hour | Nov 6 | [Apply](https://llbean.wd1.myworkdayjobs.com/LLBean_Careers/job/Freeport-ME/Fulfillment-Intern--Summer-2027-_JR11276) |
 | [L.L.Bean](https://internscout.org/internships/at/l-l-bean/) | Wholesale Intern (Summer 2027) | Freeport, ME | \$20 - \$22 /hour | Nov 6 | [Apply](https://llbean.wd1.myworkdayjobs.com/LLBean_Careers/job/Freeport-ME/Wholesale-Intern--Summer-2027-_JR11261) |
@@ -204,6 +203,7 @@
 | BJ's Wholesale Club | Summer Intern - Club Operations (Retail) | BJ's Club Support Center Marlborough, MA #5997 | \$20.00/hr | Sep 18 | [Apply](https://bjswholesaleclub.wd1.myworkdayjobs.com/BJsCareers/job/BJs-Club-Support-Center-Marlborough-MA-5997/Summer-Intern---Club-Operations--Retail-_R253252) |
 | General Mills | Internship - Research & Development Food Scientist | Minneapolis, MN | \$31.73/hour | Sep 18 | [Apply](https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Internship---Research---Development-Food-Scientist_10128712) |
 | [Target](https://internscout.org/internships/at/target/) | Store Executive Intern (Store Leadership Intern) – Cookeville, TN (Starting Summer 2027) | 1100 S Willow Ave, Cookeville,TN 38501-4139 | \$23.25- \$24.25 | Sep 18 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/1100-S-Willow-Ave-CookevilleTN-38501-4139/Store-Executive-Intern--Store-Leadership-Intern----Knoxville--TN--Starting-Summer-2027-_R0000449839) |
+| BJ's Wholesale Club | Summer Intern - Club Support Center (Corporate) | BJ's Club Support Center Marlborough, MA #5997 | \$20.00/hr | Sep 18 | [Apply](https://bjswholesaleclub.wd1.myworkdayjobs.com/BJsCareers/job/BJs-Club-Support-Center-Marlborough-MA-5997/Summer-Intern---Club-Support-Center--Corporate-_R253241) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

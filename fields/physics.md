@@ -1,9 +1,11 @@
 # Physics: Summer 2027 Internships
 
-29 open Summer 2027 physics roles, newest first (all 29). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 103 physics internships on InternScout](https://internscout.org/internships/physics/)
+31 open Summer 2027 physics roles, newest first (all 31). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 104 physics internships on InternScout](https://internscout.org/internships/physics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Photonics Layout Intern - Summer 2027 | Boston, MA | Paid | Nov 11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479611008?gh_jid=5479611008) |
+| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Photonics Engineer Intern - Summer 2027 | Boston, MA | Paid | Nov 11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479605008?gh_jid=5479605008) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Optical Payload Engineer Intern | Costa Mesa, California, United States | Paid | Nov 10 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | Quantum Computing Research Intern | Washington, DC |  | Nov 10 | [Apply](https://go.vansh.nyc/1qt) |
 | [Northrop Grumman](https://internscout.org/internships/at/northrop-grumman/) | Optics/Photonic Engineering Intern | Apopka, FL |  | Nov 10 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Optics-Photonic-Engineering-Intern---Apopka-FL_R10260049) |
@@ -26,10 +28,10 @@
 | [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Firmware Engineer Intern, Optical | San Jose, CA |  | Oct 6 | [Apply](https://go.vansh.nyc/Fn) |
 | [Corning](https://internscout.org/internships/at/corning/) | Optical Metrology Engineer Intern | Fairport, NY |  | Sep 24 | [Apply](https://corningjobs.corning.com/job/Fairport-Optical-Metrology-Engineering-Intern-Summer-2027-NY-14450/1433462600/?ats=successfactors) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Optical Engineering Intern Summer 2027 | Tucson, AZ |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7992102003) |
-| Lightmatter | Silicon, Hardware, & Photonics Engineering Intern – Summer 2027 | Boston, MA +1 | Paid | Sep 15 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5425407008?gh_jid=5425407008) |
+| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Silicon, Hardware, & Photonics Engineering Intern – Summer 2027 | Boston, MA +1 | Paid | Sep 15 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5425407008?gh_jid=5425407008) |
 | [Xcimer Energy](https://internscout.org/internships/at/xcimer-energy/) | Summer 2027 Internship - Physics | Denver, CO |  | Sep 11 | [Apply](https://jobs.lever.co/xcimer/27e40b7a-0008-42e6-b43f-200d727f9b49/apply) |
 | [Xcimer Energy](https://internscout.org/internships/at/xcimer-energy/) | Summer 2027 Internship - Optical Engineering | Denver, CO |  | Sep 11 | [Apply](https://jobs.lever.co/xcimer/89ffbeda-ebea-4539-9676-c6441751b95a/apply) |
-| [Nokia](https://internscout.org/internships/at/nokia/) | Optical Test Co-Op | United States +1 |  | Sep 4 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40023) |
+| [Nokia](https://internscout.org/internships/at/nokia/) | Optical Test Co-op | San Jose, CA |  | Sep 4 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40023) |
 | [Tesla](https://internscout.org/internships/at/tesla/) | Physics Engine Development Engineer Intern - Optimus | Palo Alto, CA |  | Sep 2 | [Apply](https://www.tesla.com/careers/search/job/282147) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Silicon Photonics Reliability Engineering Intern (Summer 2027) | USA - New York - Malta +1 |  | Sep 28 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Reliability-Engineering-Intern--Summer-2027-_JR-2604258) |
 | [Alcon](https://internscout.org/internships/at/alcon/) | 2027 Summer Optical & Vision Science Engineering Interns | Fort Worth, Texas +4 |  | Sep 18 | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2027-Summer-Optical---Vision-Science-Engineering-Interns_R-2026-49481) |

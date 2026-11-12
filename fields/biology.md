@@ -1,6 +1,6 @@
 # Biology: Summer 2027 Internships
 
-20 open Summer 2027 biology roles, newest first (all 20). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 728 biology internships on InternScout](https://internscout.org/internships/biology/)
+19 open Summer 2027 biology roles, newest first (all 19). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 718 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -14,7 +14,6 @@
 | [LabCorp](https://internscout.org/internships/at/labcorp/) | Full-Stack Life Sciences Software Engineer Co-op | Durham, NC +1 |  | Nov 2 | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Summer Intern, QC Microbiology | Indianapolis - RayzeBio - IN | \$24.00 - \$45.00 | Oct 30 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Indianapolis---RayzeBio---IN/Summer-Intern--QC-Microbiology_R1608000) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Biologics Development 2027 Summer Internship Program | Devens - MA - US | \$24.00 - \$45.00 | Oct 28 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Devens---MA---US/Biologics-Development-2027-Summer-Internship-Program_R1607941) |
-| [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Global Regulatory Sciences Biopharmaceutical Sector Internship Summer 2027 | Princeton - NJ - US +1 |  | Oct 27 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Global-Regulatory-Sciences-Biopharmaceutical-Sector-Internship-Summer-2027_R1607871) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | R&D GSC Microbiology Resource Center Internship- Brecksville, OH | Brecksville, OH |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627508) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Pharmaceutical Lab Internship (Crystallization) Summer 2027 | El Segundo, California, United States | \$33.00 | Oct 21 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8040897003) |
 | [Cigna Group](https://internscout.org/internships/at/cigna-group/) | Pharmacy Benefits Management - Strategy Intern | St. Louis, MO | Paid | Oct 21 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Pharmacy-Benefits-Management---Strategy-Intern_26009416-1) |

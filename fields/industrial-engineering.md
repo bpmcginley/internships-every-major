@@ -1,10 +1,13 @@
 # Industrial Engineering: Summer 2027 Internships
 
-307 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 307). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 690 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+308 open Summer 2027 industrial engineering roles, newest first (the 200 newest of 308). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 691 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Eaton](https://internscout.org/internships/at/eaton/) | Manufacturing Engineer Internship (Summer 2027) | Calverton, MD |  | Nov 11 | [Apply](https://eaton.eightfold.ai/careers/job/687240115170) |
+| [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Logistics Analyst Internship | Niles, Illinois | Paid | Nov 11 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/39119) |
+| [Motorola](https://internscout.org/internships/at/motorola/) | Supply Chain Internship - Summer 2027 (Hybrid) | Chicago, IL |  | Nov 11 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Internship---Summer-2027--Hybrid-_R69245) |
+| [Medline](https://internscout.org/internships/at/medline/) | Supply Chain Intern - Summer 2027 | Mundelein, Illinois | \$23.25 - \$33.75 Hour | Nov 11 | [Apply](https://medline.wd5.myworkdayjobs.com/Medline/job/Mundelein-Illinois/Supply-Chain-Intern---Summer-2027_R2622714) |
 | Aurora Innovation | Safety & Systems Engineering Intern | Mountain View, CA +3 | \$58.00 per hour | Nov 10 | [Apply](https://jobs.ashbyhq.com/aurora-operations-inc/058e3b3a-dd13-4736-84a8-b19d5de2c9f5/application) |
 | [Northrop Grumman](https://internscout.org/internships/at/northrop-grumman/) | 2027 Operations Manufacturing Engineering Intern | United States-Florida-Saint Augustine | \$18.50 to \$33.50 per hour | Nov 10 | [Apply](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Saint-Augustine/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10260120-1) |
 | [Oshkosh](https://internscout.org/internships/at/oshkosh/) | MRO Supply Chain Intern - Summer 2027 | Hagerstown, Maryland, United States | \$18.00 - \$37.00 | Nov 10 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/MRO-Supply-Chain-Intern---Summer-2027_R49938) |
@@ -190,7 +193,6 @@
 | [Formlabs](https://internscout.org/internships/at/formlabs/) | Manufacturing Engineering Intern (Summer 2027) | Somerville, MA | \$2,900 | Sep 8 | [Apply](https://careers.formlabs.com/job/8186604/apply/?gh_jid=8186604) |
 | [Spirit AeroSystems](https://internscout.org/internships/at/spirit-aerosystems/) | Spirit Defense - Summer 2027 Internship Program (Paid) - Operations Engineering - Manufacturing & Industrial Engineering | Wichita, Kansas | \$20.55/hr | Sep 8 | [Apply](https://careers.spiritaero.com/jobs/17487) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Logistics Intern (Summer 2027) | Westerville, OH |  | Sep 8 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280079) |
-| [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Industrial Engineering Intern - Summer 2027 - Campus Recruiting (Multiple Locations) | Austin, MN +7 |  | Sep 3 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35728) |
 | [V2X](https://internscout.org/internships/at/v2x/) | Systems Engineering Intern, Summer 2027 | Indianapolis, Indiana | Paid | Sep 3 | [Apply](https://careers.gov2x.com/jobs/62780) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Supply Chain | Los Angeles, CA | \$28-\$36 per hour | Sep 2 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5387006008) |
 | [Intel](https://internscout.org/internships/at/intel/) | Platform Hardware and Systems Engineering Intern | Austin, TX +4 |  | Sep 2 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828) |
@@ -202,8 +204,6 @@
 | Lexington Medical | Manufacturing Engineering Intern | Bedford, MA | Paid | Aug 31 | [Apply](https://job-boards.greenhouse.io/lexingtonmedical/jobs/5404584008) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship - Sensor Systems Engineering | Laurel, Maryland | \$22.60 Hour | Aug 31 | [Apply](https://careers.jhuapl.edu/jobs/59874) |
 | [Stryten](https://internscout.org/internships/at/stryten/) | 2027 Summer Intern - Logistics | Alpharetta, Georgia | Paid | Aug 30 | [Apply](https://jobs.stryten.com/jobs/5810) |
-| Northwood Space | Supply Chain Data & Analytics Intern | LA +1 |  | Aug 29 | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application?embed=true) |
-| [Shield AI](https://internscout.org/internships/at/shield-ai/) | Summer 2027 - Advanced Manufacturing Engineering Intern | Dallas, Texas +1 | Paid | Aug 27 | [Apply](https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a/apply) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

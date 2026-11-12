@@ -1,6 +1,6 @@
 # Lab Research: Summer 2027 Internships
 
-35 open Summer 2027 lab research roles, newest first (all 35). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 127 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
+34 open Summer 2027 lab research roles, newest first (all 34). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 126 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -37,7 +37,6 @@
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Innovation Lab Intern | Delaware, OH |  | Sep 11 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280126) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | R&D Chemistry Laboratory Intern (Austin MN) - Summer 2027 - Campus Recruiting | Austin, MN |  | Sep 8 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35724) |
 | [Ginkgo Bioworks](https://internscout.org/internships/at/ginkgo-bioworks/) | Software Intern, Autonomous Lab | Emeryville, CA |  | Apr 1 | [Apply](https://go.vansh.nyc/Qz) |
-| TPG Careers Page | Y Analytics, Responsible Investing, Summer Research Assistant, Internship | Little Rock, AR | \$22.5/hour | Nov 10 | [Apply](https://www.jobleads.com/us/job/y-analytics-responsible-investing-summer-research-assistant-internship--little-rock--e5d9ee5d23b62d2c65e99fe0ea0827aa4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Momentive](https://internscout.org/internships/at/momentive/) | Summer 2027 Intern - Construction Application Development Lab | Waterford, NY | \$22.00 - \$26.00 | Sep 18 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/Summer-2027-Intern---Construction-Application-Development-Lab_R9806) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

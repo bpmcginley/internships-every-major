@@ -1,12 +1,15 @@
 # Sales: Summer 2027 Internships
 
-301 open Summer 2027 sales roles, newest first (the 200 newest of 301). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 547 sales internships on InternScout](https://internscout.org/internships/sales/)
+299 open Summer 2027 sales roles, newest first (the 200 newest of 299). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 545 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Humana](https://internscout.org/internships/at/humana/) | Group Benefit Sales & Account Management Internship - Summer 2027 | Louisville, KY | \$37,440 - \$96,800 per year | Nov 11 | [Apply](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Group-Benefit-Sales---Account-Management-Internship---Summer-2027_R-432598) |
+| [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 – Investment Management Sales Desk (Tempe, AZ) | Tempe, Arizona | \$39,000.00 | Nov 11 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Tempe-Arizona/Summer-Intern-2027---Investment-Management-Sales-Desk--Tempe--AZ-_JR26081868) |
 | [exacare ai](https://internscout.org/internships/at/exacare-ai/) | Business Development Representative Intern (Summer 2027) | Toronto, Canada |  | Nov 11 | [Apply](https://ats.rippling.com/exacare-inc/jobs/57582910-0434-40d2-91dc-1764f0573379) |
 | [exacare ai](https://internscout.org/internships/at/exacare-ai/) | Sales Strategy and Operations Intern (Summer 2027) | Toronto, Canada |  | Nov 11 | [Apply](https://ats.rippling.com/exacare-inc/jobs/f67a7421-8d3e-4c58-aa82-bc1a864f4c55) |
 | Johnson Controls | Best Sales Intern - Fire Systems | Rocky Hill-Connecticut-United States of America | \$20-23.50/hour | Nov 11 | [Apply](https://jci.wd5.myworkdayjobs.com/JCI/job/Rocky-Hill-Connecticut-United-States-of-America/Best-Sales-Intern---Fire-Systems_WD30285034) |
+| [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management and Sales Summer Internship (Twin Cities) | Burnsville, MN +12 |  | Nov 11 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620824) |
 | [Uline](https://internscout.org/internships/at/uline/) | Outside Sales Internship - Summer 2027 | Houston, TX | Paid | Nov 10 | [Apply](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Houston-TX/Outside-Sales-Internship---Summer-2027_R268404) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 – Investment Management Sales Desk (Boston, MA) | Boston, Massachusetts | \$39,000.00 | Nov 10 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Boston-Massachusetts/Summer-Intern-2027---Investment-Management-Sales-Desk--Boston--MA-_JR26081869) |
 | [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Sales Subsidiary Intern - Summer 2027 | Chicago, IL | \$23.00 per hour | Nov 10 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/254263) |
@@ -114,7 +117,6 @@
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | Management and Sales Summer Internship 2027 (Columbus) | Columbus, OH +25 |  | Oct 6 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620632) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management and Sales Summer Internship (Detroit) | Detroit, MI +24 |  | Oct 5 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621842) |
 | [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | Retail Sales Strategy & Insights Intern - Summer 2027 | Columbus, Ohio |  | Oct 2 | [Apply](https://careers.marzetticompany.com/jobs/8124) |
-| [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management and Sales Summer Internship (Twin Cities) | Burnsville, MN +12 |  | Oct 2 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620824) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management & Sales Summer Intern - West Texas | Lubbock, TX |  | Oct 2 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625141) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Sales Intern IS \| Summer 2027 | Norwell, MA |  | Oct 1 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166808) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | Management and Sales Summer Internship 2027 (Seattle) | Seattle, WA +8 |  | Oct 1 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2619310) |
@@ -202,8 +204,6 @@
 | [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Northeast - Sales Internship NY-NJ-CT (Comparion) - Summer 2027 | Glastonbury, CT +10 |  | Nov 11, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/262369/northeast---sales-internship-ny-nj-ct-%28comparion%29---summer-2027/job) |
 | [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Southeast - Sales Internship GA/TN/KY (Comparion) - Summer 2027 | Kennesaw, GA +6 |  | Nov 11, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261750/southeast---sales-internship-ga-tn-ky-%28comparion%29---summer-2027/job) |
 | [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | PacWest - Sales Internship (Comparion) - Summer 2027 | Chandler, AZ +8 |  | Nov 11, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261753/pacwest---sales-internship-%28comparion%29---summer-2027/job) |
-| [Shure](https://internscout.org/internships/at/shure/) | Global Sales Enablement Intern | Niles, IL | \$23-\$43 per hour | Nov 11, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5009/global-sales-enablement-intern/job) |
-| Southern Glazer's Wine & Spirits | 2027 Summer Internship \| Sales - Salt Lake City, UT \| Southern Glazer's Wine & Spirits \| Handshake | Sandy, UT |  | Nov 11 | [Apply](https://app.joinhandshake.com/public/jobs/11426369?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

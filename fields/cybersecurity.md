@@ -1,6 +1,6 @@
 # Cybersecurity: Summer 2027 Internships
 
-216 open Summer 2027 cybersecurity roles, newest first (the 200 newest of 216). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 363 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+215 open Summer 2027 cybersecurity roles, newest first (the 200 newest of 215). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 361 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -159,7 +159,6 @@
 | [SimVentions](https://internscout.org/internships/at/simventions/) | 2027 Cybersecurity Intern | Fredericksburg, VA | Paid | Sep 15 | [Apply](https://careers-simventions.icims.com/jobs/1630/2027-cybersecurity-intern/job) |
 | [SimVentions](https://internscout.org/internships/at/simventions/) | 2027 Cybersecurity Intern | Fredericksburg, Virginia | Paid | Sep 15 | [Apply](https://simventions.jibeapply.com/jobs/1630) |
 | [Intuit](https://internscout.org/internships/at/intuit/) | Software Engineer Intern - Cybersecurity | Mountain View, CA |  | Sep 14 | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616) |
-| [Brain Co.](https://internscout.org/internships/at/brain-co/) | Security Engineer Intern (Summer 2027) | San Francisco Bay Area, NY +2 | \$8,000-10,000 per month | Sep 12 | [Apply](https://jobs.ashbyhq.com/brainco/b697421a-4a50-4028-9832-6798132e327a/application) |
 | [Brain Co.](https://internscout.org/internships/at/brain-co/) | AI Security Engineer Intern | San Francisco, CA |  | Sep 12 | [Apply](https://go.vansh.nyc/10S) |
 | [Microsoft](https://internscout.org/internships/at/microsoft/) | Security Assurance Intern | Redmond, WA |  | Sep 11 | [Apply](https://go.vansh.nyc/15H) |
 | [Oshkosh](https://internscout.org/internships/at/oshkosh/) | Cyber Security Intern | Oshkosh, WI |  | Sep 11 | [Apply](https://go.vansh.nyc/Nc) |
@@ -204,6 +203,7 @@
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Intern-Cybersecurity and Information Security | Chicago, IL | \$20 to \$33, | Oct 1 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Cybersecurity-and-Information-Security_R-0000033612-1) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Security Verification/Validation Engineer Intern, BS - Summer 2027 | Chandler, AZ | Paid | Sep 23 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1) |
 | [LPL Financial Holdings](https://internscout.org/internships/at/lpl-financial-holdings/) | Intern 2027 - Cybersecurity Analyst | Austin, TX +2 | \$25.00-\$30.00 per hour | Sep 18 | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Cybersecurity_R-052919) |
+| [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | UPS Information Security Summer 2027 Internship - KY | US - AIR GROUP BUILDING (KYARP) +1 | Paid | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---AIR-GROUP-BUILDING-KYARP/UPS-Information-Security-Summer-2027-Internship---KY_R26029765) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

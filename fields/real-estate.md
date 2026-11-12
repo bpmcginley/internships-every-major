@@ -1,6 +1,6 @@
 # Real Estate: Summer 2027 Internships
 
-24 open Summer 2027 real estate roles, newest first (all 24). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 51 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
+22 open Summer 2027 real estate roles, newest first (all 22). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 49 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -19,8 +19,6 @@
 | [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Real Estate | Birmingham, MI | \$25.00 per hour | Nov 2 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Birmingham-MI/XMLNAME-2027-Summer-Intern---Commercial-Real-Estate_2620106-1) |
 | [KeyBank](https://internscout.org/internships/at/keybank/) | 2027 Summer Real Estate Capital Internship - Denver CDLI | Denver, CO | \$27 per hour | Nov 2 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Denver-CO/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Denver-CDLI_R-42000) |
 | [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program - Global Workplace & Enterprise Services Global Real Estate (GRES) Co-op | USA - New Jersey - Rahway +1 | \$39,908 - \$111,111 | Oct 28 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Workplace---Enterprise-Services-Global-Real-Estate--GRES--Co-op_R415296) |
-| [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Summer 2027 Property Management Internships (Commercial and Residential Property Management) | Detroit, MI | \$18.00 per hour | Oct 22 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Summer-2027-Property-Management-Internships--Commercial-and-Residential-Property-Management-_R-085041) |
-| [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Summer 2027 Real Estate Financial Analysis (Investment and Asset Management) | Detroit, MI | \$18.00 per hour | Oct 22 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Summer-2027-Real-Estate-Financial-Analysis--Investment-and-Asset-Management-_R-085044) |
 | Realty Income | Commercial Real Estate Intern - Multiple Opportunities | San Diego, California | \$21.00 – \$25.00 | Oct 12 | [Apply](https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Commercial-Real-Estate-Intern---Multiple-Opportunities_R-100330) |
 | [Scout Clean Energy](https://internscout.org/internships/at/scout-clean-energy/) | Real Estate Systems Intern - Summer 2027 | Boulder, Colorado | \$25-30/hour | Oct 12 | [Apply](https://apply.workable.com/j/EC27E34D20/apply) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Real Estate & Builds Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175507?gh_jid=8175507) |

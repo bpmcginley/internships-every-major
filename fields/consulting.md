@@ -1,10 +1,11 @@
 # Consulting: Summer 2027 Internships
 
-125 open Summer 2027 consulting roles, newest first (all 125). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 235 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+125 open Summer 2027 consulting roles, newest first (all 125). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 234 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | Daimler Truck | Governance, Risk, and Compliance (GRC) Analyst Intern, Cybersecurity | Detroit, MI |  | Nov 11 | [Apply](https://go.vansh.nyc/1uo) |
+| FTI Consulting | 2027 Intern - Forensic & Litigation Consulting | United States | Paid | Nov 11 | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareersPrivate/job/United-States/XMLNAME-2027-Intern---Forensic---Litigation-Consulting_JR260337-1) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: Business Analyst Intern RC&S | Northbrook, IL +1 | \$25.50 | Nov 11 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11495) |
 | [exacare ai](https://internscout.org/internships/at/exacare-ai/) | Solutions Consultant Intern (Summer 2027) | Toronto, Canada |  | Nov 11 | [Apply](https://ats.rippling.com/exacare-inc/jobs/4bb0eb09-e113-4e33-9179-57bf18029d9b) |
 | [Vizient](https://internscout.org/internships/at/vizient/) | 2027 Summer Internship - Consulting Intern, Spend Insights & Services | Irving, TX 75062 Vizient Corporate HQ | \$25 per hour | Nov 11 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Consulting-Intern--Spend-Insights---Services_36154R-1) |
@@ -25,7 +26,6 @@
 | [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Intern, Abandoned and Unclaimed Property Consulting | Boston MA |  | Nov 5 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Boston/Summer-2027-Intern--Abandoned-and-Unclaimed-Property-Consulting_R0020718) |
 | [Allison Transmission](https://internscout.org/internships/at/allison-transmission/) | Business Analyst Intern - Summer 2027 | Indianapolis, IN |  | Nov 3 | [Apply](https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Business-Analyst-Intern---Summer-2027_R008356) |
 | [State Street](https://internscout.org/internships/at/state-street/) | State Street Investment Management - Index Strategy Analyst - 2027 Summer Internship | BOSTON | \$41,600 - \$65,000 | Nov 3 | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/BOSTON/State-Street-Investment-Management---Index-Strategy-Analyst---2027-Summer-Internship_R-800658) |
-| [Northwestern Mutual](https://internscout.org/internships/at/northwestern-mutual/) | Investment Strategy Analyst Intern, Summer 2027 | Milwaukee, WI Corporate | \$16.50 | Nov 2 | [Apply](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Strategy-Analyst-Intern--Summer-2027_JR-46324) |
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | Product Owner Intern, AI Consulting Associate Program (AI CAP) | Chicago, IL |  | Oct 31 | [Apply](https://go.vansh.nyc/12P) |
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | Engineering Intern, AI Consulting Associate Program (AI CAP) | Chicago, IL |  | Oct 31 | [Apply](https://go.vansh.nyc/12O) |
 | [Hunt Oil Company](https://internscout.org/internships/at/hunt-oil-company/) | IT Business Analyst Intern - Summer 2027 | Dallas, TX |  | Oct 30 | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1100) |

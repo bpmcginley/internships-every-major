@@ -1,10 +1,12 @@
 # Operations: Summer 2027 Internships
 
-403 open Summer 2027 operations roles, newest first (the 200 newest of 403). **Updated November 11, 2026.** [Back to every major](../README.md) · [See all 978 operations internships on InternScout](https://internscout.org/internships/operations/)
+405 open Summer 2027 operations roles, newest first (the 200 newest of 405). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 985 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Bloom Energy | Commercial Operations Intern | San Jose, California | \$31.25 - \$34.25 | Nov 11 | [Apply](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Commercial-Operations-Intern_JR-25354) |
+| [Jabil](https://internscout.org/internships/at/jabil/) | Legal Operations Summer Intern | St. Petersburg/Tampa, FL |  | Nov 11 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Legal-Operations-Summer-Intern_J2471828) |
+| [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Field Operations Internship | Niles, Illinois | Paid | Nov 11 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/39120) |
+| [Bloom Energy](https://internscout.org/internships/at/bloom-energy/) | Commercial Operations Intern | San Jose, California | \$31.25 - \$34.25 | Nov 11 | [Apply](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Commercial-Operations-Intern_JR-25354) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Grad Intern - Operations – Process Development (Summer 2027) | US - California - Thousand Oaks | \$35.34 - \$41.20 per hour | Nov 11 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Process-Development--Summer-2027-_R-254519) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Operations Engineering Intern (Summer 2027) | Farmington, NM | Paid | Nov 11 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NM-FARMINGTON-426S--10059-Hwy-371-S--SOUTH-BLDG/Operations-Engineering-Intern--Summer-2027-_01878570) |
 | [Clarios](https://internscout.org/internships/at/clarios/) | Quality Intern - Toledo, OH (Summer 2027) | United States, Ohio, Holland |  | Nov 11 | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Ohio-Holland/Quality-Intern---Toledo--OH--Summer-2027-_WD51208) |
@@ -30,6 +32,7 @@
 | [Vizient](https://internscout.org/internships/at/vizient/) | 2027 Summer Internship – Corporate Procurement | Irving, TX 75062 Vizient Corporate HQ | \$25 per hour | Nov 9 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Corporate-Procurement_36214R) |
 | [Santander](https://internscout.org/internships/at/santander/) | 2027 Central Risk Operations Summer Intern | Dallas | Paid | Nov 9 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Dallas/XMLNAME-2027-Central-Risk-Operations-Summer-Intern_Req1633035) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Data Operations Intern | LA |  | Nov 7 | [Apply](https://lifeattiktok.com/search/7704912455690504453) |
+| [Zoox](https://internscout.org/internships/at/zoox/) | Process Improvement Intern \[ Summer 2027\] | Foster City, CA |  | Nov 7 | [Apply](https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852/apply) |
 | [Ingredion](https://internscout.org/internships/at/ingredion/) | Global Operations Finance Intern | Westchester, IL |  | Nov 7 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Operations-Finance-Intern_Req-40191-1) |
 | NORY | Program Development & Operations Intern (Boston) | Boston +1 | \$20 per hour | Nov 6 | [Apply](https://jobs.ashbyhq.com/nory-co/4bc21310-9787-4690-9ed8-ff7a5844b818/application) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Operations Internships - Mount Rushmore National Memorial | KEYSTONE, South Dakota | \$15.00 per hour | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40160) |
@@ -201,9 +204,6 @@
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Government Operations Intern Summer 2027 | Littleton, CO | \$22.00 | Oct 2 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8001401003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Government Operations Intern Summer 2027 | Washington, DC | \$22.00 | Oct 2 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7992754003) |
 | [Scout Clean Energy](https://internscout.org/internships/at/scout-clean-energy/) | Operations Engineering Intern - Summer 2027 | Boulder, Colorado +1 | \$25-30/hour | Oct 2 | [Apply](https://apply.workable.com/j/7BF0CEDF9F/apply) |
-| [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Mission Operations Internship - Summer 2027 | El Segundo, California, United States +1 | \$37.00 | Oct 1 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010682003) |
-| [Garmin](https://internscout.org/internships/at/garmin/) | Project Manager Intern - Global Partnerships & Engineering Business Development | Olathe, Kansas |  | Oct 1 | [Apply](https://careers.garmin.com/jobs/20134) |
-| [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Procurement Intern Summer 2027 | Pittsburgh, PA |  | Oct 1 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119768) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
