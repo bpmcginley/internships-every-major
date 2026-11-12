@@ -1,6 +1,6 @@
 # Software Engineering: Summer 2027 Internships
 
-1,868 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,868). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 3,448 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,867 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,867). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 3,445 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -183,10 +183,9 @@
 | [Tinder](https://internscout.org/internships/at/tinder/) | Android Engineer Intern | Los Angeles, California +1 |  | Nov 6 | [Apply](https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d/apply) |
 | [Tinder](https://internscout.org/internships/at/tinder/) | iOS Engineer Intern | Los Angeles, California +3 |  | Nov 6 | [Apply](https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef/apply) |
 | [MITRE](https://internscout.org/internships/at/mitre/) | Computer Science or Software Engineering Intern | McLean, VA |  | Nov 6 | [Apply](https://go.vansh.nyc/1lX) |
-| [T-Mobile](https://internscout.org/internships/at/t-mobile/) | Software Engineer Intern | Bellevue, WA |  | Nov 6 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380768) |
 | [L.L.Bean](https://internscout.org/internships/at/l-l-bean/) | Software Developer Intern | Freeport, ME |  | Nov 6 | [Apply](https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Software-Developer-Intern--Summer-2027-_JR11274-1) |
-| [T-Mobile](https://internscout.org/internships/at/t-mobile/) | Software Engineer Intern - HR Data Products | Bellevue, WA |  | Nov 6 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380916) |
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Infrastructure Development & Automation Intern | Atlanta, GA |  | Nov 6 | [Apply](https://go.vansh.nyc/1lE) |
+| [T-Mobile](https://internscout.org/internships/at/t-mobile/) | Software Engineer Intern | Bellevue, WA |  | Nov 6 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380917) |
 | [T-Mobile](https://internscout.org/internships/at/t-mobile/) | Software Engineer HR Data Products Intern | Bellevue, WA |  | Nov 6 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380766) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Process Technology Intern Industrial Services \| Summer 2027 | Crossville, IL | \$20/hour | Nov 6 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167974) |
 | [Motorola](https://internscout.org/internships/at/motorola/) | Software Presales Enablement Intern - Summer Internship 2027 | Illinois Remote Work +4 |  | Nov 6 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Software-Presales-Enablement-Intern---Summer-Internship-2027_R70228) |
@@ -204,6 +203,7 @@
 | [Baker Hughes](https://internscout.org/internships/at/baker-hughes/) | Engineering & Technology - Summer 2027 Opportunities | Minden-1631 Bently Parkway South, NV |  | Nov 6 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Engineering---Technology---Summer-2027-Opportunities_R169853) |
 | [Baker Hughes](https://internscout.org/internships/at/baker-hughes/) | Engineering & Technology - Summer 2027 Opportunities | Claremore-200 W Stuart Roosa Dr, OK |  | Nov 6 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-OK-CLAREMORE-200-W-STUART-ROOSA-DR/Intern-Co-op---Engineering---Technology---Summer-2027-Opportunities_R168918) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern – Software Engineer, AV/AI Platform | Warren, Michigan, United States of America +2 | \$8,100 – \$10,300 per month | Nov 6 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696) |
+| [Baker Hughes](https://internscout.org/internships/at/baker-hughes/) | Engineering & Technology Intern- Summer 2027 Opportunities | Claremore-200 W Stuart Roosa Dr, OK | Paid | Nov 6 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-OK-CLAREMORE-200-W-STUART-ROOSA-DR/Intern---Engineering---Technology---Summer-2027-Opportunities_R168900) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

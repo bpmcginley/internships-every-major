@@ -1,6 +1,6 @@
 # Engineering: Summer 2027 Internships
 
-678 open Summer 2027 engineering roles, newest first (the 200 newest of 678). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 1,720 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+677 open Summer 2027 engineering roles, newest first (the 200 newest of 677). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 1,717 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -130,7 +130,6 @@
 | Mitsubishi Heavy Industries America | Engineering Intern - Summer 2027 | Pooler, GA |  | Oct 28 | [Apply](https://mhicareers.com/job/Pooler-Engineering-Intern-Summer-2027-GA-31322/1452261433/) |
 | [Federal Home Loan Bank of Indianapolis](https://internscout.org/internships/at/federal-home-loan-bank-of-indianapolis/) | Network Engineer Intern | Indianapolis, IN | Paid | Oct 28 | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Network-Engineer-Intern_R630) |
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Network Engineer Intern (Summer 2027) | Hagerstown, MD | \$21.40 - \$29.43 | Oct 28 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Network-Engineer-Intern--Summer-2027-_R0031232) |
-| [Federal Home Loan Bank of Indianapolis](https://internscout.org/internships/at/federal-home-loan-bank-of-indianapolis/) | Automation Quality Engineer Intern | Indianapolis, IN | Paid | Oct 28 | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Automation-Quality-Engineer-Intern_R633) |
 | [Carpenter Technology](https://internscout.org/internships/at/carpenter-technology/) | R&D Materials Characterization Intern | Reading, PA | \$21.00-\$25.00 per hour | Oct 28 | [Apply](https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/R-D-Materials-Characterization-Intern_26966) |
 | [Intel](https://internscout.org/internships/at/intel/) | Process Integration Development Engineer PhD Intern 2027 | Hillsboro, OR | \$120,898.00-120,902.00 | Oct 28 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-2027_JR0288661) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Heat Pump Product Engineering Intern, Summer 2027 | Fort Worth, TX | \$22–\$26 hour | Oct 28 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Heat-Pump-Product-Support-Summer-Intern-2027_10017704) |
@@ -204,6 +203,7 @@
 | [Hitachi](https://internscout.org/internships/at/hitachi/) | Test Engineering Intern | Norman, OK |  | Oct 22 | [Apply](https://go.vansh.nyc/ex) |
 | [L3Harris Technologies](https://internscout.org/internships/at/l3harris-technologies/) | Image Processing Engineer Intern | Tulsa, OK |  | Oct 22 | [Apply](https://go.vansh.nyc/er) |
 | [Peak Energy](https://internscout.org/internships/at/peak-energy/) | Test Engineer Intern, ESS (Summer 2027) | Burlingame, California | \$35/hour | Oct 22 | [Apply](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272578007&gh_jid=5272578007) |
+| [Peak Energy](https://internscout.org/internships/at/peak-energy/) | Systems Integration and Test Engineer Intern (Summer 2027) | Burlingame, California +1 | \$35/hr | Oct 22 | [Apply](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272567007&gh_jid=5272567007) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

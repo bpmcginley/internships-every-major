@@ -1,6 +1,6 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-653 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 653). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 1,162 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+653 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 653). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 1,161 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -92,9 +92,9 @@
 | Moody's | Applied AI & Analytics Intern | Newark, NJ |  | Nov 6 | [Apply](https://go.vansh.nyc/1mn) |
 | Raft Company Website | Data Engineering Intern | McLean, VA |  | Nov 6 | [Apply](https://go.vansh.nyc/1jU) |
 | [MITRE](https://internscout.org/internships/at/mitre/) | Data Science Intern | McLean, VA |  | Nov 6 | [Apply](https://go.vansh.nyc/1lR) |
-| [Invesco](https://internscout.org/internships/at/invesco/) | Data Science Intern - Real Estate | Dallas, TX |  | Nov 6 | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091) |
+| [Invesco](https://internscout.org/internships/at/invesco/) | Early Career Intern - Real Estate (Data Science) | Dallas, Texas +1 |  | Nov 6 | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091) |
 | [Samsung](https://internscout.org/internships/at/samsung/) | Business Intelligence & Data Analytics Intern | Plano, TX |  | Nov 6 | [Apply](https://go.vansh.nyc/1lG) |
-| [T-Mobile](https://internscout.org/internships/at/t-mobile/) | Software Engineer Intern - HR Data Products | Bellevue, WA |  | Nov 6 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380916) |
+| [Invesco](https://internscout.org/internships/at/invesco/) | Data Science Intern - Real Estate | Dallas, TX |  | Nov 6 | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1) |
 | [L.L.Bean](https://internscout.org/internships/at/l-l-bean/) | Business Analyst/Data Analyst Intern | Freeport, ME |  | Nov 6 | [Apply](https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Business--Data-Analyst-Intern--Summer-2027-_JR11275) |
 | [T-Mobile](https://internscout.org/internships/at/t-mobile/) | Software Engineer HR Data Products Intern | Bellevue, WA |  | Nov 6 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380766) |
 | [PETRONAS Canada](https://internscout.org/internships/at/petronas-canada/) | Summer Student, Master Data Management (Finance) | Calgary |  | Nov 6 | [Apply](https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Master-Data-Management--Finance-_R0001869) |

@@ -1,6 +1,6 @@
 # Business: Summer 2027 Internships
 
-81 open Summer 2027 business roles, newest first (all 81). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 147 business internships on InternScout](https://internscout.org/internships/business/)
+81 open Summer 2027 business roles, newest first (all 81). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 146 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - MBA (Pomona/Rosemead) | Rosemead, CA |  | Oct 22 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-MBA-%28PomonaRosemead%29-CA-91770-3714/1423266700/) |
 | Teamworks | Strategy MBA Intern | United States +2 |  | Oct 19 | [Apply](https://jobs.ashbyhq.com/teamworks/ba8123e8-22f2-4898-a316-f479c5ac015b/application) |
 | Regeneron Pharmaceuticals | Summer 2027 MBA Interns \| Business Leadership Development Program (BuiLD) | TARRYTOWN +1 | \$70.40/hr | Oct 19 | [Apply](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/Summer-2027-MBA-Interns---Business-Leadership-Development-Program--BuiLD-_R49784-1) |
-| Cambridge Associates | 2027 MBA Internship Program | Boston | \$150,000 | Oct 16 | [Apply](https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Boston/XMLNAME-2027-MBA-Internship-Program_JR0000442) |
+| Cambridge Associates | 2027 MBA Internship Program | Boston | \$150,000 | Oct 16 | [Apply](https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/Boston/XMLNAME-2027-MBA-Internship-Program_JR0000442-1) |
 | Duke Energy | MBA Internship Summer 2027 | Charlotte, NC +1 |  | Oct 16 | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/MBA-Internship-Summer-2027_R42047) |
 | [Medtronic](https://internscout.org/internships/at/medtronic/) | Summer 2027 Corporate Development Intern (MBA) | Minneapolis, Minnesota, United States of America | \$115,000.00 - \$115,000.00 | Oct 15 | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Corporate-Development-Intern--MBA-_R79679) |
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-op - Commercial Marine Operator (Summer 2027) | San Antonio, Texas | \$25.60 per hour | Oct 14 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/San-Antonio-Texas/Intern-Co-op---Commercial-Marine-Operator--Summer-2027-_00024663) |

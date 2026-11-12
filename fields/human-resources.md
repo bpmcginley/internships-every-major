@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-111 open Summer 2027 human resources roles, newest first (all 111). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 253 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+110 open Summer 2027 human resources roles, newest first (all 110). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 252 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,7 +11,6 @@
 | [American Electric Power](https://internscout.org/internships/at/american-electric-power/) | HR/Talent Acquisition - Campus Intern | Columbus, OH | \$22.00/HR | Nov 10 | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/HR-Talent-Acquisition---Campus-Intern_R19835) |
 | [Vizient](https://internscout.org/internships/at/vizient/) | 2027 Summer Internship - HR Strategy and Program Management | Chicago, IL 60607 | \$25 per hour | Nov 9 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---HR-Strategy-and-Program-Management_35991R) |
 | AriensCo | Intern, Human Resources | WI - Brillion |  | Nov 9 | [Apply](https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Intern--Human-Resources_R-04286) |
-| [T-Mobile](https://internscout.org/internships/at/t-mobile/) | Software Engineer Intern - HR Data Products | Bellevue, WA |  | Nov 6 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380916) |
 | [T-Mobile](https://internscout.org/internships/at/t-mobile/) | Software Engineer HR Data Products Intern | Bellevue, WA |  | Nov 6 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380766) |
 | [Republic Airways](https://internscout.org/internships/at/republic-airways/) | Talent Acquisition Intern - Summer 2027 | Carmel Headquarters, IN | Paid | Nov 5 | [Apply](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Talent-Acquisition-Intern---Summer-2027_JR-007625) |
 | [Hy-Vee](https://internscout.org/internships/at/hy-vee/) | Retail Human Resources Intern - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA +29 |  | Nov 5 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Retail-Human-Resources-Intern---Summer-2027_R252490) |

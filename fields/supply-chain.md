@@ -1,6 +1,6 @@
 # Supply Chain: Summer 2027 Internships
 
-215 open Summer 2027 supply chain roles, newest first (the 200 newest of 215). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 455 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
+215 open Summer 2027 supply chain roles, newest first (the 200 newest of 215). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 454 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

@@ -1,6 +1,6 @@
 # Law and Legal: Summer 2027 Internships
 
-130 open Summer 2027 law and legal roles, newest first (all 130). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 253 law and legal internships on InternScout](https://internscout.org/internships/law/)
+129 open Summer 2027 law and legal roles, newest first (all 129). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 253 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -47,7 +47,6 @@
 | Fervo Energy | Legal Intern | Houston, TX |  | Oct 27 | [Apply](https://job-boards.greenhouse.io/fervoenergy/jobs/4464038009) |
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Financial Crime Compliance | Phoenix, AZ | Paid | Oct 27 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Financial-Crime-Compliance_R13732-1) |
 | [westernalliancebank](https://internscout.org/internships/at/westernalliancebank/) | Summer 2027 Internship - Phoenix, AZ - Financial Crime Compliance | Phoenix, AZ | Paid | Oct 27 | [Apply](https://westernalliancebank.wd5.myworkdayjobs.com/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Financial-Crime-Compliance_R13732-1) |
-| [Federal Home Loan Bank of Indianapolis](https://internscout.org/internships/at/federal-home-loan-bank-of-indianapolis/) | Legal Intern | Indianapolis, IN | Paid | Oct 26 | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Legal-Intern_R632) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 In-House Legal Graduate Intern | Pittsburgh PA, 15222, FAP, 5th Avenue Place |  | Oct 26 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-In-House-Legal-Graduate-Intern_J288314) |
 | [CareBridge](https://internscout.org/internships/at/carebridge/) | Public Policy Intern - Summer 2027 | DC-WASHINGTON, 1001 PENNSYLVANIA AVE NW, STE 710 | \$19.78 to \$28.26 | Oct 26 | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/DC-WASHINGTON-1001-PENNSYLVANIA-AVE-NW-STE-710/Public-Policy-Intern---Summer-2027_JR202078) |
 | [The Travelers Companies](https://internscout.org/internships/at/the-travelers-companies/) | Legal Intern | MO - St. Louis | \$36.00 - \$37.00 | Oct 26 | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/MO---St-Louis/Legal-Intern_R-52966-1) |
