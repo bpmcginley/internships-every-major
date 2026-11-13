@@ -1,6 +1,6 @@
 # Communications: Summer 2027 Internships
 
-63 open Summer 2027 communications roles, newest first (all 63). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 182 communications internships on InternScout](https://internscout.org/internships/communications/)
+62 open Summer 2027 communications roles, newest first (all 62). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 183 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -30,7 +30,6 @@
 | [FHLBD Federal Home Loan Bank of Dallas](https://internscout.org/internships/at/fhlbd-federal-home-loan-bank-of-dallas/) | 2027 Summer Corporate & Marketing Communications Intern | Irving, TX |  | Oct 26 | [Apply](https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Corporate---Marketing-Communications-Intern_REQ-452) |
 | [The Hartford](https://internscout.org/internships/at/the-hartford/) | 2027 Summer Intern - Marketing Communications | Wayne, PA | \$20.00 - \$25.00 | Oct 26 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Wayne-PA/XMLNAME-2027-Summer-Intern---Marketing-Communications_R2627542) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Marketing and Communications | Philadelphia, PA | \$18.00 - \$21.00 Per Hour | Oct 26 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Philadelphia-PA/XMLNAME-2027-Summer-Internship---Corporate-Communications_R-104149-2) |
-| [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | Communications Intern - Summer 2027 | Atlanta, GA, USA |  | Oct 23 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Communications-Intern---Summer-2027_R26_0000035646) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Information Communications Technology (ICT ) Intern - Buildings (Summer 2027) | Lynnwood, WA |  | Oct 22 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008438) |
 | [Corning](https://internscout.org/internships/at/corning/) | Communications Design Intern - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Oct 22 | [Apply](https://corningjobs.corning.com/job/Corning-Communications-Design-Intern-Summer-2027-NY-14831/1442859500/) |
 | STR | Graphic Design & Technical Communications Intern - Summer 2027 | Woburn, MA | \$25.20-\$54.00/hour | Oct 20 | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723386006) |

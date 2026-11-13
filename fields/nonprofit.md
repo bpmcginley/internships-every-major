@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Southern Poverty Law Center | Intern, Design (Summer 2027) | Atlanta, GA +5 | \$18.40 per hour | Nov 13 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8943360002) |
 | [Arch Capital Group](https://internscout.org/internships/at/arch-capital-group/) | Community Impact Summer Intern | White Plains, NY United States of America | Paid | Nov 12 | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/White-Plains-NY-United-States-of-America/Community-Impact-Summer-Intern_R26_803) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Adaptation Advocacy Intern | Washington, DC | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6047/summer-2027-adaptation-advocacy-intern/job) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Food Waste Reduction Intern | San Francisco, CA +2 | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6054/summer-2027-food-waste-reduction-intern/job) |
@@ -24,7 +25,6 @@
 | [EQT Corporation](https://internscout.org/internships/at/eqt-corporation/) | Community Relations Intern | Canonsburg, PA |  | Oct 9 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5448044008) |
 | Auburn University | Advancement Internship - Fundraising | Auburn, AL | \$14.00/hour | Oct 2 | [Apply](https://jobs.auburn.edu/jobs/10540) |
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Undergraduate Intern, National Security Project | New York, NY |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8842752002) |
-| [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Undergraduate Intern, National Prison Project | Remote/Hybrid-Washington D.C. |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8846060002) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Philanthropy Intern (Multiple Locations) | Baltimore, Maryland |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138724) |
 | [AARP](https://internscout.org/internships/at/aarp/) | Foundation Litigation Intern (Summer 2027) | Washington, DC | Paid | Jul 30 | [Apply](https://careers.aarp.org/jobs/7733) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Community Engagement and Planning Intern – Summer 2027 | Boston, MA |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Boston-MA/Community-Engagement-and-Planning-Intern---Summer-2027_R-31583) |

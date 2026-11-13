@@ -1,9 +1,11 @@
 # Consulting: Summer 2027 Internships
 
-123 open Summer 2027 consulting roles, newest first (all 123). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 229 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+123 open Summer 2027 consulting roles, newest first (all 123). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 227 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [HUB](https://internscout.org/internships/at/hub/) | HUB International Internship Program Summer 2027, Investment Consulting | Toronto, ON | \$20.00 to \$25.00 per hour | Nov 13 | [Apply](https://hubinternational.wd1.myworkdayjobs.com/HUBInternational/job/Toronto-ON/HUB-International-Internship-Program-Summer-2027--Investment-Consulting_R0039534) |
+| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Tax Consulting Intern - Canada | Mississauga +4 | \$24.52 - \$26.44 | Nov 13 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Mississauga/Summer-2027-Tax-Consulting-Intern---Canada_R0020613-1) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Summer 2027: ESG Strategy Intern (May to August) | Needham, MA, United States |  | Nov 12 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727543006) |
 | [CareSource](https://internscout.org/internships/at/caresource/) | 2027 Summer Internship Program - Clinical Operations Business Analyst | Remote +1 | \$41,200.00 - \$66,000.00 | Nov 12 | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Clinical-Operations-Business-Analyst_R14353) |
 | [Capital One](https://internscout.org/internships/at/capital-one/) | Intern, Strategy Analyst - Summer 2027 | Toronto, ON | \$45,000 to \$85,000 | Nov 12 | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Strategy-Analyst---Summer-2027_R243855-1) |
@@ -41,8 +43,6 @@
 | [Nissan](https://internscout.org/internships/at/nissan/) | Customer Journey and Strategy Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 26 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Customer-Journey-and-Strategy-Intern---Summer-2027---Franklin--TN_R00214244) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Associate Delivery Consultant Intern - AWS Professional Services | Arlington County, Arlington, VA +1 |  | Oct 23 | [Apply](https://amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services) |
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Summer Internship Program 2027 - Product Strategy Intern | Jacksonville, Florida |  | Oct 23 | [Apply](https://ice.jibeapply.com/jobs/14086) |
-| [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | U.S. Strategy Intern - Summer 2027 | Atlanta, GA, USA |  | Oct 23 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/US-Strategy-Intern---Summer-2027_R26_0000035661) |
-| [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Tax Consulting Intern - Canada | Mississauga +4 | \$24.52 - \$26.44 | Oct 22 | [Apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Mississauga/Summer-2027-Tax-Consulting-Intern---Canada_R0020613) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Business and Administrative Intern - Strategy Analyst | Palo Alto, California | \$25.00hr | Oct 22 | [Apply](https://careers.rivian.com/jobs/34575) |
 | [C&S Wholesale Grocers](https://internscout.org/internships/at/c-s-wholesale-grocers/) | Market Research & Brand Strategy Intern- Summer 2027 | York, PA | Paid | Oct 22 | [Apply](https://cswg.wd1.myworkdayjobs.com/cs_careers/job/York-PA/Market-Research---Brand-Strategy-Intern--Summer-2027_R-269063) |
 | RSM | D365 Business Central Consulting Intern - Summer 2027 | Vancouver | \$50,160 - \$59,850 | Oct 21 | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Vancouver/D365-Business-Central-Consulting-Intern---Summer-2027_JR117165-1) |

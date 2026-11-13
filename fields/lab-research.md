@@ -1,6 +1,6 @@
 # Lab Research: Summer 2027 Internships
 
-37 open Summer 2027 lab research roles, newest first (all 37). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 129 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
+37 open Summer 2027 lab research roles, newest first (all 37). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 128 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -8,7 +8,7 @@
 | [RTX](https://internscout.org/internships/at/rtx/) | Intern: Quality Core Lab (Summer 2027) | East Hartford-Etc, CT | Paid | Nov 12 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Intern--Quality-Core-Lab--Summer-2027-_01868899) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Research and Development - Defense Lab Support | Warren, Michigan, United States of America |  | Nov 12 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Defense-Lab-Support_JR-202621738) |
 | [Carnegie Mellon University](https://internscout.org/internships/at/carnegie-mellon-university/) | Advanced Computing Lab Intern | Pittsburgh, PA |  | Nov 9 | [Apply](https://go.vansh.nyc/1pb) |
-| [Rivian and Volkswagen Group Technologies](https://internscout.org/internships/at/rivian-and-volkswagen-group-technologies/) | Mechatronics Lab Engineering Intern (January - August 2027) | Vancouver, British Columbia +1 |  | Nov 6 | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/e1647212-5d09-4877-a172-da50ae46dfe8/application) |
+| [Rivian and Volkswagen Group Technologies](https://internscout.org/internships/at/rivian-and-volkswagen-group-technologies/) | Mechatronics Lab Engineering Intern | Vancouver, BC, Canada |  | Nov 6 | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/e1647212-5d09-4877-a172-da50ae46dfe8/application?embed=true) |
 | [Philips](https://internscout.org/internships/at/philips/) | Intern - Product Investigations Lab - New Kensington, PA - Summer 2027 | New Kensington, Pennsylvania, United States +1 | \$26.00-29.00 | Nov 4 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Product-Investigations-Lab---New-Kensington--PA---Summer-2027_593027) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Engineering Internship - Lab Focus (Summer 2027) | Columbus, OH |  | Nov 2 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279603) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Research Scientist Intern - Video and Edge - Multimedia Lab | San Jose, CA |  | Oct 30 | [Apply](https://jobs.bytedance.com/en/position/7702155940239264005/detail) |

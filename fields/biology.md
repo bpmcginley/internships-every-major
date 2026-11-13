@@ -1,9 +1,11 @@
 # Biology: Summer 2027 Internships
 
-18 open Summer 2027 biology roles, newest first (all 18). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 724 biology internships on InternScout](https://internscout.org/internships/biology/)
+21 open Summer 2027 biology roles, newest first (all 21). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 759 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| The Allen Institute for AI | Research Internship, AI for Neuroscience | Seattle, WA | \$94,320 | Nov 13 | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293636) |
+| [Emerson Electric](https://internscout.org/internships/at/emerson-electric/) | Life Sciences Marketing Intern | Round Rock, TX |  | Nov 13 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009264) |
 | [AstraZeneca](https://internscout.org/internships/at/astrazeneca/) | Summer 2027 Pharmaceutical Development Summer Intern PhD | US - New Haven - CT | \$48 per hour | Nov 12 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---New-Haven---CT/Summer-2027-Pharmaceutical-Development-Summer-Intern-PhD_R-264287-1) |
 | [Alexion](https://internscout.org/internships/at/alexion/) | Summer 2027 Pharmaceutical Development Summer Intern PhD | US - New Haven - CT | \$48 per hour | Nov 12 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---New-Haven---CT/Summer-2027-Pharmaceutical-Development-Summer-Intern-PhD_R-264287) |
 | [Vizient](https://internscout.org/internships/at/vizient/) | 2027 Summer Internship – Pharmacy Commit | Chicago, IL 60607 +6 | \$25 per hour | Nov 12 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Pharmacy-Commit_36213R-1) |
@@ -20,6 +22,7 @@
 | [WTW](https://internscout.org/internships/at/wtw/) | Early Careers: Pharmacy Benefits Consulting Internship - Chicago - Summer 2027 | Chicago, IL |  | Oct 8 | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606458) |
 | [Emergent Holdings](https://internscout.org/internships/at/emergent-holdings/) | Summer 2027 Intern - Pharmacy Services | United States | Paid | Oct 8 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14811) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Pharmacy Intern – Emerging Therapies and Health Outcomes | Detroit, MI |  | Sep 22 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14836) |
+| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Drug Metabolism & Pharmacokinetics | San Diego, CA | \$23.00 – 32.00 | Nov 13 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/San-Diego-CA/Summer-Intern-2027--Drug-Metabolism---Pharmacokinetics_REQ-31305) |
 | [Marsh](https://internscout.org/internships/at/marsh/) | Oliver Wyman - 2027 MBA Summer Associate - Health & Life Sciences | New York - 1166 | \$3,650 | Sep 19 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Oliver-Wyman---2027-MBA-Summer-Associate---Health---Life-Sciences_R_363378) |
 | [Alcon](https://internscout.org/internships/at/alcon/) | 2027 Chemistry, Materials & Life Sciences Interns | Fort Worth, Texas +4 |  | Sep 18 | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2027-Chemistry--Materials---Life-Sciences-Interns_R-2026-49482) |
 

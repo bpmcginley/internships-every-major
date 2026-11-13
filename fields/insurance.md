@@ -1,10 +1,12 @@
 # Insurance: Summer 2027 Internships
 
-95 open Summer 2027 insurance roles, newest first (all 95). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 177 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+94 open Summer 2027 insurance roles, newest first (all 94). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 175 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Insurance Risk Intern - Summer 2027 | Detroit, MI |  | Nov 13 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Insurance-Risk-Intern---Summer-2027_R-084805) |
+| Baldwin Group | Underwriting Intern, MSI | Hallandale Beach, Florida, US | Paid | Nov 13 | [Apply](https://baldwin.wd1.myworkdayjobs.com/Baldwin/job/Hallandale-Beach-Florida-US/Underwriting-Intern--MSI_JR110197-1) |
+| MSI | Underwriting Intern, MSI | Hallandale Beach, Florida, US | Paid | Nov 13 | [Apply](https://baldwin.wd1.myworkdayjobs.com/MSI/job/Hallandale-Beach-Florida-US/Underwriting-Intern--MSI_JR110197) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern-P&C Underwriting-Knowledge Management | Bloomington, Illinois +3 | \$24/hour | Nov 12 | [Apply](https://jobs.statefarm.com/jobs/46442) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern-P&C Underwriting-Underwriter | Bloomington, Illinois +1 | \$24/hour | Nov 12 | [Apply](https://jobs.statefarm.com/jobs/46443) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern-P&C Underwriting-Learning Analyst | Bloomington, Illinois +1 | \$24/hour | Nov 12 | [Apply](https://jobs.statefarm.com/jobs/46444) |
@@ -19,11 +21,8 @@
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Commercial Lines Underwriting Internship - Summer 2027 | Little Rock, AR | \$18.00 per hour | Nov 9 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Little-Rock-AR/Commercial-Lines-Underwriting-Internship---Summer-2027_R_14898) |
 | Markel Group, Inc. | Actuarial Intern | Richmond, VA +1 | \$24-\$28.50/hr | Nov 9 | [Apply](https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Richmond-VA/Actuarial-Intern_R0023907) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Insurance Policy Research Intern | New York, NY +1 | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6053/summer-2027-insurance-policy-research-intern/job) |
-| Baldwin Group | Underwriting Intern, MSI | Hallandale Beach, Florida, US | Paid | Nov 5 | [Apply](https://baldwin.wd1.myworkdayjobs.com/Baldwin/job/Hallandale-Beach-Florida-US/Underwriting-Intern--MSI_JR110197-1) |
-| MSI | Underwriting Intern, MSI | Hallandale Beach, Florida, US | Paid | Nov 5 | [Apply](https://baldwin.wd1.myworkdayjobs.com/MSI/job/Hallandale-Beach-Florida-US/Underwriting-Intern--MSI_JR110197) |
 | [Chubb](https://internscout.org/internships/at/chubb/) | Underwriting Intern | Chicago, IL +3 | \$18 to \$24 per hour | Nov 4 | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38333) |
 | [Chubb](https://internscout.org/internships/at/chubb/) | Underwriting Intern | Chattanooga, TN +3 | \$18 to \$24 per hour | Nov 4 | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38331) |
-| [ParetoHealth](https://internscout.org/internships/at/paretohealth/) | Underwriting Summer Intern | Philadelphia, Pennsylvania, United States |  | Nov 2 | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725315006) |
 | [LexisNexis Risk Solutions](https://internscout.org/internships/at/lexisnexis-risk-solutions/) | Product Management Intern- Insurance | Alpharetta, GA (Alderman) +2 | \$20/hour | Nov 2 | [Apply](https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Insurance_R118879) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Personal Lines Underwriting Internship - Summer 2027 | Columbia, SC | \$18.00 per hour | Nov 2 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Columbia-SC/Personal-Lines-Underwriting-Internship---Summer-2027_R_14337) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Home Office Underwriting/Audit Internship - Summer 2027 | Lansing, MI | \$18 per hour | Nov 2 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Home-Office-Underwriting-Audit-Internship---Summer-2027_R_14361) |

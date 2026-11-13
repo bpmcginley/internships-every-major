@@ -1,6 +1,6 @@
 # Agriculture: Summer 2027 Internships
 
-19 open Summer 2027 agriculture roles, newest first (all 19). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 52 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
+18 open Summer 2027 agriculture roles, newest first (all 18). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 51 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -12,7 +12,6 @@
 | [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Forestry Field Office Internship – Emerging Talent Summer Experience Program | Junction City, OR |  | Sep 21 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792106) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Food Safety & Quality Intern - Summer 2027 - Campus Recruiting (Multiple Locations) | Austin, MN +11 |  | Sep 4 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35738) |
 | [Ruekert & Mielke](https://internscout.org/internships/at/ruekert-mielke/) | Agricultural Engineering Student Intern (Summer 2027) | Madison, Wisconsin |  | Sep 1 | [Apply](https://ruekertmielke.bamboohr.com/careers/310) |
-| [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Petcare Quality and Food Safety Internship - Ft. Smith, Arkansas | USA-Arkansas-Ft. Smith | Paid | Nov 13 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Arkansas-Ft-Smith/Summer-2027-Mars-Petcare-Quality-and-Food-Safety-Internship---Ft-Smith--Arkansas_R167867-1) |
 | [AB InBev](https://internscout.org/internships/at/ab-inbev/) | Brewing Intern | Edmonton, Alberta | \$25/Hour | Nov 13 | [Apply](https://wd1.myworkdaysite.com/recruiting/abinbev/CAN/job/Edmonton-Alberta/Brewing-Intern_30102889) |
 | [AB InBev](https://internscout.org/internships/at/ab-inbev/) | Brewing Intern | London, Ontario | \$25/Hour | Nov 13 | [Apply](https://wd1.myworkdaysite.com/recruiting/abinbev/CAN/job/London-Ontario/Brewing-Intern_30102879) |
 | Meijer Companies Ltd | Food Safety Intern- Summer 2027 | Grand Rapids, MI |  | Nov 13 | [Apply](https://www.ziprecruiter.com/c/meijer/Job/Food-Safety-Intern-Summer-2027/-in-Grand-Rapids,MI?jid=8017701c8a8fe4d1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |

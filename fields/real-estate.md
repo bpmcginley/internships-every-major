@@ -1,6 +1,6 @@
 # Real Estate: Summer 2027 Internships
 
-21 open Summer 2027 real estate roles, newest first (all 21). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 47 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
+20 open Summer 2027 real estate roles, newest first (all 20). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 45 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -17,7 +17,6 @@
 | [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Real Estate | Miami, FL | \$25.00 per hour | Nov 2 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Miami-FL/XMLNAME-2027-Summer-Intern---Commercial-Real-Estate_2620099-1) |
 | [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Real Estate | St Louis, MO | \$25.00 per hour | Nov 2 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/St-Louis-MO/XMLNAME-2027-Summer-Intern---Commercial-Real-Estate_2620105) |
 | [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Real Estate | Birmingham, MI | \$25.00 per hour | Nov 2 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Birmingham-MI/XMLNAME-2027-Summer-Intern---Commercial-Real-Estate_2620106-1) |
-| [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program - Global Workplace & Enterprise Services Global Real Estate (GRES) Co-op | USA - New Jersey - Rahway +1 | \$39,908 - \$111,111 | Oct 28 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Workplace---Enterprise-Services-Global-Real-Estate--GRES--Co-op_R415296) |
 | [Scout Clean Energy](https://internscout.org/internships/at/scout-clean-energy/) | Real Estate Systems Intern - Summer 2027 | Boulder, Colorado | \$25-30/hour | Oct 12 | [Apply](https://apply.workable.com/j/EC27E34D20/apply) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Real Estate & Builds Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175507?gh_jid=8175507) |
 | [StepStone Group](https://internscout.org/internships/at/stepstone-group/) | 2027 Real Estate Private Equity Advisory Summer Analyst | Cleveland, MD | \$65,000 annually | Aug 3 | [Apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8097993) |

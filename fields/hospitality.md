@@ -1,6 +1,6 @@
 # Hospitality: Summer 2027 Internships
 
-35 open Summer 2027 hospitality roles, newest first (all 35). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 116 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
+34 open Summer 2027 hospitality roles, newest first (all 34). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 114 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -8,11 +8,10 @@
 | [Mary Free Bed Rehabilitation Hospital](https://internscout.org/internships/at/mary-free-bed-rehabilitation-hospital/) | Foundation Events Intern - Summer 2027 Semester | Grand Rapids, MI | \$18/hour | Nov 12 | [Apply](https://maryfreebed.wd12.myworkdayjobs.com/mfb/job/Grand-Rapids-MI/Foundation-Events-Intern---Summer-2027-Semester_JB103472) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Hospitality Internships - Glacier National Park | Columbia Falls, Montana | Paid | Nov 11 | [Apply](https://www.xanterrajobs.com/jobs/40151) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | IT Summer Internship Program Event Coordinator Intern - Summer 2027 | Cincinnati, OH (USA) | Paid | Nov 10 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Summer-Internship-Program-Event-Coordinator-Intern---Summer-2027_R9889) |
-| [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Culinary Internships - Glacier National Park | Columbia Falls, Montana | \$18.85/hr | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40156) |
+| [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Culinary Internships - Glacier National Park | Columbia Falls, Montana | \$19.40/hr | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40156) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Culinary Internships - Grand Canyon South Rim | GRAND CANYON, Arizona | \$16.05 per hour | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40113) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Hospitality Internships - Lodging - Grand Canyon South Rim | GRAND CANYON, Arizona | Paid | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40112) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Hospitality Internship - Oasis at Death Valley | Death Valley, California | \$16.65 per hour | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40114) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Biomechanics | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Biomechanics-MD-21230/1434382000/) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Product Line Management | Baltimore, MD | \$23 per hour | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Product-Line-Management-MD-21230/1434387800/) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Food & Events Intern - Summer 2027 | Dallas, TX, United States |  | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466385009) |
 | [David Yurman](https://internscout.org/internships/at/david-yurman/) | Events Intern | New York, NY | \$25/hour | Oct 22 | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Events-Intern_R-101163) |
