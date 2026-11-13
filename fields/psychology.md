@@ -1,9 +1,10 @@
 # Psychology: Summer 2027 Internships
 
-5 open Summer 2027 psychology roles, newest first (all 5). **Updated November 12, 2026.** [Back to every major](../README.md) · [See all 50 psychology internships on InternScout](https://internscout.org/internships/psychology/)
+6 open Summer 2027 psychology roles, newest first (all 6). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 51 psychology internships on InternScout](https://internscout.org/internships/psychology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Behavioral Health & Project Management Internship (Remote) – Summer 2027 (Undergraduate) | United States |  | Nov 13 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040163) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics | Mountain View, CA, USA +1 |  | Sep 14 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8197899) |
 | [Lyft](https://internscout.org/internships/at/lyft/) | UX Research Intern (Summer 2027) | Toronto, Canada | \$48 per hour | Sep 11 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002) |
 | Rogers Behavioral Health | Summer 2027 Start Experiential Therapist Internship | Oconomowoc Main Campus, Oconomowoc, WI +2 |  | Oct 16 | [Apply](https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Oconomowoc-Main-Campus-Oconomowoc-WI/Summer-2027-Start-Experiential-Therapist-Internship_R8356-1) |
