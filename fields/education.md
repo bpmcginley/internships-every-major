@@ -1,9 +1,11 @@
 # Education: Summer 2027 Internships
 
-32 open Summer 2027 education roles, newest first (all 32). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 265 education internships on InternScout](https://internscout.org/internships/education/)
+34 open Summer 2027 education roles, newest first (all 34). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 267 education internships on InternScout](https://internscout.org/internships/education/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Instructional Design Intern - Summer 2027 | Detroit, MI |  | Nov 13 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Instructional-Design-Intern---Summer-2027_R-084817) |
+| [University of Virginia](https://internscout.org/internships/at/university-of-virginia/) | Undergraduate Admission Intern/Tour Guide SUMMER 2027 (Student Wage) | Charlottesville, VA | \$15.00 Hour | Nov 13 | [Apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Undergraduate-Admission-Intern-Tour-Guide-SUMMER-2027--Student-Wage-_R0089070) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship - Material Sciences | Laurel, Maryland | \$22.60 Hour | Nov 13 | [Apply](https://careers.jhuapl.edu/jobs/60857) |
 | [University of Arkansas](https://internscout.org/internships/at/university-of-arkansas/) | Experiential Scholars Program (ESP) Intern | Little Rock, AR | \$12.50 | Nov 11 | [Apply](https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/Experiential-Scholars-Program--ESP--Intern_R0093730-1) |
 | Art of Problem Solving | Computer Science Curriculum Intern | San Diego, California, United States | \$30/hour | Nov 10 | [Apply](https://artofproblemsolving.com/careers/job/8199446003?gh_jid=8199446003) |

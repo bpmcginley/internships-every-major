@@ -1,13 +1,14 @@
 # Engineering: Summer 2027 Internships
 
-680 open Summer 2027 engineering roles, newest first (the 200 newest of 680). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 1,718 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+681 open Summer 2027 engineering roles, newest first (the 200 newest of 681). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 1,719 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Kudu Dynamics](https://internscout.org/internships/at/kudu-dynamics/) | Radar Engineering Intern | Huntsville, AL | \$57,850.00 - \$104,575.00 | Nov 13 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Radar-Engineering-Intern_R-00196931-1) |
+| [Entegris](https://internscout.org/internships/at/entegris/) | Product Engineering Intern | Chaska, MN | \$20-\$30/hour | Nov 13 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Product-Engineering-Intern_REQ-15848) |
 | [Walmart](https://internscout.org/internships/at/walmart/) | Summer 2027 Corporate Intern: APD Automation Engineer | (USA) Together Building AR Bentonville Home Office | Paid | Nov 13 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--APD-Automation-Engineer_R-2630170) |
 | [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Quality & Reliability, Intern Summer 2027 | Mountain View, CA | Paid | Nov 12 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5474812008?gh_jid=5474812008) |
 | [Zoox](https://internscout.org/internships/at/zoox/) | Systems & Safety Engineering Intern \[Summer 2027\] | Foster City, CA |  | Nov 12 | [Apply](https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f/apply) |
-| [KION Group](https://internscout.org/internships/at/kion-group/) | A.I. Engineering Intern | Grand Rapids, MI |  | Nov 12 | [Apply](https://go.vansh.nyc/1wL) |
 | [Entegris](https://internscout.org/internships/at/entegris/) | CMP Pad R&D Summer Intern - Summer 2027 | Hillsboro, OR |  | Nov 12 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Hillsboro-OR/CMP-Pad-R-D-Summer-Intern---Summer-2027_REQ-15865) |
 | [Eversource Energy](https://internscout.org/internships/at/eversource-energy/) | 2027 Summer: Distribution Engineering Intern-NH | Portsmouth, NH | \$21.20 | Nov 12 | [Apply](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Portsmouth-NH/XMLNAME-2027-Summer--Distribution-Engineering-Intern-NH_R-032406) |
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | Engineering Intern, Prototyping - Summer 2027 | Towson, MD, United States | \$38,600.00 - \$62,200.00 | Nov 12 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineering-Intern--Prototyping---Summer-2027_REQ-1000052890) |
@@ -100,7 +101,6 @@
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Composite Engineering Internship - Summer 2027 | Decatur, AL |  | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Decatur-Composite-Engineering-Internship-Summer-2027-AL-35601/1427397600/) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Quality Engineering Internship Summer 2027 | Decatur, AL | \$23.10 - \$37.95 | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Decatur-Quality-Engineering-Internship-Summer-2027-AL-35601/1427398600/) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Weld Engineering Internship - Summer 2027 | Decatur, AL |  | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Decatur-Weld-Engineering-Internship-Summer-2027-AL-35601/1427397200/) |
-| [STV](https://internscout.org/internships/at/stv/) | Water/Wastewater Engineering Intern - Summer 2027 | Austin, Texas |  | Nov 4 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Austin-Texas/Water-Wastewater-Engineering-Intern---Summer-2027_JR6058) |
 | [Barry-Wehmiller](https://internscout.org/internships/at/barry-wehmiller/) | Controls Engineering Internship/Co-Op (Summer 2027 or 6-Month) | Remote +21 | \$23 -\$30/hr | Nov 4 | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Remote---USA/Controls-Engineering-Co-Op_R022664) |
 | [STV](https://internscout.org/internships/at/stv/) | Water/Wastewater Engineering Intern - Summer 2027 | Empire State Building, New York, New York |  | Nov 4 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Empire-State-Building-New-York-New-York/Water-Wastewater-Engineering-Intern---Summer-2027_JR6168) |
 | [Carpenter Technology](https://internscout.org/internships/at/carpenter-technology/) | Reliability Engineering Intern | Reading, PA | \$21.00 - \$25.00 per hour | Nov 4 | [Apply](https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Reliability-Engineering-Intern_26976) |
@@ -116,6 +116,7 @@
 | [Astro Mechanica](https://internscout.org/internships/at/astro-mechanica/) | Airframe/Structures Engineering Intern | San Francisco +1 | Paid | Nov 2 | [Apply](https://jobs.ashbyhq.com/Astro-Mechanica/746a6647-a07d-41ef-91e4-0dfe3a10800b/application) |
 | [Astro Mechanica](https://internscout.org/internships/at/astro-mechanica/) | Test Engineering Intern | East Bay Area, CA | Paid | Nov 2 | [Apply](https://jobs.ashbyhq.com/Astro-Mechanica/06ecc8a2-5153-4257-8e54-eb9326a31982/application) |
 | NXP | HW/SW System and Application Engineer Intern | Chandler, AZ |  | Nov 2 | [Apply](https://go.vansh.nyc/19K) |
+| ViaSat | Digital and Programmable Logic Engineer Intern | Tempe, AZ |  | Nov 2 | [Apply](https://careers.viasat.com/jobs/7088?icims=1) |
 | [Microsoft](https://internscout.org/internships/at/microsoft/) | First-Year Explore Program Engineering Intern | Redmond, WA |  | Nov 2 | [Apply](https://go.vansh.nyc/199) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Intern Engineer - Summer 2027 | White Plains, NY (Westchester Hudson Valley) |  | Nov 2 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/White-Plains-NY-Westchester-Hudson-Valley/Intern-Engineer---Summer-2027_R-32291-1) |
 | [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Automation Engineer (Summer 2027) | Nampa, ID | \$23 - \$27/hr | Nov 2 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Nampa-ID/Intern---Automation-Engineer--Summer-2027-_R041024-1) |
@@ -203,7 +204,6 @@
 | [Global Infrastructure](https://internscout.org/internships/at/global-infrastructure/) | Engineering Intern, Buildings | US +2 | \$20 - \$30 hour | Oct 23 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--DC--Washington---1053-31st-Street-Northwest/Engineering-Intern--Buildings_6564) |
 | [Global Infrastructure](https://internscout.org/internships/at/global-infrastructure/) | Engineering Intern, Buildings | US +1 | \$20 - \$30 hour | Oct 23 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--TX--San-Antonio---123-Parland-Place/Engineering-Intern--Buildings_6562) |
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | 2027 Summer Engineering Intern | US - ORLANDO HUB (FLORL) |  | Oct 23 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---ORLANDO-HUB-FLORL/XMLNAME-2027-Summer-Engineering-Intern_R26031120) |
-| [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | 2027 Summer Engineering Intern | US - JACKSONVILLE (FLJAC) |  | Oct 23 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---JACKSONVILLE-FLJAC/XMLNAME-2027-Summer-Engineering-Intern_R26039407) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

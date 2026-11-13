@@ -1,9 +1,12 @@
 # Hardware Engineering: Summer 2027 Internships
 
-304 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 304). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 806 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+307 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 307). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 806 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Marvell](https://internscout.org/internships/at/marvell/) | Analog Layout Intern - BS/MS - 2027 Co-Op | Toronto, Canada | Paid | Nov 13 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Layout-Intern---BS-MS---2027-Co-Op_2604789) |
+| [Marvell](https://internscout.org/internships/at/marvell/) | Data Center Silicon Hardware Engineering Intern - BS - 2027 Co-Op | Ottawa, Canada +3 | Paid | Nov 13 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525) |
+| [Shield AI](https://internscout.org/internships/at/shield-ai/) | Hardware Test Engineer Co-op | Dallas, TX |  | Nov 12 | [Apply](https://jobs.lever.co/shieldai/3cfe5522-856e-4216-a5f7-c9188bebf12a/apply) |
 | [Shield AI](https://internscout.org/internships/at/shield-ai/) | 2027 June Co-op - Hardware Test - #6426 | Dallas, Texas +1 |  | Nov 12 | [Apply](https://jobs.ashbyhq.com/shield/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application) |
 | [Shield AI](https://internscout.org/internships/at/shield-ai/) | Hardware Test Engineering Co-op | Dallas, TX |  | Nov 12 | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true) |
 | [CACI](https://internscout.org/internships/at/caci/) | Embedded Software Development Intern - Summer 2027 | Denver, CO, US +2 | \$53,100 - 106,300 | Nov 12 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147) |
@@ -201,9 +204,6 @@
 | [Field AI](https://internscout.org/internships/at/field-ai/) | Robotics Research, Humanoid Whole Body Learning Intern (Summer 2027) PhD | Boston, MA |  | Sep 29 | [Apply](https://jobs.lever.co/field-ai/4d6e794b-1fcb-472f-babb-9b482eb02edf/apply) |
 | [Hermeus](https://internscout.org/internships/at/hermeus/) | Flight Software Engineering Intern, Simulation/Hardware-In-The-Loop | Los Angeles, CA |  | Sep 29 | [Apply](https://go.vansh.nyc/fR) |
 | [onsemi](https://internscout.org/internships/at/onsemi/) | Integrated Circuit Design Engineer Intern | Allen, TX |  | Sep 28 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506546) |
-| [Field AI](https://internscout.org/internships/at/field-ai/) | Robotics Research, Humanoid Manipulation Intern (Summer 2027) \| PhD | Boston, MA |  | Sep 27 | [Apply](https://jobs.lever.co/field-ai/ada8184d-153b-4172-8f55-2b0ae74c6820/apply) |
-| [Neuralink](https://internscout.org/internships/at/neuralink/) | Firmware Engineer Intern, Robotics and Surgery Engineering | South San Francisco, CA |  | Sep 25 | [Apply](https://go.vansh.nyc/QH) |
-| [Neuralink](https://internscout.org/internships/at/neuralink/) | Embedded Software Engineer Intern, Implant Embedded Systems | Austin, TX +1 |  | Sep 25 | [Apply](https://go.vansh.nyc/QF) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

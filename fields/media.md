@@ -1,9 +1,12 @@
 # Media: Summer 2027 Internships
 
-41 open Summer 2027 media roles, newest first (all 41). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 139 media internships on InternScout](https://internscout.org/internships/media/)
+44 open Summer 2027 media roles, newest first (all 44). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 142 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| IPConfigure | Software Development Intern, Video Surveillance Software | Norfolk, VA |  | Nov 13 | [Apply](https://go.vansh.nyc/1yE) |
+| [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Creative Designer Intern - Summer 2027 | Detroit, MI |  | Nov 13 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Creative-Designer-Intern---Summer-2027_R-084550) |
+| [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Video Editing Intern - Summer 2027 | Detroit, MI |  | Nov 13 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Post-Production-Intern---Summer-2027_R-084726) |
 | [Bask Health](https://internscout.org/internships/at/bask-health/) | Creative Engineering Intern | Remote +1 |  | Nov 12 | [Apply](https://go.vansh.nyc/1w8) |
 | Pika | Applied AI Engineer Intern, Creative Experiences | Palo Alto, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1pR) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Audience Insights Intern | New York, NY | \$30.00 per hour | Nov 9 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752928005) |

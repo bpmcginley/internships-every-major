@@ -1,11 +1,12 @@
 # Cybersecurity: Summer 2027 Internships
 
-223 open Summer 2027 cybersecurity roles, newest first (the 200 newest of 223). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 372 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+223 open Summer 2027 cybersecurity roles, newest first (the 200 newest of 223). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 371 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | Jobs at UHS | Information Security Analyst Intern | Tredyffrin, PA |  | Nov 13 | [Apply](https://go.vansh.nyc/1yv) |
 | [Origin Bank](https://internscout.org/internships/at/origin-bank/) | Cybersecurity Intern | Ruston, LA |  | Nov 13 | [Apply](https://go.vansh.nyc/1yr) |
+| [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Cybersecurity Internship (Remote) – Summer 2027 (Undergraduate) | United States |  | Nov 13 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040172) |
 | [Clyde Companies](https://internscout.org/internships/at/clyde-companies/) | Cybersecurity Intern | Orem, UT |  | Nov 12 | [Apply](https://go.vansh.nyc/1xX) |
 | [Clyde Companies](https://internscout.org/internships/at/clyde-companies/) | Cyber Security Intern | Orem, UT |  | Nov 12 | [Apply](https://go.vansh.nyc/1xY) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | Security Engineering Intern (Summer 2027) | Mountain View, CA | \$40/hour | Nov 12 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5294028007) |
@@ -15,7 +16,6 @@
 | [ServiceNow](https://internscout.org/internships/at/servicenow/) | Associate Security Engineering & Automation Intern | Santa Clara, CA |  | Nov 12 | [Apply](https://go.vansh.nyc/1vX) |
 | Idaho National Laboratory | Cybersecurity Vulnerability Assessment Intern | Idaho Falls, ID |  | Nov 12 | [Apply](https://go.vansh.nyc/1xM) |
 | [American Electric Power](https://internscout.org/internships/at/american-electric-power/) | Cybersecurity Intern - Summer 2027 | Columbus, OH | Paid | Nov 12 | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Cybersecurity-Intern---Summer-2027_R21158) |
-| [Austal USA](https://internscout.org/internships/at/austal-usa/) | Cybersecurity Intern | Mobile, AL |  | Nov 12 | [Apply](https://go.vansh.nyc/1vR) |
 | [HUB International](https://internscout.org/internships/at/hub/) | Security Architect Intern | Chicago, IL |  | Nov 11 | [Apply](https://go.vansh.nyc/1vD) |
 | Green Bay Packaging | Cybersecurity Intern | Green Bay, WI |  | Nov 11 | [Apply](https://go.vansh.nyc/1xs) |
 | Encore Global | IT Security Intern | Coppell, TX |  | Nov 11 | [Apply](https://go.vansh.nyc/1xr) |
@@ -24,7 +24,7 @@
 | [SimVentions](https://internscout.org/internships/at/simventions/) | Cybersecurity Intern | Fredericksburg, VA |  | Nov 11 | [Apply](https://go.vansh.nyc/1uu) |
 | Welltower | Cyber Security Intern | Frisco, TX |  | Nov 11 | [Apply](https://go.vansh.nyc/1uw) |
 | ISO New England | Cyber Adversary Defense Optimization Intern | Holyoke, MA |  | Nov 11 | [Apply](https://go.vansh.nyc/1wY) |
-| Daimler Truck | Governance, Risk, and Compliance (GRC) Analyst Intern, Cybersecurity | Detroit, MI |  | Nov 11 | [Apply](https://go.vansh.nyc/1uo) |
+| [Daimler Truck](https://internscout.org/internships/at/daimler-truck/) | Governance, Risk, and Compliance (GRC) Analyst Intern, Cybersecurity | Detroit, MI |  | Nov 11 | [Apply](https://go.vansh.nyc/1uo) |
 | [Grant Thornton](https://internscout.org/internships/at/grant-thornton/) | Cybersecurity and Privacy Intern - Summer 2027 | New York, NY | \$40 per hour | Nov 11 | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115637) |
 | Global Payments | CyberSecurity Intern | Columbus, GA |  | Nov 10 | [Apply](https://go.vansh.nyc/1s5) |
 | Minitab | Cybersecurity Intern (Summer 2027) | State College, Pennsylvania, United States +1 |  | Nov 10 | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8200356003) |
@@ -67,7 +67,7 @@
 | [Tradeweb](https://internscout.org/internships/at/tradeweb/) | Summer 2027 Cyber Security Internship | New York, NY |  | Nov 3 | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301991) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Security Verification/Validation Engineer Intern | Chandler, AZ |  | Nov 3 | [Apply](https://go.vansh.nyc/1dy) |
 | [Netsmart](https://internscout.org/internships/at/netsmart/) | Security Analyst Future (Summer 2027 Internship) | Overland Park, KS | Paid | Nov 3 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Security-Analyst-Future--Summer-2027-Internship-_R015669) |
-| [Costco](https://internscout.org/internships/at/costco/) | Digital Services Intern, Infosec AI/ML | Issaquah, WA |  | Nov 2 | [Apply](https://go.vansh.nyc/1bA) |
+| Costco | Digital Services Intern, Infosec AI/ML | Issaquah, WA |  | Nov 2 | [Apply](https://go.vansh.nyc/1bA) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Supervision & Regulation Intern, Cybersecurity | Atlanta, GA |  | Nov 2 | [Apply](https://go.vansh.nyc/19i) |
 | ID.me | Summer Intern 2027 - Product Security Engineering Intern | Mountain View, CA | Paid | Nov 2 | [Apply](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8076649003) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Supervision & Regulation (Cybersecurity) | Atlanta, GA |  | Nov 2 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Cybersecurity-_R-0000033866) |
@@ -89,7 +89,7 @@
 | [Stratolaunch](https://internscout.org/internships/at/stratolaunch/) | Security Intern- Summer 2027 | Mojave, California, United States | \$20.00 Hour | Oct 29 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5466978008) |
 | Mativ | Cybersecurity Intern | Alpharetta, GA |  | Oct 29 | [Apply](https://go.vansh.nyc/11W) |
 | [HP Inc.](https://internscout.org/internships/at/hp-inc/) | Software Product Security Intern, HP IQ | San Francisco, CA |  | Oct 29 | [Apply](https://go.vansh.nyc/YE) |
-| [Costco](https://internscout.org/internships/at/costco/) | CDS Intern, OT/IoT Security Engineering | Wa, WA |  | Oct 29 | [Apply](https://go.vansh.nyc/1gX) |
+| Costco | CDS Intern, OT/IoT Security Engineering | Wa, WA |  | Oct 29 | [Apply](https://go.vansh.nyc/1gX) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen-hamilton/) | University - 2027 Summer Games Cyber Security Intern - Lexington, MA | Lexington, MA |  | Oct 29 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Cyber-Security-Intern---Lexington--MA_R0252278) |
 | [Nintendo](https://internscout.org/internships/at/nintendo/) | Software Engineer Intern, Platform Security | Redmond, WA |  | Oct 28 | [Apply](https://go.vansh.nyc/12o) |
 | [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Cybersecurity Engineer Intern | San Jose, CA |  | Oct 28 | [Apply](https://go.vansh.nyc/1uY) |
@@ -138,7 +138,7 @@
 | Howden | Underwriting Intern, Cyber | New York – 1350 Avenue Of The Americas | \$22.00/hr | Oct 14 | [Apply](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/New-York--1350-Avenue-Of-The-Americas/Underwriting-Intern_R0019772-1) |
 | [Bosch](https://internscout.org/internships/at/bosch/) | Information Security and Privacy Intern | Farmington Hills, MI |  | Oct 13 | [Apply](https://go.vansh.nyc/8w) |
 | [General Dynamics Mission Systems](https://internscout.org/internships/at/general-dynamics-mission-systems/) | Cyber Engineering Intern | Middletown, RI |  | Oct 13 | [Apply](https://go.vansh.nyc/8E) |
-| [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: Cyber Security Intern | Northbrook, IL | \$28.50 | Oct 12 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11186) |
+| [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | Cyber Security Intern | Northbrook, IL |  | Oct 12 | [Apply](https://go.vansh.nyc/CU) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Cybersecurity Intern | Palo Alto, CA |  | Oct 9 | [Apply](https://go.vansh.nyc/Hk) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Cybersecurity - Summer 2027 Internships | Palo Alto, California +4 | \$33.00-51.00 per hour | Oct 9 | [Apply](https://careers.rivian.com/jobs/34316) |
 | Qube Research and Technologies | Security Engineer Intern | New York, NY |  | Oct 6 | [Apply](https://go.vansh.nyc/QJ) |

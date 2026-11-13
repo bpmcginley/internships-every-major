@@ -1,9 +1,12 @@
 # Sustainability: Summer 2027 Internships
 
-82 open Summer 2027 sustainability roles, newest first (all 82). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 136 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+83 open Summer 2027 sustainability roles, newest first (all 83). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 137 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | Oakland, California | \$20.00 | Nov 13 | [Apply](https://careers.trccompanies.com/jobs/28863) |
+| [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | New Brunswick, New Jersey | \$20.00 | Nov 13 | [Apply](https://careers.trccompanies.com/jobs/28896) |
+| [Tapestry](https://internscout.org/internships/at/tapestry/) | Summer ESG, Sustainability, & Trade Compliance Internship | New York, New York, USA (Corporate Headquarters) | \$20/hour | Nov 13 | [Apply](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-ESG--Sustainability----Trade-Compliance--Internship_JR20961) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern - Infrastructure & Sustainability | Pascagoula, Mississippi |  | Nov 12 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-INFRASTRUCTURE-&-SUSTAINABILITY-Miss/1430056400/) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Climate Resiliency and Planning Intern (Summer 2027!) | Denver, Colorado | \$36.44 | Nov 11 | [Apply](https://careers.cdmsmith.com/jobs/4825) |
 | [Arcadis](https://internscout.org/internships/at/arcadis/) | EH&S Intern | Middletown, CT | \$24.96 - \$37.44 | Nov 10 | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45664) |
@@ -43,7 +46,6 @@
 | [Stantec](https://internscout.org/internships/at/stantec/) | BIM Technician Intern - Buildings (Summer 2027) | Los Angeles, CA +2 |  | Oct 14 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008295) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Transportation Roadway Intern (Summer 2027) | Cincinnati, OH |  | Oct 14 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007531) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Nuclear Technical Internship - Pottstown, PA (ASSOCIATE'S DEGREES ONLY) | Pottstown, Pennsylvania | Paid | Oct 13 | [Apply](https://jobs.constellationenergy.com/jobs/138604) |
-| [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern – CO2 | MIDLAND, Texas +2 |  | Oct 13 | [Apply](https://careers.kindermorgan.com/jobs/6044) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Acoustics Intern (Summer 2027) | Chicago, IL |  | Oct 9 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008256) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Sustainability Intern | Pittsburgh, Pennsylvania | \$20.00 | Oct 8 | [Apply](https://careers.trccompanies.com/jobs/27037) |
 | [Woolpert](https://internscout.org/internships/at/woolpert/) | Site Civil/ Energy Internship (Summer 2027) | Columbus, OH | Paid | Oct 7 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4426119009) |
@@ -79,7 +81,6 @@
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern -Permitting | HOUSTON, Texas |  | Sep 2 | [Apply](https://careers.kindermorgan.com/jobs/6174) |
 | [The Andersons](https://internscout.org/internships/at/the-andersons/) | Renewables Engineering Intern (Summer 2027) | Logansport, IN |  | Oct 24 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Logansport-IN/Renewables-Engineering-Intern--Summer-2027-_R12498) |
 | Neuberger Berman | MBA Intern, Stewardship & Sustainable Investing Summer 2027 | New York, NY | \$140,000-\$140,000 | Oct 9 | [Apply](https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/MBA-Intern--Stewardship---Sustainability-Summer-2027_R0012713) |
-| [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Sustainable Mobility (New York) | New York, NY +2 | \$37,855.00 - \$64,354.00 | Oct 8 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/New-York-NY/XMLNAME-2027-Summer-Intern--Sustainable-Mobility--New-York-_R2603406) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Sustainability and Philanthropy Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 8 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Sustainability-and-Philanthropy-Intern---Summer-2027---Franklin--TN_R00214221) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Sustainability CP&I - Senior Associate Intern - Summer 2027 | IL-Rosemont | \$84,000 - \$202,000 | Oct 2 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Sustainability-CP-I---Senior-Associate-Intern---Summer-2027_765702WD) |
 | [PricewaterhouseCoopers (PwC)](https://internscout.org/internships/at/pricewaterhousecoopers-pwc/) | Sustainability Strategy - Senior Associate Intern - Summer 2027 | IL-Rosemont | \$84,000 - \$202,000 | Oct 2 | [Apply](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Sustainability-Strategy---Senior-Associate-Intern---Summer-2027_765703WD) |

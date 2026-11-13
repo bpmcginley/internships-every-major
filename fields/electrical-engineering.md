@@ -1,6 +1,6 @@
 # Electrical Engineering: Summer 2027 Internships
 
-231 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 231). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 559 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+235 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 235). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 561 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Electrical Engineering Intern – Product Architecture (Summer 2027) | Delaware, OH |  | Oct 2 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281025) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Technical Electrical Engineering Intern - Morris, IL (ASSOCIATE'S DEGREE ONLY) | Morris, Illinois | Paid | Oct 2 | [Apply](https://jobs.constellationenergy.com/jobs/139593) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | Electrical Engineering Intern (Summer 2027) | San Jose, CA | \$40/hour | Oct 1 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5255112007) |
+| [Merrick](https://internscout.org/internships/at/merrick/) | Electrical Technician Co-op | Kanata, Ontario, Canada |  | Oct 1 | [Apply](https://careers.merrick.com/jobs/8514) |
 | [Xcimer Energy](https://internscout.org/internships/at/xcimer-energy/) | Summer 2027 Internship - Electrical Engineering | Denver, CO |  | Sep 30 | [Apply](https://jobs.lever.co/xcimer/87bceb04-faeb-4365-9fed-d8f5cd3fb8ac/apply) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Electrical Engineering (Substation) Intern - Summer 2027 | Meridian, ID +1 |  | Sep 30 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95808) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Technical Electrical Internship - Lusby, MD (ASSOCIATE'S DEGREE ONLY) | Lusby, Maryland | Paid | Sep 28 | [Apply](https://jobs.constellationenergy.com/jobs/138594) |
@@ -158,6 +159,9 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Electrical Engineering Intern (Summer 2027!) | Concord, California | \$48.24 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4394) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Electrical Engineering Intern (Summer 2027!) | Latham, New York +1 | \$46.23 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4398) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Electrical Engineering Intern (Summer 2027!) | Los Angeles, California | \$48.24 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4392) |
+| [Merrick](https://internscout.org/internships/at/merrick/) | Electrical Engineering Intern | Greenwood Village, Colorado +2 |  | Sep 2 | [Apply](https://careers.merrick.com/jobs/8471) |
+| [Merrick](https://internscout.org/internships/at/merrick/) | Electrical Facilities Engineer Intern | San Antonio, Texas +2 |  | Sep 2 | [Apply](https://careers.merrick.com/jobs/8473) |
+| [Merrick](https://internscout.org/internships/at/merrick/) | Electrical Engineer Intern | Greenwood Village, Colorado |  | Sep 2 | [Apply](https://careers.merrick.com/jobs/8472) |
 | [Shield AI](https://internscout.org/internships/at/shield-ai/) | Summer 2027 - Electrical Engineering Intern | Dallas, Texas +3 | Paid | Sep 1 | [Apply](https://jobs.lever.co/shieldai/200a293f-71ce-4982-a100-ac4b500c4cf7/apply) |
 | [Textron](https://internscout.org/internships/at/textron/) | 2027 Intern - Electrical Engineer (Howe & Howe) - Waterboro, ME | Waterboro, ME |  | Sep 1 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342547) |
 | [Aerotech](https://internscout.org/internships/at/aerotech/) | Electrical/Computer Engineering Intern Co-op | Pittsburgh, PA |  | Aug 31 | [Apply](https://aerotech.applytojob.com/apply/FrPUDToawu/ElectricalComputer-Engineering-Internship-Or-Coop-2027) |
@@ -200,10 +204,6 @@
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Electrical Design Engineer Intern | Kirkland, WA |  | Oct 20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Electrical-Design-Engineer-Intern-WA-98033/1449527533/) |
 | [STV](https://internscout.org/internships/at/stv/) | Electrical Engineering Intern - Summer 2027 | Oklahoma City, Oklahoma | \$41,107.00 - \$46,713.00 | Oct 14 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Oklahoma-City-Oklahoma/Electrical-Engineering-Intern---Summer-2027_JR6227) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | 2027 Summer Intern - Electrical Engineer - BS/MS Degree, (Santa Clara) | Santa Clara,CA +1 | Paid | Oct 9 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Electrical-Engineer---BS-MS-Degree---Santa-Clara-_R2629428) |
-| [Applied Materials](https://internscout.org/internships/at/applied-materials/) | 2027 Summer Electrical Engineer Intern (Controls/PCB) - BS or MS (Gloucester, MA) | Gloucester,MA +1 | \$31 - \$41 per hour | Oct 9 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineer--Intern--Controls-PCB----BS-or-MS--Gloucester--MA-_R2630658) |
-| [Carpenter Technology](https://internscout.org/internships/at/carpenter-technology/) | Maintenance Intern - Electrical | Reading, PA |  | Oct 6 | [Apply](https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Maintenance-Intern---Electrical_26884) |
-| [Hitachi](https://internscout.org/internships/at/hitachi/) | Electrical Component Engineering Intern (Summer 2027, 16months) | Toronto, Ontario, Canada +1 |  | Oct 5 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Winter-2027--16months-_R0145359) |
-| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Sales Account Manager Intern, Electrical Engineering & Business (Summer 2027) | USA - Texas - Austin +1 | \$20.00 - \$40.00 | Sep 30 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Sales-Account-Manager-Intern--Electrical-Engineering---Business--Summer-2027-_JR-2604219) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

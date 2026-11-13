@@ -1,6 +1,6 @@
 # Chemistry: Summer 2027 Internships
 
-24 open Summer 2027 chemistry roles, newest first (all 24). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 45 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
+26 open Summer 2027 chemistry roles, newest first (all 26). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 48 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -23,6 +23,8 @@
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Receiving Chemist Intern - Summer 2027 | Bartow, FL |  | Oct 1 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166421) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Chemist Intern IS \| Summer 2027 | Sumter, SC |  | Sep 21 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/165145) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | R&D Chemistry Laboratory Intern (Austin MN) - Summer 2027 - Campus Recruiting | Austin, MN |  | Sep 8 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35724) |
+| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Process Chemistry | Boston, MA | \$23.00 – \$32.00 | Nov 13 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--Process-Chemistry_REQ-31306-1) |
+| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Process Chemistry, MSAT - PhD | Boston, MA | \$30.00 – 50.00 | Nov 13 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--Process-Chemistry--MSAT---PhD_REQ-31313-1) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | Manufacturing Scientist/Quality Control Chemist Intern – Fort Dodge, Iowa (Summer 2027) | Fort Dodge, IA | \$20-\$40/hour | Sep 18 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Fort-Dodge-IA/Manufacturing-Scientist-Quality-Control-Chemist-Intern---Fort-Dodge--Iowa--Summer-2027-_R0027070) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | Manufacturing Scientist/Quality Control Chemist Intern – Clinton, Indiana (Summer 2027) | Clinton, IN | \$20-\$40/hour | Sep 18 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Clinton-IN/Manufacturing-Scientist-Quality-Control-Chemist-Intern---Clinton--Indiana--Summer-2027-_R0026870) |
 | [Ingredion](https://internscout.org/internships/at/ingredion/) | Starch Chemistry R&D Intern | Bridgewater, NJ | \$22-31/hour | Sep 18 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Bridgewater-NJ/Starch-Chemistry-R-D-Intern_Req-39908-1) |

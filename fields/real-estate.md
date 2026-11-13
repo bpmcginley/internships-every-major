@@ -1,14 +1,14 @@
 # Real Estate: Summer 2027 Internships
 
-21 open Summer 2027 real estate roles, newest first (all 21). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 46 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
+21 open Summer 2027 real estate roles, newest first (all 21). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 47 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Real Estate | Chicago, IL | \$25.00 per hour | Nov 13 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Commercial-Real-Estate_2620117) |
 | [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Leasing Summer 2027 Internship - Sacramento, CA | Sacramento, CA |  | Nov 11 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sacramento-CA/Leasing-Summer-2027-Internship---Sacramento--CA_REQ546470) |
 | [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Leasing Summer 2027 Internship - Richmond, VA | Richmond, VA |  | Nov 11 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Richmond-VA/Leasing-Summer-2027-Internship---Richmond--VA_REQ546397) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - Canadian Real Estate Finance Group | Toronto, Ontario +1 | \$40,950.00 | Nov 11 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---Canadian-Real-Estate-Finance-Group_JR26091907) |
 | [EisnerAmper](https://internscout.org/internships/at/eisneramper/) | 2027 Assurance Summer Intern - Real Estate | New York |  | Nov 10 | [Apply](https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/New-York/XMLNAME-2027-Assurance-Summer-Intern---Real-Estate_Req-9647) |
-| [KeyBank](https://internscout.org/internships/at/keybank/) | 2027 Summer Real Estate Capital Internship - New York City CMG | New York, NY | \$27 per hour | Nov 9 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/New-York-NY/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---New-York-City-CMG_R-43108) |
 | [KeyBank](https://internscout.org/internships/at/keybank/) | 2027 KeyBank Corporate Real Estate Summer Internship - Cleveland, OH | Brooklyn, OH | \$23 per hour | Nov 9 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-KeyBank-Corporate-Real-Estate-Summer-Internship---Cleveland--OH_R-42994) |
 | [Invesco](https://internscout.org/internships/at/invesco/) | Real Estate Intern, Data Science | Dallas, TX |  | Nov 6 | [Apply](https://go.vansh.nyc/1ly) |
 | [Invesco](https://internscout.org/internships/at/invesco/) | Data Science Intern - Real Estate | Dallas, TX |  | Nov 6 | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091) |

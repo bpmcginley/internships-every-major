@@ -1,9 +1,10 @@
 # Insurance: Summer 2027 Internships
 
-95 open Summer 2027 insurance roles, newest first (all 95). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 180 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+95 open Summer 2027 insurance roles, newest first (all 95). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 177 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Insurance Risk Intern - Summer 2027 | Detroit, MI |  | Nov 13 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Insurance-Risk-Intern---Summer-2027_R-084805) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern-P&C Underwriting-Knowledge Management | Bloomington, Illinois +3 | \$24/hour | Nov 12 | [Apply](https://jobs.statefarm.com/jobs/46442) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern-P&C Underwriting-Underwriter | Bloomington, Illinois +1 | \$24/hour | Nov 12 | [Apply](https://jobs.statefarm.com/jobs/46443) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern-P&C Underwriting-Learning Analyst | Bloomington, Illinois +1 | \$24/hour | Nov 12 | [Apply](https://jobs.statefarm.com/jobs/46444) |
@@ -51,7 +52,6 @@
 | [AXA](https://internscout.org/internships/at/axa/) | Summer 2027 - Underwriting Intern | NEW YORK +4 | \$25.00/hr | Sep 29 | [Apply](https://careers.axa.com/jobs/25551) |
 | [AXA](https://internscout.org/internships/at/axa/) | Summer 2027 - Claims Intern | CHICAGO +2 | \$25.00/hour | Sep 29 | [Apply](https://careers.axa.com/jobs/25499) |
 | [SCOR](https://internscout.org/internships/at/scor/) | Actuarial Intern | Charlotte, North Carolina |  | Sep 25 | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5435) |
-| [Farmers Mutual Hail](https://internscout.org/internships/at/farmers-mutual-hail/) | Crop Insurance Underwriting Intern | West Des Moines, IA | Paid | Sep 23 | [Apply](https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4418061009) |
 | Palomar Holdings | 2027 Summer Internship (Actuarial) | Edina, MN | Paid | Sep 21 | [Apply](https://ats.rippling.com/plmrcareers/jobs/d6bd58c7-5127-4a17-b70d-2d377aa9fa8a) |
 | [Compeer Financial](https://internscout.org/internships/at/compeer-financial/) | Crop Insurance Intern | WI-Fond du Lac | Paid | Aug 31 | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5398257008) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Actuarial Intern - Summer 2027 | Addison, TX +1 | Paid | Aug 19 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4376293009) |

@@ -1,6 +1,6 @@
 # Sports: Summer 2027 Internships
 
-13 open Summer 2027 sports roles, newest first (all 13). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 74 sports internships on InternScout](https://internscout.org/internships/sports/)
+13 open Summer 2027 sports roles, newest first (all 13). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 75 sports internships on InternScout](https://internscout.org/internships/sports/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

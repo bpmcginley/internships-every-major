@@ -1,9 +1,13 @@
 # Communications: Summer 2027 Internships
 
-59 open Summer 2027 communications roles, newest first (all 59). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 179 communications internships on InternScout](https://internscout.org/internships/communications/)
+63 open Summer 2027 communications roles, newest first (all 63). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 182 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | CE OPs Refinance Communications Intern - Summer 2027 | Phoenix, AZ |  | Nov 13 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Phoenix-AZ/CE-OPs-Refinance-Communications-Intern---Summer-2027_R-084621) |
+| [Tapestry](https://internscout.org/internships/at/tapestry/) | Summer Corporate Communications, Talent Acquisition, & Human Resources Internship | New York, New York, USA (Corporate Headquarters) | \$20/hour | Nov 13 | [Apply](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Corporate-Communications--Talent-Acquisition---Human-Resources-Internship_JR20955) |
+| [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Public Relations Intern - Summer 2027 | Detroit, MI |  | Nov 13 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Public-Relations-Intern---Summer-2027_R-084660) |
+| [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Internal Communications Intern - Summer 2027 | Detroit, MI |  | Nov 13 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Internal-Communications-Intern---Summer-2027_R-084659) |
 | TIAA | 2027 Early Talent Internship: Marketing & Communications, Sports Sponsorships, Folds of Honor | Charlotte, NC, USA +3 | \$22.00/hr | Nov 12 | [Apply](https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Internship--Marketing---Communications--Sports-Sponsorships--Folds-of-Honor_R261000122-1) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern - Communications | Pascagoula, Mississippi |  | Nov 12 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMMUNICATIONS-Miss/1430056000/) |
 | [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Account Communications Summer 2027 Internship | Atlanta, GA |  | Nov 11 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Delta-Account-Communications-Summer-2027-Internship---Delta-Corporate-Headquarters--Atlanta--GA_REQ546149) |

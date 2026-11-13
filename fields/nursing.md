@@ -1,9 +1,10 @@
 # Nursing: Summer 2027 Internships
 
-20 open Summer 2027 nursing roles, newest first (all 20). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 71 nursing internships on InternScout](https://internscout.org/internships/nursing/)
+21 open Summer 2027 nursing roles, newest first (all 21). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 72 nursing internships on InternScout](https://internscout.org/internships/nursing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Cleveland Clinic](https://internscout.org/internships/at/cleveland-clinic/) | Nurse Associate Externship | Florida Weston Hospital |  | Nov 13 | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Florida-Weston-Hospital/Nurse-Associate-Externship_361038) |
 | [Geisinger](https://internscout.org/internships/at/geisinger/) | Nursing Student Summer Externship - RN Cardiac Studies/Rehab | Lewistown, PA | Paid | Nov 12 | [Apply](https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Lewistown-PA/Nursing-Student-Summer-Externship---RN-Cardiac-Studies-Rehab_R-17298) |
 | [Geisinger](https://internscout.org/internships/at/geisinger/) | Nursing Student Summer Externship - RN Cancer Center | Dickson City, PA | Paid | Nov 11 | [Apply](https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Dickson-City-PA/Nursing-Student-Summer-Externship---RN-Cancer-Center_R-17078) |
 | [Geisinger](https://internscout.org/internships/at/geisinger/) | Nursing Student Summer Externship - RN Operating Room - Ambulatory Surgery | Danville, PA | Paid | Nov 6 | [Apply](https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Danville-PA/Nursing-Student-Summer-Externship---RN-Operating-Room---Ambulatory-Surgery_R-15960) |

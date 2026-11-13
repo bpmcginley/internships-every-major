@@ -1,9 +1,10 @@
 # Civil Engineering: Summer 2027 Internships
 
-337 open Summer 2027 civil engineering roles, newest first (the 200 newest of 337). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 555 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+339 open Summer 2027 civil engineering roles, newest first (the 200 newest of 339). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 558 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | Civil Engineering, Hydropower Intern - MN, WI | Minneapolis, MN, 55401 +1 | \$21.20 to \$24.60 per hour | Nov 13 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Dam-Safety-Engineer-Intern--WI_JR115604-2) |
 | [Galaxy](https://internscout.org/internships/at/galaxy/) | 2027 Construction Intern-Afton, Texas | Afton, Texas |  | Nov 12 | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6256113004) |
 | [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Civil Engineering Intern \| Hardin, MT | Hardin, MT | Paid | Nov 12 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Hardin-MT/Civil-Engineering-Intern---Hardin--MT_R-16994) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Civil Engineering Intern \| Hardin, MT | Hardin, MT | Paid | Nov 12 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Hardin-MT/Civil-Engineering-Intern---Hardin--MT_R-16994) |
@@ -35,7 +36,6 @@
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering Intern- Summer 2027 | Atlanta, GA |  | Nov 9 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98920) |
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Functional Structural Engineer Intern (Summer 2027) | Lone Tree, CO | \$23.54 - \$32.37 | Nov 9 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Functional-Structural-Engineer-Intern--Summer-2027-_R0031371-1) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Structural Engineering Intern - Summer 2027 | Troy, NY | \$23.03- \$29.96 | Nov 9 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98938) |
-| [Stantec](https://internscout.org/internships/at/stantec/) | Structural Engineering Intern - Infrastructure (Summer 2027) | Lexington, KY |  | Nov 9 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008822) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Geomatics Co-op Student - Summer 2027 | Ottawa, ON, Canada +2 |  | Nov 9 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008786) |
 | [Woolpert](https://internscout.org/internships/at/woolpert/) | Survey Internship (Summer 2027) | Columbus, OH +1 | Paid | Nov 6 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4426384009) |
 | [Woolpert](https://internscout.org/internships/at/woolpert/) | Survey Internship (Summer 2027) | Albuquerque, NM +9 | Paid | Nov 6 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4426377009) |
@@ -129,8 +129,6 @@
 | [Stantec](https://internscout.org/internships/at/stantec/) | Structural Engineering Intern - Buildings (Summer 2027) | Phoenix, AZ |  | Oct 13 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008292) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Civil Engineering Intern, Federal - Summer 2027 | Jacksonville, FL |  | Oct 13 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310064) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Geotechnical Engineering Intern - E&R (Summer 2027) | Chicago, IL |  | Oct 13 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008262) |
-| [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Structural & Mechanical Engineering Internship - Undergraduate | Van Horn, TX +4 | \$32.00 | Oct 13 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Structural---Mechanical-Engineering-Internship---Undergraduate_R71444) |
-| [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Summer 2027 Structural & Mechanical Systems Engineering Internship - Graduate | Van Horn, TX +4 | \$38.00 | Oct 13 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Structural---Mechanical-Systems-Engineering-Internship---Graduate_R71445) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Bridge Design Intern - Infrastructure (Summer 2027) | Columbia, SC |  | Oct 12 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008240) |
 | SAM | Land Surveying Internship Program - Summer 2027 | Austin, Texas | \$20.00 | Oct 12 | [Apply](https://careers.sam.biz/jobs/8091) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Geotechnical Engineering Intern - Energy & Resources (Summer 2027) | Houston, TX |  | Oct 12 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008133) |
@@ -200,10 +198,12 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Construction Intern (Summer 2027!) | Concord, California | \$45.84 | Sep 11 | [Apply](https://careers.cdmsmith.com/jobs/4480) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Civil Engineering Intern | Milwaukee, Wisconsin | \$20.00 | Sep 9 | [Apply](https://careers.trccompanies.com/jobs/26751) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Civil Engineering Intern | Madison, Wisconsin | \$20.00 | Sep 9 | [Apply](https://careers.trccompanies.com/jobs/26735) |
-| [Tighe & Bond](https://internscout.org/internships/at/tighe-bond/) | Civil Engineering Internship - Site Design - Summer 2027 | Worcester, MA | \$21.00 | Sep 9 | [Apply](https://careers-tighebond.icims.com/jobs/1842/civil-engineering-internship---site-design---summer-2027/job) |
+| Tighe & Bond | Civil Engineering Internship - Site Design - Summer 2027 | Worcester, MA | \$21.00 | Sep 9 | [Apply](https://careers-tighebond.icims.com/jobs/1842/civil-engineering-internship---site-design---summer-2027/job) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Construction Intern, Summer 2027 | Madison, WI +1 |  | Sep 9 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309859) |
-| [Tighe & Bond](https://internscout.org/internships/at/tighe-bond/) | Civil Engineering Internship - Site Design - Summer 2027 | Providence, RI | \$21.00 | Sep 9 | [Apply](https://careers-tighebond.icims.com/jobs/1844/civil-engineering-internship---site-design---summer-2027/job) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Geotechnical Engineering Intern (Summer 2027!) | Dallas, Texas | \$40.11 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4404) |
+| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Structural Engineering Intern (Summer 2027!) | Pittsburgh, Pennsylvania | \$42.02 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4383) |
+| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors - Transportation Engineering Intern (Summer 2027!) | Lisle, Illinois | \$38.20 | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/3911) |
+| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Structural Engineering Intern (Bridge Design, Summer 2027!) | Columbia, South Carolina | \$40.11 | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/4351) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
