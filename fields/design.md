@@ -1,6 +1,6 @@
 # Design: Summer 2027 Internships
 
-87 open Summer 2027 design roles, newest first (all 87). **Updated November 14, 2026.** [Back to every major](../README.md) · [See all 202 design internships on InternScout](https://internscout.org/internships/design/)
+90 open Summer 2027 design roles, newest first (all 90). **Updated November 14, 2026.** [Back to every major](../README.md) · [See all 207 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -74,6 +74,9 @@
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Graphic Design Internship - Summer 2027 | Reston, VA | Paid | Nov 14, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8668/graphic-design-internship---summer-2027/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | User Experience Design (UX) Intern | Niles, IL | \$23-\$43 per hour | Nov 14, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5003/user-experience-design-%28ux%29-intern/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Industrial Design Intern | Niles, IL | \$23-\$43 per hour | Nov 14, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4991/industrial-design-intern/job) |
+| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Creative Design (Interior/Exterior) | Warren, Michigan, United States of America +1 | \$6,100 month | Nov 14 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Creative-Design--Interior-Exterior-_JR-202619314) |
+| [General Motors](https://internscout.org/internships/at/general-motors/) | Summer 2027 Intern - Industrial Design | Warren, Michigan, United States of America |  | Nov 14 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Industrial-Design_JR-202621626) |
+| Rogue Fitness | Product Designer Intern | Columbus, Ohio | \$30.00 / hour | Nov 14 | [Apply](https://roguefitness.wd1.myworkdayjobs.com/RogueFitness_External_Careers/job/Columbus-Ohio/Product-Designer-Intern_R-102996) |
 | Electronic Arts Inc. / EA | Technical Artist Intern (Vancouver - Summer 2027 - 8-months - Undergraduate - Sports Tech) | Vancouver, BC | \$60,000 - \$65,000 | Nov 14 | [Apply](https://www.eluta.ca/spl/technical-artist-intern-vancouver-summer-2027-8-months-undergraduate-sports-tech-e565115f7fb22f8c45cb1822ec1f217e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Skidmore, Owings & Merrill LLP (SOM) | Summer Design Internship - Architecture & Interiors | San Francisco, CA | \$25/hour | Nov 13 | [Apply](https://www.learn4good.com/jobs/san-francisco/california/design_and_multimedia/5616030976/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Skidmore, Owings & Merrill LLP (SOM) | Summer Design Intern – Architecture & Visualization | San Francisco, CA | \$25–\$27 | Nov 13 | [Apply](https://www.jobleads.com/us/job/summer-design-intern-architecture-visualization--san-francisco--e19782b6dae16fa1400393239814ad09e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |

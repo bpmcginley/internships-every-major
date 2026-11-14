@@ -1,9 +1,11 @@
 # Materials Science: Summer 2027 Internships
 
-12 open Summer 2027 materials science roles, newest first (all 12). **Updated November 14, 2026.** [Back to every major](../README.md) · [See all 30 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
+14 open Summer 2027 materials science roles, newest first (all 14). **Updated November 14, 2026.** [Back to every major](../README.md) · [See all 33 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Research and Development - Computational Materials Science: Continuum Scales and Materials Discove… | Warren, Michigan, United States of America |  | Nov 12 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Computational-Materials-Science--Continuum-Scales-and-Materials-Discovery_JR-202621642) |
+| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Research and Development - Physical Metallurgist (Steels) | Warren, Michigan, United States of America |  | Nov 12 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Physical-Metallurgist--Steels-_JR-202621636) |
 | [Charter Manufacturing](https://internscout.org/internships/at/charter-manufacturing/) | Materials Engineer Intern (Summer 2027) | Charter Aarrowcast - Shawano, WI | Paid | Nov 4 | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Aarrowcast---Shawano-WI/Materials-Engineer-Intern--Summer-2027-_R08192) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Metallurgy & Process Engineering Intern - Energy & Resources (Summer 2027) | Reno, NV |  | Oct 30 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008551) |
 | [Carpenter Technology](https://internscout.org/internships/at/carpenter-technology/) | Metallurgy Intern | Tanner, AL | \$21.00-\$25.00 per hour | Oct 28 | [Apply](https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Tanner-AL/Metallurgy-Intern_26967) |

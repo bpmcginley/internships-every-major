@@ -1,9 +1,10 @@
 # Education: Summer 2027 Internships
 
-38 open Summer 2027 education roles, newest first (all 38). **Updated November 14, 2026.** [Back to every major](../README.md) · [See all 261 education internships on InternScout](https://internscout.org/internships/education/)
+39 open Summer 2027 education roles, newest first (all 39). **Updated November 14, 2026.** [Back to every major](../README.md) · [See all 270 education internships on InternScout](https://internscout.org/internships/education/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Motorola](https://internscout.org/internships/at/motorola/) | Global Education Intern (Summer 2027 Internship) | Chicago, IL +1 |  | Nov 13 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Global-Education-Intern--Summer-2027-Internship-_R70403) |
 | [Pennsylvania State University](https://internscout.org/internships/at/pennsylvania-state-university/) | Energy Savings Program Intern | University Park, State College, PA |  | Nov 13 | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Energy-Savings-Program-Intern_REQ_0000084318-1) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Instructional Design Intern - Summer 2027 | Detroit, MI |  | Nov 13 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Instructional-Design-Intern---Summer-2027_R-084817) |
 | [University of Virginia](https://internscout.org/internships/at/university-of-virginia/) | Undergraduate Admission Intern/Tour Guide SUMMER 2027 (Student Wage) | Charlottesville, VA | \$15.00 Hour | Nov 13 | [Apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Undergraduate-Admission-Intern-Tour-Guide-SUMMER-2027--Student-Wage-_R0089070) |
@@ -33,13 +34,13 @@
 | [Strada Education Foundation](https://internscout.org/internships/at/strada-education-foundation/) | Strada Education Foundation Internship: Clear Outcomes and Data Science Intern | Washington, DC | \$22.75/hour | Oct 27 | [Apply](https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b/apply) |
 | [Strada Education Foundation](https://internscout.org/internships/at/strada-education-foundation/) | Strada Education Foundation Internship: Communication Intern | Indianapolis, Indiana +1 | \$22.75/hour | Oct 27 | [Apply](https://jobs.lever.co/stradaeducation/91b84789-7d6d-4009-a5a3-13bbf90dc7d4/apply) |
 | University of Texas - Austin | Summer Intern for GeoFORCE | PICKLE RESEARCH CAMPUS, TX | \$20/hour | Oct 27 | [Apply](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Summer-Intern-for-GeoFORCE_R_00049554) |
-| [University of Virginia](https://internscout.org/internships/at/university-of-virginia/) | Precollege Program Coordinator Intern (Student Wage) | Charlottesville, VA | \$18/hour | Oct 14 | [Apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Precollege-Program-Coordinator-Intern--Student-Wage-_R0088400) |
 | Auburn University | Advancement Internship - Events & Experience | Auburn, AL | \$14.00/hour | Oct 9 | [Apply](https://jobs.auburn.edu/jobs/10541) |
 | Auburn University | Student Summer Intern - Alabama Extension | Auburn University, AL |  | Oct 5 | [Apply](https://jobs.auburn.edu/jobs/10556) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Leadership Instructional Design Internship | IRVINE, California | Paid | Sep 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36762) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Sales Instructional Design Internship | Caledonia, Michigan | Paid | Sep 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36655) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship - Human Centered Design | Laurel, Maryland | \$22.60 Hour | Sep 4 | [Apply](https://careers.jhuapl.edu/jobs/59986) |
 | [Carnegie Mellon University](https://internscout.org/internships/at/carnegie-mellon-university/) | Malware Analysis Intern - Summer 2027 | Pittsburgh, PA |  | Nov 14 | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Malware-Analysis-Intern---Summer-2027_2025185-1) |
+| [University of Virginia](https://internscout.org/internships/at/university-of-virginia/) | Precollege Program Coordinator Intern (Student Wage) | Charlottesville, VA | \$18/hour | Oct 14 | [Apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Precollege-Program-Coordinator-Intern--Student-Wage-_R0088400) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Medical Education - Michigan | Portage, Michigan |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Medical-Education---Michigan_R572626-1) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Marketing & Sales Education & Training Internship - Summer 2027 | Lansing, MI |  | Sep 18 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Marketing---Sales-Education---Training-Internship---Summer-2027_R_14449) |
 
