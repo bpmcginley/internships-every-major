@@ -1,6 +1,6 @@
 # Media: Summer 2027 Internships
 
-44 open Summer 2027 media roles, newest first (all 44). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 140 media internships on InternScout](https://internscout.org/internships/media/)
+42 open Summer 2027 media roles, newest first (all 42). **Updated November 14, 2026.** [Back to every major](../README.md) · [See all 133 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -23,7 +23,6 @@
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Kitchen Team Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748503005) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Editorial Projects Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748499005) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Audience Team Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748501005) |
-| [Dow Jones](https://internscout.org/internships/at/dow-jones/) | Research Analyst Intern | Houston, TX |  | Oct 30 | [Apply](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55875) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Houston Chronicle Visuals Internship - Summer 2027 | Houston, TX, United States | Paid | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466410009) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Audience Intern - Summer 2027 | Houston, TX, United States | Paid | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466386009) |
 | OpenArt AI | Early Adopter & Product Builder Intern, Creative AI | San Carlos, CA |  | Oct 22 | [Apply](https://go.vansh.nyc/ej) |
@@ -44,7 +43,6 @@
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Video/Image AI/ML Software Engineer Intern - Multimedia | San Diego, CA |  | Aug 6 | [Apply](https://jobs.bytedance.com/en/position/7670354329765464373/detail) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Creative Intelligence and Brand Innovation | San Jose, CA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7668642761473902901) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Local Investigations Fellowship Expression of Interest | Remote |  | Jan 1 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4637331005) |
-| [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Creative Design (Interior/Exterior) | Warren, Michigan, United States of America +1 | \$6,100 month | Sep 19 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Creative-Design--Interior-Exterior-_JR-202619314) |
 | [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Photo and Video Marketing Production | Overland Park, KS |  | Sep 18 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Summer-2027-Internship--Photo-and-Video-Marketing-Production_R2026-2015) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Video Production Intern, Summer 2027 | North Andover, MA | \$21-23 per hour | Sep 18 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Video-Production-Intern--Summer-2027_10017537) |
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | Video and Interactive Training Production Intern - Ditch Witch | Perry, OK | \$20–\$24 | Sep 18 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Video-and-Interactive-Training-Production-Intern---Ditch-Witch_JR17214) |

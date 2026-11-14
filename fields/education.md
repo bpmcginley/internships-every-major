@@ -1,9 +1,10 @@
 # Education: Summer 2027 Internships
 
-34 open Summer 2027 education roles, newest first (all 34). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 262 education internships on InternScout](https://internscout.org/internships/education/)
+35 open Summer 2027 education roles, newest first (all 35). **Updated November 14, 2026.** [Back to every major](../README.md) · [See all 258 education internships on InternScout](https://internscout.org/internships/education/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Pennsylvania State University](https://internscout.org/internships/at/pennsylvania-state-university/) | Energy Savings Program Intern | University Park, State College, PA |  | Nov 13 | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Energy-Savings-Program-Intern_REQ_0000084318-1) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Instructional Design Intern - Summer 2027 | Detroit, MI |  | Nov 13 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Instructional-Design-Intern---Summer-2027_R-084817) |
 | [University of Virginia](https://internscout.org/internships/at/university-of-virginia/) | Undergraduate Admission Intern/Tour Guide SUMMER 2027 (Student Wage) | Charlottesville, VA | \$15.00 Hour | Nov 13 | [Apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Undergraduate-Admission-Intern-Tour-Guide-SUMMER-2027--Student-Wage-_R0089070) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship - Material Sciences | Laurel, Maryland | \$22.60 Hour | Nov 13 | [Apply](https://careers.jhuapl.edu/jobs/60857) |

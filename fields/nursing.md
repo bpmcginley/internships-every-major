@@ -1,6 +1,6 @@
 # Nursing: Summer 2027 Internships
 
-21 open Summer 2027 nursing roles, newest first (all 21). **Updated November 13, 2026.** [Back to every major](../README.md) · [See all 72 nursing internships on InternScout](https://internscout.org/internships/nursing/)
+26 open Summer 2027 nursing roles, newest first (all 26). **Updated November 14, 2026.** [Back to every major](../README.md) · [See all 86 nursing internships on InternScout](https://internscout.org/internships/nursing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -24,6 +24,11 @@
 | [Sanford Health](https://internscout.org/internships/at/sanford-health/) | Student Nurse Internship, Summer 2027: Minocqua, WI | WI, Minocqua | Paid | Oct 23 | [Apply](https://sanford.wd5.myworkdayjobs.com/SanfordHealth/job/WI-Minocqua/Student-Nurse-Internship--Summer-2027--Minocqua--WI_R-0279363) |
 | [Geisinger](https://internscout.org/internships/at/geisinger/) | Nursing Student Summer Externship - Apply Here for RN Hospital Case Management | Danville, PA | Paid | Oct 20 | [Apply](https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Danville-PA/Nursing-Student-Summer-Externship---Apply-Here-for-RN-Hospital-Case-Management_R-13237) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Nurse Extern Program, Allegheny Health Network - Erie, PA Opportunities | Erie PA, 16502, 232 West 25th St |  | Oct 15 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Erie-PA-16502-232-West-25th-St/Summer-2027-Nurse-Extern-Program--Allegheny-Health-Network---Erie--PA-Opportunities_J288494-1) |
+| [Mayo Clinic](https://internscout.org/internships/at/mayo-clinic/) | SEMN Summer Student Nurse Internship - SNI | Cannon Falls, MN +1 | \$23.30 per hour | Nov 14 | [Apply](https://jobs.mayoclinic.org/job/cannon-falls/semn-summer-student-nurse-internship-sni/33647/102769540320?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [Geisinger](https://internscout.org/internships/at/geisinger/) | (#R-13834) Nursing Student Summer Externship - Apply here for Interventional Radiology | United States |  | Nov 14 | [Apply](https://career.alma.edu/jobs/geisinger-r-13834-nursing-student-summer-externship-apply-here-for-interventional-radiology/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| Hartford HealthCare Corp. | 2027 Summer Student Nurse Intern Program | Bridgeport, CT (+6 others) |  | Nov 14 | [Apply](https://www.hhccareers.org/us/en/job/HHKHHEUS26165695EXTERNALENUS/2027-Summer-Student-Nurse-Intern-Program?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| Camp Walt Whitman | Summer Camp Nursing Internship | Piermont, NH |  | Nov 14 | [Apply](https://career.du.edu/jobs/camp-walt-whitman-summer-camp-nursing-internship/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| UPMC | Student Nurse Internship (SNI) Program: Central PA Hospitals | Pittsburgh, PA | Paid | Nov 14 | [Apply](https://careers.upmc.com/job/23719057/student-nurse-internship-sni-program-central-pa-hospitals-pittsburgh-pa/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Nurse Extern Program, Allegheny Health Network - Greater Pittsburgh Opportunities | Pittsburgh PA, 15222, FAP, 5th Avenue Place |  | Oct 7 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Nurse-Extern-Program--Allegheny-Health-Network---Greater-Pittsburgh-Opportunities_J288491) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
