@@ -1,13 +1,13 @@
 # Biology: Summer 2027 Internships
 
-20 open Summer 2027 biology roles, newest first (all 20). **Updated November 14, 2026.** [Back to every major](../README.md) · [See all 757 biology internships on InternScout](https://internscout.org/internships/biology/)
+20 open Summer 2027 biology roles, newest first (all 20). **Updated November 14, 2026.** [Back to every major](../README.md) · [See all 745 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | The Allen Institute for AI | Research Internship, AI for Neuroscience | Seattle, WA | \$94,320 | Nov 13 | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293636) |
 | [Emerson Electric](https://internscout.org/internships/at/emerson-electric/) | Life Sciences Marketing Intern | Round Rock, TX |  | Nov 13 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009264) |
-| [AstraZeneca](https://internscout.org/internships/at/astrazeneca/) | Summer 2027 Pharmaceutical Development Summer Intern PhD | US - New Haven - CT | \$48 per hour | Nov 13 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---New-Haven---CT/Summer-2027-Pharmaceutical-Development-Summer-Intern-PhD_R-264287-1) |
-| [Alexion](https://internscout.org/internships/at/alexion/) | Summer 2027 Pharmaceutical Development Summer Intern PhD | US - New Haven - CT | \$48 per hour | Nov 13 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---New-Haven---CT/Summer-2027-Pharmaceutical-Development-Summer-Intern-PhD_R-264287) |
+| [AstraZeneca](https://internscout.org/internships/at/astrazeneca/) | Summer 2027 Pharmaceutical Development Summer Intern PhD | US - New Haven - CT | \$48 per hour | Nov 12 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---New-Haven---CT/Summer-2027-Pharmaceutical-Development-Summer-Intern-PhD_R-264287-1) |
+| [Alexion](https://internscout.org/internships/at/alexion/) | Summer 2027 Pharmaceutical Development Summer Intern PhD | US - New Haven - CT | \$48 per hour | Nov 12 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---New-Haven---CT/Summer-2027-Pharmaceutical-Development-Summer-Intern-PhD_R-264287) |
 | [Vizient](https://internscout.org/internships/at/vizient/) | 2027 Summer Internship – Pharmacy Commit | Chicago, IL 60607 +6 | \$25 per hour | Nov 12 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Pharmacy-Commit_36213R-1) |
 | [Vizient](https://internscout.org/internships/at/vizient/) | Summer 2027 Internship - Life Sciences Solutions Market Research | Chicago, IL 60607 | \$25 per hour | Nov 9 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Summer-2027-Internship---Life-Sciences-Solutions-Market-Research_36152R) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship – Applied Biological Sciences | Laurel, Maryland | \$22.60 Hour | Nov 5 | [Apply](https://careers.jhuapl.edu/jobs/60594) |

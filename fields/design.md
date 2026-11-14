@@ -1,6 +1,6 @@
 # Design: Summer 2027 Internships
 
-88 open Summer 2027 design roles, newest first (all 88). **Updated November 14, 2026.** [Back to every major](../README.md) · [See all 203 design internships on InternScout](https://internscout.org/internships/design/)
+87 open Summer 2027 design roles, newest first (all 87). **Updated November 14, 2026.** [Back to every major](../README.md) · [See all 202 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -12,7 +12,6 @@
 | [Entegris](https://internscout.org/internships/at/entegris/) | Product Design R&D Intern - Summer 2027 | Colorado Springs, CO |  | Nov 12 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Colorado-Springs-CO/Product-Design-R-D-Intern---Summer-2027_REQ-15877) |
 | Systems Planning and Analysis | UI/UX Software Intern | Alexandria, VA |  | Nov 11 | [Apply](https://go.vansh.nyc/1xp) |
 | [HP IQ](https://internscout.org/internships/at/hp-iq/) | Experience Design Intern (Summer 2027) | San Francisco, CA | \$40.00–\$50.00 per hour | Nov 11 | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6230959004) |
-| [Riot Games](https://internscout.org/internships/at/riot-games/) | Technical Game Design Intern - League of Legends and Teamfight Tactics | LA |  | Nov 11 | [Apply](https://www.riotgames.com/en/work-with-us/job/8356525?gh_jid=8356525) |
 | [PTC](https://internscout.org/internships/at/ptc/) | UI/UX Design Intern (Summer 2027) | USA-San Mateo, CA | Paid | Nov 11 | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/USA-San-Mateo-CA/UI-UX-Designer-Intern--Summer-2027-_JR112956) |
 | [Notion](https://internscout.org/internships/at/notion/) | Product Design Intern (Summer 2027) | New York, New York +1 | \$57/hr | Nov 10 | [Apply](https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9/application) |
 | [Addepar](https://internscout.org/internships/at/addepar/) | Design Intern - Summer 2027 | New York, NY | \$39 per hour | Nov 10 | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8927595002) |
@@ -29,8 +28,8 @@
 | [Figma](https://internscout.org/internships/at/figma/) | PhD Intern, Software Engineer - Interaction Design (2027) | SF +1 |  | Nov 4 | [Apply](https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004) |
 | [KnowBe4](https://internscout.org/internships/at/knowbe4/) | Multimedia Designer Summer Internship (Hybrid) | Clearwater, Florida | Paid | Nov 1 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919260002) |
 | [Insomniac Games](https://internscout.org/internships/at/insomniac-games/) | Undergraduate Tech Art Intern | Burbank, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18Q) |
-| [Philips](https://internscout.org/internships/at/philips/) | Intern - Industrial Design - Murrysville, PA - Summer 2027 | Murrysville, Pennsylvania, United States | \$24.00 to \$27.00 | Oct 30 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Intern---Industrial-Design---Murrysville--PA---Summer-2027_593133) |
 | [Global Infrastructure](https://internscout.org/internships/at/global-infrastructure/) | Intern, Technology Designer | US +1 | \$23 to \$28 per hour | Oct 30 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--MO--St-Louis---6-South-Old-Orchard/Intern-Technology-Designer_6625) |
+| [Philips](https://internscout.org/internships/at/philips/) | Intern - Industrial Design - Murrysville, PA - Summer 2027 | Murrysville, Pennsylvania, United States | \$24.00 to \$27.00 | Oct 29 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Intern---Industrial-Design---Murrysville--PA---Summer-2027_593133) |
 | [Systems Planning and Analysis (SPA)](https://internscout.org/internships/at/systems-planning-and-analysis-spa/) | UI/UX Software Intern - Summer 2027 | Alexandria, Virginia | \$23.00/Hr | Oct 28 | [Apply](https://spa.jibeapply.com/jobs/23699) |
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | Industrial Design Engineering Intern, 3D Surfacing - Summer 2027 | Towson, MD, United States | \$22.00- \$27.00 per hour | Oct 28 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern--3D-Surfacing---Summer-2027_REQ-1000052665) |
 | [HP IQ](https://internscout.org/internships/at/hp-iq/) | Product Design Engineering Intern (Summer 2027) | San Francisco, CA +1 | \$40.00–\$50.00 per hour | Oct 26 | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6141235004) |
