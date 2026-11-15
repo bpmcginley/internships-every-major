@@ -1,9 +1,10 @@
 # Consulting: Summer 2027 Internships
 
-118 open Summer 2027 consulting roles, newest first (all 118). **Updated November 15, 2026.** [Back to every major](../README.md) · [See all 217 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+119 open Summer 2027 consulting roles, newest first (all 119). **Updated November 15, 2026.** [Back to every major](../README.md) · [See all 218 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 MBA Internship - Strategy Intern | Los Angeles, CA, United States | Paid | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507770009) |
 | [SAS](https://internscout.org/internships/at/sas/) | IoT Product Strategy Intern | Cary, NC |  | Nov 14 | [Apply](https://careers-sas.icims.com/jobs/43309/job?mobile=true&needsRedirect=false) |
 | [HUB](https://internscout.org/internships/at/hub/) | HUB International Internship Program Summer 2027, Investment Consulting | Toronto, ON | \$20.00 to \$25.00 per hour | Nov 13 | [Apply](https://hubinternational.wd1.myworkdayjobs.com/HUBInternational/job/Toronto-ON/HUB-International-Internship-Program-Summer-2027--Investment-Consulting_R0039534) |
 | [Ryan](https://internscout.org/internships/at/ryan/) | Summer 2027 Tax Consulting Intern - Canada | Mississauga +4 | \$24.52 - \$26.44 | Nov 13 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Mississauga/Summer-2027-Tax-Consulting-Intern---Canada_R0020613-1) |

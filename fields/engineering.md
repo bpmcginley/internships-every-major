@@ -1,6 +1,6 @@
 # Engineering: Summer 2027 Internships
 
-685 open Summer 2027 engineering roles, newest first (the 200 newest of 685). **Updated November 15, 2026.** [Back to every major](../README.md) · [See all 1,719 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+685 open Summer 2027 engineering roles, newest first (the 200 newest of 685). **Updated November 15, 2026.** [Back to every major](../README.md) · [See all 1,725 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Entegris](https://internscout.org/internships/at/entegris/) | Quality Engineering Intern | Chaska, MN | \$20-\$30/hour | Nov 12 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Quality-Engineering-Intern_REQ-15878) |
 | [Entegris](https://internscout.org/internships/at/entegris/) | Quality Engineering Intern | Colorado Springs, CO | \$20-\$30/hour | Nov 12 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Colorado-Springs-CO/Quality-Engineering-Intern_REQ-15867) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Maintenance Technician Intern, Associates Degree (Summer 2027) | USA - New York - Malta |  | Nov 12 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Maintenance-Technician-Intern--Associates-Degree--Summer-2027-_JR-2604614) |
-| [RTX](https://internscout.org/internships/at/rtx/) | Cryogenic Engineering Intern (Summer 2027) | Tucson, AZ | Paid | Nov 12 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-811A--1151-E-Hermans-Rd--BLDG-811A-External-Site/Cryogenic-Engineering-Intern--Summer-2027-_01888586) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Cryogenic Engineering Intern (Summer 2027) | Tucson, AZ |  | Nov 12 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-811A--1151-E-Hermans-Rd--BLDG-811A-External-Site/Cryogenic-Engineering-Intern--Summer-2027-_01888586) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern-Computer Engineering | Pascagoula, Mississippi |  | Nov 12 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/) |
 | [Bask Health](https://internscout.org/internships/at/bask-health/) | Product Engineering Intern | Remote +1 |  | Nov 11 | [Apply](https://go.vansh.nyc/1vy) |
 | Zotec Partners | Database Engineer Intern | Carmel, IN |  | Nov 11 | [Apply](https://go.vansh.nyc/1vs) |
@@ -152,7 +152,6 @@
 | Mitsubishi Heavy Industries America | Engineering Intern - Summer 2027 | Pooler, GA |  | Oct 28 | [Apply](https://mhicareers.com/job/Pooler-Engineering-Intern-Summer-2027-GA-31322/1452261433/) |
 | [Federal Home Loan Bank of Indianapolis](https://internscout.org/internships/at/federal-home-loan-bank-of-indianapolis/) | Network Engineer Intern | Indianapolis, IN | Paid | Oct 28 | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Network-Engineer-Intern_R630) |
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | Network Engineer Intern (Summer 2027) | Hagerstown, MD | \$21.40 - \$29.43 | Oct 28 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Network-Engineer-Intern--Summer-2027-_R0031232) |
-| [Federal Home Loan Bank of Indianapolis](https://internscout.org/internships/at/federal-home-loan-bank-of-indianapolis/) | Automation Quality Engineer Intern | Indianapolis, IN | Paid | Oct 28 | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Automation-Quality-Engineer-Intern_R633) |
 | [Carpenter Technology](https://internscout.org/internships/at/carpenter-technology/) | R&D Materials Characterization Intern | Reading, PA | \$21.00-\$25.00 per hour | Oct 28 | [Apply](https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/R-D-Materials-Characterization-Intern_26966) |
 | [Intel](https://internscout.org/internships/at/intel/) | Process Integration Development Engineer PhD Intern 2027 | Hillsboro, OR | \$120,898.00-120,902.00 | Oct 28 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-2027_JR0288661) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Heat Pump Product Engineering Intern, Summer 2027 | Fort Worth, TX | \$22–\$26 hour | Oct 28 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Heat-Pump-Product-Support-Summer-Intern-2027_10017704) |
@@ -204,6 +203,7 @@
 | [ABB](https://internscout.org/internships/at/abb/) | R&D Intern Florence-- Summer 2027 | USA, SC | \$20 - \$34 per hour | Oct 26 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-SC-Florence/R-D-Intern--Florence---Summer-2027_JR00046528) |
 | [Skydio](https://internscout.org/internships/at/skydio/) | Autonomy Engineer Intern | San Mateo, CA |  | Oct 25 | [Apply](https://go.vansh.nyc/BH) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 Engineering Summer Internship - Engrg Intern | Newport News, Virginia | \$49,000.00 to \$75,000.00 | Oct 25 | [Apply](https://careers.huntingtoningalls.com/job/Newport-News-2027-ENGINEERING-SUMMER-INTERNSHIP-ENGRG-INTERN-Virg/1424488400/) |
+| [Trimble](https://internscout.org/internships/at/trimble/) | Automated Test Engineering Intern | Richmond Hill, Canada |  | Oct 24 | [Apply](https://go.vansh.nyc/hX) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

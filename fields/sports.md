@@ -1,6 +1,6 @@
 # Sports: Summer 2027 Internships
 
-13 open Summer 2027 sports roles, newest first (all 13). **Updated November 15, 2026.** [Back to every major](../README.md) · [See all 75 sports internships on InternScout](https://internscout.org/internships/sports/)
+14 open Summer 2027 sports roles, newest first (all 14). **Updated November 15, 2026.** [Back to every major](../README.md) · [See all 76 sports internships on InternScout](https://internscout.org/internships/sports/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,6 +11,7 @@
 | Nex | Summer 2027 \| Software Engineer Intern (Sports & Fitness) | San Jose, California (Hybrid) +1 |  | Nov 3 | [Apply](https://job-boards.greenhouse.io/nex/jobs/5421056008) |
 | Denver | Therapeutic Recreation Intern | Greater Denver Area, CO | \$19.29 - \$21.80 | Nov 2 | [Apply](https://denver.wd1.myworkdayjobs.com/CCD-denver-denvergov-CSC_Jobs-Civil_service_jobs-Police_Jobs-Fire_Jobs/job/Greater-Denver-Area/Therapeutic-Recreation-Intern_R0083838) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer and Fall 2027 FOX Technology Internship Program - Live Sports Virtual Enhancement Operator | Tempe, AZ |  | Oct 30 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Summer-and-Fall-2027-FOX-Technology-Internship-Program---Live-Sports-Virtual-Enhancement-Operator_R50033973) |
+| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Team Sports/Sales | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Team-SportsSales-MD-21230/1434355500/) |
 | PGA TOUR | 2027 PGA Tour Summer Internship Program | PGA TOUR Global Home - Ponte Vedra Beach, FL | Paid | Nov 14 | [Apply](https://pgatour.wd5.myworkdayjobs.com/PGATOURExternal/job/PGA-TOUR-Global-Home---Ponte-Vedra-Beach-FL/XMLNAME-2027-PGA-Tour-Summer-Internship-Program_R015374) |
 | Electronic Arts Inc. / EA | Technical Artist Intern (Vancouver - Summer 2027 - 8-months - Undergraduate - Sports Tech) | Vancouver, BC | \$60,000 - \$65,000 | Nov 14 | [Apply](https://www.eluta.ca/spl/technical-artist-intern-vancouver-summer-2027-8-months-undergraduate-sports-tech-e565115f7fb22f8c45cb1822ec1f217e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Marriott Vacations Worldwide](https://internscout.org/internships/at/marriott-vacations-worldwide/) | Summer 2027 - College Internship – Palm Desert, CA (Housekeeping, Recreation, & Food & Beverage) | Marriott's Shadow Ridge, FL +1 | \$16.90-23.05 /hour | Nov 3 | [Apply](https://mymvw.wd5.myworkdayjobs.com/mvw/job/Marriotts-Shadow-Ridge/Summer-2027---College-Internship---Palm-Desert--CA--Housekeeping--Recreation----Food---Beverage-_JR94008) |

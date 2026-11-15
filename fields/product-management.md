@@ -1,9 +1,13 @@
 # Product Management: Summer 2027 Internships
 
-184 open Summer 2027 product management roles, newest first (all 184). **Updated November 15, 2026.** [Back to every major](../README.md) · [See all 327 product management internships on InternScout](https://internscout.org/internships/product-management/)
+188 open Summer 2027 product management roles, newest first (all 188). **Updated November 15, 2026.** [Back to every major](../README.md) · [See all 331 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Internship - Product Management Intern | Seattle, WA, United States +1 | Paid | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009) |
+| [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Internship - Product Intern | Coppell, TX, United States +1 |  | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009) |
+| [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Internship - Product Intern | New York, NY, United States +1 | Paid | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507676009) |
+| [Philips](https://internscout.org/internships/at/philips/) | Intern – Upstream Product Management (MBA / PhD) – Bedford, MA – Summer 2027 | Bedford, Massachusetts, United States | \$33.00 to \$41.00 | Nov 15 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Intern---Upstream-Product-Management--MBA---PhD----Bedford--MA---Summer-2027_593145) |
 | [SAS](https://internscout.org/internships/at/sas/) | IoT Product Strategy Intern | Cary, NC |  | Nov 14 | [Apply](https://careers-sas.icims.com/jobs/43309/job?mobile=true&needsRedirect=false) |
 | [Koch Industries](https://internscout.org/internships/at/koch-industries/) | Product Management Intern - Aerospace & Defense Solutions | Georgetown, TX |  | Nov 13 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/197821) |
 | [ServiceNow](https://internscout.org/internships/at/servicenow/) | Senior Outbound Product Manager Intern | San Diego, CA |  | Nov 13 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161590090) |

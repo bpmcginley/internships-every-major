@@ -1,9 +1,10 @@
 # Business: Summer 2027 Internships
 
-83 open Summer 2027 business roles, newest first (all 83). **Updated November 15, 2026.** [Back to every major](../README.md) · [See all 153 business internships on InternScout](https://internscout.org/internships/business/)
+84 open Summer 2027 business roles, newest first (all 84). **Updated November 15, 2026.** [Back to every major](../README.md) · [See all 154 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 MBA Internship - Licensing Intern | Los Angeles, CA, United States | Paid | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507489009) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Business Strategist Intern - Summer 2027 | Detroit, MI |  | Nov 13 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Business-Strategist-Intern---Summer-2027_R-084651) |
 | Fifth Third Bank | Summer 2027 Commercial Middle Market Internship - San Jose | San Jose, CA | Paid | Nov 12 | [Apply](https://fifththird.wd5.myworkdayjobs.com/53careers/job/San-Jose-CA/Summer-2027-Commercial-Middle-Market-Internship---San-Jose_R72043) |
 | [Citizens Financial Group](https://internscout.org/internships/at/citizens-financial-group/) | 2027 Commercial Summer Intern - Houston, TX | United States +1 |  | Nov 12 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49213) |

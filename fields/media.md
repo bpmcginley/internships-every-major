@@ -1,9 +1,10 @@
 # Media: Summer 2027 Internships
 
-43 open Summer 2027 media roles, newest first (all 43). **Updated November 15, 2026.** [Back to every major](../README.md) · [See all 140 media internships on InternScout](https://internscout.org/internships/media/)
+44 open Summer 2027 media roles, newest first (all 44). **Updated November 15, 2026.** [Back to every major](../README.md) · [See all 141 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Internship - Creative & Illustration Intern | Seattle, WA, United States | Paid | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507814009) |
 | IPConfigure | Software Development Intern, Video Surveillance Software | Norfolk, VA |  | Nov 13 | [Apply](https://go.vansh.nyc/1yE) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Creative Designer Intern - Summer 2027 | Detroit, MI |  | Nov 13 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Creative-Designer-Intern---Summer-2027_R-084550) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Video Editing Intern - Summer 2027 | Detroit, MI |  | Nov 13 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Post-Production-Intern---Summer-2027_R-084726) |

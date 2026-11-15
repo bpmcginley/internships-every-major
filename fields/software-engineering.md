@@ -1,10 +1,13 @@
 # Software Engineering: Summer 2027 Internships
 
-1,847 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,847). **Updated November 15, 2026.** [Back to every major](../README.md) · [See all 3,429 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,849 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,849). **Updated November 15, 2026.** [Back to every major](../README.md) · [See all 3,433 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Rodriguez Services | Software Engineer Intern | San Francisco, CA |  | Nov 15 | [Apply](https://go.vansh.nyc/1zS) |
 | Ericsson | AI Software Engineer Intern | Plano, TX |  | Nov 14 | [Apply](https://go.vansh.nyc/1zB) |
+| Midrex Technologies | IT Cyber Security Intern | Charlotte, NC |  | Nov 14 | [Apply](https://go.vansh.nyc/1zU) |
+| Pason & IWS Career | Software Developer Intern, Datahub | Calgary, Canada |  | Nov 14 | [Apply](https://go.vansh.nyc/1zT) |
 | KBR Wyle Services | Software Engineering Intern, Defense & Intel (D&I) | Chantilly, VA +10 |  | Nov 14 | [Apply](https://go.vansh.nyc/1zz) |
 | KBR Wyle Services | Image Processing Software Engineer Intern | Sioux Falls, SD |  | Nov 14 | [Apply](https://go.vansh.nyc/1zx) |
 | KBR Wyle Services | Computer Science Intern, Defense & Intel (D&I) | Chantilly, VA +10 |  | Nov 14 | [Apply](https://go.vansh.nyc/1zy) |
@@ -115,7 +118,7 @@
 | Zotec Partners | Software Engineer Intern, RCI | Carmel, IN |  | Nov 11 | [Apply](https://go.vansh.nyc/1vo) |
 | Securitymetrics | Software Engineer Intern | Orem, UT |  | Nov 11 | [Apply](https://go.vansh.nyc/1vg) |
 | [PTC](https://internscout.org/internships/at/ptc/) | Creo Graphics Engineering Intern (Summer 2027) | Boston, MA, USA +1 | Paid | Nov 11 | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Creo-Graphics-Engineering-Intern--Summer-2027-_JR112970) |
-| [RTX](https://internscout.org/internships/at/rtx/) | Software Engineering Intern (Summer 2027) | Cedar Rapids, IA | Paid | Nov 11 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineering-Intern--Summer-2027-_01888055) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Software Engineering Intern (Summer 2027) | Cedar Rapids, IA |  | Nov 11 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineering-Intern--Summer-2027-_01888055) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Software Engineering Intern (Graduate) (Summer 2027) | Huntsville, AL |  | Nov 11 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284817) |
 | [Motorola](https://internscout.org/internships/at/motorola/) | Software Engineering Intern - 2027 Summer Internship | Schaumburg, IL |  | Nov 11 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineering-Intern---2027-Summer-Internship_R70179) |
 | Zotec Partners | Software Engineer Intern | Carmel, IN |  | Nov 11 | [Apply](https://go.vansh.nyc/1vp) |
@@ -201,9 +204,6 @@
 | [ABB](https://internscout.org/internships/at/abb/) | Systems Engineering Intern Houston - Summer 2027 | Houston, Texas, United States of America +1 | \$20 - \$34 per hour | Nov 9 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Houston-Texas-United-States-of-America/Systems-Engineering-Intern-Houston---Summer-2027_JR00048684) |
 | [CIBC](https://internscout.org/internships/at/cibc/) | Associate Technology Leadership Advancement Program Intern | Toronto, ON, Canada |  | Nov 9 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate-Technology-Leadership-Advancement-Program---Summer-2027_2623078-1) |
 | Sharp Electronics | IT AI Intern | Montvale, NJ |  | Nov 9 | [Apply](https://go.vansh.nyc/1ot) |
-| [General Dynamics Mission Systems](https://internscout.org/internships/at/general-dynamics-mission-systems/) | Full-Stack Software Engineer Intern | Chantilly, VA +2 |  | Nov 9 | [Apply](https://careers-gdms.icims.com/jobs/75970/job?mobile=true&needsRedirect=false) |
-| [General Dynamics Mission Systems](https://internscout.org/internships/at/general-dynamics-mission-systems/) | Full-Stack Application Development Intern | Chantilly, VA +2 |  | Nov 9 | [Apply](https://careers-gdms.icims.com/jobs/75971/job?mobile=true&needsRedirect=false) |
-| [Xcel Energy](https://internscout.org/internships/at/xcel-energy/) | Operation Technology Support Intern - Amarillo, TX | Amarillo, TX, 79101 | \$18.90 to \$22.10 per hour | Nov 9 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Amarillo-Operations-Center/Operation-Technology-Support-Intern---MN--TX_JR115716-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,9 +1,10 @@
 # Design: Summer 2027 Internships
 
-88 open Summer 2027 design roles, newest first (all 88). **Updated November 15, 2026.** [Back to every major](../README.md) · [See all 202 design internships on InternScout](https://internscout.org/internships/design/)
+89 open Summer 2027 design roles, newest first (all 89). **Updated November 15, 2026.** [Back to every major](../README.md) · [See all 203 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Internship - Game Design Intern | Seattle, WA, United States | Paid | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507816009) |
 | [Zoox](https://internscout.org/internships/at/zoox/) | Industrial Design Intern \[Summer 2027\] | Foster City, CA |  | Nov 13 | [Apply](https://jobs.lever.co/zoox/23867c45-d2df-4f87-86ff-244c864614cd/apply) |
 | Duke Energy | UX Design Internship – Summer 2027 | Charlotte, NC |  | Nov 13 | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/UX-Design-Internship---Summer-2027_R41850) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Art Director Intern - Summer 2027 | Detroit, MI |  | Nov 13 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Art-Director-Intern---Summer-2027_R-085297) |
