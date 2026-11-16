@@ -1,6 +1,6 @@
 # Operations: Summer 2027 Internships
 
-407 open Summer 2027 operations roles, newest first (the 200 newest of 407). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 965 operations internships on InternScout](https://internscout.org/internships/operations/)
+405 open Summer 2027 operations roles, newest first (the 200 newest of 405). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 964 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -108,7 +108,6 @@
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Advertising Revenue Operations Intern | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748489005) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Advertising Business Operations & Enablement Operations Intern | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748487005) |
 | [GCM Grosvenor](https://internscout.org/internships/at/gcm-grosvenor/) | 2027 IT Operations Summer Intern | Chicago, Illinois, United States | \$50,000 | Oct 30 | [Apply](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8035967003) |
-| [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Global Procurement Services (Raleigh, NC) | Raleigh, North Carolina |  | Oct 30 | [Apply](https://firstcitizens.jibeapply.com/jobs/36312) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Procurement Transformation Intern | Franklin, TN |  | Oct 30 | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Procurement-Transformation---Summer-2027---Franklin--TN_R00214279) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | MILWAUKEE, Wisconsin | Paid | Oct 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/38129) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Purchasing Project Management Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 30 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Purchasing-Project-Management-Intern---Summer-2027---Franklin--TN_R00214281) |
@@ -204,6 +203,7 @@
 | [Rivian](https://internscout.org/internships/at/rivian/) | Supply Chain, Purchasing, Procurement and Logistics - Summer 2027 Internships | Normal, Illinois | \$24-\$51.00 per hour | Oct 9 | [Apply](https://careers.rivian.com/jobs/34297) |
 | Happyrobot | Product Operations Engineer Intern | San Francisco, CA |  | Oct 7 | [Apply](https://go.vansh.nyc/FZ) |
 | [Arc](https://internscout.org/internships/at/arc/) | People Operations Intern | Torrance, CA | \$32 per hour | Oct 7 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5447151008) |
+| [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | Procurement COE Intern - Summer 2027 | Columbus, Ohio |  | Oct 6 | [Apply](https://careers.marzetticompany.com/jobs/8155) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

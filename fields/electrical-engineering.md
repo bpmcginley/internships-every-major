@@ -1,9 +1,10 @@
 # Electrical Engineering: Summer 2027 Internships
 
-224 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 224). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 543 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+225 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 225). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 543 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Northwood Space | Electrical Engineering Intern (2027 Summer Internship) | Torrance, CA +2 |  | Nov 16 | [Apply](https://jobs.ashbyhq.com/northwoodspace/1bc230b1-5ad2-44b8-ad61-e80a730e5026/application) |
 | [Southern States, LLC](https://internscout.org/internships/at/southern-states-llc/) | Summer 2027 Electrical Engineering Intern or Co-op | Hampton, GA |  | Nov 16 | [Apply](https://southernstatesllc.applytojob.com/apply/eo8El5ZgNU/Summer-2027-Electrical-Engineering-Intern-Or-Coop) |
 | [Southern States, LLC](https://internscout.org/internships/at/southern-states-llc/) | Electrical Engineer Intern | Hampton, GA |  | Nov 15 | [Apply](https://southernstatesllc.applytojob.com/apply/NL0wxVo8tr/Summer-2027-Electrical-Engineering-Intern-SATD1) |
 | [Southern States, LLC](https://internscout.org/internships/at/southern-states-llc/) | Summer 2027 Electrical Engineering Intern - SATD/1 | Hampton, GA |  | Nov 15 | [Apply](https://southernstatesllc.applytojob.com/apply/NL0wxVo8tr/Summer-2027-Electrical-Engineering-Intern-SATD1) |
@@ -203,7 +204,6 @@
 | [Carpenter Technology](https://internscout.org/internships/at/carpenter-technology/) | Maintenance Intern - Electrical | Reading, PA |  | Oct 6 | [Apply](https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Maintenance-Intern---Electrical_26884) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Sales Account Manager Intern, Electrical Engineering & Business (Summer 2027) | USA - Texas - Austin +1 | \$20.00 - \$40.00 | Sep 30 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Sales-Account-Manager-Intern--Electrical-Engineering---Business--Summer-2027-_JR-2604219) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Technology Development Intern, RF GaN (Summer 2027) | USA - Vermont - Essex Junction |  | Sep 28 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Technology-Development-Intern--RF-GaN--Summer-2027-_JR-2604282) |
-| [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Electrical Engineering - California | San Jose, California +1 |  | Sep 19 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Electrical-Engineering---California_R572604) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

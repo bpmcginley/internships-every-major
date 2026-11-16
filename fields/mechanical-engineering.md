@@ -1,9 +1,10 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-322 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 322). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 823 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+322 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 322). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 824 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Astronics | Manufacturing Engineering Intern - Summer 2027 | Redmond, Washington, United States | \$30 per hour | Nov 16 | [Apply](https://job-boards.greenhouse.io/astronicscorporation/jobs/4508864009) |
 | [Pacific Fusion](https://internscout.org/internships/at/pacific-fusion/) | Summer 2027 Nuclear Diagnostics Mechanical Engineer Internship | San Leandro, CA | Paid | Nov 16 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4505884009) |
 | [Textron](https://internscout.org/internships/at/textron/) | 2027 Intern - Mechanical Engineer (Uncrewed Land & Air) - Hunt Valley, MD | Hunt Valley, Maryland |  | Nov 16 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342956) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | CAD Co-op Student - Water - Summer 2027 | Winnipeg, MB, Canada |  | Nov 16 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008892) |
@@ -127,7 +128,6 @@
 | [Verdantas](https://internscout.org/internships/at/verdantas/) | Mechanical Engineer Summer Intern | Holden MA | \$20.00 - \$22.00 | Oct 23 | [Apply](https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Holden-MA/Mechanical-Engineer-Summer-Intern_R-101230) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Mechanical Engineer | Massachusetts, Virtual Address |  | Oct 23 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Massachusetts-Virtual-Address/Summer-2027-Internship---Mechanical-Engineer_R573345) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Undergrad Intern - Manufacturing and Clinical Supply - Process Development (Summer 2027) | US - California - Thousand Oaks | \$28.87 per hour | Oct 23 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Undergrad-Intern---Manufacturing-and-Clinical-Supply---Process-Development--Summer-2027-_R-259434) |
-| [IMEG](https://internscout.org/internships/at/imeg/) | Mechanical Engineering Intern \| Madison, WI | Madison, WI | \$22.00 - \$24.00 per hour | Oct 23 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Madison-WI/Mechanical-Engineering-Intern---Madison--WI_R-16461) |
 | [DoorDash](https://internscout.org/internships/at/doordash/) | Mechanical Engineering, Intern - Labs (Summer 2027) | Oakland, CA | Paid | Oct 22 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8313401) |
 | [ABB](https://internscout.org/internships/at/abb/) | Manufacturing Supply Chain Intern Westville, OK- Summer 2027 | USA, OK |  | Oct 22 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-OK-Westville/Manufacturing-Supply-Chain-Intern-Westville--OK--Summer-2027_JR00050263-1) |
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-op - Refining Mechanical Engineer (Summer 2027) | Findlay, Ohio +14 | \$32.92 per hour | Oct 22 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Refining-Mechanical-Engineer--Summer-2027-_00023668) |
@@ -180,9 +180,9 @@
 | [Astranis](https://internscout.org/internships/at/astranis/) | Propulsion Manufacturing Intern (Summer 2027) | San Francisco |  | Sep 18 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705648006) |
 | [Antares Nuclear](https://internscout.org/internships/at/antares-nuclear/) | Space Mechanical Design Engineering Intern - Summer 2027 | Los Angeles +1 |  | Sep 18 | [Apply](https://jobs.ashbyhq.com/Antares/7feb2782-3bdc-4efe-b459-9751db944f81/application) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Mechanical Engineering Internship – Summer 2027 | San Diego, CA +2 |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720741704) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Wallops Island, VA |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7996623003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Wallops Island, VA | \$25.00 | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7996623003) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Mechanical Engineering Intern Summer Opportunities (May-Aug 2027) | Needham, MA, United States | Paid | Sep 17 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713812006) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Middle River, MD | \$25.00 | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7988835003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Middle River, MD |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7988835003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Mechanical Engineering Intern Summer 2027 | Silver Spring, MD |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989904003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Long Beach, CA |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984564003) |
 | [Rendezvous Robotics](https://internscout.org/internships/at/rendezvous-robotics/) | Mechanical Engineering Intern (Summer 2027) | Golden, CO |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408601009) |

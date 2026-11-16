@@ -1,9 +1,10 @@
 # Lab Research: Summer 2027 Internships
 
-33 open Summer 2027 lab research roles, newest first (all 33). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 128 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
+34 open Summer 2027 lab research roles, newest first (all 34). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 128 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Carnegie Mellon University](https://internscout.org/internships/at/carnegie-mellon-university/) | AI Engineer Intern - Mission Innovation Lab (Summer 2027) | Pittsburgh, PA |  | Nov 16 | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Research and Development - Defense Lab Support | Warren, Michigan, United States of America |  | Nov 13 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Defense-Lab-Support_JR-202621738) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | Research Associate Intern, Systems Architecture Lab | Milpitas, CA |  | Nov 12 | [Apply](https://go.vansh.nyc/1w1) |
 | [Carnegie Mellon University](https://internscout.org/internships/at/carnegie-mellon-university/) | Advanced Computing Lab Intern | Pittsburgh, PA |  | Nov 9 | [Apply](https://go.vansh.nyc/1pb) |

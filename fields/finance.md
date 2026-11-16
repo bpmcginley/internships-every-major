@@ -1,9 +1,10 @@
 # Finance: Summer 2027 Internships
 
-468 open Summer 2027 finance roles, newest first (the 200 newest of 468). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 754 finance internships on InternScout](https://internscout.org/internships/finance/)
+467 open Summer 2027 finance roles, newest first (the 200 newest of 467). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 752 finance internships on InternScout](https://internscout.org/internships/finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Middle Market Banking Credit Underwriting/Portfolio Management (Charlotte, NC) | Charlotte, North Carolina |  | Nov 16 | [Apply](https://firstcitizens.jibeapply.com/jobs/36653) |
 | [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Consumer & Community Banking -Summer Associate | New York, NY +3 |  | Nov 16 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807923) |
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Internship - Strategic Finance Intern | New York, NY, United States | Paid | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507812009) |
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Internship - Strategic Finance Intern | Los Angeles, CA, United States | Paid | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507802009) |
@@ -60,7 +61,6 @@
 | [Santander](https://internscout.org/internships/at/santander/) | 2027 Credit Portfolio Management Summer Intern – Miami | Miami | Paid | Nov 10 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/XMLNAME-2027-Credit-Portfolio-Management-Summer-Intern---Miami_Req1633015) |
 | [Santander](https://internscout.org/internships/at/santander/) | 2027 Credit Portfolio & Administrative Agency Summer Intern | Miami | Paid | Nov 10 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/XMLNAME-2027-Credit-Portfolio---Administrative-Agency-Summer-Intern_Req1633009) |
 | [Cerity Partners](https://internscout.org/internships/at/cerity-partners/) | Financial Planning Analyst Internship | New York City, NY +1 |  | Nov 10 | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Financial-Planning-Analyst-Internship_R931) |
-| Acushnet Holdings | Summer 2027 MBA Corporate Finance Intern | Fairhaven, Massachusetts, United States of America |  | Nov 9 | [Apply](https://acushnetgolf.wd12.myworkdayjobs.com/ACU/job/Fairhaven-Massachusetts-United-States-of-America/Summer-2027-MBA-Corporate-Finance-Intern_Req102030-1) |
 | [Greystone](https://internscout.org/internships/at/greystone/) | Agency Lending Intern - Summer 2027 | Atlanta, GA | Paid | Nov 9 | [Apply](https://greyco.wd108.myworkdayjobs.com/GTI/job/Atlanta-GA/Agency-Lending-Intern---Summer-2027_JR0000116) |
 | [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Finance Technology Intern | Orrville, OH |  | Nov 9 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Summer-2027_116135) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Campus Undergraduate Summer Internship Program - 2027 Finance, Finance - Toronto, Ontario, CN | Toronto, ON, Canada |  | Nov 9 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016023) |
@@ -203,7 +203,7 @@
 | [Amgen](https://internscout.org/internships/at/amgen/) | Undergrad Co-op – Finance/Accounting | Remote | \$28.87 per hour | Oct 20 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Co-op---Finance-Accounting_R-258006) |
 | [Apple Bank](https://internscout.org/internships/at/apple-bank/) | 2027 Summer Intern - Retail Banking | New York, NY | \$24/hr | Oct 20 | [Apply](https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2026-Summer-Intern----Retail-Banking_2026-1415) |
 | [Arthur J. Gallagher & Co.](https://internscout.org/internships/at/arthur-j-gallagher-co/) | U.S. Internship - Risk Control - ALL LOCATIONS | Rolling Meadows, Illinois |  | Oct 20 | [Apply](https://jobs.ajg.com/jobs/57702) |
-| Principal Financial Group | Intern - Investment Solutions (Summer 2027) | Des Moines, Iowa | \$29 - \$29 / hour | Oct 16 | [Apply](https://careers.principal.com/jobs/53110) |
+| [American Bankers Association](https://internscout.org/internships/at/american-bankers-association/) | Banking Policy and Economic Research Intern | Washington, DC |  | Oct 16 | [Apply](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Banking-Policy-and-Economic-Research_R625) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

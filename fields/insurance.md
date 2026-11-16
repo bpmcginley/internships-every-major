@@ -1,9 +1,10 @@
 # Insurance: Summer 2027 Internships
 
-85 open Summer 2027 insurance roles, newest first (all 85). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 163 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+86 open Summer 2027 insurance roles, newest first (all 86). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 164 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Middle Market Banking Credit Underwriting/Portfolio Management (Charlotte, NC) | Charlotte, North Carolina |  | Nov 16 | [Apply](https://firstcitizens.jibeapply.com/jobs/36653) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Insurance Risk Intern - Summer 2027 | Detroit, MI |  | Nov 14 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Insurance-Risk-Intern---Summer-2027_R-084805) |
 | [IAT Insurance Group](https://internscout.org/internships/at/iat-insurance-group/) | Surety Underwriting Internship (Contract & Commercial Surety) | Greenwood Village CO | Paid | Nov 13 | [Apply](https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Greenwood-Village-CO/Surety-Underwriting-Internship--Contract---Commercial-Surety-_JR100418) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern-P&C Underwriting-Knowledge Management | Bloomington, Illinois +3 | \$24/hour | Nov 12 | [Apply](https://jobs.statefarm.com/jobs/46442) |

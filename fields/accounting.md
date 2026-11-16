@@ -1,6 +1,6 @@
 # Accounting: Summer 2027 Internships
 
-206 open Summer 2027 accounting roles, newest first (the 200 newest of 206). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 431 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+205 open Summer 2027 accounting roles, newest first (the 200 newest of 205). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 430 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -78,7 +78,6 @@
 | [Itron](https://internscout.org/internships/at/itron/) | Intern - Tax (Summer 2027) | United States of America, Washington, Liberty Lake | \$15.87 - \$44.23 per hour | Oct 28 | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Tax--Summer-2027-_JR102951-2) |
 | [Ercot](https://internscout.org/internships/at/ercot/) | Intern - Internal Audit | Taylor, TX |  | Oct 28 | [Apply](https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Intern---Internal-Audit_R2484) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern – Enterprise Controls Assurance (Raleigh, NC) | Raleigh, North Carolina |  | Oct 27 | [Apply](https://firstcitizens.jibeapply.com/jobs/36259) |
-| [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern – Loan & Lease Portfolio Controllership (Morristown, NJ) | Morristown, New Jersey | \$21.51/hour | Oct 27 | [Apply](https://firstcitizens.jibeapply.com/jobs/36042) |
 | [FHLBD Federal Home Loan Bank of Dallas](https://internscout.org/internships/at/fhlbd-federal-home-loan-bank-of-dallas/) | 2027 Summer Internal Audit Intern - Financial & Operational Audit | Irving, TX |  | Oct 27 | [Apply](https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Internal-Audit-Intern_REQ-451) |
 | [FHLBD Federal Home Loan Bank of Dallas](https://internscout.org/internships/at/fhlbd-federal-home-loan-bank-of-dallas/) | 2027 Summer Technology Audit Intern | Irving, TX |  | Oct 27 | [Apply](https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Technology-Audit-Intern_REQ-455) |
 | [FHLBD Federal Home Loan Bank of Dallas](https://internscout.org/internships/at/fhlbd-federal-home-loan-bank-of-dallas/) | 2027 Summer Accounting Intern - Investments & Derivatives | Irving, TX |  | Oct 27 | [Apply](https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Accounting-Intern_REQ-443) |
@@ -204,6 +203,7 @@
 | [Shure](https://internscout.org/internships/at/shure/) | Accounting Intern | Niles, IL |  | Sep 18 | [Apply](https://careersus-shure.icims.com/jobs/4959/accounting-intern/job) |
 | [Crowe](https://internscout.org/internships/at/crowe/) | Audit IT Assurance Intern Summer 2027 | Dallas TX USA +5 | \$27.00 - \$42.00 per hour | Sep 18 | [Apply](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Dallas-TX-USA/Audit-IT-Assurance-Intern-Summer-2027_R-49328) |
 | [Air Products](https://internscout.org/internships/at/air-products/) | Summer Intern- IT & Cyber Audit (2027) | Allentown, Pennsylvania |  | Sep 18 | [Apply](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Allentown-Pennsylvania/Summer-Intern--IT---Cyber-Audit--2027-_JR-2026-21954) |
+| [Regal Rexnord](https://internscout.org/internships/at/regal-rexnord/) | Accounting & Finance Summer Internship | Milwaukee, Wisconsin, United States +5 | \$21.50 - \$27 per hour | Sep 18 | [Apply](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Milwaukee-Wisconsin-United-States/Accounting---Finance-Summer-Internship_R26_04538-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
