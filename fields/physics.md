@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Pacific Fusion](https://internscout.org/internships/at/pacific-fusion/) | Summer 2027 Experimental Physics, X-Ray Diagnostics Internship | San Leandro, CA | Paid | Nov 16 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4505604009) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern – Research and Developement – Display Optical Simulation | Warren, Michigan, United States of America |  | Nov 13 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Developement---Display-Optical-Simulation_JR-202621740) |
 | [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Photonics Layout Intern - Summer 2027 | Boston, MA | Paid | Nov 11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479611008?gh_jid=5479611008) |
 | [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Photonics Engineer Intern - Summer 2027 | Boston, MA | Paid | Nov 11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479605008?gh_jid=5479605008) |
@@ -27,7 +28,6 @@
 | [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Firmware Engineer Intern, Optical | San Jose, CA |  | Oct 6 | [Apply](https://go.vansh.nyc/Fn) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Silicon Photonics Reliability Engineering Intern | Malta, NY |  | Sep 28 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Reliability-Engineering-Intern--Summer-2027-_JR-2604258) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Optical Engineering Intern Summer 2027 | Tucson, AZ |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7992102003) |
-| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Silicon, Hardware, & Photonics Engineering Intern – Summer 2027 | Boston, MA +1 | Paid | Sep 15 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5425407008?gh_jid=5425407008) |
 | [Xcimer Energy](https://internscout.org/internships/at/xcimer-energy/) | Summer 2027 Internship - Physics | Denver, CO |  | Sep 11 | [Apply](https://jobs.lever.co/xcimer/27e40b7a-0008-42e6-b43f-200d727f9b49/apply) |
 | [Xcimer Energy](https://internscout.org/internships/at/xcimer-energy/) | Summer 2027 Internship - Optical Engineering | Denver, CO |  | Sep 11 | [Apply](https://jobs.lever.co/xcimer/89ffbeda-ebea-4539-9676-c6441751b95a/apply) |
 | [Tesla](https://internscout.org/internships/at/tesla/) | Physics Engine Development Engineer Intern - Optimus | Palo Alto, CA |  | Sep 2 | [Apply](https://www.tesla.com/careers/search/job/282147) |

@@ -1,6 +1,6 @@
 # Communications: Summer 2027 Internships
 
-58 open Summer 2027 communications roles, newest first (all 58). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 172 communications internships on InternScout](https://internscout.org/internships/communications/)
+56 open Summer 2027 communications roles, newest first (all 56). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 168 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -18,7 +18,6 @@
 | Hyster-Yale Materials Handling | Summer 2027 Business Marketing & Communications Intern | HY US Greenville, NC (Headquarters) |  | Oct 31 | [Apply](https://hysteryale.wd1.myworkdayjobs.com/hyster-yalecareers/job/HY-US-Greenville-NC-Headquarters/Summer-2027-Business-Marketing---Communications-Intern_R8540) |
 | [American Electric Power](https://internscout.org/internships/at/american-electric-power/) | Communications & Marketing Intern | Roanoke, VA | Paid | Oct 31 | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Roanoke-VA/Communications---Marketing-Intern_R20502) |
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | Information Technology Unified Communications Intern - The Toro Company | Bloomington, MN | \$22–\$28 | Oct 31 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Information-Technology-Unified-Communications-Intern---The-Toro-Company_JR17713) |
-| [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Communications Intern | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748228005) |
 | OTTO Engineering | Embedded Software Intern, Communications | Carpentersville, IL |  | Oct 30 | [Apply](https://go.vansh.nyc/122) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Communications Intern - Summer 2027 | Kansas City, MO |  | Oct 28 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/Communications-Intern---Summer-2027_R-32203-1) |
 | [FHLBD Federal Home Loan Bank of Dallas](https://internscout.org/internships/at/fhlbd-federal-home-loan-bank-of-dallas/) | 2027 Summer Corporate & Marketing Communications Intern | Irving, TX |  | Oct 27 | [Apply](https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Corporate---Marketing-Communications-Intern_REQ-452) |
@@ -42,7 +41,6 @@
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Communications | Detroit, MI |  | Sep 8 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14716) |
 | [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | Hardware Engineer Intern - Critical Infrastructure Communications | Rochester, NY |  | Sep 3 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-2) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Media Relations Intern | Skokie, IL | \$23-\$43 per hour | Nov 16, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4992/global-media-relations-intern/job) |
-| [AB InBev](https://internscout.org/internships/at/ab-inbev/) | Communications Internship | Toronto, Ontario | \$25/Hour | Nov 13 | [Apply](https://wd1.myworkdaysite.com/recruiting/abinbev/CAN/job/Toronto-Ontario/Communications-Internship_30102808) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Technical Writer Intern | Morristown, New Jersey | Paid | Nov 10 | [Apply](https://se.jibeapply.com/jobs/141894) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Communications Intern - Summer 2027 | Nashville, TN (City Center) |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Nashville-TN-City-Center/Communications-Intern---Summer-2027_R-31413) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Communications & Graphics Intern - Summer 2027 | Raleigh, NC |  | Oct 24 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Raleigh-NC/Communications---Graphics-Intern---Summer-2027_R-31513) |

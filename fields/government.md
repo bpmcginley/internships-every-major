@@ -1,9 +1,10 @@
 # Government and Public Policy: Summer 2027 Internships
 
-58 open Summer 2027 government and public policy roles, newest first (all 58). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 280 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+59 open Summer 2027 government and public policy roles, newest first (all 59). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 284 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [KPMG](https://internscout.org/internships/at/kpmg/) | Edmonton Consulting Summer Internship, Operations - Government Solutions (May - August 2027) | Edmonton, Alberta, Canada |  | Nov 16 | [Apply](https://careers.kpmg.ca/jobs/36504) |
 | [CareBridge](https://internscout.org/internships/at/carebridge/) | Legal, Public Affairs and Compliance (LPAC) Intern – Summer 2027 | IN-INDIANAPOLIS, 220 VIRGINIA AVE +6 | \$20.64 to \$38.32 | Nov 14 | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Legal--Public-Affairs-and-Compliance--LPAC--Intern---Summer-2027-_JR212773) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Records and Information Management Intern | Atlanta, GA |  | Nov 13 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Records-and-Information-Management-Intern_R-0000033909) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - ASO Professional Development Intern | Atlanta, GA |  | Nov 13 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---ASO-Professional-Development-Intern_R-0000033893) |

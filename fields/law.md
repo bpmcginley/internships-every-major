@@ -1,6 +1,6 @@
 # Law and Legal: Summer 2027 Internships
 
-126 open Summer 2027 law and legal roles, newest first (all 126). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 249 law and legal internships on InternScout](https://internscout.org/internships/law/)
+127 open Summer 2027 law and legal roles, newest first (all 127). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 249 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Compliance Specialist Intern - Summer 2027 | Dugway, UT | Paid | Nov 9 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168515) |
 | [Securities and Exchange Commission](https://internscout.org/internships/at/securities-and-exchange-commission/) | Summer 2027 SEC Scholars Legal Program- RO (1L, 2L, 3L, or LL.M.) (Volunteer) | Los Angeles, California +9 |  | Nov 9 | [Apply](https://www.usajobs.gov:443/job/891904500) |
 | [Securities and Exchange Commission](https://internscout.org/internships/at/securities-and-exchange-commission/) | Summer 2027 SEC Scholars Legal Program- HQ (1L, 2L, 3L, or LL.M.) (Volunteer) | Washington, District of Columbia |  | Nov 9 | [Apply](https://www.usajobs.gov:443/job/891903400) |
-| [PETRONAS Canada](https://internscout.org/internships/at/petronas-canada/) | Summer Student, Legal | Calgary |  | Nov 7 | [Apply](https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Legal_R0001867) |
+| PETRONAS Canada | Summer Student, Legal | Calgary |  | Nov 7 | [Apply](https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Legal_R0001867) |
 | [westernalliancebank](https://internscout.org/internships/at/westernalliancebank/) | Summer 2027 Internship - Phoenix, AZ - Compliance | Phoenix, AZ | Paid | Nov 6 | [Apply](https://westernalliancebank.wd5.myworkdayjobs.com/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Compliance_R13733-1) |
 | [CVS Health](https://internscout.org/internships/at/cvs-health/) | Legal Corporate Internship - Summer 2027 | NJ - Parsippany +2 | \$27.50/hr | Nov 6 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Parsippany/Legal-Corporate-Internship---Summer-2027_R1067004) |
 | [The Travelers Companies](https://internscout.org/internships/at/the-travelers-companies/) | Legal Intern | CA - Walnut Creek | \$36.00 - \$37.00 | Nov 6 | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CA---Walnut-Creek/Legal-Intern_R-53515) |
@@ -42,6 +42,7 @@
 | [Sierra Nevada Corporation](https://internscout.org/internships/at/sierra-nevada-corporation/) | International Trade Compliance Intern (Summer 2027) | Lone Tree, CO | \$23.54 - \$32.37 | Oct 31 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/International-Trade-Compliance-Intern--Summer-2027-_R0031252) |
 | Innocence Project | 2027 Post Conviction Litigation Summer Law Student Intern | New York, New York | \$19.50 per hour | Oct 29 | [Apply](https://apply.workable.com/j/D52B4434A9/apply) |
 | [The Andersons](https://internscout.org/internships/at/the-andersons/) | Legal Intern (Summer 2027) | Maumee, OH |  | Oct 29 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Legal-Intern--Summer-2027-_R12494) |
+| Alberta Investment Management Corporation | Student, Legal | Calgary | Paid | Oct 29 | [Apply](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Calgary/Student--Legal_JR100948) |
 | [Strada Education Foundation](https://internscout.org/internships/at/strada-education-foundation/) | Strada Education Foundation Internship: Policy Intern | Washington, DC | \$22.75/hour | Oct 28 | [Apply](https://jobs.lever.co/stradaeducation/a5d0b720-c67c-466d-829e-bd3cc72d1339/apply) |
 | [Strada Education Foundation](https://internscout.org/internships/at/strada-education-foundation/) | Strada Education Foundation Internship: Legal Intern | Indianapolis, Indiana +1 | \$22.75/hour | Oct 28 | [Apply](https://jobs.lever.co/stradaeducation/cf1023bd-5d9f-4caa-a6ed-270bd965eb25/apply) |
 | [westernalliancebank](https://internscout.org/internships/at/westernalliancebank/) | Summer 2027 Internship - Phoenix, AZ - Financial Crime Compliance | Phoenix, AZ | Paid | Oct 28 | [Apply](https://westernalliancebank.wd5.myworkdayjobs.com/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Financial-Crime-Compliance_R13732-1) |

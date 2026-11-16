@@ -1,6 +1,6 @@
 # Chemical Engineering: Summer 2027 Internships
 
-60 open Summer 2027 chemical engineering roles, newest first (all 60). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 142 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+59 open Summer 2027 chemical engineering roles, newest first (all 59). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 142 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -29,7 +29,6 @@
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-op - Refining Electrical Engineering (Summer 2027) | Findlay, Ohio +14 | \$32.92 per hour | Oct 22 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Refining-Electrical-Engineering--Summer-2027-_00023669) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Process Engineering Intern – Energy & Resources (Summer 2027) | Bakersfield, CA |  | Oct 20 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008254) |
 | [Skydio](https://internscout.org/internships/at/skydio/) | Process Engineering Intern - Summer 2027 | Hayward, California, United States +2 | \$47/hr | Oct 14 | [Apply](https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b/application) |
-| [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Cell & Process Engineering Intern | Sparks, Nevada |  | Oct 9 | [Apply](https://careers.na.panasonic.com/jobs/51641) |
 | [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | Process Engineering Intern - Summer 2027 | Columbus, Ohio | \$22.00/hour | Oct 6 | [Apply](https://careers.marzetticompany.com/jobs/8120) |
 | [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | Process Engineering Manufacturing Intern - Summer 2027 | Horse Cave, Kentucky | \$22.00/hour | Oct 6 | [Apply](https://careers.marzetticompany.com/jobs/8156) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations | Mountain View, CA, USA +1 | Paid | Oct 1 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8243556) |

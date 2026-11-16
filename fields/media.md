@@ -1,9 +1,10 @@
 # Media: Summer 2027 Internships
 
-47 open Summer 2027 media roles, newest first (all 47). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 143 media internships on InternScout](https://internscout.org/internships/media/)
+48 open Summer 2027 media roles, newest first (all 48). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 144 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Publicis Groupe](https://internscout.org/internships/at/publicis-groupe/) | Publicis Media Summer 2027 Internship - Remote | New York, New York | \$17.00 | Nov 16 | [Apply](https://careers.publicisgroupe.com/jobs/182838) |
 | [Publicis Groupe](https://internscout.org/internships/at/publicis-groupe/) | Publicis Media Summer 2027 Internship - Chicago | Chicago, Illinois | Paid | Nov 16 | [Apply](https://careers.publicisgroupe.com/jobs/182300) |
 | [Publicis Groupe](https://internscout.org/internships/at/publicis-groupe/) | Publicis Media Summer 2027 Internship - Los Angeles | El Segundo, California | Paid | Nov 16 | [Apply](https://careers.publicisgroupe.com/jobs/182299) |
 | [Publicis Groupe](https://internscout.org/internships/at/publicis-groupe/) | Publicis Media Summer 2027 Internship - Philadelphia | Philadelphia, Pennsylvania | Paid | Nov 16 | [Apply](https://careers.publicisgroupe.com/jobs/182283) |

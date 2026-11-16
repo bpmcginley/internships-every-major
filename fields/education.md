@@ -1,6 +1,6 @@
 # Education: Summer 2027 Internships
 
-39 open Summer 2027 education roles, newest first (all 39). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 263 education internships on InternScout](https://internscout.org/internships/education/)
+38 open Summer 2027 education roles, newest first (all 38). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 262 education internships on InternScout](https://internscout.org/internships/education/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -19,7 +19,6 @@
 | [University Corporation for Atmospheric Research](https://internscout.org/internships/at/university-corporation-for-atmospheric-research/) | 2027 SIParCS Graduate Student Internships | Boulder, CO | \$28.32/hr | Nov 4 | [Apply](https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/XMLNAME-2027-SIParCS-Graduate-Student-Internships_REQ-2026-230-2) |
 | [Argonne National Laboratory](https://internscout.org/internships/at/argonne-national-laboratory/) | Undergraduate Seasonal Intern General Application - Summer 2027 | Lemont, IL USA |  | Nov 3 | [Apply](https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Undergraduate-Seasonal-Intern-General-Application---Summer-2027_423618) |
 | [Draper](https://internscout.org/internships/at/draper/) | Acoustic and Vibration Technologies Intern (Summer 2027) | Cambridge, MA | \$20.00 - \$45.00 | Nov 3 | [Apply](https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Acoustic-and-Vibration-Technologies-Intern--Summer-2027-_JR003003-1) |
-| [Carnegie Mellon University](https://internscout.org/internships/at/carnegie-mellon-university/) | Enabling Mission Capability at Scale Intern - Summer 2027 | Pittsburgh, PA |  | Oct 30 | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300-1) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Sales Instructional Design Internship | IRVINE, California | Paid | Oct 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/38125) |
 | [Argonne National Laboratory](https://internscout.org/internships/at/argonne-national-laboratory/) | Lee Teng Undergraduate Fellowship - Summer 2027 | Lemont, IL USA +1 | \$19.22 - \$45.54 | Oct 29 | [Apply](https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Lee-Teng-Undergraduate-Fellowship---Summer-2024_417000) |
 | [Strada Education Foundation](https://internscout.org/internships/at/strada-education-foundation/) | Strada Education Foundation: Information Technology Intern | Indianapolis, Indiana +1 | \$22.75/hour | Oct 28 | [Apply](https://jobs.lever.co/stradaeducation/d9d6301a-3fac-4389-b820-3115dfe20a13/apply) |

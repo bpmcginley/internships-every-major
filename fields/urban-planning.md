@@ -1,6 +1,6 @@
 # Urban Planning: Summer 2027 Internships
 
-63 open Summer 2027 urban planning roles, newest first (all 63). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 106 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+62 open Summer 2027 urban planning roles, newest first (all 62). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 107 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -22,7 +22,6 @@
 | [WSP](https://internscout.org/internships/at/wsp/) | Transportation Planning Intern - Summer 2027 | Austin, TX +2 |  | Nov 5 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98831) |
 | [David Yurman](https://internscout.org/internships/at/david-yurman/) | Planning Intern | New York, NY | \$25/hour | Nov 5 | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Planning-Intern_R-101200) |
 | [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | Assortment Planning Intern - Summer 2027 | Atlanta, GA, USA |  | Nov 4 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Assorment-Planning-Intern---Summer-2027_R26_0000035659) |
-| CAI | GIS Software Developer Intern | PA-CLIENT-STATE +1 |  | Nov 4 | [Apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8554) |
 | CAI | GIS Software Developer Intern | United States |  | Nov 3 | [Apply](https://go.vansh.nyc/1ce) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Transportation Planning Intern - Summer 2027 | Philadelphia, PA |  | Oct 30 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98518) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Mine Planning Intern - Energy & Resources (Summer 2027) | Reno, NV |  | Oct 30 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008554) |

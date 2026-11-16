@@ -1,9 +1,12 @@
 # Engineering: Summer 2027 Internships
 
-647 open Summer 2027 engineering roles, newest first (the 200 newest of 647). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 1,658 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+648 open Summer 2027 engineering roles, newest first (the 200 newest of 648). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 1,660 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| M3 USA | Quality Engineering Intern, SDET | Lawrenceville, GA |  | Nov 16 | [Apply](https://go.vansh.nyc/1An) |
+| [Reliable Robotics](https://internscout.org/internships/at/reliable-robotics/) | Displays Engineer Intern (Summer 2027) | Mountain View, CA +1 |  | Nov 16 | [Apply](https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9/application) |
+| [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Industrial Equipment Maintenance Intern | Ashville, Ohio, United States | Paid | Nov 16 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5289632007?gh_jid=5289632007) |
 | [Walmart](https://internscout.org/internships/at/walmart/) | Summer 2027 Corporate Intern: APD Automation Engineer | (USA) Together Building AR Bentonville Home Office | Paid | Nov 15 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--APD-Automation-Engineer_R-2630170) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Composite Engineering Intern (Summer 2027)(Onsite) | Middletown, CT | Paid | Nov 14 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-MIDDLETOWN-140--Aircraft-Rd--BLDG-140/Composite-Engineering-Intern--Summer-2027--Onsite-_01887784) |
 | [Moog](https://internscout.org/internships/at/moog/) | Intern, Engineering | Torrance, CA | \$28.79–\$34.29 Hour | Nov 14 | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Engineering_R-26-21444) |
@@ -201,9 +204,6 @@
 | [Genuine Parts Company](https://internscout.org/internships/at/genuine-parts-company/) | Product Engineering Intern - Summer 2027 | Atlanta, GA, USA |  | Oct 24 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Product-Engineering-Intern---Summer-2027_R26_0000035648) |
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | Engineering Intern, Manuals Tech Writer Team - Summer 2027 | Valley City, OH, United States | \$38,600.00 - \$62,200.00 | Oct 24 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Intern--Manuals-Tech-Writer-Team---Summer-2027_REQ-1000052836) |
 | CARIAD | Engineer 1 Intern, VLA Planning and Control Deployment | Mountain View, CA |  | Oct 23 | [Apply](https://go.vansh.nyc/1wa) |
-| [Martin Marietta](https://internscout.org/internships/at/martin-marietta/) | Intern, Corporate Engineering (Summer 2027) | Raleigh, NC |  | Oct 23 | [Apply](https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Corporate-Engineering--Summer-2027-_JR023606) |
-| [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Financial Engineering Intern | Atlanta, GA |  | Oct 23 | [Apply](https://careers-ice.icims.com/jobs/14059/job?mobile=true&needsRedirect=false) |
-| [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Summer Internship Program 2027 - Financial Engineering Intern | Atlanta, Georgia +1 |  | Oct 23 | [Apply](https://ice.jibeapply.com/jobs/14059) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

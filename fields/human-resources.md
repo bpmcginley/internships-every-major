@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-104 open Summer 2027 human resources roles, newest first (all 104). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 240 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+103 open Summer 2027 human resources roles, newest first (all 103). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 239 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -73,7 +73,6 @@
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Compensation and Benefits Intern - Summer 2027 | Reston, VA | Paid | Nov 16, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8693/compensation-and-benefits-intern---summer-2027/job) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Human Resources Operations Internship - Summer 2027 | Reston, VA | Paid | Nov 16, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8694/human-resources-operations-internship---summer-2027/job) |
 | Internship List | Campus Talent Acquisition Intern (Summer/May 2027, 12 Months) | Toronto, ON | Paid | Nov 16 | [Apply](https://ca.jooble.org/jdp/4655388324093380747?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [AB InBev](https://internscout.org/internships/at/ab-inbev/) | People (HR) Internship | Toronto, Ontario | \$25/Hour | Nov 13 | [Apply](https://wd1.myworkdaysite.com/recruiting/abinbev/CAN/job/Toronto-Ontario/People--HR--Internship_30102806) |
 | [Republic Airways](https://internscout.org/internships/at/republic-airways/) | Human Resources Shared Services Intern - Summer 2027 | Carmel Headquarters, IN | Paid | Nov 10 | [Apply](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Human-Resources-Shared-Services-Intern---Summer-2027_JR-007624) |
 | [Republic Airways](https://internscout.org/internships/at/republic-airways/) | Talent Acquisition Operations Interns - Summer 2027 | Carmel Headquarters, IN | Paid | Nov 10 | [Apply](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Talent-Acquisition-Operations-Interns---Summer-2027_JR-007627) |
 | [L.L.Bean](https://internscout.org/internships/at/l-l-bean/) | Talent Acquisition Intern (Summer 2027) | Freeport, ME | \$20-\$22 /hour | Nov 6 | [Apply](https://llbean.wd1.myworkdayjobs.com/LLBean_Careers/job/Freeport-ME/Talent-Acquisition-Intern--Summer-2027-_JR11253) |

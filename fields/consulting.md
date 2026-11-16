@@ -1,9 +1,13 @@
 # Consulting: Summer 2027 Internships
 
-115 open Summer 2027 consulting roles, newest first (all 115). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 212 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+117 open Summer 2027 consulting roles, newest first (all 117). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 215 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [KPMG](https://internscout.org/internships/at/kpmg/) | Edmonton Consulting Summer Internship, Operations - Government Solutions (May - August 2027) | Edmonton, Alberta, Canada |  | Nov 16 | [Apply](https://careers.kpmg.ca/jobs/36504) |
+| [KPMG](https://internscout.org/internships/at/kpmg/) | Calgary Summer Internship, Consulting (May - August 2027) | Calgary, Alberta, Canada |  | Nov 16 | [Apply](https://careers.kpmg.ca/jobs/36503) |
+| [WSP](https://internscout.org/internships/at/wsp/) | Management Consultancy Intern - Summer 2027 | New York, NY +2 | \$23.90 - \$32.22 per hour | Nov 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99095) |
+| [KPMG](https://internscout.org/internships/at/kpmg/) | Consulting GTA: Consultant, Internship (Summer 2027) | Toronto, Ontario, Canada | \$50,000 to \$63,000 | Nov 16 | [Apply](https://careers.kpmg.ca/jobs/36465) |
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 MBA Internship - Strategy Intern | Los Angeles, CA, United States | Paid | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507770009) |
 | [SAS](https://internscout.org/internships/at/sas/) | IoT Product Strategy Intern | Cary, NC |  | Nov 14 | [Apply](https://careers-sas.icims.com/jobs/43309/job?mobile=true&needsRedirect=false) |
 | [HUB](https://internscout.org/internships/at/hub/) | HUB International Internship Program Summer 2027, Investment Consulting | Toronto, ON | \$20.00 to \$25.00 per hour | Nov 14 | [Apply](https://hubinternational.wd1.myworkdayjobs.com/HUBInternational/job/Toronto-ON/HUB-International-Internship-Program-Summer-2027--Investment-Consulting_R0039534) |
@@ -59,7 +63,6 @@
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | IT Business Analyst Intern, Ditch Witch | Perry, OK |  | Oct 13 | [Apply](https://go.vansh.nyc/8Q) |
 | [WTW](https://internscout.org/internships/at/wtw/) | Risk & Analytics Enterprise Risk Consulting Intern | New York, NY |  | Oct 13 | [Apply](https://go.vansh.nyc/8U) |
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | IT Business Analyst Intern | Perry, OK |  | Oct 13 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/IT-Business-Analyst-Intern---Ditch-Witch_JR17608) |
-| [WTW](https://internscout.org/internships/at/wtw/) | Early Careers: ADML Insurance & Financial Consulting Internship - Northeast - Summer 2027 | Boston, MA +1 |  | Oct 13 | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606594) |
 | CapTech Consulting | Consulting Software Engineer Intern | Richmond, VA |  | Oct 12 | [Apply](https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Business and Administrative Intern - Strategy Analyst, CCO Strategy and Program Management | Palo Alto, California | \$28,00-51.00 per hour | Oct 12 | [Apply](https://careers.rivian.com/jobs/34239) |
 | [DocuSign](https://internscout.org/internships/at/docusign/) | Solution Consultant Intern | Seattle, Washington | \$31/hour | Oct 12 | [Apply](https://careers.docusign.com/jobs/30524) |
@@ -72,7 +75,6 @@
 | [General Motors](https://internscout.org/internships/at/general-motors/) | Data Governance Engineer Intern | Warren, MI |  | Sep 28 | [Apply](https://go.vansh.nyc/Q1) |
 | Newmark Group | Newmark Management Consulting Intern | TX |  | Sep 18 | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/249950) |
 | [Cerity Partners](https://internscout.org/internships/at/cerity-partners/) | Risk Management Strategy Intern | Louisville, KY |  | Sep 17 | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/XMLNAME-2027-Summer-Risk-Management-Strategy-Analyst-Internship_R918-1) |
-| [Garmin](https://internscout.org/internships/at/garmin/) | Business Analyst Intern | Olathe, Kansas |  | Sep 16 | [Apply](https://careers.garmin.com/jobs/20154) |
 | Elire | AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data | Remote +3 |  | Sep 15 | [Apply](https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Client Solutions Manager Intern - GBS-LATAM | Miami, FL |  | Sep 14 | [Apply](https://lifeattiktok.com/search/7684612598114240821) |
 | [3M](https://internscout.org/internships/at/3m/) | Business Analyst Intern - Consumer Business Group | Maplewood, MN |  | Sep 14 | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) |

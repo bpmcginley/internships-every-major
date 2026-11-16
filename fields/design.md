@@ -1,9 +1,10 @@
 # Design: Summer 2027 Internships
 
-86 open Summer 2027 design roles, newest first (all 86). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 198 design internships on InternScout](https://internscout.org/internships/design/)
+88 open Summer 2027 design roles, newest first (all 88). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 199 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Summer 2027: HW UX/UI Design Intern (May through August) | Needham, MA, United States |  | Nov 16 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721309006) |
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Internship - Game Design Intern | Seattle, WA, United States | Paid | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507816009) |
 | Duke Energy | UX Design Internship – Summer 2027 | Charlotte, NC |  | Nov 14 | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/UX-Design-Internship---Summer-2027_R41850) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Art Director Intern - Summer 2027 | Detroit, MI |  | Nov 14 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Art-Director-Intern---Summer-2027_R-085297) |
@@ -11,12 +12,13 @@
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Creative Designer Intern - Summer 2027 | Detroit, MI |  | Nov 14 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Creative-Designer-Intern---Summer-2027_R-084550) |
 | [Zoox](https://internscout.org/internships/at/zoox/) | Industrial Design Intern \[Summer 2027\] | Foster City, CA |  | Nov 13 | [Apply](https://jobs.lever.co/zoox/23867c45-d2df-4f87-86ff-244c864614cd/apply) |
 | [Entegris](https://internscout.org/internships/at/entegris/) | Product Design R&D Intern - Summer 2027 | Colorado Springs, CO |  | Nov 13 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Colorado-Springs-CO/Product-Design-R-D-Intern---Summer-2027_REQ-15877) |
+| [Zoox](https://internscout.org/internships/at/zoox/) | Service Designer Intern \[Summer 2027\] | Foster City, CA |  | Nov 12 | [Apply](https://jobs.lever.co/zoox/9fdd6600-099c-45e3-beab-f0ec7dbc296a/apply) |
 | [PTC](https://internscout.org/internships/at/ptc/) | UI/UX Design Intern (Summer 2027) | USA-San Mateo, CA | Paid | Nov 12 | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/USA-San-Mateo-CA/UI-UX-Designer-Intern--Summer-2027-_JR112956) |
 | Systems Planning and Analysis | UI/UX Software Intern | Alexandria, VA |  | Nov 11 | [Apply](https://go.vansh.nyc/1xp) |
 | [HP IQ](https://internscout.org/internships/at/hp-iq/) | Experience Design Intern (Summer 2027) | San Francisco, CA | \$40.00–\$50.00 per hour | Nov 11 | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6230959004) |
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | Industrial Design Engineering Intern - Summer 2027 | Towson, MD, United States | \$38,600.00 - \$62,200.00 | Nov 11 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern---Summer-2027_REQ-1000052666) |
 | [Notion](https://internscout.org/internships/at/notion/) | Product Design Intern (Summer 2027) | New York, New York +1 | \$57/hr | Nov 10 | [Apply](https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9/application) |
-| [Addepar](https://internscout.org/internships/at/addepar/) | Design Intern - Summer 2027 | New York, NY | \$39 per hour | Nov 10 | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8927595002) |
+| [Addepar](https://internscout.org/internships/at/addepar/) | Product Design Intern - Summer 2027 | New York, NY | \$39 per hour | Nov 10 | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8927595002) |
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Learning Solutions Designer (Reston, VA) | Reston, VA | \$23/hour | Nov 10 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Learning-Solutions-Designer--Reston--VA-_R2603779) |
 | [Stanley Black & Decker](https://internscout.org/internships/at/stanley-black-decker/) | Engineering Intern, Industrial Design 3D Surfacing - Summer 2027 | Valley City, OH, United States | \$22.00- \$27.00 per hour | Nov 10 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Intern--Industrial-Design-3D-Surfacing---Summer-2027_REQ-1000052712) |
 | [QTS](https://internscout.org/internships/at/qts/) | Summer 2027 Internship: Interior Design Projects | Duluth, GA |  | Nov 7 | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Duluth-GA/Summer-2027-Internship--Interior-Design-Projects_R2026-2431) |

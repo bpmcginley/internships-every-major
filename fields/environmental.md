@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Galaxy](https://internscout.org/internships/at/galaxy/) | 2027 Environmental Health & Safety Engineer Intern-Afton Texas | Afton, Texas |  | Nov 16 | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6262681004) |
 | [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Environmental Health and Safety Specialist Summer 2027 Internship – Andover, MA | Andover, MA |  | Nov 14 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Andover-MA/Environmental-Health-and-Safety-Specialist-Summer-2027-Internship---Andover--MA_REQ541929) |
 | [Global Infrastructure](https://internscout.org/internships/at/global-infrastructure/) | Intern, Sustainability | US +3 | \$20 to \$30 per hour | Nov 14 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--NY--New-York---32-Old-Slip/Sustainability-Intern_6695-1) |
 | [Tesla](https://internscout.org/internships/at/tesla/) | Software Engineer Intern - Energy Engineering | Palo Alto, CA |  | Nov 13 | [Apply](https://www.tesla.com/careers/search/job/289796) |
@@ -18,7 +19,7 @@
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil/Environmental Engineering Co-op/Intern – Water (Summer 2027) | Fairfax, VA +1 |  | Nov 10 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008828) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | New Providence, New Jersey | \$20.00 | Nov 10 | [Apply](https://careers.trccompanies.com/jobs/28467) |
 | [Royal Caribbean Group](https://internscout.org/internships/at/royal-caribbean-group/) | Intern, Maritime Safety + Environmental Compliance (Summer 2027) | Miami, FL |  | Nov 10 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miami-Intern%2C-Maritime-Safety-%2B-Environmental-Compliance-%28Summer-2027%29-FL-33132/1449347100/) |
-| [Nucor](https://internscout.org/internships/at/nucor/) | Safety and Health Intern (Summer 2027) | Salt Lake City, UT | \$27.00/Hour | Nov 10 | [Apply](https://jobs.nucor.com/job/Salt-Lake-City-Safety-and-Health-Intern-%28Summer-2027%29-UT-84104/1449345000/) |
+| Nucor | Safety and Health Intern (Summer 2027) | Salt Lake City, UT | \$27.00/Hour | Nov 10 | [Apply](https://jobs.nucor.com/job/Salt-Lake-City-Safety-and-Health-Intern-%28Summer-2027%29-UT-84104/1449345000/) |
 | [ABB](https://internscout.org/internships/at/abb/) | Environmental Specialist Intern- Summer 2027 | Pinetops, North Carolina, United States of America | \$20 - \$34 per hour | Nov 10 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Pinetops-North-Carolina-United-States-of-America/Environmental-Specialist--Intern--Summer-2027_JR00049918) |
 | [Prysmian Cables & Systems](https://internscout.org/internships/at/prysmian-cables-systems/) | Abbeville HSE Intern | Abbeville, SC |  | Nov 10 | [Apply](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Abbeville-SC/Abbeville-HSE-Intern_R-38308) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Water Resources Engineering Intern- Summer 2027 | Morristown, NJ | Paid | Nov 9 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98933) |
@@ -154,7 +155,6 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Geologist Intern (Summer 2027!) | Denver, Colorado | \$34.32 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4343) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Tampa, Florida | \$36.96 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/3877) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - (Summer 2027) | Charlotte, North Carolina | \$39.73 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/3831) |
-| [Arcadis](https://internscout.org/internships/at/arcadis/) | Environmental Engineering Intern | Indianapolis, IN | \$17.00- \$31.00/hour | Sep 4 | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43937) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Water Resources Engineering Intern (Summer 2027!) | Denver, Colorado | \$42.02 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4186) |
 | [Hunt Oil Company](https://internscout.org/internships/at/hunt-oil-company/) | Geoscience Intern - Summer 2027 | Dallas, TX |  | Sep 4 | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1059) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027) | Dallas, Texas | \$36.96 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4311) |

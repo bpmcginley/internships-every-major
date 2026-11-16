@@ -1,9 +1,12 @@
 # Civil Engineering: Summer 2027 Internships
 
-336 open Summer 2027 civil engineering roles, newest first (the 200 newest of 336). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 556 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+336 open Summer 2027 civil engineering roles, newest first (the 200 newest of 336). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 559 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Pacific Fusion](https://internscout.org/internships/at/pacific-fusion/) | Summer 2027 Structural Analysis Engineer Internship | San Leandro, CA | Paid | Nov 16 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4505980009) |
+| [Woolpert](https://internscout.org/internships/at/woolpert/) | Transportation Design Intern - Texas (Summer 2027) | Dallas, TX | Paid | Nov 16 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4505485009) |
+| [Tighe & Bond](https://internscout.org/internships/at/tighe-bond/) | Civil Engineering Internship - Site Design - Summer 2027 | Rhinebeck, NY | \$21.00 | Nov 16 | [Apply](https://careers-tighebond.icims.com/jobs/1928/civil-engineering-internship---site-design---summer-2027/job) |
 | [Tighe & Bond](https://internscout.org/internships/at/tighe-bond/) | Transportation/ Traffic Engineering Internship - Summer 2027 | Middletown, CT | \$21.00 | Nov 16 | [Apply](https://careers-tighebond.icims.com/jobs/1889/transportation--traffic-engineering-internship---summer-2027/job) |
 | [Tighe & Bond](https://internscout.org/internships/at/tighe-bond/) | Traffic / Transportation Engineering Internship - Roadway - Summer 2027 | Westfield, MA | \$21.00 | Nov 16 | [Apply](https://careers-tighebond.icims.com/jobs/1888/traffic---transportation-engineering-internship---roadway---summer-2027/job) |
 | [Tighe & Bond](https://internscout.org/internships/at/tighe-bond/) | Transportation/ Traffic Engineering Internship - Summer 2027 | Westwood, MA | \$21.00 | Nov 16 | [Apply](https://careers-tighebond.icims.com/jobs/1891/transportation--traffic-engineering-internship---summer-2027/job) |
@@ -43,7 +46,7 @@
 | [Stantec](https://internscout.org/internships/at/stantec/) | Geomatics Co-op Student - Summer 2027 | Ottawa, ON, Canada +2 |  | Nov 9 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008786) |
 | [Woolpert](https://internscout.org/internships/at/woolpert/) | Survey Internship (Summer 2027) | Columbus, OH +1 | Paid | Nov 6 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4426384009) |
 | [Woolpert](https://internscout.org/internships/at/woolpert/) | Survey Internship (Summer 2027) | Albuquerque, NM +9 | Paid | Nov 6 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4426377009) |
-| Atlantic Health System | Construction/Facilities Intern | Morristown, NJ |  | Nov 6 | [Apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34191) |
+| [Atlantic Health System](https://internscout.org/internships/at/atlantic-health-system/) | Construction/Facilities Intern | Morristown, NJ |  | Nov 6 | [Apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34191) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | Intern Engineer - Construction - Summer 2027 | Madison, WI |  | Nov 6 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Madison-WI/Intern-Engineer---Construction---Summer-2027_R-32337-1) |
 | [ATC](https://internscout.org/internships/at/atc/) | Intern-Construction Project Management Summer 2027 | Pewaukee, WI +2 | \$21-23/hr | Nov 6 | [Apply](https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern-Construction-Project-Management-Summer-2027_R0003320) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Construction Intern, Summer 2027 | Moon Township, PA |  | Nov 5 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310165) |
@@ -141,7 +144,6 @@
 | [Stantec](https://internscout.org/internships/at/stantec/) | Structural Engineering Intern/Co-op – Transportation (Summer 2027) | New York, NY |  | Oct 2 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008131) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil/Geotechnical Engineering Intern - Water (Summer 2027) | Saint Louis, MO |  | Oct 1 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008115) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Water (Summer 2027) | Charlotte, NC |  | Oct 1 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008120) |
-| [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Water (Summer 2027) | Raleigh, NC |  | Oct 1 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008116) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil/Geotechnical Engineering Intern - Water (Summer 2027) | Atlanta, GA +1 |  | Oct 1 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008114) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Transportation Engineering Intern - Infrastructure (Summer 2027) | Atlanta, GA |  | Oct 1 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008089) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Geotechnical Engineering Intern (Summer 2027) – 12 or 16 Month Term | Calgary, AB, Canada |  | Sep 30 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008094) |
@@ -155,7 +157,6 @@
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Internship - Community Development (Summer 2027) | Des Moines, IA |  | Sep 24 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007994) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Co-op Student - Community Development (Summer 2027) – 16 Month Term | Calgary, AB, Canada |  | Sep 24 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007907) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors - Construction Representative Intern (Summer 2027) | Edison, New Jersey | \$37.03 | Sep 24 | [Apply](https://careers.cdmsmith.com/jobs/4588) |
-| [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern/Co-op - Infrastructure (Summer 2027) | New York, NY |  | Sep 23 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007956) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Commissioning Engineer Intern/Co-op - Buildings (Summer 2027) | New York, NY |  | Sep 23 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007961) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Construction Management Intern | Scott Depot, West Virginia | \$20.00 | Sep 22 | [Apply](https://careers.trccompanies.com/jobs/26907) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Construction Management Intern | Baton Rouge, Louisiana | \$20.00 | Sep 22 | [Apply](https://careers.trccompanies.com/jobs/26908) |
@@ -203,7 +204,6 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Structural Engineering Intern (Bridge Design, Summer 2027!) | Wayne, Pennsylvania | \$42.02 | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/4359) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Civil Engineering Internship - Data Centers Site Design | Omaha, NE |  | Sep 2 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5408688008) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Civil Engineering | Los Angeles, CA | \$30–\$40 per hour | Sep 2 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377122008) |
-| [Haskell](https://internscout.org/internships/at/haskell/) | Summer 2027 Construction Intern | Jacksonville, Florida |  | Sep 2 | [Apply](https://haskell.jibeapply.com/jobs/7053) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

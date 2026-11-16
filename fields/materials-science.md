@@ -1,9 +1,10 @@
 # Materials Science: Summer 2027 Internships
 
-14 open Summer 2027 materials science roles, newest first (all 14). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 31 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
+15 open Summer 2027 materials science roles, newest first (all 15). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 32 materials science internships on InternScout](https://internscout.org/internships/materials-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Pacific Fusion](https://internscout.org/internships/at/pacific-fusion/) | Summer 2027 Materials Science Internship | San Leandro, CA | Paid | Nov 16 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4505488009) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Research and Development - Computational Materials Science: Continuum Scales and Materials Discove… | Warren, Michigan, United States of America |  | Nov 13 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Computational-Materials-Science--Continuum-Scales-and-Materials-Discovery_JR-202621642) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Research and Development - Physical Metallurgist (Steels) | Warren, Michigan, United States of America |  | Nov 13 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Physical-Metallurgist--Steels-_JR-202621636) |
 | [Charter Manufacturing](https://internscout.org/internships/at/charter-manufacturing/) | Materials Engineer Intern (Summer 2027) | Charter Aarrowcast - Shawano, WI | Paid | Nov 5 | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Aarrowcast---Shawano-WI/Materials-Engineer-Intern--Summer-2027-_R08192) |

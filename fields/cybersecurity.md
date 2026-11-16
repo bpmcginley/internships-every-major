@@ -1,9 +1,10 @@
 # Cybersecurity: Summer 2027 Internships
 
-210 open Summer 2027 cybersecurity roles, newest first (the 200 newest of 210). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 362 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+211 open Summer 2027 cybersecurity roles, newest first (the 200 newest of 211). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 360 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Idaho National Laboratory | Cybersecurity Operations Intern | Idaho Falls, ID |  | Nov 16 | [Apply](https://go.vansh.nyc/1Am) |
 | Midrex Technologies | IT Cyber Security Intern | Charlotte, NC |  | Nov 14 | [Apply](https://go.vansh.nyc/1zU) |
 | CoStar Group | Security Engineer Intern - Arlington, VA | US-VA Arlington | Paid | Nov 14 | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727) |
 | CoStar Group | Security Engineer Intern - Richmond, VA | US-VA Richmond | Paid | Nov 14 | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Security-Engineer-Intern---Richmond--VA_R39726) |
@@ -42,9 +43,9 @@
 | i3 | Cybersecurity Intern | Huntsville, AL |  | Nov 9 | [Apply](https://go.vansh.nyc/1pd) |
 | Citizens Energy Group | IT Security Intern | Indianapolis, IN |  | Nov 9 | [Apply](https://go.vansh.nyc/1oR) |
 | [NBCUniversal](https://internscout.org/internships/at/nbcuniversal/) | Cybersecurity, Governance & Security Engineering Intern, Media Tech | New York, NY |  | Nov 9 | [Apply](https://go.vansh.nyc/1oC) |
-| Integration Innovation (i3) | Cybersecurity Internship | Huntsville, Alabama |  | Nov 9 | [Apply](https://i3-corps.jibeapply.com/jobs/5489) |
+| [Integration Innovation (i3)](https://internscout.org/internships/at/integration-innovation-i3/) | Cybersecurity Internship | Huntsville, Alabama |  | Nov 9 | [Apply](https://i3-corps.jibeapply.com/jobs/5489) |
 | Rockefeller Capital Management | Analyst Intern, Information Security | New York, NY |  | Nov 7 | [Apply](https://go.vansh.nyc/1mv) |
-| [PETRONAS Canada](https://internscout.org/internships/at/petronas-canada/) | Summer Student, Network and Security | Calgary |  | Nov 7 | [Apply](https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Network-and-Security_R0001882) |
+| PETRONAS Canada | Summer Student, Network and Security | Calgary |  | Nov 7 | [Apply](https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Network-and-Security_R0001882) |
 | Envista Forensics | Digital Forensics Intern | Morrisville, NC |  | Nov 6 | [Apply](https://go.vansh.nyc/1kg) |
 | [Intercontinental Exchange, Inc.](https://internscout.org/internships/at/intercontinental-exchange/) | Application Security Intern | Jacksonville, FL |  | Nov 6 | [Apply](https://go.vansh.nyc/1k7) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Information Security Intern | Atlanta, GA |  | Nov 6 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Information-Security-Intern_R-0000033910) |
@@ -119,7 +120,6 @@
 | [Aon](https://internscout.org/internships/at/aon/) | 2027 IT / Cybersecurity Engineer Intern - Chicago, IL | Chicago, Illinois | \$20.00 – \$22.00 per hour | Oct 21 | [Apply](https://jobs.aon.com/jobs/110098) |
 | Illumio | Security Research Intern | Sunnyvale, CA |  | Oct 20 | [Apply](https://go.vansh.nyc/cQ) |
 | Illumio | Engineering Intern, Product Security | Sunnyvale, CA |  | Oct 20 | [Apply](https://go.vansh.nyc/cO) |
-| [Galaxy](https://internscout.org/internships/at/galaxy/) | Cybersecurity Intern | Remote +1 |  | Oct 20 | [Apply](https://go.vansh.nyc/VT) |
 | [DocuSign](https://internscout.org/internships/at/docusign/) | Security Intern | San Francisco, CA |  | Oct 20 | [Apply](https://go.vansh.nyc/D2) |
 | [CAE](https://internscout.org/internships/at/cae/) | Stagiaire spécialiste de l’intégration en cybersécurité | Montreal (St. Laurent) | Paid | Oct 20 | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941) |
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | Software Engineer Intern, Security/Government | San Francisco, CA +1 |  | Oct 19 | [Apply](https://go.vansh.nyc/bA) |
@@ -178,7 +178,7 @@
 | [National Information Solutions Cooperative (NISC)](https://internscout.org/internships/at/national-information-solutions-cooperative-nisc/) | Intern - Information Security (Cybersecurity) | Lake Saint Louis, MO |  | Sep 10 | [Apply](https://job-boards.greenhouse.io/testnisc/jobs/8191986) |
 | [National Information Solutions Cooperative (NISC)](https://internscout.org/internships/at/national-information-solutions-cooperative-nisc/) | Intern - Information Security (Cybersecurity) | Lake Saint Louis, MO +1 |  | Sep 10 | [Apply](https://job-boards.greenhouse.io/nisc/jobs/8191724) |
 | [Danaher Corporation](https://internscout.org/internships/at/danaher/) | IT Security Intern | Coralville, IA |  | Sep 10 | [Apply](https://go.vansh.nyc/N9) |
-| [Barnes & Thornburg](https://internscout.org/internships/at/barnes-thornburg/) | Information Security Intern | Indianapolis, IN |  | Sep 9 | [Apply](https://go.vansh.nyc/N8) |
+| Barnes & Thornburg | Information Security Intern | Indianapolis, IN |  | Sep 9 | [Apply](https://go.vansh.nyc/N8) |
 | [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Associate Intern, Security Automation | Vienna, VA |  | Sep 9 | [Apply](https://go.vansh.nyc/N7) |
 | [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Associate Zero Trust Information Security Analyst Intern | Vienna, VA |  | Sep 9 | [Apply](https://go.vansh.nyc/1uq) |
 | [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Associate Information Security Analyst Intern | Vienna, VA |  | Sep 9 | [Apply](https://go.vansh.nyc/1us) |
@@ -187,6 +187,7 @@
 | [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Associate Intern, Penetration Testing | Pensacola, FL |  | Sep 9 | [Apply](https://go.vansh.nyc/QE) |
 | [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Summer Associate Internship (Security Workflow Engineer) | Vienna, VA |  | Sep 9 | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32382) |
 | Space Dynamics Laboratory | Information Security Intern | North Logan, UT | Paid | Sep 9 | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/xX5TstngJa/Information-Security-Intern) |
+| [Schonfeld](https://internscout.org/internships/at/schonfeld/) | 2027 Cybersecurity Operations Intern | New York, New York, United States +1 | \$85,000 | Sep 4 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171696) |
 | [V2X](https://internscout.org/internships/at/v2x/) | Systems Security Engineer Intern, Summer 2027 | Indianapolis, Indiana | Paid | Sep 3 | [Apply](https://careers.gov2x.com/jobs/62783) |
 | [Aerospace Corporation](https://internscout.org/internships/at/the-aerospace-corporation/) | Cyber Security Intern | United States |  | Aug 31 | [Apply](https://go.vansh.nyc/MY) |
 | [HP IQ](https://internscout.org/internships/at/hp-iq/) | Software Engineering Intern, Security Intern (Summer 2027) | San Francisco, CA +1 | \$40.00–\$50.00 per hour | Aug 31 | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6116398004) |
@@ -203,7 +204,6 @@
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Intern-Cybersecurity and Information Security | Chicago, IL | \$20 to \$33, | Oct 1 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Cybersecurity-and-Information-Security_R-0000033612-1) |
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | UPS Information Security Summer 2027 Internship - KY | US - AIR GROUP BUILDING (KYARP) +1 | Paid | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---AIR-GROUP-BUILDING-KYARP/UPS-Information-Security-Summer-2027-Internship---KY_R26029765) |
 | [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | UPS Information Security Summer 2027 Internship - GA | US - UPS CORPORATE OFFICES (GACOR) +1 | Paid | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Information-Security-Summer-2027-Internship---GA_R26029762) |
-| [Vanguard](https://internscout.org/internships/at/vanguard/) | College to Corporate IT Internship - Risk & Security - Analyst (PA) | Malvern, PA |  | Sep 18 | [Apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Analyst---PA-_181762) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,6 +1,6 @@
 # Business: Summer 2027 Internships
 
-75 open Summer 2027 business roles, newest first (all 75). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 143 business internships on InternScout](https://internscout.org/internships/business/)
+76 open Summer 2027 business roles, newest first (all 76). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 144 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,7 +11,7 @@
 | [Target](https://internscout.org/internships/at/target/) | Space & Presentation Business Partner Intern – Minneapolis, MN (Starting Summer 2027) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | \$29.00 per hour | Nov 11 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Space---Presentation-Business-Partner-Intern---Minneapolis--MN--Starting-Summer-2027-_R0000478342) |
 | [Barry-Wehmiller](https://internscout.org/internships/at/barry-wehmiller/) | Future Leaders Program - MBA Internship | St. Louis, MO | Paid | Nov 11 | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/St-Louis-MO/Future-Leaders-Program---MBA-Internship_R022658) |
 | [S&P Global](https://internscout.org/internships/at/s-p-global/) | Summer Intern, Commercial Strategy | New York, NY | \$20 to \$25 | Nov 10 | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Summer-Intern--Commercial-Strategy_332621-1) |
-| [PETRONAS Canada](https://internscout.org/internships/at/petronas-canada/) | Summer Student, Commercial and Joint Venture Management | Calgary |  | Nov 10 | [Apply](https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Commercial-and-Joint-Venture-Management_R0001884) |
+| PETRONAS Canada | Summer Student, Commercial and Joint Venture Management | Calgary |  | Nov 10 | [Apply](https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Commercial-and-Joint-Venture-Management_R0001884) |
 | [Securities and Exchange Commission](https://internscout.org/internships/at/securities-and-exchange-commission/) | Summer 2027 SEC Scholars Business Program- RO (Volunteer) | Los Angeles, California +9 |  | Nov 9 | [Apply](https://www.usajobs.gov:443/job/891900000) |
 | [Securities and Exchange Commission](https://internscout.org/internships/at/securities-and-exchange-commission/) | Summer 2027 SEC Scholars Business Program- HQ (Volunteer) | Washington, District of Columbia |  | Nov 9 | [Apply](https://www.usajobs.gov:443/job/891901100) |
 | [Vizient](https://internscout.org/internships/at/vizient/) | 2027 Summer Internship - Cross-Business-Unit Proposal Development | Chicago, IL 60607 | \$25 per hour | Nov 7 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Cross-Business-Unit-Proposal-Development_36077R-1) |
@@ -48,6 +48,7 @@
 | Weatherford | USA - Weatherford Summer Business Internship | Houston, TX |  | Aug 12 | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/107149) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Business Valuation Internship | Portland, ME | \$30 per hour | Nov 16, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4018/summer-2027-business-valuation-internship/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Business Applications Intern | Niles, IL | \$23-\$43 per hour | Nov 16, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4998/business-applications-intern/job) |
+| [AAR](https://internscout.org/internships/at/aar/) | Product Line Intern - Business & General Aviation | Chicago, Illinois | \$22/hr | Nov 16 | [Apply](https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=18992) |
 | Honda Motor Co Ltd | Business Co-op/Intern - Summer 2027 | Irving, TX | \$23.35-\$30.21 | Nov 15 | [Apply](https://www.monster.com/job-openings/business-co-op-intern-summer-2027-irving-tx--9a984b9d-f5ca-4e8e-a36d-e7f99b331b2e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Honda Motor Company | Business Co-op/Intern | Irving, TX |  | Nov 14 | [Apply](https://us.trabajo.org/job-3262-dcb239ebd1437b1510aab44c5cc532db?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Trinity Life Sciences](https://internscout.org/internships/at/trinity-life-sciences/) | Commercial Strategy Summer Associate (Waltham) | Waltham, MA - Headquarters | \$35/hour | Nov 12 | [Apply](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Commercial-Strategy-Summer-Associate--Waltham-_JR100749) |

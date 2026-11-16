@@ -1,6 +1,6 @@
 # Insurance: Summer 2027 Internships
 
-86 open Summer 2027 insurance roles, newest first (all 86). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 164 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+85 open Summer 2027 insurance roles, newest first (all 85). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 163 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -38,7 +38,6 @@
 | [Arthur J. Gallagher & Co.](https://internscout.org/internships/at/arthur-j-gallagher-co/) | U.S. Internship - Actuary - ALL LOCATIONS | Rolling Meadows, Illinois |  | Oct 20 | [Apply](https://jobs.ajg.com/jobs/57700) |
 | [AXA](https://internscout.org/internships/at/axa/) | Summer 2027 - Claims Intern, Canada Casualty | TORONTO, Canada | Paid | Oct 19 | [Apply](https://careers.axa.com/jobs/25496) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Personal Lines Underwriting Internship - Summer 2027 | Traverse City, MI | \$20.00 per hour | Oct 17 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Traverse-City-MI/Personal-Lines-Underwriting-Internship---Summer-2027_R_14399) |
-| [WTW](https://internscout.org/internships/at/wtw/) | Early Careers: ADML Insurance & Financial Consulting Internship - Northeast - Summer 2027 | Boston, MA +1 |  | Oct 13 | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606594) |
 | [AXA](https://internscout.org/internships/at/axa/) | Summer 2027 - Underwriting Intern | NEW YORK +4 | \$25.00/hr | Sep 29 | [Apply](https://careers.axa.com/jobs/25551) |
 | [AXA](https://internscout.org/internships/at/axa/) | Summer 2027 - Claims Intern | CHICAGO +2 | \$25.00/hour | Sep 29 | [Apply](https://careers.axa.com/jobs/25499) |
 | [SCOR](https://internscout.org/internships/at/scor/) | Actuarial Intern | Charlotte, North Carolina |  | Sep 25 | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5435) |

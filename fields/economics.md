@@ -1,6 +1,6 @@
 # Economics: Summer 2027 Internships
 
-23 open Summer 2027 economics roles, newest first (all 23). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 50 economics internships on InternScout](https://internscout.org/internships/economics/)
+23 open Summer 2027 economics roles, newest first (all 23). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 49 economics internships on InternScout](https://internscout.org/internships/economics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -15,7 +15,6 @@
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Community and Economic Development Intern | Atlanta, GA |  | Oct 26 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Community-and-Economic-Development-Intern_R-0000033895) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Economics Intern - Structural IO | Seattle, WA +3 |  | Oct 23 | [Apply](https://amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | PhD Economics Intern - Reduced Form Causal Inference | Seattle, WA +3 |  | Oct 23 | [Apply](https://amazon.jobs/en/jobs/10564111/phd-economics-intern-reduced-form-causal-inference-summer-2027) |
-| [American Bankers Association](https://internscout.org/internships/at/american-bankers-association/) | Banking Policy and Economic Research Intern | Washington, DC |  | Oct 16 | [Apply](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Banking-Policy-and-Economic-Research_R625) |
 | [The Brattle Group](https://internscout.org/internships/at/the-brattle-group/) | Energy Analyst Intern (Economics) - Summer 2027 | Toronto, Ontario, Canada +1 | \$1,850.00 per week | Sep 18 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005) |
 | [The Brattle Group](https://internscout.org/internships/at/the-brattle-group/) | Research Analyst Intern (Economics) - Summer 2027 | Washington, District of Columbia, United States | \$1,850.00 per week | Sep 18 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735674005) |
 | [The Brattle Group](https://internscout.org/internships/at/the-brattle-group/) | Research Analyst Intern (Economics & Finance) - Summer 2027 | San Francisco, California, United States | \$1,850.00 per week | Sep 18 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735519005) |
@@ -24,6 +23,7 @@
 | [The Brattle Group](https://internscout.org/internships/at/the-brattle-group/) | Energy Analyst Intern (Economics) - Summer 2027 | Boston, Massachusetts, United States +1 | \$1,850.00 per week | Sep 18 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735999005) |
 | [GM financial](https://internscout.org/internships/at/gm-financial/) | Intern - Economic Analysis | Fort Worth, TX |  | Sep 16 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260811) |
 | [Ernst & Young](https://internscout.org/internships/at/ernst-young/) | Summer Associate Intern - Corporate Finance - Quantitative Finance and Economics | SF +6 |  | Sep 7 | [Apply](https://eyglobal.yello.co/jobs/KBPFL_z8cg9IBGsgb2xYYA?job_board_id=c1riT--B2O-KySgYWsZO1Q) |
+| [American Bankers Association](https://internscout.org/internships/at/american-bankers-association/) | Intern, Banking Policy and Economic Research | Main Office, DC +1 |  | Oct 16 | [Apply](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Banking-Policy-and-Economic-Research_R625) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Intern - Economic Research - Chicago | Chicago, IL | \$20 to \$33, | Oct 1 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern---Economic-Research---Chicago_R-0000033628-1) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Federal Reserve Summer 2027 Economics Writing and Analysis Internship | Richmond, VA | \$23.50/hour | Sep 22 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Economics-Writing-and-Analysis-Internship_R-0000033220) |
 | [Walmart](https://internscout.org/internships/at/walmart/) | Summer 2027 Corporate Intern: Economist | (USA) 121 HOBOKEN NJ HOBOKEN Home Office | \$25.00 - \$48.00 | Sep 18 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-121-HOBOKEN-NJ-HOBOKEN-Home-Office/Summer-2027-Corporate-Intern--Economist_R-2630169) |
