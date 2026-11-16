@@ -1,6 +1,6 @@
 # Biology: Summer 2027 Internships
 
-20 open Summer 2027 biology roles, newest first (all 20). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 760 biology internships on InternScout](https://internscout.org/internships/biology/)
+20 open Summer 2027 biology roles, newest first (all 20). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 758 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -12,8 +12,8 @@
 | [Vizient](https://internscout.org/internships/at/vizient/) | Summer 2027 Internship - Life Sciences Solutions Market Research | Chicago, IL 60607 | \$25 per hour | Nov 10 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Summer-2027-Internship---Life-Sciences-Solutions-Market-Research_36152R) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Undergrad Clinical Immunology Intern (Summer 2027) | US - California - Thousand Oaks | Paid | Nov 6 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Undergrad-Clinical-Immunology-Intern--Summer-2027-_R-259640) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship – Applied Biological Sciences | Laurel, Maryland | \$22.60 Hour | Nov 5 | [Apply](https://careers.jhuapl.edu/jobs/60594) |
-| [Vizient](https://internscout.org/internships/at/vizient/) | 2027 Summer Internship - Pharmacy Aggregation | Irving, TX 75062 Vizient Corporate HQ +14 | \$25 per hour | Nov 5 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Pharmacy-Aggregation_35995R-1) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Grad Intern – R&D Translational Immunology (Summer 2027) | US - California - South San Francisco | \$35.34 - \$41.20 per hour | Nov 5 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---South-San-Francisco/Grad-Intern---R-D-Translational-Immunology--Summer-2027-_R-260620) |
+| [Vizient](https://internscout.org/internships/at/vizient/) | Pharmacy Aggregation Intern | Washington, DC +7 |  | Nov 4 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Pharmacy-Aggregation_35995R-1) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Pharmacy Operations Internship (Remote) – Summer 2027 (Undergraduate) | United States |  | Nov 3 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040155) |
 | [LabCorp](https://internscout.org/internships/at/labcorp/) | Full-Stack Life Sciences Software Engineer Co-op | Durham, NC +1 |  | Nov 2 | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | R&D GSC Microbiology Resource Center Internship- Brecksville, OH | Brecksville, OH |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627508) |

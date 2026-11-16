@@ -1,9 +1,12 @@
 # Media: Summer 2027 Internships
 
-44 open Summer 2027 media roles, newest first (all 44). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 141 media internships on InternScout](https://internscout.org/internships/media/)
+47 open Summer 2027 media roles, newest first (all 47). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 143 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Publicis Groupe](https://internscout.org/internships/at/publicis-groupe/) | Publicis Media Summer 2027 Internship - Chicago | Chicago, Illinois | Paid | Nov 16 | [Apply](https://careers.publicisgroupe.com/jobs/182300) |
+| [Publicis Groupe](https://internscout.org/internships/at/publicis-groupe/) | Publicis Media Summer 2027 Internship - Los Angeles | El Segundo, California | Paid | Nov 16 | [Apply](https://careers.publicisgroupe.com/jobs/182299) |
+| [Publicis Groupe](https://internscout.org/internships/at/publicis-groupe/) | Publicis Media Summer 2027 Internship - Philadelphia | Philadelphia, Pennsylvania | Paid | Nov 16 | [Apply](https://careers.publicisgroupe.com/jobs/182283) |
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Internship - Creative & Illustration Intern | Seattle, WA, United States | Paid | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507814009) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Creative Designer Intern - Summer 2027 | Detroit, MI |  | Nov 14 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Creative-Designer-Intern---Summer-2027_R-084550) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Video Editing Intern - Summer 2027 | Detroit, MI |  | Nov 14 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Post-Production-Intern---Summer-2027_R-084726) |
@@ -19,7 +22,6 @@
 | [PTC](https://internscout.org/internships/at/ptc/) | Training Content Creator Intern (Summer 2027) | Boston, MA, USA | \$28-\$32/hour | Nov 4 | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Training-Content-Creator-Intern_JR112942-1) |
 | [David Yurman](https://internscout.org/internships/at/david-yurman/) | Brand Creative Intern | New York, NY | \$25/hour | Nov 4 | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Brand-Creative-Intern_R-101192) |
 | Samsung Research America | 2027 Summer Intern, Generative AI based Imaging and Video R&D | 6105 Tennyson Pkwy, Suite 300, Plano TX 75024 +1 | Paid | Nov 3 | [Apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927216002) |
-| [NVIDIA](https://internscout.org/internships/at/nvidia/) | Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027 | US, CA +4 |  | Oct 31 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Research Scientist Intern - Video and Edge - Multimedia Lab | San Jose, CA |  | Oct 30 | [Apply](https://jobs.bytedance.com/en/position/7702155940239264005/detail) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Editorial Design Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748518005) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Kitchen Team Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748503005) |
@@ -29,6 +31,7 @@
 | [Hearst](https://internscout.org/internships/at/hearst/) | Audience Intern - Summer 2027 | Houston, TX, United States | Paid | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466386009) |
 | [Badger Meter](https://internscout.org/internships/at/badger-meter/) | Marketing Content Creation Intern | Milwaukee HQ, WI |  | Oct 23 | [Apply](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Marketing-Content-Creation-Intern_4635) |
 | OpenArt AI | Early Adopter & Product Builder Intern, Creative AI | San Carlos, CA |  | Oct 22 | [Apply](https://go.vansh.nyc/ej) |
+| [NVIDIA](https://internscout.org/internships/at/nvidia/) | Product Management MBA Intern - Gaming, Content Creation, And PC AI | Canada +2 |  | Oct 21 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) |
 | Sony | Research Engineer Intern, Ethical Creative and Protective AI Lab | Remote |  | Oct 20 | [Apply](https://go.vansh.nyc/cP) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Recommendation Video | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694362230074673461) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Creative Product Operations Intern - Multiple Teams | San Jose, CA |  | Oct 9 | [Apply](https://lifeattiktok.com/search/7693727532178229509) |

@@ -1,6 +1,6 @@
 # Chemistry: Summer 2027 Internships
 
-27 open Summer 2027 chemistry roles, newest first (all 27). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 53 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
+28 open Summer 2027 chemistry roles, newest first (all 28). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 53 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -9,7 +9,6 @@
 | Genesis Molecular AI | Computational Chemistry Intern - 2027 | San Mateo, CA |  | Nov 10 | [Apply](https://jobs.ashbyhq.com/genesis-molecular-ai/3de36849-b8da-4da9-bd22-d706343db9e1/application) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern Chemistry Summer 2027 | Port Gibson, Mississippi |  | Nov 9 | [Apply](https://jobs.entergy.com/job/Port-Gibson-Student%2C-Intern-Chemistry-Summer-2027-Miss/1448978900/) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Global Discovery Chemistry Intern | San Diego - CA - US | \$24.00 - \$30.00 | Nov 5 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/San-Diego---CA---US/Global-Discovery-Chemistry-Intern_R1608184) |
-| [NVIDIA](https://internscout.org/internships/at/nvidia/) | PhD Research Intern, Quantum and AI for Chemistry - 2027 | Canada, Toronto +1 |  | Oct 31 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Lab Chemist Intern - Summer 2027 | Waynoka, OK | Paid | Oct 30 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168059) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Grad Intern – Bioanalytical Research Associate (Summer 2027) | US - California - Thousand Oaks | \$35.34 - \$41.20 per hour | Oct 30 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Grad-Intern---Bioanalytical-Research-Associate--Summer-2027-_R-260097) |
 | [Merck](https://internscout.org/internships/at/merck/) | 2027 Future Talent Program - Discovery Chemistry & Process Research - Intern | USA - New Jersey - Rahway +3 | \$39,108 | Oct 28 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Discovery-Chemistry---Process-Research---Intern_R414395) |
@@ -22,7 +21,9 @@
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Lab Chemist Intern - Summer 2027 | Buttonwillow, CA |  | Oct 1 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166506) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Receiving Chemist Intern - Summer 2027 | Bartow, FL |  | Oct 1 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166421) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Chemist Intern IS \| Summer 2027 | Sumter, SC |  | Sep 21 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/165145) |
+| [NVIDIA](https://internscout.org/internships/at/nvidia/) | Quantum and Chemistry Research Intern - Quantum and AI for Chemistry | Toronto, ON, Canada |  | Sep 16 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | R&D Chemistry Laboratory Intern (Austin MN) - Summer 2027 - Campus Recruiting | Austin, MN |  | Sep 8 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35724) |
+| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Process Chemistry - San Diego | San Diego, CA |  | Nov 16 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/San-Diego-CA/Summer-Intern-2027--Process-Chemistry---San-Diego_REQ-31307) |
 | [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Bioanalytical | Boston, MA |  | Nov 13 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Bioanalytical_REQ-31425-2) |
 | [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Process Chemistry, MSAT - PhD | Boston, MA |  | Nov 13 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Process-Chemistry--MSAT---PhD_REQ-31313) |
 | [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Process Chemistry | Boston, MA |  | Nov 13 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Process-Chemistry_REQ-31306) |
