@@ -1,6 +1,6 @@
 # Sports: Summer 2027 Internships
 
-9 open Summer 2027 sports roles, newest first (all 9). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 68 sports internships on InternScout](https://internscout.org/internships/sports/)
+8 open Summer 2027 sports roles, newest first (all 8). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 63 sports internships on InternScout](https://internscout.org/internships/sports/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -8,7 +8,6 @@
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Golf and Groundskeeping Internship - Oasis at Death Valley | Death Valley, California | \$17.65 per hour | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40115) |
 | Nex | Summer 2027 \| Game Engineer Intern (Sports & Fitness) | San Jose, California (Hybrid) +1 |  | Nov 3 | [Apply](https://job-boards.greenhouse.io/nex/jobs/5421056008) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer and Fall 2027 FOX Technology Internship Program - Live Sports Virtual Enhancement Operator | Tempe, AZ |  | Oct 31 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Summer-and-Fall-2027-FOX-Technology-Internship-Program---Live-Sports-Virtual-Enhancement-Operator_R50033973) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Team Sports/Sales | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Team-SportsSales-MD-21230/1434355500/) |
 | [Marriott Vacations Worldwide](https://internscout.org/internships/at/marriott-vacations-worldwide/) | Summer 2027 - College Internship – Palm Desert, CA (Housekeeping, Recreation, & Food & Beverage) | Marriott's Shadow Ridge, FL +1 | \$16.90-23.05 /hour | Nov 3 | [Apply](https://mymvw.wd5.myworkdayjobs.com/mvw/job/Marriotts-Shadow-Ridge/Summer-2027---College-Internship---Palm-Desert--CA--Housekeeping--Recreation----Food---Beverage-_JR94008) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX Internship Program - Sports Production, New York | New York, New York, USA | \$20.00 per hour | Sep 28 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-Internship-Program---Sports-Production--New-York_R50033975) |
 | [FOX](https://internscout.org/internships/at/fox/) | Summer 2027 FOX Sports Internship Program - Charlotte | Charlotte, North Carolina, USA | \$20.00 per hour | Sep 28 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Charlotte-North-Carolina-USA/Summer-2027-FOX-Sports-Internship-Program---Charlotte_R50033963) |

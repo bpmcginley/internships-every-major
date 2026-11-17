@@ -1,6 +1,6 @@
 # Lab Research: Summer 2027 Internships
 
-34 open Summer 2027 lab research roles, newest first (all 34). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 128 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
+33 open Summer 2027 lab research roles, newest first (all 33). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 121 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -21,7 +21,6 @@
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | R&D GSC Building Materials Lab Internship- Brecksville, OH | Brecksville, OH |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627572) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | R&D GSC Architectural Paint Lab Internship- Brecksville, OH | Brecksville, OH |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627563) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Product Innovation (Material Development and Material Lab) | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Product-Innovation-%28Material-Development-and-Material-Lab%29-MD-21230/1434382800/) |
-| [Trace3](https://internscout.org/internships/at/trace3/) | Innovation Research & Development Lab Intern | Irvine, CA |  | Oct 26 | [Apply](https://go.vansh.nyc/SL) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Pharmaceutical Lab Internship (Crystallization) Summer 2027 | El Segundo, California, United States | \$33.00 | Oct 21 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8040897003) |
 | Sony | Research Engineer Intern, Ethical Creative and Protective AI Lab | Remote |  | Oct 20 | [Apply](https://go.vansh.nyc/cP) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | R&D Laboratory Intern – Vaccines Technical Development - Fort Dodge, IA (Summer 2027) | Fort Dodge, IA | \$20-\$40/hour | Oct 20 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Fort-Dodge-IA/R-D-Laboratory-Intern---Vaccines-Technical-Development---Fort-Dodge--IA--Summer-2027--_R0027484) |

@@ -1,10 +1,12 @@
 # Nonprofit: Summer 2027 Internships
 
-23 open Summer 2027 nonprofit roles, newest first (all 23). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 103 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
+25 open Summer 2027 nonprofit roles, newest first (all 25). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 103 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Southern Poverty Law Center | Intern, Design (Summer 2027) | Atlanta, GA +5 | \$18.40 per hour | Nov 13 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8943360002) |
+| [Southern Poverty Law Center](https://internscout.org/internships/at/southern-poverty-law-center/) | Intern, Political Campaigns (Summer 2027) | Washington, DC | \$18.40 per hour | Nov 17 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8943627002) |
+| [Southern Poverty Law Center](https://internscout.org/internships/at/southern-poverty-law-center/) | Intern, Policy Research - Eradicating Poverty (Summer 2027) | Atlanta, GA +6 | \$18.40 per hour | Nov 16 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8945974002) |
+| [Southern Poverty Law Center](https://internscout.org/internships/at/southern-poverty-law-center/) | Intern, Design (Summer 2027) | Atlanta, GA +5 | \$18.40 per hour | Nov 13 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8943360002) |
 | [Arch Capital Group](https://internscout.org/internships/at/arch-capital-group/) | Community Impact Summer Intern | White Plains, NY United States of America | Paid | Nov 12 | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/White-Plains-NY-United-States-of-America/Community-Impact-Summer-Intern_R26_803) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Adaptation Advocacy Intern | Washington, DC | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6047/summer-2027-adaptation-advocacy-intern/job) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Food Waste Reduction Intern | San Francisco, CA +2 | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6054/summer-2027-food-waste-reduction-intern/job) |
@@ -19,7 +21,7 @@
 | Bloomberg Philanthropies | 2027 Bloomberg Philanthropies Summer Internship | New York, New York, United States | Paid | Oct 27 | [Apply](https://job-boards.greenhouse.io/bloombergdotorg/jobs/8046487003) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Community Impact | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Community-Impact-MD-21230/1434384000/) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Community Impact | Wilmington, DE | \$18.00 - \$21.00 Per Hour | Oct 22 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Community-Impact_R-104110-2) |
-| [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Community Science Partnerships Intern | Chicago, IL +4 | \$10,000.00 | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6067/summer-2027-community-science-partnerships-intern/job) |
+| [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Community Science Partnerships Intern | Chicago, IL +6 | \$10,000.00 | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6067/summer-2027-community-science-partnerships-intern/job) |
 | [EQT Corporation](https://internscout.org/internships/at/eqt-corporation/) | Community Relations Intern | Canonsburg, PA |  | Oct 9 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5448044008) |
 | Auburn University | Advancement Internship - Fundraising | Auburn, AL | \$14.00/hour | Oct 2 | [Apply](https://jobs.auburn.edu/jobs/10540) |
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Undergraduate Intern, National Security Project | New York, NY |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8842752002) |

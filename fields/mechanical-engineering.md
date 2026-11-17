@@ -1,6 +1,6 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-322 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 322). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 824 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+318 open Summer 2027 mechanical engineering roles, newest first (the 200 newest of 318). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 800 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | Loft Orbital | Summer 2027 Internship – Mechanical Engineering | Golden, CO |  | Oct 27 | [Apply](https://jobs.lever.co/loftorbital/34edd0b7-2a5b-4efa-a379-860097784534/apply) |
 | Scout AI | Mechanical Engineer Intern (Summer 2027) | Sunnyvale, CA +1 |  | Oct 27 | [Apply](https://jobs.ashbyhq.com/scout-ai/fba467c4-30e8-4ee1-8ac9-20b48e132076/application) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Mechanical Engineering Internship - Data Center Facilities | North Kansas City, MO |  | Oct 27 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5465496008) |
-| Castelion | Mechanical Engineering Intern (Summer 2027) | Allen, TX |  | Oct 27 | [Apply](https://job-boards.greenhouse.io/castelioncorporation/jobs/4468205009) |
+| [Castelion](https://internscout.org/internships/at/castelion/) | Mechanical Engineering Intern (Summer 2027) | Allen, TX |  | Oct 27 | [Apply](https://job-boards.greenhouse.io/castelioncorporation/jobs/4468205009) |
 | [Shield AI](https://internscout.org/internships/at/shield-ai/) | Summer 2027 - Advanced Manufacturing Engineering Intern | Dallas, TX, US +1 |  | Oct 27 | [Apply](https://jobs.ashbyhq.com/shield/043c739e-ff80-4faa-b2be-5d1e96768dfa/application) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Mechanical Engineer Intern - Summer 2027 | El Dorado, AR | Paid | Oct 27 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167555) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Mechanical Engineering Intern - Summer 2027 | Tempe, AZ |  | Oct 27 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98372) |
@@ -125,7 +125,6 @@
 | [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Mechanical Engineering Intern \| Madison, WI | Madison, WI | \$22.00 - \$24.00 per hour | Oct 24 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Madison-WI/Mechanical-Engineering-Intern---Madison--WI_R-16461) |
 | [Motorola](https://internscout.org/internships/at/motorola/) | Mechanical Engineering Intern - Summer 2027 | Schaumburg, IL |  | Oct 23 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Mechanical-Engineering-Intern---Summer-2027_R69727) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Mechanical Engineering Intern - Summer 2027 | Minneapolis, MN |  | Oct 23 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98140) |
-| [Verdantas](https://internscout.org/internships/at/verdantas/) | Mechanical Engineer Summer Intern | Holden MA | \$20.00 - \$22.00 | Oct 23 | [Apply](https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Holden-MA/Mechanical-Engineer-Summer-Intern_R-101230) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Mechanical Engineer | Massachusetts, Virtual Address |  | Oct 23 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Massachusetts-Virtual-Address/Summer-2027-Internship---Mechanical-Engineer_R573345) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | Undergrad Intern - Manufacturing and Clinical Supply - Process Development (Summer 2027) | US - California - Thousand Oaks | \$28.87 per hour | Oct 23 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Undergrad-Intern---Manufacturing-and-Clinical-Supply---Process-Development--Summer-2027-_R-259434) |
 | [DoorDash](https://internscout.org/internships/at/doordash/) | Mechanical Engineering, Intern - Labs (Summer 2027) | Oakland, CA | Paid | Oct 22 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8313401) |
@@ -156,7 +155,6 @@
 | [Nissan Global](https://internscout.org/internships/at/nissan-global/) | Manufacturing Digital Data Intern | Decherd, TN |  | Oct 8 | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881) |
 | [Peraton](https://internscout.org/internships/at/peraton/) | Summer 2027 Mechanical Engineering Intern- Topeka, KS | Topeka, Kansas | \$24.50/hour | Oct 8 | [Apply](https://peraton.jibeapply.com/jobs/172050) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Manufacturing Digital Data Intern | Decherd, TN |  | Oct 8 | [Apply](https://go.vansh.nyc/G4) |
-| [Skyband Systems](https://internscout.org/internships/at/skyband-systems/) | Summer 2027 Internship: Mechanical Engineering | Kirkland, WA +1 | \$50.00/hour | Oct 7 | [Apply](https://jobs.ashbyhq.com/Skyband%20Systems/99786584-f5fa-42e2-966b-1a3df82d9b97/application) |
 | [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | Process Engineering Manufacturing Intern - Summer 2027 | Horse Cave, Kentucky | \$22.00/hour | Oct 6 | [Apply](https://careers.marzetticompany.com/jobs/8156) |
 | [Arc](https://internscout.org/internships/at/arc/) | Mechanical Engineering Intern - Powertrain | Torrance, CA | \$36 per hour | Oct 5 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442958008) |
 | [Mach Industries](https://internscout.org/internships/at/mach-industries/) | Summer 2027 Engineering Internship, Manufacturing | Huntington Beach, California, United States +1 | Paid | Oct 1 | [Apply](https://job-boards.greenhouse.io/machindustries/jobs/4429928009) |
@@ -180,11 +178,11 @@
 | [Astranis](https://internscout.org/internships/at/astranis/) | Propulsion Manufacturing Intern (Summer 2027) | San Francisco |  | Sep 18 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705648006) |
 | [Antares Nuclear](https://internscout.org/internships/at/antares-nuclear/) | Space Mechanical Design Engineering Intern - Summer 2027 | Los Angeles +1 |  | Sep 18 | [Apply](https://jobs.ashbyhq.com/Antares/7feb2782-3bdc-4efe-b459-9751db944f81/application) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Mechanical Engineering Internship – Summer 2027 | San Diego, CA +2 |  | Sep 18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720741704) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Wallops Island, VA | \$25.00 | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7996623003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Wallops Island, VA |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7996623003) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Mechanical Engineering Intern Summer Opportunities (May-Aug 2027) | Needham, MA, United States | Paid | Sep 17 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713812006) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Middle River, MD |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7988835003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Mechanical Engineering Intern Summer 2027 | Silver Spring, MD |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989904003) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Long Beach, CA |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984564003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Long Beach, CA | \$28.00 | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984564003) |
 | [Rendezvous Robotics](https://internscout.org/internships/at/rendezvous-robotics/) | Mechanical Engineering Intern (Summer 2027) | Golden, CO |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408601009) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Mechanical Engineering Internship | Austin, TX |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/042f3a1d-5fc1-44ef-8f12-57044eaa4db2/apply) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Mechanical Engineering Internship | Westminster, CO |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/c7217acc-8eb4-4431-9e90-f426ccca8d1f/apply) |
@@ -204,6 +202,8 @@
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Manufacturing Engineering Intern | Del Rio, TX |  | Sep 9 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119148) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Mechanical Engineering Intern, Summer 2027 | San Diego, CA |  | Sep 9 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309855) |
 | [Formlabs](https://internscout.org/internships/at/formlabs/) | Manufacturing Engineering Intern (Summer 2027) | Somerville, MA | \$2,900 | Sep 8 | [Apply](https://careers.formlabs.com/job/8186604/apply/?gh_jid=8186604) |
+| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Technical Mechanical Maintenance Internship - Lusby, MD (ASSOCIATE'S DEGREE ONLY) | Lusby, Maryland | Paid | Sep 8 | [Apply](https://jobs.constellationenergy.com/jobs/138593) |
+| [Solidigm](https://internscout.org/internships/at/solidigm/) | Hardware & Product Development Engineering Intern | Rancho Cordova, CA |  | Sep 5 | [Apply](https://jobs.smartrecruiters.com/Solidigm/744000147613839) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

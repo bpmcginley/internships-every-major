@@ -1,6 +1,6 @@
 # Aerospace Engineering: Summer 2027 Internships
 
-38 open Summer 2027 aerospace engineering roles, newest first (all 38). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 69 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
+38 open Summer 2027 aerospace engineering roles, newest first (all 38). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 69 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -8,7 +8,7 @@
 | [Reliable Robotics](https://internscout.org/internships/at/reliable-robotics/) | Flight Test Integration Engineer Intern (Summer 2027) | Mountain View, CA +1 |  | Nov 13 | [Apply](https://jobs.ashbyhq.com/reliable-robotics/1d020651-71bb-4e47-baa6-2286dc780d96/application) |
 | [Reliable Robotics](https://internscout.org/internships/at/reliable-robotics/) | Avionics Intern (Summer 2027) | Mountain View, CA +1 |  | Nov 13 | [Apply](https://jobs.ashbyhq.com/reliable-robotics/f4073938-ccdb-46fb-aa65-6715981d27ee/application) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern Eng - Structural & Aerospace Engineering | Pascagoula, Mississippi |  | Nov 12 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-ENG-STRUCTURAL-&-AEROSPACE-ENGINEERING-Miss/1430053500/) |
-| Castelion | Propulsion Engineering Intern (Summer 2027) | Torrance, CA |  | Nov 11 | [Apply](https://job-boards.greenhouse.io/castelioncorporation/jobs/4503740009) |
+| [Castelion](https://internscout.org/internships/at/castelion/) | Propulsion Engineering Intern (Summer 2027) | Torrance, CA |  | Nov 11 | [Apply](https://job-boards.greenhouse.io/castelioncorporation/jobs/4503740009) |
 | [Pivotal Software](https://internscout.org/internships/at/pivotal-software/) | Internship, Flight Test Engineer (Summer 2027) | Palo Alto, CA |  | Nov 9 | [Apply](https://jobs.lever.co/pivotal/67927cb0-cf1a-4775-93be-61db3efe684b/apply) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Aerospace, Defense & Government Finance | New York, New York | \$22.44 | Nov 6 | [Apply](https://firstcitizens.jibeapply.com/jobs/35782) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Avionics & Electrical Engineering Internship Summer 2027 | Centennial, CO | \$23.10 - \$37.95 | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Avionics-&-Electrical-Engineering-Internship-Summer-2027-CO-80112/1427399200/) |

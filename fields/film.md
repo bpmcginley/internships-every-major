@@ -1,6 +1,6 @@
 # Film: Summer 2027 Internships
 
-9 open Summer 2027 film roles, newest first (all 9). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 37 film internships on InternScout](https://internscout.org/internships/film/)
+9 open Summer 2027 film roles, newest first (all 9). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 36 film internships on InternScout](https://internscout.org/internships/film/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

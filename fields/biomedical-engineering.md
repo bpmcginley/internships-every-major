@@ -1,9 +1,10 @@
 # Biomedical Engineering: Summer 2027 Internships
 
-6 open Summer 2027 biomedical engineering roles, newest first (all 6). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 14 biomedical engineering internships on InternScout](https://internscout.org/internships/biomedical-engineering/)
+7 open Summer 2027 biomedical engineering roles, newest first (all 7). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 15 biomedical engineering internships on InternScout](https://internscout.org/internships/biomedical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Analog Devices](https://internscout.org/internships/at/analog-devices/) | Software Engineering Intern, Medical Device & Healthcare Integration | Wilmington, MA |  | Nov 17 | [Apply](https://go.vansh.nyc/1AV) |
 | [Jabil](https://internscout.org/internships/at/jabil/) | Manufacturing Engineering Intern - Medical Device Manufacturing | Monument, CO | \$16.00 - \$32.00 | Nov 13 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Monument-CO/Manufacturing-Engineering-Intern---Medical-Device-Manufacturing_J2469027) |
 | [Merck](https://internscout.org/internships/at/merck/) | Future Talent Program Intern - AI/ML Biomedical Imaging and Computational Pathology | Cambridge, MA |  | Oct 23 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---AI-ML-Biomedical-Imaging-and-Computational-Pathology---Intern_R423515) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Biomedical Engineering - Illinois | Cary, Illinois |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Summer-2027-Internship---Biomedical-Engineering---Illinois_R572593) |

@@ -1,6 +1,6 @@
 # Library Science: Summer 2027 Internships
 
-5 open Summer 2027 library science roles, newest first (all 5). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 18 library science internships on InternScout](https://internscout.org/internships/library-science/)
+5 open Summer 2027 library science roles, newest first (all 5). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 21 library science internships on InternScout](https://internscout.org/internships/library-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

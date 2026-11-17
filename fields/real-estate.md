@@ -1,11 +1,10 @@
 # Real Estate: Summer 2027 Internships
 
-21 open Summer 2027 real estate roles, newest first (all 21). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 45 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
+19 open Summer 2027 real estate roles, newest first (all 19). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 41 real estate internships on InternScout](https://internscout.org/internships/real-estate/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Real Estate | Chicago, IL | \$25.00 per hour | Nov 14 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Commercial-Real-Estate_2620117) |
-| Realty Income | Commercial Real Estate Intern - Multiple Opportunities | San Diego, California | \$21.00 – \$25.00 | Nov 13 | [Apply](https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Commercial-Real-Estate-Intern---Multiple-Opportunities_R-100330) |
 | [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Leasing Summer 2027 Internship - Sacramento, CA | Sacramento, CA |  | Nov 12 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sacramento-CA/Leasing-Summer-2027-Internship---Sacramento--CA_REQ546470) |
 | [Jones Lang LaSalle (JLL)](https://internscout.org/internships/at/jones-lang-lasalle-jll/) | Leasing Summer 2027 Internship - Richmond, VA | Richmond, VA |  | Nov 12 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Richmond-VA/Leasing-Summer-2027-Internship---Richmond--VA_REQ546397) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - Canadian Real Estate Finance Group | Toronto, Ontario +1 | \$40,950.00 | Nov 12 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---Canadian-Real-Estate-Finance-Group_JR26091907) |
@@ -13,8 +12,7 @@
 | [KeyBank](https://internscout.org/internships/at/keybank/) | 2027 KeyBank Corporate Real Estate Summer Internship - Cleveland, OH | Brooklyn, OH | \$23 per hour | Nov 10 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-KeyBank-Corporate-Real-Estate-Summer-Internship---Cleveland--OH_R-42994) |
 | [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Real Estate | New York, NY | \$35.00 per hour | Nov 7 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/New-York-NY/XMLNAME-2027-Summer-Intern---Commercial-Real-Estate_2620100-1) |
 | [Invesco](https://internscout.org/internships/at/invesco/) | Real Estate Intern, Data Science | Dallas, TX |  | Nov 6 | [Apply](https://go.vansh.nyc/1ly) |
-| [Invesco](https://internscout.org/internships/at/invesco/) | Early Career Intern - Real Estate (Data Science) | Dallas, Texas +1 |  | Nov 6 | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091) |
-| [Invesco](https://internscout.org/internships/at/invesco/) | Data Science Intern - Real Estate | Dallas, TX |  | Nov 6 | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1) |
+| [Invesco](https://internscout.org/internships/at/invesco/) | Data Science Intern - Real Estate | Dallas, TX |  | Nov 6 | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091) |
 | [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Real Estate | Dallas, TX | \$25.00 per hour | Nov 3 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Dallas-TX/XMLNAME-2027-Summer-Intern---Commercial-Real-Estate_2620103-1) |
 | [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Real Estate | Miami, FL | \$25.00 per hour | Nov 3 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Miami-FL/XMLNAME-2027-Summer-Intern---Commercial-Real-Estate_2620099-1) |
 | [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern - Commercial Real Estate | St Louis, MO | \$25.00 per hour | Nov 3 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/St-Louis-MO/XMLNAME-2027-Summer-Intern---Commercial-Real-Estate_2620105) |

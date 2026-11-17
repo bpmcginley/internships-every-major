@@ -1,9 +1,10 @@
 # Agriculture: Summer 2027 Internships
 
-15 open Summer 2027 agriculture roles, newest first (all 15). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 49 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
+17 open Summer 2027 agriculture roles, newest first (all 17). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 51 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| SurePoint Ag Systems | Drone Imaging Agronomy Intern | Manhattan, KS |  | Nov 17 | [Apply](https://surepoint.bamboohr.com/careers/109/) |
 | [Scotiabank](https://internscout.org/internships/at/scotiabank/) | ASPIRE Commercial Banking - Agriculture - Summer 2027 Co-op / Internship - Alberta | Calgary, AB, Canada |  | Nov 2 | [Apply](https://jobs.scotiabank.com/job/Calgary-ASPIRE-Commercial-Banking-Agriculture-Summer-2027-Co-op-Internship-Alberta-AB/607598717/) |
 | [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Petcare Quality and Food Safety Internship | USA-Tennessee-Lebanon | Paid | Oct 23 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Tennessee-Lebanon/Summer-2027-Mars-Petcare-Quality-and-Food-Safety-Internship_R170548-1) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | R&D Veterinary Services Intern - Fort Dodge, IA (Summer 2027) | Fort Dodge, IA | \$20-\$40/hour | Oct 20 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Fort-Dodge-IA/R-D-Veterinary-Services-Intern---Fort-Dodge--IA--Summer-2027-_R0027485-1) |
@@ -12,6 +13,7 @@
 | [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Forestry Field Office Internship – Emerging Talent Summer Experience Program | Junction City, OR |  | Sep 21 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792106) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Food Safety & Quality Intern - Summer 2027 - Campus Recruiting (Multiple Locations) | Austin, MN +11 |  | Sep 4 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35738) |
 | [Ruekert & Mielke](https://internscout.org/internships/at/ruekert-mielke/) | Agricultural Engineering Student Intern (Summer 2027) | Madison, Wisconsin |  | Sep 1 | [Apply](https://ruekertmielke.bamboohr.com/careers/310) |
+| The Mosaic Company | Mosaic Biosciences Agronomy Co-Op/Intern - Summer 2027 33012 | Hialeah, FL | \$19.20/hr | Nov 17 | [Apply](https://www.jobilize.com/job/us-fl-hialeah-mosaic-biosciences-agronomy-co-op-intern-summer-2027?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Mars](https://internscout.org/internships/at/mars/) | Summer 2027 Mars Petcare Quality and Food Safety Internship - Ft. Smith, Arkansas | USA-Arkansas-Ft. Smith | Paid | Nov 14 | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/USA-Arkansas-Ft-Smith/Summer-2027-Mars-Petcare-Quality-and-Food-Safety-Internship---Ft-Smith--Arkansas_R167867-1) |
 | [Elanco](https://internscout.org/internships/at/elanco/) | Beef Veterinarian Intern - US Farm Animal (Summer 2027) | US Territory Field based | \$20-\$40/hour | Oct 2 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/US-Territory-Field-based/Beef-Veterinarian-Intern---US-Farm-Animal--Summer-2027-_R0027425) |
 | [Land O'Lakes](https://internscout.org/internships/at/land-o-lakes/) | WinField United Market Development Agronomist Intern, Summer 2027 | Remote +3 | \$25.00/hour | Sep 18 | [Apply](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Virtual-USA/WinField-United-Market-Development-Agronomist-Intern--Summer-2027_R-40235) |

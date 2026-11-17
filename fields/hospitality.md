@@ -1,11 +1,10 @@
 # Hospitality: Summer 2027 Internships
 
-35 open Summer 2027 hospitality roles, newest first (all 35). **Updated November 16, 2026.** [Back to every major](../README.md) · [See all 117 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
+34 open Summer 2027 hospitality roles, newest first (all 34). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 113 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Royal Caribbean Group](https://internscout.org/internships/at/royal-caribbean-group/) | Intern, Guest Travel Services (Summer 2027) | Miramar, FL |  | Nov 13 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miramar-Intern%2C-Guest-Travel-Services-%28Summer-2027%29-FL-33132/1440504600/) |
-| [Mary Free Bed Rehabilitation Hospital](https://internscout.org/internships/at/mary-free-bed-rehabilitation-hospital/) | Foundation Events Intern - Summer 2027 Semester | Grand Rapids, MI | \$18/hour | Nov 12 | [Apply](https://maryfreebed.wd12.myworkdayjobs.com/mfb/job/Grand-Rapids-MI/Foundation-Events-Intern---Summer-2027-Semester_JB103472) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Hospitality Internships - Glacier National Park | Columbia Falls, Montana | \$15.10/hr | Nov 11 | [Apply](https://www.xanterrajobs.com/jobs/40151) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | IT Summer Internship Program Event Coordinator Intern - Summer 2027 | Cincinnati, OH (USA) | Paid | Nov 11 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Summer-Internship-Program-Event-Coordinator-Intern---Summer-2027_R9889) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Culinary Internships - Glacier National Park | Columbia Falls, Montana | \$19.40/hr | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40156) |
@@ -25,7 +24,7 @@
 | [Cvent](https://internscout.org/internships/at/cvent/) | SDET Intern (Summer 2027) | Tysons Corner, Virginia | \$41.00 per hour | Aug 31 | [Apply](https://careers.cvent.com/jobs/10761) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | Scrum Master Intern (Summer 2027) | Tysons Corner, Virginia | \$28.00 per hour | Aug 31 | [Apply](https://careers.cvent.com/jobs/10740) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | Client Services Intern (Summer 2027) | Tysons Corner, Virginia | \$15.00 per hour | Aug 26 | [Apply](https://careers.cvent.com/jobs/10710) |
-| [IDEMIA](https://internscout.org/internships/at/idemia/) | Marketing & Events Internship - Summer 2027 | Reston, VA | Paid | Nov 16, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8676/marketing-%26-events-internship---summer-2027/job) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Marketing & Events Internship - Summer 2027 | Reston, VA | Paid | Nov 17, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8676/marketing-%26-events-internship---summer-2027/job) |
 | [Marriott Vacations Worldwide](https://internscout.org/internships/at/marriott-vacations-worldwide/) | College Intern | MVW Headquarters, FL | \$18.50 | Nov 3 | [Apply](https://mymvw.wd5.myworkdayjobs.com/mvw/job/MVW-Headquarters/College-Intern_JR94335) |
 | [Marriott Vacations Worldwide](https://internscout.org/internships/at/marriott-vacations-worldwide/) | Summer 2027 - College Internship – Palm Desert, CA (Housekeeping, Recreation, & Food & Beverage) | Marriott's Shadow Ridge, FL +1 | \$16.90-23.05 /hour | Nov 3 | [Apply](https://mymvw.wd5.myworkdayjobs.com/mvw/job/Marriotts-Shadow-Ridge/Summer-2027---College-Internship---Palm-Desert--CA--Housekeeping--Recreation----Food---Beverage-_JR94008) |
 | [Marriott Vacations Worldwide](https://internscout.org/internships/at/marriott-vacations-worldwide/) | Summer 2027 - College Intern - Branson, MO (Front Office, Food & Fun) | Marriott's Willow Ridge Lodge, FL |  | Nov 3 | [Apply](https://mymvw.wd5.myworkdayjobs.com/mvw/job/Marriotts-Willow-Ridge-Lodge/Summer-2027---College-Intern---Branson--MO--Front-Office--Food---Fun-_JR95090) |
