@@ -1,16 +1,10 @@
 # Economics: Summer 2027 Internships
 
-21 open Summer 2027 economics roles, newest first (all 21). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 45 economics internships on InternScout](https://internscout.org/internships/economics/)
+13 open Summer 2027 economics roles, newest first (all 13). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 22 economics internships on InternScout](https://internscout.org/internships/economics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [SAS](https://internscout.org/internships/at/sas/) | Econometrics Intern | Cary, NC |  | Nov 17 | [Apply](https://careers-sas.icims.com/jobs/42755/job?mobile=true&needsRedirect=false) |
-| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Economic Research, Internship – Summer 2027 | Kansas City, MO | \$21.00 per hour | Nov 6 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Kansas-City-MO/Economic-Research--Internship---Summer-2027_R-0000034027) |
-| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Oklahoma City – Regional Affairs Economics, Internship – Summer 2027 | Oklahoma City, OK | \$21.00 per hour | Nov 6 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Oklahoma-City-OK/Oklahoma-City---Regional-Affairs-Economics--Internship---Summer-2027_R-0000034004) |
-| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Denver – Regional Affairs Economics, Internship – Summer 2027 | Denver, CO | \$23.00 per hour | Nov 6 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Denver-CO/Denver---Regional-Affairs-Economics--Internship---Summer-2027_R-0000034013-1) |
-| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Economics PhD, Internship – Summer 2027 | Kansas City, MO | \$40.00 per hour | Nov 6 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Kansas-City-MO/Economics-PhD--Internship---Summer-2027_R-0000034017-1) |
-| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Omaha – Regional Affairs Economics, Internship – Summer 2027 | Omaha, NE | \$21.00 per hour | Nov 6 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Omaha-NE/Omaha---Regional-Affairs-Economics--Internship---Summer-2027_R-0000034014-1) |
-| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Undergraduate Intern – Research Focus | Minneapolis, MN | \$23.00/hour | Nov 2 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Minneapolis-MN/Undergraduate-Intern---Research-Focus_R-0000033978-1) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | PhD Economics Intern - Finance, Macroeconomics, And Forecasting | Seattle, WA +3 |  | Oct 27 | [Apply](https://amazon.jobs/en/jobs/10590600/phd-economics-intern-finance-macroeconomics-and-forecasting-summer-2027) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Community and Economic Development Intern | Atlanta, GA |  | Oct 26 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Community-and-Economic-Development-Intern_R-0000033895) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Economics Intern - Structural IO | Seattle, WA +3 |  | Oct 23 | [Apply](https://amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027) |
@@ -23,8 +17,6 @@
 | [The Brattle Group](https://internscout.org/internships/at/the-brattle-group/) | Energy Analyst Intern (Economics) - Summer 2027 | Boston, Massachusetts, United States +1 | \$1,850.00 per week | Sep 18 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735999005) |
 | [GM financial](https://internscout.org/internships/at/gm-financial/) | Intern - Economic Analysis | Fort Worth, TX |  | Sep 16 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260811) |
 | [Ernst & Young](https://internscout.org/internships/at/ernst-young/) | Summer Associate Intern - Corporate Finance - Quantitative Finance and Economics | SF +6 |  | Sep 7 | [Apply](https://eyglobal.yello.co/jobs/KBPFL_z8cg9IBGsgb2xYYA?job_board_id=c1riT--B2O-KySgYWsZO1Q) |
-| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Intern - Economic Research - Chicago | Chicago, IL | \$20 to \$33, | Oct 1 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern---Economic-Research---Chicago_R-0000033628-1) |
-| [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Federal Reserve Summer 2027 Economics Writing and Analysis Internship | Richmond, VA | \$23.50/hour | Sep 22 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Economics-Writing-and-Analysis-Internship_R-0000033220) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
