@@ -1,6 +1,6 @@
 # Communications: Summer 2027 Internships
 
-23 open Summer 2027 communications roles, newest first (all 23). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 85 communications internships on InternScout](https://internscout.org/internships/communications/)
+21 open Summer 2027 communications roles, newest first (all 21). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 83 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -21,9 +21,7 @@
 | [Sigma Computing](https://internscout.org/internships/at/sigma-computing/) | Technical Writer Intern (Summer 2027) | San Francisco, CA | \$36.00 - \$42.00 per hour | Oct 14 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8034168003) |
 | [Worthington Enterprises](https://internscout.org/internships/at/worthington-enterprises/) | Corporate Communications Intern | Columbus, OH |  | Oct 2 | [Apply](https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43366) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Communications Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138732) |
-| [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Communications | Detroit, MI |  | Sep 8 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14716) |
 | [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | Hardware Engineer Intern - Critical Infrastructure Communications | Rochester, NY |  | Sep 3 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-2) |
-| [Shure](https://internscout.org/internships/at/shure/) | Global Media Relations Intern | Skokie, IL | \$23-\$43 per hour | Nov 18, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4992/global-media-relations-intern/job) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Technical Writer Intern | Morristown, New Jersey | Paid | Nov 10 | [Apply](https://se.jibeapply.com/jobs/141894) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Communications/PR/Digital Media/Advertising (Pomona/Rosemead) | Rosemead, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-CommunicationsPRDigital-MediaAdvertising-%28PomonaRosemead%29-CA-91770-3714/1425065500/) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Communications/PR/Digital Media/Advertising (Redlands) | Redlands, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Redlands-2027-Summer-Internship-CommunicationsPRDigital-MediaAdvertising-%28Redlands%29-CA-92374/1425079000/) |

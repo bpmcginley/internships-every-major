@@ -1,9 +1,10 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-141 open Summer 2027 environmental science and engineering roles, newest first (all 141). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 300 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+140 open Summer 2027 environmental science and engineering roles, newest first (all 140). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 299 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Environmental Health and Safety Intern - Pittsburgh, PA | Pittsburgh, PA |  | Nov 18 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625226) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil/Environmental Engineering Co-op/Intern – Water (Summer 2027) | Richmond, VA +2 |  | Nov 17 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008928) |
 | [Galaxy](https://internscout.org/internships/at/galaxy/) | 2027 Environmental Health & Safety Engineer Intern-Afton Texas | Afton, Texas |  | Nov 16 | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6262681004) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Environmental Planning Intern - Summer 2027 | Portland, OR +1 | \$20.87 - \$28.27 | Nov 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99549) |
@@ -85,7 +86,6 @@
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Arlington, Texas | \$20.00 | Sep 25 | [Apply](https://careers.trccompanies.com/jobs/26977) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Safety Intern | Austin, Texas | \$28.00 | Sep 25 | [Apply](https://careers.trccompanies.com/jobs/26973) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Grand Rapids, Michigan | \$20.00 | Sep 25 | [Apply](https://careers.trccompanies.com/jobs/26974) |
-| [Stantec](https://internscout.org/internships/at/stantec/) | Civil/Environmental Engineering Intern/Co-op – Water (Summer 2027) | South Burlington, VT +1 |  | Sep 25 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008011) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Intern – Corporate Environmental and Sustainability (EHS) | Pittsburgh, PA |  | Sep 23 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119566) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Lowell, Massachusetts | \$20.00 | Sep 22 | [Apply](https://careers.trccompanies.com/jobs/26844) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Woburn, Massachusetts | \$20.00 | Sep 22 | [Apply](https://careers.trccompanies.com/jobs/26916) |
@@ -128,7 +128,6 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern (Summer 2027!) | Boston, Massachusetts | \$40.48 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4340) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Pittsburgh, Pennsylvania | \$38.72 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4287) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Edison, New Jersey | \$40.48 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4374) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Tampa, Florida | \$36.96 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/3877) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - (Summer 2027) | Charlotte, North Carolina | \$39.73 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/3831) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Water Resources Engineering Intern (Summer 2027!) | Denver, Colorado | \$42.02 | Sep 4 | [Apply](https://careers.cdmsmith.com/jobs/4186) |
 | [Hunt Oil Company](https://internscout.org/internships/at/hunt-oil-company/) | Geoscience Intern - Summer 2027 | Dallas, TX |  | Sep 4 | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1059) |
@@ -138,13 +137,13 @@
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Water Resources Intern | Detroit, MI |  | Aug 31 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309782) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Environmental, Health & Safety (EHS) | Los Angeles, CA | \$28–\$36 per hour | Aug 26 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5376633008) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Environmental Health & Safety (EHS) Internship – Summer 2027 | El Segundo, California, United States |  | Nov 13, 2025 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7527870003) |
+| [Shure](https://internscout.org/internships/at/shure/) | Data Driven Sustainability Intern | Niles, IL | \$23-\$43 per hour | Nov 18, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4979/data-driven-sustainability-intern/job) |
 | Mapei | Sustainability Intern Impact Projects | Deerfield Beach, FL | \$23.00 | Nov 17 | [Apply](https://us.trabajo.org/job-3991-3af30c3d9d10a3c640d9570fe87d4aad?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Mapei | Sustainability Specialist, Intern | Deerfield Beach, FL | \$23.00 | Nov 17 | [Apply](https://interninsider.me/internships/mapei/sustainability-specialist-intern-3940fbe9-d821-449e-98f8-9e3a5e599c17?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Coca-Cola Beverages Florida | Sustainability Intern | Tampa, FL | Paid | Nov 17 | [Apply](https://interninsider.me/internships/coca-cola-beverages-florida/sustainability-intern-5ad0e78d-3512-459d-908f-4b6c87f26552?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Akamai Technologies, Inc. | Intern - Corporate Sustainability | Atlanta, GA |  | Nov 17 | [Apply](https://www.career.msstate.edu/jobs/akamai-technologies-inc-intern-corporate-sustainability-5/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Environmental, Health & Safety Intern | Fairfield, Ohio | \$23 to \$27.50 per hour | Nov 6 | [Apply](https://se.jibeapply.com/jobs/141019) |
 | [OATEY](https://internscout.org/internships/at/oatey/) | Occupational Safety Intern - Cleveland Manufacturing | Cleveland, OH (Manufacturing) | \$20.00 | Oct 23 | [Apply](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Manufacturing/Occupational-Safety-Intern---Cleveland-Manufacturing_R7198) |
-| [Shure](https://internscout.org/internships/at/shure/) | Data Driven Sustainability Intern | Niles, IL |  | Sep 18 | [Apply](https://careersus-shure.icims.com/jobs/4979/data-driven-sustainability-intern/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

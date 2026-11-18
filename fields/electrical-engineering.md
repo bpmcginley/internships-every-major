@@ -1,6 +1,6 @@
 # Electrical Engineering: Summer 2027 Internships
 
-171 open Summer 2027 electrical engineering roles, newest first (all 171). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 380 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+172 open Summer 2027 electrical engineering roles, newest first (all 172). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 378 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Electrical Engineering Internship, FPGA | Melbourne, FL |  | Nov 9 | [Apply](https://jobs.lever.co/CesiumAstro/fc86b32c-9320-4da0-80ae-18f02bc37316/apply) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Electrical Engineering Internship, Hardware | Melbourne, FL |  | Nov 9 | [Apply](https://jobs.lever.co/CesiumAstro/8f54cb68-5803-4fbe-93a9-da5873a67435/apply) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Electronic Warfare Electrical Engineer Intern | Goleta, CA |  | Nov 9 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Electronic-Warfare-Electrical-Engineer-Intern--Summer-2027--Onsite-_01886573) |
+| [Westinghouse Electric Company](https://internscout.org/internships/at/westinghouse-electric-company/) | Summer Intern - Electrical Engineering | Rock Hill, SC | \$25.40 to \$29.00 per hour | Nov 7 | [Apply](https://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Electrical-Engineering-SC-29730/1438867400/) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | RF/Analog Verification Engineer Intern | Markham, ON, Canada |  | Nov 6 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722001120) |
 | [Peraton](https://internscout.org/internships/at/peraton/) | Electrical Engineer Intern | Topeka, KS |  | Nov 5 | [Apply](https://careers-peraton.icims.com/jobs/172055/job?mobile=true&needsRedirect=false) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Avionics & Electrical Engineering Internship Summer 2027 | Centennial, CO | \$23.10 - \$37.95 | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Avionics-&-Electrical-Engineering-Internship-Summer-2027-CO-80112/1427399200/) |
@@ -43,7 +44,6 @@
 | [WSP](https://internscout.org/internships/at/wsp/) | Electrical Engineering Intern - Summer 2027 | Milwaukee, WI |  | Oct 30 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98556) |
 | [V2X](https://internscout.org/internships/at/v2x/) | Electrical Engineer Intern - Senior | Indianapolis, Indiana +1 | Paid | Oct 29 | [Apply](https://careers.gov2x.com/jobs/63854) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Electrical Engineering Intern (Substation) - Summer 2027 | Burnsville, MN +1 |  | Oct 29 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98467) |
-| [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Electrical or Mechanical Engineering (Redlands) | Redlands, CA |  | Oct 29 | [Apply](https://apply.edisoncareers.com/job/Redlands-2027-Summer-Internship-Electrical-or-Mechanical-Engineering-%28Redlands%29-CA-92374/1425209800/) |
 | FormFactor | Electrical Design Automation Intern, AI & EDA Automation | Livermore, CA |  | Oct 28 | [Apply](https://go.vansh.nyc/Y8) |
 | [RTX](https://internscout.org/internships/at/rtx/) | Electrical Engineer Intern | El Segundo, CA |  | Oct 28 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Electrical-Engineering-Intern--Summer-2027-_01883292) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Electrical or Mechanical Engineering (Pomona) | Pomona, CA |  | Oct 28 | [Apply](https://apply.edisoncareers.com/job/Pomona-2027-Summer-Internship-Electrical-or-Mechanical-Engineering-%28Pomona%29-CA-91768/1425185800/) |
@@ -173,6 +173,7 @@
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Electrical Engineering (Valencia) | Valencia, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Valencia-2027-Summer-Internship-Electrical-Engineering-%28Valencia%29-CA-91355/1422756000/) |
 | [Shure](https://internscout.org/internships/at/shure/) | Digital Signal Processing Intern | Niles, IL |  | Sep 18 | [Apply](https://careersus-shure.icims.com/jobs/4957/digital-signal-processing-intern/job) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Electrical Engineering (Alhambra/Pomona/Rosemead) | Rosemead, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Electrical-Engineering-%28AlhambraPomonaRosemead%29-CA-91770-3714/1422752000/) |
+| [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Electrical or Mechanical Engineering (Redlands) | Redlands, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Redlands-2027-Summer-Internship-Electrical-or-Mechanical-Engineering-%28Redlands%29-CA-92374/1425209800/) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Electrical or Mechanical Engineering (Big Creek) | Big Creek, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Big-Creek-2027-Summer-Internship-Electrical-or-Mechanical-Engineering-%28Big-Creek%29-CA-93605/1422760000/) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Electrical Engineering (Westminster) | Westminster, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Electrical-Engineering-%28Westminster%29-CA-92683/1423103200/) |
 

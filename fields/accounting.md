@@ -1,6 +1,6 @@
 # Accounting: Summer 2027 Internships
 
-69 open Summer 2027 accounting roles, newest first (all 69). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 152 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+67 open Summer 2027 accounting roles, newest first (all 67). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 150 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -32,7 +32,6 @@
 | [Ernst & Young](https://internscout.org/internships/at/ernst-young/) | Tax Intern - Other Tax - Americas Tax Technology Group | Nashville, TN +3 |  | Oct 5 | [Apply](https://eyglobal.yello.co/jobs/yUI0hOKgEZ86mkIsV-EUdw?job_board_id=c1riT--B2O-KySgYWsZO1Q) |
 | [Diversified Energy](https://internscout.org/internships/at/diversified-energy/) | 2027 Summer Intern- Accounting | Birmingham, Alabama |  | Oct 2 | [Apply](https://careers.div.energy/jobs/2739) |
 | [PPL](https://internscout.org/internships/at/ppl/) | Accounting/Finance Intern, PA Tax, Summer 2027 | Allentown, Pennsylvania |  | Sep 30 | [Apply](https://careers.pplweb.com/jobs/15300) |
-| [National Life](https://internscout.org/internships/at/national-life/) | Corporate Tax Intern – Summer 2027 | Addison, TX +1 | Paid | Sep 28 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4405034009) |
 | [The Aerospace Corporation](https://internscout.org/internships/at/aerospace-corporation/) | Software Engineering Intern - Software Tools and Assurance | El Segundo, CA |  | Sep 28 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753) |
 | [Internal Revenue Service](https://internscout.org/internships/at/internal-revenue-service/) | Summer Intern (Legal Administrative Specialist) (Non-Tax) | Los Angeles, California +6 | \$65271 - \$100315 Per Year | Sep 28 | [Apply](https://www.usajobs.gov:443/job/886641800) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern- Human Resources (Payroll/Benefits) | HOUSTON, Texas |  | Sep 24 | [Apply](https://careers.kindermorgan.com/jobs/6310) |
@@ -67,7 +66,6 @@
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Plant Accounting | Denton, TX |  | Nov 18 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Plant-Accounting-TX-76205-7864/1458178633/) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Division Accounting | Denton, TX |  | Nov 13 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Division-Accounting-TX-76205-7864/1457311133/) |
 | [AAR](https://internscout.org/internships/at/aar/) | Accounting Intern | Chicago, Illinois | \$22/hr | Nov 12 | [Apply](https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=18991) |
-| [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Engineering Accounting | Denton, TX |  | Nov 6 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Engineering-Accounting-TX-76205-7864/1455275833/) |
 | [Starwood Capital Group](https://internscout.org/internships/at/starwood-capital-group/) | 2027 Management Company Accounting Summer Intern | Greenwich, Connecticut |  | Nov 6 | [Apply](https://jobs.jobvite.com/starwoodcapitalgroup/job/o17TAfwl/apply) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Accounting Intern | Kirkland, WA |  | Oct 20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Accounting-Intern-WA-98033/1449175533/) |
 | [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Design Assurance Engineer (Summer 2027) | Raleigh, NC |  | Oct 17 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Raleigh-NC/Intern---Design-Assurance-Engineer--Summer-2027-_R040418) |

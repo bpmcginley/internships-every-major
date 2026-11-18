@@ -1,12 +1,11 @@
 # Journalism: Summer 2027 Internships
 
-9 open Summer 2027 journalism roles, newest first (all 9). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 31 journalism internships on InternScout](https://internscout.org/internships/journalism/)
+8 open Summer 2027 journalism roles, newest first (all 8). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 30 journalism internships on InternScout](https://internscout.org/internships/journalism/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [NBCUniversal](https://internscout.org/internships/at/nbcuniversal/) | Technology Intern, NBC News Group | New York, NY |  | Nov 9 | [Apply](https://go.vansh.nyc/1os) |
 | [Southern Poverty Law Center](https://internscout.org/internships/at/southern-poverty-law-center/) | Intern, Editorial (Summer 2027) | Atlanta, GA +4 | \$18.40 per hour | Nov 6 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8931208002) |
-| [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Interactive News Engineering Intern | New York, NY +1 | \$40 per hour | Nov 6 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Editorial Design Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748518005) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Editorial Projects Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748499005) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Breaking News Intern - Summer 2027 | Houston, TX, United States | Paid | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466393009) |

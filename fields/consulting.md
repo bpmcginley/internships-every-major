@@ -1,11 +1,11 @@
 # Consulting: Summer 2027 Internships
 
-77 open Summer 2027 consulting roles, newest first (all 77). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 133 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+77 open Summer 2027 consulting roles, newest first (all 77). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 134 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program (AI CAP) People Analytics Intern - Summer 2027 | Chicago, IL +5 | \$35-40 per hour | Nov 18 | [Apply](https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application) |
 | Attain Partners | Summer 2027 Consulting Intern | McLean, VA | Paid | Nov 17 | [Apply](https://job-boards.greenhouse.io/attainpartners/jobs/5485402008) |
-| Newmark Group | Newmark Management Consulting Intern | OH |  | Nov 17 | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250561) |
 | [KPMG](https://internscout.org/internships/at/kpmg/) | Edmonton Consulting Summer Internship, Operations - Government Solutions (May - August 2027) | Edmonton, Alberta, Canada |  | Nov 16 | [Apply](https://careers.kpmg.ca/jobs/36504) |
 | [KPMG](https://internscout.org/internships/at/kpmg/) | Calgary Summer Internship, Consulting (May - August 2027) | Calgary, Alberta, Canada |  | Nov 16 | [Apply](https://careers.kpmg.ca/jobs/36503) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Management Consultancy Intern - Summer 2027 | New York, NY +2 | \$23.90 - \$32.22 per hour | Nov 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99095) |
@@ -32,7 +32,7 @@
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Engineer Intern, AI Consulting Associate Program | Chicago, IL +1 |  | Oct 20 | [Apply](https://go.vansh.nyc/de) |
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program – AI Engineer Intern | Chicago, IL +1 |  | Oct 20 | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8039350003) |
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program Brokerage Intern | Chicago, IL |  | Oct 20 | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8039368003) |
-| [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program (AI CAP) Product Manager Intern - Summer 2027 | Chicago, IL +4 | \$35-40 per hour | Oct 20 | [Apply](https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application) |
+| [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program (AI CAP) Product Owner Intern - Summer 2027 | Chicago, IL +4 | \$35-40 per hour | Oct 20 | [Apply](https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application) |
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027 | Chicago, IL +4 | \$35-40 per hour | Oct 20 | [Apply](https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a/application) |
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027 | Chicago, IL +2 | \$35-40 per hour | Oct 20 | [Apply](https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16/application) |
 | [Amplify](https://internscout.org/internships/at/amplify/) | Summer 2027: Corporate Strategy Intern | Remote |  | Oct 19 | [Apply](https://jobs.ashbyhq.com/amplify/9d58173f-3112-4c03-b393-3c2dab4c1e20/application) |
@@ -47,7 +47,6 @@
 | CapTech Consulting | Consulting Software Engineer Intern | Richmond, VA |  | Oct 12 | [Apply](https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Business and Administrative Intern - Strategy Analyst, CCO Strategy and Program Management | Palo Alto, California | \$28,00-51.00 per hour | Oct 12 | [Apply](https://careers.rivian.com/jobs/34239) |
 | [DocuSign](https://internscout.org/internships/at/docusign/) | Solution Consultant Intern | Seattle, Washington | \$31/hour | Oct 12 | [Apply](https://careers.docusign.com/jobs/30524) |
-| State of Wisconsin Investment Board | Systematic Multi-Strategy Intern | Madison, WI |  | Oct 9 | [Apply](https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Systematic-Multi-Strategy-Intern_R-001342) |
 | [WTW](https://internscout.org/internships/at/wtw/) | Early Careers: Pharmacy Benefits Consulting Internship - Chicago - Summer 2027 | Chicago, IL |  | Oct 8 | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606458) |
 | [West Monroe](https://internscout.org/internships/at/west-monroe/) | Software Engineering Consultant Intern - AI Concentration | Seattle, WA |  | Oct 6 | [Apply](https://go.vansh.nyc/1ta) |
 | [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | Foodservice Pricing and Trade Strategy Intern - Summer 2027 | Columbus, Ohio |  | Oct 1 | [Apply](https://careers.marzetticompany.com/jobs/8153) |
@@ -81,6 +80,7 @@
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Medicaid | Kapolei, HI | \$30 per hour | Nov 18, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3976/summer-2027-consulting-internship---medicaid/job) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Medicaid | Portland, ME | \$30 per hour | Nov 18, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3975/summer-2027-consulting-internship---medicaid/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Information Security Governance, Risk & Compliance Intern | Niles, IL | \$23-\$43 per hour | Nov 18, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job) |
+| [State of Wisconsin Investment Board](https://internscout.org/internships/at/state-of-wisconsin-investment-board/) | Systematic Multi-Strategy Intern | Madison Wisconsin +1 |  | Nov 18 | [Apply](https://swib.wd12.myworkdayjobs.com/ext/job/Madison-Wisconsin/Systematic-Multi-Strategy-Intern_R-001342) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

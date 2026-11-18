@@ -1,6 +1,6 @@
 # Law and Legal: Summer 2027 Internships
 
-72 open Summer 2027 law and legal roles, newest first (all 72). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 143 law and legal internships on InternScout](https://internscout.org/internships/law/)
+71 open Summer 2027 law and legal roles, newest first (all 71). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 142 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -13,7 +13,6 @@
 | [Royal Caribbean Group](https://internscout.org/internships/at/royal-caribbean-group/) | Intern, Maritime Safety + Environmental Compliance (Summer 2027) | Miami, FL |  | Nov 10 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miami-Intern%2C-Maritime-Safety-%2B-Environmental-Compliance-%28Summer-2027%29-FL-33132/1449347100/) |
 | [DP World](https://internscout.org/internships/at/dp-world/) | Legal Intern | Charlotte, NC |  | Nov 10 | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27980) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Compliance Specialist Intern - Summer 2027 | Norwell, MA | Paid | Nov 10 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168263) |
-| [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Field Compliance Intern - Summer 2027 | Norwell, MA | Paid | Nov 9 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168516) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Compliance Specialist Intern - Summer 2027 | Dugway, UT | Paid | Nov 9 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168515) |
 | [Securities and Exchange Commission](https://internscout.org/internships/at/securities-and-exchange-commission/) | Summer 2027 SEC Scholars Legal Program- RO (1L, 2L, 3L, or LL.M.) (Volunteer) | Los Angeles, California +9 |  | Nov 9 | [Apply](https://www.usajobs.gov:443/job/891904500) |
 | [Securities and Exchange Commission](https://internscout.org/internships/at/securities-and-exchange-commission/) | Summer 2027 SEC Scholars Legal Program- HQ (1L, 2L, 3L, or LL.M.) (Volunteer) | Washington, District of Columbia |  | Nov 9 | [Apply](https://www.usajobs.gov:443/job/891903400) |

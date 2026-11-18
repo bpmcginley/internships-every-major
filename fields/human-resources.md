@@ -1,13 +1,13 @@
 # Human Resources: Summer 2027 Internships
 
-54 open Summer 2027 human resources roles, newest first (all 54). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 131 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+54 open Summer 2027 human resources roles, newest first (all 54). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 130 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Thorlabs](https://internscout.org/internships/at/thorlabs/) | Summer 2027 Internship Human Resources | Newton, New Jersey | \$20.00 - \$25.00 per hour | Nov 17 | [Apply](https://apply.workable.com/j/8F984E4FF9/apply) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Human Resources Intern | Kirkland, WA | Paid | Nov 17 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Human-Resources-Intern-WA-98033/1449175833/) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer Internship - Talent Acquisition | Renton, WA | \$25.00/Hour | Nov 17 | [Apply](https://jobs.paccar.com/job/Renton-Summer-Internship-Talent-Acquisition-WA-98055/1449187033/) |
-| [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Production Management Intern- Summer 2027 (Multiple Locations)- Campus Recruiting | Austin, MN +8 |  | Nov 13 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35332) |
+| [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Production Management Intern- Summer 2027 (Multiple Locations)- Campus Recruiting | Austin, MN +7 |  | Nov 13 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35332) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern- Human Resources | Pascagoula, Mississippi |  | Nov 12 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-HUMAN-RESOURCES-Miss/1430053000/) |
 | [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | AI Solutions Intern- Human Resources- Summer 2027 | Columbus, Ohio +1 |  | Nov 11 | [Apply](https://careers.marzetticompany.com/jobs/8128) |
 | [DP World](https://internscout.org/internships/at/dp-world/) | AI & Analytics (Talent Management) Intern | Charlotte, NC |  | Nov 10 | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27855) |

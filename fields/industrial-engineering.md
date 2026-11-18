@@ -1,9 +1,10 @@
 # Industrial Engineering: Summer 2027 Internships
 
-137 open Summer 2027 industrial engineering roles, newest first (all 137). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 307 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+137 open Summer 2027 industrial engineering roles, newest first (all 137). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 306 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Supply Chain Intern - Fernley, NV | Fernley, NV |  | Nov 18 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625422) |
 | Astronics | Manufacturing Engineering Intern - Summer 2027 | Redmond, Washington, United States | \$30 per hour | Nov 16 | [Apply](https://job-boards.greenhouse.io/astronicscorporation/jobs/4508864009) |
 | [Pacific Fusion](https://internscout.org/internships/at/pacific-fusion/) | Summer 2027 Vacuum Systems Engineering Internship | San Leandro, CA | Paid | Nov 16 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4505556009) |
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Internship - Manufacturing Engineering & Capital Projects Intern | Sunnyvale, TX, United States |  | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507781009) |
@@ -49,7 +50,6 @@
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Supply Chain Intern Summer 2027 | Silver Spring, MD |  | Oct 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7999237003) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM / Agent | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694365861943953717) |
 | [Inversion Space](https://internscout.org/internships/at/inversion-space/) | Manufacturing Engineer - Summer Internship 2027 | Playa Vista, California, United States | Paid | Oct 14 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4743748005) |
-| [Wing](https://internscout.org/internships/at/wing/) | Logistics Systems Intern, Summer 2027 | Palo Alto, California | \$120,000 | Oct 13 | [Apply](https://wing.com/careers/8872483002?gh_jid=8872483002) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Supply Chain, Purchasing, Procurement and Logistics - Summer 2027 Internships | Normal, Illinois | \$24-\$51.00 per hour | Oct 9 | [Apply](https://careers.rivian.com/jobs/34297) |
 | [Peraton](https://internscout.org/internships/at/peraton/) | Summer 2027 Industrial Engineer Intern- Topeka, KS | Topeka, Kansas | \$24.50/hour | Oct 8 | [Apply](https://peraton.jibeapply.com/jobs/172058) |
 | [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | Supply Chain Finance intern - Summer 2027 | Horse Cave, Kentucky |  | Oct 6 | [Apply](https://careers.marzetticompany.com/jobs/8163) |
@@ -89,8 +89,8 @@
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Wallops Island, VA | \$25.00 | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7996623003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Systems Engineering Intern Summer 2027 | Pasadena, CA |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990138003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Supply Chain Intern Summer 2027 | Middle River, MD |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990063003) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Middle River, MD | \$25.00 | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7988835003) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Long Beach, CA |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984564003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Middle River, MD |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7988835003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Long Beach, CA | \$28.00 | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984564003) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Systems Engineering Internship | Westminster, CO |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/a3b0f097-9d62-4a67-9800-de5dfe416da2/apply) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Supply Chain Internship | Westminster, CO |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/6c354949-9e6b-4716-9381-f8aa071e3465/apply) |
 | Teledyne | Systems Engineering Intern - Summer 2027 | Huntsville, AL |  | Sep 16 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-MBSE-Intern--Summer-2027-_REQ36670-1) |

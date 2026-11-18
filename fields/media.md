@@ -1,6 +1,6 @@
 # Media: Summer 2027 Internships
 
-36 open Summer 2027 media roles, newest first (all 36). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 114 media internships on InternScout](https://internscout.org/internships/media/)
+34 open Summer 2027 media roles, newest first (all 34). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 110 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -12,7 +12,6 @@
 | [IPConfigure](https://internscout.org/internships/at/ipconfigure/) | Software Development Intern, Video Surveillance Software | Norfolk, VA |  | Nov 13 | [Apply](https://go.vansh.nyc/1yE) |
 | [Bask Health](https://internscout.org/internships/at/bask-health/) | Creative Engineering Intern | Remote +1 |  | Nov 12 | [Apply](https://go.vansh.nyc/1w8) |
 | Pika | Applied AI Engineer Intern, Creative Experiences | Palo Alto, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1pR) |
-| [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Audience Insights Intern | New York, NY | \$30.00 per hour | Nov 9 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752928005) |
 | [Southern Poverty Law Center](https://internscout.org/internships/at/southern-poverty-law-center/) | Intern, Editorial (Summer 2027) | Atlanta, GA +4 | \$18.40 per hour | Nov 6 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8931208002) |
 | Deeplocal | Creative Technology Intern- Summer 2027 | Pittsburgh +1 | Paid | Nov 6 | [Apply](https://job-boards.greenhouse.io/deeplocal/jobs/8360330) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Video Editing Internship Summer 2027 | Centennial, CO | \$23.10 - \$37.95 | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Video-Editing-Internship-Summer-2027-CO-80112/1427399000/) |
@@ -32,7 +31,6 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Creative Product Manager Intern - Multiple Teams | San Jose, CA |  | Oct 9 | [Apply](https://lifeattiktok.com/search/7693732178706974981) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Houston Chronicle Visuals Internship | Houston, TX |  | Sep 25 | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027533) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Audience Intern | Houston, TX |  | Sep 25 | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027541) |
-| [Electronic Arts](https://internscout.org/internships/at/electronic-arts/) | AI Engineer Intern, Creative Innovations, Character Pipelines | Vancouver, Canada |  | Sep 22 | [Apply](https://go.vansh.nyc/Jf) |
 | [CAE](https://internscout.org/internships/at/cae/) | Software Developer Intern, Content Creation Tools | Montreal, Canada |  | Sep 21 | [Apply](https://go.vansh.nyc/IU) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Marketing, Creative & eCommerce Intern Summer Opportunities (May-Aug 2027) | Needham, MA, United States | Paid | Sep 17 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713883006) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Graphic Design & Creative Media Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138723) |

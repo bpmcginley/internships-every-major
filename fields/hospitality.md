@@ -1,6 +1,6 @@
 # Hospitality: Summer 2027 Internships
 
-24 open Summer 2027 hospitality roles, newest first (all 24). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 78 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
+23 open Summer 2027 hospitality roles, newest first (all 23). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 77 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -18,11 +18,10 @@
 | [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | R&D Innovation, Culinary and Sensory Intern - Summer 2027 | Lewis Center, Ohio |  | Sep 21 | [Apply](https://careers.marzetticompany.com/jobs/8082) |
 | [Marriott International](https://internscout.org/internships/at/marriott-international/) | Front Desk University Intern-US Summer 2027 | Park City, UT |  | Sep 9 | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26115549) |
 | [Marriott International](https://internscout.org/internships/at/marriott-international/) | Butler University Intern-US Summer 2027 | Park City, UT |  | Sep 9 | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26115552) |
-| [Marriott International](https://internscout.org/internships/at/marriott-international/) | Food & Beverage Intern Summer 2027 | Pittsburgh, PA |  | Sep 8 | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26115275) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | SDET Intern (Summer 2027) | Tysons Corner, Virginia | \$41.00 per hour | Aug 31 | [Apply](https://careers.cvent.com/jobs/10761) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | Scrum Master Intern (Summer 2027) | Tysons Corner, Virginia | \$28.00 per hour | Aug 31 | [Apply](https://careers.cvent.com/jobs/10740) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | Client Services Intern (Summer 2027) | Tysons Corner, Virginia | \$15.00 per hour | Aug 26 | [Apply](https://careers.cvent.com/jobs/10710) |
-| [IDEMIA](https://internscout.org/internships/at/idemia/) | Marketing & Events Internship - Summer 2027 | Reston, VA | Paid | Nov 18, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8676/marketing-%26-events-internship---summer-2027/job) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Marketing & Events Internship - Jan 2027 | Reston, VA | Paid | Nov 18, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8676/marketing-%26-events-internship---summer-2027/job) |
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Hotel Franchise Finance | Phoenix, AZ | Paid | Sep 28 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Hotel-Franchise-Finance_R13954) |
 | [Hyatt](https://internscout.org/internships/at/hyatt/) | Summer 2027 - Food and Beverage Corporate Internship Program | United States | \$17.00 to \$21.00 per hour | Sep 18 | [Apply](https://hyatt.taleo.net/careersection/10780/jobdetail.ftl?job=UNI002289) |
 | [Hyatt](https://internscout.org/internships/at/hyatt/) | Summer 2027 - Events Corporate Internship Program | United States | \$17.00 to \$21.00 per hour | Sep 18 | [Apply](https://hyatt.taleo.net/careersection/10780/jobdetail.ftl?job=UNI002286) |

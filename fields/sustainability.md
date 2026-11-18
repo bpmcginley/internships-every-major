@@ -1,11 +1,10 @@
 # Sustainability: Summer 2027 Internships
 
-73 open Summer 2027 sustainability roles, newest first (all 73). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 123 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+72 open Summer 2027 sustainability roles, newest first (all 72). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 121 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern, Capital Projects, Summer 2027 | Malvern, Arkansas +1 |  | Nov 18 | [Apply](https://jobs.entergy.com/job/Malvern-Student%2C-Intern%2C-Capital-Projects%2C-Summer-2027-Arka/1441956200/) |
-| [Westinghouse Electric Company](https://internscout.org/internships/at/westinghouse-electric-company/) | Summer Intern - Fluid Systems | Rock Hill, SC | \$25.40 to \$29.00 per hour | Nov 14 | [Apply](https://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Fluid-Systems-SC-29730/1440910300/) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | New York, New York | \$20.00 | Nov 13 | [Apply](https://careers.trccompanies.com/jobs/28995) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | Oakland, California | \$20.00 | Nov 13 | [Apply](https://careers.trccompanies.com/jobs/28863) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | New Brunswick, New Jersey | \$20.00 | Nov 13 | [Apply](https://careers.trccompanies.com/jobs/28896) |
@@ -72,11 +71,11 @@
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Midstream Treating | HOUSTON, Texas |  | Sep 4 | [Apply](https://careers.kindermorgan.com/jobs/6210) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern -Permitting | HOUSTON, Texas |  | Sep 2 | [Apply](https://careers.kindermorgan.com/jobs/6174) |
 | Tarrant Regional Water District | Energy Intern | Fort Worth, TX |  | Sep 1 | [Apply](https://trwd.wd1.myworkdayjobs.com/TRWDCareers/job/Fort-Worth-TX/Summer-2027-Energy-Intern--T047-_JR100217) |
+| [Shure](https://internscout.org/internships/at/shure/) | Data Driven Sustainability Intern | Niles, IL | \$23-\$43 per hour | Nov 18, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4979/data-driven-sustainability-intern/job) |
 | Mapei | Sustainability Intern Impact Projects | Deerfield Beach, FL | \$23.00 | Nov 17 | [Apply](https://us.trabajo.org/job-3991-3af30c3d9d10a3c640d9570fe87d4aad?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Mapei | Sustainability Specialist, Intern | Deerfield Beach, FL | \$23.00 | Nov 17 | [Apply](https://interninsider.me/internships/mapei/sustainability-specialist-intern-3940fbe9-d821-449e-98f8-9e3a5e599c17?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Coca-Cola Beverages Florida | Sustainability Intern | Tampa, FL | Paid | Nov 17 | [Apply](https://interninsider.me/internships/coca-cola-beverages-florida/sustainability-intern-5ad0e78d-3512-459d-908f-4b6c87f26552?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Akamai Technologies, Inc. | Intern - Corporate Sustainability | Atlanta, GA |  | Nov 17 | [Apply](https://www.career.msstate.edu/jobs/akamai-technologies-inc-intern-corporate-sustainability-5/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [Shure](https://internscout.org/internships/at/shure/) | Data Driven Sustainability Intern | Niles, IL |  | Sep 18 | [Apply](https://careersus-shure.icims.com/jobs/4979/data-driven-sustainability-intern/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

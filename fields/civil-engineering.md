@@ -1,6 +1,6 @@
 # Civil Engineering: Summer 2027 Internships
 
-201 open Summer 2027 civil engineering roles, newest first (the 200 newest of 201). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 344 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+198 open Summer 2027 civil engineering roles, newest first (all 198). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 339 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -24,14 +24,13 @@
 | [WSP](https://internscout.org/internships/at/wsp/) | Geotechnical Engineering Intern - Summer 2027 | Elko, NV | \$23.03 - \$31.11 | Nov 11 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99165) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Construction Intern, Summer 2027 | Harrisburg, PA |  | Nov 11 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310191) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Civil Engineering Intern, Rotational Program - Summer 2027 | Harrisburg, PA |  | Nov 10 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310189) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors - Construction Representative Intern (Summer 2027) | Hartford, Connecticut | \$37.03 | Nov 9 | [Apply](https://careers.cdmsmith.com/jobs/4962) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Structural Engineering Intern - Summer 2027 | Goshen, NY | \$24.76- \$32.22 | Nov 9 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98934) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Structural Engineering Intern - Summer 2027 | Valhalla, NY | \$24.76- \$32.22 | Nov 9 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98940) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Civil Engineering Intern- Summer 2027 | Atlanta, GA |  | Nov 9 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98920) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Structural Engineering Intern - Summer 2027 | Troy, NY | \$23.03- \$29.96 | Nov 9 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98938) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Geomatics Co-op Student - Summer 2027 | Ottawa, ON, Canada +2 |  | Nov 9 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008786) |
 | [Woolpert](https://internscout.org/internships/at/woolpert/) | Survey Internship (Summer 2027) | Columbus, OH +1 | Paid | Nov 6 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4426384009) |
-| [Woolpert](https://internscout.org/internships/at/woolpert/) | Survey Internship (Summer 2027) | Albuquerque, NM +9 | Paid | Nov 6 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4426377009) |
+| [Woolpert](https://internscout.org/internships/at/woolpert/) | Survey Internship (Summer 2027) | Columbus, OH +3 | Paid | Nov 6 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4426377009) |
 | [Atlantic Health System](https://internscout.org/internships/at/atlantic-health-system/) | Construction/Facilities Intern | Morristown, NJ |  | Nov 6 | [Apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34191) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Construction Intern, Summer 2027 | Moon Township, PA |  | Nov 5 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310165) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Co-op Student - Transportation (Summer 2027 4 - 18 Month Term) | Yellowknife, NT, Canada +1 |  | Nov 5 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008758) |
@@ -159,7 +158,6 @@
 | [Olsson](https://internscout.org/internships/at/olsson/) | Civil Engineering Internship - Data Centers Site Design | Omaha, NE |  | Sep 2 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5408688008) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Civil Engineering | Los Angeles, CA | \$30–\$40 per hour | Sep 2 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377122008) |
 | [Haskell](https://internscout.org/internships/at/haskell/) | Summer 2027 Construction Intern | Jacksonville, Florida |  | Sep 2 | [Apply](https://haskell.jibeapply.com/jobs/7053) |
-| [Ruekert & Mielke](https://internscout.org/internships/at/ruekert-mielke/) | Survey Student Intern (Summer 2027) | Waukesha, Wisconsin |  | Sep 2 | [Apply](https://ruekertmielke.bamboohr.com/careers/311) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Commissioning Student Internship | Kansas City, MO +1 |  | Sep 1 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5408599008) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Water (Summer 2027) | Houston, TX |  | Sep 1 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007363) |
 | [Perry Homes](https://internscout.org/internships/at/perry-homes/) | 2027 Summer Construction Management Internship - Dallas, TX | Dallas, Texas +1 |  | Sep 1 | [Apply](https://apply.workable.com/j/D894A62691/apply) |
@@ -171,7 +169,6 @@
 | [Olsson](https://internscout.org/internships/at/olsson/) | Civil Engineering Internship - Data Centers Site Design | Lincoln, NE |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5408699008) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Civil Engineering Internship - Data Centers Site Design | Fort Worth, TX |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5408678008) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Civil Engineering Internship - Data Centers Site Design | Des Moines, IA |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5408723008) |
-| [Ruekert & Mielke](https://internscout.org/internships/at/ruekert-mielke/) | Civil Engineer Student Intern (Summer 2027) | Iowa City, Iowa |  | Aug 31 | [Apply](https://ruekertmielke.bamboohr.com/careers/302) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Civil Intern, Bridge & Highway/Roadway | Indianapolis, IN |  | Aug 31 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309785) |
 | [Ruekert & Mielke](https://internscout.org/internships/at/ruekert-mielke/) | Civil Engineering Student Intern (Summer 2027) | Green Bay, Wisconsin +2 |  | Aug 28 | [Apply](https://ruekertmielke.bamboohr.com/careers/299) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Roadway Design Intern - Infrastructure (Summer 2027) | Raleigh, NC |  | Aug 28 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007361) |
@@ -204,6 +201,7 @@
 | [IMEG](https://internscout.org/internships/at/imeg/) | Structural Engineering Intern \| Houston, TX | Houston, TX | Paid | Sep 18 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Civil or Structural Engineering (Big Creek) | Big Creek, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Big-Creek-2027-Summer-Internship-Civil-or-Structural-Engineering-%28Big-Creek%29-CA-93605/1422728500/) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Civil or Structural Engineering (Pomona/Rosemead) | Pomona, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Pomona-2027-Summer-Internship-Civil-or-Structural-Engineering-%28PomonaRosemead%29-CA-91768/1422734900/) |
+| [IMEG](https://internscout.org/internships/at/imeg/) | Civil Engineering Intern | Rock Island, IL +1 | \$22.00–\$24.00 per hour | Sep 18 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rock-Island-IL/Civil-Engineering-Intern_R-16700) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

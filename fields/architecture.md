@@ -1,9 +1,10 @@
 # Architecture: Summer 2027 Internships
 
-36 open Summer 2027 architecture roles, newest first (all 36). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 77 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+37 open Summer 2027 architecture roles, newest first (all 37). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 78 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Samsung Semiconductor](https://internscout.org/internships/at/samsung-semiconductor/) | Architecture Research Engineer Intern, MoE Placement for Serving at Scale | San Jose, CA |  | Nov 18 | [Apply](https://go.vansh.nyc/1Cm) |
 | [Haskell](https://internscout.org/internships/at/haskell/) | Summer 2027 Architecture Intern | Jacksonville, Florida |  | Nov 16 | [Apply](https://careers.haskell.com/jobs/7445) |
 | [Micron Technology](https://internscout.org/internships/at/micron-technology/) | Enterprise SSD Architecture Intern | Boise, ID |  | Nov 13 | [Apply](https://go.vansh.nyc/1yL) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | Buffalo, NY +1 | \$21.74 - \$30.53 per hour | Nov 13 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98919) |
