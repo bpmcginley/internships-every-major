@@ -1,12 +1,12 @@
 # Media: Summer 2027 Internships
 
-48 open Summer 2027 media roles, newest first (all 48). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 145 media internships on InternScout](https://internscout.org/internships/media/)
+48 open Summer 2027 media roles, newest first (all 48). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 146 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Publicis Groupe](https://internscout.org/internships/at/publicis-groupe/) | Publicis Media Summer 2027 Internship - Remote | New York, New York | \$17.00 | Nov 16 | [Apply](https://careers.publicisgroupe.com/jobs/182838) |
-| [Publicis Groupe](https://internscout.org/internships/at/publicis-groupe/) | Publicis Media Summer 2027 Internship - Chicago | Chicago, Illinois | Paid | Nov 16 | [Apply](https://careers.publicisgroupe.com/jobs/182300) |
-| [Publicis Groupe](https://internscout.org/internships/at/publicis-groupe/) | Publicis Media Summer 2027 Internship - Los Angeles | El Segundo, California | Paid | Nov 16 | [Apply](https://careers.publicisgroupe.com/jobs/182299) |
+| [Publicis Groupe](https://internscout.org/internships/at/publicis-groupe/) | Publicis Media Summer 2027 Internship - Chicago | Chicago, Illinois | \$17.00 | Nov 16 | [Apply](https://careers.publicisgroupe.com/jobs/182300) |
+| [Publicis Groupe](https://internscout.org/internships/at/publicis-groupe/) | Publicis Media Summer 2027 Internship - Los Angeles | El Segundo, California | \$17.00 | Nov 16 | [Apply](https://careers.publicisgroupe.com/jobs/182299) |
 | [Publicis Groupe](https://internscout.org/internships/at/publicis-groupe/) | Publicis Media Summer 2027 Internship - Philadelphia | Philadelphia, Pennsylvania | \$16.35 | Nov 16 | [Apply](https://careers.publicisgroupe.com/jobs/182283) |
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Internship - Creative & Illustration Intern | Seattle, WA, United States | Paid | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507814009) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Creative Designer Intern - Summer 2027 | Detroit, MI |  | Nov 14 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Creative-Designer-Intern---Summer-2027_R-084550) |
@@ -16,7 +16,7 @@
 | Pika | Applied AI Engineer Intern, Creative Experiences | Palo Alto, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1pR) |
 | [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Audience Insights Intern | New York, NY | \$30.00 per hour | Nov 9 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752928005) |
 | [Southern Poverty Law Center](https://internscout.org/internships/at/southern-poverty-law-center/) | Intern, Editorial (Summer 2027) | Atlanta, GA +4 | \$18.40 per hour | Nov 6 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8931208002) |
-| Deeplocal | Creative Technology Intern | Pittsburgh +1 | Paid | Nov 6 | [Apply](https://job-boards.greenhouse.io/deeplocal/jobs/8360330) |
+| Deeplocal | Creative Technology Intern- Summer 2027 | Pittsburgh +1 | Paid | Nov 6 | [Apply](https://job-boards.greenhouse.io/deeplocal/jobs/8360330) |
 | [Adobe](https://internscout.org/internships/at/adobe/) | 2027 Intern - Media & Editorial Generalist | San Francisco +1 | \$25.00 - \$30.00 hour | Nov 5 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-Intern---Media---Editorial-Generalist_R173414) |
 | [Carpenter Technology](https://internscout.org/internships/at/carpenter-technology/) | Technical Writing Intern | Reading, PA | \$21.00 - \$25.00 per hour | Nov 5 | [Apply](https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Technical-Writing-Intern_26977) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Video Editing Internship Summer 2027 | Centennial, CO | \$23.10 - \$37.95 | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Video-Editing-Internship-Summer-2027-CO-80112/1427399000/) |

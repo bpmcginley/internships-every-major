@@ -1,6 +1,6 @@
 # Communications: Summer 2027 Internships
 
-53 open Summer 2027 communications roles, newest first (all 53). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 159 communications internships on InternScout](https://internscout.org/internships/communications/)
+53 open Summer 2027 communications roles, newest first (all 53). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 161 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [The Hartford](https://internscout.org/internships/at/the-hartford/) | 2027 Summer Intern - Marketing Communications | Wayne, PA | \$20.00 - \$25.00 | Oct 27 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Wayne-PA/XMLNAME-2027-Summer-Intern---Marketing-Communications_R2627542) |
 | [WSFS Bank](https://internscout.org/internships/at/wsfs-bank/) | 2027 Summer Internship - Marketing and Communications | Philadelphia, PA | \$18.00 - \$21.00 Per Hour | Oct 27 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Philadelphia-PA/XMLNAME-2027-Summer-Internship---Corporate-Communications_R-104149-2) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Marketing and Communications | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Marketing-and-Communications-MD-21230/1434386400/) |
-| [Together AI](https://internscout.org/internships/at/together-ai/) | Technical Writer Intern, Developer Experience (Summer 2027) | San Francisco |  | Oct 26 | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5271149007) |
+| Together AI | Technical Writer Intern, Developer Experience (Summer 2027) | San Francisco |  | Oct 26 | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5271149007) |
 | [Corning](https://internscout.org/internships/at/corning/) | Media & Reputation Intern, Corporate Communications - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Oct 26 | [Apply](https://corningjobs.corning.com/job/Corning-Media-&-Reputation-Intern%2C-Corporate-Communications-Summer-2027-NY-14831/1443520400/) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Information Communications Technology (ICT ) Intern - Buildings (Summer 2027) | Lynnwood, WA |  | Oct 22 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008438) |
 | [Corning](https://internscout.org/internships/at/corning/) | Communications Design Intern - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Oct 22 | [Apply](https://corningjobs.corning.com/job/Corning-Communications-Design-Intern-Summer-2027-NY-14831/1442859500/) |

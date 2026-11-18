@@ -1,15 +1,19 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-561 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 561). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 1,217 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+563 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 563). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 1,228 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Qualcomm](https://internscout.org/internships/at/qualcomm/) | AI/Machine Learning Intern | Markham, Canada |  | Nov 17 | [Apply](https://go.vansh.nyc/1Bt) |
+| [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Machine Learning Engineer Intern | Santa Ana, California, United States +1 | Paid | Nov 17 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007) |
+| [Robert Bosch Venture Capital](https://internscout.org/internships/at/robert-bosch-venture-capital/) | AI Application Intern | Farmington Hills, MI |  | Nov 17 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162076254) |
 | [Birdseye Security Solutions](https://internscout.org/internships/at/birdseye-security-solutions/) | AI Systems Intern | Mississauga, Canada +1 |  | Nov 17 | [Apply](https://go.vansh.nyc/1AX) |
 | [Birdseye Security Solutions](https://internscout.org/internships/at/birdseye-security-solutions/) | Computer Vision Intern | Mississauga, Canada +1 |  | Nov 17 | [Apply](https://go.vansh.nyc/1AY) |
 | [Zurich Insurance](https://internscout.org/internships/at/zurich-insurance/) | Data Analytics & AI Intern | Toronto, Canada |  | Nov 16 | [Apply](https://go.vansh.nyc/1AD) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Client Security & Data Foundation Machine Learning Engineer Intern | San Jose, CA |  | Nov 16 | [Apply](https://lifeattiktok.com/search/7708750900450134325) |
 | [Boston Scientific](https://internscout.org/internships/at/boston-scientific/) | AI Acceleration Intern | Marlborough, MA |  | Nov 16 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813862390) |
 | [Boston Scientific](https://internscout.org/internships/at/boston-scientific/) | AI Engineer Intern - Generative & Agentic AI | Marlborough, MA +2 |  | Nov 16 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813827837) |
+| [Constellation Brands](https://internscout.org/internships/at/constellation-brands/) | Data and AI Enablement Intern | Rochester, NY +1 |  | Nov 16 | [Apply](https://go.vansh.nyc/1Bp) |
 | Shopify | Applied Machine Learning Engineer Intern | Montreal, QC, Canada +5 |  | Nov 16 | [Apply](https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536) |
 | [Boston Scientific](https://internscout.org/internships/at/boston-scientific/) | AI Engineering Intern, Generative and Agentic AI | Marlborough, MA |  | Nov 16 | [Apply](https://go.vansh.nyc/1A8) |
 | [Carnegie Mellon University](https://internscout.org/internships/at/carnegie-mellon-university/) | AI Engineer Intern - Mission Innovation Lab (Summer 2027) | Pittsburgh, PA |  | Nov 16 | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1) |
@@ -167,7 +171,6 @@
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Student Researcher Intern, Seed Model - LLM | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/142) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Deep Learning Intern | Santa Clara, CA |  | Oct 31 | [Apply](https://go.vansh.nyc/12j) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern – Research and Development – Vehicle Aerodynamics and Machine Learning | Warren, Michigan, United States of America |  | Oct 31 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Aerodynamics-and-Machine-Learning_JR-202622746) |
-| [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Agentic AI Data Science Intern | Jacksonville, FL |  | Oct 31 | [Apply](https://go.vansh.nyc/134) |
 | One Robot | Machine Learning Intern | San Francisco, CA |  | Oct 31 | [Apply](https://go.vansh.nyc/13h) |
 | USAFacts | AI & Software Engineering Intern | Bellevue, WA |  | Oct 31 | [Apply](https://go.vansh.nyc/13s) |
 | Vantor | AI Engineer Intern | Remote +1 |  | Oct 31 | [Apply](https://go.vansh.nyc/13t) |
@@ -201,9 +204,6 @@
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Deep Learning Research Intern - Interim Engineering Intern - Systems | Markham, ON, Canada +1 |  | Oct 28 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721828828) |
 | Verition Group | AI Associate Intern, Equity Long/Short | New York, NY +4 |  | Oct 28 | [Apply](https://go.vansh.nyc/11S) |
 | Sephora | AI & Distribution Analytics Intern | United States |  | Oct 28 | [Apply](https://go.vansh.nyc/11Q) |
-| [RosaicLabs](https://internscout.org/internships/at/rosaiclabs/) | AI Accelerator Design Verification Engineer Intern | Austin, TX +1 |  | Oct 28 | [Apply](https://go.vansh.nyc/Xp) |
-| T-Mobile | Associate AI Engineer Intern | Frisco, TX +1 |  | Oct 28 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492) |
-| FormFactor | Electrical Design Automation Intern, AI & EDA Automation | Livermore, CA |  | Oct 28 | [Apply](https://go.vansh.nyc/Y8) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

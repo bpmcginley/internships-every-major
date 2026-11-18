@@ -1,6 +1,6 @@
 # Education: Summer 2027 Internships
 
-39 open Summer 2027 education roles, newest first (all 39). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 242 education internships on InternScout](https://internscout.org/internships/education/)
+39 open Summer 2027 education roles, newest first (all 39). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 241 education internships on InternScout](https://internscout.org/internships/education/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

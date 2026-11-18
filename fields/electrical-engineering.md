@@ -1,9 +1,10 @@
 # Electrical Engineering: Summer 2027 Internships
 
-225 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 225). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 538 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+223 open Summer 2027 electrical engineering roles, newest first (the 200 newest of 223). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 535 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Stantec](https://internscout.org/internships/at/stantec/) | Electrical Engineering Student – Water (Summer 2027) | Burnaby, BC, Canada |  | Nov 17 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008921) |
 | Northwood Space | Electrical Engineering Intern (2027 Summer Internship) | Torrance, CA +2 |  | Nov 16 | [Apply](https://jobs.ashbyhq.com/northwoodspace/1bc230b1-5ad2-44b8-ad61-e80a730e5026/application) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Electrical Engineering Intern/Co-op - Buildings (Summer 2027) | Rochester, NY +3 |  | Nov 16 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007840) |
 | [Southern States, LLC](https://internscout.org/internships/at/southern-states-llc/) | Summer 2027 Electrical Engineering Intern or Co-op | Hampton, GA |  | Nov 16 | [Apply](https://southernstatesllc.applytojob.com/apply/eo8El5ZgNU/Summer-2027-Electrical-Engineering-Intern-Or-Coop) |
@@ -67,7 +68,7 @@
 | [ABB](https://internscout.org/internships/at/abb/) | Electrical Design Engineer Intern- Summer 2027 | Fort Smith, Arkansas, United States of America | \$20 - \$34 per hour | Oct 27 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Electrical-Design-Engineer-Intern--Summer-2027_JR00045726) |
 | [HP IQ](https://internscout.org/internships/at/hp-iq/) | Electrical Engineering Intern, Hardware (Summer 2027) | San Francisco, CA +1 | \$40.00–\$50.00 per hour | Oct 26 | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6116396004) |
 | Parallel Systems | Hardware Engineering Intern (Mechanical & Electrical) | Los Angeles, CA +1 | Paid | Oct 26 | [Apply](https://boards.greenhouse.io/parallel/jobs/5275660007?gh_jid=5275660007) |
-| Burns Engineering | Electrical Engineering Intern - Summer 2027 | All Burns Locations, PA |  | Oct 26 | [Apply](https://www.burns-group.com/careers/current-openings/?gh_jid=4467816009) |
+| [Burns Engineering](https://internscout.org/internships/at/burns-engineering/) | Electrical Engineering Intern - Summer 2027 | All Burns Locations, PA |  | Oct 26 | [Apply](https://www.burns-group.com/careers/current-openings/?gh_jid=4467816009) |
 | [Integration Innovation (i3)](https://internscout.org/internships/at/integration-innovation-i3/) | RF Engineer Intern | Washington, D.C. | \$25-48/hour | Oct 26 | [Apply](https://i3-corps.jibeapply.com/jobs/5348) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Signal and Power Integrity Intern | Santa Clara, CA |  | Oct 26 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Signal-and-Power-Integrity-Intern--MS---Summer-2027_2603858-1) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Electrical Engineering Intern - Summer 2027 | Boise, ID +2 |  | Oct 26 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98216) |
@@ -90,7 +91,6 @@
 | [Stantec](https://internscout.org/internships/at/stantec/) | Electrical Engineering Intern - Buildings (Summer 2027) | Dallas, TX |  | Oct 20 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008417) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Electrical Engineering Intern - Buildings (Summer 2027) | Houston, TX |  | Oct 20 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008418) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Mechanical & Electrical Engineer Intern - Summer 2027 - Canton, MS | Canton, Mississippi - United States of America |  | Oct 20 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Canton-Mississippi---United-States-of-America/Mechanical---Electrical-Engineer-Intern---Summer-2027---Canton--MS_R00214259) |
-| [WSP](https://internscout.org/internships/at/wsp/) | Substation Electrical Engineering Intern - Summer 2027 | Spring, TX |  | Oct 20 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97953) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Electrical Engineering Intern - Buildings (Summer 2027) | Austin, TX |  | Oct 20 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008372) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | QDSP Hardware Physical Design Intern | Markham, ON, Canada |  | Oct 19 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721636316) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Electrical Engineering (Renewable Transmission Interconnections) Intern – Summer 2027 | Billings, MT |  | Oct 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96761) |
@@ -146,7 +146,6 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Electrical Engineering Intern (Summer 2027!) | Denver, Colorado | \$44.22 | Sep 8 | [Apply](https://careers.cdmsmith.com/jobs/4431) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Technical I&C Electrical Maintenance Internship - Clinton, IL (ASSOCIATE'S DEGREE ONLY) | Clinton, Illinois | Paid | Sep 8 | [Apply](https://jobs.constellationenergy.com/jobs/138595) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Electrical Engineering Intern (Summer 2027!) | Chicago, Illinois | \$44.22 | Sep 8 | [Apply](https://careers.cdmsmith.com/jobs/4430) |
-| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Electrical Engineering Internship - Kennett Square, PA | Kennett Square, Pennsylvania | Paid | Sep 8 | [Apply](https://jobs.constellationenergy.com/jobs/58515) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Electrical Engineering Intern (Summer 2027!) | Fairfax, Virginia | \$46.23 | Sep 8 | [Apply](https://careers.cdmsmith.com/jobs/4433) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Electrical Engineering Intern (Small Utility) - Summer 2027 | Tyler, TX |  | Sep 8 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94384) |
 | [Fab2](https://internscout.org/internships/at/fab2/) | Electrical Engineer Intern | SF +1 |  | Sep 5 | [Apply](https://jobs.ashbyhq.com/fab2/aec19ef8-2257-4295-abc2-87afd05224ae/application?embed=true) |
@@ -204,6 +203,7 @@
 | [Carpenter Technology](https://internscout.org/internships/at/carpenter-technology/) | Maintenance Intern - Electrical | Reading, PA |  | Oct 6 | [Apply](https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Maintenance-Intern---Electrical_26884) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Sales Account Manager Intern, Electrical Engineering & Business (Summer 2027) | USA - Texas - Austin +1 | \$20.00 - \$40.00 | Sep 30 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Sales-Account-Manager-Intern--Electrical-Engineering---Business--Summer-2027-_JR-2604219) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Technology Development Intern, RF GaN (Summer 2027) | USA - Vermont - Essex Junction |  | Sep 28 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Technology-Development-Intern--RF-GaN--Summer-2027-_JR-2604282) |
+| [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Electrical Engineering - California | San Jose, California +1 |  | Sep 19 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Electrical-Engineering---California_R572604) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

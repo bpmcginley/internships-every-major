@@ -1,9 +1,13 @@
 # Marketing: Summer 2027 Internships
 
-250 open Summer 2027 marketing roles, newest first (the 200 newest of 250). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 647 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+252 open Summer 2027 marketing roles, newest first (the 200 newest of 252). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 653 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Crusoe | Content and Social Media Marketing Intern | San Francisco, CA - US +1 | \$30/hour | Nov 17 | [Apply](https://jobs.ashbyhq.com/Crusoe/c73e5d49-fcc0-4a27-97aa-020183b9002c/application) |
+| [Burns Engineering](https://internscout.org/internships/at/burns-engineering/) | Marketing Intern - Summer 2027 | Philadelphia, PA |  | Nov 17 | [Apply](https://www.burns-group.com/careers/current-openings/?gh_jid=4510417009) |
+| [Thorlabs](https://internscout.org/internships/at/thorlabs/) | Summer 2027 Marketing Internship | Newton, New Jersey | \$20.00 - \$25.00 per hour | Nov 17 | [Apply](https://apply.workable.com/j/5D42612F30/apply) |
+| [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (Wisconsin Health Plan) – Summer 2027 (Undergraduate) | WI |  | Nov 17 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040147) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Product Marketing Intern | Costa Mesa, California, United States | Paid | Nov 16 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5261735007?gh_jid=5261735007) |
 | [Vizient](https://internscout.org/internships/at/vizient/) | 2027 Summer Internship - Kaufman Hall Marketing Team | Chicago, IL 60607 | \$25 per hour | Nov 14 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Kaufman-Hall-Marketing-Team_36091R-2) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - Global WAM Marketing Strategy Operations | Toronto, Ontario | \$48,800.00 | Nov 14 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Global-WAM-Marketing-Strategy-Operations_JR26080927) |
@@ -16,7 +20,6 @@
 | [3M](https://internscout.org/internships/at/3m/) | Internship - 2027 Undergraduate Marketing Intern – Consumer Business Group (CBG) | Maplewood, MN +1 |  | Nov 14 | [Apply](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Marketing-Intern---Consumer-Business-Group--CBG-_R01171051) |
 | [W.W. Grainger](https://internscout.org/internships/at/w-w-grainger/) | Customer Experience Intern | Thornhill, Vaughan, ON, Canada |  | Nov 13 | [Apply](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Customer-Experience-Intern-ON-L3T-7W8/1450621700/?ats=successfactors) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Brand Marketing Intern | Costa Mesa, California, United States | Paid | Nov 13 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5261731007?gh_jid=5261731007) |
-| Epiroc | Intern - Product Application & Marketing Engineer (Summer 2027) | Garland, TX |  | Nov 13 | [Apply](https://www.careerprofile.epiroc.com/job/Garland-Intern-Product-Application-&-Marketing-Engineer-%28Summer-2027%29-TX-75040/1457345533/) |
 | [Emerson Electric](https://internscout.org/internships/at/emerson-electric/) | Life Sciences Marketing Intern | Round Rock, TX |  | Nov 13 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009264) |
 | [Veeam Software](https://internscout.org/internships/at/veeam-software/) | Customer Experience Intern - Summer 2027 | Remote, Georgia, USA |  | Nov 12 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5035360101) |
 | [Galaxy](https://internscout.org/internships/at/galaxy/) | 2027 Data Center Growth & Development Intern - NYC | New York | \$55/hr | Nov 12 | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6256234004) |
@@ -104,7 +107,7 @@
 | [Target](https://internscout.org/internships/at/target/) | Designer Intern, Owned Brands- Minneapolis, MN (Starting Summer, 2027) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | \$27.00 per hour | Oct 23 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Designer-Intern--Owned-Brands--Minneapolis--MN--Starting-Summer--2027-_R0000478536-1) |
 | [Legrand](https://internscout.org/internships/at/legrand/) | Product Marketing Intern (Summer 2027) | West Hartford, CT |  | Oct 23 | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1640) |
 | [Badger Meter](https://internscout.org/internships/at/badger-meter/) | Marketing Content Creation Intern | Milwaukee HQ, WI |  | Oct 23 | [Apply](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Marketing-Content-Creation-Intern_4635) |
-| [Together AI](https://internscout.org/internships/at/together-ai/) | Growth Marketing Intern (Summer 2027) | San Francisco | \$41/hr | Oct 22 | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5270409007) |
+| Together AI | Growth Marketing Intern (Summer 2027) | San Francisco | \$41/hr | Oct 22 | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5270409007) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Information Communications Technology (ICT ) Intern - Buildings (Summer 2027) | Lynnwood, WA |  | Oct 22 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008438) |
 | [Corning](https://internscout.org/internships/at/corning/) | Communications Design Intern - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Oct 22 | [Apply](https://corningjobs.corning.com/job/Corning-Communications-Design-Intern-Summer-2027-NY-14831/1442859500/) |
 | [GAF](https://internscout.org/internships/at/gaf/) | Residential Product Marketing Intern | Parsippany, NJ | \$20.00 | Oct 22 | [Apply](https://gafsgi.wd5.myworkdayjobs.com/GAF_Careers/job/Parsippany-NJ/Residential-Product-Marketing-Intern_26411) |
@@ -171,7 +174,6 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Product Manager Intern - Scaled Growth | San Jose, CA |  | Aug 14 | [Apply](https://lifeattiktok.com/search/7673559305519794437) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Data Science Intern - Advertisement Team | San Jose, CA |  | Aug 13 | [Apply](https://lifeattiktok.com/search/7673226686054107445) |
 | [Mortenson](https://internscout.org/internships/at/mortenson/) | Marketing Intern - Phoenix | Tempe, AZ | Paid | Aug 10 | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23370) |
-| [Mortenson](https://internscout.org/internships/at/mortenson/) | Social Media Intern | MN | Paid | Aug 10 | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23364) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern, Growth Innovation | San Jose, CA |  | Aug 4 | [Apply](https://go.vansh.nyc/6e) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - Brand Ads | San Jose, CA |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7668654528822954245) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Backend Software Engineer Intern - Innovative Growth | San Jose, CA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7667934860750063925) |
@@ -202,8 +204,6 @@
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Marketing | Phoenix, AZ | Paid | Oct 8 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Marketing_R13975) |
 | [Apple Bank](https://internscout.org/internships/at/apple-bank/) | 2027 Summer Intern- Marketing | New York, NY | \$24/hr | Oct 8 | [Apply](https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern--Marketing_2026-1412) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Sales & Marketing Intern - Somerset, NJ - Summer 2027 | Somerset, New Jersey - United States of America |  | Oct 8 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Somerset-New-Jersey---United-States-of-America/Sales---Marketing-Intern---Somerset--NJ---Summer-2027_R00214229) |
-| [Nissan](https://internscout.org/internships/at/nissan/) | NMAC Marketing Communications Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 8 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/NMAC-Marketing-Communications-Intern---Summer-2027---Franklin--TN_R00214252) |
-| [McKesson](https://internscout.org/internships/at/mckesson/) | CoverMyMeds Product Marketing Intern- Summer 2027 | USA, OH +1 | \$16.50 - \$27.50 | Oct 6 | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/CoverMyMeds-Product-Marketing-Intern--Summer-2027_JR0154720-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,6 +1,6 @@
 # Urban Planning: Summer 2027 Internships
 
-62 open Summer 2027 urban planning roles, newest first (all 62). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 106 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+60 open Summer 2027 urban planning roles, newest first (all 60). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 106 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -40,11 +40,9 @@
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Internship - Community Development (Summer 2027) | Des Moines, IA |  | Sep 24 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007994) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Co-op Student - Community Development (Summer 2027) – 16 Month Term | Calgary, AB, Canada |  | Sep 24 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007907) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Planning Intern | Milwaukee, WI +1 |  | Sep 24 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309938) |
-| [Stantec](https://internscout.org/internships/at/stantec/) | Transportation Planning Intern- Infrastructure (Summer 2027) | Minneapolis, MN +1 |  | Sep 21 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007905) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Internship - Community Development (Summer 2027) | Mequon, WI |  | Sep 18 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007861) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | GIS Intern - Summer 2027 | Nashville, TN |  | Sep 11 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Nashville-TN-City-Center/GIS-Intern---Summer-2027_R-31562-2) |
 | [HNTB](https://internscout.org/internships/at/hntb/) | GIS Intern | Nashville, TN |  | Sep 11 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Nashville-TN-City-Center/GIS-Intern---Summer-2027_R-31562) |
-| [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Planning Intern - Summer 2027 | Harrisburg, PA |  | Sep 9 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309847) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors or Masters - Transportation Planning Intern (Summer 2027!) | Orlando, Florida | \$38.01 | Sep 9 | [Apply](https://careers.cdmsmith.com/jobs/4439) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Masters - Transportation Planning Intern (Summer 2027!) | Indianapolis, Indiana | \$36.20 | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/4371) |
 | [Southern Star Central Gas Pipeline](https://internscout.org/internships/at/southern-star-central-gas-pipeline/) | Intern, GIS Analyst | Owensboro, KY |  | Nov 17, 2024 | [Apply](https://careers-sscgp.icims.com/jobs/3036/intern%2c-gis-analyst/job) |

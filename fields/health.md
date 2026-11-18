@@ -1,10 +1,11 @@
 # Health: Summer 2027 Internships
 
-63 open Summer 2027 health roles, newest first (all 63). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 278 health internships on InternScout](https://internscout.org/internships/health/)
+64 open Summer 2027 health roles, newest first (all 64). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 281 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Analog Devices](https://internscout.org/internships/at/analog-devices/) | Software Engineering Intern, Medical Device & Healthcare Integration | Wilmington, MA |  | Nov 17 | [Apply](https://go.vansh.nyc/1AV) |
+| [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (Wisconsin Health Plan) – Summer 2027 (Undergraduate) | WI |  | Nov 17 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040147) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Services Internship (Ohio Health Plan) – Summer 2027 (Undergraduate) | OH |  | Nov 17 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040149) |
 | [Amgen](https://internscout.org/internships/at/amgen/) | AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern | Remote |  | Nov 13 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Provider Relations/Healthcare Admin Internship (Remote) – Summer 2027 (Undergraduate) | United States | Paid | Nov 13 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040152) |

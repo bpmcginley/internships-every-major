@@ -1,6 +1,6 @@
 # Cybersecurity: Summer 2027 Internships
 
-211 open Summer 2027 cybersecurity roles, newest first (the 200 newest of 211). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 348 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+210 open Summer 2027 cybersecurity roles, newest first (the 200 newest of 210). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 349 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [DwyerOmega](https://internscout.org/internships/at/dwyeromega/) | Cyber Resilience & Product Security Intern | Michigan City, IN |  | Nov 5 | [Apply](https://go.vansh.nyc/1kY) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Information Security Intern | Atlanta, GA |  | Nov 5 | [Apply](https://go.vansh.nyc/1iJ) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | Cybersecurity Associate Intern | Bossier City, LA |  | Nov 5 | [Apply](https://go.vansh.nyc/1hR) |
+| [Peraton](https://internscout.org/internships/at/peraton/) | Cyber Research Intern | West Lafayette, IN +3 |  | Nov 5 | [Apply](https://careers-peraton.icims.com/jobs/170120/job?mobile=true&needsRedirect=false) |
 | [Little Caesars Enterprises](https://internscout.org/internships/at/little-caesars-enterprises/) | Cyber IT Intern | Detroit, MI |  | Nov 5 | [Apply](https://go.vansh.nyc/1iv) |
 | [PayPal](https://internscout.org/internships/at/paypal/) | Cybersecurity Intern - Summer 2027 | San Jose, CA +3 |  | Nov 5 | [Apply](https://paypal.eightfold.ai/careers/job/274922982812) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Cyber Security Internship - Summer 2027 | Centennial, CO | \$23.10 - \$37.95 | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Cyber-Security-Internship-Summer-2027-CO-80112/1427397700/) |
@@ -178,7 +179,6 @@
 | [Oshkosh](https://internscout.org/internships/at/oshkosh/) | Cyber Security Intern | Oshkosh, WI |  | Sep 11 | [Apply](https://go.vansh.nyc/Nc) |
 | [Citizens Financial Group](https://internscout.org/internships/at/citizens-financial-group/) | Data Engineer Intern - Enterprise Technology & Security | Plano, TX +2 |  | Sep 11 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285) |
 | [Wellmark](https://internscout.org/internships/at/wellmark/) | Cyber Security Intern | Des Moines, IA |  | Sep 11 | [Apply](https://go.vansh.nyc/1to) |
-| [National Information Solutions Cooperative](https://internscout.org/internships/at/national-information-solutions-cooperative/) | Information Security (Cybersecurity) Intern | Lake St. Louis, MO +1 |  | Sep 10 | [Apply](https://go.vansh.nyc/Na) |
 | [Danaher Corporation](https://internscout.org/internships/at/danaher/) | IT Security Intern | Coralville, IA |  | Sep 10 | [Apply](https://go.vansh.nyc/N9) |
 | Barnes & Thornburg | Information Security Intern | Indianapolis, IN |  | Sep 9 | [Apply](https://go.vansh.nyc/N8) |
 | [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Associate Intern, Security Automation | Vienna, VA |  | Sep 9 | [Apply](https://go.vansh.nyc/N7) |
@@ -199,11 +199,11 @@
 | [Microsoft](https://internscout.org/internships/at/microsoft/) | Software Engineer Intern, Security & Identity | Cambridge, MA +1 |  | Aug 4 | [Apply](https://go.vansh.nyc/5J) |
 | [Appian](https://internscout.org/internships/at/appian/) | Information Security Engineer Intern | McLean, Virginia +1 | \$50.00 per hour | Jul 27 | [Apply](https://job-boards.greenhouse.io/appian/jobs/8088496) |
 | [Jane Street](https://internscout.org/internships/at/jane-street/) | Cybersecurity Analyst Intern | New York, NY |  | Jul 24 | [Apply](https://go.vansh.nyc/41) |
-| [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Cybersecurity & Technology Audit Internship (Summer 2027) | Boston, MA +1 |  | Nov 17, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/126990/cybersecurity-%26-technology-audit-internship-%28summer-2027%29/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Information Security Governance, Risk & Compliance Intern | Niles, IL | \$23-\$43 per hour | Nov 17, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job) |
 | [Palantir Technologies](https://internscout.org/internships/at/palantir-technologies/) | Information Security Engineer Intern | New York, NY |  | Aug 3, 2022 | [Apply](https://go.vansh.nyc/OK) |
 | [Nissan](https://internscout.org/internships/at/nissan/) | Corporate Security Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United States of America |  | Oct 9 | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Corporate-Security-Intern---Summer-2027---Franklin--TN_R00214220) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Summer 2027 Intern-Cybersecurity and Information Security | Chicago, IL | \$20 to \$33, | Oct 1 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Cybersecurity-and-Information-Security_R-0000033612-1) |
+| [United Parcel Service (UPS)](https://internscout.org/internships/at/united-parcel-service-ups/) | UPS Information Security Summer 2027 Internship - KY | US - AIR GROUP BUILDING (KYARP) +1 | Paid | Sep 18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---AIR-GROUP-BUILDING-KYARP/UPS-Information-Security-Summer-2027-Internship---KY_R26029765) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

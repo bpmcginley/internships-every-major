@@ -1,14 +1,13 @@
 # Quantitative Finance: Summer 2027 Internships
 
-145 open Summer 2027 quantitative finance roles, newest first (all 145). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 200 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
+141 open Summer 2027 quantitative finance roles, newest first (all 141). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 196 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Soros Fund Management | Quantitative Strategist Intern | New York | \$45/hr | Nov 17 | [Apply](https://job-boards.greenhouse.io/familyoffice/jobs/8202834003) |
 | All Options | Graduate Quantitative Trader Intern | Austin, TX |  | Nov 17 | [Apply](https://alloptions.bamboohr.com/careers/85/) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Middle Market Banking Credit Underwriting/Portfolio Management (Charlotte, NC) | Charlotte, North Carolina |  | Nov 16 | [Apply](https://firstcitizens.jibeapply.com/jobs/36653) |
 | [Bristol Myers Squibb](https://internscout.org/internships/at/bristol-myers-squibb/) | Data & Quantitative Sciences Statistical Programming Intern - Summer 2027 | Princeton - NJ - US +5 | \$32-\$55/hour | Nov 14 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Data---Quantitative-Sciences-Statistical-Programming-Intern---Summer-2027_R1608542) |
-| Soros Fund Management | Trading, Middle and Back Office Dev – Summer Intern 2027 | New York +2 | \$45/hour | Nov 13 | [Apply](https://job-boards.greenhouse.io/familyoffice/jobs/8202862003) |
+| Soros Fund Management | Trading Intern - Middle and Back Office Dev | NYC +1 |  | Nov 13 | [Apply](https://job-boards.greenhouse.io/familyoffice/jobs/8202862003) |
 | State of Maryland | Quantitative Analyst Intern | Baltimore, MD |  | Nov 13 | [Apply](https://go.vansh.nyc/1zI) |
 | [Alexion](https://internscout.org/internships/at/alexion/) | Summer 2027 Quantitative Intern PhD | US - Boston - MA | Paid | Nov 13 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---Boston---MA/Summer-2027-Quantitative-Intern-PhD_R-264278-1) |
 | [AstraZeneca](https://internscout.org/internships/at/astrazeneca/) | Summer 2027 Quantitative Intern PhD | US - Boston - MA | Paid | Nov 13 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Boston---MA/Summer-2027-Quantitative-Intern-PhD_R-264278) |
@@ -89,7 +88,6 @@
 | Chicago Trading Company | Quant Trading Intern | Chicago, IL |  | Jul 27 | [Apply](https://go.vansh.nyc/5a) |
 | Stevens Capital Management | Quantitative Research Analyst Internship | Radnor, PA |  | Jul 27 | [Apply](https://go.vansh.nyc/4V) |
 | [Akuna Capital](https://internscout.org/internships/at/akuna-capital/) | Quantitative Research Intern | Chicago |  | Jul 24 | [Apply](https://go.vansh.nyc/4z) |
-| [Akuna Capital](https://internscout.org/internships/at/akuna-capital/) | Quantitative Development & Strategy Intern | Chicago |  | Jul 24 | [Apply](https://go.vansh.nyc/4y) |
 | [Jane Street](https://internscout.org/internships/at/jane-street/) | Trading Desk Operations Engineer Intern | New York, NY |  | Jul 24 | [Apply](https://go.vansh.nyc/49) |
 | [Jane Street](https://internscout.org/internships/at/jane-street/) | Sales and Trading Intern | New York, NY |  | Jul 24 | [Apply](https://go.vansh.nyc/47) |
 | [Jane Street](https://internscout.org/internships/at/jane-street/) | Quantitative Researcher Intern | New York, NY |  | Jul 24 | [Apply](https://go.vansh.nyc/3Y) |
@@ -105,9 +103,7 @@
 | Five Rings | Summer Intern 2027 - Quantitative Researcher (PhD) | New York +1 | \$300,000 | Jul 14 | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) |
 | Five Rings | Summer Intern 2027 - Quantitative Trader | New York +1 | \$300,000 | Jul 14 | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) |
 | [Hudson River Trading](https://internscout.org/internships/at/hudson-river-trading/) | Algorithm Development Intern - Quant Research | NYC |  | Jul 13 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062) |
-| Akuna Capital University | Quantitative Development & Strategy Intern | Chicago, IL |  | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
 | Akuna Capital University | Quantitative Research Intern | Chicago, IL |  | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
-| Akunacapital | Quantitative Development & Strategy Intern, Summer 2027 | Chicago, IL | \$145,000 | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
 | Akunacapital | Quantitative Research Intern, Summer 2027 | Chicago, IL | \$145,000 | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
 | Arrowstreet Capital | Quantitative Developer Intern | Boston, MA |  | Jul 10 | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) |
 | Arrowstreet Capital | Quantitative Researcher Intern | Boston, MA |  | Jul 10 | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) |

@@ -1,6 +1,6 @@
 # Government and Public Policy: Summer 2027 Internships
 
-57 open Summer 2027 government and public policy roles, newest first (all 57). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 274 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+56 open Summer 2027 government and public policy roles, newest first (all 56). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 279 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -18,11 +18,10 @@
 | [Securities and Exchange Commission](https://internscout.org/internships/at/securities-and-exchange-commission/) | Summer 2027 SEC Scholars Legal Program- HQ (1L, 2L, 3L, or LL.M.) (Volunteer) | Washington, District of Columbia |  | Nov 9 | [Apply](https://www.usajobs.gov:443/job/891903400) |
 | [Securities and Exchange Commission](https://internscout.org/internships/at/securities-and-exchange-commission/) | Summer 2027 SEC Scholars Business Program- HQ (Volunteer) | Washington, District of Columbia |  | Nov 9 | [Apply](https://www.usajobs.gov:443/job/891901100) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | 2027 Summer Internship Program - Supervision & Regulation (CORE Risk Team) | Atlanta, GA |  | Nov 7 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--CORE-Risk-Team-_R-0000033859) |
-| [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Aerospace, Defense & Government Finance | New York, New York | \$22.44 | Nov 6 | [Apply](https://firstcitizens.jibeapply.com/jobs/35782) |
 | Public Service Enterprise Group | Staff Intern - Corporate Citizenship - Federal Affairs & Sustainability | Newark, NJ |  | Nov 5 | [Apply](https://jobs.pseg.com/job/Newark-Summer-2027-Intern-Corporate-Citizenship-Federal-Affairs-&-Sustainability-NJ-07101/1448352900/?ats=successfactors) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Knowledge and Information Management Intern | Atlanta, GA |  | Nov 5 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship---Knowledge-and-Information-Management-Intern_R-0000033908) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Government & Political Science Internship - Summer 2027 | Arlington, VA |  | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Arlington-Government-&-Political-Science-Internship-Summer-2027-VA-22209/1427398100/) |
-| Dept Of Design & Construction | College Aide (Graduate) | New York, NY | \$17.5 - \$21.9 Hour | Nov 4 | [Apply](https://cityjobs.nyc.gov/job/786351) |
+| Dept Of Design & Construction | College Aide (Graduate) | New York, NY | \$17.5 - \$21.9 Hour | Nov 4 | [Apply](https://cityjobs.nyc.gov/job/786359) |
 | Indian Health Service | Student Trainee (IHS Extern) | Salt Lake City, Utah +18 | \$35395 - \$97087 Per Year | Nov 2 | [Apply](https://www.usajobs.gov:443/job/891279900) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Undergraduate Intern – Facilities Focus | Minneapolis, MN | \$23.00/hour | Nov 2 | [Apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Minneapolis-MN/Undergraduate-Intern---Facilities-Focus_R-0000033979-1) |
 | National Institute of Standards and Technology | Summer High-school Intern Program (SHIP) -Gaithersburg, MD (Volunteer; STEM Fields) | Gaithersburg, Maryland |  | Oct 31 | [Apply](https://www.usajobs.gov:443/job/891154500) |

@@ -1,10 +1,11 @@
 # Design: Summer 2027 Internships
 
-90 open Summer 2027 design roles, newest first (all 90). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 198 design internships on InternScout](https://internscout.org/internships/design/)
+91 open Summer 2027 design roles, newest first (all 91). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 199 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Zoox](https://internscout.org/internships/at/zoox/) | UX Designer Intern \[Summer 2027\] | Foster City, CA |  | Nov 17 | [Apply](https://jobs.lever.co/zoox/6a2a0d85-f466-4177-8236-eac6e2df2e93/apply) |
+| [Garmin](https://internscout.org/internships/at/garmin/) | Product Designer Intern | Olathe, Kansas |  | Nov 17 | [Apply](https://careers.garmin.com/jobs/22511) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Summer 2027: HW UX/UI Design Intern (May through August) | Needham, MA, United States |  | Nov 16 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721309006) |
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Internship - Game Design Intern | Seattle, WA, United States | Paid | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507816009) |
 | Duke Energy | UX Design Internship – Summer 2027 | Charlotte, NC |  | Nov 14 | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/UX-Design-Internship---Summer-2027_R41850) |
@@ -79,6 +80,7 @@
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Graphic Design Internship - Summer 2027 | Reston, VA | Paid | Nov 17, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8668/graphic-design-internship---summer-2027/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | User Experience Design (UX) Intern | Niles, IL | \$23-\$43 per hour | Nov 17, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5003/user-experience-design-%28ux%29-intern/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Industrial Design Intern | Niles, IL | \$23-\$43 per hour | Nov 17, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4991/industrial-design-intern/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Design Research Intern | Niles, IL | \$23-\$43 per hour | Nov 17, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4983/design-research-intern/job) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Creative Design (Interior/Exterior) | Warren, Michigan, United States of America +1 | \$6,100 month | Nov 14 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Creative-Design--Interior-Exterior-_JR-202619314) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | Summer 2027 Intern - Industrial Design | Warren, Michigan, United States of America |  | Nov 14 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Industrial-Design_JR-202621626) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Industrial Designer | Denton, TX |  | Nov 4 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Industrial-Designer-TX-76205-7864/1454438233/) |
@@ -92,7 +94,6 @@
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Intern - Industrial Design, User Experience - Michigan | Portage, Michigan |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Product-Interaction-Design-Intern---Portage--MI_R572833) |
 | [Stryker](https://internscout.org/internships/at/stryker/) | Summer 2027 Internship - Interaction Design - Washington | Redmond, Washington |  | Sep 18 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Redmond-Washington/Summer-2027-Internship---Interaction-Design---Washington_R572870) |
 | [Watts Water](https://internscout.org/internships/at/watts-water/) | Graphic Design Intern, Summer 2027 | North Andover, MA | \$21-23 per hour | Sep 18 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Graphic-Design-Intern--Summer-2027_10017555) |
-| [Shure](https://internscout.org/internships/at/shure/) | Design Research Intern | Niles, IL |  | Sep 18 | [Apply](https://careersus-shure.icims.com/jobs/4983/design-research-intern/job) |
 | [Target](https://internscout.org/internships/at/target/) | UX Design Internship - Minneapolis, MN (Starting Summer, 2027) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | \$34.00 per hour | Sep 18 | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/UX-Design-Internship---Minneapolis--MN--Starting-Summer--2027-_R0000451077) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

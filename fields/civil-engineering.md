@@ -1,9 +1,10 @@
 # Civil Engineering: Summer 2027 Internships
 
-334 open Summer 2027 civil engineering roles, newest first (the 200 newest of 334). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 549 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+335 open Summer 2027 civil engineering roles, newest first (the 200 newest of 335). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 549 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Haskell](https://internscout.org/internships/at/haskell/) | Summer 2027 Structural Engineering Intern | Jacksonville, Florida |  | Nov 17 | [Apply](https://careers.haskell.com/jobs/7546) |
 | [Pacific Fusion](https://internscout.org/internships/at/pacific-fusion/) | Summer 2027 Structural Analysis Engineer Internship | San Leandro, CA | Paid | Nov 16 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4505980009) |
 | [Woolpert](https://internscout.org/internships/at/woolpert/) | Transportation Design Intern - Texas (Summer 2027) | Dallas, TX | Paid | Nov 16 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4505485009) |
 | [Tighe & Bond](https://internscout.org/internships/at/tighe-bond/) | Civil Engineering Internship - Site Design - Summer 2027 | Rhinebeck, NY | \$21.00 | Nov 16 | [Apply](https://careers-tighebond.icims.com/jobs/1928/civil-engineering-internship---site-design---summer-2027/job) |
@@ -203,7 +204,6 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Structural Engineering Intern (Bridge Design, Summer 2027!) | Wayne, Pennsylvania | \$42.02 | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/4359) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Civil Engineering Internship - Data Centers Site Design | Omaha, NE |  | Sep 2 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5408688008) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Civil Engineering | Los Angeles, CA | \$30–\$40 per hour | Sep 2 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377122008) |
-| [Haskell](https://internscout.org/internships/at/haskell/) | Summer 2027 Construction Intern | Jacksonville, Florida |  | Sep 2 | [Apply](https://haskell.jibeapply.com/jobs/7053) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

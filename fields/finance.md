@@ -1,10 +1,10 @@
 # Finance: Summer 2027 Internships
 
-456 open Summer 2027 finance roles, newest first (the 200 newest of 456). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 730 finance internships on InternScout](https://internscout.org/internships/finance/)
+453 open Summer 2027 finance roles, newest first (the 200 newest of 453). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 728 finance internships on InternScout](https://internscout.org/internships/finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Specialized Mortgage Services | Phoenix, AZ | Paid | Nov 16 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Specialized-Mortgage-Services_R13728) |
+| [Burns Engineering](https://internscout.org/internships/at/burns-engineering/) | Accounting & Finance Intern - Summer 2027 | Philadelphia, PA |  | Nov 17 | [Apply](https://www.burns-group.com/careers/current-openings/?gh_jid=4510491009) |
 | [Integration Innovation (i3)](https://internscout.org/internships/at/integration-innovation-i3/) | Program Finance Summer Internship | Huntsville, Alabama |  | Nov 16 | [Apply](https://i3-corps.jibeapply.com/jobs/5589) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Middle Market Banking Credit Underwriting/Portfolio Management (Charlotte, NC) | Charlotte, North Carolina |  | Nov 16 | [Apply](https://firstcitizens.jibeapply.com/jobs/36653) |
 | [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Consumer & Community Banking -Summer Associate | New York, NY +3 |  | Nov 16 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807923) |
@@ -66,9 +66,7 @@
 | [Baker Hughes](https://internscout.org/internships/at/baker-hughes/) | Finance Intern- Summer 2027 Opportunities | Houston-575 N. Dairy Ashford Rd, Energy Center Ii Ec2, TX +2 | Paid | Nov 7 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Finance-Intern--Summer-2027-Opportunities_R171713) |
 | [Manulife Financial](https://internscout.org/internships/at/manulife-financial/) | Summer Intern 2027 - Venture Capital | Toronto, Ontario | \$44,850.00 | Nov 7 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Co-op-2027---Venture-Capital_JR26100932) |
 | [Galaxy](https://internscout.org/internships/at/galaxy/) | 2027 Risk Intern - NYC | New York | \$55/hr | Nov 6 | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250062004) |
-| Cantor Fitzgerald | 2027 Internship Program: Investment Banking (Energy) Houston | Houston, TX |  | Nov 6 | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250433) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Intern - Treasury | Pittsburgh, PA | \$20- \$22 per hour | Nov 6 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120300) |
-| [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Aerospace, Defense & Government Finance | New York, New York | \$22.44 | Nov 6 | [Apply](https://firstcitizens.jibeapply.com/jobs/35782) |
 | [AARP](https://internscout.org/internships/at/aarp/) | Financial Planning and Analysis Intern (Summer 2027) | Washington, DC | \$18.40 | Nov 6 | [Apply](https://careers.aarp.org/jobs/7959) |
 | [Regal Rexnord](https://internscout.org/internships/at/regal-rexnord/) | Strategic Pricing and Analytics Summer Intern | Milwaukee, Wisconsin, United States | \$21 - \$26 per hour | Nov 6 | [Apply](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Milwaukee-Wisconsin-United-States/Strategic-Pricing-and-Analytics-Summer-Intern_R26_04973-1) |
 | [Clarios](https://internscout.org/internships/at/clarios/) | Finance Intern - Winston Salem, NC (Summer 2027) | United States, North Carolina, Kernersville |  | Nov 6 | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-North-Carolina-Kernersville/Finance-Intern---Winston-Salem--NC--Summer-2027-_WD50755) |
@@ -204,6 +202,8 @@
 | LSEG | Finance Engineer Intern | NYC +1 |  | Oct 14 | [Apply](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Finance-Engineer_R0124268) |
 | Acadian Asset Management | Quantitative Investment Internship Program - Summer 2027 | Boston, Massachusetts, United States +1 | \$50.00 per hour | Oct 13 | [Apply](https://www.acadian-asset.com/careers/open-positions?gh_jid=4720681006) |
 | FNBO | Banking Automation Engineer Intern | Omaha, NE |  | Oct 9 | [Apply](https://go.vansh.nyc/Gl) |
+| [Mortenson](https://internscout.org/internships/at/mortenson/) | Risk Management Intern | MN | Paid | Oct 9 | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23363) |
+| Clēnera | Asset Management Intern (Summer 2027) | Boise, Idaho, United States |  | Oct 7 | [Apply](https://job-boards.greenhouse.io/clenera/jobs/5259476007) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,6 +1,6 @@
 # Consulting: Summer 2027 Internships
 
-115 open Summer 2027 consulting roles, newest first (all 115). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 208 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+111 open Summer 2027 consulting roles, newest first (all 111). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 204 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -74,7 +74,6 @@
 | [General Motors](https://internscout.org/internships/at/general-motors/) | Data Governance Engineer Intern | Warren, MI |  | Sep 28 | [Apply](https://go.vansh.nyc/Q1) |
 | Newmark Group | Newmark Management Consulting Intern | TX |  | Sep 18 | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/249950) |
 | [Cerity Partners](https://internscout.org/internships/at/cerity-partners/) | Risk Management Strategy Intern | Louisville, KY |  | Sep 17 | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/XMLNAME-2027-Summer-Risk-Management-Strategy-Analyst-Internship_R918-1) |
-| Elire | AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data | Remote +3 |  | Sep 15 | [Apply](https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Client Solutions Manager Intern - GBS-LATAM | Miami, FL |  | Sep 14 | [Apply](https://lifeattiktok.com/search/7684612598114240821) |
 | [3M](https://internscout.org/internships/at/3m/) | Business Analyst Intern - Consumer Business Group | Maplewood, MN |  | Sep 14 | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Sustainability and Climate Strategy Intern (Remote) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138731) |
@@ -90,11 +89,8 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams | San Jose, CA |  | Aug 11 | [Apply](https://lifeattiktok.com/search/7670529537944766773) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Backend Software Engineer Intern - LIVE Foundation Governance Engineering | San Jose, CA |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7667935150530840837) |
 | [Appian](https://internscout.org/internships/at/appian/) | Associate Consultant Intern | McLean, Virginia | \$35.00 per hour | Jul 28 | [Apply](https://job-boards.greenhouse.io/appian/jobs/8088498) |
-| [Akuna Capital](https://internscout.org/internships/at/akuna-capital/) | Quantitative Development & Strategy Intern | Chicago |  | Jul 24 | [Apply](https://go.vansh.nyc/4y) |
 | [Akuna Capital](https://internscout.org/internships/at/akuna-capital/) | Quantitative Development & Strategy Intern, Summer 2027 \| Massachusetts Institute of Technology | Chicago, IL | \$145,000 | Jul 15 | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8066884) |
 | [Akuna Capital](https://internscout.org/internships/at/akuna-capital/) | Quantitative Development & Strategy Intern, Summer 2027 \| Harvard | Chicago, IL | \$145,000 | Jul 15 | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8066880) |
-| Akuna Capital University | Quantitative Development & Strategy Intern | Chicago, IL |  | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
-| Akunacapital | Quantitative Development & Strategy Intern, Summer 2027 | Chicago, IL | \$145,000 | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 17, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Medicaid Policy | Portland, ME | \$30 per hour | Nov 17, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3977/summer-2027-consulting-internship---medicaid-policy/job) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Medicaid Policy | Kapolei, HI | \$30 per hour | Nov 17, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3978/summer-2027-consulting-internship---medicaid-policy/job) |

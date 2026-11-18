@@ -1,9 +1,10 @@
 # Insurance: Summer 2027 Internships
 
-85 open Summer 2027 insurance roles, newest first (all 85). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 164 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+86 open Summer 2027 insurance roles, newest first (all 86). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 163 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Selective Insurance](https://internscout.org/internships/at/selective-insurance/) | Underwriting Summer Internship – Scottsdale, AZ (Hybrid) | Scottsdale, Arizona | \$22.00 | Nov 17 | [Apply](https://jobs.selective.com/jobs/5759) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern - Middle Market Banking Credit Underwriting/Portfolio Management (Charlotte, NC) | Charlotte, North Carolina |  | Nov 16 | [Apply](https://firstcitizens.jibeapply.com/jobs/36653) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Insurance Risk Intern - Summer 2027 | Detroit, MI |  | Nov 14 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Insurance-Risk-Intern---Summer-2027_R-084805) |
 | [IAT Insurance Group](https://internscout.org/internships/at/iat-insurance-group/) | Surety Underwriting Internship (Contract & Commercial Surety) | Greenwood Village CO | Paid | Nov 13 | [Apply](https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Greenwood-Village-CO/Surety-Underwriting-Internship--Contract---Commercial-Surety-_JR100418) |
@@ -42,7 +43,7 @@
 | [AXA](https://internscout.org/internships/at/axa/) | Summer 2027 - Underwriting Intern | NEW YORK +4 | \$25.00/hr | Sep 29 | [Apply](https://careers.axa.com/jobs/25551) |
 | [AXA](https://internscout.org/internships/at/axa/) | Summer 2027 - Claims Intern | CHICAGO +2 | \$25.00/hour | Sep 29 | [Apply](https://careers.axa.com/jobs/25499) |
 | [SCOR](https://internscout.org/internships/at/scor/) | Actuarial Intern | Charlotte, North Carolina |  | Sep 25 | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5435) |
-| Palomar Holdings | 2027 Summer Internship (Actuarial) | Edina, MN | Paid | Sep 21 | [Apply](https://ats.rippling.com/plmrcareers/jobs/d6bd58c7-5127-4a17-b70d-2d377aa9fa8a) |
+| [Selective Insurance](https://internscout.org/internships/at/selective-insurance/) | IT E&S Insurance Product Delivery Summer Internship – Charlotte, NC (Hybrid) | Charlotte, North Carolina | \$25.00 | Sep 8 | [Apply](https://jobs.selective.com/jobs/5778) |
 | [NJM Insurance Group](https://internscout.org/internships/at/njm-insurance-group/) | Insurance Product Management Analyst Intern 3 | Trenton, NJ |  | Sep 1 | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst-Intern-3_R2008190) |
 | [Compeer Financial](https://internscout.org/internships/at/compeer-financial/) | Crop Insurance Intern | WI-Fond du Lac | Paid | Aug 31 | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5398257008) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Actuarial Intern - Summer 2027 | Addison, TX +1 | Paid | Aug 19 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4376293009) |

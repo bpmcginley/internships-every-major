@@ -1,9 +1,10 @@
 # Human Resources: Summer 2027 Internships
 
-98 open Summer 2027 human resources roles, newest first (all 98). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 227 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+98 open Summer 2027 human resources roles, newest first (all 98). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 228 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Thorlabs](https://internscout.org/internships/at/thorlabs/) | Summer 2027 Internship Human Resources | Newton, New Jersey | \$20.00 - \$25.00 per hour | Nov 17 | [Apply](https://apply.workable.com/j/8F984E4FF9/apply) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Human Resources Intern | Kirkland, WA | Paid | Nov 17 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Human-Resources-Intern-WA-98033/1449175833/) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer Internship - Talent Acquisition | Renton, WA | \$25.00/Hour | Nov 17 | [Apply](https://jobs.paccar.com/job/Renton-Summer-Internship-Talent-Acquisition-WA-98055/1449187033/) |
 | [Rocket Companies](https://internscout.org/internships/at/rocket-companies/) | Training Intern - Summer 2027 | Detroit, MI |  | Nov 14 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Training-Intern---Summer-2027_R-085164) |
@@ -54,7 +55,6 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Nuclear Human Resources Operations Intern (Lusby, MD) | Lusby, Maryland |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138707) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Nuclear Human Resources Operations Intern (Oswego, NY) | Oswego, New York |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138706) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Ecommerce Intern - Summer 2027 - Campus Recruiting | Austin, MN | \$24.50 | Sep 9 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35361) |
-| [Coinbase](https://internscout.org/internships/at/coinbase/) | Learning & Development Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175514?gh_jid=8175514) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Employee and Workplace Experience Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175429?gh_jid=8175429) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | R&D Chemistry Laboratory Intern (Austin MN) - Summer 2027 - Campus Recruiting | Austin, MN |  | Sep 8 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35724) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Maintenance Engineering Intern - Summer 2027 - Campus Recruiting (Multiple Locations) | Austin, MN +9 |  | Sep 4 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35729) |

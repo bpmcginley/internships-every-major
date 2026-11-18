@@ -1,6 +1,6 @@
 # Sustainability: Summer 2027 Internships
 
-84 open Summer 2027 sustainability roles, newest first (all 84). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 151 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+82 open Summer 2027 sustainability roles, newest first (all 82). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 148 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -15,12 +15,10 @@
 | [ICF](https://internscout.org/internships/at/icf/) | 2027 Summer Intern, Energy Efficiency | Ottawa, ON | \$31,621 - \$59,132 | Nov 10 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Ottawa-ON/XMLNAME-2027-Summer-Intern--Energy-Efficiency_R2603780) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern, Production Technician, Summer 2027 | Lake Charles, Louisiana |  | Nov 10 | [Apply](https://jobs.entergy.com/job/Lake-Charles-Student%2C-Intern%2C-Production-Technician%2C-Summer-2027-Loui/1439246500/) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Building Science Co-op/Intern (Summer 2027) | San Francisco, CA |  | Nov 9 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008756) |
-| [Corning](https://internscout.org/internships/at/corning/) | Sustainability Intern - Summer 2027 | Charlotte, NC | \$1,635.00 - \$3,185.00 | Nov 7 | [Apply](https://corningjobs.corning.com/job/Charlotte-Sustainability-Intern-Summer-2027-NC-28216/1448781500/) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Sustainability Internship - Oasis at Death Valley | Death Valley, California | \$16.90 per hour | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40118) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Nuclear Fuels Intern - Warrenville, IL | Warrenville, Illinois | Paid | Nov 6 | [Apply](https://jobs.constellationenergy.com/jobs/138696) |
 | Public Service Enterprise Group | Staff Intern - Corporate Citizenship - Federal Affairs & Sustainability | Newark, NJ |  | Nov 5 | [Apply](https://jobs.pseg.com/job/Newark-Summer-2027-Intern-Corporate-Citizenship-Federal-Affairs-&-Sustainability-NJ-07101/1448352900/?ats=successfactors) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Clean Energy Research Intern | Washington, DC | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6055/summer-2027-clean-energy-research-intern/job) |
-| [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Climate Mobility Intern | Washington, DC | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6063/summer-2027-climate-mobility-intern/job) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Renewable Energy Intern - Houston Office | Houston, Texas +1 | Paid | Nov 4 | [Apply](https://jobs.constellationenergy.com/jobs/141851) |
 | [Berkshire Hathaway Energy](https://internscout.org/internships/at/berkshire-hathaway-energy/) | Intern - Renewable Generation Performance | Des Moines, IA |  | Nov 4 | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006008) |
 | [IMEG Consultants Corp.](https://internscout.org/internships/at/imeg-consultants-corp/) | Sustainability & Energy Engineering Intern | St. Louis, MO +3 | \$22.00–\$24.00 per hour | Nov 4 | [Apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/St-Louis-MO/Sustainability---Energy-Engineering-Intern_R-16761) |

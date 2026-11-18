@@ -1,13 +1,12 @@
 # Lab Research: Summer 2027 Internships
 
-33 open Summer 2027 lab research roles, newest first (all 33). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 121 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
+32 open Summer 2027 lab research roles, newest first (all 32). **Updated November 17, 2026.** [Back to every major](../README.md) · [See all 119 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Carnegie Mellon University](https://internscout.org/internships/at/carnegie-mellon-university/) | AI Engineer Intern - Mission Innovation Lab (Summer 2027) | Pittsburgh, PA |  | Nov 16 | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Research and Development - Defense Lab Support | Warren, Michigan, United States of America |  | Nov 13 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Defense-Lab-Support_JR-202621738) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | Research Associate Intern, Systems Architecture Lab | Milpitas, CA |  | Nov 12 | [Apply](https://go.vansh.nyc/1w1) |
-| [Carnegie Mellon University](https://internscout.org/internships/at/carnegie-mellon-university/) | Advanced Computing Lab Intern | Pittsburgh, PA |  | Nov 9 | [Apply](https://go.vansh.nyc/1pb) |
 | [Philips](https://internscout.org/internships/at/philips/) | Product Investigations Lab Intern | New Kensington, PA |  | Nov 4 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Product-Investigations-Lab---New-Kensington--PA---Summer-2027_593027) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Engineering Internship - Lab Focus (Summer 2027) | Columbus, OH |  | Nov 2 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279603) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | 2027 Summer Intern - Research and Development - EPSR Lab | Warren, Michigan, United States of America |  | Oct 31 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---EPSR-Lab_JR-202623300) |
