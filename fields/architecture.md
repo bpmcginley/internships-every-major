@@ -1,6 +1,6 @@
 # Architecture: Summer 2027 Internships
 
-38 open Summer 2027 architecture roles, newest first (all 38). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 84 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+38 open Summer 2027 architecture roles, newest first (all 38). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 86 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

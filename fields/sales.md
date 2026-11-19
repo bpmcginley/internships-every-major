@@ -1,6 +1,6 @@
 # Sales: Summer 2027 Internships
 
-135 open Summer 2027 sales roles, newest first (all 135). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 270 sales internships on InternScout](https://internscout.org/internships/sales/)
+132 open Summer 2027 sales roles, newest first (all 132). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 267 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -20,7 +20,6 @@
 | CrowdStrike | Sales Data Analytics Intern | Arlington County, Arlington, VA +1 |  | Nov 5 | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sales-Data-Analytics-Intern_R30801) |
 | [Galaxy](https://internscout.org/internships/at/galaxy/) | 2027 Sales and Trading Internships - NYC | New York | \$55/hr | Nov 3 | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6242350004) |
 | [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Inside Sales Business Development Representative | Chicago, Illinois | \$25.50-\$32.00/hour | Nov 3 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Chicago-Illinois/XMLNAME-2027-Summer-Internship--US----Inside-Sales-Business-Development-Representative_JR103609) |
-| [Paccar](https://internscout.org/internships/at/paccar/) | Sales Administration Data Analyst Intern - Greenhouse Gas | Denton, TX |  | Nov 2 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Sales-Administration-Data-Analyst-Greenhouse-Gas-TX-76205-7864/1453564433/?ats=successfactors) |
 | [ParetoHealth](https://internscout.org/internships/at/paretohealth/) | Sales Associate Summer Intern | Philadelphia, Pennsylvania, United States |  | Nov 2 | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725332006) |
 | [KnowBe4](https://internscout.org/internships/at/knowbe4/) | Sales Development Representative Summer Internship (Hybrid) | New York, New York | Paid | Nov 1 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919183002) |
 | [KnowBe4](https://internscout.org/internships/at/knowbe4/) | Sales Development Representative Summer Internship (Hybrid) | Clearwater, FL | Paid | Nov 1 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919154002) |
@@ -73,7 +72,6 @@
 | Oracle | Sales Development Rep Intern - Denver, CO- Summer 2027 | Denver, CO |  | Sep 18 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345689) |
 | Oracle | Sales Development Rep Intern - Nashville, TN- Summer 2027 | Nashville, TN |  | Sep 18 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345687) |
 | [Post Holdings](https://internscout.org/internships/at/post-holdings/) | Kroger Sales Co-Op Summer 2027 | Cincinnati, Ohio |  | Sep 18 | [Apply](https://jobs.postholdings.com/jobs/31985) |
-| [Post Holdings](https://internscout.org/internships/at/post-holdings/) | Corporate Sales Intern Summer 2027 | New Albany, Ohio |  | Sep 18 | [Apply](https://jobs.postholdings.com/jobs/31987) |
 | [Post Holdings](https://internscout.org/internships/at/post-holdings/) | Walmart Sales Co-Op Summer 2027 | Rogers, Arkansas |  | Sep 18 | [Apply](https://jobs.postholdings.com/jobs/31986) |
 | Newell Brands | Sales AI & Analytics Developer Intern | Huntersville, NC |  | Sep 17 | [Apply](https://jobs.newellbrands.com/job/Huntersville-2027-Newell-Brands-Intern-Sales-AI-&-Analytics-Developer-Intern-Nort/1431281200/?ats=successfactors) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Business Development Intern Summer 2027 | Toronto, CAN | \$52,000 | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7993738003) |
@@ -127,7 +125,6 @@
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Technical Sales Engineering Intern - IT Channel (Summer 2027) | Columbus, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278722) |
 | [StepStone Group](https://internscout.org/internships/at/stepstone-group/) | 2027 Venture Capital Business Development Summer Associate | Baltimore | \$105,000 / year | Aug 3 | [Apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8095092) |
 | [Jane Street](https://internscout.org/internships/at/jane-street/) | Sales and Trading Intern | New York, NY |  | Jul 24 | [Apply](https://go.vansh.nyc/47) |
-| AQR | 2027 Business Development Summer Analyst | Greenwich, CT |  | May 15 | [Apply](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) |
 | Octaura | Intern, Sales GTM | New York |  | Apr 2, 2025 | [Apply](https://job-boards.greenhouse.io/octaura/jobs/4687402007) |
 | [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Southeast - Sales Internship VA-FL-NC-SC (Comparion) - Summer 2027 | Fairfax, VA +6 |  | Nov 19, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261751/southeast---sales-internship-va-fl-nc-sc-%28comparion%29---summer-2027/job) |
 | [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Texas - Sales Internship (Comparion) - Summer 2027 | New Braunfels, TX +3 |  | Nov 19, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261752/texas---sales-internship-%28comparion%29---summer-2027/job) |

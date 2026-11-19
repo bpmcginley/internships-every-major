@@ -1,6 +1,6 @@
 # Business: Summer 2027 Internships
 
-40 open Summer 2027 business roles, newest first (all 40). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 73 business internships on InternScout](https://internscout.org/internships/business/)
+38 open Summer 2027 business roles, newest first (all 38). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 73 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -13,12 +13,11 @@
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 Summer College Intern - Business | Pascagoula, Mississippi |  | Nov 12 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-SUMMER-COLLEGE-INTERN-BUSINESS-Miss/1430057000/) |
 | [Securities and Exchange Commission](https://internscout.org/internships/at/securities-and-exchange-commission/) | Summer 2027 SEC Scholars Business Program- RO (Volunteer) | Los Angeles, California +9 |  | Nov 9 | [Apply](https://www.usajobs.gov:443/job/891900000) |
 | [Securities and Exchange Commission](https://internscout.org/internships/at/securities-and-exchange-commission/) | Summer 2027 SEC Scholars Business Program- HQ (Volunteer) | Washington, District of Columbia |  | Nov 9 | [Apply](https://www.usajobs.gov:443/job/891901100) |
-| [Paccar](https://internscout.org/internships/at/paccar/) | Warranty Business Intern | Denton, TX |  | Nov 2 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Warranty-Business-TX-76205-7864/1453566133/?ats=successfactors) |
 | JSX | Commercial Intern | Dallas, TX |  | Nov 2 | [Apply](https://jsx.wd503.myworkdayjobs.com/JSX_Careers/job/Dallas-Headquarters/Commercial-Intern_R-100729) |
 | [Tria Federal](https://internscout.org/internships/at/tria-federal/) | Summer Internship Program - Defense Health Agency (DHA) Uniform Business Office (UBO) | Arlington, VA |  | Oct 30 | [Apply](https://triafed.com/jobs/?gh_jid=5468461008) |
-| Chatham Financial | 2027 Business Intern- Centennial, CO | Denver | \$30 hour | Oct 30 | [Apply](https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Denver/XMLNAME-2027-Business-Intern--Centennial--CO_R-100345) |
-| Chatham Financial | 2027 Business Intern- Charlotte, NC | Charlotte |  | Oct 30 | [Apply](https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Charlotte/XMLNAME-2027-Business-Intern--Charlotte--NC_R-100344) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Business Administration (Long Beach) | Monterey Park, CA |  | Oct 30 | [Apply](https://apply.edisoncareers.com/job/Monterey-Park-2027-Summer-Internship-Business-Administration-%28Long-Beach%29-CA-91754/1446436100/) |
+| Chatham Financial | 2027 Business Intern- Centennial, CO | Denver | \$30 hour | Oct 29 | [Apply](https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Denver/XMLNAME-2027-Business-Intern--Centennial--CO_R-100345) |
+| Chatham Financial | 2027 Business Intern- Charlotte, NC | Charlotte |  | Oct 29 | [Apply](https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Charlotte/XMLNAME-2027-Business-Intern--Charlotte--NC_R-100344) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Business Administration (Montebello) | Monterey Park, CA |  | Oct 28 | [Apply](https://apply.edisoncareers.com/job/Monterey-Park-2027-Summer-Internship-Business-Administration-%28Montebello%29-CA-91754/1444804800/) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Business Administration (Whittier) | Santa Fe Springs, CA |  | Oct 28 | [Apply](https://apply.edisoncareers.com/job/Santa-Fe-Springs-2027-Summer-Internship-Business-Administration-%28Whittier%29-CA-90670/1425068100/) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - MBA (Rosemead) | Rosemead, CA |  | Oct 25 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-MBA-%28Rosemead%29-CA-91770-3714/1424643100/) |
@@ -39,7 +38,6 @@
 | Weatherford | USA - Weatherford Summer Business Internship | Houston, TX |  | Aug 12 | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/107149) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Business Valuation Internship | Portland, ME | \$30 per hour | Nov 19, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4018/summer-2027-business-valuation-internship/job) |
 | BNP Paribas | Business Management Intern – Summer 2027 | Montreal, Quebec |  | Nov 19 | [Apply](https://www.jobs.ca/bnp-paribas/jobs/business-management-intern-summer-2027-montreal-qc-7e42987b4889?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| Cambridge Associates | 2027 MBA Internship Program | Boston | \$150,000 | Nov 19 | [Apply](https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/Boston/XMLNAME-2027-MBA-Internship-Program_JR0000442-1) |
 | Anheuser-Busch | AB InBev MBA Summer 2027 Intern - PEOPLE | New York, New York | \$5K | Nov 18 | [Apply](https://abinbev.wd1.myworkdayjobs.com/USA/job/New-York-New-York/AB-InBev-MBA-Summer-2027-Intern---PEOPLE_30104488) |
 | [McKenney's Inc.](https://internscout.org/internships/at/mckenney-s-inc/) | Summer 2027 Business Analysis Co-op | Atlanta, GA |  | Nov 17 | [Apply](https://mckenneys.applytojob.com/apply/hn8EBxQ2Er/Summer-2027-Business-Analysis-Coop) |
 | [AAR](https://internscout.org/internships/at/aar/) | Product Line Intern - Business & General Aviation | Chicago, Illinois | \$22/hr | Nov 16 | [Apply](https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=18992) |

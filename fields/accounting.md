@@ -1,6 +1,6 @@
 # Accounting: Summer 2027 Internships
 
-72 open Summer 2027 accounting roles, newest first (all 72). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 158 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+77 open Summer 2027 accounting roles, newest first (all 77). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 169 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Summer 2027: Accounting Intern (May through August) | Needham, MA, United States |  | Nov 10 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727347006) |
 | [GCM Grosvenor](https://internscout.org/internships/at/gcm-grosvenor/) | 2027 Fund Accounting Summer Intern | Chicago, Illinois, United States | \$65,000 | Nov 6 | [Apply](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/7989281003) |
 | [ATC](https://internscout.org/internships/at/atc/) | Intern-Audit and Risk Management Summer 2027 | Pewaukee, WI |  | Nov 6 | [Apply](https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern-Audit-and-Risk-Management-Summer-2027_R0003313) |
+| Strategic Education | Intern - Accounting (Summer 2027) | VA Herndon (Corporate) | \$19.50 - \$29.75 | Nov 3 | [Apply](https://strayer.wd1.myworkdayjobs.com/SEI/job/VA-Herndon-Corporate/Accounting-Intern_R29225) |
 | [Grant Thornton](https://internscout.org/internships/at/grant-thornton/) | Risk Advisory Intern - Summer 2027 | Denver, CO | \$37 per hour | Nov 2 | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115684) |
 | [Grant Thornton](https://internscout.org/internships/at/grant-thornton/) | Audit IT Assurance Intern - Summer 2027 | Tulsa, OK |  | Nov 2 | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116239) |
 | [Trilogy Health Services](https://internscout.org/internships/at/trilogy-health-services/) | Accounting Intern | Louisville, Kentucky | Paid | Oct 30 | [Apply](https://jobs.trilogyhs.com/jobs/213299) |
@@ -68,6 +69,11 @@
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Audit (New York, NY) | New York, NY |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81248) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Audit (Pittsburgh, PA) | Pittsburgh, PA |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81262) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Internship - Technology Assurance | Portland, ME | \$30 per hour | Nov 19, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4021/summer-2027-internship---technology-assurance/job) |
+| [Cerity Partners](https://internscout.org/internships/at/cerity-partners/) | Summer 2027 Tax Intern | Cincinnati, OH |  | Nov 19 | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Cincinnati-OH/Summer-2027-Tax-Intern_R835-1) |
+| [The Andersons](https://internscout.org/internships/at/the-andersons/) | Accounting Intern (Summer 2027) | Maumee, OH |  | Nov 19 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Accounting-Intern--Summer-2027-_R12482) |
+| [Cerity Partners](https://internscout.org/internships/at/cerity-partners/) | Summer 2027 Tax Intern | Louisville, KY |  | Nov 19 | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/Summer-2027-Tax-Intern_R836-1) |
+| [The Andersons](https://internscout.org/internships/at/the-andersons/) | Tax Intern (Summer 2027) | Maumee, OH |  | Nov 19 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Tax-Intern--Summer-2027-_R12483) |
+| [Cerity Partners](https://internscout.org/internships/at/cerity-partners/) | Summer 2027 Tax Intern | Raleigh, NC |  | Nov 19 | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Raleigh-NC/Summer-2027-Tax-Intern_R976-1) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Plant Accounting | Denton, TX |  | Nov 18 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Plant-Accounting-TX-76205-7864/1458178633/) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Division Accounting | Denton, TX |  | Nov 13 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Division-Accounting-TX-76205-7864/1457311133/) |
 | [AAR](https://internscout.org/internships/at/aar/) | Accounting Intern | Chicago, Illinois | \$22/hr | Nov 12 | [Apply](https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=18991) |
@@ -75,7 +81,6 @@
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Accounting Intern | Kirkland, WA |  | Oct 20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Accounting-Intern-WA-98033/1449175533/) |
 | [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Design Assurance Engineer (Summer 2027) | Raleigh, NC |  | Oct 17 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Raleigh-NC/Intern---Design-Assurance-Engineer--Summer-2027-_R040418) |
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Accounting | Phoenix, AZ | Paid | Oct 13 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Accounting_R13756-1) |
-| [Shure](https://internscout.org/internships/at/shure/) | Accounting Intern | Niles, IL |  | Sep 18 | [Apply](https://careersus-shure.icims.com/jobs/4959/accounting-intern/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
