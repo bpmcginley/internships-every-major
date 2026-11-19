@@ -1,14 +1,14 @@
 # Insurance: Summer 2027 Internships
 
-29 open Summer 2027 insurance roles, newest first (all 29). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 47 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+30 open Summer 2027 insurance roles, newest first (all 30). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 49 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Selective Insurance](https://internscout.org/internships/at/selective-insurance/) | Underwriting Summer Internship – Allentown, PA (Hybrid) | Allentown, Pennsylvania | \$22.00 | Nov 18 | [Apply](https://jobs.selective.com/jobs/5683) |
 | [Selective Insurance](https://internscout.org/internships/at/selective-insurance/) | Underwriting Summer Internship – Scottsdale, AZ (Hybrid) | Scottsdale, Arizona | \$22.00 | Nov 17 | [Apply](https://jobs.selective.com/jobs/5759) |
-| State Farm | Summer 2027 Intern-P&C Underwriting-Knowledge Management | Bloomington, Illinois +3 | \$24/hour | Nov 12 | [Apply](https://jobs.statefarm.com/jobs/46442) |
-| State Farm | Summer 2027 Intern-P&C Underwriting-Underwriter | Bloomington, Illinois +1 | \$24/hour | Nov 12 | [Apply](https://jobs.statefarm.com/jobs/46443) |
-| State Farm | Summer 2027 Intern-P&C Underwriting-Learning Analyst | Bloomington, Illinois +1 | \$24/hour | Nov 12 | [Apply](https://jobs.statefarm.com/jobs/46444) |
+| State Farm | Summer 2027 Intern-Property and Casualty Underwriting-Learning Analyst | Bloomington, Illinois +1 | \$24/hour | Nov 12 | [Apply](https://jobs.statefarm.com/jobs/46444) |
+| State Farm | Summer 2027 Intern-Property and Casualty Underwriting-Underwriter | Bloomington, Illinois +1 | \$24/hour | Nov 12 | [Apply](https://jobs.statefarm.com/jobs/46443) |
+| State Farm | Summer 2027 Intern-Property and Casualty Underwriting-Knowledge Management | Bloomington, Illinois +3 | \$24/hour | Nov 12 | [Apply](https://jobs.statefarm.com/jobs/46442) |
 | [Zurich Insurance](https://internscout.org/internships/at/zurich-insurance/) | Underwriting Internship - Summer 2027 - Dallas | Addison, TX | \$21.00 - \$23.00 | Nov 12 | [Apply](https://www.careers.zurich.com/job/Addison-Underwriting-Internship-Summer-2027-Dallas-TX/1372139657/) |
 | [Zurich Insurance](https://internscout.org/internships/at/zurich-insurance/) | Underwriting Internship - Summer 2027 - Denver | Denver, CO | \$21.00 - \$23.00 | Nov 12 | [Apply](https://www.careers.zurich.com/job/Denver-Underwriting-Internship-Summer-2027-Denver-CO-80002/1372139757/) |
 | [Zurich Insurance](https://internscout.org/internships/at/zurich-insurance/) | Underwriting Internship - Summer 2027 - Boston | Boston, MA | \$21.00 - \$23.00 | Nov 12 | [Apply](https://www.careers.zurich.com/job/Boston-Underwriting-Internship-Summer-2027-Boston-MA-02108/1372139457/) |
@@ -32,7 +32,8 @@
 | [National Life](https://internscout.org/internships/at/national-life/) | Actuarial Intern - Summer 2027 | Addison, TX +1 | Paid | Aug 19 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4376293009) |
 | GuideWell Mutual | 2027 Actuarial Summer Internship | Jacksonville, FL |  | Aug 18 | [Apply](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41855) |
 | Jencap | 2027 Summer Insurance Internship | Atlanta, GA +3 |  | Jul 29 | [Apply](https://job-boards.greenhouse.io/jencapinc/jobs/5198365007) |
-| [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Global Risk Solutions Claims Internship - Summer 2027 | Plano, TX +5 |  | Nov 18, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261686/global-risk-solutions-claims-internship---summer-2027/job) |
+| [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Global Risk Solutions Claims Internship - Summer 2027 | Plano, TX +5 |  | Nov 19, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261686/global-risk-solutions-claims-internship---summer-2027/job) |
+| National Bank of Canada | Summer 2027 Actuarial Internship | Montreal, Quebec |  | Nov 19 | [Apply](https://emplois.ca.indeed.com/viewjob?jk=741087d72c213619&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

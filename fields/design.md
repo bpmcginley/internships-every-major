@@ -1,9 +1,10 @@
 # Design: Summer 2027 Internships
 
-59 open Summer 2027 design roles, newest first (all 59). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 140 design internships on InternScout](https://internscout.org/internships/design/)
+60 open Summer 2027 design roles, newest first (all 60). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 143 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Sigma Computing](https://internscout.org/internships/at/sigma-computing/) | Product Design Graduate Intern (Summer 2027) | San Francisco, CA | \$50.00 per hour | Nov 18 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8208914003) |
 | [Zoox](https://internscout.org/internships/at/zoox/) | UX Designer Intern \[Summer 2027\] | Foster City, CA |  | Nov 17 | [Apply](https://jobs.lever.co/zoox/6a2a0d85-f466-4177-8236-eac6e2df2e93/apply) |
 | [Garmin](https://internscout.org/internships/at/garmin/) | Product Designer Intern | Olathe, Kansas |  | Nov 17 | [Apply](https://careers.garmin.com/jobs/22511) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Summer 2027: HW UX/UI Design Intern (May through August) | Needham, MA, United States |  | Nov 16 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721309006) |
@@ -58,10 +59,10 @@
 | [Mortenson](https://internscout.org/internships/at/mortenson/) | Graphic Design Intern | MN | Paid | Aug 10 | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23351) |
 | Virtu | 2027 Internship - Frontend Engineer (UI) | New York +1 | \$5,000 - \$5,800 week | Jul 29 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002) |
 | [Jump Trading Group](https://internscout.org/internships/at/jump-trading/) | Campus UI Software Engineer Intern | Chicago, IL |  | Jul 9 | [Apply](https://go.vansh.nyc/3m) |
-| [IDEMIA](https://internscout.org/internships/at/idemia/) | Graphic Design Internship - Summer 2027 | Reston, VA | Paid | Nov 18, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8668/graphic-design-internship---summer-2027/job) |
-| [Shure](https://internscout.org/internships/at/shure/) | User Experience Design (UX) Intern | Niles, IL | \$23-\$43 per hour | Nov 18, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5003/user-experience-design-%28ux%29-intern/job) |
-| [Shure](https://internscout.org/internships/at/shure/) | Industrial Design Intern | Niles, IL | \$23-\$43 per hour | Nov 18, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4991/industrial-design-intern/job) |
-| [Shure](https://internscout.org/internships/at/shure/) | Design Research Intern | Niles, IL | \$23-\$43 per hour | Nov 18, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4983/design-research-intern/job) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Graphic Design Internship - Summer 2027 | Reston, VA | Paid | Nov 19, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8668/graphic-design-internship---summer-2027/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | User Experience Design (UX) Intern | Niles, IL | \$23-\$43 per hour | Nov 19, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5003/user-experience-design-%28ux%29-intern/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Industrial Design Intern | Niles, IL | \$23-\$43 per hour | Nov 19, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4991/industrial-design-intern/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Design Research Intern | Niles, IL | \$23-\$43 per hour | Nov 19, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4983/design-research-intern/job) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Industrial Designer | Denton, TX |  | Nov 4 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Industrial-Designer-TX-76205-7864/1454438233/) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

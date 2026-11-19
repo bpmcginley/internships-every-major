@@ -1,6 +1,6 @@
 # Urban Planning: Summer 2027 Internships
 
-34 open Summer 2027 urban planning roles, newest first (all 34). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 62 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+34 open Summer 2027 urban planning roles, newest first (all 34). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 62 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | HNTB | GIS Intern | Nashville, TN |  | Sep 11 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Nashville-TN-City-Center/GIS-Intern---Summer-2027_R-31562) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors or Masters - Transportation Planning Intern (Summer 2027!) | Orlando, Florida | \$38.01 | Sep 9 | [Apply](https://careers.cdmsmith.com/jobs/4439) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Masters - Transportation Planning Intern (Summer 2027!) | Indianapolis, Indiana | \$36.20 | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/4371) |
-| [Southern Star Central Gas Pipeline](https://internscout.org/internships/at/southern-star-central-gas-pipeline/) | Intern, GIS Analyst | Owensboro, KY |  | Nov 18, 2024 | [Apply](https://careers-sscgp.icims.com/jobs/3036/intern%2c-gis-analyst/job) |
+| [Southern Star Central Gas Pipeline](https://internscout.org/internships/at/southern-star-central-gas-pipeline/) | Intern, GIS Analyst | Owensboro, KY |  | Nov 19, 2024 | [Apply](https://careers-sscgp.icims.com/jobs/3036/intern%2c-gis-analyst/job) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Planning Intern \| Fort Lauderdale, FL | Fort Lauderdale, FL | Paid | Sep 18 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Fort-Lauderdale-FL/Planning-Intern---Fort-Lauderdale--FL_R-16509) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

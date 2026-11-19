@@ -1,11 +1,11 @@
 # Aerospace Engineering: Summer 2027 Internships
 
-28 open Summer 2027 aerospace engineering roles, newest first (all 28). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 49 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
+28 open Summer 2027 aerospace engineering roles, newest first (all 28). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 49 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | Astrion | Aerospace Engineering Internship 2027 | Columbia, Maryland | \$30.00 | Nov 18 | [Apply](https://careers.astrion.us/jobs/25746) |
-| [Koch Industries](https://internscout.org/internships/at/koch-industries/) | Product Management Intern - Aerospace & Defense Solutions | Georgetown, TX |  | Nov 13 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/197821) |
+| Koch Industries | Product Management Intern - Aerospace & Defense Solutions | Georgetown, TX |  | Nov 13 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/197821) |
 | [Reliable Robotics](https://internscout.org/internships/at/reliable-robotics/) | Flight Test Integration Engineer Intern (Summer 2027) | Mountain View, CA +1 |  | Nov 13 | [Apply](https://jobs.ashbyhq.com/reliable-robotics/1d020651-71bb-4e47-baa6-2286dc780d96/application) |
 | [Reliable Robotics](https://internscout.org/internships/at/reliable-robotics/) | Avionics Intern (Summer 2027) | Mountain View, CA +1 |  | Nov 13 | [Apply](https://jobs.ashbyhq.com/reliable-robotics/f4073938-ccdb-46fb-aa65-6715981d27ee/application) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern Eng - Structural & Aerospace Engineering | Pascagoula, Mississippi |  | Nov 12 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-ENG-STRUCTURAL-&-AEROSPACE-ENGINEERING-Miss/1430053500/) |

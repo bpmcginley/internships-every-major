@@ -1,9 +1,10 @@
 # Cybersecurity: Summer 2027 Internships
 
-188 open Summer 2027 cybersecurity roles, newest first (all 188). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 291 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+187 open Summer 2027 cybersecurity roles, newest first (all 187). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 291 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Apple Bank](https://internscout.org/internships/at/apple-bank/) | 2027 Summer Intern- Information Security | New York, NY | \$24/hr | Nov 19 | [Apply](https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern--Information-Security_2026-1416) |
 | [Microsoft](https://internscout.org/internships/at/microsoft/) | Research Intern, Firmware Security | Redmond, WA |  | Nov 17 | [Apply](https://go.vansh.nyc/1BR) |
 | [CACI](https://internscout.org/internships/at/caci/) | Cybersecurity Intern | Remote +2 |  | Nov 17 | [Apply](https://go.vansh.nyc/1Cd) |
 | Fiserv | Technology Intern, Cybersecurity | Berkeley Heights, NJ +1 |  | Nov 17 | [Apply](https://go.vansh.nyc/1AS) |
@@ -34,7 +35,6 @@
 | [SimVentions](https://internscout.org/internships/at/simventions/) | Cybersecurity Intern | Fredericksburg, VA |  | Nov 11 | [Apply](https://go.vansh.nyc/1uu) |
 | Welltower | Cyber Security Intern | Frisco, TX |  | Nov 11 | [Apply](https://go.vansh.nyc/1uw) |
 | ISO New England | Cyber Adversary Defense Optimization Intern | Holyoke, MA |  | Nov 11 | [Apply](https://go.vansh.nyc/1wY) |
-| Daimler Truck | Governance, Risk, and Compliance (GRC) Analyst Intern, Cybersecurity | Detroit, MI |  | Nov 11 | [Apply](https://go.vansh.nyc/1uo) |
 | [Grant Thornton](https://internscout.org/internships/at/grant-thornton/) | Cybersecurity and Privacy Intern - Summer 2027 | New York, NY | \$40 per hour | Nov 11 | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115637) |
 | Global Payments | CyberSecurity Intern | Columbus, GA |  | Nov 10 | [Apply](https://go.vansh.nyc/1s5) |
 | [Minitab](https://internscout.org/internships/at/minitab/) | Cybersecurity Intern (Summer 2027) | State College, Pennsylvania, United States +1 |  | Nov 10 | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8200356003) |
@@ -61,7 +61,7 @@
 | United Parcel Service (UPS) | Information Security Intern | United States |  | Nov 4 | [Apply](https://go.vansh.nyc/1g5) |
 | [LLNL](https://internscout.org/internships/at/llnl/) | Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure | Livermore, CA |  | Nov 4 | [Apply](https://go.vansh.nyc/1fR) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Cybersecurity Intern | Pittsburgh, PA |  | Nov 4 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119551) |
-| EMC Insurance | Cybersecurity Intern | United States |  | Nov 3 | [Apply](https://go.vansh.nyc/1ei) |
+| [EMC Insurance](https://internscout.org/internships/at/emc-insurance/) | Cybersecurity Intern | United States |  | Nov 3 | [Apply](https://go.vansh.nyc/1ei) |
 | [Two Six Technologies](https://internscout.org/internships/at/two-six-technologies/) | Security Operations Intern | Arlington, VA |  | Nov 3 | [Apply](https://go.vansh.nyc/1dI) |
 | [KnowBe4](https://internscout.org/internships/at/knowbe4/) | Security Awareness Content Specialist Summer Internship (Hybrid) | Clearwater, Florida | Paid | Nov 3 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8928056002) |
 | FHLBank Chicago | Cybersecurity Intern | Chicago, IL |  | Nov 3 | [Apply](https://go.vansh.nyc/1cN) |
@@ -98,7 +98,6 @@
 | [Nintendo](https://internscout.org/internships/at/nintendo/) | Intern - Software Engineer, Platform Security (NTD) | Redmond, WA | Paid | Oct 28 | [Apply](https://careers.nintendo.com/?gh_jid=4469778009) |
 | Filevine | Security Specialist Intern | Salt Lake City, UT |  | Oct 27 | [Apply](https://go.vansh.nyc/XI) |
 | Papa John's | Cyber Security Intern | Atlanta, GA |  | Oct 27 | [Apply](https://go.vansh.nyc/W8) |
-| Apple Bank | Information Security Intern | New York, NY |  | Oct 27 | [Apply](https://go.vansh.nyc/VV) |
 | Bracco | Product Security Engineering Intern | Eden Prairie, MN |  | Oct 27 | [Apply](https://go.vansh.nyc/VO) |
 | [American Family Insurance Group](https://internscout.org/internships/at/american-family-insurance-group/) | Cybersecurity Intern | Madison, WI +1 |  | Oct 27 | [Apply](https://go.vansh.nyc/VN) |
 | Ericsson | Cybersecurity Analyst Intern | Plano, TX |  | Oct 27 | [Apply](https://go.vansh.nyc/Vu) |
@@ -190,7 +189,7 @@
 | [Microsoft](https://internscout.org/internships/at/microsoft/) | Software Engineer Intern, Security & Identity | Cambridge, MA +1 |  | Aug 4 | [Apply](https://go.vansh.nyc/5J) |
 | [Appian](https://internscout.org/internships/at/appian/) | Information Security Engineer Intern | McLean, Virginia +1 | \$50.00 per hour | Jul 27 | [Apply](https://job-boards.greenhouse.io/appian/jobs/8088496) |
 | [Jane Street](https://internscout.org/internships/at/jane-street/) | Cybersecurity Analyst Intern | New York, NY |  | Jul 24 | [Apply](https://go.vansh.nyc/41) |
-| [Shure](https://internscout.org/internships/at/shure/) | Information Security Governance, Risk & Compliance Intern | Niles, IL | \$23-\$43 per hour | Nov 18, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Information Security Governance, Risk & Compliance Intern | Niles, IL | \$23-\$43 per hour | Nov 19, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job) |
 | [Palantir Technologies](https://internscout.org/internships/at/palantir-technologies/) | Information Security Engineer Intern | New York, NY |  | Aug 3, 2022 | [Apply](https://go.vansh.nyc/OK) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

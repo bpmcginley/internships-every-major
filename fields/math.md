@@ -1,6 +1,6 @@
 # Math: Summer 2027 Internships
 
-10 open Summer 2027 math roles, newest first (all 10). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 24 math internships on InternScout](https://internscout.org/internships/math/)
+11 open Summer 2027 math roles, newest first (all 11). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 25 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Edison International](https://internscout.org/internships/at/edison-international/) | Data Analytics Intern - Data Science - Applied Math | Pomona, CA +1 |  | Sep 1 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-%28PomonaRosemead%29-CA-91770/1425207700/?ats=successfactors) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Actuarial Intern - Summer 2027 | Addison, TX +1 | Paid | Aug 19 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4376293009) |
 | GuideWell Mutual | 2027 Actuarial Summer Internship | Jacksonville, FL |  | Aug 18 | [Apply](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41855) |
+| National Bank of Canada | Summer 2027 Actuarial Internship | Montreal, Quebec |  | Nov 19 | [Apply](https://emplois.ca.indeed.com/viewjob?jk=741087d72c213619&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Data Analytics/Science/Applied Math - (Pomona/Rosemead) | Rosemead, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-%28PomonaRosemead%29-CA-91770/1425208900/) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Data Analytics/Science/Applied Math- Santa Ana/Westminster/Irvine/Fullerton | Westminster, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/) |
 

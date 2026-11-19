@@ -1,14 +1,14 @@
 # Retail: Summer 2027 Internships
 
-88 open Summer 2027 retail roles, newest first (all 88). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 122 retail internships on InternScout](https://internscout.org/internships/retail/)
+88 open Summer 2027 retail roles, newest first (all 88). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 122 retail internships on InternScout](https://internscout.org/internships/retail/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Apple Bank](https://internscout.org/internships/at/apple-bank/) | 2027 Summer Intern - Retail Banking | New York, NY |  | Nov 19 | [Apply](https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2026-Summer-Intern----Retail-Banking_2026-1415) |
 | Costco | Software Engineer Intern, IT Retail Media | Issaquah, WA |  | Nov 2 | [Apply](https://go.vansh.nyc/1bB) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern, Global E-Commerce Search | Seattle, WA |  | Nov 1 | [Apply](https://go.vansh.nyc/18r) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern, Recommendation Global E-Commerce | Seattle, WA |  | Nov 1 | [Apply](https://go.vansh.nyc/18l) |
 | Tapestry | E-Commerce Intern - E-Commerce | NYC |  | Oct 28 | [Apply](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/MBA-Intern--E-Commerce_JR20545) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Merchandising | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Merchandising-MD-21230/1434378900/) |
 | Inspire Brands | Digital Experience Performance Intern | Atlanta, GA |  | Oct 27 | [Apply](https://inspirebrands.wd5.myworkdayjobs.com/InspireCareers/job/Atlanta-Support-Center/Digital-Experience-Performance-Intern---Summer-2027_JR42022) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Design (Apparel and Footwear) | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Design-%28Apparel-and-Footwear%29-MD-21230/1434389000/) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Development Engineer Intern, Global E-Commerce Quality Platform & AI Test Automation | San Jose, CA +1 |  | Oct 18 | [Apply](https://go.vansh.nyc/RP) |

@@ -1,6 +1,6 @@
 # Agriculture: Summer 2027 Internships
 
-8 open Summer 2027 agriculture roles, newest first (all 8). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 39 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
+7 open Summer 2027 agriculture roles, newest first (all 7). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 38 agriculture internships on InternScout](https://internscout.org/internships/agriculture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,7 +11,6 @@
 | [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Forestry Field Office Internship – Emerging Talent Summer Experience Program | Junction City, OR |  | Sep 21 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792106) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Food Safety & Quality Intern - Summer 2027 - Campus Recruiting (Multiple Locations) | Austin, MN +11 |  | Sep 4 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35738) |
 | [Ruekert & Mielke](https://internscout.org/internships/at/ruekert-mielke/) | Agricultural Engineering Student Intern (Summer 2027) | Madison, Wisconsin |  | Sep 1 | [Apply](https://ruekertmielke.bamboohr.com/careers/310) |
-| The Mosaic Company | Mosaic Biosciences Agronomy Co-Op/Intern - Summer 2027 33012 | Hialeah, FL | \$19.20/hr | Nov 17 | [Apply](https://www.jobilize.com/job/us-fl-hialeah-mosaic-biosciences-agronomy-co-op-intern-summer-2027?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

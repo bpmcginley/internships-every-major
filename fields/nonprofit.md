@@ -1,9 +1,12 @@
 # Nonprofit: Summer 2027 Internships
 
-21 open Summer 2027 nonprofit roles, newest first (all 21). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 53 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
+24 open Summer 2027 nonprofit roles, newest first (all 24). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 56 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Jackson | Corporate Philanthropy Intern Nashville - Starting Summer 2027 | Nashville, TN |  | Nov 19 | [Apply](https://jackson.wd1.myworkdayjobs.com/Jackson_Careers/job/Nashville-TN/Corporate-Philanthropy-Intern-Nashville---Starting-Summer-2027_REQ-04032-1) |
+| Jackson | Corporate Philanthropy Intern - Lansing - Summer 2027 | Lansing, MI |  | Nov 19 | [Apply](https://jackson.wd1.myworkdayjobs.com/Jackson_Careers/job/Lansing-MI/Corporate-Philanthropy-Intern---Lansing---Summer-2027_REQ-04033-1) |
+| [Southern Poverty Law Center](https://internscout.org/internships/at/southern-poverty-law-center/) | Intern, Hate Prevention (Summer 2027) | Remote | \$18.40 per hour | Nov 18 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8950825002) |
 | [Southern Poverty Law Center](https://internscout.org/internships/at/southern-poverty-law-center/) | Intern, Digital Properties and Innovation - Digital Media (Summer 2027) | Atlanta, GA +4 | \$18.40 per hour | Nov 17 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8947982002) |
 | [Southern Poverty Law Center](https://internscout.org/internships/at/southern-poverty-law-center/) | Intern, Political Campaigns (Summer 2027) | Washington, DC | \$18.40 per hour | Nov 17 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8943627002) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (Wisconsin Health Plan) – Summer 2027 (Undergraduate) | WI |  | Nov 17 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040147) |

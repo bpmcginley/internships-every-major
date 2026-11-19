@@ -1,9 +1,10 @@
 # Architecture: Summer 2027 Internships
 
-37 open Summer 2027 architecture roles, newest first (all 37). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 78 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+38 open Summer 2027 architecture roles, newest first (all 38). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 84 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Samsung Semiconductor](https://internscout.org/internships/at/samsung-semiconductor/) | LLM Inference Acceleration Architecture Intern, Distributed Memory-Centric Accelerators | San Jose, CA |  | Nov 18 | [Apply](https://go.vansh.nyc/1Cw) |
 | [Samsung Semiconductor](https://internscout.org/internships/at/samsung-semiconductor/) | Architecture Research Engineer Intern, MoE Placement for Serving at Scale | San Jose, CA |  | Nov 18 | [Apply](https://go.vansh.nyc/1Cm) |
 | [Haskell](https://internscout.org/internships/at/haskell/) | Summer 2027 Architecture Intern | Jacksonville, Florida |  | Nov 16 | [Apply](https://careers.haskell.com/jobs/7445) |
 | [Micron Technology](https://internscout.org/internships/at/micron-technology/) | Enterprise SSD Architecture Intern | Boise, ID |  | Nov 13 | [Apply](https://go.vansh.nyc/1yL) |

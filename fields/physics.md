@@ -1,6 +1,6 @@
 # Physics: Summer 2027 Internships
 
-22 open Summer 2027 physics roles, newest first (all 22). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 65 physics internships on InternScout](https://internscout.org/internships/physics/)
+21 open Summer 2027 physics roles, newest first (all 21). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 63 physics internships on InternScout](https://internscout.org/internships/physics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -21,7 +21,6 @@
 | [Corning](https://internscout.org/internships/at/corning/) | Science & Technology Intern - Optical Modeling - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Nov 2 | [Apply](https://corningjobs.corning.com/job/Corning-Science-&-Technology-Intern-Optical-Modeling-Summer-2027-NY-14831/1446852900/) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Device Engineering Intern - Silicon Photonics | Malta, NY |  | Oct 30 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604263) |
 | [Commonwealth Fusion Systems](https://internscout.org/internships/at/commonwealth-fusion-systems/) | Intern - Plasma Physics - Summer 2027 | Devens, MA | Paid | Oct 27 | [Apply](https://jobs.lever.co/cfsenergy/32987ab7-59ed-4364-a012-91cbece8877a/apply) |
-| [Lumentum](https://internscout.org/internships/at/lumentum/) | Optical Algorithms and Analytics Engineering Co-op | Ottawa, ON |  | Oct 19 | [Apply](https://go.vansh.nyc/dy) |
 | [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Firmware Engineer Intern, Optical | San Jose, CA |  | Oct 6 | [Apply](https://go.vansh.nyc/Fn) |
 | [Xcimer Energy](https://internscout.org/internships/at/xcimer-energy/) | Summer 2027 Internship - Physics | Denver, CO |  | Sep 11 | [Apply](https://jobs.lever.co/xcimer/27e40b7a-0008-42e6-b43f-200d727f9b49/apply) |
 | [Xcimer Energy](https://internscout.org/internships/at/xcimer-energy/) | Summer 2027 Internship - Optical Engineering | Denver, CO |  | Sep 11 | [Apply](https://jobs.lever.co/xcimer/89ffbeda-ebea-4539-9676-c6441751b95a/apply) |

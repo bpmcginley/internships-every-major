@@ -1,9 +1,10 @@
 # Economics: Summer 2027 Internships
 
-13 open Summer 2027 economics roles, newest first (all 13). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 22 economics internships on InternScout](https://internscout.org/internships/economics/)
+14 open Summer 2027 economics roles, newest first (all 14). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 23 economics internships on InternScout](https://internscout.org/internships/economics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Integra FEC](https://internscout.org/internships/at/integra-fec/) | PhD Research Economist (Summer 2027) | Austin, Texas |  | Nov 18 | [Apply](https://job-boards.greenhouse.io/integra/jobs/5487092008) |
 | [SAS](https://internscout.org/internships/at/sas/) | Econometrics Intern | Cary, NC |  | Nov 17 | [Apply](https://careers-sas.icims.com/jobs/42755/job?mobile=true&needsRedirect=false) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | PhD Economics Intern - Finance, Macroeconomics, And Forecasting | Seattle, WA +3 |  | Oct 27 | [Apply](https://amazon.jobs/en/jobs/10590600/phd-economics-intern-finance-macroeconomics-and-forecasting-summer-2027) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Community and Economic Development Intern | Atlanta, GA |  | Oct 26 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Community-and-Economic-Development-Intern_R-0000033895) |

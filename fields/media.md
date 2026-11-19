@@ -1,9 +1,10 @@
 # Media: Summer 2027 Internships
 
-34 open Summer 2027 media roles, newest first (all 34). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 110 media internships on InternScout](https://internscout.org/internships/media/)
+35 open Summer 2027 media roles, newest first (all 35). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 110 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Formlabs](https://internscout.org/internships/at/formlabs/) | Video Content Creator Intern (Summer 2027) | Somerville, MA |  | Nov 18 | [Apply](https://careers.formlabs.com/job/8395549/apply/?gh_jid=8395549) |
 | [Publicis Groupe](https://internscout.org/internships/at/publicis-groupe/) | Publicis Media Summer 2027 Internship - Remote | New York, New York | \$17.00 | Nov 16 | [Apply](https://careers.publicisgroupe.com/jobs/182838) |
 | [Publicis Groupe](https://internscout.org/internships/at/publicis-groupe/) | Publicis Media Summer 2027 Internship - Chicago | Chicago, Illinois | \$17.00 | Nov 16 | [Apply](https://careers.publicisgroupe.com/jobs/182300) |
 | [Publicis Groupe](https://internscout.org/internships/at/publicis-groupe/) | Publicis Media Summer 2027 Internship - Los Angeles | El Segundo, California | \$17.00 | Nov 16 | [Apply](https://careers.publicisgroupe.com/jobs/182299) |

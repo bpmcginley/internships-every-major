@@ -1,6 +1,6 @@
 # Accounting: Summer 2027 Internships
 
-67 open Summer 2027 accounting roles, newest first (all 67). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 150 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+72 open Summer 2027 accounting roles, newest first (all 72). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 158 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -15,11 +15,13 @@
 | [HF Sinclair](https://internscout.org/internships/at/hf-sinclair/) | Accounting Intern | Dallas, TX |  | Nov 12 | [Apply](https://careers.hfsinclair.com/job/Dallas-Accounting-Intern-TX-75219/1430072000/) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Summer 2027: Accounting Intern (May through August) | Needham, MA, United States |  | Nov 10 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727347006) |
 | [GCM Grosvenor](https://internscout.org/internships/at/gcm-grosvenor/) | 2027 Fund Accounting Summer Intern | Chicago, Illinois, United States | \$65,000 | Nov 6 | [Apply](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/7989281003) |
+| [ATC](https://internscout.org/internships/at/atc/) | Intern-Audit and Risk Management Summer 2027 | Pewaukee, WI |  | Nov 6 | [Apply](https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern-Audit-and-Risk-Management-Summer-2027_R0003313) |
 | [Grant Thornton](https://internscout.org/internships/at/grant-thornton/) | Risk Advisory Intern - Summer 2027 | Denver, CO | \$37 per hour | Nov 2 | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115684) |
 | [Grant Thornton](https://internscout.org/internships/at/grant-thornton/) | Audit IT Assurance Intern - Summer 2027 | Tulsa, OK |  | Nov 2 | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116239) |
 | [Trilogy Health Services](https://internscout.org/internships/at/trilogy-health-services/) | Accounting Intern | Louisville, Kentucky | Paid | Oct 30 | [Apply](https://jobs.trilogyhs.com/jobs/213299) |
 | [Trilogy Health Services](https://internscout.org/internships/at/trilogy-health-services/) | Internal Audit - Intern | Louisville, Kentucky |  | Oct 30 | [Apply](https://jobs.trilogyhs.com/jobs/213295) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Business Administration - Accounting/Finance (Pomona/Rosemead) | Rosemead, CA |  | Oct 29 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Business-Administration-AccountingFinance-%28PomonaRosemead%29-CA-91770-3714/1425449300/) |
+| [Itron](https://internscout.org/internships/at/itron/) | Intern - Tax (Summer 2027) | United States of America, Washington, Liberty Lake | \$15.87 - \$44.23 per hour | Oct 28 | [Apply](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Tax--Summer-2027-_JR102951-1) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern – Enterprise Controls Assurance (Raleigh, NC) | Raleigh, North Carolina |  | Oct 27 | [Apply](https://firstcitizens.jibeapply.com/jobs/36259) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Finance and Accounting | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Finance-and-Accounting-MD-21230/1434330100/) |
 | Federal Home Loan Bank of Dallas | Accounting Tech Solutions Intern | Irving, TX |  | Oct 26 | [Apply](https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Accounting-Tech-Solutions-Intern_REQ-444) |
@@ -60,9 +62,12 @@
 | [CSX](https://internscout.org/internships/at/csx/) | Accounting Internship - Summer 2027 (Paid) | Jacksonville, FL |  | Aug 28 | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54819) |
 | [CSX](https://internscout.org/internships/at/csx/) | Internal Audit Internship – Summer 2027 (IT Audit, Internal Controls/SOX) | Jacksonville, FL | Paid | Aug 28 | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54815) |
 | [CSX](https://internscout.org/internships/at/csx/) | Tax Internship - Summer 2027 (Paid) | Jacksonville, FL |  | Aug 27 | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54821) |
+| [Andersen](https://internscout.org/internships/at/andersen/) | Intern – Tax Services – Summer 2027 – (Hybrid) | Costa Mesa, California | \$36.00 to \$42.00 per hour | Aug 24 | [Apply](https://careers.andersen.com/jobs/7020) |
+| [Andersen](https://internscout.org/internships/at/andersen/) | Intern – Private Accounting Solutions – Summer 2027 – (Hybrid) | Los Angeles, California | \$36.00 to \$45.00 per hour | Aug 24 | [Apply](https://careers.andersen.com/jobs/7571) |
+| [Andersen](https://internscout.org/internships/at/andersen/) | Intern – Tax Services – Summer 2027 – (Hybrid) | Los Angeles, California | \$36.00 to \$45.00 per hour | Aug 24 | [Apply](https://careers.andersen.com/jobs/7255) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Audit (New York, NY) | New York, NY |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81248) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Audit (Pittsburgh, PA) | Pittsburgh, PA |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81262) |
-| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Internship - Technology Assurance | Portland, ME | \$30 per hour | Nov 18, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4021/summer-2027-internship---technology-assurance/job) |
+| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Internship - Technology Assurance | Portland, ME | \$30 per hour | Nov 19, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4021/summer-2027-internship---technology-assurance/job) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Plant Accounting | Denton, TX |  | Nov 18 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Plant-Accounting-TX-76205-7864/1458178633/) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Division Accounting | Denton, TX |  | Nov 13 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Division-Accounting-TX-76205-7864/1457311133/) |
 | [AAR](https://internscout.org/internships/at/aar/) | Accounting Intern | Chicago, Illinois | \$22/hr | Nov 12 | [Apply](https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=18991) |

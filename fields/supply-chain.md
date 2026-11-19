@@ -1,6 +1,6 @@
 # Supply Chain: Summer 2027 Internships
 
-79 open Summer 2027 supply chain roles, newest first (all 79). **Updated November 18, 2026.** [Back to every major](../README.md) · [See all 186 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
+77 open Summer 2027 supply chain roles, newest first (all 77). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 185 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -47,8 +47,6 @@
 | [Saronic](https://internscout.org/internships/at/saronic/) | Supply Chain Intern (Summer 2027) | Austin, TX +3 |  | Sep 26 | [Apply](https://jobs.ashbyhq.com/saronic/fe4b7026-42a9-4774-b223-fff882a39bc8/application) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Supply Chain Internship, Transportation - New York NY | New York, NY |  | Sep 25 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92405) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Supply Chain Internship, Strategy - New York NY | New York, NY |  | Sep 25 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92404) |
-| [International](https://internscout.org/internships/at/international/) | Procurement / Supply Chain Intern | Lisle, Illinois | \$27–\$32 per hour | Sep 23 | [Apply](https://careers.international.com/jobs/59945) |
-| [International](https://internscout.org/internships/at/international/) | Supplier Quality Intern | Lisle, Illinois | \$27–\$32 per hour | Sep 23 | [Apply](https://careers.international.com/jobs/59946) |
 | [AutoZone](https://internscout.org/internships/at/autozone/) | AutoZone 2027 Summer Internship – Supply Chain | Memphis, TN |  | Sep 23 | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155449) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Supply Chain Intern Summer 2027 | Long Beach, CA |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984568003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Supply Chain Intern Summer 2027 | Middle River, MD |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990063003) |
@@ -69,9 +67,10 @@
 | Stryten | 2027 Summer Intern - Logistics | Alpharetta, Georgia | Paid | Aug 30 | [Apply](https://jobs.stryten.com/jobs/5810) |
 | [CSX](https://internscout.org/internships/at/csx/) | Procurement & Supply Chain Internship - Summer 2027 (Paid) | Jacksonville, FL |  | Aug 27 | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54820) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD | Seattle, WA |  | Aug 20 | [Apply](https://lifeattiktok.com/search/7675845333947812149) |
-| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 18, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
-| [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Supply Chain) | St Petersburg, FL |  | Nov 18, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37507/2027-summer-intern-%28supply-chain%29/job) |
-| [Shure](https://internscout.org/internships/at/shure/) | Global Logistics Intern | Niles, IL | \$23-\$43 per hour | Nov 18, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4987/global-logistics-intern/job) |
+| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 19, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
+| [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Supply Chain) | St Petersburg, FL |  | Nov 19, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37507/2027-summer-intern-%28supply-chain%29/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Global Logistics Intern | Niles, IL | \$23-\$43 per hour | Nov 19, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4987/global-logistics-intern/job) |
+| [ATC](https://internscout.org/internships/at/atc/) | Intern-Supply Chain Summer 2027 | Pewaukee, WI +1 | \$23-27/hr | Nov 19 | [Apply](https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern-Supply-Chain-Summer-2027_R0003303) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Summer 2027 Supply Chain Planning Co-Op | Red Oak, Texas | \$23.00-\$29.50 per hour | Nov 12 | [Apply](https://se.jibeapply.com/jobs/140828) |
 | [AAR](https://internscout.org/internships/at/aar/) | Procurement Intern | Chicago, Illinois | \$22/hr | Nov 12 | [Apply](https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=18988) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Supply Chain Intern | Seneca, South Carolina | \$23 to \$27.50 per hour | Nov 6 | [Apply](https://se.jibeapply.com/jobs/140638) |
@@ -79,10 +78,9 @@
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Supply Chain Operations Intern - Summer 2027 | Middletown, Pennsylvania | \$23 to \$27.50 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/138181) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Supply Chain Operations Intern - Summer 2027 | Mechanicsburg, Pennsylvania | \$23 to \$27.50 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/137740) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Logistics Quality Engineering Intern - Summer 2027 | Middletown, Pennsylvania | \$23 to \$27.50 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/138184) |
-| [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Supply Chain (Summer 2027) | Buffalo Grove, IL |  | Oct 24 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Buffalo-Grove-IL/Intern---Supply-Chain--Summer-2027-_R041055) |
-| [OATEY](https://internscout.org/internships/at/oatey/) | Global Sourcing Intern | Cleveland, OH (Headquarters) | \$20.00 | Oct 23 | [Apply](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Headquarters/Global-Sourcing-Intern_R7189) |
+| [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Supply Chain (Summer 2027) | Buffalo Grove, IL | \$22 - \$24/hr | Oct 24 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Buffalo-Grove-IL/Intern---Supply-Chain--Summer-2027-_R041055) |
 | [OATEY](https://internscout.org/internships/at/oatey/) | Supply Chain - Logistics Intern | Cleveland, OH (Headquarters) | \$20.00 | Oct 23 | [Apply](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Headquarters/Distribution---Logistics-Intern_R7187) |
-| [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Supply Chain Regional (Summer 2027) | Neenah, WI |  | Oct 17 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Supply-Chain-Regional--Summer-2027-_R041135) |
+| [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Supply Chain Regional (Summer 2027) | Neenah, WI | \$22 - \$24/hr | Oct 17 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Supply-Chain-Regional--Summer-2027-_R041135) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
