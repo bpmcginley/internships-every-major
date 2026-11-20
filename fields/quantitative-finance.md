@@ -1,14 +1,14 @@
 # Quantitative Finance: Summer 2027 Internships
 
-129 open Summer 2027 quantitative finance roles, newest first (all 129). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 172 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
+130 open Summer 2027 quantitative finance roles, newest first (all 130). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 173 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [iCapital Network](https://internscout.org/internships/at/icapital-network/) | Portfolio Management - Summer 2027 Intern | New York, New York, United States | \$43.50 per hour | Nov 20 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8957001002) |
 | Soros Fund Management | Quantitative Strategist Intern | New York +2 | \$45/hr | Nov 17 | [Apply](https://job-boards.greenhouse.io/familyoffice/jobs/8202834003) |
 | All Options | Graduate Quantitative Trader Intern | Austin, TX |  | Nov 17 | [Apply](https://alloptions.bamboohr.com/careers/85/) |
 | State of Maryland | Quantitative Analyst Intern | Baltimore, MD |  | Nov 13 | [Apply](https://go.vansh.nyc/1zI) |
 | [StepStone Group](https://internscout.org/internships/at/stepstone-group/) | 2027 AI Quant Summer Analyst | La Jolla, MD +3 | \$30/hour | Nov 11 | [Apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8368989) |
-| Arrowstreet Capital | Quantitative Developer Intern, Summer 2027 | Boston +1 | \$3,500 - \$5,000 per week | Nov 11 | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) |
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Trading System Development Intern | New York, NY |  | Nov 6 | [Apply](https://go.vansh.nyc/1lC) |
 | Bank of Montreal | Quantitative Analyst Co-op Intern | Toronto, ON, Canada |  | Nov 6 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097-1) |
 | [Galaxy](https://internscout.org/internships/at/galaxy/) | 2027 Sales and Trading Internships - NYC | New York | \$55/hr | Nov 3 | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6242350004) |
@@ -47,13 +47,13 @@
 | Talos | Quantitative Analyst Intern | NYC |  | Sep 8 | [Apply](https://jobs.ashbyhq.com/Talos-Trading/d6d0c99a-f281-4efe-89c4-026f7f5edc2b/application?embed=true) |
 | [Ernst & Young](https://internscout.org/internships/at/ernst-young/) | Summer Associate Intern - Corporate Finance - Quantitative Finance and Economics | SF +6 |  | Sep 7 | [Apply](https://eyglobal.yello.co/jobs/KBPFL_z8cg9IBGsgb2xYYA?job_board_id=c1riT--B2O-KySgYWsZO1Q) |
 | AXQ Capital | Quantitative Research Intern (PhD, Summer 2027) | New York +1 | \$75 to \$100, | Sep 3 | [Apply](https://job-boards.greenhouse.io/axq/jobs/6181069004) |
+| InfiniteQuant | Quantitative Developer Intern | NYC |  | Sep 3 | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879) |
 | PIMCO | Quant Research Analyst Intern - Client Solutions & Analytics | Newport Beach, CA |  | Sep 1 | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---PhD-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106815) |
 | PIMCO | Quantitative Portfolio Management Intern | Newport Beach, CA |  | Sep 1 | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830) |
 | PIMCO | Quantitative Research Analyst Intern - Portfolio Management | Newport Beach, CA |  | Sep 1 | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Portfolio-Management--Quantitative-Research-Analyst_R106749) |
 | [IMC Trading](https://internscout.org/internships/at/imc-trading/) | Quant Performance Engineer Intern - Summer 2027 | Chicago, United States +1 | \$200,000 | Aug 27 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101) |
 | WhiteWater Midstream | Trading Operations Intern - Summer 2027 | Austin, TX |  | Aug 26 | [Apply](https://job-boards.greenhouse.io/whitewatermidstream/jobs/5221723007) |
 | [DV Group](https://internscout.org/internships/at/dv-group/) | Futures & Options Trading Analyst Intern - Summer 2027 | New York +2 | \$18.75/hr | Aug 25 | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005) |
-| InfiniteQuant | Quantitative Developer Internship - Summer 2027 | NYC |  | Aug 24 | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134) |
 | Freddie Mac | Quantitative Risk Management Intern | McLean, VA |  | Aug 24 | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553) |
 | Millennium | Quantitative Developer Intern | New York, NY |  | Aug 21 | [Apply](https://go.vansh.nyc/7g) |
 | Xantium | Quantitative Developer Intern | NYC |  | Aug 17 | [Apply](https://job-boards.greenhouse.io/xantium/jobs/4360768009) |
@@ -96,6 +96,8 @@
 | [Hudson River Trading](https://internscout.org/internships/at/hudson-river-trading/) | Algorithm Development Intern - Quant Research | NYC |  | Jul 13 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062) |
 | Akuna Capital University | Quantitative Research Intern | Chicago, IL |  | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
 | Akunacapital | Quantitative Research Intern, Summer 2027 | Chicago, IL | \$145,000 | Jul 13 | [Apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
+| Arrowstreet Capital | Quantitative Developer Intern | Boston, MA |  | Jul 10 | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) |
+| Arrowstreet Capital | Quantitative Researcher Intern | Boston, MA |  | Jul 10 | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) |
 | [Jump Trading](https://internscout.org/internships/at/jump-trading/) | Quantitative Trader Intern | Chicago, IL +1 |  | Jul 9 | [Apply](https://go.vansh.nyc/3k) |
 | [Jump Trading](https://internscout.org/internships/at/jump-trading/) | Campus Quantitative Researcher, PhD (Intern) | Chicago +3 | \$300,000 per year | Jul 8 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8049938) |
 | Flowtraders | Quantitative Trading Intern Summer 2027 | New York +1 | \$150,000 | Jul 8 | [Apply](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) |
@@ -129,7 +131,6 @@
 | [Point72](https://internscout.org/internships/at/point72/) | Summer 2027 Quantitative Research Internship | New York | \$240,000-\$300,000 | Aug 15, 2024 | [Apply](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) |
 | Garda Capital Partners | Trading Assistant Intern | Wayzata, Minnesota, United States | Paid | Jun 14, 2022 | [Apply](https://job-boards.greenhouse.io/gardacp/jobs/4308947004) |
 | [Brevan Howard](https://internscout.org/internships/at/brevan-howard/) | 2027 Summer Internship Program – Systematic Trading, New York | New York +1 | \$ 200,000 | Sep 18 | [Apply](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--New-York_JR101591) |
-| Arrowstreet Capital | Quantitative Researcher Intern, Summer 2027 | Boston +1 | \$3,500 - \$5,000 per week | Sep 18 | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) |
 | [Brevan Howard](https://internscout.org/internships/at/brevan-howard/) | 2027 Summer Internship Program – AI & Quantitative Analyst, New York | New York +1 | \$ 150,000 | Sep 18 | [Apply](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602) |
 | [Brevan Howard](https://internscout.org/internships/at/brevan-howard/) | 2027 Summer Internship Program – Systematic Trading Technology Software Engineer, New York | New York +1 |  | Sep 18 | [Apply](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597) |
 | [Brevan Howard](https://internscout.org/internships/at/brevan-howard/) | 2027 Summer Internship Program – Trading, New York | New York +1 | \$ 200,000 | Sep 18 | [Apply](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Trading--New-York_JR101583) |

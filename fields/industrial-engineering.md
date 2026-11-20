@@ -1,9 +1,11 @@
 # Industrial Engineering: Summer 2027 Internships
 
-148 open Summer 2027 industrial engineering roles, newest first (all 148). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 323 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+149 open Summer 2027 industrial engineering roles, newest first (all 149). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 324 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Formlabs](https://internscout.org/internships/at/formlabs/) | 2027 (Summer) Marketing Events Logistics Intern | Somerville, MA | \$1,050 | Nov 20 | [Apply](https://careers.formlabs.com/job/8400561/apply/?gh_jid=8400561) |
+| [Vertiv](https://internscout.org/internships/at/vertiv/) | Manufacturing Engineering Intern (Summer 2027) | Pelzer, SC |  | Nov 20 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279361) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Industrial Engineering (Chino) | Chino, CA |  | Nov 20 | [Apply](https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-Industrial-Engineering-%28Chino%29-CA-91710/1423164900/) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Supply Chain Management (Rosemead) | Rosemead, CA |  | Nov 20 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Supply-Chain-Management-%28Rosemead%29-CA-91770-3714/1423200600/) |
 | [Scout Space](https://internscout.org/internships/at/scout-space/) | Systems Engineering Intern (Summer 2027) | Reston, VA - Remote | \$30/hour | Nov 19 | [Apply](https://job-boards.greenhouse.io/scoutspace/jobs/5489235008) |
@@ -87,10 +89,10 @@
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Systems Engineering Intern Summer 2027 | Tucson, AZ |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990270003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Systems Engineering Intern Summer 2027 | Chantilly, VA |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990272003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Supply Chain Intern Summer 2027 | Long Beach, CA |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984568003) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Wallops Island, VA | \$25.00 | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7996623003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Wallops Island, VA |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7996623003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Systems Engineering Intern Summer 2027 | Pasadena, CA |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990138003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Supply Chain Intern Summer 2027 | Middle River, MD |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990063003) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Middle River, MD |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7988835003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Middle River, MD | \$25.00 | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7988835003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Long Beach, CA | \$28.00 | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984564003) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Systems Engineering Internship | Westminster, CO |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/a3b0f097-9d62-4a67-9800-de5dfe416da2/apply) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Supply Chain Internship | Westminster, CO |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/6c354949-9e6b-4716-9381-f8aa071e3465/apply) |
@@ -126,7 +128,6 @@
 | [Honeywell Aerospace](https://internscout.org/internships/at/honeywell-aerospace/) | Supply Chain Internship - Summer 2027 (U.S. Person Required) | United States |  | Aug 28 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119731) |
 | [Honeywell Aerospace](https://internscout.org/internships/at/honeywell-aerospace/) | Supply Chain Internship - Summer 2027 | United States |  | Aug 28 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119833) |
 | [Honeywell Aerospace](https://internscout.org/internships/at/honeywell-aerospace/) | ISC University Relations Development Program (URDP) - ISC (Supply Chain) - Summer 2027 Intern Phoenix AZ (U.S. Person R… | Phoenix, AZ |  | Aug 27 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119972) |
-| [CSX](https://internscout.org/internships/at/csx/) | Procurement & Supply Chain Internship - Summer 2027 (Paid) | Jacksonville, FL |  | Aug 27 | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54820) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Manufacturing Engineering | Los Angeles, CA | \$30–\$40 per hour | Aug 20 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5376060008) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD | Seattle, WA |  | Aug 20 | [Apply](https://lifeattiktok.com/search/7675845333947812149) |
 | [Freeform](https://internscout.org/internships/at/freeform/) | Manufacturing Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | \$30/hour | Aug 19 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895700003) |

@@ -1,9 +1,11 @@
 # Law and Legal: Summer 2027 Internships
 
-80 open Summer 2027 law and legal roles, newest first (all 80). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 152 law and legal internships on InternScout](https://internscout.org/internships/law/)
+81 open Summer 2027 law and legal roles, newest first (all 81). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 154 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [WSP](https://internscout.org/internships/at/wsp/) | Law Student - Summer 2027 | Montreal, QC, Canada |  | Nov 20 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99799) |
+| [Systems Planning and Analysis (SPA)](https://internscout.org/internships/at/systems-planning-and-analysis-spa/) | Policy Intern - Summer 2027 | Alexandria, Virginia | \$23.00/Hr | Nov 20 | [Apply](https://spa.jibeapply.com/jobs/23728) |
 | [SAS](https://internscout.org/internships/at/sas/) | Cybersecurity Compliance and AI Automation Intern | Cary, NC |  | Nov 19 | [Apply](https://go.vansh.nyc/1Dy) |
 | [Exelon](https://internscout.org/internships/at/exelon/) | 2027 Summer Internship - Legal Intern, 1st and 2nd Yr Law Students (Various Locations) | PHILADELPHIA, Pennsylvania +3 | \$29.00/Hr | Nov 19 | [Apply](https://careers.comed.com/jobs/33550) |
 | [BGE](https://internscout.org/internships/at/bge/) | 2027 Summer Internship - Legal Intern, 1st and 2nd Yr Law Students (Various Locations) | PHILADELPHIA, Pennsylvania +3 | \$29.00/Hr | Nov 19 | [Apply](https://careers.bge.com/jobs/33550) |
@@ -40,14 +42,13 @@
 | Aflac | Global Investments Legal Intern | NYC |  | Oct 23 | [Apply](https://careers.aflac.com/job/New-York-City-2027-Global-Investments-%28NY%29-Legal-Intern-NY-10005/1443294500/?ats=successfactors) |
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Regulatory Products Intern | NYC |  | Oct 23 | [Apply](https://careers-ice.icims.com/jobs/14101/job?mobile=true&needsRedirect=false) |
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Summer Internship Program 2027 - Regulatory Products Intern | New York, New York +1 | \$30 per hour | Oct 23 | [Apply](https://ice.jibeapply.com/jobs/14101) |
-| State Farm | Summer 2027 Intern - Law - Jacksonville, FL CLC | Jacksonville, Florida | \$2,000 | Oct 23 | [Apply](https://jobs.statefarm.com/jobs/45887) |
+| [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Law - Jacksonville, FL CLC | Jacksonville, Florida | \$2,000 | Oct 23 | [Apply](https://jobs.statefarm.com/jobs/45887) |
 | [DP World](https://internscout.org/internships/at/dp-world/) | Legal Intern | Auburn Hills, MI |  | Oct 21 | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27398) |
 | MEMX | Legal Intern, Summer 2027 (Hybrid, NYC) | United States | \$40/hour | Oct 8 | [Apply](https://job-boards.greenhouse.io/memx/jobs/5447824008) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Law Graduate Internship - Summer 2027 | 77002, TX |  | Oct 5 | [Apply](https://aramcoservices.applytojob.com/apply/Rpx0aiDVNd/Law-Graduate-Internship-Summer-2027) |
 | [Brennan Center for Justice](https://internscout.org/internships/at/brennan-center-for-justice/) | Summer 2027 Democracy Legal Internship - NYC and DC | New York, NY | \$8,360 | Oct 3 | [Apply](https://brennancenter.applytojob.com/apply/3h3CdiEdLS/Summer-2027-Democracy-Legal-Internship-NYC-And-DC) |
 | [Brennan Center for Justice](https://internscout.org/internships/at/brennan-center-for-justice/) | Summer 2027 Justice Legal Internship | New York, NY | \$8,360 | Oct 3 | [Apply](https://brennancenter.applytojob.com/apply/6pmeKxkyUe/Summer-2027-Justice-Legal-Internship) |
 | [Brennan Center for Justice](https://internscout.org/internships/at/brennan-center-for-justice/) | Summer 2027 Liberty and National Security Legal Internship - NYC and DC | New York, NY | \$8,360 | Oct 3 | [Apply](https://brennancenter.applytojob.com/apply/n9gOj5sxRx/Summer-2027-Liberty-And-National-Security-Legal-Internship-NYC-And-DC) |
-| [Diversified Energy](https://internscout.org/internships/at/diversified-energy/) | 2027 Summer Intern- Legal | Charleston, West Virginia |  | Oct 2 | [Apply](https://careers.div.energy/jobs/2733) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | Legal Intern (Summer 2027) | Remote | \$50/hour | Sep 30 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5253395007) |
 | [Internal Revenue Service](https://internscout.org/internships/at/internal-revenue-service/) | Summer Intern (Legal Administrative Specialist) | Birmingham, Alabama +45 | \$61722 - \$100315 Per Year | Sep 29 | [Apply](https://www.usajobs.gov:443/job/886742000) |
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Legal Intern, Voting Rights Project | Hybrid-New York City +1 |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8853159002) |

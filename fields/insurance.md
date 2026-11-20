@@ -1,13 +1,12 @@
 # Insurance: Summer 2027 Internships
 
-27 open Summer 2027 insurance roles, newest first (all 27). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 45 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+26 open Summer 2027 insurance roles, newest first (all 26). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 43 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Aon](https://internscout.org/internships/at/aon/) | Early Careers: RMI Summer Internship - Risk Capital & Reinsurance | New York, New York +5 | \$21.60 - \$27.60 hour | Nov 19 | [Apply](https://jobs.aon.com/jobs/113654) |
 | [Selective Insurance](https://internscout.org/internships/at/selective-insurance/) | Underwriting Summer Internship – Allentown, PA (Hybrid) | Allentown, Pennsylvania | \$22.00 | Nov 18 | [Apply](https://jobs.selective.com/jobs/5683) |
-| State Farm | Summer 2027 Intern-Property and Casualty Underwriting-Learning Analyst | Bloomington, Illinois +1 | \$24/hour | Nov 12 | [Apply](https://jobs.statefarm.com/jobs/46444) |
-| State Farm | Summer 2027 Intern-Property and Casualty Underwriting-Underwriter | Bloomington, Illinois +1 | \$24/hour | Nov 12 | [Apply](https://jobs.statefarm.com/jobs/46443) |
+| [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern-Property and Casualty Underwriting-Learning Analyst | Bloomington, Illinois +1 | \$24/hour | Nov 12 | [Apply](https://jobs.statefarm.com/jobs/46444) |
 | [Zurich Insurance](https://internscout.org/internships/at/zurich-insurance/) | Underwriting Internship - Summer 2027 - Dallas | Addison, TX | \$21.00 - \$23.00 | Nov 12 | [Apply](https://www.careers.zurich.com/job/Addison-Underwriting-Internship-Summer-2027-Dallas-TX/1372139657/) |
 | [Zurich Insurance](https://internscout.org/internships/at/zurich-insurance/) | Underwriting Internship - Summer 2027 - Denver | Denver, CO | \$21.00 - \$23.00 | Nov 12 | [Apply](https://www.careers.zurich.com/job/Denver-Underwriting-Internship-Summer-2027-Denver-CO-80002/1372139757/) |
 | [Zurich Insurance](https://internscout.org/internships/at/zurich-insurance/) | Underwriting Internship - Summer 2027 - Boston | Boston, MA | \$21.00 - \$23.00 | Nov 12 | [Apply](https://www.careers.zurich.com/job/Boston-Underwriting-Internship-Summer-2027-Boston-MA-02108/1372139457/) |

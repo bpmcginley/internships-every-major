@@ -1,6 +1,6 @@
 # Business: Summer 2027 Internships
 
-34 open Summer 2027 business roles, newest first (all 34). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 69 business internships on InternScout](https://internscout.org/internships/business/)
+34 open Summer 2027 business roles, newest first (all 34). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 71 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

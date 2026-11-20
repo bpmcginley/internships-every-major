@@ -1,9 +1,11 @@
 # Sustainability: Summer 2027 Internships
 
-70 open Summer 2027 sustainability roles, newest first (all 70). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 107 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+72 open Summer 2027 sustainability roles, newest first (all 72). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 108 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [The Allen Institute for AI](https://internscout.org/internships/at/the-allen-institute-for-ai/) | Research Internship, Climate Modeling | Seattle, WA | \$94,320 | Nov 20 | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8404052) |
+| [Westinghouse Electric Company](https://internscout.org/internships/at/westinghouse-electric-company/) | Summer Intern - Safety Analysis | Dallas, TX | \$25.40 to \$29.00 per hour | Nov 20 | [Apply](https://careers.westinghousenuclear.com/job/Dallas-Summer-Intern-Safety-Analysis-TX-75201/1452563300/) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | Richmond, Virginia | \$20.00 | Nov 20 | [Apply](https://careers.trccompanies.com/jobs/29953) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | Clifton Park, New York | \$20.00 | Nov 20 | [Apply](https://careers.trccompanies.com/jobs/29952) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern, Capital Projects, Summer 2027 | Malvern, Arkansas +1 |  | Nov 18 | [Apply](https://jobs.entergy.com/job/Malvern-Student%2C-Intern%2C-Capital-Projects%2C-Summer-2027-Arka/1441956200/) |

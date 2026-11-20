@@ -1,9 +1,11 @@
 # Supply Chain: Summer 2027 Internships
 
-81 open Summer 2027 supply chain roles, newest first (all 81). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 186 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
+82 open Summer 2027 supply chain roles, newest first (all 82). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 186 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [AtriCure, Inc.](https://internscout.org/internships/at/atricure/) | Sourcing Project Engineer Co-op (Summer 2027) | Mason, OH |  | Nov 20 | [Apply](https://job-boards.greenhouse.io/atricure/jobs/4517172009) |
+| [Formlabs](https://internscout.org/internships/at/formlabs/) | 2027 (Summer) Marketing Events Logistics Intern | Somerville, MA | \$1,050 | Nov 20 | [Apply](https://careers.formlabs.com/job/8400561/apply/?gh_jid=8400561) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Supply Chain Management (Rosemead) | Rosemead, CA |  | Nov 20 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Supply-Chain-Management-%28Rosemead%29-CA-91770-3714/1423200600/) |
 | [International](https://internscout.org/internships/at/international/) | Procurement / Supply Chain Intern | Lisle, Illinois | \$27–\$32 per hour | Nov 19 | [Apply](https://careers.international.com/jobs/59945) |
 | [International](https://internscout.org/internships/at/international/) | Supplier Quality Intern | Lisle, Illinois | \$27–\$32 per hour | Nov 19 | [Apply](https://careers.international.com/jobs/59946) |
@@ -68,7 +70,6 @@
 | [Honeywell Aerospace](https://internscout.org/internships/at/honeywell-aerospace/) | Supply Chain Internship - Summer 2027 (U.S. Person Required) | United States |  | Aug 28 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119731) |
 | [Honeywell Aerospace](https://internscout.org/internships/at/honeywell-aerospace/) | Supply Chain Internship - Summer 2027 | United States |  | Aug 28 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119833) |
 | [Honeywell Aerospace](https://internscout.org/internships/at/honeywell-aerospace/) | ISC University Relations Development Program (URDP) - ISC (Supply Chain) - Summer 2027 Intern Phoenix AZ (U.S. Person R… | Phoenix, AZ |  | Aug 27 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119972) |
-| [CSX](https://internscout.org/internships/at/csx/) | Procurement & Supply Chain Internship - Summer 2027 (Paid) | Jacksonville, FL |  | Aug 27 | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54820) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD | Seattle, WA |  | Aug 20 | [Apply](https://lifeattiktok.com/search/7675845333947812149) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 20, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
 | [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Supply Chain) | St Petersburg, FL |  | Nov 20, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37507/2027-summer-intern-%28supply-chain%29/job) |

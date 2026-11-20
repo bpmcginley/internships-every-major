@@ -1,17 +1,21 @@
 # Consulting: Summer 2027 Internships
 
-75 open Summer 2027 consulting roles, newest first (all 75). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 134 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+81 open Summer 2027 consulting roles, newest first (all 81). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 142 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| The SilverLogic | AI Engineer/Consultant Intern | Boca Raton, FL |  | Nov 20 | [Apply](https://go.vansh.nyc/1EE) |
+| [iCapital Network](https://internscout.org/internships/at/icapital-network/) | Enterprise Initiatives and Governance - Summer 2027 Intern | New York, New York, United States | \$43.50 per hour | Nov 20 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938000002) |
 | [CAS](https://internscout.org/internships/at/cas/) | CAS 2027 Technology Summer Intern - Business Data Governance | Columbus, OH |  | Nov 20 | [Apply](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=1fe1ecbc-5b12-4c0e-a2cf-5d75049ab527) |
 | [CAS](https://internscout.org/internships/at/cas/) | Technology Intern, Business Data Governance | Columbus, OH |  | Nov 20 | [Apply](https://go.vansh.nyc/1E6) |
+| [Vertiv](https://internscout.org/internships/at/vertiv/) | Power Strategy Intern (MBA) (Summer 2027) | Delaware, OH |  | Nov 20 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20285727) |
+| [CIBC](https://internscout.org/internships/at/cibc/) | 2027 Summer Intern Governance and Controls Chicago | Chicago, IL |  | Nov 19 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern-Governance-and-Controls-Chicago_2620118) |
 | Attain Partners | Summer 2027 Consulting Intern | McLean, VA | Paid | Nov 17 | [Apply](https://job-boards.greenhouse.io/attainpartners/jobs/5485402008) |
 | [KPMG](https://internscout.org/internships/at/kpmg/) | Edmonton Consulting Summer Internship, Operations - Government Solutions (May - August 2027) | Edmonton, Alberta, Canada |  | Nov 16 | [Apply](https://careers.kpmg.ca/jobs/36504) |
 | [KPMG](https://internscout.org/internships/at/kpmg/) | Calgary Summer Internship, Consulting (May - August 2027) | Calgary, Alberta, Canada |  | Nov 16 | [Apply](https://careers.kpmg.ca/jobs/36503) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Management Consultancy Intern - Summer 2027 | New York, NY +2 | \$23.90 - \$32.22 per hour | Nov 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99095) |
 | [KPMG](https://internscout.org/internships/at/kpmg/) | Consulting GTA: Consultant, Internship (Summer 2027) | Toronto, Ontario, Canada | \$50,000 to \$63,000 | Nov 16 | [Apply](https://careers.kpmg.ca/jobs/36465) |
-| [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 MBA Internship - Strategy Intern | Los Angeles, CA, United States | Paid | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507770009) |
+| [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 MBA Internship - Strategy Intern | Los Angeles, CA, United States |  | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507770009) |
 | [SAS](https://internscout.org/internships/at/sas/) | IoT Product Strategy Intern | Cary, NC |  | Nov 14 | [Apply](https://careers-sas.icims.com/jobs/43309/job?mobile=true&needsRedirect=false) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Summer 2027: ESG Strategy Intern (May to August) | Needham, MA, United States |  | Nov 12 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727543006) |
 | [CarGurus](https://internscout.org/internships/at/cargurus/) | Data Governance Engineer Intern | Boston, MA |  | Nov 11 | [Apply](https://go.vansh.nyc/1wX) |
@@ -19,6 +23,8 @@
 | Bank of Montreal | Treasury & Payment Solutions Strategy Intern | Toronto, ON, Canada |  | Nov 10 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382) |
 | [NBCUniversal](https://internscout.org/internships/at/nbcuniversal/) | Cybersecurity, Governance & Security Engineering Intern, Media Tech | New York, NY |  | Nov 9 | [Apply](https://go.vansh.nyc/1oC) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Business Strategy Intern Industrial Services \| Summer 2027 | Deer Park, TX | \$20/hour | Nov 6 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168640) |
+| [Scotiabank](https://internscout.org/internships/at/scotiabank/) | GBM - Trade Floor Technology Consultant Internship/Co-op - Summer 2027 | Toronto, ON, Canada |  | Nov 5 | [Apply](https://jobs.scotiabank.com/job/Toronto-GBM-Trade-Floor-Technology-Consultant-InternshipCo-op-Summer-2027-ON/605897917/) |
+| [Scotiabank](https://internscout.org/internships/at/scotiabank/) | GBM - Trade Floor Technology Consultant Internship/Co-op - Summer 2027 (12-16 Months) | Toronto, ON, Canada |  | Nov 5 | [Apply](https://jobs.scotiabank.com/job/Toronto-GBM-Trade-Floor-Technology-Consultant-InternshipCo-op-Summer-2027-%2812-16-Months%29-ON/605898017/) |
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | Product Owner Intern, AI Consulting Associate Program (AI CAP) | Chicago, IL |  | Oct 31 | [Apply](https://go.vansh.nyc/12P) |
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | Engineering Intern, AI Consulting Associate Program (AI CAP) | Chicago, IL |  | Oct 31 | [Apply](https://go.vansh.nyc/12O) |
 | [Trilogy Health Services](https://internscout.org/internships/at/trilogy-health-services/) | Growth Strategy Intern | Louisville, Kentucky | Paid | Oct 30 | [Apply](https://jobs.trilogyhs.com/jobs/213298) |

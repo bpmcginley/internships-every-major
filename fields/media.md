@@ -1,6 +1,6 @@
 # Media: Summer 2027 Internships
 
-34 open Summer 2027 media roles, newest first (all 34). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 109 media internships on InternScout](https://internscout.org/internships/media/)
+32 open Summer 2027 media roles, newest first (all 32). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 108 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -18,10 +18,8 @@
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Video Editing Internship Summer 2027 | Centennial, CO | \$23.10 - \$37.95 | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Video-Editing-Internship-Summer-2027-CO-80112/1427399000/) |
 | [Samsung Research America](https://internscout.org/internships/at/samsung-research-america/) | 2027 Summer Intern, Generative AI based Imaging and Video R&D | 6105 Tennyson Pkwy, Suite 300, Plano TX 75024 +1 | Paid | Nov 3 | [Apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927216002) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Research Scientist Intern - Video and Edge - Multimedia Lab | San Jose, CA |  | Oct 30 | [Apply](https://jobs.bytedance.com/en/position/7702155940239264005/detail) |
-| [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Editorial Design Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748518005) |
-| [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Kitchen Team Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748503005) |
-| [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Editorial Projects Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748499005) |
-| [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Audience Team Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748501005) |
+| The New York Times | Editorial Design Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748518005) |
+| The New York Times | Kitchen Team Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748503005) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Houston Chronicle Visuals Internship - Summer 2027 | Houston, TX, United States | Paid | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466410009) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Audience Intern - Summer 2027 | Houston, TX, United States | Paid | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466386009) |
 | OpenArt AI | Early Adopter & Product Builder Intern, Creative AI | San Carlos, CA |  | Oct 22 | [Apply](https://go.vansh.nyc/ej) |
@@ -37,7 +35,7 @@
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | ASIC Design Engineer Intern - Video Silicon IP | San Jose, CA |  | Aug 6 | [Apply](https://jobs.bytedance.com/en/position/7670332179383699717/detail) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Video/Image AI/ML Software Engineer Intern - Multimedia | San Diego, CA |  | Aug 6 | [Apply](https://jobs.bytedance.com/en/position/7670354329765464373/detail) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Creative Intelligence and Brand Innovation | San Jose, CA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7668642761473902901) |
-| [The New York Times](https://internscout.org/internships/at/the-new-york-times/) | Local Investigations Fellowship Expression of Interest | Remote |  | Jan 1 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4637331005) |
+| The New York Times | Local Investigations Fellowship Expression of Interest | Remote |  | Jan 1 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4637331005) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,9 +1,10 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-570 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 570). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 918 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+565 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 565). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 913 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | AI/ML Analytics Intern, Digital Manufacturing | New York, NY +1 |  | Nov 20 | [Apply](https://go.vansh.nyc/1EA) |
 | [DraftKings](https://internscout.org/internships/at/draftkings/) | Data Engineer Intern | Boston, MA |  | Nov 20 | [Apply](https://go.vansh.nyc/1Ex) |
 | Wurl | Data Engineering Intern | Remote +1 |  | Nov 20 | [Apply](https://go.vansh.nyc/1Ep) |
 | TransUnion | Data Science & Analytics Intern | Chicago, IL |  | Nov 20 | [Apply](https://go.vansh.nyc/1Ea) |
@@ -17,12 +18,15 @@
 | [Constellation Brands](https://internscout.org/internships/at/constellation-brands/) | Data Science Intern | Rochester, NY |  | Nov 20 | [Apply](https://go.vansh.nyc/1DX) |
 | Southern Mississippi Trading | AI and Business Analytics Intern | Waynesboro, MS |  | Nov 20 | [Apply](https://go.vansh.nyc/1DV) |
 | enGen | Data Engineer & Analyst Undergraduate Intern | Pittsburgh, PA |  | Nov 20 | [Apply](https://go.vansh.nyc/1DQ) |
+| [Systems Planning and Analysis (SPA)](https://internscout.org/internships/at/systems-planning-and-analysis-spa/) | Integrated Analytics Intern (Summer 2027) | Alexandria, Virginia +1 | \$23.00/Hr | Nov 20 | [Apply](https://spa.jibeapply.com/jobs/23729) |
+| [Chubb](https://internscout.org/internships/at/chubb/) | Business Intelligence Intern | Chicago, IL | \$18 to \$24 per hour | Nov 20 | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38335) |
+| Compassion International | Data and Software Engineering Intern | United States |  | Nov 19 | [Apply](https://go.vansh.nyc/1DA) |
 | [Lutron](https://internscout.org/internships/at/lutron/) | Data Science and Machine Learning Intern | Boston, MA |  | Nov 19 | [Apply](https://go.vansh.nyc/1Dl) |
 | [Lutron](https://internscout.org/internships/at/lutron/) | Data Engineering Intern | Philadelphia, PA +1 |  | Nov 19 | [Apply](https://go.vansh.nyc/1Dk) |
+| [PTC](https://internscout.org/internships/at/ptc/) | Full-Stack Engineering Intern, Cloud Data Management (CAD) | Boston, MA |  | Nov 19 | [Apply](https://go.vansh.nyc/1EX) |
 | [DocuSign](https://internscout.org/internships/at/docusign/) | Product Data Science Intern | San Francisco, CA |  | Nov 19 | [Apply](https://go.vansh.nyc/1D2) |
 | [Lucid Motors](https://internscout.org/internships/at/lucid-motors/) | Intern, AI & Data (Applied AI/Machine Learning), Summer 2027 | Newark, CA | \$53 to \$72 | Nov 19 | [Apply](https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007) |
 | [Minitab](https://internscout.org/internships/at/minitab/) | Data Privacy Intern (Summer 2027) | State College, Pennsylvania, United States |  | Nov 19 | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8200490003) |
-| Compassion International | 2027 Summer Internship - Data and Software Engineering | USA - Global Ministry Center +1 |  | Nov 19 | [Apply](https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840) |
 | Piper Sandler | Data Engineering Intern | Minneapolis, MN |  | Nov 19 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Data-Engineering_R-100805) |
 | Barry's | MBA Summer Associate, Strategy & Analytics - Summer 2027 | New York, NY | Paid | Nov 19 | [Apply](https://ats.rippling.com/barrys-careers/jobs/4a65ab9f-b283-4365-bcd2-20b06da8e916) |
 | Barry's | Undergraduate Summer Scholar, Data Analyst - Summer 2027 | New York, NY +1 |  | Nov 19 | [Apply](https://ats.rippling.com/barrys-careers/jobs/1205224b-cfd0-4b9e-afc1-fc041da94c7f) |
@@ -31,12 +35,10 @@
 | [Publicis Groupe](https://internscout.org/internships/at/publicis-groupe/) | Identity Analytics Intern - Summer 2027 | Chicago, Illinois +1 | \$27.00 | Nov 19 | [Apply](https://publicisgroupe.jibeapply.com/jobs/182970) |
 | HERE Technologies | Data Science Intern | Chicago, IL |  | Nov 19 | [Apply](https://go.vansh.nyc/1CB) |
 | Bristol Myers Squibb | Undergrad Data Science Intern | Remote +1 |  | Nov 18 | [Apply](https://go.vansh.nyc/1Ck) |
-| [Integra FEC](https://internscout.org/internships/at/integra-fec/) | Junior Data Scientist (Summer 2027) | Austin, Texas |  | Nov 18 | [Apply](https://job-boards.greenhouse.io/integra/jobs/5487065008) |
 | [iCapital Network](https://internscout.org/internships/at/icapital-network/) | Data Solutions - Summer 2027 Intern | Stamford, Connecticut, United States +1 | \$32.50 per hour | Nov 18 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8945261002) |
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Data Engineer Developer Intern | Cincinnati, OH |  | Nov 18 | [Apply](https://go.vansh.nyc/1Ek) |
 | State Street | Data Scientist Intern | Boston, MA |  | Nov 18 | [Apply](https://go.vansh.nyc/1C1) |
 | Sheetz | Business Intelligence Analytics Intern | PITTSBURGH, Pennsylvania +1 |  | Nov 18 | [Apply](https://jobs.sheetz.com/jobs/86015) |
-| [Starwood Capital Group](https://internscout.org/internships/at/starwood-capital-group/) | Data Intern | New York, NY |  | Nov 17 | [Apply](https://go.vansh.nyc/1BK) |
 | [Garmin](https://internscout.org/internships/at/garmin/) | Software Engineer Intern, Real Time Aviation Data | Chanhassen, MN |  | Nov 17 | [Apply](https://go.vansh.nyc/1Bs) |
 | Attain Partners | Summer 2027 Data Analytics Intern | McLean, VA | Paid | Nov 17 | [Apply](https://job-boards.greenhouse.io/attainpartners/jobs/5485427008) |
 | [Lumentum](https://internscout.org/internships/at/lumentum/) | Data Science & Analytics Intern | San Jose, CA |  | Nov 17 | [Apply](https://go.vansh.nyc/1AP) |
@@ -80,15 +82,14 @@
 | PODS | Operations Data Science Intern | Clearwater, FL |  | Nov 12 | [Apply](https://go.vansh.nyc/1yX) |
 | Stanley Black & Decker | Data Analyst Intern | Towson, MD |  | Nov 12 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Intern--Data-Analyst---BI--Summer-2027_REQ-1000052481) |
 | Environmental Defense Fund | Consumer Energy Analytics Intern | Remote +1 |  | Nov 12 | [Apply](https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752) |
-| [Capital Power](https://internscout.org/internships/at/capital-power/) | Data Science Intern | Edmonton, Canada |  | Nov 12 | [Apply](https://go.vansh.nyc/1y1) |
-| [Capital Power](https://internscout.org/internships/at/capital-power/) | Summer Student - Data Analytics | Calgary, AB +1 |  | Nov 12 | [Apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Calgary-AB/Summer-Student---Data-Analytics_JR807222) |
-| [Capital Power](https://internscout.org/internships/at/capital-power/) | Summer Student - Data Science | Edmonton, AB +1 |  | Nov 12 | [Apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Summer-Student---Data-Science_JR807223-1) |
+| Capital Power | Data Science Intern | Edmonton, Canada |  | Nov 12 | [Apply](https://go.vansh.nyc/1y1) |
+| Capital Power | Summer Student Intern - Data Analytics | Calgary, AB, Canada |  | Nov 12 | [Apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Calgary-AB/Summer-Student---Data-Analytics_JR807222) |
+| Capital Power | Student Intern - Data Science | Edmonton, AB, Canada |  | Nov 12 | [Apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Summer-Student---Data-Science_JR807223-1) |
 | [ASML](https://internscout.org/internships/at/asml/) | Data Scientist Intern | Wilton, CT |  | Nov 12 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462) |
-| [Capital Power](https://internscout.org/internships/at/capital-power/) | Data Analytics Intern | Calgary, Canada |  | Nov 12 | [Apply](https://go.vansh.nyc/1y2) |
+| Capital Power | Data Analytics Intern | Calgary, Canada |  | Nov 12 | [Apply](https://go.vansh.nyc/1y2) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Intern - Data Science / Biostatistician | Detroit, MI |  | Nov 12 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14837) |
 | [Vizient](https://internscout.org/internships/at/vizient/) | Contract Operations Intern - Analytics | Irving, TX |  | Nov 12 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1) |
 | [HF Sinclair](https://internscout.org/internships/at/hf-sinclair/) | Branded Fuels - Business Analytics Intern | Dallas, TX |  | Nov 12 | [Apply](https://careers.hfsinclair.com/job/Dallas-Branded-Fuels-Business-Analytics-Intern-TX-75219/1430072700/) |
-| [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Quality & Analytics Internship (Wisconsin Health Plan) – Summer 2027 (Undergraduate) | WI +1 |  | Nov 12 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040143) |
 | Bloom Energy | RMCC Data Science Intern | San Jose, CA |  | Nov 11 | [Apply](https://go.vansh.nyc/1vI) |
 | Systems Planning and Analysis | Data Engineering Intern | Alexandria, VA |  | Nov 11 | [Apply](https://go.vansh.nyc/1xq) |
 | Bloom Energy | Data Science Intern | San Jose, CA |  | Nov 11 | [Apply](https://go.vansh.nyc/1vm) |
@@ -170,7 +171,7 @@
 | Ingredion | Global Supply Chain Data Science Intern | Westchester, IL |  | Nov 3 | [Apply](https://go.vansh.nyc/1do) |
 | [Inmar Intelligence](https://internscout.org/internships/at/inmar-intelligence/) | Data, Analytics & AI Intern | Winston Salem, NC |  | Nov 3 | [Apply](https://go.vansh.nyc/1d1) |
 | [Q2](https://internscout.org/internships/at/q2/) | Data Science Intern | Austin, TX +1 |  | Nov 3 | [Apply](https://go.vansh.nyc/1dd) |
-| Cambridge Investment Research | Data Engineering Intern | Phoenix, AZ +1 |  | Nov 3 | [Apply](https://go.vansh.nyc/1cj) |
+| [Cambridge Investment Research](https://internscout.org/internships/at/cambridge-investment-research/) | Data Engineering Intern | Phoenix, AZ +1 |  | Nov 3 | [Apply](https://go.vansh.nyc/1cj) |
 | Alcon | Software, Data & AI Engineering Intern | Fort Worth, TX +4 |  | Nov 3 | [Apply](https://go.vansh.nyc/1bZ) |
 | [Auto-Owners Insurance](https://internscout.org/internships/at/auto-owners-insurance/) | Analytics Web Systems Developer Intern | Lansing, MI |  | Nov 3 | [Apply](https://go.vansh.nyc/1c4) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | GDIT Summer Internship Program – Summer 2027 AI/ML Data Science and Engineering Internship | Bossier City, LA |  | Nov 3 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Data-Science-and-Engineering-Internship_RQ228936) |
@@ -201,7 +202,6 @@
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Software Engineer Project Intern, Security-Data | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/14C) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Site Reliability Engineer Intern, Data Infra | Seattle, WA +1 |  | Nov 1 | [Apply](https://go.vansh.nyc/145) |
 | Firework | Data Engineer Intern | San Mateo, CA |  | Oct 31 | [Apply](https://go.vansh.nyc/11I) |
-| [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Data Science Intern | New York, NY |  | Oct 31 | [Apply](https://go.vansh.nyc/12Z) |
 | TobogganLabs | Data Science Intern | Montreal, Canada |  | Oct 31 | [Apply](https://go.vansh.nyc/13r) |
 | GTI Energy | Data Science Intern | Des Plaines, IL |  | Oct 30 | [Apply](https://go.vansh.nyc/12t) |
 

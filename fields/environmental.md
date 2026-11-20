@@ -1,9 +1,10 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-141 open Summer 2027 environmental science and engineering roles, newest first (all 141). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 296 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+141 open Summer 2027 environmental science and engineering roles, newest first (all 141). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 297 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [The Allen Institute for AI](https://internscout.org/internships/at/the-allen-institute-for-ai/) | Research Internship, Climate Modeling | Seattle, WA | \$94,320 | Nov 20 | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8404052) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Summer 2027 EHS Intern | Cleveland, OH +1 | \$23-25/hour | Nov 20 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119770) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern Safety Summer 2027 | Willis, Texas |  | Nov 20 | [Apply](https://jobs.entergy.com/job/Willis-Student%2C-Intern-Safety-Summer-2027-Texa/1426680100/) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Environmental Sciences (Rosemead) | Rosemead, CA |  | Nov 20 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Environmental-Sciences-%28Rosemead%29-CA-91770-3714/1423168100/) |
@@ -36,7 +37,6 @@
 | [IMEG](https://internscout.org/internships/at/imeg/) | Sustainability & Energy Engineering Intern | St. Louis, MO +3 | \$22.00–\$24.00 per hour | Nov 3 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Sustainability---Energy-Engineering-Intern_R-16761) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Masters Environmental Engineering Intern (Summer 2027!) | Austin, Texas | \$38.72 | Nov 2 | [Apply](https://careers.cdmsmith.com/jobs/4141) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | West Allis, Wisconsin | \$20.00 | Oct 30 | [Apply](https://careers.trccompanies.com/jobs/27681) |
-| [Stantec](https://internscout.org/internships/at/stantec/) | Water Resources Intern/Co-op – Environmental Services (Summer 2027) | Fredericksburg, VA |  | Oct 30 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008645) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Water Resources Intern/Co-op – Environmental Services (Summer 2027) | Richmond, VA |  | Oct 30 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008644) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Geology Intern - Energy & Resources (Summer 2027) | Reno, NV |  | Oct 30 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008553) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Geologist/Hydrogeologist Intern - Summer 2027 | Richmond, VA |  | Oct 29 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98480) |

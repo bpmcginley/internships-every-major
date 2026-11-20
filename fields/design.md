@@ -17,7 +17,7 @@
 | [Addepar](https://internscout.org/internships/at/addepar/) | Product Design Intern - Summer 2027 | New York, NY | \$39 per hour | Nov 10 | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8927595002) |
 | AFL | Web Design/Development Intern | Duncan, SC |  | Nov 6 | [Apply](https://go.vansh.nyc/1mq) |
 | [Tinder](https://internscout.org/internships/at/tinder/) | User Experience Research Intern | Los Angeles, California |  | Nov 6 | [Apply](https://jobs.lever.co/matchgroup/e2747122-5e35-4230-9d54-8d274dd0a713/apply) |
-| [Pattern](https://internscout.org/internships/at/pattern/) | UX Design Intern - Summer 2027 | Lehi, UT, US |  | Nov 4 | [Apply](https://jobs.lever.co/pattern/c125d285-71d1-4af5-9ed2-b1f8884f2a2d/apply) |
+| Pattern | UX Design Intern - Summer 2027 | Lehi, UT, US |  | Nov 4 | [Apply](https://jobs.lever.co/pattern/c125d285-71d1-4af5-9ed2-b1f8884f2a2d/apply) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Summer 2027: Industrial Design Intern (May through August) | Needham, MA, United States |  | Nov 4 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720355006) |
 | [Figma](https://internscout.org/internships/at/figma/) | PhD Intern, Software Engineer - Interaction Design (2027) | SF +1 |  | Nov 4 | [Apply](https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004) |
 | [KnowBe4](https://internscout.org/internships/at/knowbe4/) | Multimedia Designer Summer Internship (Hybrid) | Clearwater, Florida | Paid | Nov 1 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919260002) |

@@ -1,17 +1,15 @@
 # Health: Summer 2027 Internships
 
-37 open Summer 2027 health roles, newest first (all 37). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 139 health internships on InternScout](https://internscout.org/internships/health/)
+35 open Summer 2027 health roles, newest first (all 35). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 134 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Atlantic Health System](https://internscout.org/internships/at/atlantic-health-system/) | Physical Therapy Intern | Morristown, NJ |  | Nov 20 | [Apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34623) |
 | [Analog Devices](https://internscout.org/internships/at/analog-devices/) | Software Engineering Intern, Medical Device & Healthcare Integration | Wilmington, MA |  | Nov 17 | [Apply](https://go.vansh.nyc/1AV) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (Wisconsin Health Plan) – Summer 2027 (Undergraduate) | WI |  | Nov 17 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040147) |
-| [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Services Internship (Ohio Health Plan) – Summer 2027 (Undergraduate) | OH |  | Nov 17 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040149) |
 | Amgen | AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern | Remote |  | Nov 13 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Provider Relations/Healthcare Admin Internship (Remote) – Summer 2027 (Undergraduate) | United States | Paid | Nov 13 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040152) |
 | [Medpace](https://internscout.org/internships/at/medpace/) | Clinical Monitoring Intern (Summer 2027) | Cincinnati, Ohio |  | Nov 12 | [Apply](https://careers.medpace.com/jobs/13129) |
-| [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Quality & Analytics Internship (Wisconsin Health Plan) – Summer 2027 (Undergraduate) | WI +1 |  | Nov 12 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040143) |
-| Genentech | Summer Intern - Digital, AI, and Clinical Outcome Assessments | South SF, CA |  | Nov 11 | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Digital--AI--and-Clinical-Outcome-Assessments_202611-128790) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Hospitality Internships - Glacier National Park | Columbia Falls, Montana | \$15.10/hr | Nov 11 | [Apply](https://www.xanterrajobs.com/jobs/40151) |
 | [Medpace](https://internscout.org/internships/at/medpace/) | Clinical Informatics Internship/Co-op - Summer 2027 | Cincinnati, Ohio +1 |  | Nov 10 | [Apply](https://careers.medpace.com/jobs/12988) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Hospitality Internships - Lodging - Grand Canyon South Rim | GRAND CANYON, Arizona | Paid | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40112) |
@@ -37,8 +35,8 @@
 | [Wellmark](https://internscout.org/internships/at/wellmark/) | Software Engineer Intern - Technology Healthcare Innovation | Des Moines, IA |  | Sep 21 | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000150732768) |
 | Netsmart | Revenue Cycle Management Operations Analyst Intern - Revenue Cycle Management | Overland Park, KS |  | Sep 18 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Revenue-Cycle-Management--RCM--Operations-Analyst-Intern-Summer-2027-Internship-_R015757) |
 | [Medpace](https://internscout.org/internships/at/medpace/) | Account Management Internship - Summer 2027 | Cincinnati, Ohio |  | Aug 20 | [Apply](https://careers.medpace.com/jobs/12957) |
-| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Material Science | Boston, MA | \$23.00 - \$32.00 | Nov 18 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Material-Science_REQ-31308-1) |
-| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Pathobiology | Boston, MA |  | Nov 18 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Pathobiology_REQ-31423) |
+| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Material Science | Boston, MA |  | Nov 18 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Material-Science_REQ-31308-1) |
+| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Pathobiology | Boston, MA | \$23.00 – \$50.00 | Nov 18 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Pathobiology_REQ-31423) |
 | [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Comparative Medicine | Boston, MA |  | Nov 18 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Comparative-Medicine_REQ-31424) |
 | [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, DMPK Bioanalysis | Boston, MA |  | Nov 18 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--DMPK-Bioanalysis_REQ-31426) |
 
