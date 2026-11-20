@@ -1,6 +1,6 @@
 # Media: Summer 2027 Internships
 
-35 open Summer 2027 media roles, newest first (all 35). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 111 media internships on InternScout](https://internscout.org/internships/media/)
+34 open Summer 2027 media roles, newest first (all 34). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 111 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -25,7 +25,6 @@
 | [Hearst](https://internscout.org/internships/at/hearst/) | Houston Chronicle Visuals Internship - Summer 2027 | Houston, TX, United States | Paid | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466410009) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Audience Intern - Summer 2027 | Houston, TX, United States | Paid | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466386009) |
 | OpenArt AI | Early Adopter & Product Builder Intern, Creative AI | San Carlos, CA |  | Oct 22 | [Apply](https://go.vansh.nyc/ej) |
-| [NVIDIA](https://internscout.org/internships/at/nvidia/) | Product Management MBA Intern - Gaming, Content Creation, And PC AI | Canada +2 |  | Oct 21 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) |
 | Sony | Research Engineer Intern, Ethical Creative and Protective AI Lab | Remote |  | Oct 20 | [Apply](https://go.vansh.nyc/cP) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Recommendation Video | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694362230074673461) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Creative Product Operations Intern - Multiple Teams | San Jose, CA |  | Oct 9 | [Apply](https://lifeattiktok.com/search/7693727532178229509) |

@@ -1,6 +1,6 @@
 # Health: Summer 2027 Internships
 
-38 open Summer 2027 health roles, newest first (all 38). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 141 health internships on InternScout](https://internscout.org/internships/health/)
+37 open Summer 2027 health roles, newest first (all 37). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 140 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -10,7 +10,6 @@
 | Amgen | AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern | Remote |  | Nov 13 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Provider Relations/Healthcare Admin Internship (Remote) – Summer 2027 (Undergraduate) | United States | Paid | Nov 13 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040152) |
 | [Medpace](https://internscout.org/internships/at/medpace/) | Clinical Monitoring Intern (Summer 2027) | Cincinnati, Ohio |  | Nov 12 | [Apply](https://careers.medpace.com/jobs/13129) |
-| [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Clinical Services Operations Internship (Remote) – Summer 2027 (Undergraduate) | United States |  | Nov 12 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040161) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Quality & Analytics Internship (Wisconsin Health Plan) – Summer 2027 (Undergraduate) | WI +1 |  | Nov 12 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040143) |
 | Genentech | Summer Intern - Digital, AI, and Clinical Outcome Assessments | South SF, CA |  | Nov 11 | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Digital--AI--and-Clinical-Outcome-Assessments_202611-128790) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Hospitality Internships - Glacier National Park | Columbia Falls, Montana | \$15.10/hr | Nov 11 | [Apply](https://www.xanterrajobs.com/jobs/40151) |

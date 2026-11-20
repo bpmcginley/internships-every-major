@@ -1,10 +1,11 @@
 # Cybersecurity: Summer 2027 Internships
 
-185 open Summer 2027 cybersecurity roles, newest first (all 185). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 289 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+186 open Summer 2027 cybersecurity roles, newest first (all 186). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 291 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | Bread Financial | Cybersecurity Intern | Columbus, OH |  | Nov 19 | [Apply](https://go.vansh.nyc/1CF) |
+| [RTX](https://internscout.org/internships/at/rtx/) | Software Security Intern | Cedar Rapids, IA |  | Nov 19 | [Apply](https://go.vansh.nyc/1CS) |
 | [Microsoft](https://internscout.org/internships/at/microsoft/) | Research Intern, Firmware Security | Redmond, WA |  | Nov 17 | [Apply](https://go.vansh.nyc/1BR) |
 | [CACI](https://internscout.org/internships/at/caci/) | Cybersecurity Intern | Remote +2 |  | Nov 17 | [Apply](https://go.vansh.nyc/1Cd) |
 | Fiserv | Technology Intern, Cybersecurity | Berkeley Heights, NJ +1 |  | Nov 17 | [Apply](https://go.vansh.nyc/1AS) |
@@ -30,6 +31,7 @@
 | Encore Global | IT Security Intern | Coppell, TX |  | Nov 11 | [Apply](https://go.vansh.nyc/1xr) |
 | International Motors | IT Security Intern | Lisle, IL |  | Nov 11 | [Apply](https://go.vansh.nyc/1xa) |
 | Ingersoll Rand | Cybersecurity Intern | United States |  | Nov 11 | [Apply](https://go.vansh.nyc/1x6) |
+| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | IT and Security Intern – Summer 2027 | Boston, MA | Paid | Nov 11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473539008?gh_jid=5473539008) |
 | [SimVentions](https://internscout.org/internships/at/simventions/) | Cybersecurity Intern | Fredericksburg, VA |  | Nov 11 | [Apply](https://go.vansh.nyc/1uu) |
 | Welltower | Cyber Security Intern | Frisco, TX |  | Nov 11 | [Apply](https://go.vansh.nyc/1uw) |
 | ISO New England | Cyber Adversary Defense Optimization Intern | Holyoke, MA |  | Nov 11 | [Apply](https://go.vansh.nyc/1wY) |
@@ -55,7 +57,6 @@
 | [Peraton](https://internscout.org/internships/at/peraton/) | Cyber Research Intern | West Lafayette, IN +3 |  | Nov 5 | [Apply](https://careers-peraton.icims.com/jobs/170120/job?mobile=true&needsRedirect=false) |
 | Little Caesars Enterprises | Cyber IT Intern | Detroit, MI |  | Nov 5 | [Apply](https://go.vansh.nyc/1iv) |
 | [PayPal](https://internscout.org/internships/at/paypal/) | Cybersecurity Intern - Summer 2027 | San Jose, CA +3 |  | Nov 5 | [Apply](https://paypal.eightfold.ai/careers/job/274922982812) |
-| [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Cyber Security Internship - Summer 2027 | Centennial, CO | \$23.10 - \$37.95 | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Cyber-Security-Internship-Summer-2027-CO-80112/1427397700/) |
 | United Parcel Service (UPS) | Information Security Intern | United States |  | Nov 4 | [Apply](https://go.vansh.nyc/1g5) |
 | [LLNL](https://internscout.org/internships/at/llnl/) | Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure | Livermore, CA |  | Nov 4 | [Apply](https://go.vansh.nyc/1fR) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Cybersecurity Intern | Pittsburgh, PA |  | Nov 4 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119551) |

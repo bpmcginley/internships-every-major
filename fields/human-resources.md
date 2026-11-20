@@ -1,11 +1,11 @@
 # Human Resources: Summer 2027 Internships
 
-46 open Summer 2027 human resources roles, newest first (all 46). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 121 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+47 open Summer 2027 human resources roles, newest first (all 47). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 122 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship, Human Resources - Compensation | New York, NY |  | Nov 19 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92295) |
 | [Thorlabs](https://internscout.org/internships/at/thorlabs/) | Summer 2027 Internship Human Resources | Newton, New Jersey | \$20.00 - \$25.00 per hour | Nov 17 | [Apply](https://apply.workable.com/j/8F984E4FF9/apply) |
-| [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Human Resources Intern | Kirkland, WA | Paid | Nov 17 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Human-Resources-Intern-WA-98033/1449175833/) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer Internship - Talent Acquisition | Renton, WA | \$25.00/Hour | Nov 17 | [Apply](https://jobs.paccar.com/job/Renton-Summer-Internship-Talent-Acquisition-WA-98055/1449187033/) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Production Management Intern- Summer 2027 (Multiple Locations)- Campus Recruiting | Austin, MN +7 |  | Nov 13 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35332) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern- Human Resources | Pascagoula, Mississippi |  | Nov 12 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-HUMAN-RESOURCES-Miss/1430053000/) |
@@ -49,6 +49,7 @@
 | [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Human Resources) | St Petersburg, FL |  | Nov 19, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37730/2027-summer-intern-%28human-resources%29/job) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Compensation and Benefits Intern - Summer 2027 | Reston, VA | Paid | Nov 19, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8693/compensation-and-benefits-intern---summer-2027/job) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Human Resources Operations Internship - Summer 2027 | Reston, VA | Paid | Nov 19, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8694/human-resources-operations-internship---summer-2027/job) |
+| [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Human Resources Intern | Kirkland, WA |  | Oct 20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Human-Resources-Intern-WA-98033/1449175833/) |
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Talent Acquisition & HR Service Delivery | Phoenix, AZ | Paid | Sep 18 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Talent-Acquisition---HR-Service-Delivery_R13872) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

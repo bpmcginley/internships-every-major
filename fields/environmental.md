@@ -1,9 +1,13 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-136 open Summer 2027 environmental science and engineering roles, newest first (all 136). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 288 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+137 open Summer 2027 environmental science and engineering roles, newest first (all 137). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 290 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Midland, Texas | \$20.00 | Nov 19 | [Apply](https://careers.trccompanies.com/jobs/29853) |
+| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Columbus, Ohio | \$35.20 | Nov 19 | [Apply](https://careers.cdmsmith.com/jobs/4312) |
+| [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Irvine, California | \$20.00 | Nov 19 | [Apply](https://careers.trccompanies.com/jobs/29820) |
+| [WSP](https://internscout.org/internships/at/wsp/) | Environmental Engineering Intern - Summer 2027 | Mount Laurel, NJ +3 | \$24.00 - \$28.00 | Nov 19 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99732) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Waltham, Massachusetts | \$20.00 | Nov 19 | [Apply](https://careers.trccompanies.com/jobs/29623) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Lowell, Massachusetts | \$20.00 | Nov 19 | [Apply](https://careers.trccompanies.com/jobs/29622) |
 | [Hershey](https://internscout.org/internships/at/hershey/) | Future Opportunity Intern Environmental Health & Safety - Reese Plant (Summer 2027) | Hershey, PA |  | Nov 19 | [Apply](https://careers.thehersheycompany.com/job/Hershey-Future-Opportunity-Intern-Environmental-Health-&-Safety-Reese-Plant-%28Summer-2027%29-PA-17033/1442458800/) |
@@ -45,7 +49,6 @@
 | [Stantec](https://internscout.org/internships/at/stantec/) | Hydrogeology Intern – Energy & Resources (Summer 2027) | Phoenix, AZ |  | Oct 22 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008387) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Environmental Sciences (Rosemead) | Rosemead, CA |  | Oct 22 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Environmental-Sciences-%28Rosemead%29-CA-91770-3714/1423168100/) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Geoscience Intern - Geysers | Middletown, California | Paid | Oct 21 | [Apply](https://jobs.constellationenergy.com/jobs/140303) |
-| [NVIDIA](https://internscout.org/internships/at/nvidia/) | PhD Research Intern - AI for Climate and Weather Simulation | Canada +2 |  | Oct 21 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949) |
 | [DP World](https://internscout.org/internships/at/dp-world/) | HSE Intern | Charlotte, NC |  | Oct 21 | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27399) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | R&D Geological Resources - Graduate Internship (Summer 2027) | Houston, TX |  | Oct 20 | [Apply](https://aramcoservices.applytojob.com/apply/yhDyRkhMJk/RD-Geological-Resources-Graduate-Internship-Summer-2027) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Fort Collins, Colorado | \$20.00 | Oct 19 | [Apply](https://careers.trccompanies.com/jobs/27130) |
@@ -75,7 +78,6 @@
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Sustainability Intern | Pittsburgh, Pennsylvania | \$20.00 | Oct 8 | [Apply](https://careers.trccompanies.com/jobs/27037) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Hydrogeology Intern - Energy & Resources (Summer 2027) | Denver, CO +1 |  | Oct 5 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008074) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | Environmental Test Engineering Intern (Summer 2027) | San Jose, CA | \$40/hour | Oct 2 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5256286007) |
-| [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Irvine, California | \$20.00 | Sep 28 | [Apply](https://careers.trccompanies.com/jobs/26984) |
 | [Road Commission for Oakland County](https://internscout.org/internships/at/road-commission-for-oakland-county/) | Environmental Science Internship | Beverly Hills, Michigan |  | Sep 25 | [Apply](https://rcoc.bamboohr.com/careers/315) |
 | [Road Commission for Oakland County](https://internscout.org/internships/at/road-commission-for-oakland-county/) | Geographic Information Systems Internship | Oakland County, Michigan +1 |  | Sep 25 | [Apply](https://rcoc.bamboohr.com/careers/314) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Ann Arbor, Michigan | \$20.00 | Sep 25 | [Apply](https://careers.trccompanies.com/jobs/26941) |
@@ -92,7 +94,6 @@
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Windsor, Connecticut | \$20.00 | Sep 22 | [Apply](https://careers.trccompanies.com/jobs/26917) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Chicago, Illinois | \$20.00 | Sep 22 | [Apply](https://careers.trccompanies.com/jobs/26856) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Jackson, Wyoming | \$20.00 | Sep 22 | [Apply](https://careers.trccompanies.com/jobs/26910) |
-| [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Midland, Texas | \$20.00 | Sep 22 | [Apply](https://careers.trccompanies.com/jobs/26811) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Boston, Massachusetts | \$20.00 | Sep 22 | [Apply](https://careers.trccompanies.com/jobs/26817) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Alachua, Florida | \$20.00 | Sep 22 | [Apply](https://careers.trccompanies.com/jobs/26915) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Phoenix, Arizona | \$20.00 | Sep 22 | [Apply](https://careers.trccompanies.com/jobs/26920) |

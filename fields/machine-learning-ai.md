@@ -1,16 +1,18 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-548 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 548). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 1,134 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+547 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 547). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 1,134 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Allied Consultants | AI/ML Engineer Intern | Austin, TX |  | Nov 19 | [Apply](https://go.vansh.nyc/1D1) |
+| [Scout Space](https://internscout.org/internships/at/scout-space/) | Computer Vision Engineer Intern, AI/ML | Reston, VA |  | Nov 19 | [Apply](https://go.vansh.nyc/1CQ) |
 | [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Sales AI | Chicago, Illinois | \$24.00-\$32.00/hour | Nov 19 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Chicago-Illinois/XMLNAME-2027-Summer-Internship--US----Sales-AI_JR104078-1) |
 | Camping World | Junior AI Engineering Intern | Chicago, IL |  | Nov 18 | [Apply](https://go.vansh.nyc/1CA) |
 | [Samsung Semiconductor](https://internscout.org/internships/at/samsung-semiconductor/) | LLM Inference Acceleration Architecture Intern, Distributed Memory-Centric Accelerators | San Jose, CA |  | Nov 18 | [Apply](https://go.vansh.nyc/1Cw) |
 | [Microsoft](https://internscout.org/internships/at/microsoft/) | Research Intern, Computer Vision and Deep Learning | Redmond, WA |  | Nov 18 | [Apply](https://go.vansh.nyc/1Cv) |
 | Vibrantz Technologies | Applied AI & Automation Intern | Houston, TX |  | Nov 18 | [Apply](https://go.vansh.nyc/1Ct) |
 | [Crusoe](https://internscout.org/internships/at/crusoe/) | AI Applied Research PhD Intern, Summer 2027 | San Francisco, CA - US +3 | \$80/hour | Nov 18 | [Apply](https://jobs.ashbyhq.com/Crusoe/8d1d162e-7bed-44fb-aff8-6af75b62937b/application) |
-| [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program (AI CAP) People Analytics Intern - Summer 2027 | Chicago, IL +5 | \$35-40 per hour | Nov 18 | [Apply](https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application) |
+| [Leidos](https://internscout.org/internships/at/leidos/) | Software Developer Intern, AI Project | Colorado Springs, CO |  | Nov 18 | [Apply](https://go.vansh.nyc/1CT) |
 | [Crusoe](https://internscout.org/internships/at/crusoe/) | AI Applied Research PhD Intern | SF +1 |  | Nov 18 | [Apply](https://jobs.ashbyhq.com/crusoe/8d1d162e-7bed-44fb-aff8-6af75b62937b/application?embed=true) |
 | Pathlabs | Software and AI Engineering Intern | Missoula, MT |  | Nov 17 | [Apply](https://go.vansh.nyc/1BC) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | AI/Machine Learning Intern - Interim Engineering Intern - SW | Markham, ON, Canada |  | Nov 17 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722176432) |
@@ -125,7 +127,7 @@
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Deep Learning Scientist Intern - LLM, Multimodal and Agentic AI | Canada +2 |  | Nov 4 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548) |
 | Tokyo Electron | Research Scientist Intern - Summer 2027 | Austin, TX |  | Nov 4 | [Apply](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Research-Scientist---ATG-Optical-Sensor-Development-Intern--Summer-2027-_R26-02311) |
 | [Baird](https://internscout.org/internships/at/baird/) | Automation & AI Solutions Intern | Milwaukee, WI |  | Nov 4 | [Apply](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Automation---AI-Solutions--Milwaukee--WI-_R20261262-1) |
-| [Bose](https://internscout.org/internships/at/bose/) | DSP/ML Research Engineer Intern \| Summer 2027 | US, MA - Framingham +1 |  | Nov 4 | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371) |
+| [Bose](https://internscout.org/internships/at/bose/) | DSP/ML Research Engineer Intern \| Summer 2027 | US, MA - Framingham +1 | \$40.00-\$51.25 per hour | Nov 4 | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371) |
 | Prologis | AI and Automation Intern, IT | Denver, CO |  | Nov 4 | [Apply](https://go.vansh.nyc/1gr) |
 | TruStage | IT Intern, Innovation & AI Technology | Madison, WI |  | Nov 3 | [Apply](https://go.vansh.nyc/1fm) |
 | Direct Supply | AI Engineer Intern | Milwaukee, WI |  | Nov 3 | [Apply](https://go.vansh.nyc/1ep) |
@@ -150,12 +152,10 @@
 | [Wellmark](https://internscout.org/internships/at/wellmark/) | Software Engineer Intern - AI Platform Team | Des Moines, IA |  | Nov 2 | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000159260670) |
 | [Samsung Semiconductor](https://internscout.org/internships/at/samsung-semiconductor/) | AI Application Engineer Intern | Folsom, CA |  | Nov 2 | [Apply](https://go.vansh.nyc/19X) |
 | [Flagship Pioneering](https://internscout.org/internships/at/flagship-pioneering/) | ML Intern | Cambridge, MA |  | Nov 2 | [Apply](https://go.vansh.nyc/19J) |
-| Intuitive | AI/ML Engineer Intern | Sunnyvale, CA |  | Nov 2 | [Apply](https://go.vansh.nyc/19B) |
 | Intuitive Surgical | AI/ML Engineer Intern | Sunnyvale, CA |  | Nov 2 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000159218439) |
 | [US Internships Public Careers Site](https://internscout.org/internships/at/us-internships-public-careers-site/) | Undergraduate Software Development Engineer in Test Intern, AI/ML | San Mateo, CA |  | Nov 2 | [Apply](https://go.vansh.nyc/1xE) |
-| [Entrust](https://internscout.org/internships/at/entrust/) | AI Developer Intern | Shakopee, MN |  | Nov 2 | [Apply](https://go.vansh.nyc/19k) |
+| Entrust | AI Developer Intern | Shakopee, MN |  | Nov 2 | [Apply](https://go.vansh.nyc/19k) |
 | Roku | Software Engineer Intern - AI Engineering | San Jose, CA |  | Nov 2 | [Apply](https://www.weareroku.com/jobs/8258241?gh_jid=8258241) |
-| [NVIDIA](https://internscout.org/internships/at/nvidia/) | AI Compiler and Kernel Intern | Austin, TX |  | Nov 2 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Project Intern, Content AI Infrastructure | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18G) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | AI Software Engineer Project Intern, Transaction Platform | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18t) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern, TikTok AI Search & Visual Search Infra Team | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/183) |

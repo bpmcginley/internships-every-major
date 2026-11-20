@@ -1,9 +1,10 @@
 # Chemical Engineering: Summer 2027 Internships
 
-23 open Summer 2027 chemical engineering roles, newest first (all 23). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 59 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+24 open Summer 2027 chemical engineering roles, newest first (all 24). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 59 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Ralliant](https://internscout.org/internships/at/ralliant/) | Process Engineer Intern (Summer 2027) | Beaverton, OR |  | Nov 19 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11292) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Material and Process Engineering Internship Summer 2027 | Centennial, CO | \$23.10 - \$37.95 | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Material-and-Process-Engineering-Internship-Summer-2027-CO-80112/1427398900/) |
 | [Boston Scientific](https://internscout.org/internships/at/boston-scientific/) | Process Development Co-op - Summer/Fall 2027 | Arden Hills, MN |  | Nov 3 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813554206) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Metallurgy & Process Engineering Intern - Energy & Resources (Summer 2027) | Reno, NV |  | Oct 30 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008551) |

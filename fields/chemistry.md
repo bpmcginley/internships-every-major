@@ -1,11 +1,10 @@
 # Chemistry: Summer 2027 Internships
 
-16 open Summer 2027 chemistry roles, newest first (all 16). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 28 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
+15 open Summer 2027 chemistry roles, newest first (all 15). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 27 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | Genesis Molecular AI | Computational Chemistry Intern - 2027 | San Mateo, CA |  | Nov 10 | [Apply](https://jobs.ashbyhq.com/genesis-molecular-ai/3de36849-b8da-4da9-bd22-d706343db9e1/application) |
-| [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern Chemistry Summer 2027 | Port Gibson, Mississippi |  | Nov 9 | [Apply](https://jobs.entergy.com/job/Port-Gibson-Student%2C-Intern-Chemistry-Summer-2027-Miss/1448978900/) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Lab Chemist Intern - Summer 2027 | Waynoka, OK | Paid | Oct 30 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168059) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Lab Chemist Intern - Summer 2027 | Sawyer, ND |  | Oct 6 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166917) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Lab Chemist Intern - Summer 2027 | El Dorado, AR |  | Oct 1 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166509) |

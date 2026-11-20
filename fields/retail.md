@@ -1,6 +1,6 @@
 # Retail: Summer 2027 Internships
 
-89 open Summer 2027 retail roles, newest first (all 89). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 124 retail internships on InternScout](https://internscout.org/internships/retail/)
+88 open Summer 2027 retail roles, newest first (all 88). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 123 retail internships on InternScout](https://internscout.org/internships/retail/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -9,7 +9,6 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern, Global E-Commerce Search | Seattle, WA |  | Nov 1 | [Apply](https://go.vansh.nyc/18r) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern, Recommendation Global E-Commerce | Seattle, WA |  | Nov 1 | [Apply](https://go.vansh.nyc/18l) |
 | Tapestry | E-Commerce Intern - E-Commerce | NYC |  | Oct 28 | [Apply](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/MBA-Intern--E-Commerce_JR20545) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Merchandising | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Merchandising-MD-21230/1434378900/) |
 | Inspire Brands | Digital Experience Performance Intern | Atlanta, GA |  | Oct 27 | [Apply](https://inspirebrands.wd5.myworkdayjobs.com/InspireCareers/job/Atlanta-Support-Center/Digital-Experience-Performance-Intern---Summer-2027_JR42022) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Design (Apparel and Footwear) | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Design-%28Apparel-and-Footwear%29-MD-21230/1434389000/) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Development Engineer Intern, Global E-Commerce Quality Platform & AI Test Automation | San Jose, CA +1 |  | Oct 18 | [Apply](https://go.vansh.nyc/RP) |
@@ -38,7 +37,7 @@
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship, Store Management - Pleasanton, CA | Pleasanton, CA | Paid | Sep 22 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92207) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship, Store Management - Wayne, NJ | Wayne, NJ |  | Sep 22 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92291) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship, Store Management -Palo Alto, CA | Palo Alto, CA |  | Sep 22 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92205) |
-| [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship, Store Management - Boston Market | Boston, MA | Paid | Sep 22 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92215) |
+| [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship, Store Management - Boston Market | Boston, MA |  | Sep 22 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92215) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship, Store Management - Queens Market | Flushing, NY |  | Sep 22 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92282) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship, Store Management - Raleigh/Durham Market | Raleigh, NC |  | Sep 22 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92288) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship, Store Management - Orlando Market | Orlando, FL |  | Sep 22 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92286) |

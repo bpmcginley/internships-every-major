@@ -1,6 +1,6 @@
 # Law and Legal: Summer 2027 Internships
 
-78 open Summer 2027 law and legal roles, newest first (all 78). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 153 law and legal internships on InternScout](https://internscout.org/internships/law/)
+79 open Summer 2027 law and legal roles, newest first (all 79). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 153 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Risk and Compliance (Pittsburgh, PA) | Pittsburgh, PA |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81276) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Risk and Compliance (Lake Mary, FL) | Lake Mary, FL |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81277) |
 | Old Mission | Legal Intern - Summer 2027 | Chicago, IL +1 | \$30–\$35/hr | Aug 10 | [Apply](https://jobs.ashbyhq.com/old-mission-capital/81bc628b-efad-4ec9-9870-d49f5843a37a/application) |
+| [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Legal) | St Petersburg, FL |  | Nov 19, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37832/2027-summer-intern-%28legal%29/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Information Security Governance, Risk & Compliance Intern | Niles, IL | \$23-\$43 per hour | Nov 19, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Trade Compliance Intern | Niles, IL | \$23-\$43 per hour | Nov 19, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5004/global-trade-compliance-intern/job) |
 

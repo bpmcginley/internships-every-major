@@ -1,6 +1,6 @@
 # Nonprofit: Summer 2027 Internships
 
-24 open Summer 2027 nonprofit roles, newest first (all 24). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 56 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
+23 open Summer 2027 nonprofit roles, newest first (all 23). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 55 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -10,7 +10,6 @@
 | [Southern Poverty Law Center](https://internscout.org/internships/at/southern-poverty-law-center/) | Intern, Digital Properties and Innovation - Digital Media (Summer 2027) | Atlanta, GA +4 | \$18.40 per hour | Nov 17 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8947982002) |
 | [Southern Poverty Law Center](https://internscout.org/internships/at/southern-poverty-law-center/) | Intern, Political Campaigns (Summer 2027) | Washington, DC | \$18.40 per hour | Nov 17 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8943627002) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (Wisconsin Health Plan) – Summer 2027 (Undergraduate) | WI |  | Nov 17 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040147) |
-| [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Community Science Partnerships Intern | Chicago, IL +6 | \$10,000.00 | Nov 17 | [Apply](https://careers-nrdc.icims.com/jobs/6067/summer-2027-community-science-partnerships-intern/job) |
 | [Southern Poverty Law Center](https://internscout.org/internships/at/southern-poverty-law-center/) | Intern, Policy Research - Eradicating Poverty (Summer 2027) | Atlanta, GA +6 | \$18.40 per hour | Nov 16 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8945974002) |
 | [Southern Poverty Law Center](https://internscout.org/internships/at/southern-poverty-law-center/) | Intern, Design (Summer 2027) | Atlanta, GA +5 | \$18.40 per hour | Nov 13 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8943360002) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Adaptation Advocacy Intern | Washington, DC | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6047/summer-2027-adaptation-advocacy-intern/job) |
@@ -18,11 +17,11 @@
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Principal Gifts Intern | New York, NY | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6076/summer-2027-principal-gifts-intern/job) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Green Finance Advocacy Intern | Washington, DC | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6069/summer-2027-green-finance-advocacy-intern/job) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Freshwater Ecosystems Intern | Washington, DC | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6071/summer-2027-freshwater-ecosystems-intern/job) |
-| [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Knowledge Management Intern | Washington, DC | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6066/summer-2027-knowledge-management-intern/job) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (Nebraska Health Plan) – Summer 2027 (Undergraduate) | NE |  | Nov 4 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040148) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (New York Health Plan) – Summer 2027 (Undergraduate) | New York, NY |  | Nov 3 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040153) |
 | Bloomberg Philanthropies | 2027 Bloomberg Philanthropies Summer Internship | New York, New York, United States | Paid | Oct 27 | [Apply](https://job-boards.greenhouse.io/bloombergdotorg/jobs/8046487003) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Community Impact | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Community-Impact-MD-21230/1434384000/) |
+| [NRDC](https://internscout.org/internships/at/nrdc/) | Community Science Partnerships Intern | Santa Monica, CA +4 |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6067/job?mobile=true&needsRedirect=false) |
 | [EQT Corporation](https://internscout.org/internships/at/eqt-corporation/) | Community Relations Intern | Canonsburg, PA |  | Oct 9 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5448044008) |
 | Auburn University | Advancement Internship - Fundraising | Auburn, AL | \$14.00/hour | Oct 2 | [Apply](https://jobs.auburn.edu/jobs/10540) |
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Undergraduate Intern, National Security Project | New York, NY |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8842752002) |

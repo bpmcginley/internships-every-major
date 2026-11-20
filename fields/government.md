@@ -1,6 +1,6 @@
 # Government and Public Policy: Summer 2027 Internships
 
-39 open Summer 2027 government and public policy roles, newest first (all 39). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 232 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+40 open Summer 2027 government and public policy roles, newest first (all 40). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 235 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Public Policy Intern (Kennett Square, PA) | Kennett Square, Pennsylvania |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138711) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Policy Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175556?gh_jid=8175556) |
 | [Air Force Civilian Career Training](https://internscout.org/internships/at/air-force-civilian-career-training/) | Student Trainee | Clear AFB, Alaska +83 | \$36409 - \$52957 Per Year | Sep 1 | [Apply](https://www.usajobs.gov:443/job/882786200) |
+| [Olsson](https://internscout.org/internships/at/olsson/) | Structural Engineering Internship - Federal Infrastructure | Overland Park, KS |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5396073008) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 19, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Government Relations Internship - Summer 2027 | Reston, VA |  | Nov 19, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8690/government-relations-internship---summer-2027/job) |
 | Port Authority of New York and New Jersey | Interest Form, 2027 Summer Internship Program | New York, New York | Paid | Sep 18 | [Apply](https://jobs.jobvite.com/panynj/job/ozTEAfwq/apply) |

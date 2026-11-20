@@ -1,9 +1,10 @@
 # Marketing: Summer 2027 Internships
 
-130 open Summer 2027 marketing roles, newest first (all 130). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 389 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+129 open Summer 2027 marketing roles, newest first (all 129). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 390 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Summer 2027: Employer Brand Intern (June to August) | Needham, MA, United States |  | Nov 19 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726787006) |
 | [Apple Bank](https://internscout.org/internships/at/apple-bank/) | 2027 Summer Intern- Marketing | New York, NY | \$24/hr | Nov 19 | [Apply](https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern--Marketing_2026-1412) |
 | [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - NA Vertical & Field Marketing | Lincolnshire, Illinois |  | Nov 19 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----NA-Vertical---Field-Marketing_JR103620) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Product Marketing Intern | Kirkland, WA | Paid | Nov 19 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Product-Marketing-Intern-WA-98033/1450066433/) |
@@ -21,7 +22,6 @@
 | Epiroc | Intern - Product Application & Marketing Engineer (Summer 2027) | Garland, TX |  | Nov 13 | [Apply](https://www.careerprofile.epiroc.com/job/Garland-Intern-Product-Application-&-Marketing-Engineer-%28Summer-2027%29-TX-75040/1457345533/) |
 | [Emerson Electric](https://internscout.org/internships/at/emerson-electric/) | Life Sciences Marketing Intern | Round Rock, TX |  | Nov 13 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009264) |
 | [Veeam Software](https://internscout.org/internships/at/veeam-software/) | Customer Experience Intern - Summer 2027 | Remote, Georgia, USA |  | Nov 12 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5035360101) |
-| [Galaxy](https://internscout.org/internships/at/galaxy/) | 2027 Data Center Growth & Development Intern - NYC | New York | \$55/hr | Nov 12 | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6256234004) |
 | [HF Sinclair](https://internscout.org/internships/at/hf-sinclair/) | Branded Fuels - Business Analytics Intern | Dallas, TX |  | Nov 12 | [Apply](https://careers.hfsinclair.com/job/Dallas-Branded-Fuels-Business-Analytics-Intern-TX-75219/1430072700/) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern - Communications | Pascagoula, Mississippi |  | Nov 12 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMMUNICATIONS-Miss/1430056000/) |
 | [Itron](https://internscout.org/internships/at/itron/) | Intern - Product Marketing & Sales (Summer 2027) | United States of America, Washington, Liberty Lake |  | Nov 10 | [Apply](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Product-Marketing---Sales-Enablement--Summer-2027-_JR102949) |
@@ -107,7 +107,6 @@
 | [ibotta](https://internscout.org/internships/at/ibotta/) | D2C Marketing Intern | Hybrid - Denver +2 | \$23.08 per hour | Sep 11 | [Apply](https://jobs.ashbyhq.com/ibotta/f543fdd4-7b73-4f57-a6d3-32990967c625/application) |
 | [Veeam Software](https://internscout.org/internships/at/veeam-software/) | Launch Strategy Marketing Intern - Summer 2027 | Remote, Georgia, USA |  | Sep 11 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955350101) |
 | [Veeam Software](https://internscout.org/internships/at/veeam-software/) | Campaign Marketing Intern - Summer 2027 | Remote, Georgia, USA |  | Sep 11 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955286101) |
-| [Veeam Software](https://internscout.org/internships/at/veeam-software/) | CoE Program & Content Intern - Summer 2027 | Remote, Georgia, USA |  | Sep 11 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4964357101) |
 | Watts Water | Strategic Marketing Intern - Analytics & Segmentation | North Andover, MA |  | Sep 11 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Strategic-Marketing-Intern---Analytics---Segmentation--Summer-2027_10017533) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Affiliated Distribution Strategy & Marketing Intern – Summer 2027 | Montpelier, VT | Paid | Sep 8 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4390937009) |
 | [Selective Insurance](https://internscout.org/internships/at/selective-insurance/) | IT Customer Experience Summer Internship - Short Hills, NJ (Hybrid) | Short Hills, New Jersey | \$25.00 | Sep 8 | [Apply](https://jobs.selective.com/jobs/5752) |

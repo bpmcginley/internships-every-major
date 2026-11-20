@@ -1,9 +1,10 @@
 # Insurance: Summer 2027 Internships
 
-29 open Summer 2027 insurance roles, newest first (all 29). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 48 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+31 open Summer 2027 insurance roles, newest first (all 31). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 50 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Chubb](https://internscout.org/internships/at/chubb/) | Underwriting Intern | Chattanooga, TN | \$18 to \$24 per hour | Nov 19 | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38715) |
 | [Selective Insurance](https://internscout.org/internships/at/selective-insurance/) | Underwriting Summer Internship – Allentown, PA (Hybrid) | Allentown, Pennsylvania | \$22.00 | Nov 18 | [Apply](https://jobs.selective.com/jobs/5683) |
 | [Selective Insurance](https://internscout.org/internships/at/selective-insurance/) | Underwriting Summer Internship – Scottsdale, AZ (Hybrid) | Scottsdale, Arizona | \$22.00 | Nov 17 | [Apply](https://jobs.selective.com/jobs/5759) |
 | State Farm | Summer 2027 Intern-Property and Casualty Underwriting-Learning Analyst | Bloomington, Illinois +1 | \$24/hour | Nov 12 | [Apply](https://jobs.statefarm.com/jobs/46444) |
@@ -28,6 +29,7 @@
 | [Selective Insurance](https://internscout.org/internships/at/selective-insurance/) | IT E&S Insurance Product Delivery Summer Internship – Charlotte, NC (Hybrid) | Charlotte, North Carolina | \$25.00 | Sep 8 | [Apply](https://jobs.selective.com/jobs/5778) |
 | [NJM Insurance Group](https://internscout.org/internships/at/njm-insurance-group/) | Insurance Product Management Analyst Intern 3 | Trenton, NJ |  | Sep 1 | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst-Intern-3_R2008190) |
 | [Compeer Financial](https://internscout.org/internships/at/compeer-financial/) | Crop Insurance Intern | WI-Fond du Lac | Paid | Aug 31 | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5398257008) |
+| [Northmarq](https://internscout.org/internships/at/northmarq/) | Insurance Intern, Summer 2027 | Minneapolis, Minnesota, United States | \$22.00 per hour | Aug 25 | [Apply](https://job-boards.greenhouse.io/northmarq/jobs/5406134008) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Actuarial Intern - Summer 2027 | Addison, TX +1 | Paid | Aug 19 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4376293009) |
 | GuideWell Mutual | 2027 Actuarial Summer Internship | Jacksonville, FL |  | Aug 18 | [Apply](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41855) |
 | Jencap | 2027 Summer Insurance Internship | Atlanta, GA +3 |  | Jul 29 | [Apply](https://job-boards.greenhouse.io/jencapinc/jobs/5198365007) |

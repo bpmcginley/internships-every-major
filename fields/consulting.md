@@ -1,10 +1,9 @@
 # Consulting: Summer 2027 Internships
 
-76 open Summer 2027 consulting roles, newest first (all 76). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 136 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+74 open Summer 2027 consulting roles, newest first (all 74). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 132 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program (AI CAP) People Analytics Intern - Summer 2027 | Chicago, IL +5 | \$35-40 per hour | Nov 18 | [Apply](https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application) |
 | Attain Partners | Summer 2027 Consulting Intern | McLean, VA | Paid | Nov 17 | [Apply](https://job-boards.greenhouse.io/attainpartners/jobs/5485402008) |
 | [KPMG](https://internscout.org/internships/at/kpmg/) | Edmonton Consulting Summer Internship, Operations - Government Solutions (May - August 2027) | Edmonton, Alberta, Canada |  | Nov 16 | [Apply](https://careers.kpmg.ca/jobs/36504) |
 | [KPMG](https://internscout.org/internships/at/kpmg/) | Calgary Summer Internship, Consulting (May - August 2027) | Calgary, Alberta, Canada |  | Nov 16 | [Apply](https://careers.kpmg.ca/jobs/36503) |
@@ -16,7 +15,6 @@
 | [CarGurus](https://internscout.org/internships/at/cargurus/) | Data Governance Engineer Intern | Boston, MA |  | Nov 11 | [Apply](https://go.vansh.nyc/1wX) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: Business Analyst Intern RC&S | Northbrook, IL +1 | \$25.50 | Nov 11 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11495) |
 | Bank of Montreal | Treasury & Payment Solutions Strategy Intern | Toronto, ON, Canada |  | Nov 10 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382) |
-| [Cerity Partners](https://internscout.org/internships/at/cerity-partners/) | 2027 Summer Risk Management Strategy Analyst Internship | Louisville, KY |  | Nov 10 | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/XMLNAME-2027-Summer-Risk-Management-Strategy-Analyst-Internship_R918-1) |
 | [NBCUniversal](https://internscout.org/internships/at/nbcuniversal/) | Cybersecurity, Governance & Security Engineering Intern, Media Tech | New York, NY |  | Nov 9 | [Apply](https://go.vansh.nyc/1oC) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Business Strategy Intern Industrial Services \| Summer 2027 | Deer Park, TX | \$20/hour | Nov 6 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168640) |
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | Product Owner Intern, AI Consulting Associate Program (AI CAP) | Chicago, IL |  | Oct 31 | [Apply](https://go.vansh.nyc/12P) |
@@ -46,7 +44,6 @@
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | IT Business Analyst Intern | Perry, OK |  | Oct 13 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/IT-Business-Analyst-Intern---Ditch-Witch_JR17608) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Business and Administrative Intern - Strategy Analyst, CCO Strategy and Program Management | Palo Alto, California | \$28,00-51.00 per hour | Oct 12 | [Apply](https://careers.rivian.com/jobs/34239) |
 | [DocuSign](https://internscout.org/internships/at/docusign/) | Solution Consultant Intern | Seattle, Washington | \$31/hour | Oct 12 | [Apply](https://careers.docusign.com/jobs/30524) |
-| [State of Wisconsin Investment Board](https://internscout.org/internships/at/state-of-wisconsin-investment-board/) | Systematic Multi-Strategy Intern | Madison, WI |  | Oct 9 | [Apply](https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Systematic-Multi-Strategy-Intern_R-001342) |
 | [WTW](https://internscout.org/internships/at/wtw/) | Early Careers: Pharmacy Benefits Consulting Internship - Chicago - Summer 2027 | Chicago, IL |  | Oct 8 | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606458) |
 | [West Monroe](https://internscout.org/internships/at/west-monroe/) | Software Engineering Consultant Intern - AI Concentration | Seattle, WA |  | Oct 6 | [Apply](https://go.vansh.nyc/1ta) |
 | [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | Foodservice Pricing and Trade Strategy Intern - Summer 2027 | Columbus, Ohio |  | Oct 1 | [Apply](https://careers.marzetticompany.com/jobs/8153) |
@@ -54,6 +51,7 @@
 | [Peraton](https://internscout.org/internships/at/peraton/) | Summer 2027 Business Analyst Intern | San Diego, California | \$25–30/hr | Sep 30 | [Apply](https://peraton.jibeapply.com/jobs/171542) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | Data Governance Engineer Intern | Warren, MI |  | Sep 28 | [Apply](https://go.vansh.nyc/Q1) |
 | Newmark Group | Newmark Management Consulting Intern | TX |  | Sep 18 | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/249950) |
+| [Cerity Partners](https://internscout.org/internships/at/cerity-partners/) | Risk Management Strategy Intern | Louisville, KY |  | Sep 17 | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/XMLNAME-2027-Summer-Risk-Management-Strategy-Analyst-Internship_R918-1) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Client Solutions Manager Intern - GBS-LATAM | Miami, FL |  | Sep 14 | [Apply](https://lifeattiktok.com/search/7684612598114240821) |
 | 3M | Business Analyst Intern - Consumer Business Group | Maplewood, MN |  | Sep 14 | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Sustainability and Climate Strategy Intern (Remote) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138731) |

@@ -1,6 +1,6 @@
 # Economics: Summer 2027 Internships
 
-14 open Summer 2027 economics roles, newest first (all 14). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 23 economics internships on InternScout](https://internscout.org/internships/economics/)
+14 open Summer 2027 economics roles, newest first (all 14). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 24 economics internships on InternScout](https://internscout.org/internships/economics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

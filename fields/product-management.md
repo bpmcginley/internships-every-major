@@ -1,12 +1,13 @@
 # Product Management: Summer 2027 Internships
 
-165 open Summer 2027 product management roles, newest first (all 165). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 258 product management internships on InternScout](https://internscout.org/internships/product-management/)
+164 open Summer 2027 product management roles, newest first (all 164). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 259 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | Pyrotek | Product Management Intern | Spokane, WA |  | Nov 18 | [Apply](https://jobs.smartrecruiters.com/Pyrotek3/744000162385949) |
 | [Lucid](https://internscout.org/internships/at/lucid/) | Product Management Internship - Summer 2027 | Salt Lake City, UT |  | Nov 18 | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) |
 | [Lucid](https://internscout.org/internships/at/lucid/) | Product Management Internship - Summer 2027 | Raleigh, NC |  | Nov 18 | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) |
+| Smarty | Product Management Intern | Orem, UT |  | Nov 18 | [Apply](https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749) |
 | [Lumentum](https://internscout.org/internships/at/lumentum/) | SW Developer Support Intern, Program Management Office | San Jose, CA |  | Nov 17 | [Apply](https://go.vansh.nyc/1BA) |
 | [APEX Analytix](https://internscout.org/internships/at/apex-analytix/) | Product Management (DevOps) Intern - Summer 2027 | Greensboro, NC |  | Nov 17 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164) |
 | Uber | 2027 Product Management Intern, US | San Francisco, CA +1 | \$56.80 per hour | Nov 17 | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304983) |
@@ -61,7 +62,6 @@
 | [SOTI](https://internscout.org/internships/at/soti/) | Associate Product Manager Intern | Mississauga, Canada |  | Oct 23 | [Apply](https://go.vansh.nyc/hh) |
 | [SOTI](https://internscout.org/internships/at/soti/) | Associate Product Manager Intern | Mississauga, ON, Canada |  | Oct 23 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614) |
 | [Aptiv](https://internscout.org/internships/at/aptiv/) | AI Product Analyst Intern | San Diego, CA |  | Oct 21 | [Apply](https://go.vansh.nyc/dC) |
-| [NVIDIA](https://internscout.org/internships/at/nvidia/) | Product Management MBA Intern - Gaming, Content Creation, And PC AI | Canada +2 |  | Oct 21 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) |
 | Allstate | Product Management Advertising Intern | Illinois |  | Oct 21 | [Apply](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280) |
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program Product Owner Intern | Chicago, IL +1 |  | Oct 20 | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8038087003) |
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | Product Owner Intern, AI Consulting Associate Program | Chicago, IL +1 |  | Oct 20 | [Apply](https://go.vansh.nyc/df) |
@@ -103,7 +103,6 @@
 | Farmers Mutual Hail | Product Owner Intern | West Des Moines, IA | Paid | Sep 17 | [Apply](https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4404335009) |
 | Watts Water | Product Specialist Intern | Fort Worth, TX |  | Sep 17 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Product-Specialist-Intern-2027_10017586) |
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Product Management Intern | Paso Robles, CA |  | Sep 17 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109) |
-| Smarty | Product Management Intern | Orem, UT | Paid | Sep 16 | [Apply](https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749) |
 | [AspenTech](https://internscout.org/internships/at/aspentech/) | Product Owner Intern - Product Management | Houston, TX +1 |  | Sep 16 | [Apply](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern---Product-Management----Summer-2027_R9471) |
 | Illinois Tool Works | Product Management Intern | Troy, OH |  | Sep 15 | [Apply](https://careers.itw.com/global/en/job/JR10105) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MBA, Salesforce Product Owner | Los Angeles, California, United States +1 | Paid | Sep 15 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8198582) |

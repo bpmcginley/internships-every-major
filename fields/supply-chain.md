@@ -1,6 +1,6 @@
 # Supply Chain: Summer 2027 Internships
 
-80 open Summer 2027 supply chain roles, newest first (all 80). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 188 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
+79 open Summer 2027 supply chain roles, newest first (all 79). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 188 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -28,7 +28,6 @@
 | Northwood Space | Supply Chain Operations Intern (2027 Summer Internship) | Torrance, CA +2 |  | Oct 22 | [Apply](https://jobs.ashbyhq.com/northwoodspace/7bfa4ec0-7d5a-475b-aa2b-0cd0741e1549/application) |
 | Northwood Space | Supply Chain Data & Analytics Intern (2027 Summer Internship) | Torrance, CA +2 |  | Oct 22 | [Apply](https://jobs.ashbyhq.com/northwoodspace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Supply Chain Management (Rosemead) | Rosemead, CA |  | Oct 22 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Supply-Chain-Management-%28Rosemead%29-CA-91770-3714/1423200600/) |
-| [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Product Sourcing Engineer Intern | Costa Mesa, California, United States +2 | Paid | Oct 21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007) |
 | [DP World](https://internscout.org/internships/at/dp-world/) | Procurement intern | Charlotte, NC |  | Oct 21 | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27446) |
 | Astronics | Supply Chain Internship - Summer 2027 | Redmond, Washington, United States | \$30 per hour | Oct 19 | [Apply](https://job-boards.greenhouse.io/astronicscorporation/jobs/4458283009) |
 | [Amplify](https://internscout.org/internships/at/amplify/) | Summer 2027: Supply Chain Intern | Remote |  | Oct 19 | [Apply](https://jobs.ashbyhq.com/amplify/143c8ccc-69ce-4141-bcfe-0bc553ea49b4/application) |
@@ -58,7 +57,6 @@
 | Ulta Beauty | Intern Distribution Center | Chambersburg, Pennsylvania |  | Sep 14 | [Apply](https://careers.ulta.com/jobs/527840) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Transportation Analyst Intern (Kennett Square, PA) | Kennett Square, Pennsylvania |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138721) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Indirect Procurement Intern Summer 2027 | Long Beach, CA | \$25.00 | Sep 11 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989063003) |
-| Force Factor | Summer 2027 Supply Chain Intern | Boston, MA +1 |  | Sep 9 | [Apply](https://forcefactor.com/pages/job-openings?gh_jid=6167273004) |
 | [Divergent Technologies](https://internscout.org/internships/at/divergent-technologies/) | Summer 2027 Supply Chain Intern | Torrance, California, United States | Paid | Sep 8 | [Apply](https://job-boards.greenhouse.io/divergent/jobs/5393546008) |
 | Spirit AeroSystems | Boeing - Wichita Summer 2027 Internship Program (Paid) - Supplier Quality Assurance & Compliance | Wichita, Kansas | \$18.60/hr | Sep 8 | [Apply](https://careers.spiritaero.com/jobs/17513) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Procurement | Detroit, MI |  | Sep 8 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14726) |
@@ -72,6 +70,8 @@
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 19, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
 | [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Supply Chain) | St Petersburg, FL |  | Nov 19, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37507/2027-summer-intern-%28supply-chain%29/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Logistics Intern | Niles, IL | \$23-\$43 per hour | Nov 19, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4987/global-logistics-intern/job) |
+| [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Logistics Engineering Intern - Summer 2027 | Middletown, Pennsylvania | \$23 to \$27.50 per hour | Nov 19 | [Apply](https://se.jibeapply.com/jobs/137750) |
+| [SRC, Inc](https://internscout.org/internships/at/src-inc/) | QMS/Supplier Quality (Intern - Summer 2027) | Syracuse, New York | \$20.00 to \$22.00/hour | Nov 19 | [Apply](https://jobs.jobvite.com/src-inc/job/oiJIAfw3/apply) |
 | [Capital Power](https://internscout.org/internships/at/capital-power/) | Supply Chain Summer Student | Edmonton, AB | \$36.18 | Nov 19 | [Apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Supply-Chain-Summer-Student_JR807179) |
 | [ATC](https://internscout.org/internships/at/atc/) | Intern-Supply Chain Summer 2027 | Pewaukee, WI +1 | \$23-27/hr | Nov 19 | [Apply](https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern-Supply-Chain-Summer-2027_R0003303) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Summer 2027 Supply Chain Planning Co-Op | Red Oak, Texas | \$23.00-\$29.50 per hour | Nov 12 | [Apply](https://se.jibeapply.com/jobs/140828) |
@@ -80,7 +80,6 @@
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Logistics Quality Engineering Intern - Summer 2027 | Mechanicsburg, Pennsylvania | \$23 to \$27.50 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/138177) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Supply Chain Operations Intern - Summer 2027 | Middletown, Pennsylvania | \$23 to \$27.50 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/138181) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Supply Chain Operations Intern - Summer 2027 | Mechanicsburg, Pennsylvania | \$23 to \$27.50 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/137740) |
-| [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Logistics Quality Engineering Intern - Summer 2027 | Middletown, Pennsylvania | \$23 to \$27.50 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/138184) |
 | [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Supply Chain (Summer 2027) | Buffalo Grove, IL |  | Oct 24 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Buffalo-Grove-IL/Intern---Supply-Chain--Summer-2027-_R041055) |
 | [OATEY](https://internscout.org/internships/at/oatey/) | Supply Chain - Logistics Intern | Cleveland, OH (Headquarters) | \$20.00 | Oct 23 | [Apply](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Headquarters/Distribution---Logistics-Intern_R7187) |
 | [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Supply Chain Regional (Summer 2027) | Neenah, WI |  | Oct 17 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Supply-Chain-Regional--Summer-2027-_R041135) |

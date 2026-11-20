@@ -1,9 +1,10 @@
 # Quantitative Finance: Summer 2027 Internships
 
-129 open Summer 2027 quantitative finance roles, newest first (all 129). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 172 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
+130 open Summer 2027 quantitative finance roles, newest first (all 130). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 173 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Soros Fund Management | Quantitative Strategist Intern | New York +2 | \$45/hr | Nov 17 | [Apply](https://job-boards.greenhouse.io/familyoffice/jobs/8202834003) |
 | All Options | Graduate Quantitative Trader Intern | Austin, TX |  | Nov 17 | [Apply](https://alloptions.bamboohr.com/careers/85/) |
 | State of Maryland | Quantitative Analyst Intern | Baltimore, MD |  | Nov 13 | [Apply](https://go.vansh.nyc/1zI) |
 | [StepStone Group](https://internscout.org/internships/at/stepstone-group/) | 2027 AI Quant Summer Analyst | La Jolla, MD +3 | \$30/hour | Nov 11 | [Apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8368989) |

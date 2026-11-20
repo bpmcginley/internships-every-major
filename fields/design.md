@@ -1,6 +1,6 @@
 # Design: Summer 2027 Internships
 
-59 open Summer 2027 design roles, newest first (all 59). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 142 design internships on InternScout](https://internscout.org/internships/design/)
+58 open Summer 2027 design roles, newest first (all 58). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 140 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -55,7 +55,6 @@
 | [DoorDash](https://internscout.org/internships/at/doordash/) | Product Design, Intern (Summer 2027) | San Francisco, CA +1 | Paid | Sep 3 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) |
 | [Dynamic Catholic](https://internscout.org/internships/at/dynamic-catholic/) | Front-End UX Intern | Erlanger, KY |  | Sep 2 | [Apply](https://go.vansh.nyc/1eA) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | Product Design Intern (Summer 2027) | Tysons Corner, Virginia | \$36.00 per hour | Aug 31 | [Apply](https://careers.cvent.com/jobs/10764) |
-| [Mortenson](https://internscout.org/internships/at/mortenson/) | Graphic Design Intern | MN | Paid | Aug 10 | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23351) |
 | Virtu | 2027 Internship - Frontend Engineer (UI) | New York +1 | \$5,000 - \$5,800 week | Jul 29 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002) |
 | [Jump Trading Group](https://internscout.org/internships/at/jump-trading/) | Campus UI Software Engineer Intern | Chicago, IL |  | Jul 9 | [Apply](https://go.vansh.nyc/3m) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Graphic Design Internship - Summer 2027 | Reston, VA | Paid | Nov 19, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8668/graphic-design-internship---summer-2027/job) |
