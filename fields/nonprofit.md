@@ -1,9 +1,10 @@
 # Nonprofit: Summer 2027 Internships
 
-23 open Summer 2027 nonprofit roles, newest first (all 23). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 55 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
+23 open Summer 2027 nonprofit roles, newest first (all 23). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 55 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Southern Poverty Law Center](https://internscout.org/internships/at/southern-poverty-law-center/) | Intern, State Community Organizer, Mississippi State Office (Summer 2027) | Jackson, MS | \$18.40 per hour | Nov 19 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8955345002) |
 | Jackson | Corporate Philanthropy Intern Nashville - Starting Summer 2027 | Nashville, TN |  | Nov 19 | [Apply](https://jackson.wd1.myworkdayjobs.com/Jackson_Careers/job/Nashville-TN/Corporate-Philanthropy-Intern-Nashville---Starting-Summer-2027_REQ-04032-1) |
 | Jackson | Corporate Philanthropy Intern - Lansing - Summer 2027 | Lansing, MI |  | Nov 19 | [Apply](https://jackson.wd1.myworkdayjobs.com/Jackson_Careers/job/Lansing-MI/Corporate-Philanthropy-Intern---Lansing---Summer-2027_REQ-04033-1) |
 | [Southern Poverty Law Center](https://internscout.org/internships/at/southern-poverty-law-center/) | Intern, Hate Prevention (Summer 2027) | Remote | \$18.40 per hour | Nov 18 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8950825002) |
@@ -21,7 +22,6 @@
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (New York Health Plan) – Summer 2027 (Undergraduate) | New York, NY |  | Nov 3 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040153) |
 | Bloomberg Philanthropies | 2027 Bloomberg Philanthropies Summer Internship | New York, New York, United States | Paid | Oct 27 | [Apply](https://job-boards.greenhouse.io/bloombergdotorg/jobs/8046487003) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Community Impact | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Community-Impact-MD-21230/1434384000/) |
-| [NRDC](https://internscout.org/internships/at/nrdc/) | Community Science Partnerships Intern | Santa Monica, CA +4 |  | Oct 13 | [Apply](https://careers-nrdc.icims.com/jobs/6067/job?mobile=true&needsRedirect=false) |
 | [EQT Corporation](https://internscout.org/internships/at/eqt-corporation/) | Community Relations Intern | Canonsburg, PA |  | Oct 9 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5448044008) |
 | Auburn University | Advancement Internship - Fundraising | Auburn, AL | \$14.00/hour | Oct 2 | [Apply](https://jobs.auburn.edu/jobs/10540) |
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Undergraduate Intern, National Security Project | New York, NY |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8842752002) |

@@ -1,9 +1,11 @@
 # Sustainability: Summer 2027 Internships
 
-68 open Summer 2027 sustainability roles, newest first (all 68). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 107 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+70 open Summer 2027 sustainability roles, newest first (all 70). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 107 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | Richmond, Virginia | \$20.00 | Nov 20 | [Apply](https://careers.trccompanies.com/jobs/29953) |
+| [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | Clifton Park, New York | \$20.00 | Nov 20 | [Apply](https://careers.trccompanies.com/jobs/29952) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern, Capital Projects, Summer 2027 | Malvern, Arkansas +1 |  | Nov 18 | [Apply](https://jobs.entergy.com/job/Malvern-Student%2C-Intern%2C-Capital-Projects%2C-Summer-2027-Arka/1441956200/) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | New York, New York | \$20.00 | Nov 13 | [Apply](https://careers.trccompanies.com/jobs/28995) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | Oakland, California | \$20.00 | Nov 13 | [Apply](https://careers.trccompanies.com/jobs/28863) |
@@ -15,7 +17,6 @@
 | [Stantec](https://internscout.org/internships/at/stantec/) | Building Science Co-op/Intern (Summer 2027) | San Francisco, CA |  | Nov 9 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008756) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Sustainability Internship - Oasis at Death Valley | Death Valley, California | \$16.90 per hour | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40118) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Nuclear Fuels Intern - Warrenville, IL | Warrenville, Illinois | Paid | Nov 6 | [Apply](https://jobs.constellationenergy.com/jobs/138696) |
-| Public Service Enterprise Group | Staff Intern - Corporate Citizenship - Federal Affairs & Sustainability | Newark, NJ |  | Nov 5 | [Apply](https://jobs.pseg.com/job/Newark-Summer-2027-Intern-Corporate-Citizenship-Federal-Affairs-&-Sustainability-NJ-07101/1448352900/?ats=successfactors) |
 | [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Clean Energy Research Intern | Washington, DC | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6055/summer-2027-clean-energy-research-intern/job) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Renewable Energy Intern - Houston Office | Houston, Texas +1 | Paid | Nov 4 | [Apply](https://jobs.constellationenergy.com/jobs/141851) |
 | [Berkshire Hathaway Energy](https://internscout.org/internships/at/berkshire-hathaway-energy/) | Intern - Renewable Generation Performance | Des Moines, IA |  | Nov 4 | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006008) |
@@ -70,7 +71,8 @@
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Midstream Treating | HOUSTON, Texas |  | Sep 4 | [Apply](https://careers.kindermorgan.com/jobs/6210) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern -Permitting | HOUSTON, Texas |  | Sep 2 | [Apply](https://careers.kindermorgan.com/jobs/6174) |
 | Tarrant Regional Water District | Energy Intern | Fort Worth, TX |  | Sep 1 | [Apply](https://trwd.wd1.myworkdayjobs.com/TRWDCareers/job/Fort-Worth-TX/Summer-2027-Energy-Intern--T047-_JR100217) |
-| [Shure](https://internscout.org/internships/at/shure/) | Data Driven Sustainability Intern | Niles, IL | \$23-\$43 per hour | Nov 19, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4979/data-driven-sustainability-intern/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Data Driven Sustainability Intern | Niles, IL | \$23-\$43 per hour | Nov 20, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4979/data-driven-sustainability-intern/job) |
+| American Honda Motor Co., Inc. | Environmental/Safety/Sustainability Co-op/Intern - Summer 2027 | Torrance, CA (+6 others) | \$23.35-\$35.22 | Nov 20 | [Apply](https://careers.honda.com/us/en/job/11001/Environmental-Safety-Sustainability-Co-op-Intern-Summer-2027?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [The Andersons](https://internscout.org/internships/at/the-andersons/) | Renewables Engineering Intern (Summer 2027) | Logansport, IN |  | Nov 19 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Logansport-IN/Renewables-Engineering-Intern--Summer-2027-_R12498) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

@@ -1,6 +1,6 @@
 # Education: Summer 2027 Internships
 
-28 open Summer 2027 education roles, newest first (all 28). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 170 education internships on InternScout](https://internscout.org/internships/education/)
+27 open Summer 2027 education roles, newest first (all 27). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 167 education internships on InternScout](https://internscout.org/internships/education/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -8,7 +8,7 @@
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship - Material Sciences | Laurel, Maryland | \$22.60 Hour | Nov 13 | [Apply](https://careers.jhuapl.edu/jobs/60857) |
 | Art of Problem Solving | Computer Science Curriculum Intern | San Diego, California, United States | \$30/hour | Nov 10 | [Apply](https://artofproblemsolving.com/careers/job/8199446003?gh_jid=8199446003) |
 | Art of Problem Solving | Math Curriculum Intern | San Diego, California, United States | \$30/hour | Nov 9 | [Apply](https://artofproblemsolving.com/careers/job/8199370003?gh_jid=8199370003) |
-| [Chubb](https://internscout.org/internships/at/chubb/) | Agency Education and Development Intern | Chicago, IL | \$18 to \$24 per hour | Nov 6 | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38424) |
+| Chubb | Agency Education and Development Intern | Chicago, IL | \$18 to \$24 per hour | Nov 6 | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38424) |
 | [University Corporation for Atmospheric Research](https://internscout.org/internships/at/university-corporation-for-atmospheric-research/) | 2027 SIParCS Graduate Student Internships | Boulder, CO | \$28.32/hr | Nov 4 | [Apply](https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/XMLNAME-2027-SIParCS-Graduate-Student-Internships_REQ-2026-230-2) |
 | [Carnegie Mellon University](https://internscout.org/internships/at/carnegie-mellon-university/) | Enabling Edge Intelligence (E2I) Intern - Summer 2027 | Pittsburgh, PA |  | Nov 4 | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Enabling-Edge-Intelligence--E2I--Intern---Summer-2027_2025308-1) |
 | [Carnegie Mellon University](https://internscout.org/internships/at/carnegie-mellon-university/) | Enabling Mission Capability at Scale Intern - Summer 2027 | Pittsburgh, PA |  | Oct 30 | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300-1) |
@@ -30,7 +30,6 @@
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Leadership Instructional Design Internship | IRVINE, California | Paid | Sep 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36762) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Sales Instructional Design Internship | Caledonia, Michigan | Paid | Sep 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36655) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship - Human Centered Design | Laurel, Maryland | \$22.60 Hour | Sep 4 | [Apply](https://careers.jhuapl.edu/jobs/59986) |
-| Camp Wicosuta | Theater Education Internship - Summer Camp Performing Arts Instructor | United States |  | Nov 18 | [Apply](https://www.beyondberea.org/jobs/camp-wicosuta-theater-education-internship-summer-camp-performing-arts-instructor/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Carnegie Mellon University](https://internscout.org/internships/at/carnegie-mellon-university/) | Malware Analysis Intern - Summer 2027 | Pittsburgh, PA |  | Nov 14 | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Malware-Analysis-Intern---Summer-2027_2025185-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

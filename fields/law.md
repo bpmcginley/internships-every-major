@@ -1,9 +1,10 @@
 # Law and Legal: Summer 2027 Internships
 
-79 open Summer 2027 law and legal roles, newest first (all 79). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 153 law and legal internships on InternScout](https://internscout.org/internships/law/)
+80 open Summer 2027 law and legal roles, newest first (all 80). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 152 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [SAS](https://internscout.org/internships/at/sas/) | Cybersecurity Compliance and AI Automation Intern | Cary, NC |  | Nov 19 | [Apply](https://go.vansh.nyc/1Dy) |
 | [Exelon](https://internscout.org/internships/at/exelon/) | 2027 Summer Internship - Legal Intern, 1st and 2nd Yr Law Students (Various Locations) | PHILADELPHIA, Pennsylvania +3 | \$29.00/Hr | Nov 19 | [Apply](https://careers.comed.com/jobs/33550) |
 | [BGE](https://internscout.org/internships/at/bge/) | 2027 Summer Internship - Legal Intern, 1st and 2nd Yr Law Students (Various Locations) | PHILADELPHIA, Pennsylvania +3 | \$29.00/Hr | Nov 19 | [Apply](https://careers.bge.com/jobs/33550) |
 | [BGE](https://internscout.org/internships/at/bge/) | 2027 Summer Internship - Legal Intern 1st Year Law Students (Oakbrook Terrace, IL) | OAKBROOK TERRACE, Illinois | \$29.00/Hr | Nov 19 | [Apply](https://careers.bge.com/jobs/33549) |
@@ -29,10 +30,10 @@
 | Liberty Mutual Canada | Summer Student, Legal & Compliance (Summer Term - May - August 2027) | Toronto, Ontario, Canada | \$24 per hour | Nov 2 | [Apply](https://apply.workable.com/j/8FEF0DA199/apply) |
 | [Vialto Partners](https://internscout.org/internships/at/vialto-partners/) | Part-Time Law Student – Canadian Business Immigration | Montreal | \$20–\$25 per hour | Nov 2 | [Apply](https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Montreal/Part-Time-Law-Student---Canadian-Business-Immigration_REQ908925) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Software Engineer Intern, Global Payment - Risk & Compliance | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/14k) |
+| [The Andersons](https://internscout.org/internships/at/the-andersons/) | Legal Intern (Summer 2027) | Maumee, OH |  | Oct 29 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Legal-Intern--Summer-2027-_R12494) |
 | Innocence Project | 2027 Post Conviction Litigation Summer Law Student Intern | New York, New York | \$19.50 per hour | Oct 29 | [Apply](https://apply.workable.com/j/D52B4434A9/apply) |
 | [Strada Education Foundation](https://internscout.org/internships/at/strada-education-foundation/) | Strada Education Foundation Internship: Policy Intern | Washington, DC | \$22.75/hour | Oct 28 | [Apply](https://jobs.lever.co/stradaeducation/a5d0b720-c67c-466d-829e-bd3cc72d1339/apply) |
 | [Strada Education Foundation](https://internscout.org/internships/at/strada-education-foundation/) | Strada Education Foundation Internship: Legal Intern | Indianapolis, Indiana +1 | \$22.75/hour | Oct 28 | [Apply](https://jobs.lever.co/stradaeducation/cf1023bd-5d9f-4caa-a6ed-270bd965eb25/apply) |
-| [The Andersons](https://internscout.org/internships/at/the-andersons/) | Legal Intern (Summer 2027) | Maumee, OH |  | Oct 28 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Legal-Intern--Summer-2027-_R12494) |
 | [Formlabs](https://internscout.org/internships/at/formlabs/) | Legal Intern (Summer 2027) | Somerville, MA | \$1,550 | Oct 27 | [Apply](https://careers.formlabs.com/job/8319490/apply/?gh_jid=8319490) |
 | Fervo Energy | Legal Intern | Houston, TX |  | Oct 27 | [Apply](https://job-boards.greenhouse.io/fervoenergy/jobs/4464038009) |
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Financial Crime Compliance | Phoenix, AZ | Paid | Oct 27 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Financial-Crime-Compliance_R13732-1) |
@@ -72,7 +73,7 @@
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Intern - Ethics and Compliance (Legal) | Pittsburgh, PA |  | Sep 24 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119616) |
 | [Cummins](https://internscout.org/internships/at/cummins/) | Legal / Law Summer Internship Positions | Columbus, IN |  | Sep 24 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437767) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Legal Intern | Pittsburgh, PA | \$5,000 per month | Sep 24 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119582) |
-| [Emergent Holdings](https://internscout.org/internships/at/emergent-holdings/) | Summer 2027 Intern - Program Oversight/Marketing Compliance | Detroit, MI | Paid | Sep 16 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14772) |
+| Emergent Holdings | Summer 2027 Intern - Program Oversight/Marketing Compliance | Detroit, MI | Paid | Sep 16 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14772) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Public Policy Intern (Kennett Square, PA) | Kennett Square, Pennsylvania |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138711) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Policy Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175556?gh_jid=8175556) |
 | Spirit AeroSystems | Boeing - Wichita Summer 2027 Internship Program (Paid) - Supplier Quality Assurance & Compliance | Wichita, Kansas | \$18.60/hr | Sep 8 | [Apply](https://careers.spiritaero.com/jobs/17513) |
@@ -80,9 +81,9 @@
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Risk and Compliance (Pittsburgh, PA) | Pittsburgh, PA |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81276) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Risk and Compliance (Lake Mary, FL) | Lake Mary, FL |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81277) |
 | Old Mission | Legal Intern - Summer 2027 | Chicago, IL +1 | \$30–\$35/hr | Aug 10 | [Apply](https://jobs.ashbyhq.com/old-mission-capital/81bc628b-efad-4ec9-9870-d49f5843a37a/application) |
-| [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Legal) | St Petersburg, FL |  | Nov 19, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37832/2027-summer-intern-%28legal%29/job) |
-| [Shure](https://internscout.org/internships/at/shure/) | Information Security Governance, Risk & Compliance Intern | Niles, IL | \$23-\$43 per hour | Nov 19, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job) |
-| [Shure](https://internscout.org/internships/at/shure/) | Global Trade Compliance Intern | Niles, IL | \$23-\$43 per hour | Nov 19, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5004/global-trade-compliance-intern/job) |
+| [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Legal) | St Petersburg, FL |  | Nov 20, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37832/2027-summer-intern-%28legal%29/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Information Security Governance, Risk & Compliance Intern | Niles, IL | \$23-\$43 per hour | Nov 20, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Global Trade Compliance Intern | Niles, IL | \$23-\$43 per hour | Nov 20, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5004/global-trade-compliance-intern/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

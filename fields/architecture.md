@@ -1,6 +1,6 @@
 # Architecture: Summer 2027 Internships
 
-38 open Summer 2027 architecture roles, newest first (all 38). **Updated November 19, 2026.** [Back to every major](../README.md) · [See all 85 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+37 open Summer 2027 architecture roles, newest first (all 37). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 84 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -18,7 +18,6 @@
 | Logiqal | Quantum Error Correction and Architecture Intern | Princeton, NJ |  | Nov 4 | [Apply](https://go.vansh.nyc/1hg) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18h) |
 | [Divergent Technologies](https://internscout.org/internships/at/divergent-technologies/) | Summer 2027 Learning Architecture and Design Intern | Torrance, California, United States | Paid | Oct 29 | [Apply](https://job-boards.greenhouse.io/divergent/jobs/5393542008) |
-| [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | R&D GSC Architectural Paint Lab Internship- Brecksville, OH | Brecksville, OH |  | Oct 27 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627563) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Enterprise Architecture Software Engineer & Architect Intern | Pittsburgh, PA |  | Oct 26 | [Apply](https://go.vansh.nyc/SS) |
 | Western & Southern Financial Group | Enterprise Architecture Information Technology Intern | Cincinnati, OH |  | Oct 22 | [Apply](https://go.vansh.nyc/eX) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Edge AI and Display Hardware Architecture Intern | Markham, ON, Canada |  | Oct 21 | [Apply](https://go.vansh.nyc/dY) |
