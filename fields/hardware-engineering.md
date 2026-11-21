@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-278 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 278). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 692 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+277 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 277). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 694 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -83,7 +83,6 @@
 | [Zoox](https://internscout.org/internships/at/zoox/) | Hardware Engineer Intern, Vehicle Development \[Summer 2027\] | Foster City, CA |  | Nov 2 | [Apply](https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62/apply) |
 | [Zoox](https://internscout.org/internships/at/zoox/) | Hardware Engineer Intern, Manufacturing Operations \[Summer 2027\] | Foster City, CA |  | Nov 2 | [Apply](https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded/apply) |
 | Valmont | Embedded Systems Engineer Intern | Valley, NE |  | Nov 2 | [Apply](https://go.vansh.nyc/1br) |
-| NXP Semiconductors | Hardware/Software System and Application Engineer Intern | Chandler, AZ |  | Nov 2 | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/HW-SW-System-and-Application-Engineer-Intern-Summer-2027_R-10064708) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Design Verification Engineer Intern | Richardson, TX +1 |  | Nov 2 | [Apply](https://go.vansh.nyc/1ba) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Design Verification Engineer Intern | Richardson, TX |  | Nov 2 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Design-Verification-Engineer-Intern--Summer-2027-_JR-2604024) |
 | [Relling](https://internscout.org/internships/at/relling/) | Robotics Software Engineering Intern | San Francisco, CA |  | Oct 31 | [Apply](https://go.vansh.nyc/13m) |
@@ -204,6 +203,7 @@
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Firmware Development Intern - PAL | Markham, ON, Canada +1 |  | Sep 23 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721229661) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | FPGA Intern (Summer 2027) | San Francisco +2 | \$29.00 per hour | Sep 23 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704805006) |
 | [Analog Devices](https://internscout.org/internships/at/analog-devices/) | Embedded Software Engineer Intern | Toronto, Canada +1 |  | Sep 23 | [Apply](https://go.vansh.nyc/Jm) |
+| Two Sigma | Hardware Engineering Intern | NYC +1 |  | Sep 22 | [Apply](https://twosigma.avature.net/careers/JobDetail/14289) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

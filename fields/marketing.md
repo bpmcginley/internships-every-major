@@ -1,6 +1,6 @@
 # Marketing: Summer 2027 Internships
 
-126 open Summer 2027 marketing roles, newest first (all 126). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 387 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+130 open Summer 2027 marketing roles, newest first (all 130). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 392 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [DreamWorks Animation](https://internscout.org/internships/at/dreamworks-animation/) | Advertising & Partnerships: Ad Products Intern | NYC |  | Nov 9 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160686479) |
 | [NBCUniversal](https://internscout.org/internships/at/nbcuniversal/) | Data Science Intern, Advertising & Partnerships | New York, NY |  | Nov 9 | [Apply](https://go.vansh.nyc/1oO) |
 | [Veeam Software](https://internscout.org/internships/at/veeam-software/) | Field Marketing Intern - Summer 2027 | Toronto, Canada |  | Nov 9 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5031428101) |
+| [Itron](https://internscout.org/internships/at/itron/) | Intern - Product Marketing & Sales (Summer 2027) | United States of America, Washington, Liberty Lake |  | Nov 9 | [Apply](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Product-Marketing---Sales-Enablement--Summer-2027-_JR102949) |
 | [Tinder](https://internscout.org/internships/at/tinder/) | Social Marketing Intern | Los Angeles, California |  | Nov 6 | [Apply](https://jobs.lever.co/matchgroup/d4f57475-3ea3-4560-924b-5a5507d4f002/apply) |
 | [Corning](https://internscout.org/internships/at/corning/) | R&D Intern, Optical Communications Development - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Nov 6 | [Apply](https://corningjobs.corning.com/job/Corning-R&D-Intern%2C-Optical-Communications-Development-Summer-2027-NY-14831/1448753800/) |
 | [Formlabs](https://internscout.org/internships/at/formlabs/) | Marketing Strategy MBA Intern (Summer 2027) | Somerville, MA | \$2,750 | Nov 5 | [Apply](https://careers.formlabs.com/job/8319365/apply/?gh_jid=8319365) |
@@ -45,6 +46,7 @@
 | [Uline](https://internscout.org/internships/at/uline/) | Marketing Intern | Waukegan, IL +4 |  | Nov 5 | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Marketing-Internship---Summer-2027_R268946) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (Nebraska Health Plan) – Summer 2027 (Undergraduate) | NE |  | Nov 4 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040148) |
 | Prologis | IT Customer Experience Technologies Intern | Denver, CO |  | Nov 4 | [Apply](https://go.vansh.nyc/1gs) |
+| [Invesco](https://internscout.org/internships/at/invesco/) | Early Career Intern - Communications | Atlanta, Georgia | \$35/hr | Nov 3 | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Communications_R-15968) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (New York Health Plan) – Summer 2027 (Undergraduate) | New York, NY |  | Nov 3 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040153) |
 | [Tria Federal](https://internscout.org/internships/at/tria-federal/) | Summer Internship Program - Growth Operations | Arlington, VA +1 |  | Nov 2 | [Apply](https://triafed.com/jobs/?gh_jid=5470246008) |
 | [ParetoHealth](https://internscout.org/internships/at/paretohealth/) | Growth Operations Summer Intern | Philadelphia, Pennsylvania, United States |  | Nov 2 | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726002006) |
@@ -60,6 +62,7 @@
 | [Legrand](https://internscout.org/internships/at/legrand/) | Product Marketing Intern (Summer 2027) | West Hartford, CT |  | Oct 23 | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1640) |
 | Together AI | Growth Marketing Intern (Summer 2027) | San Francisco | \$41/hr | Oct 22 | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5270409007) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Information Communications Technology (ICT ) Intern - Buildings (Summer 2027) | Lynnwood, WA |  | Oct 22 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008438) |
+| [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Revenue Growth Management Intern, Summer 2027 | Orrville, OH |  | Oct 22 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Revenue-Growth-Management-Intern--Summer-2027_116012) |
 | Allstate | Product Management Advertising Intern | Illinois |  | Oct 21 | [Apply](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280) |
 | STR | Graphic Design & Technical Communications Intern - Summer 2027 | Woburn, MA | \$25.20-\$54.00/hour | Oct 20 | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723386006) |
 | [Amplify](https://internscout.org/internships/at/amplify/) | Summer 2027: Marketing Intern | Remote |  | Oct 19 | [Apply](https://jobs.ashbyhq.com/amplify/c99b2457-451b-4a7b-a874-e50b955288f5/application) |
@@ -123,6 +126,7 @@
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Marketing & Events Internship - Jan 2027 | Reston, VA | Paid | Nov 21, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8676/marketing-%26-events-internship---jan-2027/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Marketing Intern – ShureCloud & Customer Value Streams | Niles, IL | \$23-\$43 per hour | Nov 21, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4988/global-marketing-intern-%e2%80%93-shurecloud-%26-customer-value-streams/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Marketing Intern (Events & Content Small Scale) | Niles, IL | \$23-\$43 per hour | Nov 21, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5023/global-marketing-intern-%28events-%26-content-small-scale%29/job) |
+| [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Corporate Communications Intern, Summer 2027 | Orrville, OH |  | Nov 21 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Corporate-Communications-Intern--Summer-2027_115919) |
 | [Inmar Intelligence](https://internscout.org/internships/at/inmar-intelligence/) | Marketing Internships, Summer 2027 | Headquarters, Winston Salem, NC |  | Nov 20 | [Apply](https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Marketing-Internships--Summer-2027_JY2627636) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Marketing Internship Program | Boston, Massachusetts | \$23.00 - \$27.50 per hour | Nov 18 | [Apply](https://se.jibeapply.com/jobs/140487) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Summer 2027 Product Marketing Intern | Boston, Massachusetts +1 | \$23.00-\$27.50 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/138534) |

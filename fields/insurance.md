@@ -1,10 +1,9 @@
 # Insurance: Summer 2027 Internships
 
-25 open Summer 2027 insurance roles, newest first (all 25). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 42 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+24 open Summer 2027 insurance roles, newest first (all 24). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 42 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| AAA Club Alliance | 2027 Actuarial Intern - Remote | Arizona - Home Teleworkers | \$32.00 | Nov 19 | [Apply](https://aaaie.wd1.myworkdayjobs.com/csaacareers/job/Arizona---Home-Teleworkers/XMLNAME-2027-Actuarial-Intern---Remote_R7874-1) |
 | [Aon](https://internscout.org/internships/at/aon/) | Early Careers: RMI Summer Internship - Risk Capital & Reinsurance | New York, New York +5 | \$21.60 - \$27.60 hour | Nov 19 | [Apply](https://jobs.aon.com/jobs/113654) |
 | [Selective Insurance](https://internscout.org/internships/at/selective-insurance/) | Underwriting Summer Internship – Allentown, PA (Hybrid) | Allentown, Pennsylvania | \$22.00 | Nov 18 | [Apply](https://jobs.selective.com/jobs/5683) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern-Property and Casualty Underwriting-Learning Analyst | Bloomington, Illinois +1 | \$24/hour | Nov 12 | [Apply](https://jobs.statefarm.com/jobs/46444) |

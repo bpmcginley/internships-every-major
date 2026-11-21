@@ -1,6 +1,6 @@
 # Accounting: Summer 2027 Internships
 
-70 open Summer 2027 accounting roles, newest first (all 70). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 159 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+74 open Summer 2027 accounting roles, newest first (all 74). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 167 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Trilogy Health Services](https://internscout.org/internships/at/trilogy-health-services/) | Accounting Intern | Louisville, Kentucky | Paid | Oct 30 | [Apply](https://jobs.trilogyhs.com/jobs/213299) |
 | [Trilogy Health Services](https://internscout.org/internships/at/trilogy-health-services/) | Internal Audit - Intern | Louisville, Kentucky |  | Oct 30 | [Apply](https://jobs.trilogyhs.com/jobs/213295) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Business Administration - Accounting/Finance (Pomona/Rosemead) | Rosemead, CA |  | Oct 29 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Business-Administration-AccountingFinance-%28PomonaRosemead%29-CA-91770-3714/1425449300/) |
+| [Itron](https://internscout.org/internships/at/itron/) | Intern - Tax (Summer 2027) | United States of America, Washington, Liberty Lake | \$15.87 - \$44.23 per hour | Oct 27 | [Apply](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Tax--Summer-2027-_JR102951-1) |
 | [First Citizens BancShares](https://internscout.org/internships/at/first-citizens-bancshares/) | 2027 Summer Intern – Enterprise Controls Assurance (Raleigh, NC) | Raleigh, North Carolina |  | Oct 27 | [Apply](https://firstcitizens.jibeapply.com/jobs/36259) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Finance and Accounting | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Finance-and-Accounting-MD-21230/1434330100/) |
 | Federal Home Loan Bank of Dallas | Accounting Tech Solutions Intern | Irving, TX |  | Oct 26 | [Apply](https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Accounting-Tech-Solutions-Intern_REQ-444) |
@@ -67,6 +68,9 @@
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Audit (New York, NY) | New York, NY |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81248) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Audit (Pittsburgh, PA) | Pittsburgh, PA |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81262) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Internship - Technology Assurance | Portland, ME | \$30 per hour | Nov 21, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4021/summer-2027-internship---technology-assurance/job) |
+| [Cerity Partners](https://internscout.org/internships/at/cerity-partners/) | Summer 2027 Tax Intern | Cincinnati, OH |  | Nov 21 | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Cincinnati-OH/Summer-2027-Tax-Intern_R835-1) |
+| [Cerity Partners](https://internscout.org/internships/at/cerity-partners/) | Summer 2027 Tax Intern | Louisville, KY |  | Nov 21 | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/Summer-2027-Tax-Intern_R836-1) |
+| [Cerity Partners](https://internscout.org/internships/at/cerity-partners/) | Summer 2027 Tax Intern | Raleigh, NC |  | Nov 21 | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Raleigh-NC/Summer-2027-Tax-Intern_R976-1) |
 | [The Andersons](https://internscout.org/internships/at/the-andersons/) | Accounting Intern (Summer 2027) | Maumee, OH |  | Nov 19 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Accounting-Intern--Summer-2027-_R12482) |
 | [The Andersons](https://internscout.org/internships/at/the-andersons/) | Tax Intern (Summer 2027) | Maumee, OH |  | Nov 19 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Tax-Intern--Summer-2027-_R12483) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Division Accounting | Denton, TX |  | Nov 13 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Division-Accounting-TX-76205-7864/1457311133/) |

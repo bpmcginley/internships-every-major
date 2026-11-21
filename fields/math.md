@@ -1,10 +1,9 @@
 # Math: Summer 2027 Internships
 
-10 open Summer 2027 math roles, newest first (all 10). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 21 math internships on InternScout](https://internscout.org/internships/math/)
+9 open Summer 2027 math roles, newest first (all 9). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 20 math internships on InternScout](https://internscout.org/internships/math/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| AAA Club Alliance | 2027 Actuarial Intern - Remote | Arizona - Home Teleworkers | \$32.00 | Nov 19 | [Apply](https://aaaie.wd1.myworkdayjobs.com/csaacareers/job/Arizona---Home-Teleworkers/XMLNAME-2027-Actuarial-Intern---Remote_R7874-1) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Intern - Data Science / Biostatistician | Detroit, MI |  | Nov 12 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14837) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Statistics Intern | Atlanta, GA |  | Nov 6 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Statistics-Intern_R-0000033876) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Epidemiology / Biostatistics Intern | Detroit, MI |  | Oct 6 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14949) |

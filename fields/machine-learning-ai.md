@@ -1,6 +1,6 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-558 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 558). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 1,148 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+558 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 558). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 1,152 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | LinkedIn | AI/ML Engineer Intern | Mountain View, CA |  | Nov 20 | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000162628808) |
 | LinkedIn | AI/ML Engineer Intern - Generative AI | Mountain View, CA |  | Nov 20 | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000162623639) |
 | LinkedIn | Artificial Intelligence/Machine Learning Engineer Intern - Search and Recommender Systems | Mountain View, CA |  | Nov 20 | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000162623368) |
+| Woodward Governor | AI Intern | Niles, IL +1 |  | Nov 20 | [Apply](https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Software Engineering Intern - AI Platform, Autonomy (Summer 2027) | Palo Alto, California +1 | \$33.00-51.00/HR | Nov 20 | [Apply](https://careers.rivian.com/jobs/37339) |
 | [Ralliant](https://internscout.org/internships/at/ralliant/) | Software Engineering (AI Building) Intern (Summer 2027) | Beaverton, OR |  | Nov 20 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11324) |
 | [Microsoft](https://internscout.org/internships/at/microsoft/) | Research Intern - Deep Learning Group | Redmond, WA |  | Nov 19 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557076095) |
@@ -137,7 +138,7 @@
 | [Palantir Technologies](https://internscout.org/internships/at/palantir-technologies/) | Software Engineer Intern, Sovereign AI Systems | New York, NY |  | Nov 5 | [Apply](https://go.vansh.nyc/1j0) |
 | [Constellation Brands](https://internscout.org/internships/at/constellation-brands/) | AI Innovation Intern | Rochester, NY +1 |  | Nov 5 | [Apply](https://go.vansh.nyc/1iF) |
 | The Cary Company | AI / Automation Intern | Addison, IL |  | Nov 5 | [Apply](https://go.vansh.nyc/1ig) |
-| Tencent | Site Reliability Engineer (SRE) Intern, AI Infrastructure | Palo Alto, CA |  | Nov 5 | [Apply](https://go.vansh.nyc/1hQ) |
+| [Tencent](https://internscout.org/internships/at/tencent/) | Site Reliability Engineer (SRE) Intern, AI Infrastructure | Palo Alto, CA |  | Nov 5 | [Apply](https://go.vansh.nyc/1hQ) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | AI/ML Data Science and Engineering Intern | Bossier City, LA |  | Nov 5 | [Apply](https://go.vansh.nyc/1hS) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Research Scientist Intern - Monetization Technology - Ads Core | San Jose, CA |  | Nov 5 | [Apply](https://lifeattiktok.com/search/7703777085291415813) |
 | AstraZeneca | Manufacturing Digital and AI Intern | Gaithersburg, MD |  | Nov 5 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Manufacturing-Digital-and-AI-Intern_R-263647) |
@@ -153,7 +154,7 @@
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Deep Learning Scientist Intern - LLM, Multimodal and Agentic AI | Canada +2 |  | Nov 4 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548) |
 | Tokyo Electron | Research Scientist Intern - Summer 2027 | Austin, TX |  | Nov 4 | [Apply](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Research-Scientist---ATG-Optical-Sensor-Development-Intern--Summer-2027-_R26-02311) |
 | [Baird](https://internscout.org/internships/at/baird/) | Automation & AI Solutions Intern | Milwaukee, WI |  | Nov 4 | [Apply](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Automation---AI-Solutions--Milwaukee--WI-_R20261262-1) |
-| [Bose](https://internscout.org/internships/at/bose/) | DSP/ML Research Engineer Intern \| Summer 2027 | US, MA - Framingham +1 |  | Nov 4 | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371) |
+| [Bose](https://internscout.org/internships/at/bose/) | DSP/ML Research Engineer Intern \| Summer 2027 | US, MA - Framingham +1 | \$40.00-\$51.25 per hour | Nov 4 | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371) |
 | Prologis | AI and Automation Intern, IT | Denver, CO |  | Nov 4 | [Apply](https://go.vansh.nyc/1gr) |
 | TruStage | IT Intern, Innovation & AI Technology | Madison, WI |  | Nov 3 | [Apply](https://go.vansh.nyc/1fm) |
 | [Direct Supply](https://internscout.org/internships/at/direct-supply/) | AI Engineer Intern | Milwaukee, WI |  | Nov 3 | [Apply](https://go.vansh.nyc/1ep) |
@@ -203,7 +204,6 @@
 | Vantor | AI Engineer Intern | Remote +1 |  | Oct 31 | [Apply](https://go.vansh.nyc/13t) |
 | Powertown | Machine Learning Engineer Intern | Boston, MA |  | Oct 31 | [Apply](https://go.vansh.nyc/13k) |
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | Product Owner Intern, AI Consulting Associate Program (AI CAP) | Chicago, IL |  | Oct 31 | [Apply](https://go.vansh.nyc/12P) |
-| [DriveWealth](https://internscout.org/internships/at/drivewealth/) | Engineering Intern, AI Consulting Associate Program (AI CAP) | Chicago, IL |  | Oct 31 | [Apply](https://go.vansh.nyc/12O) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

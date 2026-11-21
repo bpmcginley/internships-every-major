@@ -1,10 +1,11 @@
 # Urban Planning: Summer 2027 Internships
 
-34 open Summer 2027 urban planning roles, newest first (all 34). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 62 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+35 open Summer 2027 urban planning roles, newest first (all 35). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 63 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | Ulteig | GIS Intern | Remote +2 |  | Nov 20 | [Apply](https://recruiting2.ultipro.com/ULT1008ULTE/JobBoard/71bc1da6-c7b0-4b37-9f7b-076d7d68c57b/OpportunityDetail?opportunityId=06de9c99-c3f6-41e6-867e-05efb7cfa5fa) |
+| CAI | GIS Software Developer Intern | IL-CLIENT-STATE +1 | \$20 per hour | Nov 20 | [Apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/IL-CLIENT-STATE/Software-Developer-Intern_R8554) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Environmental Planning Intern - Summer 2027 | Portland, OR +1 | \$20.87 - \$28.27 | Nov 16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99549) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Transportation Planning Intern - Summer 2027 | Boston, MA +3 | \$20.87 - \$30.53 per hour | Nov 13 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98897) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | Buffalo, NY +1 | \$21.74 - \$30.53 per hour | Nov 13 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98919) |

@@ -1,6 +1,6 @@
 # Human Resources: Summer 2027 Internships
 
-53 open Summer 2027 human resources roles, newest first (all 53). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 132 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+58 open Summer 2027 human resources roles, newest first (all 58). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 139 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -55,6 +55,11 @@
 | [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Human Resources) | St Petersburg, FL |  | Nov 21, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37730/2027-summer-intern-%28human-resources%29/job) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Compensation and Benefits Intern - Summer 2027 | Reston, VA | Paid | Nov 21, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8693/compensation-and-benefits-intern---summer-2027/job) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Human Resources Operations Internship - Summer 2027 | Reston, VA | Paid | Nov 21, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8694/human-resources-operations-internship---summer-2027/job) |
+| [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Human Resources Intern- McCalla, AL, Summer 2027 | McCalla, AL |  | Nov 21 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/McCalla-AL/Human-Resources-Intern--McCalla--AL--Summer-2027_115887) |
+| [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Talent Acquisition Intern, Summer 2027 | Orrville, OH |  | Nov 21 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Talent-Acquisition-Intern--Summer-2027_115992) |
+| [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Human Resources Intern- Emporia, KS, Summer 2027 | Emporia, KS |  | Nov 21 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Emporia-KS/Human-Resources-Intern--Emporia--KS--Summer-2027_115888) |
+| [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Human Resources Intern, Summer 2027 | Orrville, OH |  | Nov 21 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Human-Resources-Intern--Summer-2027_115918) |
+| [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Human Resources Intern- Buffalo, NY, Summer 2027 | Buffalo, NY |  | Nov 21 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Buffalo-NY/Human-Resources-Intern--Buffalo--NY--Summer-2027_115886) |
 | Diamondback Energy | Summer 2027 Human Resources Intern | Midland, TX |  | Nov 21 | [Apply](https://diamondbackenergy.wd12.myworkdayjobs.com/DBE/job/Midland-TX/Summer-2027-Human-Resources-Intern_R100831) |
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Talent Acquisition & HR Service Delivery | Phoenix, AZ | Paid | Sep 18 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Talent-Acquisition---HR-Service-Delivery_R13872) |
 

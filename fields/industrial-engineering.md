@@ -1,6 +1,6 @@
 # Industrial Engineering: Summer 2027 Internships
 
-156 open Summer 2027 industrial engineering roles, newest first (all 156). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 324 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+156 open Summer 2027 industrial engineering roles, newest first (all 156). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 325 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -100,8 +100,8 @@
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Wallops Island, VA | \$25.00 | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7996623003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Systems Engineering Intern Summer 2027 | Pasadena, CA |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990138003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Supply Chain Intern Summer 2027 | Middle River, MD |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990063003) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Middle River, MD |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7988835003) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Long Beach, CA | \$28.00 | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984564003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Middle River, MD | \$25.00 | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7988835003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Long Beach, CA |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984564003) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Systems Engineering Internship | Westminster, CO |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/a3b0f097-9d62-4a67-9800-de5dfe416da2/apply) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Supply Chain Internship | Westminster, CO |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/6c354949-9e6b-4716-9381-f8aa071e3465/apply) |
 | Teledyne | Systems Engineering Intern - Summer 2027 | Huntsville, AL |  | Sep 16 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-MBSE-Intern--Summer-2027-_REQ36670-1) |
@@ -156,7 +156,7 @@
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Supply Chain Operations Intern - Summer 2027 | Middletown, Pennsylvania | \$23 to \$27.50 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/138181) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Supply Chain Operations Intern - Summer 2027 | Mechanicsburg, Pennsylvania | \$23 to \$27.50 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/137740) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Continuous Improvement Engineering Intern - Summer 2027 | Mechanicsburg, Pennsylvania | \$23 to \$27.50 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/137743) |
-| [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Supply Chain (Summer 2027) | Buffalo Grove, IL |  | Oct 24 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Buffalo-Grove-IL/Intern---Supply-Chain--Summer-2027-_R041055) |
+| [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Supply Chain (Summer 2027) | Buffalo Grove, IL | \$22 - \$24/hr | Oct 24 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Buffalo-Grove-IL/Intern---Supply-Chain--Summer-2027-_R041055) |
 | [OATEY](https://internscout.org/internships/at/oatey/) | Supply Chain - Logistics Intern | Cleveland, OH (Headquarters) | \$20.00 | Oct 23 | [Apply](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Headquarters/Distribution---Logistics-Intern_R7187) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Advanced Manufacturing Engineer | Denton, TX |  | Oct 20 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Advanced-Manufacturing-Engineer-TX-76205-7864/1453565933/) |
 | [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Supply Chain Regional (Summer 2027) | Neenah, WI |  | Oct 17 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Supply-Chain-Regional--Summer-2027-_R041135) |

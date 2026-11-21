@@ -1,6 +1,6 @@
 # Sales: Summer 2027 Internships
 
-131 open Summer 2027 sales roles, newest first (all 131). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 264 sales internships on InternScout](https://internscout.org/internships/sales/)
+134 open Summer 2027 sales roles, newest first (all 134). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 270 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -8,6 +8,7 @@
 | [FieldPulse](https://internscout.org/internships/at/fieldpulse/) | Customer Success Internship | Dallas, TX |  | Nov 20 | [Apply](https://ats.rippling.com/fieldpulse/jobs/d8f74abd-be99-4d57-8bd4-b5aa4f25303a) |
 | [Datadog](https://internscout.org/internships/at/datadog/) | Sales Development Representative - Summer 2027 Graduates - LATAM Portuguese Speaking | Boston, Massachusetts, USA | \$50,000 | Nov 19 | [Apply](https://careers.datadoghq.com/detail/8386590/?gh_jid=8386590) |
 | [Datadog](https://internscout.org/internships/at/datadog/) | Sales Development Representative - Summer 2027 Graduates - LATAM Spanish Speaking | Boston, Massachusetts, USA | \$50,000 | Nov 19 | [Apply](https://careers.datadoghq.com/detail/8386199/?gh_jid=8386199) |
+| [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Field Sales Intern (Chicago) - Summer 2027 | Chicago, IL |  | Nov 19 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Chicago-IL/Field-Sales-Intern--Chicago----Summer-2027_116138) |
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - Sales Development, Public Sector | Virginia - Mclean |  | Nov 19 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/Virginia---Mclean/Summer-2027-Intern---Sales-Development--Public-Sector_JR360458) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Intern - Sales Grand Rapids | Grand Rapids, MI |  | Nov 19 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15034) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Sales Application Intern | Kirkland, WA | Paid | Nov 19 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Sales-Application-Intern-WA-98033/1450066333/) |
@@ -19,6 +20,7 @@
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management and Sales Summer Internship (Twin Cities) | Burnsville, MN +12 |  | Nov 11 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620824) |
 | [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Sales Subsidiary Intern - Summer 2027 | Chicago, IL | \$23.00 per hour | Nov 10 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/254263) |
 | [Keysight Technologies](https://internscout.org/internships/at/keysight-technologies/) | Intern - Optics Customer Success | Sacramento, California +3 | \$37.10 | Nov 10 | [Apply](https://jobs.keysight.com/jobs/55188) |
+| [Itron](https://internscout.org/internships/at/itron/) | Intern - Product Marketing & Sales (Summer 2027) | United States of America, Washington, Liberty Lake |  | Nov 9 | [Apply](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Product-Marketing---Sales-Enablement--Summer-2027-_JR102949) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management and Sales Intern - Cincinnati/Dayton | Cincinnati, OH +1 |  | Nov 6 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620082) |
 | [Datadog](https://internscout.org/internships/at/datadog/) | Sales Development Representative - Summer 2027 Graduates (Denver) | Denver, Colorado, USA | \$50,000 | Nov 5 | [Apply](https://careers.datadoghq.com/detail/8285486/?gh_jid=8285486) |
 | CrowdStrike | Sales Data Analytics Intern | Arlington County, Arlington, VA +1 |  | Nov 5 | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sales-Data-Analytics-Intern_R30801) |
@@ -131,6 +133,7 @@
 | [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Southeast - Sales Internship GA/TN/KY (Comparion) - Summer 2027 | Kennesaw, GA +6 |  | Nov 21, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261750/southeast---sales-internship-ga-tn-ky-%28comparion%29---summer-2027/job) |
 | [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | PacWest - Sales Internship (Comparion) - Summer 2027 | Chandler, AZ +8 |  | Nov 21, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261753/pacwest---sales-internship-%28comparion%29---summer-2027/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Sales Enablement Intern | Niles, IL | \$23-\$43 per hour | Nov 21, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5009/global-sales-enablement-intern/job) |
+| [Vanguard](https://internscout.org/internships/at/vanguard/) | Intern - C2C Sales (PA) | Malvern, PA |  | Nov 21 | [Apply](https://vanguard.wd5.myworkdayjobs.com/contractors_restricted/job/Malvern-PA/Intern---C2C-Sales--PA-_179585) |
 | [Inmar Intelligence](https://internscout.org/internships/at/inmar-intelligence/) | Sales Internships, Summer 2027 | Headquarters, Winston Salem, NC |  | Nov 20 | [Apply](https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Sales-Internships--Summer-2027_JY2627637) |
 | [Uline](https://internscout.org/internships/at/uline/) | Outside Sales Internship / Co-op - Summer 2027 | Vancouver, BC | \$27 per hour | Nov 20 | [Apply](https://www.uline.jobs/JobDetails?culture=en&jobid=R268505&jobtitle=Outside-Sales-Internship-/-Co-op---Summer-2027&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Fleet Sales Engineer Intern | Kirkland, WA |  | Oct 22 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Fleet-Sales-Engineer-Intern-WA-98033/1450066233/) |

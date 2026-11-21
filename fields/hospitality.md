@@ -1,6 +1,6 @@
 # Hospitality: Summer 2027 Internships
 
-22 open Summer 2027 hospitality roles, newest first (all 22). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 64 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
+23 open Summer 2027 hospitality roles, newest first (all 23). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 65 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,6 +11,7 @@
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Culinary Internships - Grand Canyon South Rim | GRAND CANYON, Arizona | \$16.05 per hour | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40113) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Hospitality Internships - Lodging - Grand Canyon South Rim | GRAND CANYON, Arizona | Paid | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40112) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Hospitality Internship - Oasis at Death Valley | Death Valley, California | \$16.65 per hour | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40114) |
+| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Biomechanics | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Biomechanics-MD-21230/1434382000/) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Product Line Management | Baltimore, MD | \$23 per hour | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Product-Line-Management-MD-21230/1434387800/) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Food & Events Intern - Summer 2027 | Dallas, TX, United States |  | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466385009) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Food & Events Intern - Summer 2027 | Dallas, TX |  | Sep 23 | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027546) |

@@ -1,6 +1,6 @@
 # Cybersecurity: Summer 2027 Internships
 
-197 open Summer 2027 cybersecurity roles, newest first (all 197). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 303 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+198 open Summer 2027 cybersecurity roles, newest first (all 198). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 305 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -9,6 +9,7 @@
 | [Southern Farm Bureau Life Insurance](https://internscout.org/internships/at/southern-farm-bureau-life-insurance/) | Cyber Security Intern | Jackson, MS |  | Nov 21 | [Apply](https://go.vansh.nyc/1G1) |
 | Southwest Power Pool | Identity and Access Management (IAM) Analyst Intern, Information Security and Access Management | Little Rock, AR |  | Nov 21 | [Apply](https://go.vansh.nyc/1FI) |
 | [ServiceNow](https://internscout.org/internships/at/servicenow/) | Security Software Engineer Intern | Kirkland, WA |  | Nov 20 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162827365) |
+| [First PREMIER Bank](https://internscout.org/internships/at/first-premier-bank/) | Information Security Intern | Sioux Falls, SD |  | Nov 20 | [Apply](https://go.vansh.nyc/1Gg) |
 | White Cap Supply Holdings | Information Security Intern, Corporate | United States |  | Nov 20 | [Apply](https://go.vansh.nyc/1Ew) |
 | [Cisco](https://internscout.org/internships/at/cisco/) | AI Cybersecurity Engineer I Intern | Research Triangle Park, NC |  | Nov 20 | [Apply](https://go.vansh.nyc/1G5) |
 | Caesars Entertainment | IAM Cybersecurity Intern | Las Vegas, NV |  | Nov 20 | [Apply](https://go.vansh.nyc/1ES) |
@@ -24,7 +25,7 @@
 | [Peraton](https://internscout.org/internships/at/peraton/) | Summer 2027 Cyber Research Intern | Silver Spring, Maryland | \$25.00/hour | Nov 17 | [Apply](https://peraton.jibeapply.com/jobs/170120) |
 | [Leidos](https://internscout.org/internships/at/leidos/) | Cybersecurity Intern | Fort Belvoir, VA |  | Nov 17 | [Apply](https://go.vansh.nyc/1AO) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Client Security & Data Foundation Machine Learning Engineer Intern | San Jose, CA |  | Nov 16 | [Apply](https://lifeattiktok.com/search/7708750900450134325) |
-| State of Wisconsin Investment Board | Information Security Intern | Madison, WI |  | Nov 16 | [Apply](https://go.vansh.nyc/1C9) |
+| [State of Wisconsin Investment Board](https://internscout.org/internships/at/state-of-wisconsin-investment-board/) | Information Security Intern | Madison, WI |  | Nov 16 | [Apply](https://go.vansh.nyc/1C9) |
 | Midrex Technologies | IT Cyber Security Intern | Charlotte, NC |  | Nov 14 | [Apply](https://go.vansh.nyc/1zU) |
 | Camping World | AI Security Intern | Chicago, IL |  | Nov 13 | [Apply](https://go.vansh.nyc/1zF) |
 | [Trace3](https://internscout.org/internships/at/trace3/) | Security Intern | Irvine, CA |  | Nov 13 | [Apply](https://go.vansh.nyc/1yN) |

@@ -1,6 +1,6 @@
 # Business: Summer 2027 Internships
 
-35 open Summer 2027 business roles, newest first (all 35). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 70 business internships on InternScout](https://internscout.org/internships/business/)
+34 open Summer 2027 business roles, newest first (all 34). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 70 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -21,7 +21,6 @@
 | [Tria Federal](https://internscout.org/internships/at/tria-federal/) | Summer Internship Program - Defense Health Agency (DHA) Uniform Business Office (UBO) | Arlington, VA |  | Oct 30 | [Apply](https://triafed.com/jobs/?gh_jid=5468461008) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Business Administration (Long Beach) | Monterey Park, CA |  | Oct 30 | [Apply](https://apply.edisoncareers.com/job/Monterey-Park-2027-Summer-Internship-Business-Administration-%28Long-Beach%29-CA-91754/1446436100/) |
 | Chatham Financial | 2027 Business Intern- Centennial, CO | Denver | \$30 hour | Oct 29 | [Apply](https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Denver/XMLNAME-2027-Business-Intern--Centennial--CO_R-100345) |
-| Chatham Financial | 2027 Business Intern- Charlotte, NC | Charlotte |  | Oct 29 | [Apply](https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Charlotte/XMLNAME-2027-Business-Intern--Charlotte--NC_R-100344) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Business Administration (Montebello) | Monterey Park, CA |  | Oct 28 | [Apply](https://apply.edisoncareers.com/job/Monterey-Park-2027-Summer-Internship-Business-Administration-%28Montebello%29-CA-91754/1444804800/) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Business Administration (Whittier) | Santa Fe Springs, CA |  | Oct 28 | [Apply](https://apply.edisoncareers.com/job/Santa-Fe-Springs-2027-Summer-Internship-Business-Administration-%28Whittier%29-CA-90670/1425068100/) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - MBA (Rosemead) | Rosemead, CA |  | Oct 25 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-MBA-%28Rosemead%29-CA-91770-3714/1424643100/) |

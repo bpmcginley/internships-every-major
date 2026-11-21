@@ -1,10 +1,9 @@
 # Retail: Summer 2027 Internships
 
-90 open Summer 2027 retail roles, newest first (all 90). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 120 retail internships on InternScout](https://internscout.org/internships/retail/)
+89 open Summer 2027 retail roles, newest first (all 89). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 119 retail internships on InternScout](https://internscout.org/internships/retail/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| TJX | Retail Management Internship (Stores) \| Dallas, TX - Summer 2027 | Dallas, TX 75254 | \$23.00 per hour | Nov 20 | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Dallas-TX-75254/Retail-Management-Internship--Stores----Dallas--TX---Summer-2027_REQ178065) |
 | [Ace Hardware](https://internscout.org/internships/at/ace-hardware/) | Retail Operations 2027 Summer Internship (Full Time/Paid/12 weeks) | IL - Oak Brook |  | Nov 17 | [Apply](https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/Retail-Operations-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-35139) |
 | Costco | Software Engineer Intern, IT Retail Media | Issaquah, WA |  | Nov 2 | [Apply](https://go.vansh.nyc/1bB) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern, Global E-Commerce Search | Seattle, WA |  | Nov 1 | [Apply](https://go.vansh.nyc/18r) |
