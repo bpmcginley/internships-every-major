@@ -1,9 +1,11 @@
 # Engineering: Summer 2027 Internships
 
-409 open Summer 2027 engineering roles, newest first (the 200 newest of 409). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 1,001 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+403 open Summer 2027 engineering roles, newest first (the 200 newest of 403). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 986 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Renesas Electronics | System Verification Engineer Intern | Austin, TX |  | Nov 20 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000162824903) |
+| Method | Engineering Resident Intern | Remote +5 |  | Nov 20 | [Apply](https://go.vansh.nyc/1Fq) |
 | [Commonwealth Fusion Systems](https://internscout.org/internships/at/commonwealth-fusion-systems/) | Intern - Molten Salt Blanket Engineer - Summer 2027 | Devens, MA | Paid | Nov 20 | [Apply](https://jobs.lever.co/cfsenergy/83ca56d7-f142-4ecc-af72-5484519eaf08/apply) |
 | [Lucid Motors](https://internscout.org/internships/at/lucid-motors/) | Intern, Vehicle Motion Controls Engineer, Summer 2027 | Newark, CA | \$53 to \$72 | Nov 20 | [Apply](https://lucidmotors.com/careers/search/5290899007?gh_jid=5290899007) |
 | [Smule](https://internscout.org/internships/at/smule/) | Research Engineer Intern | Salt Lake City, UT |  | Nov 20 | [Apply](https://go.vansh.nyc/1Eo) |
@@ -19,7 +21,6 @@
 | [Lucid Motors](https://internscout.org/internships/at/lucid-motors/) | Intern, OTA Test and Validation Automation, Summer 2027 | Newark, CA | \$53 to \$72 | Nov 19 | [Apply](https://lucidmotors.com/careers/search/5290917007?gh_jid=5290917007) |
 | [Lucid Motors](https://internscout.org/internships/at/lucid-motors/) | Intern, Simulation & Virtualization Engineer, Summer 2027 | Newark, CA | \$53 to \$72 | Nov 19 | [Apply](https://lucidmotors.com/careers/search/5290915007?gh_jid=5290915007) |
 | [Pivotal Software](https://internscout.org/internships/at/pivotal-software/) | Internship, GNC Engineering (Summer 2027) | Palo Alto, CA |  | Nov 19 | [Apply](https://jobs.lever.co/pivotal/2c5e6abf-3244-4e46-9c18-fab3fc1c050d/apply) |
-| Renesas Electronics | Digital Design Engineer Intern | Duluth, GA |  | Nov 19 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000162544079) |
 | Sezzle | A.I. Engineering Intern | Remote +1 |  | Nov 19 | [Apply](https://go.vansh.nyc/1Es) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Engineering Systems Intern | Costa Mesa, California, United States | Paid | Nov 19 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5302147007?gh_jid=5302147007) |
 | [Scout Space](https://internscout.org/internships/at/scout-space/) | GNC and Astrodynamics Engineering Intern (Summer 2027) | Reston, VA - Remote | \$30/hour | Nov 19 | [Apply](https://job-boards.greenhouse.io/scoutspace/jobs/5489233008) |
@@ -74,13 +75,11 @@
 | [NBCUniversal](https://internscout.org/internships/at/nbcuniversal/) | Media Tech: Product & Engineering Intern | New York, NY |  | Nov 9 | [Apply](https://go.vansh.nyc/1oy) |
 | [DreamWorks Animation](https://internscout.org/internships/at/dreamworks-animation/) | Media Tech: Product & Engineering Intern | NYC |  | Nov 9 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160652809) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Research Engineer Intern | San Jose, CA |  | Nov 9 | [Apply](https://lifeattiktok.com/search/7704986879082907909) |
-| [Vertiv](https://internscout.org/internships/at/vertiv/) | Engineering Graduate Intern (Summer 2027) | Delaware, OH |  | Nov 9 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20285130) |
 | [Pacific Northwest National Laboratory](https://internscout.org/internships/at/pacific-northwest-national-laboratory/) | Summer Undergraduate Engineering Intern – Energy Systems | Richland, Washington | \$17.13/Hr | Nov 9 | [Apply](https://careers.pnnl.gov/jobs/13295) |
 | [onsemi](https://internscout.org/internships/at/onsemi/) | Summer 2027 - Validation Engineering Intern | Nampa, ID |  | Nov 9 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506606) |
 | [Shield AI](https://internscout.org/internships/at/shield-ai/) | 2027 Summer Intern - Supplier Development Engineer - 6463 | Dallas, TX, US +1 |  | Nov 7 | [Apply](https://jobs.ashbyhq.com/shield/463966b6-fd51-47ef-b9b1-cb53c47cc275/application) |
 | [Westinghouse Electric Company](https://internscout.org/internships/at/westinghouse-electric-company/) | Summer Intern - Licensing Engineer | Hopkins, SC | \$25.40 to \$29.00 per hour | Nov 7 | [Apply](https://careers.westinghousenuclear.com/job/Hopkins-Summer-Intern-Licensing-Engineer-SC-29061/1438848000/) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Digital Design Engineer Intern - Interim Engineering Intern - Systems | Toronto, ON, Canada +1 |  | Nov 6 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722005254) |
-| Forge Atomics Inc. | Nuclear Engineering Internship/Co-op | El Segundo, California | \$28.00/hour | Nov 6 | [Apply](https://jobs.ashbyhq.com/forgeatomics/8831b6b7-38d8-41b3-97aa-9b7ec8d9af01/application) |
 | United Parcel Service | Summer Engineer Intern | Middleburg Heights, OH |  | Nov 6 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---MIDDLEBURG-HEIGHTS-OHMID/XMLNAME-2027-Summer-Engineering-Intern---Cleveland-OH_R26039950) |
 | Machina Cognita Technologies | Engineering Intern | Lafayette, IN |  | Nov 6 | [Apply](https://go.vansh.nyc/1tg) |
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Release Engineering Intern | Jacksonville, FL |  | Nov 6 | [Apply](https://go.vansh.nyc/1lD) |
@@ -108,6 +107,7 @@
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Extreme Programming Engineer Intern | Cincinnati, OH |  | Oct 29 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Extreme-Programming-Engineer-Intern---Summer-2027_R9821) |
 | [PTC](https://internscout.org/internships/at/ptc/) | Arena Engineering Intern | San Mateo, CA |  | Oct 29 | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/USA-San-Mateo-CA/Arena-Engineering-Intern_JR112955) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Coastal Engineering Intern - Water (Summer 2027) | Austin, TX +1 |  | Oct 29 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008550) |
+| [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Other Engineering Majors (Alhambra/Pomona/Rosemead/Irwindale) | Rosemead, CA |  | Oct 29 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Other-Engineering-Majors-%28AlhambraPomonaRosemeadIrwindale%29-CA-91770-3714/1425209700/) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Camera Design Engineering Intern | Vancouver, BC, Canada +1 |  | Oct 28 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721829439) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Engineering Internship - Fire Protection | Dallas, TX +1 |  | Oct 28 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5428797008) |
 | [Pennsylvania State University](https://internscout.org/internships/at/pennsylvania-state-university/) | Research and Development Engineer Intern | State College, PA |  | Oct 28 | [Apply](https://go.vansh.nyc/Yd) |
@@ -115,6 +115,7 @@
 | Loft Orbital | Summer 2027 Internship – Test Engineering | Golden, CO |  | Oct 27 | [Apply](https://jobs.lever.co/loftorbital/be396d08-738d-4f3d-bea4-cbbdc88c3db9/apply) |
 | [Mercor](https://internscout.org/internships/at/mercor/) | Research Engineer Intern, Benchmarking | San Francisco, CA |  | Oct 27 | [Apply](https://go.vansh.nyc/WT) |
 | Cboe Global Markets | Linux Engineer Intern | Chicago, IL +2 |  | Oct 27 | [Apply](https://go.vansh.nyc/W4) |
+| [Mayo Clinic](https://internscout.org/internships/at/mayo-clinic/) | Graduate Engineer Intern - Electronics | Rochester, MN |  | Oct 27 | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394029) |
 | [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Sensor Performance Engineer Intern | Mountain View, CA, USA +1 | Paid | Oct 27 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8319171) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Substation Engineering Intern | Augusta, Maine | \$20.00 | Oct 27 | [Apply](https://careers.trccompanies.com/jobs/27150) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship – Reverse Engineer – Systems Exploitation | Laurel, Maryland +1 | \$22.60 Hour | Oct 27 | [Apply](https://careers.jhuapl.edu/jobs/59798) |
@@ -129,6 +130,7 @@
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Summer Internship Program 2027 - Financial Engineering Intern | Atlanta, Georgia +1 |  | Oct 23 | [Apply](https://ice.jibeapply.com/jobs/14059) |
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Summer Internship Program 2027 - Release Engineering Intern | Jacksonville, Florida |  | Oct 23 | [Apply](https://ice.jibeapply.com/jobs/14087) |
 | [Aptiv](https://internscout.org/internships/at/aptiv/) | Engineering Intern | Kanata, Canada +1 |  | Oct 23 | [Apply](https://go.vansh.nyc/i0) |
+| [OATEY](https://internscout.org/internships/at/oatey/) | Design Engineering Intern | Shakopee, MN (Manufacturing) |  | Oct 23 | [Apply](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Shakopee-MN-Manufacturing/Design-Engineering-Intern_R7272) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | New Product Development Test Engineer Intern | Richardson, TX |  | Oct 23 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/New-Product-Development-Test-Engineer-Intern--Summer-2027-_JR-2603957) |
 | [Rivian and Volkswagen Group Technologies](https://internscout.org/internships/at/rivian-and-volkswagen-group-technologies/) | Electromechanical Design Engineering Intern (Summer 2027) | Vancouver, British Columbia +1 |  | Oct 22 | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/d7645387-e536-453b-9b15-61f071a8135b/application) |
 | [Rivian and Volkswagen Group Technologies](https://internscout.org/internships/at/rivian-and-volkswagen-group-technologies/) | Electromechanical Design Engineering Intern (Summer 2027) | Palo Alto, California +2 |  | Oct 22 | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/e05c3bd0-caf9-45c0-98e4-c8944eaf5ac7/application) |
@@ -138,7 +140,6 @@
 | [Aptiv](https://internscout.org/internships/at/aptiv/) | Linux Engineering Intern | Kanata, Canada |  | Oct 22 | [Apply](https://go.vansh.nyc/eM) |
 | [Ricoh](https://internscout.org/internships/at/ricoh/) | SW Engineer Intern | Boulder, CO |  | Oct 22 | [Apply](https://go.vansh.nyc/Vm) |
 | [Aptiv](https://internscout.org/internships/at/aptiv/) | HVP/Certification Engineer Intern | Kanata, Canada |  | Oct 22 | [Apply](https://go.vansh.nyc/f8) |
-| [OATEY](https://internscout.org/internships/at/oatey/) | Design Engineering Intern | Shakopee, MN (Manufacturing) |  | Oct 22 | [Apply](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Shakopee-MN-Manufacturing/Design-Engineering-Intern_R7272) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Failure Analysis Engineering Intern | Malta, NY |  | Oct 21 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Failure-Analysis-Engineering-Intern--Summer-2027-_JR-2604574) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Bridge Engineering Intern, Summer 2027 | Rocky Hill, CT |  | Oct 21 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310091) |
 | [DP World](https://internscout.org/internships/at/dp-world/) | Network Engineering Intern | Charlotte, NC |  | Oct 21 | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27403) |
@@ -189,7 +190,6 @@
 | [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Design Engineer Intern | San Jose, CA |  | Oct 6 | [Apply](https://go.vansh.nyc/Fi) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Maintenance Intern (ASSOCIATE DEGREE ONLY) - Pottstown, PA | Pottstown, Pennsylvania | Paid | Oct 6 | [Apply](https://jobs.constellationenergy.com/jobs/138603) |
 | [Procter & Gamble](https://internscout.org/internships/at/procter-gamble/) | R&D PhD Summer Intern: Grooming M&S | Boston, MA |  | Oct 6 | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/BOSTON-GO--TECH-CENTER/R-D-PhD-Summer-Intern--Grooming-M-S_R000159786) |
-| [Vertiv](https://internscout.org/internships/at/vertiv/) | Quality Engineer Intern (Summer 2027) | Ironton, OH |  | Oct 6 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279268) |
 | Center for AI Safety (CAIS) | Research Engineer Intern | San Francisco, CA |  | Oct 5 | [Apply](https://go.vansh.nyc/1mP) |
 | [Arc](https://internscout.org/internships/at/arc/) | Vehicle Controls Engineering Intern | Torrance, CA | \$42 hour | Oct 5 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442902008) |
 | [Micron Technology](https://internscout.org/internships/at/micron-technology/) | HBM Memory Design Engineer Intern | Richardson, TX |  | Oct 4 | [Apply](https://go.vansh.nyc/Ev) |

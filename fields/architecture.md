@@ -1,9 +1,10 @@
 # Architecture: Summer 2027 Internships
 
-37 open Summer 2027 architecture roles, newest first (all 37). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 83 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+39 open Summer 2027 architecture roles, newest first (all 39). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 89 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Calamos Investments](https://internscout.org/internships/at/calamos-investments/) | IT Architecture & Sales Systems Intern | Naperville, IL |  | Nov 20 | [Apply](https://go.vansh.nyc/1Fs) |
 | [Samsung Semiconductor](https://internscout.org/internships/at/samsung-semiconductor/) | LLM Inference Acceleration Architecture Intern, Distributed Memory-Centric Accelerators | San Jose, CA |  | Nov 18 | [Apply](https://go.vansh.nyc/1Cw) |
 | [Samsung Semiconductor](https://internscout.org/internships/at/samsung-semiconductor/) | Architecture Research Engineer Intern, MoE Placement for Serving at Scale | San Jose, CA |  | Nov 18 | [Apply](https://go.vansh.nyc/1Cm) |
 | [Micron Technology](https://internscout.org/internships/at/micron-technology/) | Enterprise SSD Architecture Intern | Boise, ID |  | Nov 13 | [Apply](https://go.vansh.nyc/1yL) |
@@ -26,6 +27,7 @@
 | [Tenstorrent](https://internscout.org/internships/at/tenstorrent/) | Systems Intern, Validation, Software, Design, Architecture & Packaging | Austin, TX +1 |  | Oct 14 | [Apply](https://go.vansh.nyc/gg) |
 | [Tenstorrent](https://internscout.org/internships/at/tenstorrent/) | Hardware Intern, Architecture, AI HW & SoC | Austin, TX +3 |  | Oct 9 | [Apply](https://go.vansh.nyc/1qf) |
 | [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Design Architecture Engineer Intern | San Jose, CA |  | Oct 6 | [Apply](https://go.vansh.nyc/Fe) |
+| [RosaicLabs](https://internscout.org/internships/at/rosaiclabs/) | CPU Architecture & Performance Engineer Intern | Santa Clara, CA +1 |  | Oct 5 | [Apply](https://go.vansh.nyc/1Fj) |
 | [Micron Technology](https://internscout.org/internships/at/micron-technology/) | Next-Generation HBM Architecture Intern | Folsom, CA |  | Oct 5 | [Apply](https://go.vansh.nyc/EH) |
 | [Oceaneering](https://internscout.org/internships/at/oceaneering/) | IT Security Architecture Intern | Houston, TX |  | Sep 30 | [Apply](https://go.vansh.nyc/H2) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | Mission Architecture Intern (Summer 2027) | Woodbridge, VA | \$40/hour | Sep 29 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5252672007) |

@@ -1,11 +1,11 @@
 # Retail: Summer 2027 Internships
 
-90 open Summer 2027 retail roles, newest first (all 90). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 122 retail internships on InternScout](https://internscout.org/internships/retail/)
+90 open Summer 2027 retail roles, newest first (all 90). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 119 retail internships on InternScout](https://internscout.org/internships/retail/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| TJX | Retail Management Internship (Stores) \| Dallas, TX - Summer 2027 | Dallas, TX 75254 | \$23.00 per hour | Nov 20 | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Dallas-TX-75254/Retail-Management-Internship--Stores----Dallas--TX---Summer-2027_REQ178065) |
-| [Apple Bank](https://internscout.org/internships/at/apple-bank/) | 2027 Summer Intern - Retail Banking | New York, NY |  | Nov 19 | [Apply](https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2026-Summer-Intern----Retail-Banking_2026-1415) |
+| TJX | Retail Management Internship (Stores) \| Dallas, TX - Summer 2027 | Dallas, TX 75254 | \$23.00 per hour | Nov 21 | [Apply](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Dallas-TX-75254/Retail-Management-Internship--Stores----Dallas--TX---Summer-2027_REQ178065) |
+| [Staples](https://internscout.org/internships/at/staples/) | Software Engineer Intern - SDS e-Commerce Team | Framingham, MA |  | Nov 3 | [Apply](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77133) |
 | Costco | Software Engineer Intern, IT Retail Media | Issaquah, WA |  | Nov 2 | [Apply](https://go.vansh.nyc/1bB) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern, Global E-Commerce Search | Seattle, WA |  | Nov 1 | [Apply](https://go.vansh.nyc/18r) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern, Recommendation Global E-Commerce | Seattle, WA |  | Nov 1 | [Apply](https://go.vansh.nyc/18l) |
@@ -43,6 +43,7 @@
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship, Store Management - Queens Market | Flushing, NY |  | Sep 22 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92282) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship, Store Management - Raleigh/Durham Market | Raleigh, NC |  | Sep 22 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92288) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship, Store Management - Orlando Market | Orlando, FL |  | Sep 22 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92286) |
+| [AutoZone](https://internscout.org/internships/at/autozone/) | Ecommerce Intern | Memphis, TN |  | Sep 21 | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155427) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship, Store Management - San Francisco, CA | San Francisco, CA |  | Sep 21 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92200) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship, Store Management - Walnut Creek, CA | Walnut Creek, CA |  | Sep 21 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92201) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship, Store Management - Sacramento, CA | Sacramento, CA |  | Sep 21 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92202) |
@@ -50,7 +51,6 @@
 | [AutoZone](https://internscout.org/internships/at/autozone/) | AutoZone 2027 Summer Internship – Store Operations | Memphis, TN |  | Sep 21 | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155441) |
 | [AutoZone](https://internscout.org/internships/at/autozone/) | AutoZone 2027 Summer Internship – Store Development | Memphis, TN |  | Sep 21 | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155433) |
 | [AutoZone](https://internscout.org/internships/at/autozone/) | AutoZone 2027 Summer Internship – Merchandising | Memphis, TN |  | Sep 21 | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155443) |
-| [AutoZone](https://internscout.org/internships/at/autozone/) | AutoZone 2027 Summer Internship – eCommerce | Memphis, TN |  | Sep 21 | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155427) |
 | [Post Holdings](https://internscout.org/internships/at/post-holdings/) | Meat Science Intern Summer 2027 | New Albany, Ohio |  | Sep 18 | [Apply](https://jobs.postholdings.com/jobs/31981) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Marketing, Creative & eCommerce Intern Summer Opportunities (May-Aug 2027) | Needham, MA, United States | Paid | Sep 17 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713883006) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship, Store Management - Bethesda, MD | Bethesda, MD |  | Sep 16 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92021) |

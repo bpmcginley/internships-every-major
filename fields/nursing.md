@@ -1,6 +1,6 @@
 # Nursing: Summer 2027 Internships
 
-10 open Summer 2027 nursing roles, newest first (all 10). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 29 nursing internships on InternScout](https://internscout.org/internships/nursing/)
+10 open Summer 2027 nursing roles, newest first (all 10). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 29 nursing internships on InternScout](https://internscout.org/internships/nursing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

@@ -1,6 +1,6 @@
 # Government and Public Policy: Summer 2027 Internships
 
-42 open Summer 2027 government and public policy roles, newest first (all 42). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 234 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+42 open Summer 2027 government and public policy roles, newest first (all 42). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 226 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -22,10 +22,10 @@
 | National Institute of Standards and Technology | Summer High-school Intern Program (SHIP) -Gaithersburg, MD (Volunteer; STEM Fields) | Gaithersburg, Maryland |  | Oct 31 | [Apply](https://www.usajobs.gov:443/job/891154500) |
 | National Institute of Standards and Technology | Summer High-school Intern Program (SHIP) - Boulder, CO (Volunteer; STEM Fields) | Boulder, Colorado |  | Oct 31 | [Apply](https://www.usajobs.gov:443/job/891154800) |
 | [Tevora](https://internscout.org/internships/at/tevora/) | Cybersecurity Intern, Federal | Fairfax, VA +1 |  | Oct 31 | [Apply](https://go.vansh.nyc/12b) |
-| [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - Software Engineer (Security/Government) | California - San Francisco +4 | \$43 - \$52 per hour | Oct 30 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911) |
 | [Strada Education Foundation](https://internscout.org/internships/at/strada-education-foundation/) | Strada Education Foundation Internship: Policy Intern | Washington, DC | \$22.75/hour | Oct 28 | [Apply](https://jobs.lever.co/stradaeducation/a5d0b720-c67c-466d-829e-bd3cc72d1339/apply) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Local Government, Politics Intern - Summer 2027 | Dallas, TX, United States |  | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466421009) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Public Policy/Political Science (Rosemead) | Rosemead, CA |  | Oct 25 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Public-PolicyPolitical-Science-%28Rosemead%29-CA-91770-3714/1424642000/) |
+| [Salesforce](https://internscout.org/internships/at/salesforce/) | Software Engineer Intern, Security/Government | San Francisco, CA +1 |  | Oct 19 | [Apply](https://go.vansh.nyc/bA) |
 | National Institute of Standards and Technology | Summer Undergraduate Research Fellowship (SURF) Program - Boulder, CO (STEM Fields) | Boulder, Colorado | \$6390 - \$7810 | Oct 16 | [Apply](https://www.usajobs.gov:443/job/889006800) |
 | National Institute of Standards and Technology | Summer Undergraduate Research Fellowship (SURF) Program - Gaithersburg, MD (STEM and Related Fields) | Gaithersburg, Maryland | \$6390 - \$7810 | Oct 16 | [Apply](https://www.usajobs.gov:443/job/889003500) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Civil Engineering Intern, Federal - Summer 2027 | Jacksonville, FL |  | Oct 13 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310064) |
@@ -42,8 +42,8 @@
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Policy Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175556?gh_jid=8175556) |
 | [Air Force Civilian Career Training](https://internscout.org/internships/at/air-force-civilian-career-training/) | Student Trainee | Clear AFB, Alaska +83 | \$36409 - \$52957 Per Year | Sep 1 | [Apply](https://www.usajobs.gov:443/job/882786200) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Structural Engineering Internship - Federal Infrastructure | Overland Park, KS |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5396073008) |
-| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 20, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
-| [IDEMIA](https://internscout.org/internships/at/idemia/) | Government Relations Internship - Summer 2027 | Reston, VA |  | Nov 20, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8690/government-relations-internship---summer-2027/job) |
+| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 21, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Government Relations Internship - Summer 2027 | Reston, VA |  | Nov 21, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8690/government-relations-internship---summer-2027/job) |
 | Centene Corporation | Public Policy and Government Affairs Summer 2027 Intern (Undergraduate) | Jefferson City, MO | \$21.00 - \$26.00 / hr | Nov 20 | [Apply](https://bebee.com/us/jobs/public-policy-and-government-affairs-summer-2027-intern-undergraduate-centene-corporation-jefferson---techmap_us_AE7A5D98FF1F4E79B88A4B940A2369ED?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Port Authority of New York and New Jersey | Interest Form, 2027 Summer Internship Program | New York, New York | Paid | Sep 18 | [Apply](https://jobs.jobvite.com/panynj/job/ozTEAfwq/apply) |
 

@@ -1,6 +1,6 @@
 # Insurance: Summer 2027 Internships
 
-26 open Summer 2027 insurance roles, newest first (all 26). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 43 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+23 open Summer 2027 insurance roles, newest first (all 23). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 40 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,7 +11,6 @@
 | [Zurich Insurance](https://internscout.org/internships/at/zurich-insurance/) | Underwriting Internship - Summer 2027 - Denver | Denver, CO | \$21.00 - \$23.00 | Nov 12 | [Apply](https://www.careers.zurich.com/job/Denver-Underwriting-Internship-Summer-2027-Denver-CO-80002/1372139757/) |
 | [Zurich Insurance](https://internscout.org/internships/at/zurich-insurance/) | Underwriting Internship - Summer 2027 - Boston | Boston, MA | \$21.00 - \$23.00 | Nov 12 | [Apply](https://www.careers.zurich.com/job/Boston-Underwriting-Internship-Summer-2027-Boston-MA-02108/1372139457/) |
 | [Zurich Insurance](https://internscout.org/internships/at/zurich-insurance/) | Underwriting Internship - Summer 2027 - Maitland | Maitland, FL | \$21.00 - \$23.00 | Nov 12 | [Apply](https://www.careers.zurich.com/job/Maitland-Underwriting-Internship-Summer-2027-Maitland-FL-32751/1372140057/) |
-| [NRDC](https://internscout.org/internships/at/nrdc/) | Summer 2027 Insurance Policy Research Intern | New York, NY +1 | \$10,000.00 | Nov 5 | [Apply](https://careers-nrdc.icims.com/jobs/6053/summer-2027-insurance-policy-research-intern/job) |
 | [ParetoHealth](https://internscout.org/internships/at/paretohealth/) | Underwriting Summer Intern | Philadelphia, Pennsylvania, United States |  | Nov 2 | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725315006) |
 | [Zurich Insurance](https://internscout.org/internships/at/zurich-insurance/) | Underwriting Internship - Summer 2027 - Los Angeles | Los Angeles, CA | \$21.00 - \$23.00 | Nov 1 | [Apply](https://www.careers.zurich.com/job/Los-Angeles-Underwriting-Internship-Summer-2027-Los-Angeles-CA-90001/1371367657/) |
 | [AXA](https://internscout.org/internships/at/axa/) | Summer 2027 - Underwriting Data & Analytics Intern | NEW YORK +1 | \$25.00/hr | Oct 29 | [Apply](https://careers.axa.com/jobs/25498) |
@@ -26,10 +25,8 @@
 | [Compeer Financial](https://internscout.org/internships/at/compeer-financial/) | Crop Insurance Intern | WI-Fond du Lac | Paid | Aug 31 | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5398257008) |
 | [Northmarq](https://internscout.org/internships/at/northmarq/) | Insurance Intern, Summer 2027 | Minneapolis, Minnesota, United States | \$22.00 per hour | Aug 25 | [Apply](https://job-boards.greenhouse.io/northmarq/jobs/5406134008) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Actuarial Intern - Summer 2027 | Addison, TX +1 | Paid | Aug 19 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4376293009) |
-| GuideWell Mutual | 2027 Actuarial Summer Internship | Jacksonville, FL |  | Aug 18 | [Apply](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41855) |
 | Jencap | 2027 Summer Insurance Internship | Atlanta, GA +3 |  | Jul 29 | [Apply](https://job-boards.greenhouse.io/jencapinc/jobs/5198365007) |
-| [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Global Risk Solutions Claims Internship - Summer 2027 | Plano, TX +5 |  | Nov 20, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261686/global-risk-solutions-claims-internship---summer-2027/job) |
-| National Bank of Canada | Summer 2027 Actuarial Internship | Montreal, Quebec |  | Nov 19 | [Apply](https://emplois.ca.indeed.com/viewjob?jk=741087d72c213619&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Global Risk Solutions Claims Internship - Summer 2027 | Plano, TX +5 |  | Nov 21, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261686/global-risk-solutions-claims-internship---summer-2027/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

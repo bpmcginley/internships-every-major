@@ -1,12 +1,11 @@
 # Business: Summer 2027 Internships
 
-34 open Summer 2027 business roles, newest first (all 34). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 71 business internships on InternScout](https://internscout.org/internships/business/)
+32 open Summer 2027 business roles, newest first (all 32). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 69 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - MBA (Pomona/Rosemead) | Rosemead, CA |  | Nov 20 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-MBA-%28PomonaRosemead%29-CA-91770-3714/1423266700/) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Tapeout Engineering Business Products & Engineering Intern | Austin, TX |  | Nov 17 | [Apply](https://go.vansh.nyc/1Bc) |
-| [Citizens Financial Group](https://internscout.org/internships/at/citizens-financial-group/) | 2027 Commercial Summer Intern - Houston, TX | United States +1 |  | Nov 17 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49213) |
 | [Duetti](https://internscout.org/internships/at/duetti/) | 2027 Summer Internship (MBA) - Product | New York, NY +1 | Paid | Nov 16 | [Apply](https://jobs.lever.co/duetti/cbc1ad6f-ec3d-42d8-8a53-9cd2712787b2/apply) |
 | [Formlabs](https://internscout.org/internships/at/formlabs/) | Go-to-Market MBA Intern (Summer 2027) | Somerville, MA | \$2,750 | Nov 16 | [Apply](https://careers.formlabs.com/job/8385574/apply/?gh_jid=8385574) |
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 MBA Internship - Partnerships & Licensing Intern | Los Angeles, CA, United States | Paid | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507489009) |
@@ -33,8 +32,7 @@
 | [Selective Insurance](https://internscout.org/internships/at/selective-insurance/) | Commercial Lines Product Summer Internship – Short Hills, NJ or Hartford, CT (Hybrid) | Short Hills, New Jersey +3 | \$22.00 | Sep 8 | [Apply](https://jobs.selective.com/jobs/5709) |
 | [DTCC](https://internscout.org/internships/at/dtcc/) | Business Systems Intern \[2027 Intern Program\] | Jersey City, NJ +2 | Paid | Aug 25 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214472) |
 | Weatherford | USA - Weatherford Summer Business Internship | Houston, TX |  | Aug 12 | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/107149) |
-| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Business Valuation Internship | Portland, ME | \$30 per hour | Nov 20, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4018/summer-2027-business-valuation-internship/job) |
-| BNP Paribas | Business Management Intern – Summer 2027 | Montreal, Quebec |  | Nov 19 | [Apply](https://www.jobs.ca/bnp-paribas/jobs/business-management-intern-summer-2027-montreal-qc-7e42987b4889?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Business Valuation Internship | Portland, ME | \$30 per hour | Nov 21, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4018/summer-2027-business-valuation-internship/job) |
 | [McKenney's Inc.](https://internscout.org/internships/at/mckenney-s-inc/) | Summer 2027 Business Analysis Co-op | Atlanta, GA |  | Nov 17 | [Apply](https://mckenneys.applytojob.com/apply/hn8EBxQ2Er/Summer-2027-Business-Analysis-Coop) |
 | [AAR](https://internscout.org/internships/at/aar/) | Product Line Intern - Business & General Aviation | Chicago, Illinois | \$22/hr | Nov 16 | [Apply](https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=18992) |
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - CRE-Commercial | Phoenix, AZ | Paid | Oct 9 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---CRE-Commercial_R13955) |

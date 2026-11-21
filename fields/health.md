@@ -1,6 +1,6 @@
 # Health: Summer 2027 Internships
 
-35 open Summer 2027 health roles, newest first (all 35). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 134 health internships on InternScout](https://internscout.org/internships/health/)
+34 open Summer 2027 health roles, newest first (all 34). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 128 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -23,10 +23,9 @@
 | Merck | Future Talent Program Co-op - Patient Data Learning | Cambridge, MA |  | Nov 2 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Patient-Data-Learning---Co-op_R424526) |
 | [Emory University](https://internscout.org/internships/at/emory-university/) | Emory Healthcare Spiritual Health Internship Summer 2027 | Atlanta, Georgia |  | Nov 2 | [Apply](https://emory.jibeapply.com/jobs/176578) |
 | [Tevora](https://internscout.org/internships/at/tevora/) | Cybersecurity Intern, Healthcare | Irvine, CA +1 |  | Oct 31 | [Apply](https://go.vansh.nyc/12c) |
+| [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Quality Analytics Intern | Kentucky |  | Oct 30 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040139) |
 | [Trilogy Health Services](https://internscout.org/internships/at/trilogy-health-services/) | Clinical Intern | Louisville, Kentucky | Paid | Oct 30 | [Apply](https://jobs.trilogyhs.com/jobs/213300) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Quality Analytics Internship (Massachusetts) – Summer 2027 (Undergraduate) | United States |  | Oct 30 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040154) |
-| [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Quality Analytics Internship (Michigan Health Plan) – Summer 2027 (Undergraduate) | MI +1 |  | Oct 30 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040141) |
-| [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Quality Analytics Internship (Kentucky Health Plan) – Summer 2027 (Undergraduate) | KY +1 |  | Oct 30 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040139) |
 | [Universal Health Services](https://internscout.org/internships/at/universal-health-services/) | Hospital Administration Internship - Summer 2027 | SCOTTSDALE, Arizona | Paid | Oct 29 | [Apply](https://jobs.uhsinc.com/jobs/379616) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Clinical and Population Health Graduate Intern | Washington +48 |  | Oct 29 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Clinical-and-Population-Health-Graduate-Intern_J288011) |
 | [Medpace](https://internscout.org/internships/at/medpace/) | Strategy and Insights Intern - Summer 2027 | Cincinnati, Ohio |  | Oct 26 | [Apply](https://careers.medpace.com/jobs/13091) |

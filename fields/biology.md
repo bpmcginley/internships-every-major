@@ -1,10 +1,10 @@
 # Biology: Summer 2027 Internships
 
-12 open Summer 2027 biology roles, newest first (all 12). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 50 biology internships on InternScout](https://internscout.org/internships/biology/)
+12 open Summer 2027 biology roles, newest first (all 12). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 49 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [Atlantic Health System](https://internscout.org/internships/at/atlantic-health-system/) | Pharmacy (Data Analytics) Intern | Morristown, NJ |  | Nov 19 | [Apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551) |
+| [Atlantic Health System](https://internscout.org/internships/at/atlantic-health-system/) | Pharmacy Intern - Data Analytics | Morristown, NJ |  | Nov 19 | [Apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Pharmacy Intern – Emerging Therapies and Health Outcomes | Detroit, MI |  | Nov 17 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14836) |
 | [The Allen Institute for AI](https://internscout.org/internships/at/the-allen-institute-for-ai/) | Research Internship, AI for Neuroscience | Seattle, WA | \$94,320 | Nov 13 | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293636) |
 | [Emerson Electric](https://internscout.org/internships/at/emerson-electric/) | Life Sciences Marketing Intern | Round Rock, TX |  | Nov 13 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009264) |

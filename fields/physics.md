@@ -1,9 +1,10 @@
 # Physics: Summer 2027 Internships
 
-21 open Summer 2027 physics roles, newest first (all 21). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 65 physics internships on InternScout](https://internscout.org/internships/physics/)
+22 open Summer 2027 physics roles, newest first (all 22). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 65 physics internships on InternScout](https://internscout.org/internships/physics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [SAS](https://internscout.org/internships/at/sas/) | Quantum Research & Development Intern | Cary, NC |  | Nov 20 | [Apply](https://careers-sas.icims.com/jobs/42752/job?mobile=true&needsRedirect=false) |
 | [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Photonics Circuit Simulation Intern – Summer 2027 | Mountain View, CA | Paid | Nov 18 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479849008?gh_jid=5479849008) |
 | [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Optical Packaging Integration Internship – Summer 2027 | Mountain View, CA | Paid | Nov 16 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5478834008?gh_jid=5478834008) |
 | [Pacific Fusion](https://internscout.org/internships/at/pacific-fusion/) | Summer 2027 Experimental Physics, X-Ray Diagnostics Internship | San Leandro, CA | Paid | Nov 16 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4505604009) |

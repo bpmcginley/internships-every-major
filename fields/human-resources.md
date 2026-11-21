@@ -1,12 +1,14 @@
 # Human Resources: Summer 2027 Internships
 
-51 open Summer 2027 human resources roles, newest first (all 51). **Updated November 20, 2026.** [Back to every major](../README.md) · [See all 126 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+52 open Summer 2027 human resources roles, newest first (all 52). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 126 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Total Rewards Intern Summer 2027 | Long Beach, CA |  | Nov 19 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8208976003) |
 | [Southern Poverty Law Center](https://internscout.org/internships/at/southern-poverty-law-center/) | Intern, Human Resources (Summer 2027) | Montgomery, Alabama +5 | \$18.40 per hour | Nov 19 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8955457002) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship, Human Resources - Compensation | New York, NY |  | Nov 19 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92295) |
+| [Mom's Meals](https://internscout.org/internships/at/mom-s-meals/) | Human Resources - Talent Acquisition Intern | Ankeny, IA |  | Nov 18 | [Apply](https://jobs.lever.co/momsmeals/bb119578-f24c-4245-9437-55265d96adcb/apply) |
+| [Mom's Meals](https://internscout.org/internships/at/mom-s-meals/) | Human Resources - Total Rewards Intern | Ankeny, IA |  | Nov 18 | [Apply](https://jobs.lever.co/momsmeals/4c23e842-eab0-4517-95e8-3fa8079a6657/apply) |
 | [Thorlabs](https://internscout.org/internships/at/thorlabs/) | Summer 2027 Internship Human Resources | Newton, New Jersey | \$20.00 - \$25.00 per hour | Nov 17 | [Apply](https://apply.workable.com/j/8F984E4FF9/apply) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Human Resources Intern | Kirkland, WA | Paid | Nov 17 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Human-Resources-Intern-WA-98033/1449175833/) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer Internship - Talent Acquisition | Renton, WA | \$25.00/Hour | Nov 17 | [Apply](https://jobs.paccar.com/job/Renton-Summer-Internship-Talent-Acquisition-WA-98055/1449187033/) |
@@ -14,7 +16,6 @@
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern- Human Resources | Pascagoula, Mississippi |  | Nov 12 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-HUMAN-RESOURCES-Miss/1430053000/) |
 | [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | AI Solutions Intern- Human Resources- Summer 2027 | Columbus, Ohio +1 |  | Nov 11 | [Apply](https://careers.marzetticompany.com/jobs/8128) |
 | [DP World](https://internscout.org/internships/at/dp-world/) | AI & Analytics (Talent Management) Intern | Charlotte, NC |  | Nov 10 | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27855) |
-| [ATC](https://internscout.org/internships/at/atc/) | Intern-Human Resources Summer 2027 | Pewaukee, WI | \$21-23/hr | Nov 6 | [Apply](https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern-HR-Summer-2027_R0003297) |
 | [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Human Resources Internship - Summer 2027 | Centennial, CO | \$23.10 - \$37.95 | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Human-Resources-Internship-Summer-2027-CO-80112/1427396300/) |
 | [ParetoHealth](https://internscout.org/internships/at/paretohealth/) | People Team Summer Intern (Human Resources) | Philadelphia, Pennsylvania, United States |  | Nov 2 | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725619006) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Human Resources | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Human-Resources-MD-21230/1434321700/) |
@@ -51,9 +52,9 @@
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - People, Engagement, and Impact (New York, NY) | New York, NY |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81243) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - People, Engagement, and Impact (Pittsburgh, PA) | Pittsburgh, PA |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81246) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Intelligent Sensing Intern - Global Frontier Tech Recruitment Program | San Jose, CA |  | Jun 4 | [Apply](https://jobs.bytedance.com/en/position/7629210458173556997/detail) |
-| [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Human Resources) | St Petersburg, FL |  | Nov 20, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37730/2027-summer-intern-%28human-resources%29/job) |
-| [IDEMIA](https://internscout.org/internships/at/idemia/) | Compensation and Benefits Intern - Summer 2027 | Reston, VA | Paid | Nov 20, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8693/compensation-and-benefits-intern---summer-2027/job) |
-| [IDEMIA](https://internscout.org/internships/at/idemia/) | Human Resources Operations Internship - Summer 2027 | Reston, VA | Paid | Nov 20, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8694/human-resources-operations-internship---summer-2027/job) |
+| [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Human Resources) | St Petersburg, FL |  | Nov 21, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37730/2027-summer-intern-%28human-resources%29/job) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Compensation and Benefits Intern - Summer 2027 | Reston, VA | Paid | Nov 21, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8693/compensation-and-benefits-intern---summer-2027/job) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Human Resources Operations Internship - Summer 2027 | Reston, VA | Paid | Nov 21, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8694/human-resources-operations-internship---summer-2027/job) |
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Talent Acquisition & HR Service Delivery | Phoenix, AZ | Paid | Sep 18 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Talent-Acquisition---HR-Service-Delivery_R13872) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
