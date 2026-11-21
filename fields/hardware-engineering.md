@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-278 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 278). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 695 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+278 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 278). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 692 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -109,7 +109,6 @@
 | Parallel Systems | Hardware Engineering Intern (Mechanical & Electrical) | Los Angeles, CA +1 | Paid | Oct 26 | [Apply](https://boards.greenhouse.io/parallel/jobs/5275660007?gh_jid=5275660007) |
 | Cadence | CST Application Engineer Intern, Silicon | San Jose, CA |  | Oct 26 | [Apply](https://go.vansh.nyc/Sz) |
 | [General Dynamics Mission Systems, Inc.](https://internscout.org/internships/at/general-dynamics-mission-systems/) | Software Test Engineering Intern, Space and Embedded Crypto | Scottsdale, AZ |  | Oct 26 | [Apply](https://go.vansh.nyc/W0) |
-| [Skydio](https://internscout.org/internships/at/skydio/) | Autonomy Engineer Intern - Simulation & Robotics | San Mateo, CA |  | Oct 26 | [Apply](https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17/application?embed=true) |
 | [Multiply Labs](https://internscout.org/internships/at/multiply-labs/) | Robotics Software Engineer Intern | San Francisco, CA |  | Oct 23 | [Apply](https://go.vansh.nyc/hH) |
 | [Keysight Technologies](https://internscout.org/internships/at/keysight-technologies/) | FPGA Design Intern | Calabasas, CA |  | Oct 23 | [Apply](https://go.vansh.nyc/hE) |
 | Upscale AI | Advanced SerDes & Analog/Mixed-Signal IC Design Intern – Summer 2027 | US - Santa Clara, CA +1 | Paid | Oct 23 | [Apply](https://jobs.lever.co/upscale-ai/2bad3e47-6c00-4ec2-94b5-feb4009619c9/apply) |
@@ -183,6 +182,7 @@
 | [Lyft](https://internscout.org/internships/at/lyft/) | Hardware Field Quality Engineer Intern (Summer 2027) | Longueuil, Canada | \$34-\$36/hour | Oct 2 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | ASIC Engineer Intern | Durham, NC +1 |  | Oct 2 | [Apply](https://go.vansh.nyc/Er) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Software Development Engineer Intern, Embedded Systems | Seattle, WA |  | Oct 2 | [Apply](https://go.vansh.nyc/g0) |
+| Aurora Innovation | Hardware Systems Engineering Intern | Pittsburgh, PA +2 | \$44.00 per hour | Oct 1 | [Apply](https://jobs.ashbyhq.com/aurora-operations-inc/f1c72f1c-8270-4526-a642-fcb61a4b4d26/application) |
 | [Hudson River Trading](https://internscout.org/internships/at/hudson-river-trading/) | FPGA Verification and Developer Intern | New York, NY |  | Oct 1 | [Apply](https://go.vansh.nyc/QI) |
 | [Ricoh](https://internscout.org/internships/at/ricoh/) | Robotics Engineer Intern | Boulder, CO |  | Oct 1 | [Apply](https://go.vansh.nyc/Xq) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Firmware Engineer Intern - MS - Summer 2027 | Santa Clara, CA |  | Oct 1 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1) |

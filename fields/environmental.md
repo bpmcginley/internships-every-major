@@ -1,6 +1,6 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-143 open Summer 2027 environmental science and engineering roles, newest first (all 143). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 298 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+143 open Summer 2027 environmental science and engineering roles, newest first (all 143). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 297 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -33,11 +33,11 @@
 | [Nucor](https://internscout.org/internships/at/nucor/) | Safety and Health Intern (Summer 2027) | Salt Lake City, UT | \$27.00/Hour | Nov 10 | [Apply](https://jobs.nucor.com/job/Salt-Lake-City-Safety-and-Health-Intern-%28Summer-2027%29-UT-84104/1449345000/) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Water Resources Engineering Intern- Summer 2027 | Morristown, NJ |  | Nov 9 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98933) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Sustainability Internship - Oasis at Death Valley | Death Valley, California | \$16.90 per hour | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40118) |
-| [Berkshire Hathaway Energy](https://internscout.org/internships/at/berkshire-hathaway-energy/) | Renewable Generation Performance Intern | Des Moines, IA |  | Nov 5 | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006008) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Renewable Energy Intern - Houston Office | Houston, Texas +1 | Paid | Nov 4 | [Apply](https://jobs.constellationenergy.com/jobs/141851) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Water Resources Engineering Intern- Summer 2027 | New York, NY |  | Nov 4 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98676) |
-| [IMEG](https://internscout.org/internships/at/imeg/) | Sustainability & Energy Engineering Intern | St. Louis, MO +3 | \$22.00–\$24.00 per hour | Nov 4 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Sustainability---Energy-Engineering-Intern_R-16761) |
+| [Berkshire Hathaway Energy](https://internscout.org/internships/at/berkshire-hathaway-energy/) | Intern - Renewable Generation Performance | Des Moines, IA |  | Nov 4 | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006008) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Miami, Florida | \$36.96 | Nov 3 | [Apply](https://careers.cdmsmith.com/jobs/4916) |
+| [IMEG](https://internscout.org/internships/at/imeg/) | Sustainability & Energy Engineering Intern | St. Louis, MO +3 | \$22.00–\$24.00 per hour | Nov 3 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Sustainability---Energy-Engineering-Intern_R-16761) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Masters Environmental Engineering Intern (Summer 2027!) | Austin, Texas | \$38.72 | Nov 2 | [Apply](https://careers.cdmsmith.com/jobs/4141) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | West Allis, Wisconsin | \$20.00 | Oct 30 | [Apply](https://careers.trccompanies.com/jobs/27681) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Water Resources Intern/Co-op – Environmental Services (Summer 2027) | Richmond, VA |  | Oct 30 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008644) |
@@ -72,7 +72,7 @@
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Houston, Texas | \$20.00 | Oct 14 | [Apply](https://careers.trccompanies.com/jobs/27082) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Safety Intern | Braintree, Massachusetts | \$20.00 | Oct 14 | [Apply](https://careers.trccompanies.com/jobs/27081) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Madison, Wisconsin | \$20.00 | Oct 13 | [Apply](https://careers.trccompanies.com/jobs/27079) |
-| [Scout Clean Energy](https://internscout.org/internships/at/scout-clean-energy/) | Geospatial Intern | Boulder, CO |  | Oct 12 | [Apply](https://apply.workable.com/scout-clean-energy/j/56C8F2E503/apply) |
+| [Scout Clean Energy](https://internscout.org/internships/at/scout-clean-energy/) | Geospatial Intern - Summer 2027 | Boulder, Colorado +1 | \$25-30/hour | Oct 12 | [Apply](https://apply.workable.com/j/56C8F2E503/apply) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Concord, California | \$20.00 | Oct 9 | [Apply](https://careers.trccompanies.com/jobs/27051) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Austin, Texas | \$20.00 | Oct 9 | [Apply](https://careers.trccompanies.com/jobs/27054) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Cary, North Carolina | \$20.00 | Oct 9 | [Apply](https://careers.trccompanies.com/jobs/27052) |

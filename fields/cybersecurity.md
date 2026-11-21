@@ -1,14 +1,16 @@
 # Cybersecurity: Summer 2027 Internships
 
-195 open Summer 2027 cybersecurity roles, newest first (all 195). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 300 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+197 open Summer 2027 cybersecurity roles, newest first (all 197). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 303 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Rockwell Automation](https://internscout.org/internships/at/rockwell-automation/) | ISM, Cyber Security and AI Intern | Mayfield Heights, OH |  | Nov 21 | [Apply](https://go.vansh.nyc/1G7) |
 | [Calamos Investments](https://internscout.org/internships/at/calamos-investments/) | Information Security Intern | Naperville, IL |  | Nov 21 | [Apply](https://go.vansh.nyc/1FV) |
 | [Southern Farm Bureau Life Insurance](https://internscout.org/internships/at/southern-farm-bureau-life-insurance/) | Cyber Security Intern | Jackson, MS |  | Nov 21 | [Apply](https://go.vansh.nyc/1G1) |
 | Southwest Power Pool | Identity and Access Management (IAM) Analyst Intern, Information Security and Access Management | Little Rock, AR |  | Nov 21 | [Apply](https://go.vansh.nyc/1FI) |
 | [ServiceNow](https://internscout.org/internships/at/servicenow/) | Security Software Engineer Intern | Kirkland, WA |  | Nov 20 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162827365) |
 | White Cap Supply Holdings | Information Security Intern, Corporate | United States |  | Nov 20 | [Apply](https://go.vansh.nyc/1Ew) |
+| [Cisco](https://internscout.org/internships/at/cisco/) | AI Cybersecurity Engineer I Intern | Research Triangle Park, NC |  | Nov 20 | [Apply](https://go.vansh.nyc/1G5) |
 | Caesars Entertainment | IAM Cybersecurity Intern | Las Vegas, NV |  | Nov 20 | [Apply](https://go.vansh.nyc/1ES) |
 | [Lawrence Livermore National Laboratory (LLNL)](https://internscout.org/internships/at/lawrence-livermore-national-laboratory-llnl/) | Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure | Livermore, CA |  | Nov 19 | [Apply](https://go.vansh.nyc/1DP) |
 | [SAS](https://internscout.org/internships/at/sas/) | Cybersecurity Compliance and AI Automation Intern | Cary, NC |  | Nov 19 | [Apply](https://go.vansh.nyc/1Dy) |
@@ -177,13 +179,13 @@
 | [Wellmark](https://internscout.org/internships/at/wellmark/) | Cyber Security Intern | Des Moines, IA |  | Sep 11 | [Apply](https://go.vansh.nyc/1to) |
 | [Danaher Corporation](https://internscout.org/internships/at/danaher/) | IT Security Intern | Coralville, IA |  | Sep 10 | [Apply](https://go.vansh.nyc/N9) |
 | Barnes & Thornburg | Information Security Intern | Indianapolis, IN |  | Sep 9 | [Apply](https://go.vansh.nyc/N8) |
-| [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Security Workflow Engineer Intern | Vienna, VA |  | Sep 9 | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32382) |
 | [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Associate Intern, Security Automation | Vienna, VA |  | Sep 9 | [Apply](https://go.vansh.nyc/N7) |
 | [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Associate Zero Trust Information Security Analyst Intern | Vienna, VA |  | Sep 9 | [Apply](https://go.vansh.nyc/1uq) |
 | [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Associate Information Security Analyst Intern | Vienna, VA |  | Sep 9 | [Apply](https://go.vansh.nyc/1us) |
 | [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Associate Product Security Engineer Intern | Vienna, VA |  | Sep 9 | [Apply](https://go.vansh.nyc/1ur) |
 | [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Associate Intern, Identity & Access Management | Vienna, VA |  | Sep 9 | [Apply](https://go.vansh.nyc/QD) |
 | [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Associate Intern, Penetration Testing | Pensacola, FL |  | Sep 9 | [Apply](https://go.vansh.nyc/QE) |
+| [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Summer Associate Internship (Security Workflow Engineer) | Vienna, VA |  | Sep 9 | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32382) |
 | [Space Dynamics Laboratory](https://internscout.org/internships/at/space-dynamics-laboratory/) | Information Security Intern | North Logan, UT | Paid | Sep 9 | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/xX5TstngJa/Information-Security-Intern) |
 | [Schonfeld](https://internscout.org/internships/at/schonfeld/) | 2027 Cybersecurity Operations Intern | New York, New York, United States +1 | \$85,000 | Sep 4 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171696) |
 | [V2X](https://internscout.org/internships/at/v2x/) | Systems Security Engineer Intern, Summer 2027 | Indianapolis, Indiana | Paid | Sep 3 | [Apply](https://careers.gov2x.com/jobs/62783) |

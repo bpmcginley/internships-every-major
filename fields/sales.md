@@ -1,6 +1,6 @@
 # Sales: Summer 2027 Internships
 
-128 open Summer 2027 sales roles, newest first (all 128). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 257 sales internships on InternScout](https://internscout.org/internships/sales/)
+131 open Summer 2027 sales roles, newest first (all 131). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 264 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management and Sales Internship - Las Vegas District | Las Vegas, NV +1 |  | Oct 1 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2623101) |
 | [Garmin](https://internscout.org/internships/at/garmin/) | Project Manager Intern - Global Partnerships & Engineering Business Development | Olathe, Kansas |  | Oct 1 | [Apply](https://careers.garmin.com/jobs/20134) |
 | NationGraph | Sales Academy - Summer 2027 | Fort Lauderdale, Florida | Paid | Sep 30 | [Apply](https://jobs.ashbyhq.com/NationGraph/568be823-4213-44b4-a4b2-a2b2ef7618f2/application) |
+| [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Sales & Business Development Internship - Summer 2027 | San Diego, CA |  | Sep 30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721346084) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Sales Instructional Design Internship | Caledonia, Michigan | Paid | Sep 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36655) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | Management and Sales Summer Internship 2027 (Boise) | Boise, ID +7 |  | Sep 29 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2619309) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | International Business Development Intern (Summer 2027) | Woodbridge, VA | \$40/hour | Sep 28 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5247737007) |
@@ -111,12 +112,14 @@
 | The MJ Companies | Consultative Sales Intern | Carmel, Indiana |  | Sep 3 | [Apply](https://job-boards.greenhouse.io/themjcos/jobs/5415703008) |
 | Principal Financial Group | Sales Internship - Retirement & Income Solutions (Summer 2027) \*Updated Location\* | Des Moines, Iowa +3 | \$24 - \$24 / hour | Sep 2 | [Apply](https://careers.principal.com/jobs/52432) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Retail Sales Intern - Summer 2027 (Multiple Locations) - Campus Recruiting | Austin, MN +2 | \$24.50 | Sep 1 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35338) |
+| [Vertiv](https://internscout.org/internships/at/vertiv/) | Technical Sales Engineering Intern - IT Channel (Summer 2027) | Westerville, OH |  | Aug 31 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279030) |
 | [Compeer Financial](https://internscout.org/internships/at/compeer-financial/) | Intern Sales | MN-Mankato | Paid | Aug 26 | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5399883008) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | Sales Intern (Summer 2027) | Tysons Corner, Virginia | \$18.00 per hour | Aug 24 | [Apply](https://careers.cvent.com/jobs/10703) |
 | [Arthur J. Gallagher & Co.](https://internscout.org/internships/at/arthur-j-gallagher-co/) | Canada Internship - Sales | Toronto, Ontario, Canada +7 |  | Aug 17 | [Apply](https://jobs.ajg.com/jobs/57699) |
 | [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL |  | Aug 15 | [Apply](https://higher.gs.com/roles/181628?type=students) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Sales Data Analytics Intern | Westerville, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279291) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Sales Data Analytics Intern - Summer 2027 | Westerville, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279293) |
+| [Vertiv](https://internscout.org/internships/at/vertiv/) | Technical Sales Engineering Intern - IT Channel (Summer 2027) | Columbus, OH |  | Aug 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278722) |
 | [StepStone Group](https://internscout.org/internships/at/stepstone-group/) | 2027 Venture Capital Business Development Summer Associate | Baltimore | \$105,000 / year | Aug 3 | [Apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8095092) |
 | [Jane Street](https://internscout.org/internships/at/jane-street/) | Sales and Trading Intern | New York, NY |  | Jul 24 | [Apply](https://go.vansh.nyc/47) |
 | Octaura | Intern, Sales GTM | New York |  | Apr 2, 2025 | [Apply](https://job-boards.greenhouse.io/octaura/jobs/4687402007) |

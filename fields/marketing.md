@@ -1,9 +1,10 @@
 # Marketing: Summer 2027 Internships
 
-122 open Summer 2027 marketing roles, newest first (all 122). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 382 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+126 open Summer 2027 marketing roles, newest first (all 126). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 387 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [NVIDIA](https://internscout.org/internships/at/nvidia/) | Technical Marketing Engineering Intern, Digital Biology and Scientific Computing | Santa Clara, CA |  | Nov 21 | [Apply](https://go.vansh.nyc/1Gd) |
 | [Formlabs](https://internscout.org/internships/at/formlabs/) | 2027 (Summer) Marketing Events Logistics Intern | Somerville, MA | \$1,050 | Nov 20 | [Apply](https://careers.formlabs.com/job/8400561/apply/?gh_jid=8400561) |
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Intern - Growth Operations Intern - Fanatics Collect | New York, NY, United States | Paid | Nov 20 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4515600009) |
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - Field Marketing, Missionforce | Virginia - Mclean |  | Nov 20 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/Virginia---Mclean/Summer-2027-Intern---Field-Marketing--Missionforce_JR369144) |
@@ -68,7 +69,10 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce User Growth | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694357619162532149) |
 | [Mom's Meals](https://internscout.org/internships/at/mom-s-meals/) | Marketing Intern | Ankeny, IA |  | Oct 14 | [Apply](https://jobs.lever.co/momsmeals/c5ce94ba-f7a4-4fad-bb91-c0c97355d534/apply) |
 | Kyndryl | Marketing Intern - Marketing Analysis | NYC |  | Oct 9 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analysis_R-70007-1) |
+| [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship – Customer & Digital Growth, Insights and Platforms – Data Systems | New York, NY +1 |  | Oct 6 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93388) |
+| [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship – Consumer Insights: Customer & Digital Intelligence and Analytics | New York, NY +1 |  | Oct 6 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93380) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 MBA Internship – Customer & Digital Growth, Insights and Platforms – Strategy | New York, NY |  | Oct 6 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93384) |
+| [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship – Customer & Digital Growth, Insights and Platforms – Analytics | New York, NY +1 |  | Oct 6 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93389) |
 | [Macy's](https://internscout.org/internships/at/macy-s/) | Macy's 2027 Summer Internship – Consumer Insights: Customer Experience | New York, NY |  | Oct 5 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93379) |
 | [Intuit](https://internscout.org/internships/at/intuit/) | Marketing Intern - AI Tooling for Marketing Efficiency | SF +1 |  | Oct 2 | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552) |
 | [Diversified Energy](https://internscout.org/internships/at/diversified-energy/) | 2027 Summer Intern- Marketing/ Trading | Lexington, Kentucky |  | Oct 2 | [Apply](https://careers.div.energy/jobs/2735) |
@@ -89,7 +93,7 @@
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Product Development, Design & Consumer Insights Intern Summer Opportunities (May-Aug 2027) | Needham, MA, United States | Paid | Sep 17 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713878006) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Marketing, Creative & eCommerce Intern Summer Opportunities (May-Aug 2027) | Needham, MA, United States | Paid | Sep 17 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713883006) |
 | Watts Water | Product Marketing Data Analyst Intern | North Andover, MA |  | Sep 17 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Product-Data-Analyst--Marketing-Intern_10017538) |
-| Emergent Holdings | Summer 2027 Intern - Program Oversight/Marketing Compliance | Detroit, MI | Paid | Sep 16 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14772) |
+| [Emergent Holdings](https://internscout.org/internships/at/emergent-holdings/) | Summer 2027 Intern - Program Oversight/Marketing Compliance | Detroit, MI | Paid | Sep 16 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14772) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Digital Marketing Intern – Summer 2027 | Addison, TX +1 | Paid | Sep 14 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403684009) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Customer Experience and Transformation Intern – Summer 2027 | Addison, TX +1 | Paid | Sep 14 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403604009) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Market Research Intern – Summer 2027 | Addison, TX +1 | Paid | Sep 14 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403863009) |

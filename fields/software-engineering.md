@@ -1,9 +1,10 @@
 # Software Engineering: Summer 2027 Internships
 
-1,546 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,546). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 2,772 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,548 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,548). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 2,775 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Activision Blizzard | Data Platform Engineering Intern | Irvine, CA |  | Nov 21 | [Apply](https://go.vansh.nyc/1Ge) |
 | [Calamos Investments](https://internscout.org/internships/at/calamos-investments/) | Application Development Intern | Naperville, IL |  | Nov 21 | [Apply](https://go.vansh.nyc/1FW) |
 | Bombardier | Software Engineering Intern | Wichita, KS |  | Nov 21 | [Apply](https://go.vansh.nyc/1FS) |
 | Mesirow | Cloud Engineering Intern, IT | Chicago, IL |  | Nov 21 | [Apply](https://go.vansh.nyc/1FZ) |
@@ -192,7 +193,6 @@
 | [Arcesium](https://internscout.org/internships/at/arcesium/) | Technology Operations Intern | New York, NY |  | Nov 12 | [Apply](https://go.vansh.nyc/1vQ) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern - Infrastructure & Sustainability | Pascagoula, Mississippi |  | Nov 12 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-INFRASTRUCTURE-&-SUSTAINABILITY-Miss/1430056400/) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern- Information Technology | Pascagoula, Mississippi |  | Nov 12 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-INFORMATION-TECHNOLOGY-Miss/1430171400/) |
-| [Vertiv](https://internscout.org/internships/at/vertiv/) | Software Engineer Intern | Huntsville, AL |  | Nov 11 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284817) |
 | Shive-Hattery | Software Developer Intern | Iowa City, IA |  | Nov 11 | [Apply](https://go.vansh.nyc/1vU) |
 | Encore Global | IT Security Intern | Coppell, TX |  | Nov 11 | [Apply](https://go.vansh.nyc/1xr) |
 | [Bask Health](https://internscout.org/internships/at/bask-health/) | Backend Engineer Intern | Remote +1 |  | Nov 11 | [Apply](https://go.vansh.nyc/1vx) |
