@@ -1,6 +1,6 @@
 # Cybersecurity: Summer 2027 Internships
 
-198 open Summer 2027 cybersecurity roles, newest first (all 198). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 304 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+199 open Summer 2027 cybersecurity roles, newest first (all 199). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 305 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | White Cap Supply Holdings | Information Security Intern, Corporate | United States |  | Nov 20 | [Apply](https://go.vansh.nyc/1Ew) |
 | [Cisco](https://internscout.org/internships/at/cisco/) | AI Cybersecurity Engineer I Intern | Research Triangle Park, NC |  | Nov 20 | [Apply](https://go.vansh.nyc/1G5) |
 | Caesars Entertainment | IAM Cybersecurity Intern | Las Vegas, NV |  | Nov 20 | [Apply](https://go.vansh.nyc/1ES) |
+| [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Security | Lincolnshire, Illinois +1 |  | Nov 20 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Security_JR103608) |
 | [Lawrence Livermore National Laboratory (LLNL)](https://internscout.org/internships/at/lawrence-livermore-national-laboratory-llnl/) | Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure | Livermore, CA |  | Nov 19 | [Apply](https://go.vansh.nyc/1DP) |
 | [SAS](https://internscout.org/internships/at/sas/) | Cybersecurity Compliance and AI Automation Intern | Cary, NC |  | Nov 19 | [Apply](https://go.vansh.nyc/1Dy) |
 | Snowflake | Software Engineer Intern (Core, Infrastructure & Security) — Summer 2027 | Menlo Park, CA +3 |  | Nov 19 | [Apply](https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application) |

@@ -1,6 +1,6 @@
 # Business: Summer 2027 Internships
 
-34 open Summer 2027 business roles, newest first (all 34). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 70 business internships on InternScout](https://internscout.org/internships/business/)
+33 open Summer 2027 business roles, newest first (all 33). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 69 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -9,7 +9,6 @@
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Business Administration (Wildomar) | Wildomar, CA |  | Nov 21 | [Apply](https://apply.edisoncareers.com/job/Wildomar-2027-Summer-Internship-Business-Administration-%28Wildomar%29-CA-92595/1423577500/) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - MBA (Pomona/Rosemead) | Rosemead, CA |  | Nov 20 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-MBA-%28PomonaRosemead%29-CA-91770-3714/1423266700/) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Tapeout Engineering Business Products & Engineering Intern | Austin, TX |  | Nov 17 | [Apply](https://go.vansh.nyc/1Bc) |
-| Citizens Financial Group | 2027 Commercial Summer Intern - Houston, TX | United States +1 |  | Nov 17 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49213) |
 | [Duetti](https://internscout.org/internships/at/duetti/) | 2027 Summer Internship (MBA) - Product | New York, NY +1 | Paid | Nov 16 | [Apply](https://jobs.lever.co/duetti/cbc1ad6f-ec3d-42d8-8a53-9cd2712787b2/apply) |
 | [Formlabs](https://internscout.org/internships/at/formlabs/) | Go-to-Market MBA Intern (Summer 2027) | Somerville, MA | \$2,750 | Nov 16 | [Apply](https://careers.formlabs.com/job/8385574/apply/?gh_jid=8385574) |
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 MBA Internship - Partnerships & Licensing Intern | Los Angeles, CA, United States | Paid | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507489009) |

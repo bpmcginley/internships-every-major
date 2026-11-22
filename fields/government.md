@@ -1,6 +1,6 @@
 # Government and Public Policy: Summer 2027 Internships
 
-40 open Summer 2027 government and public policy roles, newest first (all 40). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 220 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+39 open Summer 2027 government and public policy roles, newest first (all 39). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 218 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -42,7 +42,6 @@
 | [Olsson](https://internscout.org/internships/at/olsson/) | Structural Engineering Internship - Federal Infrastructure | Overland Park, KS |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5396073008) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 22, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Government Relations Internship - Summer 2027 | Reston, VA |  | Nov 22, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8690/government-relations-internship---summer-2027/job) |
-| 05E Federal Reserve Bank of Richmond | Federal Reserve Summer 2027 Research Business Survey Internship | Richmond, VA | \$23.50/hour | Nov 22 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Federal-Reserve-Summer-2027-Research-Business-Survey-Internship_R-0000033218?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Port Authority of New York and New Jersey | Interest Form, 2027 Summer Internship Program | New York, New York | Paid | Sep 18 | [Apply](https://jobs.jobvite.com/panynj/job/ozTEAfwq/apply) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

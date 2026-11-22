@@ -1,14 +1,16 @@
 # Quantitative Finance: Summer 2027 Internships
 
-131 open Summer 2027 quantitative finance roles, newest first (all 131). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 174 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
+133 open Summer 2027 quantitative finance roles, newest first (all 133). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 176 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [iCapital Network](https://internscout.org/internships/at/icapital-network/) | Portfolio Management - Summer 2027 Intern | New York, New York, United States | \$43.50 per hour | Nov 20 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8957001002) |
-| Piper Sandler | Equities Trading Technology Intern | Greenwich, CT |  | Nov 20 | [Apply](https://go.vansh.nyc/1G3) |
+| [Piper Sandler](https://internscout.org/internships/at/piper-sandler/) | Equities Trading Technology Intern | Greenwich, CT |  | Nov 20 | [Apply](https://go.vansh.nyc/1G3) |
+| [Piper Sandler](https://internscout.org/internships/at/piper-sandler/) | 2027 Summer Internship Program – Equities Trading Technology | Greenwich, CT | \$21 per hour | Nov 19 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Greenwich-CT/XMLNAME-2027-Summer-Internship-Program---Equities-Trading-Technology_R-100804) |
 | Soros Fund Management | Quantitative Strategist Intern | New York +2 | \$45/hr | Nov 17 | [Apply](https://job-boards.greenhouse.io/familyoffice/jobs/8202834003) |
 | All Options | Graduate Quantitative Trader Intern | Austin, TX |  | Nov 17 | [Apply](https://alloptions.bamboohr.com/careers/85/) |
 | State of Maryland | Quantitative Analyst Intern | Baltimore, MD |  | Nov 13 | [Apply](https://go.vansh.nyc/1zI) |
+| [Alexion](https://internscout.org/internships/at/alexion/) | Summer 2027 Quantitative Intern PhD | US - Boston - MA | Paid | Nov 12 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---Boston---MA/Summer-2027-Quantitative-Intern-PhD_R-264278-1) |
 | [StepStone Group](https://internscout.org/internships/at/stepstone-group/) | 2027 AI Quant Summer Analyst | La Jolla, MD +3 | \$30/hour | Nov 11 | [Apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8368989) |
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Trading System Development Intern | New York, NY |  | Nov 6 | [Apply](https://go.vansh.nyc/1lC) |
 | Bank of Montreal | Quantitative Analyst Co-op Intern | Toronto, ON, Canada |  | Nov 6 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097-1) |

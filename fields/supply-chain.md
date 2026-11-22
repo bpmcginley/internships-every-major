@@ -1,6 +1,6 @@
 # Supply Chain: Summer 2027 Internships
 
-87 open Summer 2027 supply chain roles, newest first (all 87). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 189 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
+88 open Summer 2027 supply chain roles, newest first (all 88). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 191 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 22, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
 | [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Supply Chain) | St Petersburg, FL |  | Nov 22, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37507/2027-summer-intern-%28supply-chain%29/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Logistics Intern | Niles, IL | \$23-\$43 per hour | Nov 22, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4987/global-logistics-intern/job) |
+| [Ameren](https://internscout.org/internships/at/ameren/) | Strategic Sourcing Intern-1 | St. Louis, MO | \$21.00 - \$30.00 | Nov 22 | [Apply](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Strategic-Sourcing-Intern-1_033838-1) |
 | [Capital Power](https://internscout.org/internships/at/capital-power/) | Supply Chain Summer Student | Edmonton, AB | \$36.18 | Nov 21 | [Apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Supply-Chain-Summer-Student_JR807179) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Logistics Engineering Intern - Summer 2027 | Middletown, Pennsylvania | \$23 to \$27.50 per hour | Nov 19 | [Apply](https://se.jibeapply.com/jobs/137750) |
 | [SRC, Inc](https://internscout.org/internships/at/src-inc/) | QMS/Supplier Quality (Intern - Summer 2027) | Syracuse, New York | \$20.00 to \$22.00/hour | Nov 19 | [Apply](https://jobs.jobvite.com/src-inc/job/oiJIAfw3/apply) |
@@ -88,7 +89,7 @@
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Logistics Quality Engineering Intern - Summer 2027 | Mechanicsburg, Pennsylvania | \$23 to \$27.50 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/138177) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Supply Chain Operations Intern - Summer 2027 | Middletown, Pennsylvania | \$23 to \$27.50 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/138181) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Supply Chain Operations Intern - Summer 2027 | Mechanicsburg, Pennsylvania | \$23 to \$27.50 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/137740) |
-| [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Supply Chain (Summer 2027) | Buffalo Grove, IL | \$22 - \$24/hr | Oct 24 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Buffalo-Grove-IL/Intern---Supply-Chain--Summer-2027-_R041055) |
+| [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Supply Chain (Summer 2027) | Buffalo Grove, IL |  | Oct 24 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Buffalo-Grove-IL/Intern---Supply-Chain--Summer-2027-_R041055) |
 | [OATEY](https://internscout.org/internships/at/oatey/) | Supply Chain - Logistics Intern | Cleveland, OH (Headquarters) | \$20.00 | Oct 23 | [Apply](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Headquarters/Distribution---Logistics-Intern_R7187) |
 | [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Supply Chain Regional (Summer 2027) | Neenah, WI |  | Oct 17 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Supply-Chain-Regional--Summer-2027-_R041135) |
 

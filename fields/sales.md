@@ -1,6 +1,6 @@
 # Sales: Summer 2027 Internships
 
-128 open Summer 2027 sales roles, newest first (all 128). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 264 sales internships on InternScout](https://internscout.org/internships/sales/)
+129 open Summer 2027 sales roles, newest first (all 129). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 265 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | CrowdStrike | Sales Data Analytics Intern | Arlington County, Arlington, VA +1 |  | Nov 5 | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sales-Data-Analytics-Intern_R30801) |
 | [Galaxy](https://internscout.org/internships/at/galaxy/) | 2027 Sales and Trading Internships - NYC | New York | \$55/hr | Nov 3 | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6242350004) |
 | [ParetoHealth](https://internscout.org/internships/at/paretohealth/) | Sales Associate Summer Intern | Philadelphia, Pennsylvania, United States |  | Nov 2 | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725332006) |
+| [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Inside Sales Business Development Representative | Chicago, Illinois |  | Nov 2 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Chicago-Illinois/XMLNAME-2027-Summer-Internship--US----Inside-Sales-Business-Development-Representative_JR103609) |
 | [KnowBe4](https://internscout.org/internships/at/knowbe4/) | Sales Development Representative Summer Internship (Hybrid) | Clearwater, FL | Paid | Nov 1 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919154002) |
 | [KnowBe4](https://internscout.org/internships/at/knowbe4/) | Sales Development Representative Summer Internship (Hybrid) | Arlington, Virginia | Paid | Nov 1 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919174002) |
 | [Symbotic](https://internscout.org/internships/at/symbotic/) | Customer Success Intern | Wilmington, MA |  | Oct 30 | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Customer-Success_R8234) |

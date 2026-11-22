@@ -1,6 +1,6 @@
 # Marketing: Summer 2027 Internships
 
-127 open Summer 2027 marketing roles, newest first (all 127). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 390 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+130 open Summer 2027 marketing roles, newest first (all 130). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 394 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -13,10 +13,12 @@
 | [iCapital Network](https://internscout.org/internships/at/icapital-network/) | Brand and Communications - Summer 2027 Intern | New York, New York, United States | \$43.50 per hour | Nov 19 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8949799002) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Product Marketing Intern | Kirkland, WA | Paid | Nov 19 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Product-Marketing-Intern-WA-98033/1450066433/) |
 | [Formlabs](https://internscout.org/internships/at/formlabs/) | 2027 (Summer) Marketing - Social Media Intern | Somerville, MA | \$1,050 | Nov 18 | [Apply](https://careers.formlabs.com/job/8400491/apply/?gh_jid=8400491) |
+| [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - NA Vertical & Field Marketing | Lincolnshire, Illinois |  | Nov 18 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----NA-Vertical---Field-Marketing_JR103620) |
 | [Thorlabs](https://internscout.org/internships/at/thorlabs/) | Summer 2027 Technical Marketing Internship | Newton, New Jersey | \$20.00 - \$25.00 per hour | Nov 18 | [Apply](https://apply.workable.com/j/FD5D518250/apply) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Marketing Communications Intern | Kirkland, WA | Paid | Nov 18 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Marketing-Communications-Intern-WA-98033/1449526133/) |
 | [Crusoe](https://internscout.org/internships/at/crusoe/) | Content and Social Media Marketing Intern | San Francisco, CA - US +1 | \$30/hour | Nov 17 | [Apply](https://jobs.ashbyhq.com/Crusoe/c73e5d49-fcc0-4a27-97aa-020183b9002c/application) |
 | [Burns Engineering](https://internscout.org/internships/at/burns-engineering/) | Marketing Intern - Summer 2027 | Philadelphia, PA |  | Nov 17 | [Apply](https://www.burns-group.com/careers/current-openings/?gh_jid=4510417009) |
+| [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Social Media | Lincolnshire, Illinois |  | Nov 17 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Social-Media_JR103617) |
 | [Thorlabs](https://internscout.org/internships/at/thorlabs/) | Summer 2027 Marketing Internship | Newton, New Jersey | \$20.00 - \$25.00 per hour | Nov 17 | [Apply](https://apply.workable.com/j/5D42612F30/apply) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (Wisconsin Health Plan) – Summer 2027 (Undergraduate) | WI |  | Nov 17 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040147) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Product Marketing Intern | Costa Mesa, California, United States | Paid | Nov 16 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5261735007?gh_jid=5261735007) |
@@ -48,6 +50,7 @@
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (New York Health Plan) – Summer 2027 (Undergraduate) | New York, NY |  | Nov 3 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040153) |
 | [Tria Federal](https://internscout.org/internships/at/tria-federal/) | Summer Internship Program - Growth Operations | Arlington, VA +1 |  | Nov 2 | [Apply](https://triafed.com/jobs/?gh_jid=5470246008) |
 | [ParetoHealth](https://internscout.org/internships/at/paretohealth/) | Growth Operations Summer Intern | Philadelphia, Pennsylvania, United States |  | Nov 2 | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726002006) |
+| [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Global Marketing Program Management | Lincolnshire, Illinois |  | Nov 2 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Global-Marketing-Program-Management_JR103611) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Data Science Project Intern, Advertisement | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18k) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Enterprise Platform Technical Marketing Engineer Intern | Santa Clara, CA |  | Oct 31 | [Apply](https://go.vansh.nyc/12a) |
 | [Tria Federal](https://internscout.org/internships/at/tria-federal/) | Summer Internship Program - Marketing | Arlington, VA |  | Oct 30 | [Apply](https://triafed.com/jobs/?gh_jid=5468400008) |
@@ -123,7 +126,7 @@
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Marketing & Events Internship - Jan 2027 | Reston, VA | Paid | Nov 22, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8676/marketing-%26-events-internship---jan-2027/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Marketing Intern – ShureCloud & Customer Value Streams | Niles, IL | \$23-\$43 per hour | Nov 22, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4988/global-marketing-intern-%e2%80%93-shurecloud-%26-customer-value-streams/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Marketing Intern (Events & Content Small Scale) | Niles, IL | \$23-\$43 per hour | Nov 22, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5023/global-marketing-intern-%28events-%26-content-small-scale%29/job) |
-| Dee Zee | Marketing Intern | Des Moines, IA |  | Nov 22 | [Apply](https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Marketing-Intern_REQ00383) |
+| [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Marketing Technology | Lincolnshire, Illinois |  | Nov 22 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Marketing-Technology_JR103612) |
 | [J.M. Smucker](https://internscout.org/internships/at/j-m-smucker/) | Corporate Communications Intern, Summer 2027 | Orrville, OH |  | Nov 21 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Corporate-Communications-Intern--Summer-2027_115919) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Marketing Internship Program | Boston, Massachusetts | \$23.00 - \$27.50 per hour | Nov 18 | [Apply](https://se.jibeapply.com/jobs/140487) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Summer 2027 Product Marketing Intern | Boston, Massachusetts +1 | \$23.00-\$27.50 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/138534) |

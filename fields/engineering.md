@@ -1,9 +1,10 @@
 # Engineering: Summer 2027 Internships
 
-400 open Summer 2027 engineering roles, newest first (the 200 newest of 400). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 981 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+401 open Summer 2027 engineering roles, newest first (the 200 newest of 401). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 983 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| AMD | BIOS Engineering Co-op | Austin, TX |  | Nov 22 | [Apply](https://careers.amd.com/jobs/90475?icims=1&lang=en-us) |
 | Metamorphic | Research and Engineering Intern (Summer 2027) | Palo Alto +2 | \$6-8k/month | Nov 21 | [Apply](https://jobs.ashbyhq.com/metamorphic/cf518648-4e65-4f7d-aa05-f01066d8bd8a/application) |
 | Renesas Electronics | System Verification Engineer Intern | Austin, TX |  | Nov 20 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000162824903) |
 | Method | Engineering Resident Intern | Remote +5 |  | Nov 20 | [Apply](https://go.vansh.nyc/1Fq) |
@@ -128,7 +129,6 @@
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Summer Internship Program 2027 - Financial Engineering Intern | Atlanta, Georgia +1 |  | Oct 23 | [Apply](https://ice.jibeapply.com/jobs/14059) |
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Summer Internship Program 2027 - Release Engineering Intern | Jacksonville, Florida |  | Oct 23 | [Apply](https://ice.jibeapply.com/jobs/14087) |
 | [Aptiv](https://internscout.org/internships/at/aptiv/) | Engineering Intern | Kanata, Canada +1 |  | Oct 23 | [Apply](https://go.vansh.nyc/i0) |
-| [OATEY](https://internscout.org/internships/at/oatey/) | Design Engineering Intern | Shakopee, MN (Manufacturing) |  | Oct 23 | [Apply](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Shakopee-MN-Manufacturing/Design-Engineering-Intern_R7272) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | New Product Development Test Engineer Intern | Richardson, TX |  | Oct 23 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/New-Product-Development-Test-Engineer-Intern--Summer-2027-_JR-2603957) |
 | [Rivian and Volkswagen Group Technologies](https://internscout.org/internships/at/rivian-and-volkswagen-group-technologies/) | Electromechanical Design Engineering Intern (Summer 2027) | Vancouver, British Columbia +1 |  | Oct 22 | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/d7645387-e536-453b-9b15-61f071a8135b/application) |
 | [Rivian and Volkswagen Group Technologies](https://internscout.org/internships/at/rivian-and-volkswagen-group-technologies/) | Electromechanical Design Engineering Intern (Summer 2027) | Palo Alto, California +2 |  | Oct 22 | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/e05c3bd0-caf9-45c0-98e4-c8944eaf5ac7/application) |

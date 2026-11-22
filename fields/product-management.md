@@ -1,6 +1,6 @@
 # Product Management: Summer 2027 Internships
 
-170 open Summer 2027 product management roles, newest first (all 170). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 265 product management internships on InternScout](https://internscout.org/internships/product-management/)
+171 open Summer 2027 product management roles, newest first (all 171). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 266 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -53,13 +53,15 @@
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | Product Management Intern - Product Management | SF +1 |  | Nov 6 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659) |
 | [Invesco](https://internscout.org/internships/at/invesco/) | Digital Product Management Intern | Atlanta, GA |  | Nov 5 | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1) |
 | [ParetoHealth](https://internscout.org/internships/at/paretohealth/) | Product Manager Summer Intern | Philadelphia, Pennsylvania, United States +1 |  | Nov 2 | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006) |
+| [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Global Marketing Program Management | Lincolnshire, Illinois |  | Nov 2 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Global-Marketing-Program-Management_JR103611) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Data Intelligence/Technical Program Manager Intern | Santa Clara, CA |  | Nov 2 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Intelligence-Technical-Program-Management-Intern--Master-s--Santa-Clara--CA-_R2627705) |
 | Parallel Systems | Product Management Intern | Los Angeles, CA |  | Oct 31 | [Apply](https://go.vansh.nyc/13i) |
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | Product Owner Intern, AI Consulting Associate Program (AI CAP) | Chicago, IL |  | Oct 31 | [Apply](https://go.vansh.nyc/12P) |
 | Cloudflare | Product Manager Intern | Austin, TX |  | Oct 29 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8274790) |
 | [SageSure](https://internscout.org/internships/at/sagesure/) | Data Science Product Analyst Intern | Fairfield, CA |  | Oct 29 | [Apply](https://go.vansh.nyc/1oj) |
+| [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Program Management | Holtsville, New York |  | Oct 27 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Program-Management_JR103641) |
 | Hive Financial Systems | Product Internship-2027 | Atlanta, Georgia +1 |  | Oct 26 | [Apply](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274970007) |
-| Zebra Technologies | Product Management Intern | Lincolnshire, IL |  | Oct 26 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652) |
+| [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Product Management | Lincolnshire, Illinois +1 |  | Oct 26 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652) |
 | ABB | Product Management Intern | New Berlin, WI |  | Oct 26 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern-Drive-Products---Summer-2027_JR00047254) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Technical Product Manager Intern | Seattle, WA +1 |  | Oct 23 | [Apply](https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Product Manager Intern - ALA | Seattle, WA |  | Oct 23 | [Apply](https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship) |
@@ -82,7 +84,6 @@
 | [ADT](https://internscout.org/internships/at/adt/) | Product Management & Product Operations Intern | Boca Raton, FL |  | Oct 12 | [Apply](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Business and Administrative Intern - Strategy Analyst, CCO Strategy and Program Management | Palo Alto, California | \$28,00-51.00 per hour | Oct 12 | [Apply](https://careers.rivian.com/jobs/34239) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Creative Product Manager Intern - Multiple Teams | San Jose, CA |  | Oct 9 | [Apply](https://lifeattiktok.com/search/7693732178706974981) |
-| Workday | Product Manager Intern | Pleasanton, CA |  | Oct 9 | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Energy Storage Product Management Intern (Summer 2027) | Delaware, OH |  | Oct 9 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279379) |
 | [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Platform Solutions Product Management Intern | Cary, NC |  | Oct 6 | [Apply](https://go.vansh.nyc/Fu) |
 | Mohawk | Product Management Intern | Calhoun, GA |  | Oct 5 | [Apply](https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors) |

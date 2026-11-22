@@ -1,6 +1,6 @@
 # Operations: Summer 2027 Internships
 
-214 open Summer 2027 operations roles, newest first (the 200 newest of 214). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 557 operations internships on InternScout](https://internscout.org/internships/operations/)
+215 open Summer 2027 operations roles, newest first (the 200 newest of 215). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 559 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | Intermountain Healthcare | Machine Learning Operations (MLOps) Intern | United States |  | Nov 12 | [Apply](https://go.vansh.nyc/1xu) |
 | [Ursa Major](https://internscout.org/internships/at/ursa-major/) | 2027 Summer IT Operations & Asset Management Intern | Berthoud, Colorado | \$30.00/hour | Nov 12 | [Apply](https://ursamajor.com/careers/?gh_jid=4746885005) |
 | PODS | Operations Data Science Intern | Clearwater, FL |  | Nov 12 | [Apply](https://go.vansh.nyc/1yX) |
+| [Alexion](https://internscout.org/internships/at/alexion/) | Summer 2027 Analytical Development & Quality Control Intern | US - New Haven - CT | \$37-\$39 per hour | Nov 12 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---New-Haven---CT/Summer-2027-Analytical-Development---Quality-Control-Intern_R-264277) |
 | [Vizient](https://internscout.org/internships/at/vizient/) | Contract Operations Intern - Analytics | Irving, TX |  | Nov 12 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Intern-Provider Portal Operations | Detroit, MI |  | Nov 12 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15149) |
 | [Arcesium](https://internscout.org/internships/at/arcesium/) | Technology Operations Intern | New York, NY |  | Nov 12 | [Apply](https://go.vansh.nyc/1vQ) |
@@ -203,7 +204,6 @@
 | [Interstates](https://internscout.org/internships/at/interstates/) | Assistant Project Manager Intern (Summer 2027) - Tulsa, OK | Broken Arrow, OK |  | Dec 15, 2025 | [Apply](https://www.interstates.com/careers/jobs?gh_jid=4078699009&gh_jid=4078699009) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 22, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Business Operations and Leadership Internship | Eden Prairie, MN | Paid | Nov 22, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8701/business-operations-and-leadership-internship/job) |
-| [IDEMIA](https://internscout.org/internships/at/idemia/) | Human Resources Operations Internship - Summer 2027 | Reston, VA | Paid | Nov 22, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8694/human-resources-operations-internship---summer-2027/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
