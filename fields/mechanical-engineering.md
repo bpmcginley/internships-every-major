@@ -1,6 +1,6 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-194 open Summer 2027 mechanical engineering roles, newest first (all 194). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 464 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+194 open Summer 2027 mechanical engineering roles, newest first (all 194). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 465 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

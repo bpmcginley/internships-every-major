@@ -1,6 +1,6 @@
 # Quantitative Finance: Summer 2027 Internships
 
-131 open Summer 2027 quantitative finance roles, newest first (all 131). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 174 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
+132 open Summer 2027 quantitative finance roles, newest first (all 132). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 175 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [TransMarket Group](https://internscout.org/internships/at/transmarket-group/) | Quantitative Trader Intern | Chicago, IL |  | Jun 2 | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007) |
 | Walleye Capital | Equity Volatility Quant Researcher Intern (Summer 2027) | Miami, FL | \$20,000/month | Jun 1 | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) |
 | SCM | Quantitative Research Analyst Intern | Radnor, PA |  | May 24 | [Apply](https://go.vansh.nyc/17s) |
+| Capula | 2027 Trading and Research Summer Internship | New York, New York | Paid | Apr 30 | [Apply](https://apply.workable.com/j/A15A62A8BE/apply) |
 | [Susquehanna International Group (SIG)](https://internscout.org/internships/at/susquehanna-international-group-sig/) | Quantitative Systematic Trading Intern | Ardmore, PA |  | Apr 21 | [Apply](https://careers-sig.icims.com/jobs/10821/job?mobile=true&needsRedirect=false) |
 | [Susquehanna International Group (SIG)](https://internscout.org/internships/at/susquehanna-international-group-sig/) | Quantitative Research Intern - PhD: Summer 2027 | Ardmore, PA |  | Apr 21 | [Apply](https://careers-sig.icims.com/jobs/10817/job?mobile=true&needsRedirect=false) |
 | [Susquehanna International Group (SIG)](https://internscout.org/internships/at/susquehanna-international-group-sig/) | Quantitative Systematic Trading Intern - Master's: Summer 2027 | Ardmore, PA |  | Apr 21 | [Apply](https://careers-sig.icims.com/jobs/10823/job?mobile=true&needsRedirect=false) |

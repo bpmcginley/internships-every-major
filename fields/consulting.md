@@ -63,6 +63,7 @@
 | [RF-SMART](https://internscout.org/internships/at/rf-smart/) | Product Strategy Intern - Summer 2027 | Jacksonville, Florida, United States +1 | \$25/hour | Sep 8 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5409030008) |
 | The MJ Companies | Consultative Sales Intern | Carmel, Indiana |  | Sep 3 | [Apply](https://job-boards.greenhouse.io/themjcos/jobs/5415703008) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem | San Jose, CA |  | Sep 3 | [Apply](https://lifeattiktok.com/search/7677493272788683013) |
+| First National Bank | Enterprise Data Governance Intern - Data Quality and Governance | Pittsburgh, PA |  | Sep 2 | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Enterprise-Data-Governance-Intern_2026-01835-1) |
 | PIMCO | Quant Research Analyst Intern - Client Solutions & Analytics | Newport Beach, CA |  | Sep 1 | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---PhD-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106815) |
 | [iA](https://internscout.org/internships/at/ia/) | Cost Strategy Intern | Johnson City, NY | \$18.00 to \$26.00 per hour | Aug 28 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&ccId=19000101_000001&jobId=578205&lang=en_US) |
 | [iA](https://internscout.org/internships/at/ia/) | Product Strategy Intern | Binghamton, NY | \$18 to \$26 per hour | Aug 28 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&ccId=19000101_000001&jobId=578151&lang=en_US) |
@@ -82,7 +83,6 @@
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Medicaid | Kapolei, HI | \$30 per hour | Nov 22, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3976/summer-2027-consulting-internship---medicaid/job) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Medicaid | Portland, ME | \$30 per hour | Nov 22, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3975/summer-2027-consulting-internship---medicaid/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Information Security Governance, Risk & Compliance Intern | Niles, IL | \$23-\$43 per hour | Nov 22, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job) |
-| First National Bank | Summer 2027 Enterprise Data Governance Intern | Pittsburgh, PA |  | Sep 18 | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Enterprise-Data-Governance-Intern_2026-01835-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,6 +1,6 @@
 # Finance: Summer 2027 Internships
 
-201 open Summer 2027 finance roles, newest first (the 200 newest of 201). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 340 finance internships on InternScout](https://internscout.org/internships/finance/)
+202 open Summer 2027 finance roles, newest first (the 200 newest of 202). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 342 finance internships on InternScout](https://internscout.org/internships/finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -174,8 +174,8 @@
 | [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Summer Analyst Intern - Americas - Investment Banking Quantitative Strats | NYC |  | Aug 15 | [Apply](https://higher.gs.com/roles/171547?type=students) |
 | [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats | Salt Lake City, UT |  | Aug 15 | [Apply](https://higher.gs.com/roles/171549?type=students) |
 | [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL |  | Aug 15 | [Apply](https://higher.gs.com/roles/181628?type=students) |
-| Waggoner Financial | Equity Research Summer 2027 Internship | Lansing, Michigan | Paid | Aug 11 | [Apply](https://apply.workable.com/j/4B05CCA828/apply) |
-| Waggoner Financial | Wealth Management Summer 2027 Internship | Lansing, Michigan | Paid | Aug 11 | [Apply](https://apply.workable.com/j/E65FAD594E/apply) |
+| [Waggoner Financial](https://internscout.org/internships/at/waggoner-financial/) | Equity Research Summer 2027 Internship | Lansing, Michigan | Paid | Aug 11 | [Apply](https://apply.workable.com/j/4B05CCA828/apply) |
+| [Waggoner Financial](https://internscout.org/internships/at/waggoner-financial/) | Wealth Management Summer 2027 Internship | Lansing, Michigan | Paid | Aug 11 | [Apply](https://apply.workable.com/j/E65FAD594E/apply) |
 | [DV Group](https://internscout.org/internships/at/dv-group/) | Software Engineer Intern - Summer 2027 (DV Commodities) | New York +1 | \$50.00 per hour | Aug 10 | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) |
 | [DV Group](https://internscout.org/internships/at/dv-group/) | Quantitative Risk Intern - Summer 2027 | Chicago +1 | \$35.00-\$40.00/hr | Aug 4 | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) |
 | [StepStone Group](https://internscout.org/internships/at/stepstone-group/) | 2027 Venture Capital Summer Associate | Baltimore | \$100,000 | Aug 3 | [Apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8094329) |
@@ -189,6 +189,7 @@
 | [Point72](https://internscout.org/internships/at/point72/) | Investment Analyst Intern, Point72 Academy | New York, NY +4 |  | Apr 19 | [Apply](https://go.vansh.nyc/1g) |
 | Agentis Capital | Investment Banking Summer Analyst - Infrastructure M&A Advisory - Summer 2027 | Toronto +3 |  | Mar 10 | [Apply](https://jobs.ashbyhq.com/Agentis-Capital-Advisors/af7e9253-cea8-4287-baf9-838a900546b3/application) |
 | Perpay | Finance Internship, Summer 2027 | Philadelphia, Pennsylvania, United States | Paid | Oct 9, 2024 | [Apply](https://job-boards.greenhouse.io/perpay/jobs/4536787007) |
+| Ketjen | 2027 Finance Summer Intern | Houston, Texas, United States of America |  | Nov 22 | [Apply](https://albemarle.wd5.myworkdayjobs.com/ketjenexternal/job/Houston-Texas-United-States-of-America/XMLNAME-2027-Finance-Summer-Intern_REQ-31663-1) |
 | Greystone | Corporate Finance Intern - Summer 2027 | New York, NY | \$29/ hour | Nov 22 | [Apply](https://greyco.wd108.myworkdayjobs.com/GTI/job/New-York-NY/Corporate-Finance-Intern---Summer-2027_JR0000118) |
 | [Piper Sandler](https://internscout.org/internships/at/piper-sandler/) | Campus Recruiting – 2027 Public Finance Special District Group Summer Associate - Salt Lake City, UT | Salt Lake City, UT |  | Nov 22 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Salt-Lake-City-UT/Campus-Recruiting---2027-Public-Finance-Special-District-Group-Summer-Associate----Salt-Lake-City--UT_R-100682) |
 | [Piper Sandler](https://internscout.org/internships/at/piper-sandler/) | Campus Recruiting – 2027 Public Finance Special District Group Summer Associate - Houston, TX | Houston 4, TX-Main Street |  | Nov 22 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Houston-4-TX-Main-Street/Campus-Recruiting---2027-Public-Finance-Special-District-Group-Summer-Associate----Houston--TX_R-100680) |
@@ -203,7 +204,6 @@
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Hotel Franchise Finance | Phoenix, AZ | Paid | Sep 28 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Hotel-Franchise-Finance_R13954) |
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - San Francisco, CA - Technology & Innovation Banking | San Francisco, CA | \$23.50 | Sep 22 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/San-Francisco-CA/Summer-2027-Internship---San-Francisco--CA---Technology---Innovation-Banking_R13940) |
 | [Clorox](https://internscout.org/internships/at/clorox/) | MBA Finance Intern (Summer 2027) | Oakland, CA - USA | \$26 - \$40/hr | Sep 18 | [Apply](https://wd1.myworkdaysite.com/recruiting/clorox/Clorox/job/Oakland-CA---USA/MBA-Finance-Intern--Summer-2027-_JR23493) |
-| [Hyatt](https://internscout.org/internships/at/hyatt/) | Summer 2027 - Finance Corporate Internship Program | United States | \$17.00 to \$21.00 per hour | Sep 18 | [Apply](https://hyatt.taleo.net/careersection/10780/jobdetail.ftl?job=UNI002288) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

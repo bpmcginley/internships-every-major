@@ -1,6 +1,6 @@
 # Machine Learning and AI: Summer 2027 Internships
 
-558 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 558). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 1,148 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
+558 open Summer 2027 machine learning and AI roles, newest first (the 200 newest of 558). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 1,149 machine learning and AI internships on InternScout](https://internscout.org/internships/machine-learning-ai/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -157,10 +157,9 @@
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Deep Learning Scientist Intern - LLM, Multimodal and Agentic AI | Canada +2 |  | Nov 4 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548) |
 | Tokyo Electron | Research Scientist Intern - Summer 2027 | Austin, TX |  | Nov 4 | [Apply](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Research-Scientist---ATG-Optical-Sensor-Development-Intern--Summer-2027-_R26-02311) |
 | [Baird](https://internscout.org/internships/at/baird/) | Automation & AI Solutions Intern | Milwaukee, WI |  | Nov 4 | [Apply](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Automation---AI-Solutions--Milwaukee--WI-_R20261262-1) |
-| [Bose](https://internscout.org/internships/at/bose/) | DSP/ML Research Engineer Intern \| Summer 2027 | US, MA - Framingham +1 | \$40.00-\$51.25 per hour | Nov 4 | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371) |
+| [Bose](https://internscout.org/internships/at/bose/) | DSP/ML Research Engineer Intern | Framingham, MA |  | Nov 4 | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371) |
 | Prologis | AI and Automation Intern, IT | Denver, CO |  | Nov 4 | [Apply](https://go.vansh.nyc/1gr) |
 | TruStage | IT Intern, Innovation & AI Technology | Madison, WI |  | Nov 3 | [Apply](https://go.vansh.nyc/1fm) |
-| [TWG Global](https://internscout.org/internships/at/twg-global/) | AI Engineering Intern | Santa Monica, CA |  | Nov 3 | [Apply](https://go.vansh.nyc/1eY) |
 | Direct Supply | AI Engineer Intern | Milwaukee, WI |  | Nov 3 | [Apply](https://go.vansh.nyc/1ep) |
 | [Samsung Research America](https://internscout.org/internships/at/samsung-research-america/) | 2027 Summer Intern, Generative AI based Imaging and Video R&D | 6105 Tennyson Pkwy, Suite 300, Plano TX 75024 +1 | Paid | Nov 3 | [Apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927216002) |
 | [Trimble](https://internscout.org/internships/at/trimble/) | AI Developer Intern | Westminster, CO +1 |  | Nov 3 | [Apply](https://go.vansh.nyc/1dM) |
@@ -204,6 +203,7 @@
 | One Robot | Machine Learning Intern | San Francisco, CA |  | Oct 31 | [Apply](https://go.vansh.nyc/13h) |
 | USAFacts | AI & Software Engineering Intern | Bellevue, WA |  | Oct 31 | [Apply](https://go.vansh.nyc/13s) |
 | Vantor | AI Engineer Intern | Remote +1 |  | Oct 31 | [Apply](https://go.vansh.nyc/13t) |
+| Powertown | Machine Learning Engineer Intern | Boston, MA |  | Oct 31 | [Apply](https://go.vansh.nyc/13k) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
