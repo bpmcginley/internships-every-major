@@ -1,6 +1,6 @@
 # Health: Summer 2027 Internships
 
-33 open Summer 2027 health roles, newest first (all 33). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 125 health internships on InternScout](https://internscout.org/internships/health/)
+37 open Summer 2027 health roles, newest first (all 37). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 138 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -37,6 +37,10 @@
 | [Wellmark](https://internscout.org/internships/at/wellmark/) | Software Engineer Intern - Technology Healthcare Innovation | Des Moines, IA |  | Sep 21 | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000150732768) |
 | Netsmart | Revenue Cycle Management Operations Analyst Intern - Revenue Cycle Management | Overland Park, KS |  | Sep 18 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Revenue-Cycle-Management--RCM--Operations-Analyst-Intern-Summer-2027-Internship-_R015757) |
 | [Medpace](https://internscout.org/internships/at/medpace/) | Account Management Internship - Summer 2027 | Cincinnati, Ohio |  | Aug 20 | [Apply](https://careers.medpace.com/jobs/12957) |
+| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Material Science | Boston, MA | \$23.00 - \$32.00 | Nov 22 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Material-Science_REQ-31308-1) |
+| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Pathobiology | Boston, MA |  | Nov 22 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Pathobiology_REQ-31423) |
+| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Comparative Medicine | Boston, MA | \$23.00 – 32.00 | Nov 22 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Comparative-Medicine_REQ-31424) |
+| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, DMPK Bioanalysis | Boston, MA | \$23.00 – \$32.00 | Nov 22 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--DMPK-Bioanalysis_REQ-31426) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

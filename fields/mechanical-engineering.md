@@ -1,6 +1,6 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-192 open Summer 2027 mechanical engineering roles, newest first (all 192). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 458 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+194 open Summer 2027 mechanical engineering roles, newest first (all 194). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 462 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -171,6 +171,8 @@
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States +7 | Paid | Jun 11 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Mechanical Engineer Intern | Atlanta, Georgia, United States +8 | Paid | Jun 11 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
 | [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | Intern, Technical Support (Mechanical Engineering) | Colchester, VT | \$20.50 - \$24.50 | Nov 22, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37391/intern%2c-technical-support-%28mechanical-engineering%29/job) |
+| [Carpenter Technology](https://internscout.org/internships/at/carpenter-technology/) | Maintenance Intern - Mechanical | Reading, PA |  | Nov 22 | [Apply](https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Maintenance-Intern---Mechanical_26885) |
+| [Carpenter Technology](https://internscout.org/internships/at/carpenter-technology/) | Maintenance Intern - Machinist | Reading, PA |  | Nov 22 | [Apply](https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Maintenance-Intern---Machinist_26886) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Summer 2027 Electro-Mechanical Design Engineer Intern | Morristown, New Jersey | \$23.00-\$27.50 per hour | Nov 20 | [Apply](https://se.jibeapply.com/jobs/143232) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Cost Reduction Mechanical Design Engineer | Denton, TX |  | Nov 17 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Cost-Reduction-Mechanical-Design-Engineer-TX-76205-7864/1457741733/) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Summer 2027 Mechanical Engineer Co-Op | Cedar Rapids, Iowa | \$23.00-\$35.50 per hour | Nov 13 | [Apply](https://se.jibeapply.com/jobs/139601) |

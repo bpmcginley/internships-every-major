@@ -1,6 +1,6 @@
 # Electrical Engineering: Summer 2027 Internships
 
-180 open Summer 2027 electrical engineering roles, newest first (all 180). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 390 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
+181 open Summer 2027 electrical engineering roles, newest first (all 181). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 392 electrical engineering internships on InternScout](https://internscout.org/internships/electrical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States +17 | Paid | Jun 11 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
 | [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering Intern (RF Circuitry) | Niles, IL | \$23-\$43 per hour | Nov 22, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4984/electrical-engineering-intern-%28rf-circuitry%29/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Electrical Engineering Intern (Digital Circuitry) | Niles, IL | \$23-\$43 per hour | Nov 22, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5013/electrical-engineering-intern-%28digital-circuitry%29/job) |
+| [Carpenter Technology](https://internscout.org/internships/at/carpenter-technology/) | Maintenance Intern - Electrical | Reading, PA |  | Nov 22 | [Apply](https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Maintenance-Intern---Electrical_26884) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Summer 2027 Power Electronics Co-Op | Andover, Massachusetts | \$29.50-\$35.50 per hour | Nov 12 | [Apply](https://se.jibeapply.com/jobs/141740) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Summer 2027 Power Electronics Intern | Andover, Massachusetts | \$23.00-\$35.50 per hour | Nov 12 | [Apply](https://se.jibeapply.com/jobs/141706) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Electrical Contractor Channel Intern | Nashville, Tennessee | Paid | Nov 3 | [Apply](https://se.jibeapply.com/jobs/140446) |

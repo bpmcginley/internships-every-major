@@ -1,9 +1,10 @@
 # Software Engineering: Summer 2027 Internships
 
-1,548 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,548). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 2,778 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,549 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,549). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 2,779 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Neogen | Embedded Systems Engineer Intern | Oakdale, MN |  | Nov 22 | [Apply](https://go.vansh.nyc/1Gp) |
 | Fabri | DevOps, IT & Cybersecurity Intern | Billerica, MA |  | Nov 21 | [Apply](https://go.vansh.nyc/1Gk) |
 | Neros Technologies | Firmware/Embedded Software Engineer Intern - Summer 2027 | Torrance, California, United States +1 | \$55.00/hr | Nov 21 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) |
 | Activision Blizzard | Data Platform Engineering Intern | Irvine, CA |  | Nov 21 | [Apply](https://go.vansh.nyc/1Ge) |
@@ -51,7 +52,7 @@
 | [Ralliant](https://internscout.org/internships/at/ralliant/) | Software Design Engineer Intern (Summer 2027) | Beaverton, OR |  | Nov 20 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11154) |
 | [Piper Sandler](https://internscout.org/internships/at/piper-sandler/) | Equities Trading Technology Intern | Greenwich, CT |  | Nov 20 | [Apply](https://go.vansh.nyc/1G3) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Software Engineering Intern - AI Platform, Autonomy (Summer 2027) | Palo Alto, California +1 | \$33.00-51.00/HR | Nov 20 | [Apply](https://careers.rivian.com/jobs/37339) |
-| [Symbotic](https://internscout.org/internships/at/symbotic/) | Software Engineer Intern - Front-End | Austin, TX |  | Nov 20 | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1) |
+| [Symbotic](https://internscout.org/internships/at/symbotic/) | Intern- Software Engineer, Front-End | USA Austin, TX +1 | \$32.00 - \$44.00 | Nov 20 | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1) |
 | [Ralliant](https://internscout.org/internships/at/ralliant/) | Software Engineering (AI Building) Intern (Summer 2027) | Beaverton, OR |  | Nov 20 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11324) |
 | [LLNL](https://internscout.org/internships/at/llnl/) | Computing Undergraduate Student Intern, DevOps | Livermore, CA |  | Nov 20 | [Apply](https://go.vansh.nyc/1DM) |
 | [Lawrence Livermore National Laboratory (LLNL)](https://internscout.org/internships/at/lawrence-livermore-national-laboratory-llnl/) | Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure | Livermore, CA |  | Nov 19 | [Apply](https://go.vansh.nyc/1DP) |
@@ -116,7 +117,6 @@
 | [Birdseye Security Solutions](https://internscout.org/internships/at/birdseye-security-solutions/) | Software Developer Intern | Mississauga, Canada |  | Nov 17 | [Apply](https://go.vansh.nyc/1AZ) |
 | [Analog Devices](https://internscout.org/internships/at/analog-devices/) | Software Engineering Intern, Medical Device & Healthcare Integration | Wilmington, MA |  | Nov 17 | [Apply](https://go.vansh.nyc/1AV) |
 | Fiserv | Technology Intern, Cybersecurity | Berkeley Heights, NJ +1 |  | Nov 17 | [Apply](https://go.vansh.nyc/1AS) |
-| HexArmor | Software Engineer Intern | Atlanta, GA |  | Nov 17 | [Apply](https://go.vansh.nyc/1AQ) |
 | Sallie Mae | Software Engineer Intern | Indianapolis, IN |  | Nov 17 | [Apply](https://go.vansh.nyc/1C4) |
 | Lean TECHniques | Software Engineer Intern | Johnston, IA |  | Nov 17 | [Apply](https://go.vansh.nyc/1BI) |
 | [APEX Analytix](https://internscout.org/internships/at/apex-analytix/) | Product Management (DevOps) Intern - Summer 2027 | Greensboro, NC |  | Nov 17 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164) |
@@ -134,6 +134,7 @@
 | Shopify | Software Engineer Intern | Montreal, QC, Canada +5 |  | Nov 16 | [Apply](https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a) |
 | [Pacific Fusion](https://internscout.org/internships/at/pacific-fusion/) | Summer 2027 Vacuum Systems Engineering Internship | San Leandro, CA | Paid | Nov 16 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4505556009) |
 | [Pacific Fusion](https://internscout.org/internships/at/pacific-fusion/) | Summer 2027 HPC/DevOps Engineering Intern | San Leandro, CA | Paid | Nov 16 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4505668009) |
+| [Symbotic](https://internscout.org/internships/at/symbotic/) | Intern- Software Engineer | USA Wilmington, MA - HQ | \$32.00 - \$44.00 | Nov 16 | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer_R7963) |
 | Blizzard Entertainment | Data Platform Engineering Intern - Data Platform Engineering | Irvine, CA |  | Nov 16 | [Apply](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358) |
 | Steel | Software Engineer Intern (Summer 2027) | Toronto +2 |  | Nov 15 | [Apply](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application) |
 | Rodriguez Services | Software Engineer Intern | San Francisco, CA |  | Nov 15 | [Apply](https://go.vansh.nyc/1zS) |
@@ -203,7 +204,6 @@
 | Selective Insurance Company of America | IT Information Management Intern | Short Hills, NJ |  | Nov 11 | [Apply](https://go.vansh.nyc/1xn) |
 | Selective Insurance Company of America | IT Commercial Lines Intern | Hartford, CT +1 |  | Nov 11 | [Apply](https://go.vansh.nyc/1xm) |
 | [Garmin International](https://internscout.org/internships/at/garmin/) | IT DevOps Administrator Intern | Olathe, KS |  | Nov 11 | [Apply](https://go.vansh.nyc/1xf) |
-| Diversified Gas & Oil Corporation | Information Technology Intern | Birmingham, AL |  | Nov 11 | [Apply](https://go.vansh.nyc/1xe) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

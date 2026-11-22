@@ -1,10 +1,9 @@
 # Engineering: Summer 2027 Internships
 
-401 open Summer 2027 engineering roles, newest first (the 200 newest of 401). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 983 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+400 open Summer 2027 engineering roles, newest first (the 200 newest of 400). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 988 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| AMD | BIOS Engineering Co-op | Austin, TX |  | Nov 22 | [Apply](https://careers.amd.com/jobs/90475?icims=1&lang=en-us) |
 | Metamorphic | Research and Engineering Intern (Summer 2027) | Palo Alto +2 | \$6-8k/month | Nov 21 | [Apply](https://jobs.ashbyhq.com/metamorphic/cf518648-4e65-4f7d-aa05-f01066d8bd8a/application) |
 | Renesas Electronics | System Verification Engineer Intern | Austin, TX |  | Nov 20 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000162824903) |
 | Method | Engineering Resident Intern | Remote +5 |  | Nov 20 | [Apply](https://go.vansh.nyc/1Fq) |
@@ -204,6 +203,7 @@
 | [Hermeus](https://internscout.org/internships/at/hermeus/) | Loads & Dynamics Engineering Intern - Summer 2027 | Los Angeles, CA |  | Sep 30 | [Apply](https://jobs.lever.co/hermeus/29c10a11-aa02-4d64-83d0-00001cbd3ac0/apply) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Automation & Controls Engineering Intern (Summer 2027) | San Francisco | \$29.00 per hour | Sep 30 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4718206006) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Design Engineering Intern - Morris, IL | Morris, Illinois | Paid | Sep 30 | [Apply](https://jobs.constellationenergy.com/jobs/139587) |
+| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Rapid Response Engineering Intern - Morris, IL | Morris, Illinois | Paid | Sep 30 | [Apply](https://jobs.constellationenergy.com/jobs/139591) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,9 +1,10 @@
 # Hardware Engineering: Summer 2027 Internships
 
-282 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 282). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 699 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+283 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 283). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 702 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Neogen | Embedded Systems Engineer Intern | Oakdale, MN |  | Nov 22 | [Apply](https://go.vansh.nyc/1Gp) |
 | Neros Technologies | Firmware/Embedded Software Engineer Intern - Summer 2027 | Torrance, California, United States +1 | \$55.00/hr | Nov 21 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) |
 | TASI Measurement | Embedded Engineer Intern | Kent, WA |  | Nov 20 | [Apply](https://go.vansh.nyc/1Fr) |
 | Renesas Electronics | Firmware Engineer Intern | Austin, TX |  | Nov 20 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000162784555) |
@@ -203,7 +204,6 @@
 | [Marvell](https://internscout.org/internships/at/marvell/) | Analog Design Intern Co-op - Master’s | Toronto, ON, Canada |  | Sep 24 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Design-Intern--Master-s---2027-Co-Op_2603862) |
 | [Semtech](https://internscout.org/internships/at/semtech/) | Analog Design Intern | Ottawa, ON, Canada |  | Sep 24 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Analog-Design-Intern_REQ3625) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Data Center Silicon Hardware Engineering Intern Co-op - BS | Toronto, ON, Canada +1 |  | Sep 24 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525) |
-| [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Firmware Development Intern - PAL | Markham, ON, Canada +1 |  | Sep 23 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721229661) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

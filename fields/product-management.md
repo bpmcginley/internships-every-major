@@ -1,6 +1,6 @@
 # Product Management: Summer 2027 Internships
 
-171 open Summer 2027 product management roles, newest first (all 171). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 266 product management internships on InternScout](https://internscout.org/internships/product-management/)
+172 open Summer 2027 product management roles, newest first (all 172). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 267 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,6 +11,7 @@
 | [CAS](https://internscout.org/internships/at/cas/) | Product Management Intern | Columbus, OH |  | Nov 20 | [Apply](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=446d0048-3a4f-48d6-afd7-7cc59e589336) |
 | [Walmart](https://internscout.org/internships/at/walmart/) | MBA Product Manager Intern - MBA | Bentonville, AR |  | Nov 20 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-MBA-Intern--APD-Product-Manager---MBA_R-2630166) |
 | AriensCo | Product Management Intern | Brillion, WI |  | Nov 20 | [Apply](https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305) |
+| Fiskars Group | Product Management Intern | Middleton, WI |  | Nov 19 | [Apply](https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Middleton/Product-Management-Intern--Summer-2027-_JR-009520) |
 | Pyrotek | Product Management Intern | Spokane, WA |  | Nov 18 | [Apply](https://jobs.smartrecruiters.com/Pyrotek3/744000162385949) |
 | [Lucid](https://internscout.org/internships/at/lucid/) | Product Management Internship - Summer 2027 | Salt Lake City, UT |  | Nov 18 | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) |
 | [Lucid](https://internscout.org/internships/at/lucid/) | Product Management Internship - Summer 2027 | Raleigh, NC |  | Nov 18 | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) |
@@ -61,7 +62,7 @@
 | [SageSure](https://internscout.org/internships/at/sagesure/) | Data Science Product Analyst Intern | Fairfield, CA |  | Oct 29 | [Apply](https://go.vansh.nyc/1oj) |
 | [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Program Management | Holtsville, New York |  | Oct 27 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Program-Management_JR103641) |
 | Hive Financial Systems | Product Internship-2027 | Atlanta, Georgia +1 |  | Oct 26 | [Apply](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274970007) |
-| [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Product Management | Lincolnshire, Illinois +1 |  | Oct 26 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652) |
+| [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | Product Management Intern | Lincolnshire, IL |  | Oct 26 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652) |
 | ABB | Product Management Intern | New Berlin, WI |  | Oct 26 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern-Drive-Products---Summer-2027_JR00047254) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Technical Product Manager Intern | Seattle, WA +1 |  | Oct 23 | [Apply](https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Product Manager Intern - ALA | Seattle, WA |  | Oct 23 | [Apply](https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship) |
@@ -126,6 +127,7 @@
 | Dick's Sporting Goods | Product Management Intern - Corporate Internship | Pittsburgh, PA |  | Sep 8 | [Apply](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1) |
 | [Ernst & Young](https://internscout.org/internships/at/ernst-young/) | Product Manager Intern - Tax - Other Tax | NYC |  | Sep 4 | [Apply](https://eyglobal.yello.co/jobs/ScWvvhAQZFvHMXityc1Mgw?job_board_id=c1riT--B2O-KySgYWsZO1Q) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem | San Jose, CA |  | Sep 3 | [Apply](https://lifeattiktok.com/search/7677493272788683013) |
+| [Allied Solutions](https://internscout.org/internships/at/allied-solutions/) | Product Management Intern - Risk Management | St Paul, MN |  | Sep 2 | [Apply](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083) |
 | [American Express](https://internscout.org/internships/at/american-express/) | Product Development Intern - 2027 Product Development - US Consumer Services | NYC |  | Sep 1 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011605) |
 | [NJM Insurance Group](https://internscout.org/internships/at/njm-insurance-group/) | Insurance Product Management Analyst Intern 3 | Trenton, NJ |  | Sep 1 | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst-Intern-3_R2008190) |
 | [Blackhawk Network Holdings](https://internscout.org/internships/at/blackhawk-network-holdings/) | Product Management Intern | Pleasanton, CA |  | Aug 31 | [Apply](https://careers-blackhawknetwork.icims.com/jobs/26869/job?mobile=true&needsRedirect=false) |
@@ -174,7 +176,6 @@
 | [Databricks](https://internscout.org/internships/at/databricks/) | Product Management Intern (Summer 2027) | Bellevue, Washington +5 | \$51.50 | Aug 17, 2023 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Program Management Intern | Kirkland, WA +1 |  | Oct 20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Program-Management-Intern-WA-98033/1449176233/) |
 | [Tyler Technologies](https://internscout.org/internships/at/tyler-technologies/) | Product Analyst Intern, Summer 2027 | Plano, Texas |  | Sep 21 | [Apply](https://jobs.jobvite.com/tylertech/job/oSAPAfwB/apply) |
-| [Allied Solutions](https://internscout.org/internships/at/allied-solutions/) | Product Management Intern - Risk Management | St. Paul, MN +1 |  | Sep 18 | [Apply](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

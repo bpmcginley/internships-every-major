@@ -1,6 +1,6 @@
 # Data Science and Analytics: Summer 2027 Internships
 
-582 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 582). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 941 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
+582 open Summer 2027 data science and analytics roles, newest first (the 200 newest of 582). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 946 data science and analytics internships on InternScout](https://internscout.org/internships/data-science/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | Camping World | Data Analyst Intern - AI & Machine Learning Focus | Chicago, IL +1 |  | Nov 13 | [Apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300) |
 | Camping World | Data Engineering Intern | Chicago, IL +1 |  | Nov 13 | [Apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297) |
 | Amgen | AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern | Remote |  | Nov 13 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625) |
-| Vertex Pharmaceuticals | Data Analytics Intern - OSD Process Data Analytics | Boston, MA |  | Nov 13 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312) |
+| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Data Analytics Intern - OSD Process Data Analytics | Boston, MA |  | Nov 13 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312) |
 | Fonds de solidarité FTQ | Business Intelligence and M365 Solutions Intern | Montreal, Canada |  | Nov 13 | [Apply](https://go.vansh.nyc/1yJ) |
 | [Duetti](https://internscout.org/internships/at/duetti/) | 2027 Summer Internship - Data | New York, NY +1 | Paid | Nov 12 | [Apply](https://jobs.lever.co/duetti/9db49695-8ec8-40ad-b780-c73bb4594567/apply) |
 | [Zoox](https://internscout.org/internships/at/zoox/) | Data Scientist Intern \[Summer 2027\] | Foster City, CA |  | Nov 12 | [Apply](https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db/apply) |
@@ -127,7 +127,7 @@
 | [CarGurus](https://internscout.org/internships/at/cargurus/) | Data Governance Engineer Intern | Boston, MA |  | Nov 11 | [Apply](https://go.vansh.nyc/1wX) |
 | Riot Games | Data Engineering Intern | Los Angeles, CA |  | Nov 11 | [Apply](https://go.vansh.nyc/1sS) |
 | Riot Games | Data Engineer Intern | Remote |  | Nov 11 | [Apply](https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716) |
-| [State of Wisconsin Investment Board](https://internscout.org/internships/at/state-of-wisconsin-investment-board/) | Data Analytics Engineering Intern | Madison Wisconsin +1 |  | Nov 11 | [Apply](https://swib.wd12.myworkdayjobs.com/ext/job/Madison-Wisconsin/Data-Analytics-Engineering-Intern_R-001330) |
+| [State of Wisconsin Investment Board](https://internscout.org/internships/at/state-of-wisconsin-investment-board/) | Data Analytics Engineering Intern | Madison, WI |  | Nov 11 | [Apply](https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Analytics-Engineering-Intern_R-001330) |
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | AI/ML Business Intelligence Development Intern | Bossier City, LA |  | Nov 10 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Site Reliability Engineer Intern, Data Platform, Computer Platform | San Jose, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1s7) |
 | SemiAnalysis | Data Engineer Intern | Chicago, IL |  | Nov 10 | [Apply](https://go.vansh.nyc/1rv) |
