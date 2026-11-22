@@ -1,9 +1,13 @@
 # Media: Summer 2027 Internships
 
-32 open Summer 2027 media roles, newest first (all 32). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 107 media internships on InternScout](https://internscout.org/internships/media/)
+36 open Summer 2027 media roles, newest first (all 36). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 110 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Ogilvy | 2027 Ogilvy Creative Summer Internship | Chicago, United States | Paid | Nov 21 | [Apply](https://www.ogilvy.com/careers/4757364005?gh_jid=4757364005) |
+| Ogilvy | 2027 Ogilvy Creative Summer Internship | New York, New York | Paid | Nov 21 | [Apply](https://www.ogilvy.com/careers/4757353005?gh_jid=4757353005) |
+| Ogilvy | 2027 The Ogilvy Group General Summer Internship | Chicago, United States | Paid | Nov 21 | [Apply](https://www.ogilvy.com/careers/4757341005?gh_jid=4757341005) |
+| Ogilvy | 2027 The Ogilvy Group General Summer Internship | New York, New York | Paid | Nov 21 | [Apply](https://www.ogilvy.com/careers/4757274005?gh_jid=4757274005) |
 | [Formlabs](https://internscout.org/internships/at/formlabs/) | Video Content Creator Intern (Summer 2027) | Somerville, MA |  | Nov 18 | [Apply](https://careers.formlabs.com/job/8395549/apply/?gh_jid=8395549) |
 | [Publicis Groupe](https://internscout.org/internships/at/publicis-groupe/) | Publicis Media Summer 2027 Internship - Remote | New York, New York | \$17.00 | Nov 16 | [Apply](https://careers.publicisgroupe.com/jobs/182838) |
 | [Publicis Groupe](https://internscout.org/internships/at/publicis-groupe/) | Publicis Media Summer 2027 Internship - Chicago | Chicago, Illinois | \$17.00 | Nov 16 | [Apply](https://careers.publicisgroupe.com/jobs/182300) |
@@ -15,7 +19,7 @@
 | Pika | Applied AI Engineer Intern, Creative Experiences | Palo Alto, CA |  | Nov 10 | [Apply](https://go.vansh.nyc/1pR) |
 | [Southern Poverty Law Center](https://internscout.org/internships/at/southern-poverty-law-center/) | Intern, Editorial (Summer 2027) | Atlanta, GA +4 | \$18.40 per hour | Nov 6 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8931208002) |
 | Deeplocal | Creative Technology Intern- Summer 2027 | Pittsburgh +1 | Paid | Nov 6 | [Apply](https://job-boards.greenhouse.io/deeplocal/jobs/8360330) |
-| [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Video Editing Internship Summer 2027 | Centennial, CO | \$23.10 - \$37.95 | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Video-Editing-Internship-Summer-2027-CO-80112/1427399000/) |
+| United Launch Alliance | Video Editing Internship Summer 2027 | Centennial, CO | \$23.10 - \$37.95 | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Video-Editing-Internship-Summer-2027-CO-80112/1427399000/) |
 | [Samsung Research America](https://internscout.org/internships/at/samsung-research-america/) | 2027 Summer Intern, Generative AI based Imaging and Video R&D | 6105 Tennyson Pkwy, Suite 300, Plano TX 75024 +1 | Paid | Nov 3 | [Apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927216002) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Research Scientist Intern - Video and Edge - Multimedia Lab | San Jose, CA |  | Oct 30 | [Apply](https://jobs.bytedance.com/en/position/7702155940239264005/detail) |
 | The New York Times | Editorial Design Intern, Wirecutter | New York, NY | \$20.00 per hour | Oct 30 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748518005) |

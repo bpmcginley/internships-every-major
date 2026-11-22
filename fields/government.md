@@ -1,12 +1,11 @@
 # Government and Public Policy: Summer 2027 Internships
 
-42 open Summer 2027 government and public policy roles, newest first (all 42). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 224 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+40 open Summer 2027 government and public policy roles, newest first (all 40). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 220 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Systems Planning and Analysis (SPA)](https://internscout.org/internships/at/systems-planning-and-analysis-spa/) | Policy Intern - Summer 2027 | Alexandria, Virginia | \$23.00/Hr | Nov 20 | [Apply](https://spa.jibeapply.com/jobs/23728) |
 | Federal Energy Regulatory Commission | Student Trainee (Management Analysis) | District of Columbia, District of Columbia | \$41659 - \$54160 Per Year | Nov 19 | [Apply](https://www.usajobs.gov:443/job/893523800) |
-| [Salesforce](https://internscout.org/internships/at/salesforce/) | Summer 2027 Intern - Sales Development, Public Sector | Virginia - Mclean |  | Nov 19 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/Virginia---Mclean/Summer-2027-Intern---Sales-Development--Public-Sector_JR360458) |
 | [Southern Poverty Law Center](https://internscout.org/internships/at/southern-poverty-law-center/) | Intern, Federal Policy (Summer 2027) | Washington, D.C. | \$18.40 per hour | Nov 18 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8950751002) |
 | [KPMG](https://internscout.org/internships/at/kpmg/) | Edmonton Consulting Summer Internship, Operations - Government Solutions (May - August 2027) | Edmonton, Alberta, Canada |  | Nov 16 | [Apply](https://careers.kpmg.ca/jobs/36504) |
 | Dept Of Design & Construction | College Aide (CR) | New York, NY | \$17.5 - \$21.9 Hour | Nov 9 | [Apply](https://cityjobs.nyc.gov/job/807371) |
@@ -16,7 +15,6 @@
 | [Securities and Exchange Commission](https://internscout.org/internships/at/securities-and-exchange-commission/) | Summer 2027 SEC Scholars Legal Program- HQ (1L, 2L, 3L, or LL.M.) (Volunteer) | Washington, District of Columbia |  | Nov 9 | [Apply](https://www.usajobs.gov:443/job/891903400) |
 | [Securities and Exchange Commission](https://internscout.org/internships/at/securities-and-exchange-commission/) | Summer 2027 SEC Scholars Business Program- HQ (Volunteer) | Washington, District of Columbia |  | Nov 9 | [Apply](https://www.usajobs.gov:443/job/891901100) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Knowledge and Information Management Intern | Atlanta, GA |  | Nov 5 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship---Knowledge-and-Information-Management-Intern_R-0000033908) |
-| [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Government & Political Science Internship - Summer 2027 | Arlington, VA |  | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Arlington-Government-&-Political-Science-Internship-Summer-2027-VA-22209/1427398100/) |
 | Dept Of Design & Construction | College Aide (Graduate) | New York, NY | \$17.5 - \$21.9 Hour | Nov 4 | [Apply](https://cityjobs.nyc.gov/job/786359) |
 | Indian Health Service | Student Trainee (IHS Extern) | Salt Lake City, Utah +18 | \$35395 - \$97087 Per Year | Nov 2 | [Apply](https://www.usajobs.gov:443/job/891279900) |
 | National Institute of Standards and Technology | Summer High-school Intern Program (SHIP) -Gaithersburg, MD (Volunteer; STEM Fields) | Gaithersburg, Maryland |  | Oct 31 | [Apply](https://www.usajobs.gov:443/job/891154500) |
@@ -42,9 +40,9 @@
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Policy Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175556?gh_jid=8175556) |
 | [Air Force Civilian Career Training](https://internscout.org/internships/at/air-force-civilian-career-training/) | Student Trainee | Clear AFB, Alaska +83 | \$36409 - \$52957 Per Year | Sep 1 | [Apply](https://www.usajobs.gov:443/job/882786200) |
 | [Olsson](https://internscout.org/internships/at/olsson/) | Structural Engineering Internship - Federal Infrastructure | Overland Park, KS |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5396073008) |
-| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 21, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
-| [IDEMIA](https://internscout.org/internships/at/idemia/) | Government Relations Internship - Summer 2027 | Reston, VA |  | Nov 21, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8690/government-relations-internship---summer-2027/job) |
-| Centene Corporation | Public Policy and Government Affairs Summer 2027 Intern (Undergraduate) | Jefferson City, MO | \$21.00 - \$26.00 / hr | Nov 20 | [Apply](https://bebee.com/us/jobs/public-policy-and-government-affairs-summer-2027-intern-undergraduate-centene-corporation-jefferson---techmap_us_AE7A5D98FF1F4E79B88A4B940A2369ED?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 22, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Government Relations Internship - Summer 2027 | Reston, VA |  | Nov 22, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8690/government-relations-internship---summer-2027/job) |
+| 05E Federal Reserve Bank of Richmond | Federal Reserve Summer 2027 Research Business Survey Internship | Richmond, VA | \$23.50/hour | Nov 22 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Federal-Reserve-Summer-2027-Research-Business-Survey-Internship_R-0000033218?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Port Authority of New York and New Jersey | Interest Form, 2027 Summer Internship Program | New York, New York | Paid | Sep 18 | [Apply](https://jobs.jobvite.com/panynj/job/ozTEAfwq/apply) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

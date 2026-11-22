@@ -1,6 +1,6 @@
 # Aerospace Engineering: Summer 2027 Internships
 
-28 open Summer 2027 aerospace engineering roles, newest first (all 28). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 50 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
+27 open Summer 2027 aerospace engineering roles, newest first (all 27). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 49 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,7 +11,6 @@
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern Eng - Structural & Aerospace Engineering | Pascagoula, Mississippi |  | Nov 12 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-ENG-STRUCTURAL-&-AEROSPACE-ENGINEERING-Miss/1430053500/) |
 | [Castelion](https://internscout.org/internships/at/castelion/) | Propulsion Engineering Intern (Summer 2027) | Torrance, CA |  | Nov 11 | [Apply](https://job-boards.greenhouse.io/castelioncorporation/jobs/4503740009) |
 | [Pivotal Software](https://internscout.org/internships/at/pivotal-software/) | Internship, Flight Test Engineer (Summer 2027) | Palo Alto, CA |  | Nov 9 | [Apply](https://jobs.lever.co/pivotal/67927cb0-cf1a-4775-93be-61db3efe684b/apply) |
-| [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Avionics & Electrical Engineering Internship Summer 2027 | Centennial, CO | \$23.10 - \$37.95 | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Avionics-&-Electrical-Engineering-Internship-Summer-2027-CO-80112/1427399200/) |
 | [Astro Mechanica](https://internscout.org/internships/at/astro-mechanica/) | Propulsion Engineering Intern | San Francisco +1 | Paid | Nov 2 | [Apply](https://jobs.ashbyhq.com/Astro-Mechanica/8406a0b9-d8d6-40ff-b3e1-081a3e68968f/application) |
 | [Astro Mechanica](https://internscout.org/internships/at/astro-mechanica/) | Electrical/Avionics Engineering Intern | San Francisco +1 | Paid | Nov 2 | [Apply](https://jobs.ashbyhq.com/Astro-Mechanica/0916ad59-846f-4635-a68a-276da216a906/application) |
 | [Inversion Space](https://internscout.org/internships/at/inversion-space/) | Avionics Embedded Software Engineer - Summer Internship 2027 | Playa Vista, California, United States +2 | Paid | Oct 15 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4744391005) |

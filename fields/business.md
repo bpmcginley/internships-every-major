@@ -1,6 +1,6 @@
 # Business: Summer 2027 Internships
 
-34 open Summer 2027 business roles, newest first (all 34). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 70 business internships on InternScout](https://internscout.org/internships/business/)
+34 open Summer 2027 business roles, newest first (all 34). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 70 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Business Administration (Whittier) | Santa Fe Springs, CA |  | Oct 28 | [Apply](https://apply.edisoncareers.com/job/Santa-Fe-Springs-2027-Summer-Internship-Business-Administration-%28Whittier%29-CA-90670/1425068100/) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - MBA (Rosemead) | Rosemead, CA |  | Oct 25 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-MBA-%28Rosemead%29-CA-91770-3714/1424643100/) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 Business Management Summer Internship - Busn MGMT Intrn | Newport News, Virginia | \$39,000.00 to \$60,000.00 | Oct 25 | [Apply](https://careers.huntingtoningalls.com/job/Newport-News-2027-BUSINESS-MANAGEMENT-SUMMER-INTERNSHIP-BUSN-MGMT-INTRN-Virg/1424487600/) |
-| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | MBA Summer Associate Intern - Multiple Teams | Boston, MA |  | Oct 23 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/XMLNAME-2027-MBA-Summer-Associate-Intern--Medical-Information--Technology-and-Innovation--MITI---Business-Impact-Analytics_REQ-30482-1) |
+| Vertex Pharmaceuticals | MBA Summer Associate Intern - Multiple Teams | Boston, MA |  | Oct 23 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/XMLNAME-2027-MBA-Summer-Associate-Intern--Medical-Information--Technology-and-Innovation--MITI---Business-Impact-Analytics_REQ-30482-1) |
 | [Ursa Major](https://internscout.org/internships/at/ursa-major/) | 2027 Summer Business Process & ERP Documentation Intern | Berthoud, Colorado | \$30.00/hour | Oct 22 | [Apply](https://ursamajor.com/careers/?gh_jid=4746844005) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Business Partner Optimization | Detroit, MI |  | Oct 8 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14782) |
 | Franklin Electric | Global Business Strategy Development Intern | Fort Wayne, IN |  | Sep 23 | [Apply](https://franklin-electric.pinpointhq.com/en/postings/a8e0afdd-63ce-4817-aaca-056018010f06?ats=pinpointhq) |
@@ -34,7 +34,7 @@
 | [Selective Insurance](https://internscout.org/internships/at/selective-insurance/) | Commercial Lines Product Summer Internship – Short Hills, NJ or Hartford, CT (Hybrid) | Short Hills, New Jersey +3 | \$22.00 | Sep 8 | [Apply](https://jobs.selective.com/jobs/5709) |
 | [DTCC](https://internscout.org/internships/at/dtcc/) | Business Systems Intern \[2027 Intern Program\] | Jersey City, NJ +2 | Paid | Aug 25 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214472) |
 | Weatherford | USA - Weatherford Summer Business Internship | Houston, TX |  | Aug 12 | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/107149) |
-| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Business Valuation Internship | Portland, ME | \$30 per hour | Nov 21, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4018/summer-2027-business-valuation-internship/job) |
+| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Business Valuation Internship | Portland, ME | \$30 per hour | Nov 22, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4018/summer-2027-business-valuation-internship/job) |
 | [McKenney's Inc.](https://internscout.org/internships/at/mckenney-s-inc/) | Summer 2027 Business Analysis Co-op | Atlanta, GA |  | Nov 17 | [Apply](https://mckenneys.applytojob.com/apply/hn8EBxQ2Er/Summer-2027-Business-Analysis-Coop) |
 | [AAR](https://internscout.org/internships/at/aar/) | Product Line Intern - Business & General Aviation | Chicago, Illinois | \$22/hr | Nov 16 | [Apply](https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=18992) |
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - CRE-Commercial | Phoenix, AZ | Paid | Oct 9 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---CRE-Commercial_R13955) |

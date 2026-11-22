@@ -1,6 +1,6 @@
 # Education: Summer 2027 Internships
 
-26 open Summer 2027 education roles, newest first (all 26). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 162 education internships on InternScout](https://internscout.org/internships/education/)
+26 open Summer 2027 education roles, newest first (all 26). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 161 education internships on InternScout](https://internscout.org/internships/education/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -9,8 +9,8 @@
 | Art of Problem Solving | Computer Science Curriculum Intern | San Diego, California, United States | \$30/hour | Nov 10 | [Apply](https://artofproblemsolving.com/careers/job/8199446003?gh_jid=8199446003) |
 | Art of Problem Solving | Math Curriculum Intern | San Diego, California, United States | \$30/hour | Nov 9 | [Apply](https://artofproblemsolving.com/careers/job/8199370003?gh_jid=8199370003) |
 | [Chubb](https://internscout.org/internships/at/chubb/) | Agency Education and Development Intern | Chicago, IL | \$18 to \$24 per hour | Nov 6 | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38424) |
-| [Carnegie Mellon University](https://internscout.org/internships/at/carnegie-mellon-university/) | Enabling Edge Intelligence (E2I) Intern - Summer 2027 | Pittsburgh, PA |  | Nov 4 | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Enabling-Edge-Intelligence--E2I--Intern---Summer-2027_2025308-1) |
-| [Carnegie Mellon University](https://internscout.org/internships/at/carnegie-mellon-university/) | Enabling Mission Capability at Scale Intern - Summer 2027 | Pittsburgh, PA |  | Oct 30 | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300-1) |
+| [Carnegie Mellon University](https://internscout.org/internships/at/carnegie-mellon-university/) | Enabling Edge Intelligence (E2I) Intern - Summer 2027 | Pittsburgh, PA |  | Nov 5 | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Enabling-Edge-Intelligence--E2I--Intern---Summer-2027_2025308-1) |
+| [Carnegie Mellon University](https://internscout.org/internships/at/carnegie-mellon-university/) | Enabling Mission Capability at Scale Intern - Summer 2027 | Pittsburgh, PA |  | Oct 31 | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300-1) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Sales Instructional Design Internship | IRVINE, California | Paid | Oct 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/38125) |
 | [Strada Education Foundation](https://internscout.org/internships/at/strada-education-foundation/) | Strada Education Foundation: Information Technology Intern | Indianapolis, Indiana +1 | \$22.75/hour | Oct 28 | [Apply](https://jobs.lever.co/stradaeducation/d9d6301a-3fac-4389-b820-3115dfe20a13/apply) |
 | [Strada Education Foundation](https://internscout.org/internships/at/strada-education-foundation/) | Strada Education Foundation Internship: Strategic Partnership & Corporate Development Intern | Washington, DC | \$22.75/hour | Oct 28 | [Apply](https://jobs.lever.co/stradaeducation/2b03de4a-699c-4f1c-aefb-3e57a3d27851/apply) |

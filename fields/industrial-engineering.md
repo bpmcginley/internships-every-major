@@ -1,6 +1,6 @@
 # Industrial Engineering: Summer 2027 Internships
 
-156 open Summer 2027 industrial engineering roles, newest first (all 156). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 325 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+153 open Summer 2027 industrial engineering roles, newest first (all 153). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 324 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -36,9 +36,6 @@
 | [MSA Safety](https://internscout.org/internships/at/msa-safety/) | Industrial Engineering Co-Op/Intern Summer 2027 - Murrysville | Murrysville, Pennsylvania |  | Nov 9 | [Apply](https://careers.msasafety.com/jobs/10391) |
 | Enovation Controls | Manufacturing Engineering Test Intern | Tulsa, OK |  | Nov 6 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648371) |
 | Lumbermen's | Industrial Engineer Internship | Byron Center, MI | Paid | Nov 5 | [Apply](https://job-boards.greenhouse.io/lumbermens/jobs/5474347008) |
-| [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Supply Chain Internship - Summer 2027 | Centennial, CO | \$23.10 - \$37.95 | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Supply-Chain-Internship-Summer-2027-CO-80112/1427397500/) |
-| [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Industrial Engineering Internship - Summer 2027 | Cape Canaveral, FL |  | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Cape-Canaveral-Industrial-Engineering-Internship-Summer-2027-FL-32925/1427396900/) |
-| [United Launch Alliance](https://internscout.org/internships/at/united-launch-alliance/) | Logistics & Transportation Internship - Summer 2027 | Decatur, AL |  | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Decatur-Logistics-&-Transportation-Internship-Summer-2027-AL-35601/1427397300/) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern- Industrial Engineering | Pascagoula, Mississippi |  | Nov 4 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-INDUSTRIAL-ENGINEERING-Miss/1437347600/) |
 | Ingredion | Global Supply Chain Data Science Intern | Westchester, IL |  | Nov 3 | [Apply](https://go.vansh.nyc/1do) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Ground Systems Engineering Intern Summer 2027 | Middle River, MD | \$25.00 | Nov 2 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8042092003) |
@@ -100,8 +97,8 @@
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Wallops Island, VA | \$25.00 | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7996623003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Systems Engineering Intern Summer 2027 | Pasadena, CA |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990138003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Supply Chain Intern Summer 2027 | Middle River, MD |  | Sep 17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990063003) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Middle River, MD | \$25.00 | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7988835003) |
-| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Long Beach, CA |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984564003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Middle River, MD |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7988835003) |
+| [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Manufacturing Engineering Intern Summer 2027 | Long Beach, CA | \$28.00 | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984564003) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Systems Engineering Internship | Westminster, CO |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/a3b0f097-9d62-4a67-9800-de5dfe416da2/apply) |
 | [CesiumAstro](https://internscout.org/internships/at/cesiumastro/) | Summer 2027 - Supply Chain Internship | Westminster, CO |  | Sep 16 | [Apply](https://jobs.lever.co/CesiumAstro/6c354949-9e6b-4716-9381-f8aa071e3465/apply) |
 | Teledyne | Systems Engineering Intern - Summer 2027 | Huntsville, AL |  | Sep 16 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-MBSE-Intern--Summer-2027-_REQ36670-1) |
@@ -142,8 +139,8 @@
 | PDT Partners | Summer 2027 Systems Engineering Intern | New York, NY | \$225,000 | Jul 24 | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) |
 | [Kairos Power](https://internscout.org/internships/at/kairos-power/) | Mechanical and Manufacturing Engineering Internship - Summer 2027 | Alameda, CA +2 | Paid | Jul 23 | [Apply](https://job-boards.greenhouse.io/kairospower/jobs/6123676004) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States +7 | Paid | Jun 11 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
-| [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Supply Chain) | St Petersburg, FL |  | Nov 21, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37507/2027-summer-intern-%28supply-chain%29/job) |
-| [Shure](https://internscout.org/internships/at/shure/) | Global Logistics Intern | Niles, IL | \$23-\$43 per hour | Nov 21, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4987/global-logistics-intern/job) |
+| [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Supply Chain) | St Petersburg, FL |  | Nov 22, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37507/2027-summer-intern-%28supply-chain%29/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Global Logistics Intern | Niles, IL | \$23-\$43 per hour | Nov 22, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4987/global-logistics-intern/job) |
 | [Capital Power](https://internscout.org/internships/at/capital-power/) | Supply Chain Summer Student | Edmonton, AB | \$36.18 | Nov 21 | [Apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Supply-Chain-Summer-Student_JR807179) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Logistics Engineering Intern - Summer 2027 | Middletown, Pennsylvania | \$23 to \$27.50 per hour | Nov 19 | [Apply](https://se.jibeapply.com/jobs/137750) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Summer 2027 Industrial Engineering Co-Op | Red Oak, Texas | \$23.00-\$29.50 per hour | Nov 13 | [Apply](https://se.jibeapply.com/jobs/140830) |

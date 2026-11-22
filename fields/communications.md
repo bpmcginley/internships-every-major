@@ -1,6 +1,6 @@
 # Communications: Summer 2027 Internships
 
-24 open Summer 2027 communications roles, newest first (all 24). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 86 communications internships on InternScout](https://internscout.org/internships/communications/)
+23 open Summer 2027 communications roles, newest first (all 23). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 85 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -9,7 +9,6 @@
 | [iCapital Network](https://internscout.org/internships/at/icapital-network/) | Brand and Communications - Summer 2027 Intern | New York, New York, United States | \$43.50 per hour | Nov 19 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8949799002) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Marketing Communications Intern | Kirkland, WA | Paid | Nov 18 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Marketing-Communications-Intern-WA-98033/1449526133/) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern - Communications | Pascagoula, Mississippi |  | Nov 12 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMMUNICATIONS-Miss/1430056000/) |
-| [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | GDIT Summer Internship Program – Summer 2027 Growth Team Technical Writer Internship | Herndon, VA |  | Nov 11 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Herndon/GDIT-Summer-Internship-Program---Summer-2027-Growth-Team-Technical-Writer-Internship_RQ231856) |
 | [Corning](https://internscout.org/internships/at/corning/) | R&D Intern, Optical Communications Development - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Nov 6 | [Apply](https://corningjobs.corning.com/job/Corning-R&D-Intern%2C-Optical-Communications-Development-Summer-2027-NY-14831/1448753800/) |
 | [Invesco](https://internscout.org/internships/at/invesco/) | Early Career Intern - Communications | Atlanta, Georgia | \$35/hr | Nov 3 | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Communications_R-15968) |
 | OTTO Engineering | Embedded Software Intern, Communications | Carpentersville, IL |  | Oct 30 | [Apply](https://go.vansh.nyc/122) |

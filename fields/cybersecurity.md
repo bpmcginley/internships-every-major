@@ -1,9 +1,10 @@
 # Cybersecurity: Summer 2027 Internships
 
-198 open Summer 2027 cybersecurity roles, newest first (all 198). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 305 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+198 open Summer 2027 cybersecurity roles, newest first (all 198). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 304 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Fabri | DevOps, IT & Cybersecurity Intern | Billerica, MA |  | Nov 21 | [Apply](https://go.vansh.nyc/1Gk) |
 | [Rockwell Automation](https://internscout.org/internships/at/rockwell-automation/) | ISM, Cyber Security and AI Intern | Mayfield Heights, OH |  | Nov 21 | [Apply](https://go.vansh.nyc/1G7) |
 | [Calamos Investments](https://internscout.org/internships/at/calamos-investments/) | Information Security Intern | Naperville, IL |  | Nov 21 | [Apply](https://go.vansh.nyc/1FV) |
 | [Southern Farm Bureau Life Insurance](https://internscout.org/internships/at/southern-farm-bureau-life-insurance/) | Cyber Security Intern | Jackson, MS |  | Nov 21 | [Apply](https://go.vansh.nyc/1G1) |
@@ -72,7 +73,7 @@
 | United Parcel Service (UPS) | Information Security Intern | United States |  | Nov 4 | [Apply](https://go.vansh.nyc/1g5) |
 | [LLNL](https://internscout.org/internships/at/llnl/) | Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure | Livermore, CA |  | Nov 4 | [Apply](https://go.vansh.nyc/1fR) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Cybersecurity Intern | Pittsburgh, PA |  | Nov 4 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119551) |
-| [EMC Insurance](https://internscout.org/internships/at/emc-insurance/) | Cybersecurity Intern | United States |  | Nov 3 | [Apply](https://go.vansh.nyc/1ei) |
+| EMC Insurance | Cybersecurity Intern | United States |  | Nov 3 | [Apply](https://go.vansh.nyc/1ei) |
 | [Two Six Technologies](https://internscout.org/internships/at/two-six-technologies/) | Security Operations Intern | Arlington, VA |  | Nov 3 | [Apply](https://go.vansh.nyc/1dI) |
 | [KnowBe4](https://internscout.org/internships/at/knowbe4/) | Security Awareness Content Specialist Summer Internship (Hybrid) | Clearwater, Florida | Paid | Nov 3 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8928056002) |
 | FHLBank Chicago | Cybersecurity Intern | Chicago, IL |  | Nov 3 | [Apply](https://go.vansh.nyc/1cN) |
@@ -170,7 +171,7 @@
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Security Analyst Intern Summer 2027 | Middle River, MD |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986963003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Security Analyst Intern Summer 2027 | Albuquerque, NM |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986874003) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Security Analyst Intern Summer 2027 | Long Beach, CA |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986956003) |
-| [Inmar Intelligence](https://internscout.org/internships/at/inmar-intelligence/) | Information Security Intern | Winston Salem, NC |  | Sep 15 | [Apply](https://go.vansh.nyc/JO) |
+| Inmar Intelligence | Information Security Intern | Winston Salem, NC |  | Sep 15 | [Apply](https://go.vansh.nyc/JO) |
 | [SimVentions](https://internscout.org/internships/at/simventions/) | 2027 Cybersecurity Intern | Fredericksburg, VA | Paid | Sep 15 | [Apply](https://careers-simventions.icims.com/jobs/1630/2027-cybersecurity-intern/job) |
 | [SimVentions](https://internscout.org/internships/at/simventions/) | 2027 Cybersecurity Intern | Fredericksburg, Virginia | Paid | Sep 15 | [Apply](https://simventions.jibeapply.com/jobs/1630) |
 | [Intuit](https://internscout.org/internships/at/intuit/) | Software Engineer Intern - Cybersecurity | Mountain View, CA |  | Sep 14 | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616) |
@@ -199,9 +200,8 @@
 | [Microsoft](https://internscout.org/internships/at/microsoft/) | Software Engineer Intern, Security & Identity | Cambridge, MA +1 |  | Aug 4 | [Apply](https://go.vansh.nyc/5J) |
 | [Appian](https://internscout.org/internships/at/appian/) | Information Security Engineer Intern | McLean, Virginia +1 | \$50.00 per hour | Jul 27 | [Apply](https://job-boards.greenhouse.io/appian/jobs/8088496) |
 | [Jane Street](https://internscout.org/internships/at/jane-street/) | Cybersecurity Analyst Intern | New York, NY |  | Jul 24 | [Apply](https://go.vansh.nyc/41) |
-| [Shure](https://internscout.org/internships/at/shure/) | Information Security Governance, Risk & Compliance Intern | Niles, IL | \$23-\$43 per hour | Nov 21, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Information Security Governance, Risk & Compliance Intern | Niles, IL | \$23-\$43 per hour | Nov 22, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job) |
 | [Palantir Technologies](https://internscout.org/internships/at/palantir-technologies/) | Information Security Engineer Intern | New York, NY |  | Aug 3, 2022 | [Apply](https://go.vansh.nyc/OK) |
-| [Inmar Intelligence](https://internscout.org/internships/at/inmar-intelligence/) | Information Security Internships, Summer 2027 | Headquarters, Winston Salem, NC |  | Nov 20 | [Apply](https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Information-Security-Internships--Summer-2027_JY2627635) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

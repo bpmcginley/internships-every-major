@@ -1,6 +1,6 @@
 # Accounting: Summer 2027 Internships
 
-74 open Summer 2027 accounting roles, newest first (all 74). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 167 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+72 open Summer 2027 accounting roles, newest first (all 72). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 161 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern- Human Resources (Payroll/Benefits) | HOUSTON, Texas |  | Sep 24 | [Apply](https://careers.kindermorgan.com/jobs/6310) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Tax Information Reporting Intern | Hybrid - New York, NY | Paid | Sep 21 | [Apply](https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Internal Audit Analytics Intern | Hybrid - New York, NY | Paid | Sep 21 | [Apply](https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238) |
-| [Waters Corporation](https://internscout.org/internships/at/waters-corporation/) | Accounting Intern | Milford, MA +1 | \$22-25 per hour | Sep 21 | [Apply](https://uscareers-waters.icims.com/jobs/27743/accounting-intern/job) |
+| [Waters Corporation](https://internscout.org/internships/at/waters-corporation/) | Accounting Intern | Milford, MA +1 | \$22-25 per hour | Sep 21 | [Apply](https://uscareers-waters.icims.com/jobs/27743/2026-27743/job) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Intern – Financial Accounting Services (FAS) | Pittsburgh, PA | \$20- \$22 per hour | Sep 21 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119524) |
 | [AutoZone](https://internscout.org/internships/at/autozone/) | AutoZone 2027 Summer Internship – Internal Audit | Memphis, TN |  | Sep 21 | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155456) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: Finance/Accounting/Tax Intern | Northbrook, IL +1 | \$25.00 | Sep 18 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10627) |
@@ -59,7 +59,6 @@
 | [Ernst & Young](https://internscout.org/internships/at/ernst-young/) | Tax Technology and Transformation Products Intern - Tax | Dallas, TX +1 |  | Sep 4 | [Apply](https://eyglobal.yello.co/jobs/j21FS2VcGwQq6MZcPdNRoQ?job_board_id=c1riT--B2O-KySgYWsZO1Q) |
 | [Ernst & Young](https://internscout.org/internships/at/ernst-young/) | Product Manager Intern - Tax - Other Tax | NYC |  | Sep 4 | [Apply](https://eyglobal.yello.co/jobs/ScWvvhAQZFvHMXityc1Mgw?job_board_id=c1riT--B2O-KySgYWsZO1Q) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Audit (Lake Mary, FL) | Lake Mary, FL |  | Sep 4 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81833) |
-| Ragle Inc | Accounting Intern- Summer 2027 | North Richland Hills, TX | \$22.00/hour | Sep 4 | [Apply](https://ragleinc.applytojob.com/apply/5T7ZXY0jov/Accounting-Intern-Summer-2027) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027-BOLT Intern-Accounting (Corporate Controller Group) | HOUSTON, Texas |  | Sep 2 | [Apply](https://careers.kindermorgan.com/jobs/6134) |
 | [CSX](https://internscout.org/internships/at/csx/) | Internal Audit Internship – Summer 2027 (IT Audit, Internal Controls/SOX) | Jacksonville, FL | Paid | Aug 28 | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54815) |
 | [Andersen](https://internscout.org/internships/at/andersen/) | Intern – Tax Services – Summer 2027 – (Hybrid) | Costa Mesa, California | \$36.00 to \$42.00 per hour | Aug 24 | [Apply](https://careers.andersen.com/jobs/7020) |
@@ -67,7 +66,7 @@
 | [Andersen](https://internscout.org/internships/at/andersen/) | Intern – Tax Services – Summer 2027 – (Hybrid) | Los Angeles, California | \$36.00 to \$45.00 per hour | Aug 24 | [Apply](https://careers.andersen.com/jobs/7255) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Audit (New York, NY) | New York, NY |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81248) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Audit (Pittsburgh, PA) | Pittsburgh, PA |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81262) |
-| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Internship - Technology Assurance | Portland, ME | \$30 per hour | Nov 21, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4021/summer-2027-internship---technology-assurance/job) |
+| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Internship - Technology Assurance | Portland, ME | \$30 per hour | Nov 22, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4021/summer-2027-internship---technology-assurance/job) |
 | [Cerity Partners](https://internscout.org/internships/at/cerity-partners/) | Summer 2027 Tax Intern | Cincinnati, OH |  | Nov 21 | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Cincinnati-OH/Summer-2027-Tax-Intern_R835-1) |
 | [Cerity Partners](https://internscout.org/internships/at/cerity-partners/) | Summer 2027 Tax Intern | Louisville, KY |  | Nov 21 | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/Summer-2027-Tax-Intern_R836-1) |
 | [Cerity Partners](https://internscout.org/internships/at/cerity-partners/) | Summer 2027 Tax Intern | Raleigh, NC |  | Nov 21 | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Raleigh-NC/Summer-2027-Tax-Intern_R976-1) |
@@ -75,7 +74,6 @@
 | [The Andersons](https://internscout.org/internships/at/the-andersons/) | Tax Intern (Summer 2027) | Maumee, OH |  | Nov 19 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Tax-Intern--Summer-2027-_R12483) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Division Accounting | Denton, TX |  | Nov 13 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Division-Accounting-TX-76205-7864/1457311133/) |
 | [AAR](https://internscout.org/internships/at/aar/) | Accounting Intern | Chicago, Illinois | \$22/hr | Nov 12 | [Apply](https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=18991) |
-| Starwood Capital Group | 2027 Management Company Accounting Summer Intern | Greenwich, Connecticut |  | Nov 6 | [Apply](https://jobs.jobvite.com/starwoodcapitalgroup/job/o17TAfwl/apply) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Accounting Intern | Kirkland, WA |  | Oct 20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Accounting-Intern-WA-98033/1449175533/) |
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Accounting | Phoenix, AZ | Paid | Oct 13 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Accounting_R13756-1) |
 

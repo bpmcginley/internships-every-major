@@ -1,6 +1,6 @@
 # Product Management: Summer 2027 Internships
 
-170 open Summer 2027 product management roles, newest first (all 170). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 264 product management internships on InternScout](https://internscout.org/internships/product-management/)
+170 open Summer 2027 product management roles, newest first (all 170). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 265 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -50,8 +50,8 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | POI Content Product Manager Intern | San Jose, CA |  | Nov 6 | [Apply](https://lifeattiktok.com/search/7696000179569854725) |
 | [DwyerOmega](https://internscout.org/internships/at/dwyeromega/) | Product Management Intern - Pressure & Force | Michigan City, IN +1 |  | Nov 6 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4645741) |
 | [Honeywell](https://internscout.org/internships/at/honeywell/) | Product Management Intern (MBA) | Atlanta, GA |  | Nov 6 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159658) |
+| [Salesforce](https://internscout.org/internships/at/salesforce/) | Product Management Intern - Product Management | SF +1 |  | Nov 6 | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659) |
 | [Invesco](https://internscout.org/internships/at/invesco/) | Digital Product Management Intern | Atlanta, GA |  | Nov 5 | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1) |
-| [Invesco](https://internscout.org/internships/at/invesco/) | Early Career Intern - Digital Product Management | Atlanta, Georgia +1 |  | Nov 5 | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876) |
 | [ParetoHealth](https://internscout.org/internships/at/paretohealth/) | Product Manager Summer Intern | Philadelphia, Pennsylvania, United States +1 |  | Nov 2 | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006) |
 | [Applied Materials](https://internscout.org/internships/at/applied-materials/) | Data Intelligence/Technical Program Manager Intern | Santa Clara, CA |  | Nov 2 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Intelligence-Technical-Program-Management-Intern--Master-s--Santa-Clara--CA-_R2627705) |
 | Parallel Systems | Product Management Intern | Los Angeles, CA |  | Oct 31 | [Apply](https://go.vansh.nyc/13i) |
@@ -168,8 +168,8 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Recommendation Product Manager Intern - Content Ecosystem | San Jose, CA |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7667874197682899205) |
 | [Appian](https://internscout.org/internships/at/appian/) | Product Manager Intern | McLean, Virginia +1 | \$50.00 per hour | Jul 23 | [Apply](https://job-boards.greenhouse.io/appian/jobs/8041243) |
 | [AMCA](https://internscout.org/internships/at/amca/) | Program Management Internship, Business Operations (Summer 2027) | El Segundo, CA | Paid | May 20 | [Apply](https://job-boards.greenhouse.io/amca/jobs/4253815009) |
-| [Shure](https://internscout.org/internships/at/shure/) | Global Product Management Intern (Conferencing) | Niles, IL | \$23-\$43 per hour | Nov 21, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4990/global-product-management-intern-%28conferencing%29/job) |
-| [Shure](https://internscout.org/internships/at/shure/) | Global Product Management Data Intern | Niles, IL | \$23-\$43 per hour | Nov 21, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5024/global-product-management-data-intern/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Global Product Management Intern (Conferencing) | Niles, IL | \$23-\$43 per hour | Nov 22, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4990/global-product-management-intern-%28conferencing%29/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Global Product Management Data Intern | Niles, IL | \$23-\$43 per hour | Nov 22, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5024/global-product-management-data-intern/job) |
 | [Databricks](https://internscout.org/internships/at/databricks/) | Product Management Intern (Summer 2027) | Bellevue, Washington +5 | \$51.50 | Aug 17, 2023 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Program Management Intern | Kirkland, WA +1 |  | Oct 20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Program-Management-Intern-WA-98033/1449176233/) |
 | [Tyler Technologies](https://internscout.org/internships/at/tyler-technologies/) | Product Analyst Intern, Summer 2027 | Plano, Texas |  | Sep 21 | [Apply](https://jobs.jobvite.com/tylertech/job/oSAPAfwB/apply) |

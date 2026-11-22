@@ -1,9 +1,10 @@
 # Hardware Engineering: Summer 2027 Internships
 
-277 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 277). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 694 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+280 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 280). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 697 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Neros Technologies | Firmware/Embedded Software Engineer Intern - Summer 2027 | Torrance, California, United States +1 | \$55.00/hr | Nov 21 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) |
 | TASI Measurement | Embedded Engineer Intern | Kent, WA |  | Nov 20 | [Apply](https://go.vansh.nyc/1Fr) |
 | Renesas Electronics | Firmware Engineer Intern | Austin, TX |  | Nov 20 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000162784555) |
 | Renesas Electronics | Firmware Engineering Intern | Austin, TX |  | Nov 20 | [Apply](https://go.vansh.nyc/1ET) |
@@ -134,6 +135,7 @@
 | [The Allen Institute for AI](https://internscout.org/internships/at/the-allen-institute-for-ai/) | Research Internship, Robotics | Seattle, WA | \$94,320 | Oct 19 | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293641) |
 | [Bosch](https://internscout.org/internships/at/bosch/) | Embedded AI Software Engineering Co-op | Fountain Inn, SC |  | Oct 19 | [Apply](https://go.vansh.nyc/1tK) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | Hardware Engineering Design Intern | Roseville, CA |  | Oct 19 | [Apply](https://go.vansh.nyc/c3) |
+| [NVIDIA](https://internscout.org/internships/at/nvidia/) | ASIC Verification Intern | Toronto, ON, Canada |  | Oct 19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982) |
 | Seagate Technology | Embedded Software Engineer Intern | Longmont, CO |  | Oct 18 | [Apply](https://go.vansh.nyc/Ss) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Hardware Engineering Intern, CPU, GPU, SoC, Digital Design, DV | San Diego, CA +4 |  | Oct 18 | [Apply](https://go.vansh.nyc/Ru) |
 | AGCO | Embedded Software Engineer Intern | Hesston, KS +1 |  | Oct 16 | [Apply](https://careers.agcocorp.com/job/Hesston-Embedded-Software-Engineering-Intern-Summer-2027-KS-67062/1440993300/?ats=successfactors) |
@@ -202,8 +204,6 @@
 | [Marvell](https://internscout.org/internships/at/marvell/) | Data Center Silicon Hardware Engineering Intern Co-op - BS | Toronto, ON, Canada +1 |  | Sep 24 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Firmware Development Intern - PAL | Markham, ON, Canada +1 |  | Sep 23 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721229661) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | FPGA Intern (Summer 2027) | San Francisco +2 | \$29.00 per hour | Sep 23 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704805006) |
-| [Analog Devices](https://internscout.org/internships/at/analog-devices/) | Embedded Software Engineer Intern | Toronto, Canada +1 |  | Sep 23 | [Apply](https://go.vansh.nyc/Jm) |
-| Two Sigma | Hardware Engineering Intern | NYC +1 |  | Sep 22 | [Apply](https://twosigma.avature.net/careers/JobDetail/14289) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

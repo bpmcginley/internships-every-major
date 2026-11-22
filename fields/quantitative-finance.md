@@ -1,6 +1,6 @@
 # Quantitative Finance: Summer 2027 Internships
 
-131 open Summer 2027 quantitative finance roles, newest first (all 131). **Updated November 21, 2026.** [Back to every major](../README.md) · [See all 174 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
+131 open Summer 2027 quantitative finance roles, newest first (all 131). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 174 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
