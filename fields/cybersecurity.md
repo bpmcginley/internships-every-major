@@ -1,6 +1,6 @@
 # Cybersecurity: Summer 2027 Internships
 
-198 open Summer 2027 cybersecurity roles, newest first (all 198). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 304 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+198 open Summer 2027 cybersecurity roles, newest first (all 198). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 303 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|

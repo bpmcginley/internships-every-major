@@ -1,6 +1,6 @@
 # Sales: Summer 2027 Internships
 
-130 open Summer 2027 sales roles, newest first (all 130). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 269 sales internships on InternScout](https://internscout.org/internships/sales/)
+129 open Summer 2027 sales roles, newest first (all 129). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 266 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Inside Sales Business Development Representative | Chicago, Illinois |  | Nov 2 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Chicago-Illinois/XMLNAME-2027-Summer-Internship--US----Inside-Sales-Business-Development-Representative_JR103609) |
 | [KnowBe4](https://internscout.org/internships/at/knowbe4/) | Sales Development Representative Summer Internship (Hybrid) | Clearwater, FL | Paid | Nov 1 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919154002) |
 | [KnowBe4](https://internscout.org/internships/at/knowbe4/) | Sales Development Representative Summer Internship (Hybrid) | Arlington, Virginia | Paid | Nov 1 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919174002) |
-| [Symbotic](https://internscout.org/internships/at/symbotic/) | Intern- Customer Success | USA Wilmington, MA - HQ +1 |  | Oct 30 | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Customer-Success_R8234) |
+| [Symbotic](https://internscout.org/internships/at/symbotic/) | Customer Success Intern | Wilmington, MA |  | Oct 30 | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Customer-Success_R8234) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Sales Instructional Design Internship | IRVINE, California | Paid | Oct 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/38125) |
 | [Uline](https://internscout.org/internships/at/uline/) | Sales Analyst Intern | Waukegan, IL +4 |  | Oct 29 | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Sales-Analyst-Internship---Summer-2027_R268774) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Gas Sales Support Intern | De Pere, Wisconsin +3 |  | Oct 28 | [Apply](https://jobs.constellationenergy.com/jobs/140893) |
@@ -60,7 +60,6 @@
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management and Sales Internship - Las Vegas District | Las Vegas, NV +1 |  | Oct 1 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2623101) |
 | [Garmin](https://internscout.org/internships/at/garmin/) | Project Manager Intern - Global Partnerships & Engineering Business Development | Olathe, Kansas |  | Oct 1 | [Apply](https://careers.garmin.com/jobs/20134) |
 | NationGraph | Sales Academy - Summer 2027 | Fort Lauderdale, Florida | Paid | Sep 30 | [Apply](https://jobs.ashbyhq.com/NationGraph/568be823-4213-44b4-a4b2-a2b2ef7618f2/application) |
-| [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Sales & Business Development Internship - Summer 2027 | San Diego, CA |  | Sep 30 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721346084) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Sales Instructional Design Internship | Caledonia, Michigan | Paid | Sep 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36655) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | Management and Sales Summer Internship 2027 (Boise) | Boise, ID +7 |  | Sep 29 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2619309) |
 | [Muon Space](https://internscout.org/internships/at/muon-space/) | International Business Development Intern (Summer 2027) | Woodbridge, VA | \$40/hour | Sep 28 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5247737007) |

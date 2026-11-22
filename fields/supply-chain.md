@@ -1,6 +1,6 @@
 # Supply Chain: Summer 2027 Internships
 
-88 open Summer 2027 supply chain roles, newest first (all 88). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 191 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
+89 open Summer 2027 supply chain roles, newest first (all 89). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 193 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Emerson Electric](https://internscout.org/internships/at/emerson-electric/) | Material Planning and Inventory Intern Summer 2027 | Knoxville, TN +1 |  | Oct 15 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010043) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM / Agent | Seattle, WA |  | Oct 14 | [Apply](https://lifeattiktok.com/search/7694365861943953717) |
 | [Nissan Global](https://internscout.org/internships/at/nissan-global/) | Purchasing Aftersales Intern | Franklin, TN |  | Oct 12 | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Purchasing-Aftersales-Intern---Summer-2027---Franklin--TN_R00214278) |
+| [Vertiv](https://internscout.org/internships/at/vertiv/) | Procurement Intern - Infrastructure Solutions (Summer 2027) | Greenville, SC +1 |  | Oct 9 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279203) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Supply Chain, Purchasing, Procurement and Logistics - Summer 2027 Internships | Normal, Illinois | \$24-\$51.00 per hour | Oct 9 | [Apply](https://careers.rivian.com/jobs/34297) |
 | [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | Supply Chain Finance intern - Summer 2027 | Horse Cave, Kentucky |  | Oct 6 | [Apply](https://careers.marzetticompany.com/jobs/8163) |
 | [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | Procurement COE Intern - Summer 2027 | Columbus, Ohio |  | Oct 6 | [Apply](https://careers.marzetticompany.com/jobs/8155) |

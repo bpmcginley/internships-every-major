@@ -1,6 +1,6 @@
 # Mechanical Engineering: Summer 2027 Internships
 
-194 open Summer 2027 mechanical engineering roles, newest first (all 194). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 462 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
+194 open Summer 2027 mechanical engineering roles, newest first (all 194). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 461 mechanical engineering internships on InternScout](https://internscout.org/internships/mechanical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Summer 2027 Manufacturing Process Intern | Fairfield, Ohio | \$23.00-\$35.50 per hour | Nov 3 | [Apply](https://se.jibeapply.com/jobs/140955) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Summer 2027 Mechanical Engineering Intern | Franklin, Tennessee | \$23.00-\$27.50 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/137746) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Mechanical Design Engineer Intern | Kirkland, WA |  | Oct 26 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Mechanical-Design-Engineer-Intern-WA-98033/1451437133/) |
-| [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Mechanical Engineer (Summer 2027) | Raleigh, NC |  | Oct 24 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Raleigh-NC/Intern---Mechanical-Engineer--Summer-2027-_R040417) |
+| [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Mechanical Engineer (Summer 2027) | Raleigh, NC | \$23 - \$27/hr | Oct 24 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Raleigh-NC/Intern---Mechanical-Engineer--Summer-2027-_R040417) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Mechanical Engineering Intern \| Melbourne, FL | Melbourne, FL | Paid | Oct 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Melbourne-FL/Mechanical-Engineering-Intern---Melbourne--FL_R-16842) |
 | [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Digital Manufacturing Operations Engineer (Summer 2027) | Neenah, WI |  | Oct 24 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Neenah-WI/Intern---Digital-Manufacuring-Opetiations-Engineer--Summer-2027-_R041222) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Mechanical Engineering Intern \| Anaheim, CA | Anaheim, CA | \$22.00 – \$24.00 per hour | Oct 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Anaheim-CA/Mechanical-Engineering-Intern---Anaheim--CA_R-16751) |

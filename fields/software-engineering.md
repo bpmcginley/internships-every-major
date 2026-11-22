@@ -1,6 +1,6 @@
 # Software Engineering: Summer 2027 Internships
 
-1,549 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,549). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 2,779 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,550 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,550). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 2,778 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Ralliant](https://internscout.org/internships/at/ralliant/) | Software Design Engineer Intern (Summer 2027) | Beaverton, OR |  | Nov 20 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11154) |
 | [Piper Sandler](https://internscout.org/internships/at/piper-sandler/) | Equities Trading Technology Intern | Greenwich, CT |  | Nov 20 | [Apply](https://go.vansh.nyc/1G3) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Software Engineering Intern - AI Platform, Autonomy (Summer 2027) | Palo Alto, California +1 | \$33.00-51.00/HR | Nov 20 | [Apply](https://careers.rivian.com/jobs/37339) |
-| [Symbotic](https://internscout.org/internships/at/symbotic/) | Intern- Software Engineer, Front-End | USA Austin, TX +1 | \$32.00 - \$44.00 | Nov 20 | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1) |
+| [Symbotic](https://internscout.org/internships/at/symbotic/) | Software Engineer Intern - Front-End | Austin, TX |  | Nov 20 | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1) |
 | [Ralliant](https://internscout.org/internships/at/ralliant/) | Software Engineering (AI Building) Intern (Summer 2027) | Beaverton, OR |  | Nov 20 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11324) |
 | [LLNL](https://internscout.org/internships/at/llnl/) | Computing Undergraduate Student Intern, DevOps | Livermore, CA |  | Nov 20 | [Apply](https://go.vansh.nyc/1DM) |
 | [Lawrence Livermore National Laboratory (LLNL)](https://internscout.org/internships/at/lawrence-livermore-national-laboratory-llnl/) | Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure | Livermore, CA |  | Nov 19 | [Apply](https://go.vansh.nyc/1DP) |
@@ -146,7 +146,6 @@
 | KBR Wyle Services | Computer Science Intern, Defense & Intel (D&I) | Chantilly, VA +10 |  | Nov 14 | [Apply](https://go.vansh.nyc/1zy) |
 | NetApp | Software Engineer Intern, Cloud | San Jose, CA |  | Nov 14 | [Apply](https://go.vansh.nyc/1zr) |
 | NetApp | Software Engineer Intern, Systems | San Jose, CA |  | Nov 14 | [Apply](https://go.vansh.nyc/1zs) |
-| NextEra Energy | Software Engineering Intern - Technical | St Paul, MN |  | Nov 13 | [Apply](https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors) |
 | Activision Blizzard | Game Systems Engineering Intern | United States |  | Nov 13 | [Apply](https://go.vansh.nyc/1zl) |
 | Martin Marietta | Software Data Integration Engineer Intern | Raleigh, NC |  | Nov 13 | [Apply](https://go.vansh.nyc/1zf) |
 | Owl Cyber Defense | Software Engineering Intern | Columbia, MD |  | Nov 13 | [Apply](https://go.vansh.nyc/1zK) |
@@ -204,6 +203,7 @@
 | Selective Insurance Company of America | IT Information Management Intern | Short Hills, NJ |  | Nov 11 | [Apply](https://go.vansh.nyc/1xn) |
 | Selective Insurance Company of America | IT Commercial Lines Intern | Hartford, CT +1 |  | Nov 11 | [Apply](https://go.vansh.nyc/1xm) |
 | [Garmin International](https://internscout.org/internships/at/garmin/) | IT DevOps Administrator Intern | Olathe, KS |  | Nov 11 | [Apply](https://go.vansh.nyc/1xf) |
+| Diversified Gas & Oil Corporation | Information Technology Intern | Birmingham, AL |  | Nov 11 | [Apply](https://go.vansh.nyc/1xe) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

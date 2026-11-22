@@ -1,6 +1,6 @@
 # Quantitative Finance: Summer 2027 Internships
 
-133 open Summer 2027 quantitative finance roles, newest first (all 133). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 176 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
+132 open Summer 2027 quantitative finance roles, newest first (all 132). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 175 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -15,7 +15,6 @@
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Trading System Development Intern | New York, NY |  | Nov 6 | [Apply](https://go.vansh.nyc/1lC) |
 | Bank of Montreal | Quantitative Analyst Co-op Intern | Toronto, ON, Canada |  | Nov 6 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097-1) |
 | [Galaxy](https://internscout.org/internships/at/galaxy/) | 2027 Sales and Trading Internships - NYC | New York | \$55/hr | Nov 3 | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6242350004) |
-| Man Group | Systematic Quant Intern | Massachusetts +1 |  | Nov 3 | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012811101) |
 | [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Machine Learning Center of Excellence (Quant AI) - Summer Associate | Palo Alto, CA |  | Oct 26 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936) |
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Trading System Development Intern | NYC |  | Oct 23 | [Apply](https://careers-ice.icims.com/jobs/14102/job?mobile=true&needsRedirect=false) |
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Quantitative Financial Analytics Intern | Atlanta, GA |  | Oct 23 | [Apply](https://careers-ice.icims.com/jobs/14055/job?mobile=true&needsRedirect=false) |
