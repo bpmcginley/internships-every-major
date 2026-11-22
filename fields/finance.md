@@ -1,6 +1,6 @@
 # Finance: Summer 2027 Internships
 
-201 open Summer 2027 finance roles, newest first (the 200 newest of 201). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 341 finance internships on InternScout](https://internscout.org/internships/finance/)
+201 open Summer 2027 finance roles, newest first (the 200 newest of 201). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 340 finance internships on InternScout](https://internscout.org/internships/finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Northmarq](https://internscout.org/internships/at/northmarq/) | Portfolio and Asset Management Intern, Summer 2027 | Minneapolis, Minnesota, United States | \$22.00 per hour | Sep 3 | [Apply](https://job-boards.greenhouse.io/northmarq/jobs/5414561008) |
 | [Honeywell Aerospace](https://internscout.org/internships/at/honeywell-aerospace/) | Future Finance Leaders Program - Summer 2027 Intern (U.S. Person Required) | United States |  | Sep 2 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/121132) |
 | [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 - Commercial & Investment Bank - Global Investment Banking Summer Associate Program | New York, NY +4 |  | Sep 2 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784644) |
+| [Allied Solutions](https://internscout.org/internships/at/allied-solutions/) | Product Management Intern - Risk Management | St Paul, MN |  | Sep 2 | [Apply](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083) |
 | [Compeer Financial](https://internscout.org/internships/at/compeer-financial/) | Intern Lending Operations | MN-Mankato | Paid | Sep 1 | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5409893008) |
 | United Parcel Service | Finance Analytics Intern - Global Finance | Atlanta, GA |  | Sep 1 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Global-Finance-Summer-2027-Analytics-Internship_R26030589) |
 | PIMCO | Quantitative Portfolio Management Intern | Newport Beach, CA |  | Sep 1 | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830) |
@@ -173,8 +174,8 @@
 | [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Summer Analyst Intern - Americas - Investment Banking Quantitative Strats | NYC |  | Aug 15 | [Apply](https://higher.gs.com/roles/171547?type=students) |
 | [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats | Salt Lake City, UT |  | Aug 15 | [Apply](https://higher.gs.com/roles/171549?type=students) |
 | [Goldman Sachs](https://internscout.org/internships/at/goldman-sachs/) | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL |  | Aug 15 | [Apply](https://higher.gs.com/roles/181628?type=students) |
-| [Waggoner Financial](https://internscout.org/internships/at/waggoner-financial/) | Equity Research Summer 2027 Internship | Lansing, Michigan | Paid | Aug 11 | [Apply](https://apply.workable.com/j/4B05CCA828/apply) |
-| [Waggoner Financial](https://internscout.org/internships/at/waggoner-financial/) | Wealth Management Summer 2027 Internship | Lansing, Michigan | Paid | Aug 11 | [Apply](https://apply.workable.com/j/E65FAD594E/apply) |
+| Waggoner Financial | Equity Research Summer 2027 Internship | Lansing, Michigan | Paid | Aug 11 | [Apply](https://apply.workable.com/j/4B05CCA828/apply) |
+| Waggoner Financial | Wealth Management Summer 2027 Internship | Lansing, Michigan | Paid | Aug 11 | [Apply](https://apply.workable.com/j/E65FAD594E/apply) |
 | [DV Group](https://internscout.org/internships/at/dv-group/) | Software Engineer Intern - Summer 2027 (DV Commodities) | New York +1 | \$50.00 per hour | Aug 10 | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) |
 | [DV Group](https://internscout.org/internships/at/dv-group/) | Quantitative Risk Intern - Summer 2027 | Chicago +1 | \$35.00-\$40.00/hr | Aug 4 | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) |
 | [StepStone Group](https://internscout.org/internships/at/stepstone-group/) | 2027 Venture Capital Summer Associate | Baltimore | \$100,000 | Aug 3 | [Apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8094329) |
@@ -202,7 +203,6 @@
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Hotel Franchise Finance | Phoenix, AZ | Paid | Sep 28 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Hotel-Franchise-Finance_R13954) |
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - San Francisco, CA - Technology & Innovation Banking | San Francisco, CA | \$23.50 | Sep 22 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/San-Francisco-CA/Summer-2027-Internship---San-Francisco--CA---Technology---Innovation-Banking_R13940) |
 | [Clorox](https://internscout.org/internships/at/clorox/) | MBA Finance Intern (Summer 2027) | Oakland, CA - USA | \$26 - \$40/hr | Sep 18 | [Apply](https://wd1.myworkdaysite.com/recruiting/clorox/Clorox/job/Oakland-CA---USA/MBA-Finance-Intern--Summer-2027-_JR23493) |
-| [Allied Solutions](https://internscout.org/internships/at/allied-solutions/) | Product Management Intern - Risk Management | St. Paul, MN +1 | \$16 to \$22 | Sep 18 | [Apply](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083) |
 | [Hyatt](https://internscout.org/internships/at/hyatt/) | Summer 2027 - Finance Corporate Internship Program | United States | \$17.00 to \$21.00 per hour | Sep 18 | [Apply](https://hyatt.taleo.net/careersection/10780/jobdetail.ftl?job=UNI002288) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

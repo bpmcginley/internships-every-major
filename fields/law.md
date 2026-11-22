@@ -1,6 +1,6 @@
 # Law and Legal: Summer 2027 Internships
 
-81 open Summer 2027 law and legal roles, newest first (all 81). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 148 law and legal internships on InternScout](https://internscout.org/internships/law/)
+80 open Summer 2027 law and legal roles, newest first (all 80). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 148 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -29,7 +29,6 @@
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Compliance | Phoenix, AZ | Paid | Nov 5 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Compliance_R13733-1) |
 | [Schonfeld](https://internscout.org/internships/at/schonfeld/) | 2027 Legal Engineer Intern | New York, New York, United States | \$85,000 | Nov 3 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171776) |
 | [KnowBe4](https://internscout.org/internships/at/knowbe4/) | Compliance Summer Internship (Remote) | Remote | \$17/hr | Nov 2 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8926721002) |
-| Liberty Mutual Canada | Summer Student, Legal & Compliance (Summer Term - May - August 2027) | Toronto, Ontario, Canada | \$24 per hour | Nov 2 | [Apply](https://apply.workable.com/j/8FEF0DA199/apply) |
 | [Vialto Partners](https://internscout.org/internships/at/vialto-partners/) | Part-Time Law Student – Canadian Business Immigration | Montreal | \$20–\$25 per hour | Nov 2 | [Apply](https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Montreal/Part-Time-Law-Student---Canadian-Business-Immigration_REQ908925) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Software Engineer Intern, Global Payment - Risk & Compliance | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/14k) |
 | [Alberta Investment Management Corporation](https://internscout.org/internships/at/alberta-investment-management-corporation/) | Student, Legal | Calgary | Paid | Oct 29 | [Apply](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Calgary/Student--Legal_JR100948) |

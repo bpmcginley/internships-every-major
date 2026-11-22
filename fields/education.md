@@ -1,6 +1,6 @@
 # Education: Summer 2027 Internships
 
-27 open Summer 2027 education roles, newest first (all 27). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 167 education internships on InternScout](https://internscout.org/internships/education/)
+25 open Summer 2027 education roles, newest first (all 25). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 165 education internships on InternScout](https://internscout.org/internships/education/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,7 +11,6 @@
 | Art of Problem Solving | Computer Science Curriculum Intern | San Diego, California, United States | \$30/hour | Nov 10 | [Apply](https://artofproblemsolving.com/careers/job/8199446003?gh_jid=8199446003) |
 | Art of Problem Solving | Math Curriculum Intern | San Diego, California, United States | \$30/hour | Nov 9 | [Apply](https://artofproblemsolving.com/careers/job/8199370003?gh_jid=8199370003) |
 | [Chubb](https://internscout.org/internships/at/chubb/) | Agency Education and Development Intern | Chicago, IL | \$18 to \$24 per hour | Nov 6 | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38424) |
-| [Carnegie Mellon University](https://internscout.org/internships/at/carnegie-mellon-university/) | Enabling Edge Intelligence (E2I) Intern - Summer 2027 | Pittsburgh, PA |  | Nov 4 | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Enabling-Edge-Intelligence--E2I--Intern---Summer-2027_2025308-1) |
 | [Draper](https://internscout.org/internships/at/draper/) | Acoustic and Vibration Technologies Intern (Summer 2027) | Cambridge, MA |  | Nov 2 | [Apply](https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Acoustic-and-Vibration-Technologies-Intern--Summer-2027-_JR003003-1) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Sales Instructional Design Internship | IRVINE, California | Paid | Oct 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/38125) |
 | [Strada Education Foundation](https://internscout.org/internships/at/strada-education-foundation/) | Strada Education Foundation: Information Technology Intern | Indianapolis, Indiana +1 | \$22.75/hour | Oct 28 | [Apply](https://jobs.lever.co/stradaeducation/d9d6301a-3fac-4389-b820-3115dfe20a13/apply) |
@@ -30,7 +29,6 @@
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Leadership Instructional Design Internship | IRVINE, California | Paid | Sep 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36762) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Sales Instructional Design Internship | Caledonia, Michigan | Paid | Sep 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36655) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship - Human Centered Design | Laurel, Maryland | \$22.60 Hour | Sep 4 | [Apply](https://careers.jhuapl.edu/jobs/59986) |
-| [Carnegie Mellon University](https://internscout.org/internships/at/carnegie-mellon-university/) | Malware Analysis Intern - Summer 2027 | Pittsburgh, PA |  | Nov 14 | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Malware-Analysis-Intern---Summer-2027_2025185-1) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

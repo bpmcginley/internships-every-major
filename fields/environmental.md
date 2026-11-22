@@ -1,6 +1,6 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-141 open Summer 2027 environmental science and engineering roles, newest first (all 141). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 293 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+141 open Summer 2027 environmental science and engineering roles, newest first (all 141). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 294 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Houston, Texas | \$20.00 | Oct 14 | [Apply](https://careers.trccompanies.com/jobs/27082) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Safety Intern | Braintree, Massachusetts | \$20.00 | Oct 14 | [Apply](https://careers.trccompanies.com/jobs/27081) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Madison, Wisconsin | \$20.00 | Oct 13 | [Apply](https://careers.trccompanies.com/jobs/27079) |
-| [Scout Clean Energy](https://internscout.org/internships/at/scout-clean-energy/) | Geospatial Intern - Summer 2027 | Boulder, Colorado +1 | \$25-30/hour | Oct 12 | [Apply](https://apply.workable.com/j/56C8F2E503/apply) |
+| [Scout Clean Energy](https://internscout.org/internships/at/scout-clean-energy/) | Geospatial Intern | Boulder, CO |  | Oct 12 | [Apply](https://apply.workable.com/scout-clean-energy/j/56C8F2E503/apply) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Concord, California | \$20.00 | Oct 9 | [Apply](https://careers.trccompanies.com/jobs/27051) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Austin, Texas | \$20.00 | Oct 9 | [Apply](https://careers.trccompanies.com/jobs/27054) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Cary, North Carolina | \$20.00 | Oct 9 | [Apply](https://careers.trccompanies.com/jobs/27052) |

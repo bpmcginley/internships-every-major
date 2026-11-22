@@ -1,6 +1,6 @@
 # Arts: Summer 2027 Internships
 
-5 open Summer 2027 arts roles, newest first (all 5). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 17 arts internships on InternScout](https://internscout.org/internships/arts/)
+5 open Summer 2027 arts roles, newest first (all 5). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 18 arts internships on InternScout](https://internscout.org/internships/arts/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
