@@ -1,6 +1,6 @@
 # Operations: Summer 2027 Internships
 
-216 open Summer 2027 operations roles, newest first (the 200 newest of 216). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 565 operations internships on InternScout](https://internscout.org/internships/operations/)
+214 open Summer 2027 operations roles, newest first (the 200 newest of 214). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 564 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -18,11 +18,9 @@
 | [Zoox](https://internscout.org/internships/at/zoox/) | Process Improvement Intern \[Summer 2027\] | Foster City, CA |  | Nov 18 | [Apply](https://jobs.lever.co/zoox/7ff6f68a-52bd-48ab-87d4-029bcc43fa9f/apply) |
 | [Mom's Meals](https://internscout.org/internships/at/mom-s-meals/) | Continuous Improvement Intern | Conyers, GA |  | Nov 18 | [Apply](https://jobs.lever.co/momsmeals/387195a3-2584-4a0a-8b7a-1af4d9f1800f/apply) |
 | [iCapital Network](https://internscout.org/internships/at/icapital-network/) | Transactional Operations - Summer 2027 Intern | New York, New York, United States |  | Nov 18 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938135002) |
-| [Ace Hardware](https://internscout.org/internships/at/ace-hardware/) | Indirect Procurement 2027 Summer Internship (Full Time/Paid/12 weeks) | IL - Oak Brook |  | Nov 18 | [Apply](https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/Indirect-Procurement-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-35065) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Operations Intern - Birmingham, AL | Birmingham, AL |  | Nov 18 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625383) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Operations Intern - Bowling Green, KY | Bowling Green, KY |  | Nov 18 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625396) |
 | [Mom's Meals](https://internscout.org/internships/at/mom-s-meals/) | Continuous Improvement Intern | North Jackson, OH |  | Nov 17 | [Apply](https://jobs.lever.co/momsmeals/c3e6cb8a-b2c2-45ba-bd34-96f77e0280a8/apply) |
-| [Ace Hardware](https://internscout.org/internships/at/ace-hardware/) | Retail Operations 2027 Summer Internship (Full Time/Paid/12 weeks) | IL - Oak Brook |  | Nov 17 | [Apply](https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/Retail-Operations-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-35139) |
 | [Thorlabs](https://internscout.org/internships/at/thorlabs/) | Summer 2027 Business Operations Internship | Newton, New Jersey | \$20.00 - \$25.00 per hour | Nov 17 | [Apply](https://apply.workable.com/j/A99615DCF8/apply) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Mission Operations Engineer Intern | Honolulu, Hawaii, United States +1 | Paid | Nov 16 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Deployment Operations Intern | Quincy, Massachusetts, United States | Paid | Nov 16 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5296825007?gh_jid=5296825007) |
@@ -111,7 +109,6 @@
 | [ADT](https://internscout.org/internships/at/adt/) | Product Management & Product Operations Intern | Boca Raton, FL |  | Oct 12 | [Apply](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Creative Product Operations Intern - Multiple Teams | San Jose, CA |  | Oct 9 | [Apply](https://lifeattiktok.com/search/7693727532178229509) |
 | [SageSure](https://internscout.org/internships/at/sagesure/) | Data Operations Engineer Intern | Jersey City, NJ +1 |  | Oct 9 | [Apply](https://go.vansh.nyc/1tc) |
-| [Vertiv](https://internscout.org/internships/at/vertiv/) | Procurement Intern - Infrastructure Solutions (Summer 2027) | Greenville, SC +1 |  | Oct 9 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279203) |
 | [Emerson Electric](https://internscout.org/internships/at/emerson-electric/) | Quality Intern (Summer 2027) | Knoxville, TN |  | Oct 9 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009955) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Supply Chain, Purchasing, Procurement and Logistics - Summer 2027 Internships | Normal, Illinois | \$24-\$51.00 per hour | Oct 9 | [Apply](https://careers.rivian.com/jobs/34297) |
 | Happyrobot | Product Operations Engineer Intern | San Francisco, CA |  | Oct 7 | [Apply](https://go.vansh.nyc/FZ) |
@@ -203,7 +200,10 @@
 | [AMCA](https://internscout.org/internships/at/amca/) | Engineering Internship, Business Operations (Summer 2027) | El Segundo, CA | Paid | May 20 | [Apply](https://job-boards.greenhouse.io/amca/jobs/4253828009) |
 | [AMCA](https://internscout.org/internships/at/amca/) | Program Management Internship, Business Operations (Summer 2027) | El Segundo, CA | Paid | May 20 | [Apply](https://job-boards.greenhouse.io/amca/jobs/4253815009) |
 | [Interstates](https://internscout.org/internships/at/interstates/) | Assistant Project Manager Intern (Summer 2027) - Tulsa, OK | Broken Arrow, OK |  | Dec 15, 2025 | [Apply](https://www.interstates.com/careers/jobs?gh_jid=4078699009&gh_jid=4078699009) |
-| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 22, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
+| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 23, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Business Operations and Leadership Internship | Eden Prairie, MN | Paid | Nov 23, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8701/business-operations-and-leadership-internship/job) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Human Resources Operations Internship - Summer 2027 | Reston, VA | Paid | Nov 23, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8694/human-resources-operations-internship---summer-2027/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | AI Specialist (Operations) Intern | Niles, IL | \$23-\$43 per hour | Nov 23, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5029/ai-specialist-%28operations%29-intern/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

@@ -1,6 +1,6 @@
 # Design: Summer 2027 Internships
 
-58 open Summer 2027 design roles, newest first (all 58). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 134 design internships on InternScout](https://internscout.org/internships/design/)
+59 open Summer 2027 design roles, newest first (all 59). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 137 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Figma](https://internscout.org/internships/at/figma/) | PhD Intern, Software Engineer - Interaction Design (2027) | SF +1 |  | Nov 4 | [Apply](https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004) |
 | [KnowBe4](https://internscout.org/internships/at/knowbe4/) | Multimedia Designer Summer Internship (Hybrid) | Clearwater, Florida | Paid | Nov 1 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919260002) |
 | [Systems Planning and Analysis (SPA)](https://internscout.org/internships/at/systems-planning-and-analysis-spa/) | UI/UX Software Intern - Summer 2027 | Alexandria, Virginia | \$23.00/Hr | Oct 28 | [Apply](https://spa.jibeapply.com/jobs/23699) |
+| [FHLBD Federal Home Loan Bank of Dallas](https://internscout.org/internships/at/fhlbd-federal-home-loan-bank-of-dallas/) | 2027 Summer Digital & Graphic Design Intern | Irving, TX |  | Oct 27 | [Apply](https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Digital---Graphic-Design-Intern_REQ-453) |
 | [HP IQ](https://internscout.org/internships/at/hp-iq/) | Product Design Engineering Intern (Summer 2027) | San Francisco, CA +1 | \$40.00–\$50.00 per hour | Oct 26 | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6141235004) |
 | [Skydio](https://internscout.org/internships/at/skydio/) | Product Design Engineer Intern | San Mateo, CA |  | Oct 25 | [Apply](https://go.vansh.nyc/BB) |
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Summer Internship Program 2027 - Enterprise UX Intern | Atlanta, Georgia |  | Oct 23 | [Apply](https://ice.jibeapply.com/jobs/14058) |
@@ -57,10 +58,10 @@
 | [Cvent](https://internscout.org/internships/at/cvent/) | Product Design Intern (Summer 2027) | Tysons Corner, Virginia | \$36.00 per hour | Aug 31 | [Apply](https://careers.cvent.com/jobs/10764) |
 | Virtu | 2027 Internship - Frontend Engineer (UI) | New York +1 | \$5,000 - \$5,800 week | Jul 29 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002) |
 | [Jump Trading Group](https://internscout.org/internships/at/jump-trading/) | Campus UI Software Engineer Intern | Chicago, IL |  | Jul 9 | [Apply](https://go.vansh.nyc/3m) |
-| [IDEMIA](https://internscout.org/internships/at/idemia/) | Graphic Design Internship - Summer 2027 | Reston, VA | Paid | Nov 22, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8668/graphic-design-internship---summer-2027/job) |
-| [Shure](https://internscout.org/internships/at/shure/) | User Experience Design (UX) Intern | Niles, IL | \$23-\$43 per hour | Nov 22, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5003/user-experience-design-%28ux%29-intern/job) |
-| [Shure](https://internscout.org/internships/at/shure/) | Industrial Design Intern | Niles, IL | \$23-\$43 per hour | Nov 22, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4991/industrial-design-intern/job) |
-| [Shure](https://internscout.org/internships/at/shure/) | Design Research Intern | Niles, IL | \$23-\$43 per hour | Nov 22, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4983/design-research-intern/job) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Graphic Design Internship - Summer 2027 | Reston, VA | Paid | Nov 23, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8668/graphic-design-internship---summer-2027/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | User Experience Design (UX) Intern | Niles, IL | \$23-\$43 per hour | Nov 23, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5003/user-experience-design-%28ux%29-intern/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Industrial Design Intern | Niles, IL | \$23-\$43 per hour | Nov 23, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4991/industrial-design-intern/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Design Research Intern | Niles, IL | \$23-\$43 per hour | Nov 23, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4983/design-research-intern/job) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Industrial Designer | Denton, TX |  | Nov 4 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Industrial-Designer-TX-76205-7864/1454438233/) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

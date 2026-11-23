@@ -1,9 +1,10 @@
 # Engineering: Summer 2027 Internships
 
-400 open Summer 2027 engineering roles, newest first (the 200 newest of 400). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 989 engineering internships on InternScout](https://internscout.org/internships/engineering/)
+400 open Summer 2027 engineering roles, newest first (the 200 newest of 400). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 988 engineering internships on InternScout](https://internscout.org/internships/engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 R&D Summer Internship- Pittsburgh | Pittsburgh, PA |  | Nov 22 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629849) |
 | Metamorphic | Research and Engineering Intern (Summer 2027) | Palo Alto +2 | \$6-8k/month | Nov 21 | [Apply](https://jobs.ashbyhq.com/metamorphic/cf518648-4e65-4f7d-aa05-f01066d8bd8a/application) |
 | Renesas Electronics | System Verification Engineer Intern | Austin, TX |  | Nov 20 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000162824903) |
 | Method | Engineering Resident Intern | Remote +5 |  | Nov 20 | [Apply](https://go.vansh.nyc/1Fq) |
@@ -30,6 +31,7 @@
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | Summer 2027 Intern: R&D Engineering Intern | Northbrook, IL | \$27.50 | Nov 19 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11503) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern – Engineering (Integrity-OSG) | HOUSTON, Texas |  | Nov 18 | [Apply](https://careers.kindermorgan.com/jobs/7190) |
 | Motorola Solutions | RFIC Design Engineer Intern | Plantation, FL +1 |  | Nov 17 | [Apply](https://go.vansh.nyc/1Cl) |
+| T.D. Williamson | Engineering Intern | Tulsa, OK |  | Nov 17 | [Apply](https://go.vansh.nyc/1Gy) |
 | [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Product & Test Engineering, Intern Summer 2027 | Boston, MA +1 | Paid | Nov 17 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5474690008?gh_jid=5474690008) |
 | Deeplocal | Engineering Intern - Summer 2027 | Pittsburgh +1 | Paid | Nov 17 | [Apply](https://job-boards.greenhouse.io/deeplocal/jobs/8395842) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Tapeout Engineering Business Products & Engineering Intern | Austin, TX |  | Nov 17 | [Apply](https://go.vansh.nyc/1Bc) |
@@ -202,8 +204,6 @@
 | [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | Engineering PMO Intern - Summer 2027 | Lewis Center, Ohio | \$22.00/hour | Oct 1 | [Apply](https://careers.marzetticompany.com/jobs/8126) |
 | [Hermeus](https://internscout.org/internships/at/hermeus/) | Loads & Dynamics Engineering Intern - Summer 2027 | Los Angeles, CA |  | Sep 30 | [Apply](https://jobs.lever.co/hermeus/29c10a11-aa02-4d64-83d0-00001cbd3ac0/apply) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Automation & Controls Engineering Intern (Summer 2027) | San Francisco | \$29.00 per hour | Sep 30 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4718206006) |
-| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Design Engineering Intern - Morris, IL | Morris, Illinois | Paid | Sep 30 | [Apply](https://jobs.constellationenergy.com/jobs/139587) |
-| [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | Summer 2027 Rapid Response Engineering Intern - Morris, IL | Morris, Illinois | Paid | Sep 30 | [Apply](https://jobs.constellationenergy.com/jobs/139591) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

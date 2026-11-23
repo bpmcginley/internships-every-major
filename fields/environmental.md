@@ -1,6 +1,6 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-141 open Summer 2027 environmental science and engineering roles, newest first (all 141). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 293 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+140 open Summer 2027 environmental science and engineering roles, newest first (all 140). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 291 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -35,8 +35,8 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Renewable Energy Intern - Houston Office | Houston, Texas +1 | Paid | Nov 4 | [Apply](https://jobs.constellationenergy.com/jobs/141851) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Water Resources Engineering Intern- Summer 2027 | New York, NY |  | Nov 4 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98676) |
 | [Berkshire Hathaway Energy](https://internscout.org/internships/at/berkshire-hathaway-energy/) | Intern - Renewable Generation Performance | Des Moines, IA |  | Nov 4 | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006008) |
+| [IMEG](https://internscout.org/internships/at/imeg/) | Sustainability & Energy Engineering Intern | St. Louis, MO +3 | \$22.00–\$24.00 per hour | Nov 4 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Sustainability---Energy-Engineering-Intern_R-16761) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Miami, Florida | \$36.96 | Nov 3 | [Apply](https://careers.cdmsmith.com/jobs/4916) |
-| [IMEG](https://internscout.org/internships/at/imeg/) | Sustainability & Energy Engineering Intern | St. Louis, MO +3 | \$22.00–\$24.00 per hour | Nov 3 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Sustainability---Energy-Engineering-Intern_R-16761) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Masters Environmental Engineering Intern (Summer 2027!) | Austin, Texas | \$38.72 | Nov 2 | [Apply](https://careers.cdmsmith.com/jobs/4141) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | West Allis, Wisconsin | \$20.00 | Oct 30 | [Apply](https://careers.trccompanies.com/jobs/27681) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Water Resources Intern/Co-op – Environmental Services (Summer 2027) | Richmond, VA |  | Oct 30 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008644) |
@@ -141,8 +141,7 @@
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Water Resources Intern | Detroit, MI |  | Aug 31 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309782) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Environmental, Health & Safety (EHS) | Los Angeles, CA | \$28–\$36 per hour | Aug 26 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5376633008) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Environmental Health & Safety (EHS) Internship – Summer 2027 | El Segundo, California, United States |  | Nov 13, 2025 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7527870003) |
-| [Shure](https://internscout.org/internships/at/shure/) | Data Driven Sustainability Intern | Niles, IL | \$23-\$43 per hour | Nov 22, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4979/data-driven-sustainability-intern/job) |
-| [The Andersons](https://internscout.org/internships/at/the-andersons/) | Renewables Engineering Intern (Summer 2027) | Logansport, IN |  | Nov 19 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Logansport-IN/Renewables-Engineering-Intern--Summer-2027-_R12498) |
+| [Shure](https://internscout.org/internships/at/shure/) | Data Driven Sustainability Intern | Niles, IL | \$23-\$43 per hour | Nov 23, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4979/data-driven-sustainability-intern/job) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Environmental, Health & Safety Intern | Fairfield, Ohio | \$23 to \$27.50 per hour | Nov 6 | [Apply](https://se.jibeapply.com/jobs/141019) |
 | [OATEY](https://internscout.org/internships/at/oatey/) | Occupational Safety Intern - Cleveland Manufacturing | Cleveland, OH (Manufacturing) | \$20.00 | Oct 23 | [Apply](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Manufacturing/Occupational-Safety-Intern---Cleveland-Manufacturing_R7198) |
 

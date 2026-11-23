@@ -1,6 +1,6 @@
 # Chemical Engineering: Summer 2027 Internships
 
-24 open Summer 2027 chemical engineering roles, newest first (all 24). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 64 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+23 open Summer 2027 chemical engineering roles, newest first (all 23). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 62 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -24,9 +24,8 @@
 | [Post Holdings](https://internscout.org/internships/at/post-holdings/) | Process Engineering Intern Summer 2027 | New Albany, Ohio |  | Sep 18 | [Apply](https://jobs.postholdings.com/jobs/31984) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Chemical Engineering Intern - Water (Summer 2027) | Houston, TX |  | Sep 1 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007432) |
 | [Freeform](https://internscout.org/internships/at/freeform/) | Process Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | \$30/hour | Aug 19 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895787003) |
-| [Shure](https://internscout.org/internships/at/shure/) | Process Engineering Machine Controls Intern | Niles, IL | \$23-\$43 per hour | Nov 22, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4993/process-engineering-machine-controls-intern/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Process Engineering Machine Controls Intern | Niles, IL | \$23-\$43 per hour | Nov 23, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4993/process-engineering-machine-controls-intern/job) |
 | [Plexus](https://internscout.org/internships/at/plexus/) | Intern - Process Engineer (Summer 2027) | Nampa, ID |  | Oct 17 | [Apply](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Nampa-ID/Intern---Process-Engineer--Summer-2027-_R040433) |
-| [IMEG](https://internscout.org/internships/at/imeg/) | Chemical Engineering Intern \| Boulder, CO | Boulder, CO +1 | \$22.00/hr | Sep 19 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Boulder-CO/Chemical-Engineering-Intern---Boulder--CO_R-16798) |
 | [Mondelez International](https://internscout.org/internships/at/mondelez-international/) | Manufacturing- Process Engineering Co-Op(For Naperville, IL Local Candidates Only) | Naperville, Illinois, United States | \$1,000 - \$1,300, | Sep 18 | [Apply](https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Naperville-Illinois-United-States/Manufacturing--Process-Engineering-Co-Op-For-Naperville--IL-Local-Candidates-Only-_R-176632) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

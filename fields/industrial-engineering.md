@@ -1,15 +1,12 @@
 # Industrial Engineering: Summer 2027 Internships
 
-154 open Summer 2027 industrial engineering roles, newest first (all 154). **Updated November 22, 2026.** [Back to every major](../README.md) · [See all 328 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
+151 open Summer 2027 industrial engineering roles, newest first (all 151). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 321 industrial engineering internships on InternScout](https://internscout.org/internships/industrial-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [iA](https://internscout.org/internships/at/ia/) | Industrial Engineer Intern | Johnson City, NY |  | Nov 21 | [Apply](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936412681_1) |
 | [Pivotal Software](https://internscout.org/internships/at/pivotal-software/) | Internship, Supply Chain Analyst (Summer 2027) | Palo Alto, CA |  | Nov 21 | [Apply](https://jobs.lever.co/pivotal/711d6c44-a1f9-4ab4-943f-b6e8d53194be/apply) |
 | [Formlabs](https://internscout.org/internships/at/formlabs/) | 2027 (Summer) Marketing Events Logistics Intern | Somerville, MA | \$1,050 | Nov 20 | [Apply](https://careers.formlabs.com/job/8400561/apply/?gh_jid=8400561) |
-| [Ace Hardware](https://internscout.org/internships/at/ace-hardware/) | Supply Chain Process Intern (Summer 2027) | AL - Loxley |  | Nov 20 | [Apply](https://acehardware.wd1.myworkdayjobs.com/External/job/AL---Loxley/Supply-Chain-Process-Intern--Summer-2027-_REQ-35187) |
-| [Ace Hardware](https://internscout.org/internships/at/ace-hardware/) | Supply Chain Process Intern (Summer 2027) | NY - Wilton (Gansevoort) | \$22 per hour | Nov 20 | [Apply](https://acehardware.wd1.myworkdayjobs.com/External/job/NY---Wilton-Gansevoort/Supply-Chain-Process-Intern--Summer-2027-_REQ-35186) |
-| [Ace Hardware](https://internscout.org/internships/at/ace-hardware/) | Supply Chain Process Intern (Summer 2027) | CA - Visalia |  | Nov 20 | [Apply](https://acehardware.wd1.myworkdayjobs.com/External/job/CA---Visalia/Supply-Chain-Process-Intern--Summer-2027-_REQ-35205) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Manufacturing Engineering Intern (Summer 2027) | Pelzer, SC |  | Nov 20 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279361) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Supply Chain Management Intern | Sparks, Nevada |  | Nov 20 | [Apply](https://careers.na.panasonic.com/jobs/51640) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Industrial Engineering (Chino) | Chino, CA |  | Nov 20 | [Apply](https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-Industrial-Engineering-%28Chino%29-CA-91710/1423164900/) |
@@ -140,8 +137,8 @@
 | PDT Partners | Summer 2027 Systems Engineering Intern | New York, NY | \$225,000 | Jul 24 | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) |
 | [Kairos Power](https://internscout.org/internships/at/kairos-power/) | Mechanical and Manufacturing Engineering Internship - Summer 2027 | Alameda, CA +2 | Paid | Jul 23 | [Apply](https://job-boards.greenhouse.io/kairospower/jobs/6123676004) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States +7 | Paid | Jun 11 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
-| [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Supply Chain) | St Petersburg, FL |  | Nov 22, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37507/2027-summer-intern-%28supply-chain%29/job) |
-| [Shure](https://internscout.org/internships/at/shure/) | Global Logistics Intern | Niles, IL | \$23-\$43 per hour | Nov 22, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4987/global-logistics-intern/job) |
+| [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Supply Chain) | St Petersburg, FL |  | Nov 23, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37507/2027-summer-intern-%28supply-chain%29/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Global Logistics Intern | Niles, IL | \$23-\$43 per hour | Nov 23, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4987/global-logistics-intern/job) |
 | [Capital Power](https://internscout.org/internships/at/capital-power/) | Supply Chain Summer Student | Edmonton, AB | \$36.18 | Nov 21 | [Apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Supply-Chain-Summer-Student_JR807179) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Logistics Engineering Intern - Summer 2027 | Middletown, Pennsylvania | \$23 to \$27.50 per hour | Nov 19 | [Apply](https://se.jibeapply.com/jobs/137750) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Summer 2027 Industrial Engineering Co-Op | Red Oak, Texas | \$23.00-\$29.50 per hour | Nov 13 | [Apply](https://se.jibeapply.com/jobs/140830) |
