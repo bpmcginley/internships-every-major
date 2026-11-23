@@ -1,9 +1,10 @@
 # Human Resources: Summer 2027 Internships
 
-60 open Summer 2027 human resources roles, newest first (all 60). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 138 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+60 open Summer 2027 human resources roles, newest first (all 60). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 134 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Applied AI - HR CDAO - Summer Associate | New York, NY |  | Nov 23 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Total Rewards Intern Summer 2027 | Long Beach, CA |  | Nov 19 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8208976003) |
 | [Southern Poverty Law Center](https://internscout.org/internships/at/southern-poverty-law-center/) | Intern, Human Resources (Summer 2027) | Montgomery, Alabama +5 | \$18.40 per hour | Nov 19 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8955457002) |
 | [Piper Sandler](https://internscout.org/internships/at/piper-sandler/) | 2027 Campus Recruiting - Investment Banking Summer Associate - Charlotte | Charlotte #2, NC |  | Nov 19 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Charlotte-2-NC/XMLNAME-2027-Campus-Recruiting---Investment-Banking-Summer-Associate---Charlotte_R-100658) |
@@ -55,7 +56,6 @@
 | [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Human Resources) | St Petersburg, FL |  | Nov 23, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37730/2027-summer-intern-%28human-resources%29/job) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Compensation and Benefits Intern - Summer 2027 | Reston, VA | Paid | Nov 23, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8693/compensation-and-benefits-intern---summer-2027/job) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Human Resources Operations Internship - Summer 2027 | Reston, VA | Paid | Nov 23, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8694/human-resources-operations-internship---summer-2027/job) |
-| Diamondback Energy | Summer 2027 Human Resources Intern | Midland, TX |  | Nov 23 | [Apply](https://diamondbackenergy.wd12.myworkdayjobs.com/DBE/job/Midland-TX/Summer-2027-Human-Resources-Intern_R100831) |
 | [Piper Sandler](https://internscout.org/internships/at/piper-sandler/) | Campus Recruiting – 2027 Public Finance Special District Group Summer Associate - Salt Lake City, UT | Salt Lake City, UT |  | Nov 22 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Salt-Lake-City-UT/Campus-Recruiting---2027-Public-Finance-Special-District-Group-Summer-Associate----Salt-Lake-City--UT_R-100682) |
 | [Piper Sandler](https://internscout.org/internships/at/piper-sandler/) | Campus Recruiting – 2027 Public Finance Special District Group Summer Associate - Houston, TX | Houston 4, TX-Main Street |  | Nov 22 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Houston-4-TX-Main-Street/Campus-Recruiting---2027-Public-Finance-Special-District-Group-Summer-Associate----Houston--TX_R-100680) |
 | [Piper Sandler](https://internscout.org/internships/at/piper-sandler/) | 2027 Campus Recruiting - Investment Banking Summer Associate - Houston | Houston 4, TX-Main Street |  | Nov 22 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Houston-4-TX-Main-Street/XMLNAME-2027-Campus-Recruiting---Investment-Banking-Summer-Associate---Houston_R-100657) |

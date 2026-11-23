@@ -1,15 +1,14 @@
 # Physics: Summer 2027 Internships
 
-23 open Summer 2027 physics roles, newest first (all 23). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 67 physics internships on InternScout](https://internscout.org/internships/physics/)
+21 open Summer 2027 physics roles, newest first (all 21). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 65 physics internships on InternScout](https://internscout.org/internships/physics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [SAS](https://internscout.org/internships/at/sas/) | Quantum Research & Development Intern | Cary, NC |  | Nov 20 | [Apply](https://careers-sas.icims.com/jobs/42752/job?mobile=true&needsRedirect=false) |
-| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Photonics Circuit Simulation Intern – Summer 2027 | Mountain View, CA | Paid | Nov 18 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479849008?gh_jid=5479849008) |
-| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Optical Packaging Integration Internship – Summer 2027 | Mountain View, CA | Paid | Nov 16 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5478834008?gh_jid=5478834008) |
+| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Photonics Circuit Simulation Intern | Mountain View, CA |  | Nov 18 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479849008) |
+| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Optical Packaging Integration Intern | Mountain View, CA |  | Nov 16 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5478834008) |
 | [Pacific Fusion](https://internscout.org/internships/at/pacific-fusion/) | Summer 2027 Experimental Physics, X-Ray Diagnostics Internship | San Leandro, CA | Paid | Nov 16 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4505604009) |
-| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Photonics Layout Intern - Summer 2027 | Boston, MA | Paid | Nov 11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479611008?gh_jid=5479611008) |
-| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Photonics Engineer Intern - Summer 2027 | Boston, MA | Paid | Nov 11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479605008?gh_jid=5479605008) |
+| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Photonics Layout Intern | Boston, MA |  | Nov 11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479611008) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Optical Payload Engineer Intern | Costa Mesa, California, United States | Paid | Nov 10 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen/) | Quantum Computing Research Intern | Washington, DC |  | Nov 10 | [Apply](https://go.vansh.nyc/1qt) |
 | [Keysight Technologies](https://internscout.org/internships/at/keysight-technologies/) | Intern - Optics Customer Success | Sacramento, California +3 | \$37.10 | Nov 10 | [Apply](https://jobs.keysight.com/jobs/55188) |
@@ -26,7 +25,6 @@
 | [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Firmware Engineer Intern, Optical | San Jose, CA |  | Oct 6 | [Apply](https://go.vansh.nyc/Fn) |
 | [Xcimer Energy](https://internscout.org/internships/at/xcimer-energy/) | Summer 2027 Internship - Physics | Denver, CO |  | Sep 11 | [Apply](https://jobs.lever.co/xcimer/27e40b7a-0008-42e6-b43f-200d727f9b49/apply) |
 | [Xcimer Energy](https://internscout.org/internships/at/xcimer-energy/) | Summer 2027 Internship - Optical Engineering | Denver, CO |  | Sep 11 | [Apply](https://jobs.lever.co/xcimer/89ffbeda-ebea-4539-9676-c6441751b95a/apply) |
-| [Tesla](https://internscout.org/internships/at/tesla/) | Physics Engine Development Engineer Intern - Optimus | Palo Alto, CA |  | Sep 2 | [Apply](https://www.tesla.com/careers/search/job/282147) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

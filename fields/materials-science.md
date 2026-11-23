@@ -11,7 +11,7 @@
 | Helion Energy | Materials Engineering Summer 2027 Intern | Everett, WA |  | Sep 29 | [Apply](https://jobs.ashbyhq.com/helion/56636c72-2c72-4f4f-8334-3b233a235c8d/application) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Interns - Materials Engineer - Whitehall, MI (Summer 2027) | Whitehall, MI |  | Sep 29 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119675) |
 | [Formlabs](https://internscout.org/internships/at/formlabs/) | PhD Intern - Materials Science (Summer 2027) | Somerville, MA |  | Sep 17 | [Apply](https://careers.formlabs.com/job/8212694/apply/?gh_jid=8212694) |
-| [Freeform](https://internscout.org/internships/at/freeform/) | Materials Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) +1 | \$30/hour | Aug 19 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003) |
+| [Freeform](https://internscout.org/internships/at/freeform/) | Materials Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) +1 |  | Aug 19 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003) |
 | [Kairos Power](https://internscout.org/internships/at/kairos-power/) | Chemical and Materials Engineering Internship - Summer 2027 | Alameda, CA +2 | Paid | Jul 22 | [Apply](https://job-boards.greenhouse.io/kairospower/jobs/6122803004) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

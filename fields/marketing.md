@@ -1,9 +1,10 @@
 # Marketing: Summer 2027 Internships
 
-141 open Summer 2027 marketing roles, newest first (all 141). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 411 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+140 open Summer 2027 marketing roles, newest first (all 140). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 402 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (New York Health Plan) – Summer 2027 (Undergraduate) | New York, NY |  | Nov 23 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040153) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Technical Marketing Engineering Intern, Digital Biology and Scientific Computing | Santa Clara, CA |  | Nov 21 | [Apply](https://go.vansh.nyc/1Gd) |
 | [Formlabs](https://internscout.org/internships/at/formlabs/) | 2027 (Summer) Marketing Events Logistics Intern | Somerville, MA | \$1,050 | Nov 20 | [Apply](https://careers.formlabs.com/job/8400561/apply/?gh_jid=8400561) |
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Intern - Growth Operations Intern - Fanatics Collect | New York, NY, United States | Paid | Nov 20 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4515600009) |
@@ -29,7 +30,7 @@
 | [Veeam Software](https://internscout.org/internships/at/veeam-software/) | Customer Experience Intern - Summer 2027 | Remote, Georgia, USA |  | Nov 12 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5035360101) |
 | [HF Sinclair](https://internscout.org/internships/at/hf-sinclair/) | Branded Fuels - Business Analytics Intern | Dallas, TX |  | Nov 12 | [Apply](https://careers.hfsinclair.com/job/Dallas-Branded-Fuels-Business-Analytics-Intern-TX-75219/1430072700/) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern - Communications | Pascagoula, Mississippi |  | Nov 12 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMMUNICATIONS-Miss/1430056000/) |
-| [M/I Homes](https://internscout.org/internships/at/m-i-homes/) | Marketing Intern - Summer 2027 | Naperville, Illinois +1 | \$22.00 - \$26.00 per hour | Nov 11 | [Apply](https://apply.workable.com/j/A9DFFD2B2B/apply) |
+| [M/I Homes](https://internscout.org/internships/at/m-i-homes/) | Marketing Intern - Summer 2027 | Naperville, Illinois | \$22.00 - \$26.00 per hour | Nov 11 | [Apply](https://apply.workable.com/j/A9DFFD2B2B/apply) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Intern to the Chief of Staff, External Affairs & Growth (Washington, DC) | Washington, Washington, DC |  | Nov 10 | [Apply](https://jobs.constellationenergy.com/jobs/142425) |
 | [Aon](https://internscout.org/internships/at/aon/) | 2027 Wealthspire - Marketing Brand Intern | New York, New York | \$25.00 – \$27.00 per hour | Nov 10 | [Apply](https://jobs.aon.com/jobs/109985) |
 | [DreamWorks Animation](https://internscout.org/internships/at/dreamworks-animation/) | Advertising & Partnerships: Data Science Intern | NYC |  | Nov 9 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160689930) |
@@ -39,15 +40,14 @@
 | [Veeam Software](https://internscout.org/internships/at/veeam-software/) | Field Marketing Intern - Summer 2027 | Toronto, Canada |  | Nov 9 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5031428101) |
 | [Tinder](https://internscout.org/internships/at/tinder/) | Social Marketing Intern | Los Angeles, California |  | Nov 6 | [Apply](https://jobs.lever.co/matchgroup/d4f57475-3ea3-4560-924b-5a5507d4f002/apply) |
 | [Corning](https://internscout.org/internships/at/corning/) | R&D Intern, Optical Communications Development - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Nov 6 | [Apply](https://corningjobs.corning.com/job/Corning-R&D-Intern%2C-Optical-Communications-Development-Summer-2027-NY-14831/1448753800/) |
-| [Formlabs](https://internscout.org/internships/at/formlabs/) | Marketing Strategy MBA Intern (Summer 2027) | Somerville, MA | \$2,750 | Nov 5 | [Apply](https://careers.formlabs.com/job/8319365/apply/?gh_jid=8319365) |
+| [Formlabs](https://internscout.org/internships/at/formlabs/) | Marketing Strategy MBA Intern (Summer 2027) | Somerville, MA |  | Nov 5 | [Apply](https://careers.formlabs.com/job/8319365/apply/?gh_jid=8319365) |
 | [Peraton](https://internscout.org/internships/at/peraton/) | Social Media & Marketing Analyst Intern | San Diego, CA |  | Nov 5 | [Apply](https://careers-peraton.icims.com/jobs/171546/job?mobile=true&needsRedirect=false) |
 | [Chubb](https://internscout.org/internships/at/chubb/) | Customer Experience and Delivery Intern | Portland, ME | \$18 to \$24 per hour | Nov 5 | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38419) |
 | H&R Block | Embark Marketing Ops Intern - S | KANSAS CITY, Missouri | \$25/hour | Nov 5 | [Apply](https://careers.hrblock.com/jobs/79563) |
 | [Uline](https://internscout.org/internships/at/uline/) | Marketing Intern | Waukegan, IL +4 |  | Nov 5 | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Marketing-Internship---Summer-2027_R268946) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (Nebraska Health Plan) – Summer 2027 (Undergraduate) | NE |  | Nov 4 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040148) |
 | Prologis | IT Customer Experience Technologies Intern | Denver, CO |  | Nov 4 | [Apply](https://go.vansh.nyc/1gs) |
-| [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (New York Health Plan) – Summer 2027 (Undergraduate) | New York, NY |  | Nov 3 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040153) |
-| [Tria Federal](https://internscout.org/internships/at/tria-federal/) | Summer Internship Program - Growth Operations | Arlington, VA +1 |  | Nov 2 | [Apply](https://triafed.com/jobs/?gh_jid=5470246008) |
+| [Tria Federal](https://internscout.org/internships/at/tria-federal/) | Growth Operations Intern | Arlington County, Arlington, VA |  | Nov 2 | [Apply](https://triafed.com/jobs/?gh_jid=5470246008) |
 | [ParetoHealth](https://internscout.org/internships/at/paretohealth/) | Growth Operations Summer Intern | Philadelphia, Pennsylvania, United States |  | Nov 2 | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726002006) |
 | [Zebra Technologies](https://internscout.org/internships/at/zebra-technologies/) | 2027 Summer Internship (US) - Global Marketing Program Management | Lincolnshire, Illinois |  | Nov 2 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Global-Marketing-Program-Management_JR103611) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Data Science Project Intern, Advertisement | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18k) |
@@ -61,7 +61,6 @@
 | [Haskell](https://internscout.org/internships/at/haskell/) | Summer 2027 Corporate Marketing Intern | Jacksonville, Florida |  | Oct 26 | [Apply](https://haskell.jibeapply.com/jobs/7335) |
 | [Boston Scientific](https://internscout.org/internships/at/boston-scientific/) | MBA Marketing Internship Summer 2027 (Minnesota)) | Arden Hills, MN |  | Oct 24 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813832514) |
 | [Legrand](https://internscout.org/internships/at/legrand/) | Product Marketing Intern (Summer 2027) | West Hartford, CT |  | Oct 23 | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1640) |
-| Together AI | Growth Marketing Intern (Summer 2027) | San Francisco | \$41/hr | Oct 22 | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5270409007) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Information Communications Technology (ICT ) Intern - Buildings (Summer 2027) | Lynnwood, WA |  | Oct 22 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008438) |
 | Allstate | Product Management Advertising Intern | Illinois |  | Oct 21 | [Apply](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280) |
 | STR | Graphic Design & Technical Communications Intern - Summer 2027 | Woburn, MA | \$25.20-\$54.00/hour | Oct 20 | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723386006) |
@@ -97,9 +96,9 @@
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Marketing, Creative & eCommerce Intern Summer Opportunities (May-Aug 2027) | Needham, MA, United States | Paid | Sep 17 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713883006) |
 | Watts Water | Product Marketing Data Analyst Intern | North Andover, MA |  | Sep 17 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Product-Data-Analyst--Marketing-Intern_10017538) |
 | [Emergent Holdings](https://internscout.org/internships/at/emergent-holdings/) | Summer 2027 Intern - Program Oversight/Marketing Compliance | Detroit, MI | Paid | Sep 16 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14772) |
+| [National Life](https://internscout.org/internships/at/national-life/) | Market Research Intern | Montpelier, VT +1 |  | Sep 14 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403863009) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Digital Marketing Intern – Summer 2027 | Addison, TX +1 | Paid | Sep 14 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403684009) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Customer Experience and Transformation Intern – Summer 2027 | Addison, TX +1 | Paid | Sep 14 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403604009) |
-| [National Life](https://internscout.org/internships/at/national-life/) | Market Research Intern – Summer 2027 | Addison, TX +1 | Paid | Sep 14 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403863009) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Marketing Intern (Remote) | Annapolis, Maryland |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138719) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Communications Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138732) |
 | [ibotta](https://internscout.org/internships/at/ibotta/) | D2C Marketing Intern | Hybrid - Denver +2 | \$23.08 per hour | Sep 11 | [Apply](https://jobs.ashbyhq.com/ibotta/f543fdd4-7b73-4f57-a6d3-32990967c625/application) |

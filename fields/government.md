@@ -1,9 +1,10 @@
 # Government and Public Policy: Summer 2027 Internships
 
-39 open Summer 2027 government and public policy roles, newest first (all 39). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 212 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+39 open Summer 2027 government and public policy roles, newest first (all 39). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 213 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Public Policy/Political Science (Rosemead) | Rosemead, CA |  | Nov 23 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Public-PolicyPolitical-Science-%28Rosemead%29-CA-91770-3714/1424642000/) |
 | [Systems Planning and Analysis (SPA)](https://internscout.org/internships/at/systems-planning-and-analysis-spa/) | Policy Intern - Summer 2027 | Alexandria, Virginia | \$23.00/Hr | Nov 20 | [Apply](https://spa.jibeapply.com/jobs/23728) |
 | Federal Energy Regulatory Commission | Student Trainee (Management Analysis) | District of Columbia, District of Columbia | \$41659 - \$54160 Per Year | Nov 19 | [Apply](https://www.usajobs.gov:443/job/893523800) |
 | [Southern Poverty Law Center](https://internscout.org/internships/at/southern-poverty-law-center/) | Intern, Federal Policy (Summer 2027) | Washington, D.C. | \$18.40 per hour | Nov 18 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8950751002) |
@@ -22,7 +23,6 @@
 | [Tevora](https://internscout.org/internships/at/tevora/) | Cybersecurity Intern, Federal | Fairfax, VA +1 |  | Oct 31 | [Apply](https://go.vansh.nyc/12b) |
 | [Strada Education Foundation](https://internscout.org/internships/at/strada-education-foundation/) | Strada Education Foundation Internship: Policy Intern | Washington, DC | \$22.75/hour | Oct 28 | [Apply](https://jobs.lever.co/stradaeducation/a5d0b720-c67c-466d-829e-bd3cc72d1339/apply) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Local Government, Politics Intern - Summer 2027 | Dallas, TX, United States |  | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466421009) |
-| [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Public Policy/Political Science (Rosemead) | Rosemead, CA |  | Oct 25 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Public-PolicyPolitical-Science-%28Rosemead%29-CA-91770-3714/1424642000/) |
 | [Salesforce](https://internscout.org/internships/at/salesforce/) | Software Engineer Intern, Security/Government | San Francisco, CA +1 |  | Oct 19 | [Apply](https://go.vansh.nyc/bA) |
 | National Institute of Standards and Technology | Summer Undergraduate Research Fellowship (SURF) Program - Boulder, CO (STEM Fields) | Boulder, Colorado | \$6390 - \$7810 | Oct 16 | [Apply](https://www.usajobs.gov:443/job/889006800) |
 | National Institute of Standards and Technology | Summer Undergraduate Research Fellowship (SURF) Program - Gaithersburg, MD (STEM and Related Fields) | Gaithersburg, Maryland | \$6390 - \$7810 | Oct 16 | [Apply](https://www.usajobs.gov:443/job/889003500) |

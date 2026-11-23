@@ -1,6 +1,6 @@
 # Biology: Summer 2027 Internships
 
-17 open Summer 2027 biology roles, newest first (all 17). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 54 biology internships on InternScout](https://internscout.org/internships/biology/)
+16 open Summer 2027 biology roles, newest first (all 16). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 52 biology internships on InternScout](https://internscout.org/internships/biology/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -10,7 +10,6 @@
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Applied Research Scientist Intern - Agentic Biology | United States |  | Nov 19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307) |
 | [Atlantic Health System](https://internscout.org/internships/at/atlantic-health-system/) | Pharmacy (Data Analytics) Intern | Morristown, NJ |  | Nov 19 | [Apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Pharmacy Intern – Emerging Therapies and Health Outcomes | Detroit, MI |  | Nov 17 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14836) |
-| [The Allen Institute for AI](https://internscout.org/internships/at/the-allen-institute-for-ai/) | Research Internship, AI for Neuroscience | Seattle, WA | \$94,320 | Nov 13 | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293636) |
 | [Emerson Electric](https://internscout.org/internships/at/emerson-electric/) | Life Sciences Marketing Intern | Round Rock, TX |  | Nov 13 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009264) |
 | [Alexion](https://internscout.org/internships/at/alexion/) | Summer 2027 Pharmaceutical Development Summer Intern PhD | US - New Haven - CT | \$48 per hour | Nov 12 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---New-Haven---CT/Summer-2027-Pharmaceutical-Development-Summer-Intern-PhD_R-264287) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | 2027 Internship – Applied Biological Sciences | Laurel, Maryland | \$22.60 Hour | Nov 5 | [Apply](https://careers.jhuapl.edu/jobs/60594) |

@@ -1,9 +1,10 @@
 # Health: Summer 2027 Internships
 
-37 open Summer 2027 health roles, newest first (all 37). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 145 health internships on InternScout](https://internscout.org/internships/health/)
+37 open Summer 2027 health roles, newest first (all 37). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 143 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (New York Health Plan) – Summer 2027 (Undergraduate) | New York, NY |  | Nov 23 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040153) |
 | [Atlantic Health System](https://internscout.org/internships/at/atlantic-health-system/) | Speech Language Pathology Intern | Morristown, NJ |  | Nov 20 | [Apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34626) |
 | [Atlantic Health System](https://internscout.org/internships/at/atlantic-health-system/) | Occupational Therapy Intern | Morristown, NJ |  | Nov 20 | [Apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34625) |
 | [Atlantic Health System](https://internscout.org/internships/at/atlantic-health-system/) | Physical Therapy Intern | Morristown, NJ |  | Nov 20 | [Apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34623) |
@@ -20,7 +21,6 @@
 | [Emory University](https://internscout.org/internships/at/emory-university/) | Emory Healthcare Administrative Undergrad Internship - Summer 2027 | Atlanta, Georgia | Paid | Nov 3 | [Apply](https://emory.jibeapply.com/jobs/175656) |
 | [Emory University](https://internscout.org/internships/at/emory-university/) | Emory Healthcare Administrative Graduate Internship- Summer 2027 | Atlanta, Georgia | Paid | Nov 3 | [Apply](https://emory.jibeapply.com/jobs/175657) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Services Internship (Nebraska Health Plan) – Summer 2027 (Undergraduate) | NE |  | Nov 3 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040150) |
-| [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (New York Health Plan) – Summer 2027 (Undergraduate) | New York, NY |  | Nov 3 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040153) |
 | [Trilogy Health Services](https://internscout.org/internships/at/trilogy-health-services/) | Revenue Cycle Intern | Louisville, Kentucky | Paid | Nov 2 | [Apply](https://jobs.trilogyhs.com/jobs/214103) |
 | Merck | Future Talent Program Co-op - Patient Data Learning | Cambridge, MA |  | Nov 2 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Patient-Data-Learning---Co-op_R424526) |
 | [Emory University](https://internscout.org/internships/at/emory-university/) | Emory Healthcare Spiritual Health Internship Summer 2027 | Atlanta, Georgia |  | Nov 2 | [Apply](https://emory.jibeapply.com/jobs/176578) |
@@ -37,10 +37,10 @@
 | [Wellmark](https://internscout.org/internships/at/wellmark/) | Software Engineer Intern - Technology Healthcare Innovation | Des Moines, IA |  | Sep 21 | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000150732768) |
 | Netsmart | Revenue Cycle Management Operations Analyst Intern - Revenue Cycle Management | Overland Park, KS |  | Sep 18 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Revenue-Cycle-Management--RCM--Operations-Analyst-Intern-Summer-2027-Internship-_R015757) |
 | [Medpace](https://internscout.org/internships/at/medpace/) | Account Management Internship - Summer 2027 | Cincinnati, Ohio |  | Aug 20 | [Apply](https://careers.medpace.com/jobs/12957) |
-| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Material Science | Boston, MA | \$23.00 - \$32.00 | Nov 22 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Material-Science_REQ-31308-1) |
-| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Pathobiology | Boston, MA |  | Nov 22 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Pathobiology_REQ-31423) |
+| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Material Science | Boston, MA |  | Nov 22 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Material-Science_REQ-31308-1) |
+| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Pathobiology | Boston, MA | \$23.00 – \$50.00 | Nov 22 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Pathobiology_REQ-31423) |
 | [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Comparative Medicine | Boston, MA |  | Nov 22 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Comparative-Medicine_REQ-31424) |
-| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, DMPK Bioanalysis | Boston, MA | \$23.00 – \$32.00 | Nov 22 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--DMPK-Bioanalysis_REQ-31426) |
+| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, DMPK Bioanalysis | Boston, MA |  | Nov 22 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--DMPK-Bioanalysis_REQ-31426) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

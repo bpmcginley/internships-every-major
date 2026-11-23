@@ -1,6 +1,6 @@
 # Architecture: Summer 2027 Internships
 
-39 open Summer 2027 architecture roles, newest first (all 39). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 89 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+39 open Summer 2027 architecture roles, newest first (all 39). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 85 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -11,7 +11,7 @@
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | Buffalo, NY +1 | \$21.74 - \$30.53 per hour | Nov 13 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98919) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | Research Associate Intern, Systems Architecture Lab | Milpitas, CA |  | Nov 12 | [Apply](https://go.vansh.nyc/1w1) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern-Naval Architecture Engineering | Pascagoula, Mississippi |  | Nov 12 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-NAVAL-ARCHITECTURE-ENGINEERING-Miss/1430055600/) |
-| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Chip Architecture Intern – Summer 2027 | Boston, MA +1 | Paid | Nov 11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5468924008?gh_jid=5468924008) |
+| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Chip Architecture Intern | Boston, MA +1 |  | Nov 11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5468924008) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Architectural Intern- Summer 2027 | New York, NY | Paid | Nov 11 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99181) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | New York, NY |  | Nov 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98916) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | South Jordan, UT |  | Nov 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98842) |

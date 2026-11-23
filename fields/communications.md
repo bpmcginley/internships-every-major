@@ -1,6 +1,6 @@
 # Communications: Summer 2027 Internships
 
-22 open Summer 2027 communications roles, newest first (all 22). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 86 communications internships on InternScout](https://internscout.org/internships/communications/)
+19 open Summer 2027 communications roles, newest first (all 19). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 79 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -13,13 +13,10 @@
 | OTTO Engineering | Embedded Software Intern, Communications | Carpentersville, IL |  | Oct 30 | [Apply](https://go.vansh.nyc/122) |
 | [FHLBD Federal Home Loan Bank of Dallas](https://internscout.org/internships/at/fhlbd-federal-home-loan-bank-of-dallas/) | 2027 Summer Corporate & Marketing Communications Intern | Irving, TX |  | Oct 27 | [Apply](https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Corporate---Marketing-Communications-Intern_REQ-452) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Marketing and Communications | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Marketing-and-Communications-MD-21230/1434386400/) |
-| Together AI | Technical Writer Intern, Developer Experience (Summer 2027) | San Francisco |  | Oct 26 | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5271149007) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Information Communications Technology (ICT ) Intern - Buildings (Summer 2027) | Lynnwood, WA |  | Oct 22 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008438) |
 | STR | Graphic Design & Technical Communications Intern - Summer 2027 | Woburn, MA | \$25.20-\$54.00/hour | Oct 20 | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723386006) |
 | [Ursa Major](https://internscout.org/internships/at/ursa-major/) | 2027 Summer Marketing & Communications Intern | Berthoud, Colorado | \$30.00/hour | Oct 19 | [Apply](https://ursamajor.com/careers/?gh_jid=4744833005) |
 | [Ricoh](https://internscout.org/internships/at/ricoh/) | Software Engineer Intern, Graphic Communications | Boulder, CO |  | Oct 19 | [Apply](https://go.vansh.nyc/Vl) |
-| [Sigma Computing](https://internscout.org/internships/at/sigma-computing/) | Technical Writer Intern (Summer 2027) | New York, NY | \$36.00 - \$42.00 per hour | Oct 14 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8034205003) |
-| [Sigma Computing](https://internscout.org/internships/at/sigma-computing/) | Technical Writer Intern (Summer 2027) | San Francisco, CA | \$36.00 - \$42.00 per hour | Oct 14 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8034168003) |
 | [Worthington Enterprises](https://internscout.org/internships/at/worthington-enterprises/) | Corporate Communications Intern | Columbus, OH |  | Oct 2 | [Apply](https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43366) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Communications Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138732) |
 | [GE Vernova](https://internscout.org/internships/at/ge-vernova/) | Hardware Engineer Intern - Critical Infrastructure Communications | Rochester, NY |  | Sep 3 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-2) |
