@@ -1,10 +1,11 @@
 # Health: Summer 2027 Internships
 
-37 open Summer 2027 health roles, newest first (all 37). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 143 health internships on InternScout](https://internscout.org/internships/health/)
+38 open Summer 2027 health roles, newest first (all 38). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 145 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (New York Health Plan) – Summer 2027 (Undergraduate) | New York, NY |  | Nov 23 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040153) |
+| [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Quality Analytics Internship (Michigan Health Plan) – Summer 2027 (Undergraduate) | MI +1 |  | Nov 23 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040141) |
 | [Atlantic Health System](https://internscout.org/internships/at/atlantic-health-system/) | Speech Language Pathology Intern | Morristown, NJ |  | Nov 20 | [Apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34626) |
 | [Atlantic Health System](https://internscout.org/internships/at/atlantic-health-system/) | Occupational Therapy Intern | Morristown, NJ |  | Nov 20 | [Apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34625) |
 | [Atlantic Health System](https://internscout.org/internships/at/atlantic-health-system/) | Physical Therapy Intern | Morristown, NJ |  | Nov 20 | [Apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34623) |
@@ -26,8 +27,6 @@
 | [Emory University](https://internscout.org/internships/at/emory-university/) | Emory Healthcare Spiritual Health Internship Summer 2027 | Atlanta, Georgia |  | Nov 2 | [Apply](https://emory.jibeapply.com/jobs/176578) |
 | [Tevora](https://internscout.org/internships/at/tevora/) | Cybersecurity Intern, Healthcare | Irvine, CA +1 |  | Oct 31 | [Apply](https://go.vansh.nyc/12c) |
 | [Trilogy Health Services](https://internscout.org/internships/at/trilogy-health-services/) | Clinical Intern | Louisville, Kentucky | Paid | Oct 30 | [Apply](https://jobs.trilogyhs.com/jobs/213300) |
-| [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Quality Analytics Internship (Massachusetts) – Summer 2027 (Undergraduate) | United States |  | Oct 30 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040154) |
-| [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Quality Analytics Internship (Michigan Health Plan) – Summer 2027 (Undergraduate) | MI +1 |  | Oct 30 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040141) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Quality Analytics Internship (Kentucky Health Plan) – Summer 2027 (Undergraduate) | KY +1 |  | Oct 30 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040139) |
 | [Universal Health Services](https://internscout.org/internships/at/universal-health-services/) | Hospital Administration Internship - Summer 2027 | SCOTTSDALE, Arizona | Paid | Oct 29 | [Apply](https://jobs.uhsinc.com/jobs/379616) |
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Clinical and Population Health Graduate Intern | Washington +48 |  | Oct 29 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Clinical-and-Population-Health-Graduate-Intern_J288011) |
@@ -37,6 +36,8 @@
 | [Wellmark](https://internscout.org/internships/at/wellmark/) | Software Engineer Intern - Technology Healthcare Innovation | Des Moines, IA |  | Sep 21 | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000150732768) |
 | Netsmart | Revenue Cycle Management Operations Analyst Intern - Revenue Cycle Management | Overland Park, KS |  | Sep 18 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Revenue-Cycle-Management--RCM--Operations-Analyst-Intern-Summer-2027-Internship-_R015757) |
 | [Medpace](https://internscout.org/internships/at/medpace/) | Account Management Internship - Summer 2027 | Cincinnati, Ohio |  | Aug 20 | [Apply](https://careers.medpace.com/jobs/12957) |
+| GreatCampJobs | Nursing Student Internship – Summer 2027 | United States | \$2,000–\$2,700 | Nov 24 | [Apply](https://careerlaunchpad.arcadia.edu/jobs/greatcampjobs-nursing-student-internship-summer-2027/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| Memorial Health | Summer 2027 Student Nurse Intern - Lincoln Memorial Hospital - ED | Lincoln, IL |  | Nov 24 | [Apply](https://jobs.memorial.health/job/jr100662/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Material Science | Boston, MA |  | Nov 22 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Material-Science_REQ-31308-1) |
 | [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Pathobiology | Boston, MA | \$23.00 – \$50.00 | Nov 22 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Pathobiology_REQ-31423) |
 | [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Comparative Medicine | Boston, MA |  | Nov 22 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Comparative-Medicine_REQ-31424) |

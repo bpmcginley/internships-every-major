@@ -1,6 +1,6 @@
 # Insurance: Summer 2027 Internships
 
-23 open Summer 2027 insurance roles, newest first (all 23). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 36 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+22 open Summer 2027 insurance roles, newest first (all 22). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 35 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -8,7 +8,6 @@
 | [Aon](https://internscout.org/internships/at/aon/) | Early Careers: RMI Summer Internship - Risk Capital & Reinsurance | New York, New York +5 | \$21.60 - \$27.60 hour | Nov 19 | [Apply](https://jobs.aon.com/jobs/113654) |
 | [Selective Insurance](https://internscout.org/internships/at/selective-insurance/) | Underwriting Summer Internship – Allentown, PA (Hybrid) | Allentown, Pennsylvania | \$22.00 | Nov 18 | [Apply](https://jobs.selective.com/jobs/5683) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern-Property and Casualty Underwriting-Learning Analyst | Bloomington, Illinois +1 | \$24/hour | Nov 12 | [Apply](https://jobs.statefarm.com/jobs/46444) |
-| [Zurich Insurance](https://internscout.org/internships/at/zurich-insurance/) | Underwriting Internship - Summer 2027 - Dallas | Addison, TX | \$21.00 - \$23.00 | Nov 12 | [Apply](https://www.careers.zurich.com/job/Addison-Underwriting-Internship-Summer-2027-Dallas-TX/1372139657/) |
 | [Zurich Insurance](https://internscout.org/internships/at/zurich-insurance/) | Underwriting Internship - Summer 2027 - Denver | Denver, CO | \$21.00 - \$23.00 | Nov 12 | [Apply](https://www.careers.zurich.com/job/Denver-Underwriting-Internship-Summer-2027-Denver-CO-80002/1372139757/) |
 | [Zurich Insurance](https://internscout.org/internships/at/zurich-insurance/) | Underwriting Internship - Summer 2027 - Boston | Boston, MA | \$21.00 - \$23.00 | Nov 12 | [Apply](https://www.careers.zurich.com/job/Boston-Underwriting-Internship-Summer-2027-Boston-MA-02108/1372139457/) |
 | [Zurich Insurance](https://internscout.org/internships/at/zurich-insurance/) | Underwriting Internship - Summer 2027 - Maitland | Maitland, FL | \$21.00 - \$23.00 | Nov 12 | [Apply](https://www.careers.zurich.com/job/Maitland-Underwriting-Internship-Summer-2027-Maitland-FL-32751/1372140057/) |
@@ -26,7 +25,7 @@
 | [Northmarq](https://internscout.org/internships/at/northmarq/) | Insurance Intern, Summer 2027 | Minneapolis, Minnesota, United States | \$22.00 per hour | Aug 25 | [Apply](https://job-boards.greenhouse.io/northmarq/jobs/5406134008) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Actuarial Intern - Summer 2027 | Addison, TX +1 | Paid | Aug 19 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4376293009) |
 | GuideWell Mutual | 2027 Actuarial Summer Internship | Jacksonville, FL |  | Aug 18 | [Apply](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41855) |
-| [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Global Risk Solutions Claims Internship - Summer 2027 | Plano, TX +5 |  | Nov 23, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261686/global-risk-solutions-claims-internship---summer-2027/job) |
+| [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Global Risk Solutions Claims Internship - Summer 2027 | Plano, TX +5 |  | Nov 24, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261686/global-risk-solutions-claims-internship---summer-2027/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

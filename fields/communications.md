@@ -1,9 +1,10 @@
 # Communications: Summer 2027 Internships
 
-19 open Summer 2027 communications roles, newest first (all 19). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 79 communications internships on InternScout](https://internscout.org/internships/communications/)
+20 open Summer 2027 communications roles, newest first (all 20). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 78 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Lifeway](https://internscout.org/internships/at/lifeway/) | Summer Internship \| PR Communications | Remote | Paid | Nov 23 | [Apply](https://hq-lifeway.icims.com/jobs/27223/summer-internship-%7c-pr-communications/job) |
 | [DTCC](https://internscout.org/internships/at/dtcc/) | Marketing & Communications Intern \[2027 Internship Program\] | Jersey City, NJ |  | Nov 20 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215290) |
 | [Southern Poverty Law Center](https://internscout.org/internships/at/southern-poverty-law-center/) | Intern, Public & Media Relations (Summer 2027) | Atlanta, GA | \$18.40 per hour | Nov 19 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8954805002) |
 | [iCapital Network](https://internscout.org/internships/at/icapital-network/) | Brand and Communications - Summer 2027 Intern | New York, New York, United States | \$43.50 per hour | Nov 19 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8949799002) |

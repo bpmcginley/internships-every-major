@@ -1,6 +1,6 @@
 # Aerospace Engineering: Summer 2027 Internships
 
-27 open Summer 2027 aerospace engineering roles, newest first (all 27). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 49 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
+26 open Summer 2027 aerospace engineering roles, newest first (all 26). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 47 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -20,7 +20,6 @@
 | Varda Space | Avionics Engineering Intern | El Segundo, CA |  | Oct 1 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010158003) |
 | [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Propulsion Engineering Internship - Summer 2027 | El Segundo, California, United States | \$33.00 | Oct 1 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010169003) |
 | [Mach Industries](https://internscout.org/internships/at/mach-industries/) | Summer 2027 Engineering Internship, Aerospace | Huntington Beach, California, United States +1 | Paid | Sep 25 | [Apply](https://job-boards.greenhouse.io/machindustries/jobs/4420631009) |
-| [Astranis](https://internscout.org/internships/at/astranis/) | Propulsion Engineer Intern (Summer 2027) | San Francisco |  | Sep 23 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4713184006) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Avionics Intern (Summer 2027) | San Francisco | \$29.00 per hour | Sep 22 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4706024006) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Propulsion Test Intern (Summer 2027) | San Francisco |  | Sep 22 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705640006) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Propulsion Manufacturing Intern (Summer 2027) | San Francisco |  | Sep 18 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705648006) |

@@ -1,9 +1,10 @@
 # Architecture: Summer 2027 Internships
 
-39 open Summer 2027 architecture roles, newest first (all 39). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 85 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+40 open Summer 2027 architecture roles, newest first (all 40). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 85 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Illumio](https://internscout.org/internships/at/illumio/) | Engineering Intern - Architecture Platform | Sunnyvale, CA |  | Nov 24 | [Apply](https://jobs.ashbyhq.com/illumio/a211377c-7db7-4c62-97ba-8176c5a61293/application?embed=true) |
 | [Calamos Investments](https://internscout.org/internships/at/calamos-investments/) | IT Architecture & Sales Systems Intern | Naperville, IL |  | Nov 20 | [Apply](https://go.vansh.nyc/1Fs) |
 | [Samsung Semiconductor](https://internscout.org/internships/at/samsung-semiconductor/) | LLM Inference Acceleration Architecture Intern, Distributed Memory-Centric Accelerators | San Jose, CA |  | Nov 18 | [Apply](https://go.vansh.nyc/1Cw) |
 | [Samsung Semiconductor](https://internscout.org/internships/at/samsung-semiconductor/) | Architecture Research Engineer Intern, MoE Placement for Serving at Scale | San Jose, CA |  | Nov 18 | [Apply](https://go.vansh.nyc/1Cm) |

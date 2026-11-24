@@ -1,9 +1,10 @@
 # Economics: Summer 2027 Internships
 
-13 open Summer 2027 economics roles, newest first (all 13). **Updated November 23, 2026.** [Back to every major](../README.md) · [See all 24 economics internships on InternScout](https://internscout.org/internships/economics/)
+14 open Summer 2027 economics roles, newest first (all 14). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 25 economics internships on InternScout](https://internscout.org/internships/economics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Illumio](https://internscout.org/internships/at/illumio/) | Product Management Intern, Solution Economics | Sunnyvale, California - HQ +2 |  | Nov 23 | [Apply](https://jobs.ashbyhq.com/illumio/96759634-4161-4931-9cf3-5933035be101/application) |
 | Gusto | Economics Research Intern | SF |  | Nov 20 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8400148) |
 | [The Brattle Group](https://internscout.org/internships/at/the-brattle-group/) | Research Analyst Intern (Economics & Finance) - Summer 2027 | Chicago, Illinois, United States | \$1,850.00 per week | Nov 20 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4757511005) |
 | [SAS](https://internscout.org/internships/at/sas/) | Econometrics Intern | Cary, NC |  | Nov 17 | [Apply](https://careers-sas.icims.com/jobs/42755/job?mobile=true&needsRedirect=false) |
