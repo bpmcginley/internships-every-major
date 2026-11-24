@@ -1,6 +1,6 @@
 # Consulting: Summer 2027 Internships
 
-80 open Summer 2027 consulting roles, newest first (all 80). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 141 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+82 open Summer 2027 consulting roles, newest first (all 82). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 143 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -18,7 +18,6 @@
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 MBA Internship - Strategy Intern | Los Angeles, CA, United States |  | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507770009) |
 | [SAS](https://internscout.org/internships/at/sas/) | IoT Product Strategy Intern | Cary, NC |  | Nov 14 | [Apply](https://careers-sas.icims.com/jobs/43309/job?mobile=true&needsRedirect=false) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Summer 2027: ESG Strategy Intern (May to August) | Needham, MA, United States |  | Nov 12 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727543006) |
-| [CarGurus](https://internscout.org/internships/at/cargurus/) | Data Governance Engineer Intern | Boston, MA |  | Nov 11 | [Apply](https://go.vansh.nyc/1wX) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: Business Analyst Intern RC&S | Northbrook, IL +1 | \$25.50 | Nov 11 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11495) |
 | Bank of Montreal | Treasury & Payment Solutions Strategy Intern | Toronto, ON, Canada |  | Nov 10 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382) |
 | [NBCUniversal](https://internscout.org/internships/at/nbcuniversal/) | Cybersecurity, Governance & Security Engineering Intern, Media Tech | New York, NY |  | Nov 9 | [Apply](https://go.vansh.nyc/1oC) |
@@ -49,10 +48,12 @@
 | [The Toro Company](https://internscout.org/internships/at/the-toro-company/) | IT Business Analyst Intern | Perry, OK |  | Oct 13 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/IT-Business-Analyst-Intern---Ditch-Witch_JR17608) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Business and Administrative Intern - Strategy Analyst, CCO Strategy and Program Management | Palo Alto, California | \$28,00-51.00 per hour | Oct 12 | [Apply](https://careers.rivian.com/jobs/34239) |
 | [DocuSign](https://internscout.org/internships/at/docusign/) | Solution Consultant Intern | Seattle, Washington | \$31/hour | Oct 12 | [Apply](https://careers.docusign.com/jobs/30524) |
+| [Amazon](https://internscout.org/internships/at/amazon/) | Business Analyst Intern | Bellevue, WA |  | Oct 9 | [Apply](https://amazon.jobs/en/jobs/10575250/business-analyst-intern-summer-2027) |
 | [WTW](https://internscout.org/internships/at/wtw/) | Early Careers: Pharmacy Benefits Consulting Internship - Chicago - Summer 2027 | Chicago, IL |  | Oct 8 | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606458) |
 | [West Monroe](https://internscout.org/internships/at/west-monroe/) | Software Engineering Consultant Intern - AI Concentration | Seattle, WA |  | Oct 6 | [Apply](https://go.vansh.nyc/1ta) |
 | [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | Foodservice Pricing and Trade Strategy Intern - Summer 2027 | Columbus, Ohio |  | Oct 1 | [Apply](https://careers.marzetticompany.com/jobs/8153) |
 | [Cisco](https://internscout.org/internships/at/cisco/) | Software Consulting Engineer I Intern | Research Triangle Park, NC |  | Oct 1 | [Apply](https://go.vansh.nyc/fX) |
+| [CarGurus](https://internscout.org/internships/at/cargurus/) | Data Governance Engineer Intern | Boston, Massachusetts, United States +1 | Paid | Sep 30 | [Apply](https://job-boards.greenhouse.io/ecjobb/jobs/8230749) |
 | [Peraton](https://internscout.org/internships/at/peraton/) | Summer 2027 Business Analyst Intern | San Diego, California | \$25–30/hr | Sep 30 | [Apply](https://peraton.jibeapply.com/jobs/171542) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | Data Governance Engineer Intern | Warren, MI |  | Sep 28 | [Apply](https://go.vansh.nyc/Q1) |
 | Newmark Group | Newmark Management Consulting Intern | TX |  | Sep 18 | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/249950) |
@@ -60,7 +61,8 @@
 | 3M | Business Analyst Intern - Consumer Business Group | Maplewood, MN |  | Sep 14 | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Sustainability and Climate Strategy Intern (Remote) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138731) |
 | [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Summer Associate Internship (Fraud Data Governance) | Vienna, VA |  | Sep 9 | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32310) |
-| [RF-SMART](https://internscout.org/internships/at/rf-smart/) | Product Strategy Intern | Jacksonville, FL |  | Sep 8 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5409030008) |
+| [RF-SMART](https://internscout.org/internships/at/rf-smart/) | Product Strategy Intern - Summer 2027 | Jacksonville, Florida, United States +1 | \$25/hour | Sep 8 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5409030008) |
+| The MJ Companies | Consultative Sales Intern | Carmel, Indiana |  | Sep 3 | [Apply](https://job-boards.greenhouse.io/themjcos/jobs/5415703008) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem | San Jose, CA |  | Sep 3 | [Apply](https://lifeattiktok.com/search/7677493272788683013) |
 | First National Bank | Enterprise Data Governance Intern - Data Quality and Governance | Pittsburgh, PA |  | Sep 2 | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Enterprise-Data-Governance-Intern_2026-01835-1) |
 | PIMCO | Quant Research Analyst Intern - Client Solutions & Analytics | Newport Beach, CA |  | Sep 1 | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---PhD-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106815) |

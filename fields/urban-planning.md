@@ -1,6 +1,6 @@
 # Urban Planning: Summer 2027 Internships
 
-34 open Summer 2027 urban planning roles, newest first (all 34). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 62 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+35 open Summer 2027 urban planning roles, newest first (all 35). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 65 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | HNTB | GIS Intern - Summer 2027 | Nashville, TN |  | Sep 11 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Nashville-TN-City-Center/GIS-Intern---Summer-2027_R-31562-2) |
 | HNTB | GIS Intern | Nashville, TN |  | Sep 11 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Nashville-TN-City-Center/GIS-Intern---Summer-2027_R-31562) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Masters - Transportation Planning Intern (Summer 2027!) | Indianapolis, Indiana | \$36.20 | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/4371) |
+| [Esri](https://internscout.org/internships/at/esri/) | GIS Engineering Internship | Redlands, CA | Paid | Aug 25 | [Apply](https://job-boards.greenhouse.io/studentprogram/jobs/5217904007) |
 | [Southern Star Central Gas Pipeline](https://internscout.org/internships/at/southern-star-central-gas-pipeline/) | Intern, GIS Analyst | Owensboro, KY |  | Nov 24, 2024 | [Apply](https://careers-sscgp.icims.com/jobs/3036/intern%2c-gis-analyst/job) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Planning Intern \| Fort Lauderdale, FL | Fort Lauderdale, FL | Paid | Sep 18 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Fort-Lauderdale-FL/Planning-Intern---Fort-Lauderdale--FL_R-16509) |
 

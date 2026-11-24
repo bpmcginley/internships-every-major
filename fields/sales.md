@@ -1,10 +1,11 @@
 # Sales: Summer 2027 Internships
 
-122 open Summer 2027 sales roles, newest first (all 122). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 256 sales internships on InternScout](https://internscout.org/internships/sales/)
+125 open Summer 2027 sales roles, newest first (all 125). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 263 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Global Sales Intern | Kirkland, WA | Paid | Nov 24 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Global-Sales-Intern-WA-98033/1451436933/) |
+| [Capital Technology Group](https://internscout.org/internships/at/capital-technology-group/) | Summer Internship - Business Development | Hybrid (Silver Spring, MD) | \$800.00 to \$900.00 per week | Nov 23 | [Apply](https://boards.greenhouse.io/capitaltg/jobs/5307090007?gh_jid=5307090007) |
 | [Calamos Investments](https://internscout.org/internships/at/calamos-investments/) | IT Architecture & Sales Systems Intern | Naperville, IL |  | Nov 20 | [Apply](https://go.vansh.nyc/1Fs) |
 | [FieldPulse](https://internscout.org/internships/at/fieldpulse/) | Customer Success Internship | Dallas, TX |  | Nov 20 | [Apply](https://ats.rippling.com/fieldpulse/jobs/d8f74abd-be99-4d57-8bd4-b5aa4f25303a) |
 | [Datadog](https://internscout.org/internships/at/datadog/) | Sales Development Representative - Summer 2027 Graduates - LATAM Portuguese Speaking | Boston, Massachusetts, USA | \$50,000 | Nov 19 | [Apply](https://careers.datadoghq.com/detail/8386590/?gh_jid=8386590) |
@@ -28,6 +29,7 @@
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Sales Instructional Design Internship | IRVINE, California | Paid | Oct 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/38125) |
 | Uline | Sales Analyst Intern | Waukegan, IL +4 |  | Oct 29 | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Sales-Analyst-Internship---Summer-2027_R268774) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Gas Sales Support Intern | De Pere, Wisconsin +3 |  | Oct 28 | [Apply](https://jobs.constellationenergy.com/jobs/140893) |
+| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Team Sports/Sales | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Team-SportsSales-MD-21230/1434355500/) |
 | [W.W. Grainger](https://internscout.org/internships/at/w-w-grainger/) | Sales Support Operations Intern - Summer 2027 | GREEN BAY, WI | Paid | Oct 27 | [Apply](https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-Sales-Support-Operations-Intern-Summer-2027-WI-54304-5677/1434548100/) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Intern - Sales Over 1000 | Detroit, MI +1 |  | Oct 27 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15035) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | Management and Sales Summer 2027 Internship (Arkansas District) | Little Rock, AR +2 |  | Oct 22 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627296) |
@@ -101,6 +103,7 @@
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management & Sales Summer Intern - Dallas Fort Worth | Irving, TX +12 |  | Sep 8 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622784) |
 | [Texas Instruments](https://internscout.org/internships/at/texas-instruments/) | Pella Direct Sales Network (PDSN) Account Team Intern – Summer 2027 | Pella, IA | \$23.00 per hour | Sep 8 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253437) |
 | [CSX](https://internscout.org/internships/at/csx/) | Sales & Marketing Analytics Internship - Summer 2027 (Paid) | Jacksonville, FL |  | Sep 4 | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54839) |
+| The MJ Companies | Consultative Sales Intern | Carmel, Indiana |  | Sep 3 | [Apply](https://job-boards.greenhouse.io/themjcos/jobs/5415703008) |
 | Principal Financial Group | Sales Internship - Retirement & Income Solutions (Summer 2027) \*Updated Location\* | Des Moines, Iowa +3 | \$24 - \$24 / hour | Sep 2 | [Apply](https://careers.principal.com/jobs/52432) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | Retail Sales Intern - Summer 2027 (Multiple Locations) - Campus Recruiting | Austin, MN +2 | \$24.50 | Sep 1 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35338) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Technical Sales Engineering Intern - IT Channel (Summer 2027) | Westerville, OH |  | Aug 31 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279030) |

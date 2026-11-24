@@ -1,9 +1,11 @@
 # Chemistry: Summer 2027 Internships
 
-15 open Summer 2027 chemistry roles, newest first (all 15). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 26 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
+17 open Summer 2027 chemistry roles, newest first (all 17). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 28 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Receiving Chemist Intern - Summer 2027 | Cranston, RI | Paid | Nov 24 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166597) |
+| [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Receiving Chemist Intern - Summer 2027 | La Porte, TX | Paid | Nov 24 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166507) |
 | [CAS](https://internscout.org/internships/at/cas/) | Chemist Intern - Content Operations | Columbus, OH |  | Nov 20 | [Apply](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=edd053a0-276c-4c40-895a-a28c09759e93) |
 | Genesis Molecular AI | Computational Chemistry Intern - 2027 | NYC +3 |  | Nov 10 | [Apply](https://jobs.ashbyhq.com/genesis-molecular-ai/3de36849-b8da-4da9-bd22-d706343db9e1/application) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Lab Chemist Intern - Summer 2027 | Waynoka, OK | Paid | Oct 30 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168059) |

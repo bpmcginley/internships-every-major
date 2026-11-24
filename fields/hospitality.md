@@ -1,6 +1,6 @@
 # Hospitality: Summer 2027 Internships
 
-23 open Summer 2027 hospitality roles, newest first (all 23). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 63 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
+25 open Summer 2027 hospitality roles, newest first (all 25). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 66 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -14,7 +14,9 @@
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Biomechanics | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Biomechanics-MD-21230/1434382000/) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Product Line Management | Baltimore, MD | \$23 per hour | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Product-Line-Management-MD-21230/1434387800/) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Food & Events Intern - Summer 2027 | Dallas, TX, United States |  | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466385009) |
+| [CarGurus](https://internscout.org/internships/at/cargurus/) | Events Intern | Boston, Massachusetts, United States | Paid | Sep 30 | [Apply](https://job-boards.greenhouse.io/ecjobb/jobs/8230745) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Food & Events Intern - Summer 2027 | Dallas, TX |  | Sep 23 | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027546) |
+| [Esri](https://internscout.org/internships/at/esri/) | Events Internship | Redlands, CA | Paid | Sep 22 | [Apply](https://job-boards.greenhouse.io/studentprogram/jobs/5246047007) |
 | [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | R&D Innovation, Culinary and Sensory Intern - Summer 2027 | Lewis Center, Ohio |  | Sep 21 | [Apply](https://careers.marzetticompany.com/jobs/8082) |
 | [Marriott International](https://internscout.org/internships/at/marriott-international/) | Front Desk University Intern-US Summer 2027 | Park City, UT |  | Sep 9 | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26115549) |
 | [Marriott International](https://internscout.org/internships/at/marriott-international/) | Butler University Intern-US Summer 2027 | Park City, UT |  | Sep 9 | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26115552) |
