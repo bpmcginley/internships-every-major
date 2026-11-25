@@ -1,10 +1,10 @@
 # Health: Summer 2027 Internships
 
-39 open Summer 2027 health roles, newest first (all 39). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 145 health internships on InternScout](https://internscout.org/internships/health/)
+37 open Summer 2027 health roles, newest first (all 37). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 138 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [Medpace](https://internscout.org/internships/at/medpace/) | Clinical Intelligence Internship - Summer 2027 | Cincinnati, Ohio |  | Nov 24 | [Apply](https://careers.medpace.com/jobs/13558) |
+| [Medpace](https://internscout.org/internships/at/medpace/) | Clinical Intelligence Internship - Summer 2027 | Cincinnati, Ohio +1 |  | Nov 24 | [Apply](https://careers.medpace.com/jobs/13558) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (New York Health Plan) – Summer 2027 (Undergraduate) | New York, NY |  | Nov 23 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040153) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Quality Analytics Internship (Michigan Health Plan) – Summer 2027 (Undergraduate) | MI +1 |  | Nov 23 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040141) |
 | [Atlantic Health System](https://internscout.org/internships/at/atlantic-health-system/) | Speech Language Pathology Intern | Morristown, NJ |  | Nov 20 | [Apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34626) |
@@ -37,12 +37,10 @@
 | [Wellmark](https://internscout.org/internships/at/wellmark/) | Software Engineer Intern - Technology Healthcare Innovation | Des Moines, IA |  | Sep 21 | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000150732768) |
 | Netsmart | Revenue Cycle Management Operations Analyst Intern - Revenue Cycle Management | Overland Park, KS |  | Sep 18 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Revenue-Cycle-Management--RCM--Operations-Analyst-Intern-Summer-2027-Internship-_R015757) |
 | [Medpace](https://internscout.org/internships/at/medpace/) | Account Management Internship - Summer 2027 | Cincinnati, Ohio |  | Aug 20 | [Apply](https://careers.medpace.com/jobs/12957) |
+| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Pathobiology | Boston, MA | \$23.00 – \$50.00 | Nov 25 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Pathobiology_REQ-31423) |
+| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Comparative Medicine | Boston, MA | \$23.00 – 32.00 | Nov 25 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Comparative-Medicine_REQ-31424) |
 | GreatCampJobs | Nursing Student Internship – Summer 2027 | United States | \$2,000–\$2,700 | Nov 24 | [Apply](https://careerlaunchpad.arcadia.edu/jobs/greatcampjobs-nursing-student-internship-summer-2027/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Memorial Health | Summer 2027 Student Nurse Intern - Lincoln Memorial Hospital - ED | Lincoln, IL |  | Nov 24 | [Apply](https://jobs.memorial.health/job/jr100662/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Material Science | Boston, MA |  | Nov 22 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Material-Science_REQ-31308-1) |
-| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Pathobiology | Boston, MA | \$23.00 – \$50.00 | Nov 22 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Pathobiology_REQ-31423) |
-| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Comparative Medicine | Boston, MA |  | Nov 22 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Comparative-Medicine_REQ-31424) |
-| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, DMPK Bioanalysis | Boston, MA |  | Nov 22 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--DMPK-Bioanalysis_REQ-31426) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

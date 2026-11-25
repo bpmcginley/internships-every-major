@@ -1,6 +1,6 @@
 # Aerospace Engineering: Summer 2027 Internships
 
-26 open Summer 2027 aerospace engineering roles, newest first (all 26). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 46 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
+25 open Summer 2027 aerospace engineering roles, newest first (all 25). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 45 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -24,7 +24,6 @@
 | [Astranis](https://internscout.org/internships/at/astranis/) | Propulsion Test Intern (Summer 2027) | San Francisco |  | Sep 22 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705640006) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Propulsion Manufacturing Intern (Summer 2027) | San Francisco |  | Sep 18 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705648006) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Propulsion Analyst Intern Summer 2027 | Long Beach, CA |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986820003) |
-| [Rendezvous Robotics](https://internscout.org/internships/at/rendezvous-robotics/) | Avionics Engineering Intern (Summer 2027) | Golden, CO |  | Sep 16 | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408578009) |
 | [Hermeus](https://internscout.org/internships/at/hermeus/) | Avionics Electrical Engineering Intern - Summer 2027 | Atlanta, GA |  | Sep 9 | [Apply](https://jobs.lever.co/hermeus/b7babdb5-64ee-49ad-a193-918d6a31c462/apply) |
 | [Skydio](https://internscout.org/internships/at/skydio/) | Flight Test Intern - Summer 2027 | San Mateo, California, United States +2 | \$41/hr | Sep 4 | [Apply](https://jobs.ashbyhq.com/skydio/3eb06d6e-b6f0-4814-a80a-f1c43075873b/application) |
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Avionics Software Intern | Washington +2 |  | Sep 1 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Graduate_R71423) |

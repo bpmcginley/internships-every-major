@@ -1,9 +1,10 @@
 # Communications: Summer 2027 Internships
 
-21 open Summer 2027 communications roles, newest first (all 21). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 78 communications internships on InternScout](https://internscout.org/internships/communications/)
+20 open Summer 2027 communications roles, newest first (all 20). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 77 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Marketing and Communications | Baltimore, MD |  | Nov 25 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Marketing-and-Communications-MD-21230/1434386400/) |
 | [Lifeway](https://internscout.org/internships/at/lifeway/) | Summer Internship \| PR Communications | Remote | Paid | Nov 23 | [Apply](https://hq-lifeway.icims.com/jobs/27223/summer-internship-%7c-pr-communications/job) |
 | [DTCC](https://internscout.org/internships/at/dtcc/) | Marketing & Communications Intern \[2027 Internship Program\] | Jersey City, NJ |  | Nov 20 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215290) |
 | [Southern Poverty Law Center](https://internscout.org/internships/at/southern-poverty-law-center/) | Intern, Public & Media Relations (Summer 2027) | Atlanta, GA | \$18.40 per hour | Nov 19 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8954805002) |
@@ -13,8 +14,6 @@
 | [General Dynamics Information Technology](https://internscout.org/internships/at/general-dynamics-information-technology/) | GDIT Summer Internship Program – Summer 2027 Growth Team Technical Writer Internship | Herndon, VA |  | Nov 10 | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Herndon/GDIT-Summer-Internship-Program---Summer-2027-Growth-Team-Technical-Writer-Internship_RQ231856) |
 | [Corning](https://internscout.org/internships/at/corning/) | R&D Intern, Optical Communications Development - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Nov 6 | [Apply](https://corningjobs.corning.com/job/Corning-R&D-Intern%2C-Optical-Communications-Development-Summer-2027-NY-14831/1448753800/) |
 | OTTO Engineering | Embedded Software Intern, Communications | Carpentersville, IL |  | Oct 30 | [Apply](https://go.vansh.nyc/122) |
-| [FHLBD Federal Home Loan Bank of Dallas](https://internscout.org/internships/at/fhlbd-federal-home-loan-bank-of-dallas/) | 2027 Summer Corporate & Marketing Communications Intern | Irving, TX |  | Oct 27 | [Apply](https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Corporate---Marketing-Communications-Intern_REQ-452) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Marketing and Communications | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Marketing-and-Communications-MD-21230/1434386400/) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Information Communications Technology (ICT ) Intern - Buildings (Summer 2027) | Lynnwood, WA |  | Oct 22 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008438) |
 | STR | Graphic Design & Technical Communications Intern - Summer 2027 | Woburn, MA | \$25.20-\$54.00/hour | Oct 20 | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723386006) |
 | [Ursa Major](https://internscout.org/internships/at/ursa-major/) | 2027 Summer Marketing & Communications Intern | Berthoud, Colorado | \$30.00/hour | Oct 19 | [Apply](https://ursamajor.com/careers/?gh_jid=4744833005) |

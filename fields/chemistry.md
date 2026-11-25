@@ -1,11 +1,12 @@
 # Chemistry: Summer 2027 Internships
 
-17 open Summer 2027 chemistry roles, newest first (all 17). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 28 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
+16 open Summer 2027 chemistry roles, newest first (all 16). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 27 chemistry internships on InternScout](https://internscout.org/internships/chemistry/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Receiving Chemist Intern - Summer 2027 | Cranston, RI | Paid | Nov 24 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166597) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Receiving Chemist Intern - Summer 2027 | La Porte, TX | Paid | Nov 24 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166507) |
+| [Draper](https://internscout.org/internships/at/draper/) | Materials and Chemistry Engineering Intern (Summer 2027) | Cambridge, MA |  | Nov 23 | [Apply](https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Materials-and-Chemistry-Engineering-Intern--Summer-2027-_JR003177) |
 | [CAS](https://internscout.org/internships/at/cas/) | Chemist Intern - Content Operations | Columbus, OH |  | Nov 20 | [Apply](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=edd053a0-276c-4c40-895a-a28c09759e93) |
 | Genesis Molecular AI | Computational Chemistry Intern - 2027 | NYC +3 |  | Nov 10 | [Apply](https://jobs.ashbyhq.com/genesis-molecular-ai/3de36849-b8da-4da9-bd22-d706343db9e1/application) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Lab Chemist Intern - Summer 2027 | Waynoka, OK | Paid | Oct 30 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168059) |
@@ -16,10 +17,8 @@
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Chemist Intern IS \| Summer 2027 | Sumter, SC |  | Sep 21 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/165145) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Quantum and Chemistry Research Intern - Quantum and AI for Chemistry | Toronto, ON, Canada |  | Sep 16 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997) |
 | [Hormel Foods](https://internscout.org/internships/at/hormel-foods/) | R&D Chemistry Laboratory Intern (Austin MN) - Summer 2027 - Campus Recruiting | Austin, MN |  | Sep 8 | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35724) |
-| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Process Chemistry, MSAT - PhD | Boston, MA |  | Nov 22 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Process-Chemistry--MSAT---PhD_REQ-31313) |
-| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Process Chemistry | Boston, MA |  | Nov 22 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Process-Chemistry_REQ-31306) |
-| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Bioanalytical | Boston, MA |  | Nov 22 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Bioanalytical_REQ-31425-2) |
-| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Process Chemistry - San Diego | San Diego, CA |  | Nov 22 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/San-Diego-CA/Summer-Intern-2027--Process-Chemistry---San-Diego_REQ-31307) |
+| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Process Chemistry, MSAT - PhD | Boston, MA |  | Nov 25 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Process-Chemistry--MSAT---PhD_REQ-31313) |
+| [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Process Chemistry - San Diego | San Diego, CA |  | Nov 25 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/San-Diego-CA/Summer-Intern-2027--Process-Chemistry---San-Diego_REQ-31307) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Chemistry (Westminster) | Westminster, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Chemistry-%28Westminster%29-CA-92683/1423277300/) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

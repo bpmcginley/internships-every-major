@@ -1,6 +1,6 @@
 # Media: Summer 2027 Internships
 
-33 open Summer 2027 media roles, newest first (all 33). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 104 media internships on InternScout](https://internscout.org/internships/media/)
+32 open Summer 2027 media roles, newest first (all 32). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 102 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -31,7 +31,6 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Creative Product Manager Intern - Multiple Teams | San Jose, CA |  | Oct 9 | [Apply](https://lifeattiktok.com/search/7693732178706974981) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Houston Chronicle Visuals Internship | Houston, TX |  | Sep 25 | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027533) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Audience Intern | Houston, TX |  | Sep 25 | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027541) |
-| [CAE](https://internscout.org/internships/at/cae/) | Software Developer Intern, Content Creation Tools | Montreal, Canada |  | Sep 21 | [Apply](https://go.vansh.nyc/IU) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Marketing, Creative & eCommerce Intern Summer Opportunities (May-Aug 2027) | Needham, MA, United States | Paid | Sep 17 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713883006) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Graphic Design & Creative Media Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138723) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | ASIC Design Engineer Intern - Video Silicon IP | San Jose, CA |  | Aug 6 | [Apply](https://jobs.bytedance.com/en/position/7670332179383699717/detail) |

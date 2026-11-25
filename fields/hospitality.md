@@ -1,9 +1,12 @@
 # Hospitality: Summer 2027 Internships
 
-25 open Summer 2027 hospitality roles, newest first (all 25). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 65 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
+26 open Summer 2027 hospitality roles, newest first (all 26). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 68 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Royal Caribbean Group](https://internscout.org/internships/at/royal-caribbean-group/) | Intern, Deployment Strategy (Summer 2027) | Miami, FL |  | Nov 25 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miami-Intern%2C-Deployment-Strategy-%28Summer-2027%29-FL-33132/1453773400/) |
+| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Biomechanics | Baltimore, MD |  | Nov 25 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Biomechanics-MD-21230/1434382000/) |
+| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Product Line Management | Baltimore, MD | \$23 per hour | Nov 25 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Product-Line-Management-MD-21230/1434387800/) |
 | [Royal Caribbean Group](https://internscout.org/internships/at/royal-caribbean-group/) | Intern, Newbuild Solutions (Summer 2027) | Miami, FL |  | Nov 18 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miami-Intern%2C-Newbuild-Solutions-%28Summer-2027%29-FL-33132/1441986900/) |
 | [Royal Caribbean Group](https://internscout.org/internships/at/royal-caribbean-group/) | Intern, Guest Travel Services (Summer 2027) | Miramar, FL |  | Nov 13 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miramar-Intern%2C-Guest-Travel-Services-%28Summer-2027%29-FL-33132/1440504600/) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Hospitality Internships - Glacier National Park | Columbia Falls, Montana | \$15.10/hr | Nov 11 | [Apply](https://www.xanterrajobs.com/jobs/40151) |
@@ -11,8 +14,6 @@
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Culinary Internships - Grand Canyon South Rim | GRAND CANYON, Arizona | \$16.05 per hour | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40113) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Hospitality Internships - Lodging - Grand Canyon South Rim | GRAND CANYON, Arizona | Paid | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40112) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Hospitality Internship - Oasis at Death Valley | Death Valley, California | \$16.65 per hour | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40114) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Biomechanics | Baltimore, MD |  | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Biomechanics-MD-21230/1434382000/) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Product Line Management | Baltimore, MD | \$23 per hour | Oct 27 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Product-Line-Management-MD-21230/1434387800/) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Food & Events Intern - Summer 2027 | Dallas, TX, United States |  | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466385009) |
 | [CarGurus](https://internscout.org/internships/at/cargurus/) | Events Intern | Boston, Massachusetts, United States | Paid | Sep 30 | [Apply](https://job-boards.greenhouse.io/ecjobb/jobs/8230745) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Food & Events Intern - Summer 2027 | Dallas, TX |  | Sep 23 | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027546) |
@@ -23,7 +24,7 @@
 | [Cvent](https://internscout.org/internships/at/cvent/) | SDET Intern (Summer 2027) | Tysons Corner, Virginia | \$41.00 per hour | Aug 31 | [Apply](https://careers.cvent.com/jobs/10761) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | Scrum Master Intern (Summer 2027) | Tysons Corner, Virginia | \$28.00 per hour | Aug 31 | [Apply](https://careers.cvent.com/jobs/10740) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | Client Services Intern (Summer 2027) | Tysons Corner, Virginia | \$15.00 per hour | Aug 26 | [Apply](https://careers.cvent.com/jobs/10710) |
-| [IDEMIA](https://internscout.org/internships/at/idemia/) | Marketing & Events Internship - Jan 2027 | Reston, VA | Paid | Nov 24, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8676/marketing-%26-events-internship---jan-2027/job) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Marketing & Events Internship - Jan 2027 | Reston, VA | Paid | Nov 25, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8676/marketing-%26-events-internship---jan-2027/job) |
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Hotel Franchise Finance | Phoenix, AZ | Paid | Sep 28 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Hotel-Franchise-Finance_R13954) |
 | [Hyatt](https://internscout.org/internships/at/hyatt/) | Summer 2027 - Food and Beverage Corporate Internship Program | United States | \$17.00 to \$21.00 per hour | Sep 18 | [Apply](https://hyatt.taleo.net/careersection/10780/jobdetail.ftl?job=UNI002289) |
 | [Hyatt](https://internscout.org/internships/at/hyatt/) | Summer 2027 - Events Corporate Internship Program | United States | \$17.00 to \$21.00 per hour | Sep 18 | [Apply](https://hyatt.taleo.net/careersection/10780/jobdetail.ftl?job=UNI002286) |

@@ -1,9 +1,10 @@
 # Design: Summer 2027 Internships
 
-59 open Summer 2027 design roles, newest first (all 59). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 133 design internships on InternScout](https://internscout.org/internships/design/)
+59 open Summer 2027 design roles, newest first (all 59). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 134 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Store Design/Development | Baltimore, MD |  | Nov 25 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Store-DesignDevelopment-MD-21230/1434347200/) |
 | [Illumio](https://internscout.org/internships/at/illumio/) | Product Design Intern | Sunnyvale, California - HQ +1 |  | Nov 23 | [Apply](https://jobs.ashbyhq.com/illumio/a047eb49-ac58-46f7-9043-b226f74a5605/application) |
 | [Lucid Motors](https://internscout.org/internships/at/lucid-motors/) | Intern, Automotive Interior Design, Summer 2027 | Newark, CA | \$35 to \$51 | Nov 23 | [Apply](https://lucidmotors.com/careers/search/5290844007?gh_jid=5290844007) |
 | [Lifeway](https://internscout.org/internships/at/lifeway/) | Summer Internship \| Graphic Designer - Lifeway Kids | Remote | Paid | Nov 23 | [Apply](https://hq-lifeway.icims.com/jobs/27225/summer-internship-%7c-graphic-designer---lifeway-kids/job) |
@@ -29,7 +30,6 @@
 | [KnowBe4](https://internscout.org/internships/at/knowbe4/) | Multimedia Designer Summer Internship (Hybrid) | Clearwater, Florida | Paid | Nov 1 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919260002) |
 | [Systems Planning and Analysis (SPA)](https://internscout.org/internships/at/systems-planning-and-analysis-spa/) | UI/UX Software Intern - Summer 2027 | Alexandria, Virginia | \$23.00/Hr | Oct 28 | [Apply](https://spa.jibeapply.com/jobs/23699) |
 | HP IQ | Product Design Engineering Intern | SF |  | Oct 27 | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6141235004) |
-| [FHLBD Federal Home Loan Bank of Dallas](https://internscout.org/internships/at/fhlbd-federal-home-loan-bank-of-dallas/) | 2027 Summer Digital & Graphic Design Intern | Irving, TX |  | Oct 27 | [Apply](https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Digital---Graphic-Design-Intern_REQ-453) |
 | [Skydio](https://internscout.org/internships/at/skydio/) | Product Design Engineer Intern | San Mateo, CA |  | Oct 25 | [Apply](https://go.vansh.nyc/BB) |
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Summer Internship Program 2027 - Enterprise UX Intern | Atlanta, Georgia |  | Oct 23 | [Apply](https://ice.jibeapply.com/jobs/14058) |
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Summer Internship Program 2027 - User Experience (UX) Designer Intern | New York, New York | \$30 per hour | Oct 23 | [Apply](https://ice.jibeapply.com/jobs/14111) |
@@ -41,7 +41,7 @@
 | [Garmin](https://internscout.org/internships/at/garmin/) | User Interface Designer Intern | Olathe, Kansas |  | Oct 20 | [Apply](https://careers.garmin.com/jobs/19938) |
 | [Amplify](https://internscout.org/internships/at/amplify/) | Summer 2027: Product Design Intern | Remote |  | Oct 19 | [Apply](https://jobs.ashbyhq.com/amplify/0b593144-07c5-45be-b979-6c37879e6300/application) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Product Designer Intern | Costa Mesa, California, United States | Paid | Oct 13 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007) |
-| [Vertiv](https://internscout.org/internships/at/vertiv/) | UI/UX Design Intern (Summer 2027) | Delaware, OH +2 |  | Oct 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281371) |
+| [Vertiv](https://internscout.org/internships/at/vertiv/) | UI/UX Design Intern | Delaware, OH +2 |  | Oct 13 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281371) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Graphic Design Intern – Summer 2027 | Addison, TX +1 | Paid | Sep 28 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4404976009) |
 | Mill | Product Design Engineering Intern, Summer 2027 | San Bruno, California | \$35 to \$45, | Sep 24 | [Apply](https://job-boards.greenhouse.io/mill/jobs/4737767005) |
 | Udig | Design Intern | Nashville, TN +1 | Paid | Sep 22 | [Apply](https://udig.com/careers/job-listing/?gh_jid=7999446003) |
@@ -54,14 +54,14 @@
 | Immuta | UX Design Internship - Summer 2027 | College Park, MD +2 | Paid | Sep 9 | [Apply](https://jobs.lever.co/immuta/682fa987-3f52-4d95-8239-8e145ce04ed3/apply) |
 | Force Factor | Summer 2027 Digital Graphic Design Intern | Boston, MA +1 |  | Sep 9 | [Apply](https://forcefactor.com/pages/job-openings?gh_jid=6165087004) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Product Design Intern | Hybrid - San Francisco, CA | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175339?gh_jid=8175339) |
-| [DoorDash](https://internscout.org/internships/at/doordash/) | Product Design, Intern (Summer 2027) | San Francisco, CA +1 |  | Sep 3 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) |
+| [DoorDash](https://internscout.org/internships/at/doordash/) | Product Design, Intern (Summer 2027) | San Francisco, CA +1 | Paid | Sep 3 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) |
 | [Dynamic Catholic](https://internscout.org/internships/at/dynamic-catholic/) | Front-End UX Intern | Erlanger, KY |  | Sep 2 | [Apply](https://go.vansh.nyc/1eA) |
 | [Cvent](https://internscout.org/internships/at/cvent/) | Product Design Intern (Summer 2027) | Tysons Corner, Virginia | \$36.00 per hour | Aug 31 | [Apply](https://careers.cvent.com/jobs/10764) |
 | [Jump Trading Group](https://internscout.org/internships/at/jump-trading/) | Campus UI Software Engineer Intern | Chicago, IL |  | Jul 9 | [Apply](https://go.vansh.nyc/3m) |
-| [IDEMIA](https://internscout.org/internships/at/idemia/) | Graphic Design Internship - Summer 2027 | Reston, VA | Paid | Nov 24, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8668/graphic-design-internship---summer-2027/job) |
-| [Shure](https://internscout.org/internships/at/shure/) | User Experience Design (UX) Intern | Niles, IL | \$23-\$43 per hour | Nov 24, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5003/user-experience-design-%28ux%29-intern/job) |
-| [Shure](https://internscout.org/internships/at/shure/) | Industrial Design Intern | Niles, IL | \$23-\$43 per hour | Nov 24, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4991/industrial-design-intern/job) |
-| [Shure](https://internscout.org/internships/at/shure/) | Design Research Intern | Niles, IL | \$23-\$43 per hour | Nov 24, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4983/design-research-intern/job) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Graphic Design Internship - Summer 2027 | Reston, VA | Paid | Nov 25, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8668/graphic-design-internship---summer-2027/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | User Experience Design (UX) Intern | Niles, IL | \$23-\$43 per hour | Nov 25, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5003/user-experience-design-%28ux%29-intern/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Industrial Design Intern | Niles, IL | \$23-\$43 per hour | Nov 25, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4991/industrial-design-intern/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Design Research Intern | Niles, IL | \$23-\$43 per hour | Nov 25, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4983/design-research-intern/job) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Industrial Designer | Denton, TX |  | Nov 4 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Industrial-Designer-TX-76205-7864/1454438233/) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

@@ -1,9 +1,10 @@
 # Architecture: Summer 2027 Internships
 
-40 open Summer 2027 architecture roles, newest first (all 40). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 84 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+46 open Summer 2027 architecture roles, newest first (all 46). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 118 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Samsung Semiconductor](https://internscout.org/internships/at/samsung-semiconductor/) | LLM Inference Acceleration Architecture Intern, MoE & Attention–FFN Disaggregation | San Jose, CA |  | Nov 25 | [Apply](https://go.vansh.nyc/1IH) |
 | [Illumio](https://internscout.org/internships/at/illumio/) | Engineering Intern - Architecture Platform | Sunnyvale, CA |  | Nov 24 | [Apply](https://jobs.ashbyhq.com/illumio/a211377c-7db7-4c62-97ba-8176c5a61293/application?embed=true) |
 | [Calamos Investments](https://internscout.org/internships/at/calamos-investments/) | IT Architecture & Sales Systems Intern | Naperville, IL |  | Nov 20 | [Apply](https://go.vansh.nyc/1Fs) |
 | [Samsung Semiconductor](https://internscout.org/internships/at/samsung-semiconductor/) | LLM Inference Acceleration Architecture Intern, Distributed Memory-Centric Accelerators | San Jose, CA |  | Nov 18 | [Apply](https://go.vansh.nyc/1Cw) |
@@ -17,6 +18,7 @@
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | New York, NY |  | Nov 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98916) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | South Jordan, UT |  | Nov 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98842) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | New Orleans, LA +1 |  | Nov 5 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98834) |
+| [Kimley-Horn](https://internscout.org/internships/at/kimley-horn/) | Landscape Architecture Intern | Mobile, Alabama |  | Nov 4 | [Apply](https://careers.kimley-horn.com/jobs/24855) |
 | Logiqal | Quantum Error Correction and Architecture Intern | Princeton, NJ |  | Nov 4 | [Apply](https://go.vansh.nyc/1hg) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live | San Jose, CA |  | Nov 1 | [Apply](https://go.vansh.nyc/18h) |
 | [Divergent Technologies](https://internscout.org/internships/at/divergent-technologies/) | Summer 2027 Learning Architecture and Design Intern | Torrance, California, United States | Paid | Oct 29 | [Apply](https://job-boards.greenhouse.io/divergent/jobs/5393542008) |
@@ -25,6 +27,7 @@
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Edge AI and Display Hardware Architecture Intern | Markham, ON, Canada |  | Oct 21 | [Apply](https://go.vansh.nyc/dY) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems | Markham, ON, Canada |  | Oct 21 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721661830) |
 | [Adobe](https://internscout.org/internships/at/adobe/) | AI & Architecture Intern | San Jose, CA |  | Oct 19 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998) |
+| [Kimley-Horn](https://internscout.org/internships/at/kimley-horn/) | Landscape Architecture Intern | Memphis, Tennessee |  | Oct 15 | [Apply](https://careers.kimley-horn.com/jobs/24918) |
 | [Tenstorrent](https://internscout.org/internships/at/tenstorrent/) | Systems Intern, Validation, Software, Design, Architecture & Packaging | Austin, TX +1 |  | Oct 14 | [Apply](https://go.vansh.nyc/gg) |
 | [Tenstorrent](https://internscout.org/internships/at/tenstorrent/) | Hardware Intern, Architecture, AI HW & SoC | Austin, TX +3 |  | Oct 9 | [Apply](https://go.vansh.nyc/1qf) |
 | [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Design Architecture Engineer Intern | San Jose, CA |  | Oct 6 | [Apply](https://go.vansh.nyc/Fe) |
@@ -35,11 +38,14 @@
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Architecture Research Intern - Architecture - 2027 | Seattle, WA +2 |  | Sep 17 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Architecture---2027_JR2025395) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Enterprise Architecture Intern (Chicago, IL) | Chicago, Illinois |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138733) |
 | AArete | Data Architecture and Engineering Intern | Chicago, IL |  | Sep 8 | [Apply](https://go.vansh.nyc/Mn) |
+| [Kimley-Horn](https://internscout.org/internships/at/kimley-horn/) | Landscape Architecture Intern | San Jose, California | \$31.00/hr | Sep 3 | [Apply](https://careers.kimley-horn.com/jobs/26034) |
+| [Kimley-Horn](https://internscout.org/internships/at/kimley-horn/) | Landscape Architecture Intern | Oakland, California | \$31.00/hr | Sep 3 | [Apply](https://careers.kimley-horn.com/jobs/26033) |
 | [Textron](https://internscout.org/internships/at/textron/) | 2027 Intern - Naval Architecture Engineer (Marine) - New Orleans, LA | New Orleans, Louisiana |  | Sep 1 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342579) |
 | [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Architectural Engineering | Los Angeles, CA | \$28–\$40 per hour | Aug 26 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377117008) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure | Seattle, WA +1 |  | Aug 20 | [Apply](https://lifeattiktok.com/search/7672926068681951493) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - TikTok Search Architecture | San Jose, CA |  | Aug 20 | [Apply](https://lifeattiktok.com/search/7675517686256863541) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Deep Learning Computer Architecture Intern | Santa Clara, CA |  | Aug 19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491) |
+| [Kimley-Horn](https://internscout.org/internships/at/kimley-horn/) | Landscape Architecture Intern | Atlanta, Georgia |  | Aug 17 | [Apply](https://careers.kimley-horn.com/jobs/24822) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Software Engineer Intern - Global Traffic Architecture | San Jose, CA |  | Aug 15 | [Apply](https://jobs.bytedance.com/en/position/7672557061679483189/detail) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Research Engineer Intern - Agentic Systems & AI Infrastructure - Generalized Architecture | Seattle, WA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7667934792727906565) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Data Architecture - E-commerce | Seattle, WA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7668582146236631349) |

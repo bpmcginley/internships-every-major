@@ -1,10 +1,11 @@
 # Product Management: Summer 2027 Internships
 
-178 open Summer 2027 product management roles, newest first (all 178). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 270 product management internships on InternScout](https://internscout.org/internships/product-management/)
+179 open Summer 2027 product management roles, newest first (all 179). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 273 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | Snowflake | Product Management Intern (Summer 2027) | Menlo Park, CA +1 |  | Nov 24 | [Apply](https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf/application) |
+| Intuitive Surgical | Product Management MBA Intern | Sunnyvale, CA |  | Nov 24 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000163546809) |
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Internship - Product Management Intern, Card Tech | New York, NY, United States +1 |  | Nov 24 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4519886009) |
 | [Illumio](https://internscout.org/internships/at/illumio/) | Technical Product Management Intern | Sunnyvale, California - HQ +2 |  | Nov 23 | [Apply](https://jobs.ashbyhq.com/illumio/37c87203-d74b-40f9-8ce6-30559f1594af/application) |
 | [Illumio](https://internscout.org/internships/at/illumio/) | Product Management Intern, Solution Economics | Sunnyvale, California - HQ +2 |  | Nov 23 | [Apply](https://jobs.ashbyhq.com/illumio/96759634-4161-4931-9cf3-5933035be101/application) |
@@ -75,7 +76,7 @@
 | [SOTI](https://internscout.org/internships/at/soti/) | Associate Product Manager Intern | Mississauga, ON, Canada |  | Oct 23 | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614) |
 | OneEthos | Product Management Intern | Remote |  | Oct 21 | [Apply](https://job-boards.greenhouse.io/oneethos/jobs/4459298009) |
 | [Aptiv](https://internscout.org/internships/at/aptiv/) | AI Product Analyst Intern | San Diego, CA |  | Oct 21 | [Apply](https://go.vansh.nyc/dC) |
-| GoFundMe | MBA Product Management Intern | SF |  | Oct 21 | [Apply](https://job-boards.greenhouse.io/gofundme/jobs/8304644) |
+| [GoFundMe](https://internscout.org/internships/at/gofundme/) | MBA Product Management Intern | SF |  | Oct 21 | [Apply](https://job-boards.greenhouse.io/gofundme/jobs/8304644) |
 | Allstate | Product Management Advertising Intern | Illinois |  | Oct 21 | [Apply](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280) |
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program Product Owner Intern | Chicago, IL +1 |  | Oct 20 | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8038087003) |
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | Product Owner Intern, AI Consulting Associate Program | Chicago, IL +1 |  | Oct 20 | [Apply](https://go.vansh.nyc/df) |
@@ -176,9 +177,9 @@
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Recommendation Product Manager Intern - Content Ecosystem | San Jose, CA |  | Aug 4 | [Apply](https://lifeattiktok.com/search/7667874197682899205) |
 | [Appian](https://internscout.org/internships/at/appian/) | Product Manager Intern | McLean, Virginia +1 | \$50.00 per hour | Jul 23 | [Apply](https://job-boards.greenhouse.io/appian/jobs/8041243) |
 | [AMCA](https://internscout.org/internships/at/amca/) | Program Management Internship, Business Operations (Summer 2027) | El Segundo, CA | Paid | May 20 | [Apply](https://job-boards.greenhouse.io/amca/jobs/4253815009) |
-| [Shure](https://internscout.org/internships/at/shure/) | Global Product Management Intern (Conferencing) | Niles, IL | \$23-\$43 per hour | Nov 24, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4990/global-product-management-intern-%28conferencing%29/job) |
-| [Shure](https://internscout.org/internships/at/shure/) | Global Product Management Data Intern | Niles, IL | \$23-\$43 per hour | Nov 24, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5024/global-product-management-data-intern/job) |
-| [Databricks](https://internscout.org/internships/at/databricks/) | Product Management Intern (Summer 2027) | Bellevue, Washington +5 |  | Aug 17, 2023 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) |
+| [Shure](https://internscout.org/internships/at/shure/) | Global Product Management Intern (Conferencing) | Niles, IL | \$23-\$43 per hour | Nov 25, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4990/global-product-management-intern-%28conferencing%29/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Global Product Management Data Intern | Niles, IL | \$23-\$43 per hour | Nov 25, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5024/global-product-management-data-intern/job) |
+| [Databricks](https://internscout.org/internships/at/databricks/) | Product Management Intern (Summer 2027) | Bellevue, Washington +5 | \$51.50 | Aug 17, 2023 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Program Management Intern | Kirkland, WA +1 |  | Oct 20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Program-Management-Intern-WA-98033/1449176233/) |
 | [Tyler Technologies](https://internscout.org/internships/at/tyler-technologies/) | Product Analyst Intern, Summer 2027 | Plano, Texas |  | Sep 21 | [Apply](https://jobs.jobvite.com/tylertech/job/oSAPAfwB/apply) |
 | [Allied Solutions](https://internscout.org/internships/at/allied-solutions/) | Product Management Intern - Risk Management | St. Paul, MN +1 |  | Sep 18 | [Apply](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083) |

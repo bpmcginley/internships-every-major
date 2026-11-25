@@ -1,6 +1,6 @@
 # Physics: Summer 2027 Internships
 
-20 open Summer 2027 physics roles, newest first (all 20). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 63 physics internships on InternScout](https://internscout.org/internships/physics/)
+21 open Summer 2027 physics roles, newest first (all 21). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 64 physics internships on InternScout](https://internscout.org/internships/physics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Corning](https://internscout.org/internships/at/corning/) | R&D Intern, Optical Communications Development - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Nov 6 | [Apply](https://corningjobs.corning.com/job/Corning-R&D-Intern%2C-Optical-Communications-Development-Summer-2027-NY-14831/1448753800/) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Device Engineer Intern - Silicon Photonics | Malta, NY |  | Nov 6 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604264) |
 | Metalenz | Optical Metrology Intern Summer 2027 | Boston, MA +1 | \$5,500 - \$8,500 per month | Nov 5 | [Apply](https://jobs.ashbyhq.com/metalenz/ecc0e9f9-e83e-4d72-abff-0bf6651850d4/application) |
+| [Draper](https://internscout.org/internships/at/draper/) | Optics-Physics Sensor Engineering Intern (Summer 2027) | Cambridge, MA |  | Nov 4 | [Apply](https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Intern--Summer-2027-_JR003094) |
 | [Draper](https://internscout.org/internships/at/draper/) | Optics-Physics Sensor Engineer Intern | Cambridge, MA |  | Nov 4 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Intern--Summer-2027-_JR003094) |
 | [Corning](https://internscout.org/internships/at/corning/) | Optical Design Intern - Summer 2027 | Fairport, NY | \$1,635.00 - \$3,185.00 | Nov 4 | [Apply](https://corningjobs.corning.com/job/Fairport-Optical-Design-Intern-Summer-2027-NY-14450/1437588500/) |
 | Metalenz | Meta-Optics Intern Summer 2027 | Boston, MA +1 | \$5,500 - \$8,500 per month | Nov 2 | [Apply](https://jobs.ashbyhq.com/metalenz/c8150d66-9f72-4508-ac94-8a7efa54e206/application) |

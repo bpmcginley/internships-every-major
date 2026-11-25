@@ -1,6 +1,6 @@
 # Sustainability: Summer 2027 Internships
 
-65 open Summer 2027 sustainability roles, newest first (all 65). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 98 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+66 open Summer 2027 sustainability roles, newest first (all 66). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 105 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Technical Services - 2027 Summer Student Program | Houston, TX |  | Sep 8 | [Apply](https://aramcoservices.applytojob.com/apply/KVQYkcqzGr/Technical-Services-2027-Summer-Student-Program) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern -Permitting | HOUSTON, Texas |  | Sep 2 | [Apply](https://careers.kindermorgan.com/jobs/6174) |
 | Tarrant Regional Water District | Energy Intern | Fort Worth, TX |  | Sep 1 | [Apply](https://trwd.wd1.myworkdayjobs.com/TRWDCareers/job/Fort-Worth-TX/Summer-2027-Energy-Intern--T047-_JR100217) |
-| [Shure](https://internscout.org/internships/at/shure/) | Data Driven Sustainability Intern | Niles, IL | \$23-\$43 per hour | Nov 24, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4979/data-driven-sustainability-intern/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Data Driven Sustainability Intern | Niles, IL | \$23-\$43 per hour | Nov 25, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4979/data-driven-sustainability-intern/job) |
+| [Moss & Associates](https://internscout.org/internships/at/moss-associates/) | Energy Internship: Summer 2027 | FLORIDA |  | Nov 25 | [Apply](https://mosscm.wd1.myworkdayjobs.com/moss_careers/job/FLORIDA/Energy-Internship--Summer-2027_R-2719) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
