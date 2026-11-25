@@ -1,6 +1,6 @@
 # Insurance: Summer 2027 Internships
 
-23 open Summer 2027 insurance roles, newest first (all 23). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 36 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+22 open Summer 2027 insurance roles, newest first (all 22). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 33 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -25,7 +25,6 @@
 | [Northmarq](https://internscout.org/internships/at/northmarq/) | Insurance Intern, Summer 2027 | Minneapolis, Minnesota, United States | \$22.00 per hour | Aug 25 | [Apply](https://job-boards.greenhouse.io/northmarq/jobs/5406134008) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Actuarial Intern - Summer 2027 | Addison, TX +1 | Paid | Aug 19 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4376293009) |
 | GuideWell Mutual | 2027 Actuarial Summer Internship | Jacksonville, FL |  | Aug 18 | [Apply](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41855) |
-| Jencap | 2027 Summer Insurance Internship | Atlanta, GA +3 |  | Jul 29 | [Apply](https://job-boards.greenhouse.io/jencapinc/jobs/5198365007) |
 | [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Global Risk Solutions Claims Internship - Summer 2027 | Plano, TX +5 |  | Nov 24, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261686/global-risk-solutions-claims-internship---summer-2027/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

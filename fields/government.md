@@ -1,6 +1,6 @@
 # Government and Public Policy: Summer 2027 Internships
 
-38 open Summer 2027 government and public policy roles, newest first (all 38). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 211 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+38 open Summer 2027 government and public policy roles, newest first (all 38). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 216 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Securities and Exchange Commission](https://internscout.org/internships/at/securities-and-exchange-commission/) | Summer 2027 SEC Scholars Legal Program- HQ (1L, 2L, 3L, or LL.M.) (Volunteer) | Washington, District of Columbia |  | Nov 9 | [Apply](https://www.usajobs.gov:443/job/891903400) |
 | [Securities and Exchange Commission](https://internscout.org/internships/at/securities-and-exchange-commission/) | Summer 2027 SEC Scholars Business Program- HQ (Volunteer) | Washington, District of Columbia |  | Nov 9 | [Apply](https://www.usajobs.gov:443/job/891901100) |
 | [The Federal Reserve System](https://internscout.org/internships/at/the-federal-reserve-system/) | Knowledge and Information Management Intern | Atlanta, GA |  | Nov 5 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship---Knowledge-and-Information-Management-Intern_R-0000033908) |
-| Dept Of Design & Construction | College Aide (Graduate) | New York, NY | \$17.5 - \$21.9 Hour | Nov 4 | [Apply](https://cityjobs.nyc.gov/job/786359) |
+| Dept Of Design & Construction | College Aide (Graduate) | New York, NY | \$17.5 - \$21.9 Hour | Nov 4 | [Apply](https://cityjobs.nyc.gov/job/786351) |
 | Indian Health Service | Student Trainee (IHS Extern) | Salt Lake City, Utah +18 | \$35395 - \$97087 Per Year | Nov 2 | [Apply](https://www.usajobs.gov:443/job/891279900) |
 | National Institute of Standards and Technology | Summer High-school Intern Program (SHIP) -Gaithersburg, MD (Volunteer; STEM Fields) | Gaithersburg, Maryland |  | Oct 31 | [Apply](https://www.usajobs.gov:443/job/891154500) |
 | National Institute of Standards and Technology | Summer High-school Intern Program (SHIP) - Boulder, CO (Volunteer; STEM Fields) | Boulder, Colorado |  | Oct 31 | [Apply](https://www.usajobs.gov:443/job/891154800) |

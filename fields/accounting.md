@@ -1,6 +1,6 @@
 # Accounting: Summer 2027 Internships
 
-71 open Summer 2027 accounting roles, newest first (all 71). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 159 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+70 open Summer 2027 accounting roles, newest first (all 70). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 159 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -21,7 +21,6 @@
 | [HF Sinclair](https://internscout.org/internships/at/hf-sinclair/) | Accounting Intern | Dallas, TX |  | Nov 12 | [Apply](https://careers.hfsinclair.com/job/Dallas-Accounting-Intern-TX-75219/1430072000/) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Summer 2027: Accounting Intern (May through August) | Needham, MA, United States |  | Nov 10 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727347006) |
 | [GCM Grosvenor](https://internscout.org/internships/at/gcm-grosvenor/) | 2027 Fund Accounting Summer Intern | Chicago, Illinois, United States |  | Nov 6 | [Apply](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/7989281003) |
-| Hilcorp | I-26136 - Tax Intern - Summer 2027 | Houston, TX |  | Nov 3 | [Apply](https://hec.wd5.myworkdayjobs.com/hilcorp_energy_company/job/Houston-TX/I-26136---Tax-Intern---Summer-2027_R006520-1) |
 | [Grant Thornton](https://internscout.org/internships/at/grant-thornton/) | Risk Advisory Intern - Summer 2027 | Denver, CO | \$37 per hour | Nov 2 | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115684) |
 | [Grant Thornton](https://internscout.org/internships/at/grant-thornton/) | Audit IT Assurance Intern - Summer 2027 | Tulsa, OK |  | Nov 2 | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116239) |
 | [Trilogy Health Services](https://internscout.org/internships/at/trilogy-health-services/) | Accounting Intern | Louisville, Kentucky | Paid | Oct 30 | [Apply](https://jobs.trilogyhs.com/jobs/213299) |

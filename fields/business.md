@@ -1,9 +1,10 @@
 # Business: Summer 2027 Internships
 
-32 open Summer 2027 business roles, newest first (all 32). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 65 business internships on InternScout](https://internscout.org/internships/business/)
+32 open Summer 2027 business roles, newest first (all 32). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 61 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Intern-Business Performance | Detroit, MI |  | Nov 24 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14911) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - MBA (Rosemead) | Rosemead, CA |  | Nov 23 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-MBA-%28Rosemead%29-CA-91770-3714/1424643100/) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 Business Management Summer Internship - Busn MGMT Intrn | Newport News, Virginia | \$39,000.00 to \$60,000.00 | Nov 23 | [Apply](https://careers.huntingtoningalls.com/job/Newport-News-2027-BUSINESS-MANAGEMENT-SUMMER-INTERNSHIP-BUSN-MGMT-INTRN-Virg/1424487600/) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Business Administration (Irwindale/Pomona/Rosemead) | Irwindale, CA |  | Nov 21 | [Apply](https://apply.edisoncareers.com/job/Irwindale-2027-Summer-Internship-Business-Administration-%28IrwindalePomonaRosemead%29-CA-91702/1423552200/) |
@@ -12,7 +13,7 @@
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - MBA (Pomona/Rosemead) | Rosemead, CA |  | Nov 20 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-MBA-%28PomonaRosemead%29-CA-91770-3714/1423266700/) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Tapeout Engineering Business Products & Engineering Intern | Austin, TX |  | Nov 17 | [Apply](https://go.vansh.nyc/1Bc) |
 | [Duetti](https://internscout.org/internships/at/duetti/) | 2027 Summer Internship (MBA) - Product | New York, NY +1 | Paid | Nov 16 | [Apply](https://jobs.lever.co/duetti/cbc1ad6f-ec3d-42d8-8a53-9cd2712787b2/apply) |
-| [Formlabs](https://internscout.org/internships/at/formlabs/) | Go-to-Market MBA Intern (Summer 2027) | Somerville, MA |  | Nov 16 | [Apply](https://careers.formlabs.com/job/8385574/apply/?gh_jid=8385574) |
+| [Formlabs](https://internscout.org/internships/at/formlabs/) | Go-to-Market MBA Intern (Summer 2027) | Somerville, MA | \$2,750 | Nov 16 | [Apply](https://careers.formlabs.com/job/8385574/apply/?gh_jid=8385574) |
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 MBA Internship - Partnerships & Licensing Intern | Los Angeles, CA, United States |  | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507489009) |
 | [Duetti](https://internscout.org/internships/at/duetti/) | 2027 Summer Internship (MBA) - Catalog Management | New York, NY | Paid | Nov 12 | [Apply](https://jobs.lever.co/duetti/f1d90507-8448-4fc7-9e8c-feca03d6c35e/apply) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 Summer College Intern - Business | Pascagoula, Mississippi |  | Nov 12 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-SUMMER-COLLEGE-INTERN-BUSINESS-Miss/1430057000/) |
@@ -24,7 +25,6 @@
 | Chatham Financial | 2027 Business Intern- Centennial, CO | Denver | \$30 hour | Oct 29 | [Apply](https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Denver/XMLNAME-2027-Business-Intern--Centennial--CO_R-100345) |
 | Chatham Financial | 2027 Business Intern- Charlotte, NC | Charlotte |  | Oct 29 | [Apply](https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Charlotte/XMLNAME-2027-Business-Intern--Charlotte--NC_R-100344) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Business Administration (Montebello) | Monterey Park, CA |  | Oct 28 | [Apply](https://apply.edisoncareers.com/job/Monterey-Park-2027-Summer-Internship-Business-Administration-%28Montebello%29-CA-91754/1444804800/) |
-| [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Business Administration (Whittier) | Santa Fe Springs, CA |  | Oct 28 | [Apply](https://apply.edisoncareers.com/job/Santa-Fe-Springs-2027-Summer-Internship-Business-Administration-%28Whittier%29-CA-90670/1425068100/) |
 | [Ursa Major](https://internscout.org/internships/at/ursa-major/) | 2027 Summer Business Process & ERP Documentation Intern | Berthoud, Colorado | \$30.00/hour | Oct 22 | [Apply](https://ursamajor.com/careers/?gh_jid=4746844005) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Business Partner Optimization | Detroit, MI |  | Oct 8 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14782) |
 | Franklin Electric | Global Business Strategy Development Intern | Fort Wayne, IN |  | Sep 23 | [Apply](https://franklin-electric.pinpointhq.com/en/postings/a8e0afdd-63ce-4817-aaca-056018010f06?ats=pinpointhq) |

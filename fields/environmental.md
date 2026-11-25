@@ -1,15 +1,16 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-141 open Summer 2027 environmental science and engineering roles, newest first (all 141). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 293 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+140 open Summer 2027 environmental science and engineering roles, newest first (all 140). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 293 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Lakewood, Colorado | \$20.00 | Nov 24 | [Apply](https://careers.trccompanies.com/jobs/30480) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Safety Intern | Maitland, Florida | \$20.00 | Nov 24 | [Apply](https://careers.trccompanies.com/jobs/30282) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Environmental Health and Safety Intern - Covington, GA | Covington, GA |  | Nov 24 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625214) |
 | [S&C Electric Company](https://internscout.org/internships/at/s-c-electric-company/) | Health & Safety Intern | Chicago, IL | \$22 - 30 per hour | Nov 23 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107376) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Water Resources Engineering Intern - Summer 2027 | Redmond, WA +1 | \$23.03 - \$32.22 | Nov 23 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99828) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Hydrogeology Intern – Energy & Resources (Summer 2027) | Salt Lake City, UT |  | Nov 23 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008923) |
-| [The Allen Institute for AI](https://internscout.org/internships/at/the-allen-institute-for-ai/) | Research Internship, Climate Modeling | Seattle, WA | \$94,320 | Nov 20 | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8404052) |
+| The Allen Institute for AI | Research Intern - Climate Modeling | Seattle, WA |  | Nov 20 | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8404052) |
 | [Corning](https://internscout.org/internships/at/corning/) | Environmental Health & Safety Intern - Summer 2027 | Newton, NC | \$1,635.00 - \$3,185.00 | Nov 20 | [Apply](https://corningjobs.corning.com/job/Newton-Environmental-Health-&-Safety-Intern-Summer-2027-NC-28658/1452790100/) |
 | [Corning](https://internscout.org/internships/at/corning/) | Environment, Health, and Safety Intern - Summer 2027 | Hickory, NC | \$1,635.00 - \$3,185.00 | Nov 20 | [Apply](https://corningjobs.corning.com/job/Hickory-Environment%2C-Health%2C-and-Safety-Intern-Summer-2027-NC-28601/1452784500/) |
 | [Corning](https://internscout.org/internships/at/corning/) | Environmental Health and Safety Intern - Summer 2027 | Winston-Salem, NC | \$1,635.00 - \$3,185.00 | Nov 20 | [Apply](https://corningjobs.corning.com/job/Winston-Salem-Environmental-Health-and-Safety-Intern-Summer-2027-NC-27107/1452796900/) |
@@ -40,7 +41,6 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Renewable Energy Intern - Houston Office | Houston, Texas +1 | Paid | Nov 4 | [Apply](https://jobs.constellationenergy.com/jobs/141851) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Water Resources Engineering Intern- Summer 2027 | New York, NY |  | Nov 4 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98676) |
 | [Berkshire Hathaway Energy](https://internscout.org/internships/at/berkshire-hathaway-energy/) | Intern - Renewable Generation Performance | Des Moines, IA |  | Nov 4 | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006008) |
-| [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Miami, Florida | \$36.96 | Nov 3 | [Apply](https://careers.cdmsmith.com/jobs/4916) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Sustainability & Energy Engineering Intern | St. Louis, MO +3 | \$22.00–\$24.00 per hour | Nov 3 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Sustainability---Energy-Engineering-Intern_R-16761) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Masters Environmental Engineering Intern (Summer 2027!) | Austin, Texas | \$38.72 | Nov 2 | [Apply](https://careers.cdmsmith.com/jobs/4141) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | West Allis, Wisconsin | \$20.00 | Oct 30 | [Apply](https://careers.trccompanies.com/jobs/27681) |
@@ -109,7 +109,6 @@
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Exton, Pennsylvania | \$20.00 | Sep 22 | [Apply](https://careers.trccompanies.com/jobs/26919) |
 | [Dallas Fort Worth International Airport](https://internscout.org/internships/at/dallas-fort-worth-international-airport/) | Undergraduate Internship - Environmental Technical Projects | Dallas, TX |  | Sep 22 | [Apply](https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Internship---Environmental-Technical-Projects_JR102144) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Richmond, Virginia | \$20.00 | Sep 21 | [Apply](https://careers.trccompanies.com/jobs/26862) |
-| [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Lakewood, Colorado | \$20.00 | Sep 21 | [Apply](https://careers.trccompanies.com/jobs/26805) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: Renewables Intern | Northbrook, IL +1 | \$23.00-\$25.00 | Sep 18 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10867) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Latham, New York | \$40.48 | Sep 15 | [Apply](https://careers.cdmsmith.com/jobs/4509) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Manchester, New Hampshire | \$35.20 | Sep 15 | [Apply](https://careers.cdmsmith.com/jobs/4376) |

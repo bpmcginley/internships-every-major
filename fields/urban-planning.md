@@ -1,6 +1,6 @@
 # Urban Planning: Summer 2027 Internships
 
-35 open Summer 2027 urban planning roles, newest first (all 35). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 65 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+34 open Summer 2027 urban planning roles, newest first (all 34). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 64 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -26,7 +26,6 @@
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Community Development (Summer 2027) | Pasadena, CA |  | Oct 27 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008346) |
 | [Nissan Global](https://internscout.org/internships/at/nissan-global/) | Aftersales Business Planning Intern | Franklin, TN |  | Oct 14 | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Aftersales-Business-Planning-Intern---Summer-2027---Franklin--TN_R00214226) |
 | [Nissan Global](https://internscout.org/internships/at/nissan-global/) | Product Planning Intern | Franklin, TN |  | Oct 7 | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Product-Planning-Intern---Summer-2027---Franklin--TN_R00214297) |
-| Clēnera | Investment Planning Intern (Summer 2027) | Boise, Idaho, United States |  | Oct 6 | [Apply](https://job-boards.greenhouse.io/clenera/jobs/5259353007) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Community Development (Summer 2027) | Portland, OR |  | Oct 5 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008051) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Masters - Transportation Planning Intern (Summer 2027!) | Hartford, Connecticut | \$41.63 | Oct 2 | [Apply](https://careers.cdmsmith.com/jobs/4693) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Internship - Community Development (Summer 2027) | Des Moines, IA |  | Sep 24 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007994) |
@@ -36,7 +35,7 @@
 | HNTB | GIS Intern - Summer 2027 | Nashville, TN |  | Sep 11 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Nashville-TN-City-Center/GIS-Intern---Summer-2027_R-31562-2) |
 | HNTB | GIS Intern | Nashville, TN |  | Sep 11 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Nashville-TN-City-Center/GIS-Intern---Summer-2027_R-31562) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Masters - Transportation Planning Intern (Summer 2027!) | Indianapolis, Indiana | \$36.20 | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/4371) |
-| [Esri](https://internscout.org/internships/at/esri/) | GIS Engineering Internship | Redlands, CA | Paid | Aug 25 | [Apply](https://job-boards.greenhouse.io/studentprogram/jobs/5217904007) |
+| [Esri](https://internscout.org/internships/at/esri/) | GIS Engineer Intern | Redlands, CA |  | Aug 25 | [Apply](https://job-boards.greenhouse.io/studentprogram/jobs/5217904007) |
 | [Southern Star Central Gas Pipeline](https://internscout.org/internships/at/southern-star-central-gas-pipeline/) | Intern, GIS Analyst | Owensboro, KY |  | Nov 24, 2024 | [Apply](https://careers-sscgp.icims.com/jobs/3036/intern%2c-gis-analyst/job) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Planning Intern \| Fort Lauderdale, FL | Fort Lauderdale, FL | Paid | Sep 18 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Fort-Lauderdale-FL/Planning-Intern---Fort-Lauderdale--FL_R-16509) |
 

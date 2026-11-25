@@ -1,31 +1,35 @@
 # Hardware Engineering: Summer 2027 Internships
 
-272 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 272). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 683 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+276 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 276). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 682 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Intel](https://internscout.org/internships/at/intel/) | Design Verification Intern | Fort Collins, CO +3 |  | Nov 24 | [Apply](https://go.vansh.nyc/1Ie) |
+| [Altera](https://internscout.org/internships/at/altera/) | Embedded Solutions Intern | Toronto, Canada |  | Nov 24 | [Apply](https://go.vansh.nyc/1Ii) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Firmware Engineering Intern, Advanced Development | Needham, MA |  | Nov 24 | [Apply](https://go.vansh.nyc/1HJ) |
+| [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Firmware Engineer Intern - Advanced Development | Needham, MA |  | Nov 24 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006) |
 | Contoro Robotics | Robotics Software Engineer Intern, Autonomy & Automation | Austin, TX |  | Nov 23 | [Apply](https://go.vansh.nyc/1Hp) |
-| [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Summer 2027: Firmware Engineering Intern, Advanced Development (May to August) | Needham, MA, United States +1 |  | Nov 23 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006) |
+| [Philips](https://internscout.org/internships/at/philips/) | Embedded Software Development Intern, AI-Agentic | Bothell, WA |  | Nov 23 | [Apply](https://go.vansh.nyc/1Ij) |
 | Neogen | Embedded Systems Engineer Intern | Oakdale, MN |  | Nov 22 | [Apply](https://go.vansh.nyc/1Gp) |
 | [MITRE](https://internscout.org/internships/at/mitre/) | Embedded Security Intern, Electronics Prototype | Bedford, MA |  | Nov 22 | [Apply](https://go.vansh.nyc/1GA) |
-| Neros Technologies | Firmware/Embedded Software Engineer Intern - Summer 2027 | Torrance, California, United States +1 | \$55.00/hr | Nov 21 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) |
+| Neros Technologies | Firmware/Embedded Software Engineer Intern | Torrance, CA |  | Nov 22 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) |
 | TASI Measurement | Embedded Engineer Intern | Kent, WA |  | Nov 20 | [Apply](https://go.vansh.nyc/1Fr) |
 | [Rockwell Automation](https://internscout.org/internships/at/rockwell-automation/) | Firmware Engineering Intern | Milwaukee, WI |  | Nov 20 | [Apply](https://go.vansh.nyc/1Ey) |
 | Cadence | Software Engineering Intern, Circuit Simulation Infrastructure | San Jose, CA |  | Nov 20 | [Apply](https://go.vansh.nyc/1EP) |
 | [Honeywell Aerospace](https://internscout.org/internships/at/honeywell-aerospace/) | Semiconductor Engineer Intern | United States |  | Nov 20 | [Apply](https://go.vansh.nyc/1E3) |
 | [Altera](https://internscout.org/internships/at/altera/) | FPGA Software Engineer Intern | Toronto, Canada |  | Nov 20 | [Apply](https://go.vansh.nyc/1Et) |
 | Microchip Technology | ASIC Verification Engineer Intern | San Jose, CA |  | Nov 20 | [Apply](https://go.vansh.nyc/1F9) |
+| [Lucid Motors](https://internscout.org/internships/at/lucid-motors/) | Embedded Software Intern | Newark, CA |  | Nov 19 | [Apply](https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007) |
 | [Lutron](https://internscout.org/internships/at/lutron/) | Embedded Software Engineering Intern | Cincinnati, OH |  | Nov 19 | [Apply](https://go.vansh.nyc/1De) |
 | [Lutron](https://internscout.org/internships/at/lutron/) | Embedded Firmware Engineering Intern | Boston, MA +2 |  | Nov 19 | [Apply](https://go.vansh.nyc/1Db) |
-| [Lucid Motors](https://internscout.org/internships/at/lucid-motors/) | Intern, Embedded Software, Summer 2027 | Newark, CA | \$53 to \$72 | Nov 19 | [Apply](https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007) |
+| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Silicon Validation & Test Automation Intern | Mountain View, CA |  | Nov 19 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473832008) |
 | Georgian Partners Growth | Physical AI & Robotics Intern (2027) | Toronto, Ontario +2 | Paid | Nov 19 | [Apply](https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228/application) |
-| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Silicon Validation & Test Automation, Intern Summer 2027 | Mountain View, CA | Paid | Nov 19 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473832008?gh_jid=5473832008) |
-| [Scout Space](https://internscout.org/internships/at/scout-space/) | Embedded Firmware Engineering Intern (Summer 2027) | Reston, VA +2 |  | Nov 19 | [Apply](https://job-boards.greenhouse.io/scoutspace/jobs/5489232008) |
+| [Scout Space](https://internscout.org/internships/at/scout-space/) | Embedded Firmware Engineer Intern | Reston, VA |  | Nov 19 | [Apply](https://job-boards.greenhouse.io/scoutspace/jobs/5489232008) |
+| [Scout Space](https://internscout.org/internships/at/scout-space/) | Embedded Firmware Engineering Intern | Reston, VA +2 |  | Nov 19 | [Apply](https://go.vansh.nyc/1CU) |
 | [Toyota Research Institute](https://internscout.org/internships/at/toyota-research-institute/) | Robotics Intern, Generalist Robot Learning (GRL) | Los Altos, CA |  | Nov 18 | [Apply](https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply) |
 | [Samsung Semiconductor](https://internscout.org/internships/at/samsung-semiconductor/) | SSD Firmware Engineer Intern | San Jose, CA |  | Nov 18 | [Apply](https://go.vansh.nyc/1Cu) |
+| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Photonics Circuit Simulation Intern | Mountain View, CA |  | Nov 18 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479849008) |
 | [Viavi Solutions](https://internscout.org/internships/at/viavi-solutions/) | Robotics Intern | Bothell, WA |  | Nov 18 | [Apply](https://go.vansh.nyc/1Ci) |
-| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Photonics Circuit Simulation Intern – Summer 2027 | Mountain View, CA | Paid | Nov 18 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479849008?gh_jid=5479849008) |
 | [Microsoft](https://internscout.org/internships/at/microsoft/) | Research Intern, Firmware Security | Redmond, WA |  | Nov 17 | [Apply](https://go.vansh.nyc/1BR) |
 | Warp Sciences | Member of Technical Staff Intern, Robotics Learning | South San Francisco, CA |  | Nov 17 | [Apply](https://go.vansh.nyc/1Br) |
 | [Toyota Research Institute](https://internscout.org/internships/at/toyota-research-institute/) | Robotics Intern, Agentic Robotics | Cambridge, MA |  | Nov 17 | [Apply](https://go.vansh.nyc/1Bk) |
@@ -37,15 +41,15 @@
 | [Ralliant](https://internscout.org/internships/at/ralliant/) | Hardware Verification Engineer Co-op (Summer 2027) | Solon, OH |  | Nov 16 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10491) |
 | [Integration Innovation (i3)](https://internscout.org/internships/at/integration-innovation-i3/) | Embedded Systems Reverse Engineer Intern | Washington, D.C. +1 | \$25-48/hour | Nov 16 | [Apply](https://i3-corps.jibeapply.com/jobs/5588) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Robotics Applied Scientist 2 Intern - Robotics | Seattle, WA +5 |  | Nov 13 | [Apply](https://amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states) |
-| Renesas Electronics | Power Management Integrated Circuit Analog Intern | San Jose, CA +2 |  | Nov 13 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000161574999) |
 | [Samsung Semiconductor](https://internscout.org/internships/at/samsung-semiconductor/) | SSD Firmware Development Intern | San Jose, CA |  | Nov 13 | [Apply](https://go.vansh.nyc/1z0) |
 | [Reliable Robotics](https://internscout.org/internships/at/reliable-robotics/) | FPGA Engineering Intern (Summer 2027) | Mountain View, CA +1 |  | Nov 13 | [Apply](https://jobs.ashbyhq.com/reliable-robotics/131987a0-ede9-4291-9cd2-1aaadabd2a54/application) |
 | [Reliable Robotics](https://internscout.org/internships/at/reliable-robotics/) | Hardware Test Engineering Intern (Summer 2027) | Mountain View, CA +1 |  | Nov 13 | [Apply](https://jobs.ashbyhq.com/reliable-robotics/0af72d5a-87b7-49a1-b49e-424d28758c9e/application) |
 | [Shield AI](https://internscout.org/internships/at/shield-ai/) | 2027 June Co-op - Hardware Test - #6426 | Dallas, TX, US +2 |  | Nov 12 | [Apply](https://jobs.ashbyhq.com/shield/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application) |
 | [Entegris](https://internscout.org/internships/at/entegris/) | Embedded Software Engineering Intern | Bloomington, MN |  | Nov 12 | [Apply](https://go.vansh.nyc/1wx) |
 | [CACI](https://internscout.org/internships/at/caci/) | Embedded Software Development Intern | Westminster, CO +1 |  | Nov 12 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147) |
-| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Analog Engineering Intern - Summer 2027 | Boston, MA +1 | Paid | Nov 11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5475081008?gh_jid=5475081008) |
-| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Analog Engineering Intern - Summer 2027 | Mountain View, CA | Paid | Nov 11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473774008?gh_jid=5473774008) |
+| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Analog Engineer Intern | Boston, MA +1 |  | Nov 11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5475081008) |
+| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Analog Engineering Intern - Summer 2027 | Mountain View, CA |  | Nov 11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473774008) |
+| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Analog Engineering Intern | Mountain View, CA |  | Nov 11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473749008) |
 | [Astranis](https://internscout.org/internships/at/astranis/) | Embedded Software Developer, Network/Payload Intern (Summer 2027) | San Francisco +2 | \$29.00 per hour | Nov 10 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704569006) |
 | Ixana | Embedded Hardware Engineer Intern, FPGA Design | West Lafayette, IN |  | Nov 10 | [Apply](https://go.vansh.nyc/1qS) |
 | Ixana | Embedded Software Engineer Intern, Wearables and IoT | West Lafayette, IN |  | Nov 10 | [Apply](https://go.vansh.nyc/1qR) |
@@ -99,8 +103,8 @@
 | [Draper](https://internscout.org/internships/at/draper/) | Analog ASIC Design Intern | Cambridge, MA |  | Oct 28 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Analog-ASIC-Design-Intern--Summer-2027-_JR003085) |
 | WorldEngine AI | Research Intern, Robotics Data - Real-to-Sim | San Francisco, CA |  | Oct 28 | [Apply](https://go.vansh.nyc/Xy) |
 | Toshiba International Corporation | Firmware Engineer Intern | San Jose, CA |  | Oct 27 | [Apply](https://go.vansh.nyc/11O) |
+| HP IQ | Electrical Engineer Intern - Hardware | SF |  | Oct 27 | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6116396004) |
 | stealth-startup-community | Embedded Firmware and Controls Engineer Intern | Austin, TX |  | Oct 27 | [Apply](https://go.vansh.nyc/X4) |
-| [HP IQ](https://internscout.org/internships/at/hp-iq/) | Electrical Engineering Intern, Hardware (Summer 2027) | San Francisco, CA +1 | \$40.00–\$50.00 per hour | Oct 26 | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6116396004) |
 | [Toyota Research Institute](https://internscout.org/internships/at/toyota-research-institute/) | Robotics Intern, Trustworthy Learning under Uncertainty | Los Altos, CA |  | Oct 26 | [Apply](https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424/apply) |
 | [Toyota Research Institute](https://internscout.org/internships/at/toyota-research-institute/) | Robotics Intern, World Foundation Models | Los Altos, CA |  | Oct 26 | [Apply](https://jobs.lever.co/tri/016bbb58-857a-4367-b1aa-0cdc9f818478/apply) |
 | Cadence | CST Application Engineer Intern, Silicon | San Jose, CA |  | Oct 26 | [Apply](https://go.vansh.nyc/Sz) |
@@ -125,10 +129,10 @@
 | [Skydio](https://internscout.org/internships/at/skydio/) | Wireless Hardware Engineer Intern - Summer 2027 | San Mateo, California, United States +3 | \$47/hr | Oct 20 | [Apply](https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea/application) |
 | [Rockwell Automation](https://internscout.org/internships/at/rockwell-automation/) | Hardware Development Engineer Intern | Mayfield Heights, OH |  | Oct 20 | [Apply](https://go.vansh.nyc/d1) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | Embedded Software Engineer Intern | Roseville, CA |  | Oct 20 | [Apply](https://go.vansh.nyc/dn) |
+| The Allen Institute for AI | Research Intern - Robotics | Seattle, WA |  | Oct 19 | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293641) |
 | [Keysight Technologies](https://internscout.org/internships/at/keysight-technologies/) | R&D Hardware Engineer Intern | Santa Clara, CA |  | Oct 19 | [Apply](https://go.vansh.nyc/ce) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | QDSP Hardware Physical Design Intern | Markham, ON, Canada |  | Oct 19 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721636316) |
 | [Heron Power](https://internscout.org/internships/at/heron-power/) | Firmware Engineering Intern | Scotts Valley, CA |  | Oct 19 | [Apply](https://go.vansh.nyc/by) |
-| [The Allen Institute for AI](https://internscout.org/internships/at/the-allen-institute-for-ai/) | Research Internship, Robotics | Seattle, WA | \$94,320 | Oct 19 | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293641) |
 | [Bosch](https://internscout.org/internships/at/bosch/) | Embedded AI Software Engineering Co-op | Fountain Inn, SC |  | Oct 19 | [Apply](https://go.vansh.nyc/1tK) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | Hardware Engineering Design Intern | Roseville, CA |  | Oct 19 | [Apply](https://go.vansh.nyc/c3) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | ASIC Verification Intern | Toronto, ON, Canada |  | Oct 19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982) |
@@ -136,11 +140,11 @@
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Hardware Engineering Intern, CPU, GPU, SoC, Digital Design, DV | San Diego, CA +4 |  | Oct 18 | [Apply](https://go.vansh.nyc/Ru) |
 | AGCO | Embedded Software Engineer Intern | Hesston, KS +1 |  | Oct 16 | [Apply](https://careers.agcocorp.com/job/Hesston-Embedded-Software-Engineering-Intern-Summer-2027-KS-67062/1440993300/?ats=successfactors) |
 | [ADT](https://internscout.org/internships/at/adt/) | Hardware Engineering & Connected Devices Intern | Boca Raton, FL |  | Oct 16 | [Apply](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022475) |
+| [Inversion Space](https://internscout.org/internships/at/inversion-space/) | Avionics Embedded Software Engineer Intern | Playa Vista, LA +1 |  | Oct 16 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4744391005) |
 | SiTime | ASIC Digital Verification Engineer Intern | Ottawa, Canada |  | Oct 16 | [Apply](https://go.vansh.nyc/1nc) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Foundation IP Design Verification Intern | Santa Clara, CA |  | Oct 16 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Foundation-IP-Design-Verification-Intern--Summer-2027-_JR-2604356) |
-| [Inversion Space](https://internscout.org/internships/at/inversion-space/) | Avionics Embedded Software Engineer - Summer Internship 2027 | Playa Vista, California, United States +2 | Paid | Oct 15 | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4744391005) |
 | [Figure](https://internscout.org/internships/at/figure/) | Embedded Software Engineer Intern, Platform | San Jose, CA |  | Oct 14 | [Apply](https://go.vansh.nyc/Cq) |
-| [Indie](https://internscout.org/internships/at/indie/) | Design Verification Engineer Intern | Aliso Viejo, CA |  | Oct 14 | [Apply](https://go.vansh.nyc/1td) |
+| Indie | Design Verification Engineer Intern | Aliso Viejo, CA |  | Oct 14 | [Apply](https://go.vansh.nyc/1td) |
 | [Formlabs](https://internscout.org/internships/at/formlabs/) | Hardware Systems Integration Intern (Summer 2027) | Somerville, MA |  | Oct 14 | [Apply](https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Hardware Development Engineer Intern | North Reading, MA +2 |  | Oct 14 | [Apply](https://amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027) |
 | [Nissan Global](https://internscout.org/internships/at/nissan-global/) | AI Robotics Research Intern | Santa Clara, CA |  | Oct 14 | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/AI-Robotics-Research-Intern---Summer-2027---Santa-Clara--CA_R00214267) |
@@ -157,8 +161,9 @@
 | [Aptiv](https://internscout.org/internships/at/aptiv/) | Embedded Software Engineer Intern | Walnut Creek, CA |  | Oct 9 | [Apply](https://go.vansh.nyc/Ge) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Electrical Hardware, Design & Test - Summer 2027 Internships | Irvine, California +2 | \$33.00-51.00 per hour | Oct 9 | [Apply](https://careers.rivian.com/jobs/34307) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Controls, Automation & Embedded Software - Summer 2027 Internships | Palo Alto, California +1 | \$33.00-51.00 per hour | Oct 9 | [Apply](https://careers.rivian.com/jobs/34310) |
+| Rugged Robotics | Robotics Software Intern Co-op | Houston, TX |  | Oct 8 | [Apply](https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005) |
 | [AeroVironment](https://internscout.org/internships/at/aerovironment/) | Autonomy & Robotics Engineer Intern | Germantown, MD +13 |  | Oct 8 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8556) |
-| [Waymo](https://internscout.org/internships/at/waymo/) | 2027 Summer Intern, MS/PhD, Perception, Robotics | Mountain View, CA, USA +1 | Paid | Oct 7 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8227633) |
+| [Waymo](https://internscout.org/internships/at/waymo/) | Perception Intern - Robotics | Mountain View, CA |  | Oct 7 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8227633) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Software Engineer Intern - Embedded Systems | Redmond, WA +3 |  | Oct 7 | [Apply](https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) |
 | [Skyband Systems](https://internscout.org/internships/at/skyband-systems/) | Avionics Hardware & Test Engineer Intern | Kirkland, WA |  | Oct 7 | [Apply](https://jobs.ashbyhq.com/skyband%20systems/74d42f88-5265-4879-9c6d-61f532e89b20/application?embed=true) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | ASIC Design Engineer Intern | Sunnyvale, CA |  | Oct 7 | [Apply](https://go.vansh.nyc/FM) |
@@ -175,7 +180,6 @@
 | [General Motors](https://internscout.org/internships/at/general-motors/) | AI & Hardware Analytics Intern | Milford, MI +1 |  | Oct 5 | [Apply](https://go.vansh.nyc/EF) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | Summer Intern - AI & Hardware Analytics - Adpt | Milford, MI +1 |  | Oct 5 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756) |
 | [Arc](https://internscout.org/internships/at/arc/) | Electrical Hardware Engineering Intern | Torrance, CA |  | Oct 2 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008) |
-| [Lyft](https://internscout.org/internships/at/lyft/) | Hardware Field Quality Engineer Intern (Summer 2027) | Longueuil, Canada | \$34-\$36/hour | Oct 2 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | ASIC Engineer Intern | Durham, NC +1 |  | Oct 2 | [Apply](https://go.vansh.nyc/Er) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Software Development Engineer Intern, Embedded Systems | Seattle, WA |  | Oct 2 | [Apply](https://go.vansh.nyc/g0) |
 | [Hudson River Trading](https://internscout.org/internships/at/hudson-river-trading/) | FPGA Verification and Developer Intern | New York, NY |  | Oct 1 | [Apply](https://go.vansh.nyc/QI) |
@@ -200,10 +204,6 @@
 | [Astranis](https://internscout.org/internships/at/astranis/) | FPGA Intern (Summer 2027) | San Francisco +2 | \$29.00 per hour | Sep 23 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704805006) |
 | [Analog Devices](https://internscout.org/internships/at/analog-devices/) | Embedded Software Engineer Intern | Toronto, Canada +1 |  | Sep 23 | [Apply](https://go.vansh.nyc/Jm) |
 | Two Sigma | Hardware Engineering Intern | NYC +1 |  | Sep 22 | [Apply](https://twosigma.avature.net/careers/JobDetail/14289) |
-| [Marvell](https://internscout.org/internships/at/marvell/) | Analog Layout Intern - BS | Irvine, CA +1 |  | Sep 22 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Analog-Layout-Intern--BS---Summer-2027_2604735) |
-| [General Motors](https://internscout.org/internships/at/general-motors/) | Embedded and Systems Engineering Intern - Digital Product | Austin, TX +3 |  | Sep 21 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513) |
-| [NVIDIA](https://internscout.org/internships/at/nvidia/) | Research Intern - Robotics | Seattle, WA +1 |  | Sep 21 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647) |
-| [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Embedded Engineering Internship - Summer 2027 | San Diego, CA +2 |  | Sep 21 | [Apply](https://qualcomm.eightfold.ai/careers/job/446720737089) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

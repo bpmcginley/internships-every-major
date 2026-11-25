@@ -1,10 +1,11 @@
 # Law and Legal: Summer 2027 Internships
 
-79 open Summer 2027 law and legal roles, newest first (all 79). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 149 law and legal internships on InternScout](https://internscout.org/internships/law/)
+79 open Summer 2027 law and legal roles, newest first (all 79). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 151 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Field Compliance Intern - Summer 2027 | Norwell, MA | Paid | Nov 24 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168516) |
+| [Divergent Technologies](https://internscout.org/internships/at/divergent-technologies/) | Summer 2027 Legal Intern | Torrance, California, United States | \$34.73 | Nov 24 | [Apply](https://job-boards.greenhouse.io/divergent/jobs/5376576008) |
+| [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Compliance Specialist Intern - Summer 2027 | La Porte, TX | Paid | Nov 24 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166661) |
 | [OATEY](https://internscout.org/internships/at/oatey/) | Compliance Intern (Quality & EHSS) | Omaha, NE (Manufacturing) |  | Nov 23 | [Apply](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Omaha-NE-Manufacturing/Compliance--Intern--Quality---EHSS-_R7305) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Law Student - Summer 2027 | Montreal, QC, Canada |  | Nov 20 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99799) |
 | [Systems Planning and Analysis (SPA)](https://internscout.org/internships/at/systems-planning-and-analysis-spa/) | Policy Intern - Summer 2027 | Alexandria, Virginia | \$23.00/Hr | Nov 20 | [Apply](https://spa.jibeapply.com/jobs/23728) |
@@ -15,7 +16,7 @@
 | [Exelon](https://internscout.org/internships/at/exelon/) | 2027 Summer Internship - Legal Intern 1st Year Law Students (Oakbrook Terrace, IL) | OAKBROOK TERRACE, Illinois | \$29.00/Hr | Nov 19 | [Apply](https://careers.comed.com/jobs/33549) |
 | [Crusoe](https://internscout.org/internships/at/crusoe/) | Legal Intern | Denver, CO - US +1 | \$45/hour | Nov 18 | [Apply](https://jobs.ashbyhq.com/Crusoe/ffe60cf3-0ddc-4227-9f51-72794e36f4e6/application) |
 | [Crusoe](https://internscout.org/internships/at/crusoe/) | Legal Intern | San Francisco, CA - US +1 | \$50/hour | Nov 18 | [Apply](https://jobs.ashbyhq.com/Crusoe/eb8c16c7-b21a-4c59-a24a-78e93788ca88/application) |
-| [Mom's Meals](https://internscout.org/internships/at/mom-s-meals/) | Compliance & Privacy Intern | Ankeny, IA |  | Nov 18 | [Apply](https://jobs.lever.co/momsmeals/6a8eb87c-46e8-476a-8ef2-e7c1f76af513/apply) |
+| [Mom's Meals](https://internscout.org/internships/at/mom-s-meals/) | Regulatory, Compliance, & Privacy Intern | Ankeny, IA +1 |  | Nov 18 | [Apply](https://jobs.lever.co/momsmeals/6a8eb87c-46e8-476a-8ef2-e7c1f76af513/apply) |
 | [Aon](https://internscout.org/internships/at/aon/) | 2027 Wealthspire Legal & Compliance Intern - Chicago, IL | Chicago, Illinois | \$20.00 – \$27.00 per hour | Nov 17 | [Apply](https://jobs.aon.com/jobs/113095) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Legal & Compliance Internship (Remote) – Summer 2027 (Undergraduate) | United States |  | Nov 17 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040174) |
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Internship - Legal Intern | New York, NY, United States | Paid | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507830009) |
@@ -36,7 +37,7 @@
 | [Alberta Investment Management Corporation](https://internscout.org/internships/at/alberta-investment-management-corporation/) | Student, Legal | Calgary | Paid | Oct 29 | [Apply](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Calgary/Student--Legal_JR100948) |
 | [Strada Education Foundation](https://internscout.org/internships/at/strada-education-foundation/) | Strada Education Foundation Internship: Policy Intern | Washington, DC | \$22.75/hour | Oct 28 | [Apply](https://jobs.lever.co/stradaeducation/a5d0b720-c67c-466d-829e-bd3cc72d1339/apply) |
 | [Strada Education Foundation](https://internscout.org/internships/at/strada-education-foundation/) | Strada Education Foundation Internship: Legal Intern | Indianapolis, Indiana +1 | \$22.75/hour | Oct 28 | [Apply](https://jobs.lever.co/stradaeducation/cf1023bd-5d9f-4caa-a6ed-270bd965eb25/apply) |
-| [Formlabs](https://internscout.org/internships/at/formlabs/) | Legal Intern (Summer 2027) | Somerville, MA | \$1,550 | Oct 27 | [Apply](https://careers.formlabs.com/job/8319490/apply/?gh_jid=8319490) |
+| [Formlabs](https://internscout.org/internships/at/formlabs/) | Legal Intern (Summer 2027) | Somerville, MA |  | Oct 27 | [Apply](https://careers.formlabs.com/job/8319490/apply/?gh_jid=8319490) |
 | Fervo Energy | Legal Intern | Houston, TX |  | Oct 27 | [Apply](https://job-boards.greenhouse.io/fervoenergy/jobs/4464038009) |
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Financial Crime Compliance | Phoenix, AZ | Paid | Oct 27 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Financial-Crime-Compliance_R13732-1) |
 | Aflac | Global Investments Legal Intern | NYC |  | Oct 23 | [Apply](https://careers.aflac.com/job/New-York-City-2027-Global-Investments-%28NY%29-Legal-Intern-NY-10005/1443294500/?ats=successfactors) |
@@ -44,7 +45,6 @@
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Summer Internship Program 2027 - Regulatory Products Intern | New York, New York +1 | \$30 per hour | Oct 23 | [Apply](https://ice.jibeapply.com/jobs/14101) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Law - Jacksonville, FL CLC | Jacksonville, Florida | \$2,000 | Oct 23 | [Apply](https://jobs.statefarm.com/jobs/45887) |
 | [DP World](https://internscout.org/internships/at/dp-world/) | Legal Intern | Auburn Hills, MI |  | Oct 21 | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27398) |
-| MEMX | Legal Intern, Summer 2027 (Hybrid, NYC) | United States | \$40/hour | Oct 8 | [Apply](https://job-boards.greenhouse.io/memx/jobs/5447824008) |
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Law Graduate Internship - Summer 2027 | 77002, TX |  | Oct 5 | [Apply](https://aramcoservices.applytojob.com/apply/Rpx0aiDVNd/Law-Graduate-Internship-Summer-2027) |
 | [Brennan Center for Justice](https://internscout.org/internships/at/brennan-center-for-justice/) | Summer 2027 Democracy Legal Internship - NYC and DC | New York, NY | \$8,360 | Oct 3 | [Apply](https://brennancenter.applytojob.com/apply/3h3CdiEdLS/Summer-2027-Democracy-Legal-Internship-NYC-And-DC) |
 | [Brennan Center for Justice](https://internscout.org/internships/at/brennan-center-for-justice/) | Summer 2027 Justice Legal Internship | New York, NY | \$8,360 | Oct 3 | [Apply](https://brennancenter.applytojob.com/apply/6pmeKxkyUe/Summer-2027-Justice-Legal-Internship) |

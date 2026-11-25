@@ -1,6 +1,6 @@
 # Consulting: Summer 2027 Internships
 
-82 open Summer 2027 consulting roles, newest first (all 82). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 143 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+81 open Summer 2027 consulting roles, newest first (all 81). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 135 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -61,8 +61,7 @@
 | 3M | Business Analyst Intern - Consumer Business Group | Maplewood, MN |  | Sep 14 | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Sustainability and Climate Strategy Intern (Remote) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138731) |
 | [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Summer Associate Internship (Fraud Data Governance) | Vienna, VA |  | Sep 9 | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32310) |
-| [RF-SMART](https://internscout.org/internships/at/rf-smart/) | Product Strategy Intern - Summer 2027 | Jacksonville, Florida, United States +1 | \$25/hour | Sep 8 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5409030008) |
-| The MJ Companies | Consultative Sales Intern | Carmel, Indiana |  | Sep 3 | [Apply](https://job-boards.greenhouse.io/themjcos/jobs/5415703008) |
+| [RF-SMART](https://internscout.org/internships/at/rf-smart/) | Product Strategy Intern | Jacksonville, FL |  | Sep 8 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5409030008) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem | San Jose, CA |  | Sep 3 | [Apply](https://lifeattiktok.com/search/7677493272788683013) |
 | First National Bank | Enterprise Data Governance Intern - Data Quality and Governance | Pittsburgh, PA |  | Sep 2 | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Enterprise-Data-Governance-Intern_2026-01835-1) |
 | PIMCO | Quant Research Analyst Intern - Client Solutions & Analytics | Newport Beach, CA |  | Sep 1 | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---PhD-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106815) |

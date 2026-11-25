@@ -1,12 +1,11 @@
 # Sustainability: Summer 2027 Internships
 
-66 open Summer 2027 sustainability roles, newest first (all 66). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 99 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+65 open Summer 2027 sustainability roles, newest first (all 65). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 98 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern Enterprise Safety Summer 2027 | Jackson, Mississippi |  | Nov 21 | [Apply](https://jobs.entergy.com/job/Jackson-Student%2C-Intern-Enterprise-Safety-Summer-2027-Miss/1433660400/) |
-| [The Allen Institute for AI](https://internscout.org/internships/at/the-allen-institute-for-ai/) | Research Internship, Climate Modeling | Seattle, WA | \$94,320 | Nov 20 | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8404052) |
-| [Westinghouse Electric Company](https://internscout.org/internships/at/westinghouse-electric-company/) | Summer Intern - Safety Analysis | Dallas, TX | \$25.40 to \$29.00 per hour | Nov 20 | [Apply](https://careers.westinghousenuclear.com/job/Dallas-Summer-Intern-Safety-Analysis-TX-75201/1452563300/) |
+| The Allen Institute for AI | Research Intern - Climate Modeling | Seattle, WA |  | Nov 20 | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8404052) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | Richmond, Virginia | \$20.00 | Nov 20 | [Apply](https://careers.trccompanies.com/jobs/29953) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | Clifton Park, New York | \$20.00 | Nov 20 | [Apply](https://careers.trccompanies.com/jobs/29952) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern, Capital Projects, Summer 2027 | Rayville, Louisiana |  | Nov 18 | [Apply](https://jobs.entergy.com/job/Rayville-Student%2C-Intern%2C-Capital-Projects%2C-Summer-2027-Loui/1441853600/) |

@@ -1,9 +1,10 @@
 # Health: Summer 2027 Internships
 
-38 open Summer 2027 health roles, newest first (all 38). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 144 health internships on InternScout](https://internscout.org/internships/health/)
+39 open Summer 2027 health roles, newest first (all 39). **Updated November 24, 2026.** [Back to every major](../README.md) · [See all 145 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Medpace](https://internscout.org/internships/at/medpace/) | Clinical Intelligence Internship - Summer 2027 | Cincinnati, Ohio |  | Nov 24 | [Apply](https://careers.medpace.com/jobs/13558) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Growth & Community Engagement Internship (New York Health Plan) – Summer 2027 (Undergraduate) | New York, NY |  | Nov 23 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040153) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Quality Analytics Internship (Michigan Health Plan) – Summer 2027 (Undergraduate) | MI +1 |  | Nov 23 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040141) |
 | [Atlantic Health System](https://internscout.org/internships/at/atlantic-health-system/) | Speech Language Pathology Intern | Morristown, NJ |  | Nov 20 | [Apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34626) |
