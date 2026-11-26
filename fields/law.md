@@ -1,9 +1,11 @@
 # Law and Legal: Summer 2027 Internships
 
-86 open Summer 2027 law and legal roles, newest first (all 86). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 155 law and legal internships on InternScout](https://internscout.org/internships/law/)
+88 open Summer 2027 law and legal roles, newest first (all 88). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 155 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Superhuman | Commercial Legal Intern (New York) | Hub - New York +2 | \$38.00 | Nov 25 | [Apply](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/27e71e6d-71a3-439d-8c1a-d918f6fb4917/application) |
+| Superhuman | Product Legal Intern (San Francisco) | Hub - San Francisco, NY +2 | \$38.00 | Nov 25 | [Apply](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/67f2ea53-e05d-4924-81b7-96c928d29c45/application) |
 | [Divergent Technologies](https://internscout.org/internships/at/divergent-technologies/) | Summer 2027 Legal Intern | Torrance, California, United States | \$34.73 | Nov 24 | [Apply](https://job-boards.greenhouse.io/divergent/jobs/5376576008) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Compliance Specialist Intern - Summer 2027 | La Porte, TX | Paid | Nov 24 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166661) |
 | [OATEY](https://internscout.org/internships/at/oatey/) | Compliance Intern (Quality & EHSS) | Omaha, NE (Manufacturing) |  | Nov 23 | [Apply](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Omaha-NE-Manufacturing/Compliance--Intern--Quality---EHSS-_R7305) |

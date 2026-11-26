@@ -1,6 +1,6 @@
 # Architecture: Summer 2027 Internships
 
-46 open Summer 2027 architecture roles, newest first (all 46). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 118 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+45 open Summer 2027 architecture roles, newest first (all 45). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 116 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | Research Associate Intern, Systems Architecture Lab | Milpitas, CA |  | Nov 12 | [Apply](https://go.vansh.nyc/1w1) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern-Naval Architecture Engineering | Pascagoula, Mississippi |  | Nov 12 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-NAVAL-ARCHITECTURE-ENGINEERING-Miss/1430055600/) |
 | [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Chip Architecture Intern | Boston, MA +1 |  | Nov 11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5468924008) |
-| [WSP](https://internscout.org/internships/at/wsp/) | Architectural Intern- Summer 2027 | New York, NY | Paid | Nov 11 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99181) |
+| [WSP](https://internscout.org/internships/at/wsp/) | Architectural Intern- Summer 2027 | New York, NY |  | Nov 11 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99181) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | New York, NY |  | Nov 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98916) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | South Jordan, UT |  | Nov 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98842) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | New Orleans, LA +1 |  | Nov 5 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98834) |
@@ -25,7 +25,6 @@
 | [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Enterprise Architecture Software Engineer & Architect Intern | Pittsburgh, PA |  | Oct 26 | [Apply](https://go.vansh.nyc/SS) |
 | Western & Southern Financial Group | Enterprise Architecture Information Technology Intern | Cincinnati, OH |  | Oct 22 | [Apply](https://go.vansh.nyc/eX) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Edge AI and Display Hardware Architecture Intern | Markham, ON, Canada |  | Oct 21 | [Apply](https://go.vansh.nyc/dY) |
-| [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems | Markham, ON, Canada |  | Oct 21 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721661830) |
 | [Adobe](https://internscout.org/internships/at/adobe/) | AI & Architecture Intern | San Jose, CA |  | Oct 19 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998) |
 | [Kimley-Horn](https://internscout.org/internships/at/kimley-horn/) | Landscape Architecture Intern | Memphis, Tennessee |  | Oct 15 | [Apply](https://careers.kimley-horn.com/jobs/24918) |
 | [Tenstorrent](https://internscout.org/internships/at/tenstorrent/) | Systems Intern, Validation, Software, Design, Architecture & Packaging | Austin, TX +1 |  | Oct 14 | [Apply](https://go.vansh.nyc/gg) |

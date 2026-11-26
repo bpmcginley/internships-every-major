@@ -1,17 +1,26 @@
 # Software Engineering: Summer 2027 Internships
 
-1,541 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,541). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 2,728 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
+1,546 open Summer 2027 software engineering roles, newest first (the 200 newest of 1,546). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 2,725 software engineering internships on InternScout](https://internscout.org/internships/software-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Danaher Corporation](https://internscout.org/internships/at/danaher/) | Software Engineering Intern | Chaska, MN |  | Nov 25 | [Apply](https://go.vansh.nyc/1Jy) |
+| Carrier Global | Software & Controls Engineering Intern | Charlotte, NC |  | Nov 25 | [Apply](https://go.vansh.nyc/1Js) |
+| Xona Space | Software Engineering Intern, Engineering Productivity | Burlingame, CA |  | Nov 25 | [Apply](https://go.vansh.nyc/1Jx) |
+| Dandy | Summer 2027 Internship - Software Engineering Intern | USA - New York NY +3 | Paid | Nov 25 | [Apply](https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099/application) |
+| [SambaNova](https://internscout.org/internships/at/sambanova/) | Cloud Platform Engineer Intern | San Jose, CA |  | Nov 25 | [Apply](https://go.vansh.nyc/1Jq) |
+| [SambaNova](https://internscout.org/internships/at/sambanova/) | ML Infrastructure Engineer Intern | Austin, TX +1 |  | Nov 25 | [Apply](https://go.vansh.nyc/1Jp) |
 | [Apex Technology, Inc.](https://internscout.org/internships/at/apex-technology-inc/) | Software Engineering Internship, Test & Automation (Summer 2027) | Los Angeles +1 | \$100k | Nov 25 | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/692bb497-59ba-44df-bacf-fffd2f7c6344/application) |
-| [Apex Technology, Inc.](https://internscout.org/internships/at/apex-technology-inc/) | Software Engineering, Operating Systems Internship (Summer 2027) | Los Angeles +1 | \$100k | Nov 25 | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915/application) |
-| [Apex Technology, Inc.](https://internscout.org/internships/at/apex-technology-inc/) | Flight Software Engineering Internship (Summer 2027) | Los Angeles +1 | \$100k | Nov 25 | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3/application) |
+| [Apex Technology, Inc.](https://internscout.org/internships/at/apex-technology-inc/) | Software Engineering, Operating Systems Internship (Summer 2027) | Los Angeles +2 | \$100k | Nov 25 | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915/application) |
+| [Apex Technology, Inc.](https://internscout.org/internships/at/apex-technology-inc/) | Flight Software Engineering Internship (Summer 2027) | Los Angeles +2 | \$100k | Nov 25 | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3/application) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Software Engineering Intern, Simulation Technology | Santa Clara, CA |  | Nov 25 | [Apply](https://go.vansh.nyc/1J0) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | Cloud Security Engagement Intern | Spring, TX |  | Nov 25 | [Apply](https://go.vansh.nyc/1IP) |
+| [Cantor Fitzgerald](https://internscout.org/internships/at/cantor-fitzgerald/) | BGC’s 2027 US Technology Summer Internship – Development | New York, NY |  | Nov 25 | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250630) |
+| [Cantor Fitzgerald](https://internscout.org/internships/at/cantor-fitzgerald/) | BGC’s 2027 US Technology Summer Internship – Infrastructure | New York, NY |  | Nov 25 | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250631) |
+| [Cantor Fitzgerald](https://internscout.org/internships/at/cantor-fitzgerald/) | Technology Intern, Development | New York, NY |  | Nov 25 | [Apply](https://go.vansh.nyc/1Jw) |
+| [SambaNova](https://internscout.org/internships/at/sambanova/) | Compiler Engineer Intern | Austin, TX +1 |  | Nov 25 | [Apply](https://go.vansh.nyc/1Jk) |
 | [Waters Corporation](https://internscout.org/internships/at/waters-corporation/) | Intern, IT Digital | Milford, MA |  | Nov 25 | [Apply](https://uscareers-waters.icims.com/jobs/30387/2026-30387/job) |
-| [Waters Corporation](https://internscout.org/internships/at/waters-corporation/) | Intern, IT Customer Platforms | Milford, MA |  | Nov 25 | [Apply](https://uscareers-waters.icims.com/jobs/30368/intern%2c-it-customer-platforms/job) |
-| [Lunar Outpost](https://internscout.org/internships/at/lunar-outpost/) | Software Management Intern - Summer 2027 | Golden, Colorado |  | Nov 25 | [Apply](https://lunaroutpost.bamboohr.com/careers/420) |
+| [Waters Corporation](https://internscout.org/internships/at/waters-corporation/) | Intern, IT Customer Platforms | Milford, MA |  | Nov 25 | [Apply](https://uscareers-waters.icims.com/jobs/30368/2026-30368/job) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Front-End Engineer Intern | Seattle, WA +2 |  | Nov 24 | [Apply](https://amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us) |
 | [Apex Technology, Inc.](https://internscout.org/internships/at/apex-technology-inc/) | Software Engineer, Test Automation Internship (Summer 2027) | Los Angeles +2 | \$100k | Nov 24 | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/2268adcb-a0f6-4e12-a206-8f99e048486d/application) |
 | [Apex Technology, Inc.](https://internscout.org/internships/at/apex-technology-inc/) | Mechanical Ground Systems Engineering Internship (Summer 2027) | Los Angeles +1 | \$100k | Nov 24 | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/e34724bd-0db2-4433-9352-7ad49d37e627/application) |
@@ -26,7 +35,6 @@
 | ZOLL Medical Corporation | Software Automation Intern | Chelmsford, MA |  | Nov 24 | [Apply](https://go.vansh.nyc/1I1) |
 | ZOLL Medical Corporation | Software Engineering Intern | Chelmsford, MA |  | Nov 24 | [Apply](https://go.vansh.nyc/1HW) |
 | [Federal Home Loan Bank of Indianapolis](https://internscout.org/internships/at/federal-home-loan-bank-of-indianapolis/) | Data Platform Engineer Intern | Indianapolis, IN |  | Nov 24 | [Apply](https://go.vansh.nyc/1I0) |
-| Veolia | Manufacturing Software Engineer Intern | Boulder, CO |  | Nov 24 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163377969) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Software Development Test Engineering Co-op | Needham, MA |  | Nov 24 | [Apply](https://go.vansh.nyc/1HH) |
 | QinetiQ | Software Engineer Intern | Remote +1 |  | Nov 24 | [Apply](https://go.vansh.nyc/1Ip) |
 | Aptima Inc. (All Jobs) | Software Engineer Intern | Fairborn, OH |  | Nov 24 | [Apply](https://go.vansh.nyc/1Is) |
@@ -177,7 +185,6 @@
 | [Thorlabs](https://internscout.org/internships/at/thorlabs/) | Summer 2027 Information Technology Internship | Newton, New Jersey | \$20.00 - \$25.00 per hour | Nov 17 | [Apply](https://apply.workable.com/j/FBC565F7AF/apply) |
 | [Aon](https://internscout.org/internships/at/aon/) | 2027 Wealthspire IT Innovation Intern - Chicago, IL | Chicago, Illinois | \$20.00 – \$22.00 per hour | Nov 17 | [Apply](https://jobs.aon.com/jobs/113094) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 IT Development Intern - San Diego, CA | San Diego, California +1 | Paid | Nov 17 | [Apply](https://jobs.constellationenergy.com/jobs/143150) |
-| [Clera](https://internscout.org/internships/at/clera/) | Full-Stack Software Engineering Intern | New York, NY |  | Nov 17 | [Apply](https://go.vansh.nyc/1AN) |
 | [Textron](https://internscout.org/internships/at/textron/) | 2027 Intern - Software Engineer (Electronic Systems) - Hunt Valley, MD | Hunt Valley, Maryland +1 |  | Nov 17 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688) |
 | [ServiceNow](https://internscout.org/internships/at/servicenow/) | Forward Deployed Solution Engineer Intern | Santa Clara, CA +1 |  | Nov 16 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161936020) |
 | LinkedIn | Systems & Infrastructure Engineer Intern | Mountain View, CA |  | Nov 16 | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000161930950) |
@@ -197,13 +204,6 @@
 | KBR Wyle Services | Computer Science Intern, Defense & Intel (D&I) | Chantilly, VA +10 |  | Nov 14 | [Apply](https://go.vansh.nyc/1zy) |
 | NetApp | Software Engineer Intern, Cloud | San Jose, CA |  | Nov 14 | [Apply](https://go.vansh.nyc/1zr) |
 | NetApp | Software Engineer Intern, Systems | San Jose, CA |  | Nov 14 | [Apply](https://go.vansh.nyc/1zs) |
-| [Strava](https://internscout.org/internships/at/strava/) | Software Engineering Intern, Android, Subscriptions | Strava SF, NY +4 |  | Nov 13 | [Apply](https://jobs.ashbyhq.com/Strava/02999001-164a-45c2-a763-03dedf458f0c/application) |
-| [Strava](https://internscout.org/internships/at/strava/) | Software Engineering Intern, AI/ML Data Products | Strava SF, NY +4 |  | Nov 13 | [Apply](https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023/application) |
-| Activision Blizzard | Game Systems Engineering Intern | United States |  | Nov 13 | [Apply](https://go.vansh.nyc/1zl) |
-| [Strava](https://internscout.org/internships/at/strava/) | Software Engineering Intern, Server, Next Sports | Strava SF, NY +4 |  | Nov 13 | [Apply](https://jobs.ashbyhq.com/Strava/0a1c94e3-c19c-47a4-9974-5cc86b74e3e9/application) |
-| Martin Marietta | Software Data Integration Engineer Intern | Raleigh, NC |  | Nov 13 | [Apply](https://go.vansh.nyc/1zf) |
-| Owl Cyber Defense | Software Engineering Intern | Columbia, MD |  | Nov 13 | [Apply](https://go.vansh.nyc/1zK) |
-| Envita Solutions | Software Engineering Intern, Applied AI | Indianapolis, IN |  | Nov 13 | [Apply](https://go.vansh.nyc/1z7) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

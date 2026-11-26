@@ -1,10 +1,9 @@
 # Design: Summer 2027 Internships
 
-59 open Summer 2027 design roles, newest first (all 59). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 134 design internships on InternScout](https://internscout.org/internships/design/)
+58 open Summer 2027 design roles, newest first (all 58). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 132 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Store Design/Development | Baltimore, MD |  | Nov 25 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Store-DesignDevelopment-MD-21230/1434347200/) |
 | [Illumio](https://internscout.org/internships/at/illumio/) | Product Design Intern | Sunnyvale, California - HQ +1 |  | Nov 23 | [Apply](https://jobs.ashbyhq.com/illumio/a047eb49-ac58-46f7-9043-b226f74a5605/application) |
 | [Lucid Motors](https://internscout.org/internships/at/lucid-motors/) | Intern, Automotive Interior Design, Summer 2027 | Newark, CA | \$35 to \$51 | Nov 23 | [Apply](https://lucidmotors.com/careers/search/5290844007?gh_jid=5290844007) |
 | [Lifeway](https://internscout.org/internships/at/lifeway/) | Summer Internship \| Graphic Designer - Lifeway Kids | Remote | Paid | Nov 23 | [Apply](https://hq-lifeway.icims.com/jobs/27225/summer-internship-%7c-graphic-designer---lifeway-kids/job) |

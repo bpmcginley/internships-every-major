@@ -1,6 +1,6 @@
 # Quantitative Finance: Summer 2027 Internships
 
-116 open Summer 2027 quantitative finance roles, newest first (all 116). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 162 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
+117 open Summer 2027 quantitative finance roles, newest first (all 117). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 162 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Summer Internship Program 2027 - Quantitative Engineer Intern | Atlanta, Georgia +1 |  | Oct 23 | [Apply](https://ice.jibeapply.com/jobs/14053) |
 | InfiniteQuant | Quantitative Researcher Intern | New York, NY |  | Oct 22 | [Apply](https://go.vansh.nyc/eP) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Structuring & Portfolio Management Intern - San Diego, CA | San Diego, California +1 | Paid | Oct 22 | [Apply](https://jobs.constellationenergy.com/jobs/140355) |
-| Cantor Fitzgerald | 2027 Internship Program: Sales & Trading | NY |  | Oct 20 | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250290) |
+| [Cantor Fitzgerald](https://internscout.org/internships/at/cantor-fitzgerald/) | 2027 Internship Program: Sales & Trading | NY |  | Oct 20 | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250290) |
 | [Point72](https://internscout.org/internships/at/point72/) | Quantitative Developer Intern | NYC +1 |  | Oct 19 | [Apply](https://boards.greenhouse.io/point72/jobs/7609197002) |
 | LSEG | Quantitative Services Intern | Boston, MA |  | Oct 14 | [Apply](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Boston-Massachusetts/Intern---Quantitative-Services_R0124310-2) |
 | Acadian Asset Management | Quantitative Investment Internship Program - Summer 2027 | Boston, Massachusetts, United States +1 | \$50.00 per hour | Oct 13 | [Apply](https://www.acadian-asset.com/careers/open-positions?gh_jid=4720681006) |
@@ -116,6 +116,7 @@
 | Aquatic Capital | Quantitative Researcher, Intern (Summer 2027) | Chicago +1 |  | Apr 1 | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) |
 | Scientech Research Capital | Quantitative Developer Intern | United States |  | Mar 4, 2025 | [Apply](https://go.vansh.nyc/Qy) |
 | [Point72](https://internscout.org/internships/at/point72/) | Summer 2027 Quantitative Research Internship | New York |  | Aug 15, 2024 | [Apply](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) |
+| Garda Capital Partners | Trading Assistant Intern | Wayzata, Minnesota, United States | Paid | Jun 14, 2022 | [Apply](https://job-boards.greenhouse.io/gardacp/jobs/4308947004) |
 | [Brevan Howard](https://internscout.org/internships/at/brevan-howard/) | 2027 Summer Internship Program – Systematic Trading, New York | New York +1 | \$ 200,000 | Sep 18 | [Apply](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--New-York_JR101591) |
 | [Brevan Howard](https://internscout.org/internships/at/brevan-howard/) | 2027 Summer Internship Program – AI & Quantitative Analyst, New York | New York +1 | \$ 150,000 | Sep 18 | [Apply](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602) |
 | [Brevan Howard](https://internscout.org/internships/at/brevan-howard/) | 2027 Summer Internship Program – Systematic Trading Technology Software Engineer, New York | New York +1 |  | Sep 18 | [Apply](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597) |

@@ -1,6 +1,6 @@
 # Hardware Engineering: Summer 2027 Internships
 
-283 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 283). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 689 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+282 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 282). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 684 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -128,7 +128,6 @@
 | [Amazon](https://internscout.org/internships/at/amazon/) | Frontier AI & Robotics Intern | San Francisco, CA |  | Oct 22 | [Apply](https://go.vansh.nyc/eL) |
 | [Rockwell Automation](https://internscout.org/internships/at/rockwell-automation/) | Firmware Engineer Intern | Mequon, WI +1 |  | Oct 22 | [Apply](https://go.vansh.nyc/gA) |
 | [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Edge AI and Display Hardware Architecture Intern | Markham, ON, Canada |  | Oct 21 | [Apply](https://go.vansh.nyc/dY) |
-| [Qualcomm](https://internscout.org/internships/at/qualcomm/) | Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems | Markham, ON, Canada |  | Oct 21 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721661830) |
 | [Aerospace Corporation](https://internscout.org/internships/at/aerospace-corporation/) | Hardware Security Engineering Intern | El Segundo, CA +1 |  | Oct 21 | [Apply](https://go.vansh.nyc/dv) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Silicon Validation Intern | Santa Clara, CA |  | Oct 21 | [Apply](https://go.vansh.nyc/dq) |
 | [Skydio](https://internscout.org/internships/at/skydio/) | Hardware Test and Reliability Intern - Summer 2027 | San Mateo, California, United States +3 | \$47/hr | Oct 20 | [Apply](https://jobs.ashbyhq.com/skydio/36d75e36-eeb2-4399-8887-37c4a5ff5800/application) |
@@ -204,6 +203,7 @@
 | Arista Networks | Hardware Engineering Intern | Nashua, NH |  | Sep 24 | [Apply](https://go.vansh.nyc/1tu) |
 | [Semtech](https://internscout.org/internships/at/semtech/) | Firmware Intern | Ottawa, ON, Canada +1 |  | Sep 24 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617) |
 | [Marvell](https://internscout.org/internships/at/marvell/) | Analog Design Intern Co-op - Master’s | Toronto, ON, Canada |  | Sep 24 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Design-Intern--Master-s---2027-Co-Op_2603862) |
+| [Semtech](https://internscout.org/internships/at/semtech/) | Analog Design Intern | Ottawa, ON, Canada |  | Sep 24 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Analog-Design-Intern_REQ3625) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

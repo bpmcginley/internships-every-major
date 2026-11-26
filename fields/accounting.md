@@ -1,6 +1,6 @@
 # Accounting: Summer 2027 Internships
 
-69 open Summer 2027 accounting roles, newest first (all 69). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 156 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+70 open Summer 2027 accounting roles, newest first (all 70). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 157 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -9,6 +9,7 @@
 | [Pacific Northwest National Laboratory](https://internscout.org/internships/at/pacific-northwest-national-laboratory/) | Undergraduate Business Student - Finance & Accounting Intern (Summer 2027) | Richland, Washington | \$17.13/Hr | Nov 23 | [Apply](https://careers.pnnl.gov/jobs/14441) |
 | [KPMG](https://internscout.org/internships/at/kpmg/) | Moncton, Fredericton & Saint John - Opportunities in Audit - Intern Summer 2027 | Fredericton, New Brunswick, Canada +2 | \$41,000 to \$65,000 | Nov 23 | [Apply](https://careers.kpmg.ca/jobs/37818) |
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Intern - Accounting & Finance Automation Intern | Los Angeles, CA, United States | Paid | Nov 20 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4515586009) |
+| [Galaxy](https://internscout.org/internships/at/galaxy/) | 2027 Finance (Internal Audit) Intern - NYC | New York | \$55/hr | Nov 19 | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6266826004) |
 | [Scout Space](https://internscout.org/internships/at/scout-space/) | Mission Assurance/Quality Intern (Summer 2027) | Reston, VA - Remote | \$30/hour | Nov 19 | [Apply](https://job-boards.greenhouse.io/scoutspace/jobs/5489234008) |
 | [Legend Biotech](https://internscout.org/internships/at/legend-biotech/) | Accounting Intern | Bridgewater, New Jersey, United States |  | Nov 18 | [Apply](https://job-boards.greenhouse.io/legendcareers/jobs/4755557005) |
 | [Burns Engineering](https://internscout.org/internships/at/burns-engineering/) | Accounting & Finance Intern - Summer 2027 | Philadelphia, PA |  | Nov 17 | [Apply](https://www.burns-group.com/careers/current-openings/?gh_jid=4510491009) |

@@ -1,6 +1,6 @@
 # Physics: Summer 2027 Internships
 
-21 open Summer 2027 physics roles, newest first (all 21). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 64 physics internships on InternScout](https://internscout.org/internships/physics/)
+20 open Summer 2027 physics roles, newest first (all 20). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 63 physics internships on InternScout](https://internscout.org/internships/physics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -19,7 +19,6 @@
 | [Draper](https://internscout.org/internships/at/draper/) | Optics-Physics Sensor Engineer Intern | Cambridge, MA |  | Nov 4 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Intern--Summer-2027-_JR003094) |
 | [Corning](https://internscout.org/internships/at/corning/) | Optical Design Intern - Summer 2027 | Fairport, NY | \$1,635.00 - \$3,185.00 | Nov 4 | [Apply](https://corningjobs.corning.com/job/Fairport-Optical-Design-Intern-Summer-2027-NY-14450/1437588500/) |
 | Metalenz | Meta-Optics Intern Summer 2027 | Boston, MA +1 | \$5,500 - \$8,500 per month | Nov 2 | [Apply](https://jobs.ashbyhq.com/metalenz/c8150d66-9f72-4508-ac94-8a7efa54e206/application) |
-| [Corning](https://internscout.org/internships/at/corning/) | Science & Technology Intern - Optical Modeling - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Nov 2 | [Apply](https://corningjobs.corning.com/job/Corning-Science-&-Technology-Intern-Optical-Modeling-Summer-2027-NY-14831/1446852900/) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Device Engineering Intern - Silicon Photonics | Malta, NY |  | Oct 30 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604263) |
 | [Commonwealth Fusion Systems](https://internscout.org/internships/at/commonwealth-fusion-systems/) | Intern - Plasma Physics - Summer 2027 | Devens, MA | Paid | Oct 27 | [Apply](https://jobs.lever.co/cfsenergy/32987ab7-59ed-4364-a012-91cbece8877a/apply) |
 | [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Firmware Engineer Intern, Optical | San Jose, CA |  | Oct 6 | [Apply](https://go.vansh.nyc/Fn) |

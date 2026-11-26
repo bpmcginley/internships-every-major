@@ -1,12 +1,13 @@
 # Sales: Summer 2027 Internships
 
-123 open Summer 2027 sales roles, newest first (all 123). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 258 sales internships on InternScout](https://internscout.org/internships/sales/)
+124 open Summer 2027 sales roles, newest first (all 124). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 258 sales internships on InternScout](https://internscout.org/internships/sales/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Team Sports/Sales | Baltimore, MD |  | Nov 25 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Team-SportsSales-MD-21230/1434355500/) |
 | [W.W. Grainger](https://internscout.org/internships/at/w-w-grainger/) | Sales Support Operations Intern - Summer 2027 | GREEN BAY, WI | Paid | Nov 25 | [Apply](https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-Sales-Support-Operations-Intern-Summer-2027-WI-54304-5677/1434548100/) |
 | [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Market Sales Analyst Internship – Emerging Talent Summer Experience Program | New York, NY |  | Nov 24 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811687) |
-| Fortive | Channel Sales Intern | Everett, WA |  | Nov 24 | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10799) |
+| [Fortive](https://internscout.org/internships/at/fortive/) | Channel Sales Intern | Everett, WA |  | Nov 24 | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10799) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Global Sales Intern | Kirkland, WA | Paid | Nov 24 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Global-Sales-Intern-WA-98033/1451436933/) |
 | [Capital Technology Group](https://internscout.org/internships/at/capital-technology-group/) | Summer Internship - Business Development | Hybrid (Silver Spring, MD) | \$800.00 to \$900.00 per week | Nov 23 | [Apply](https://boards.greenhouse.io/capitaltg/jobs/5307090007?gh_jid=5307090007) |
 | [Calamos Investments](https://internscout.org/internships/at/calamos-investments/) | IT Architecture & Sales Systems Intern | Naperville, IL |  | Nov 20 | [Apply](https://go.vansh.nyc/1Fs) |
@@ -35,7 +36,7 @@
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Intern - Sales Over 1000 | Detroit, MI +1 |  | Oct 27 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15035) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | Management and Sales Summer 2027 Internship (Arkansas District) | Little Rock, AR +2 |  | Oct 22 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627296) |
 | [Datadog](https://internscout.org/internships/at/datadog/) | Sales Development Representative - Summer 2027 Graduates (Boston) | Boston, Massachusetts, USA | \$50,000 | Oct 20 | [Apply](https://careers.datadoghq.com/detail/8287316/?gh_jid=8287316) |
-| Cantor Fitzgerald | 2027 Internship Program: Sales & Trading | NY |  | Oct 20 | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250290) |
+| [Cantor Fitzgerald](https://internscout.org/internships/at/cantor-fitzgerald/) | 2027 Internship Program: Sales & Trading | NY |  | Oct 20 | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250290) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Management and Sales Summer Internship (Fresno) | Fresno, CA |  | Oct 20 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627066) |
 | [Arthur J. Gallagher & Co.](https://internscout.org/internships/at/arthur-j-gallagher-co/) | U.S. Internship - Sales - ALL LOCATIONS | Rolling Meadows, Illinois +7 |  | Oct 20 | [Apply](https://jobs.ajg.com/jobs/57704) |
 | [Amplify](https://internscout.org/internships/at/amplify/) | Summer 2027: Sales Intern | Remote |  | Oct 19 | [Apply](https://jobs.ashbyhq.com/amplify/d7018048-760b-492c-a6ab-d51673331ae2/application) |

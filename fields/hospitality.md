@@ -1,11 +1,10 @@
 # Hospitality: Summer 2027 Internships
 
-26 open Summer 2027 hospitality roles, newest first (all 26). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 68 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
+25 open Summer 2027 hospitality roles, newest first (all 25). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 67 hospitality internships on InternScout](https://internscout.org/internships/hospitality/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Royal Caribbean Group](https://internscout.org/internships/at/royal-caribbean-group/) | Intern, Deployment Strategy (Summer 2027) | Miami, FL |  | Nov 25 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miami-Intern%2C-Deployment-Strategy-%28Summer-2027%29-FL-33132/1453773400/) |
-| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Biomechanics | Baltimore, MD |  | Nov 25 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Biomechanics-MD-21230/1434382000/) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Product Line Management | Baltimore, MD | \$23 per hour | Nov 25 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Product-Line-Management-MD-21230/1434387800/) |
 | [Royal Caribbean Group](https://internscout.org/internships/at/royal-caribbean-group/) | Intern, Newbuild Solutions (Summer 2027) | Miami, FL |  | Nov 18 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miami-Intern%2C-Newbuild-Solutions-%28Summer-2027%29-FL-33132/1441986900/) |
 | [Royal Caribbean Group](https://internscout.org/internships/at/royal-caribbean-group/) | Intern, Guest Travel Services (Summer 2027) | Miramar, FL |  | Nov 13 | [Apply](https://jobs.royalcaribbeangroup.com/job/Miramar-Intern%2C-Guest-Travel-Services-%28Summer-2027%29-FL-33132/1440504600/) |

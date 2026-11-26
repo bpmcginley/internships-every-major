@@ -4,8 +4,9 @@
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Draper](https://internscout.org/internships/at/draper/) | Cyber Effects Engineering Intern | Cambridge, MA |  | Nov 25 | [Apply](https://go.vansh.nyc/1Jv) |
+| [Coinbase](https://internscout.org/internships/at/coinbase/) | Security Engineer Intern | Hybrid - New York, NY +1 | Paid | Nov 25 | [Apply](https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | Cloud Security Engagement Intern | Spring, TX |  | Nov 25 | [Apply](https://go.vansh.nyc/1IP) |
-| [Draper](https://internscout.org/internships/at/draper/) | Cyber Effects Engineering Intern (Summer 2027) | Cambridge, MA |  | Nov 25 | [Apply](https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Cyber-Effects-Engineering-Intern--Summer-2027-_JR003189) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | Cyber Physical Systems Intern | Laurel, MD |  | Nov 25 | [Apply](https://go.vansh.nyc/1IY) |
 | Servco Pacific | Cybersecurity Analyst Intern | Honolulu, HI |  | Nov 24 | [Apply](https://go.vansh.nyc/1HV) |
 | Impulse Space | Information Security Intern | Redondo Beach, CA |  | Nov 24 | [Apply](https://go.vansh.nyc/1HR) |
@@ -60,7 +61,6 @@
 | [ISO New England](https://internscout.org/internships/at/iso-new-england/) | Cyber Adversary Defense Optimization Intern | Holyoke, MA |  | Nov 11 | [Apply](https://go.vansh.nyc/1wY) |
 | [Grant Thornton](https://internscout.org/internships/at/grant-thornton/) | Cybersecurity and Privacy Intern - Summer 2027 | New York, NY | \$40 per hour | Nov 11 | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115637) |
 | [Minitab](https://internscout.org/internships/at/minitab/) | Cybersecurity Intern | State College, PA |  | Nov 10 | [Apply](https://go.vansh.nyc/1sN) |
-| Global Payments | CyberSecurity Intern | Columbus, GA |  | Nov 10 | [Apply](https://go.vansh.nyc/1s5) |
 | OneAmerica Financial | Cyber Security Intern | Indianapolis, IN |  | Nov 10 | [Apply](https://go.vansh.nyc/1qx) |
 | [General Dynamics Mission Systems, Inc.](https://internscout.org/internships/at/general-dynamics-mission-systems/) | Systems Intern, Cybersecurity and Linux Administration | San Antonio, TX |  | Nov 10 | [Apply](https://go.vansh.nyc/1rI) |
 | Cyberix | Cybersecurity Intern | Aurora, CO |  | Nov 10 | [Apply](https://go.vansh.nyc/1uZ) |
@@ -103,7 +103,7 @@
 | [Intercontinental Exchange](https://internscout.org/internships/at/intercontinental-exchange/) | Cybersecurity Architect Intern | Atlanta, GA |  | Oct 31 | [Apply](https://go.vansh.nyc/136) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Cybersecurity Intern | Remote +1 |  | Oct 31 | [Apply](https://go.vansh.nyc/12V) |
 | Midland States Bank | Security Analyst Intern | St. Louis, MO |  | Oct 31 | [Apply](https://go.vansh.nyc/13d) |
-| [GCM Grosvenor](https://internscout.org/internships/at/gcm-grosvenor/) | 2027 Cybersecurity Summer Intern | Chicago, Illinois, United States +1 |  | Oct 30 | [Apply](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8035929003) |
+| [GCM Grosvenor](https://internscout.org/internships/at/gcm-grosvenor/) | 2027 Cybersecurity Summer Intern | Chicago, Illinois, United States +1 | \$70,000 | Oct 30 | [Apply](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8035929003) |
 | HCSC | Cybersecurity Operations Intern | Chicago, IL |  | Oct 29 | [Apply](https://go.vansh.nyc/11Z) |
 | [Stratolaunch](https://internscout.org/internships/at/stratolaunch/) | Security Intern- Summer 2027 | Mojave, California, United States | \$20.00 Hour | Oct 29 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5466978008) |
 | Mativ | Cybersecurity Intern | Alpharetta, GA |  | Oct 29 | [Apply](https://go.vansh.nyc/11W) |

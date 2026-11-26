@@ -1,6 +1,6 @@
 # Operations: Summer 2027 Internships
 
-215 open Summer 2027 operations roles, newest first (the 200 newest of 215). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 546 operations internships on InternScout](https://internscout.org/internships/operations/)
+214 open Summer 2027 operations roles, newest first (the 200 newest of 214). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 552 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Mission Operations Engineer Intern | Honolulu, Hawaii, United States +1 | Paid | Nov 16 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Deployment Operations Intern | Quincy, Massachusetts, United States | Paid | Nov 16 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5296825007?gh_jid=5296825007) |
 | Schonfeld | Cybersecurity Operations Intern | New York, NY |  | Nov 16 | [Apply](https://go.vansh.nyc/1Aj) |
-| [Formlabs](https://internscout.org/internships/at/formlabs/) | Global Operations MBA Intern (Summer 2027) | Somerville, MA | \$2,750 | Nov 16 | [Apply](https://careers.formlabs.com/job/8385550/apply/?gh_jid=8385550) |
+| [Formlabs](https://internscout.org/internships/at/formlabs/) | Global Operations MBA Intern (Summer 2027) | Somerville, MA |  | Nov 16 | [Apply](https://careers.formlabs.com/job/8385550/apply/?gh_jid=8385550) |
 | [KPMG](https://internscout.org/internships/at/kpmg/) | Edmonton Consulting Summer Internship, Operations - Government Solutions (May - August 2027) | Edmonton, Alberta, Canada |  | Nov 16 | [Apply](https://careers.kpmg.ca/jobs/36504) |
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Intern - Pre-Press & Business Operations | New York, NY, United States | Paid | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507753009) |
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Internship - Manufacturing and Business Operations Summer 2027 Intern | Sunnyvale, TX, United States |  | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507664009) |
@@ -161,7 +161,6 @@
 | [National Information Solutions Cooperative (NISC)](https://internscout.org/internships/at/national-information-solutions-cooperative-nisc/) | Intern - Operations Support | Lake Saint Louis, MO |  | Sep 11 | [Apply](https://job-boards.greenhouse.io/nisc/jobs/8193359) |
 | [Rocket Lab](https://internscout.org/internships/at/rocket-lab/) | Indirect Procurement Intern Summer 2027 | Long Beach, CA | \$25.00 | Sep 11 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989063003) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Operations Automation Intern | Alsip, Illinois | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36108) |
-| [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | DOWNEY, California | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36094) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Retail Operations Intern (DePere, WI) | De Pere, Wisconsin |  | Sep 10 | [Apply](https://jobs.constellationenergy.com/jobs/138755) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Distribution Operations Internship | West Dundee, Illinois | Paid | Sep 10 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/36089) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Retail Operations Intern (Houston, TX) | Houston, Texas |  | Sep 10 | [Apply](https://jobs.constellationenergy.com/jobs/138747) |
@@ -204,6 +203,7 @@
 | [Interstates](https://internscout.org/internships/at/interstates/) | Assistant Project Manager Intern (Summer 2027) - Tulsa, OK | Broken Arrow, OK |  | Dec 15, 2025 | [Apply](https://www.interstates.com/careers/jobs?gh_jid=4078699009&gh_jid=4078699009) |
 | [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 25, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Business Operations and Leadership Internship | Eden Prairie, MN | Paid | Nov 25, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8701/business-operations-and-leadership-internship/job) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Human Resources Operations Internship - Summer 2027 | Reston, VA | Paid | Nov 25, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8694/human-resources-operations-internship---summer-2027/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

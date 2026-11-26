@@ -1,10 +1,9 @@
 # Education: Summer 2027 Internships
 
-29 open Summer 2027 education roles, newest first (all 29). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 170 education internships on InternScout](https://internscout.org/internships/education/)
+28 open Summer 2027 education roles, newest first (all 28). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 169 education internships on InternScout](https://internscout.org/internships/education/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| [Draper](https://internscout.org/internships/at/draper/) | HWIL & Real Time Simulation Intern (Summer 2027) | Cambridge, MA |  | Nov 24 | [Apply](https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/HWIL---Real-Time-Simulation-Intern--Summer-2027-_JR003188) |
 | [Draper](https://internscout.org/internships/at/draper/) | Space GNC Intern (Summer 2027) | Houston, TX |  | Nov 23 | [Apply](https://draper.wd5.myworkdayjobs.com/draper_careers/job/Houston-TX/Space-GNC-Intern--Summer-2027-_JR003127) |
 | [Draper](https://internscout.org/internships/at/draper/) | Operational Analysis Intern (Summer 2027) | Cambridge, MA |  | Nov 20 | [Apply](https://draper.wd5.myworkdayjobs.com/draper_careers/job/Cambridge-MA/Operational-Analysis-Intern--Summer-2027-_JR003182) |
 | [Pennsylvania State University](https://internscout.org/internships/at/pennsylvania-state-university/) | Energy Savings Program Intern | University Park, State College, PA |  | Nov 13 | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Energy-Savings-Program-Intern_REQ_0000084318-1) |

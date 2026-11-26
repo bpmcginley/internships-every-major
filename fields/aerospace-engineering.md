@@ -1,9 +1,10 @@
 # Aerospace Engineering: Summer 2027 Internships
 
-25 open Summer 2027 aerospace engineering roles, newest first (all 25). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 45 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
+26 open Summer 2027 aerospace engineering roles, newest first (all 26). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 46 aerospace engineering internships on InternScout](https://internscout.org/internships/aerospace-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Shield AI](https://internscout.org/internships/at/shield-ai/) | 2027 Summer Intern - X-BAT Engineering Avionics - 5923 | Dallas, TX, US +1 |  | Nov 25 | [Apply](https://jobs.ashbyhq.com/shield/aa894b5e-8101-4980-a716-785ce34e1286/application) |
 | Astrion | Aerospace Engineering Internship 2027 | Columbia, Maryland | \$30.00 | Nov 18 | [Apply](https://careers.astrion.us/jobs/25746) |
 | [Koch Industries](https://internscout.org/internships/at/koch-industries/) | Product Management Intern - Aerospace & Defense Solutions | Georgetown, TX |  | Nov 13 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/197821) |
 | [Reliable Robotics](https://internscout.org/internships/at/reliable-robotics/) | Flight Test Integration Engineer Intern (Summer 2027) | Mountain View, CA +1 |  | Nov 13 | [Apply](https://jobs.ashbyhq.com/reliable-robotics/1d020651-71bb-4e47-baa6-2286dc780d96/application) |

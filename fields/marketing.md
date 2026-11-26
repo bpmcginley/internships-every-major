@@ -1,9 +1,11 @@
 # Marketing: Summer 2027 Internships
 
-134 open Summer 2027 marketing roles, newest first (all 134). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 386 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+135 open Summer 2027 marketing roles, newest first (all 135). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 386 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Duetti](https://internscout.org/internships/at/duetti/) | 2027 Summer Internship - Frontline Marketing Intern | New York, NY |  | Nov 25 | [Apply](https://jobs.lever.co/duetti/aa8990f5-37e5-4ccf-bbfa-e18427c881b8/apply) |
+| [Fortive](https://internscout.org/internships/at/fortive/) | AI Enablement Intern- Marketing | Everett, WA |  | Nov 25 | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10795) |
 | [Lunar Outpost](https://internscout.org/internships/at/lunar-outpost/) | Marketing Intern - Summer 2027 | Golden, Colorado |  | Nov 25 | [Apply](https://lunaroutpost.bamboohr.com/careers/421) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Marketing and Communications | Baltimore, MD |  | Nov 25 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Marketing-and-Communications-MD-21230/1434386400/) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Intern-Marketing Operations | Detroit, MI |  | Nov 24 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15206) |
@@ -130,7 +132,6 @@
 | [IDEMIA](https://internscout.org/internships/at/idemia/) | Marketing & Events Internship - Jan 2027 | Reston, VA | Paid | Nov 25, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8676/marketing-%26-events-internship---jan-2027/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Marketing Intern – ShureCloud & Customer Value Streams | Niles, IL | \$23-\$43 per hour | Nov 25, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4988/global-marketing-intern-%e2%80%93-shurecloud-%26-customer-value-streams/job) |
 | [Shure](https://internscout.org/internships/at/shure/) | Global Marketing Intern (Events & Content Small Scale) | Niles, IL | \$23-\$43 per hour | Nov 25, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5023/global-marketing-intern-%28events-%26-content-small-scale%29/job) |
-| Dee Zee | Marketing Intern | Des Moines, IA |  | Nov 25 | [Apply](https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Marketing-Intern_REQ00383) |
 | Manulife | Summer Intern 2027 - Canada Retail Marketing | Toronto, ON | \$44,900.00 | Nov 24 | [Apply](https://careers.manulife.com/global/en/job/JR26091051/Summer-Intern-2027-Canada-Retail-Marketing?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Marketing Internship Program | Boston, Massachusetts | \$23.00 - \$27.50 per hour | Nov 18 | [Apply](https://se.jibeapply.com/jobs/140487) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Summer 2027 Product Marketing Intern | Boston, Massachusetts +1 | \$23.00-\$27.50 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/138534) |

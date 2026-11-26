@@ -1,15 +1,17 @@
 # Consulting: Summer 2027 Internships
 
-81 open Summer 2027 consulting roles, newest first (all 81). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 130 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+86 open Summer 2027 consulting roles, newest first (all 86). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 133 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Fortive](https://internscout.org/internships/at/fortive/) | Commercial Strategy Intern | Everett, WA |  | Nov 25 | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/11082) |
 | Resultant | Data & Analytics Consultant Intern | Indianapolis, IN |  | Nov 20 | [Apply](https://jobs.smartrecruiters.com/Resultant/744000162782371) |
 | The SilverLogic | AI Engineer/Consultant Intern | Boca Raton, FL |  | Nov 20 | [Apply](https://go.vansh.nyc/1EE) |
 | [iCapital Network](https://internscout.org/internships/at/icapital-network/) | Enterprise Initiatives and Governance - Summer 2027 Intern | New York, New York, United States | \$43.50 per hour | Nov 20 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938000002) |
 | [CAS](https://internscout.org/internships/at/cas/) | CAS 2027 Technology Summer Intern - Business Data Governance | Columbus, OH |  | Nov 20 | [Apply](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=1fe1ecbc-5b12-4c0e-a2cf-5d75049ab527) |
 | [CAS](https://internscout.org/internships/at/cas/) | Technology Intern, Business Data Governance | Columbus, OH |  | Nov 20 | [Apply](https://go.vansh.nyc/1E6) |
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Power Strategy Intern (MBA) (Summer 2027) | Delaware, OH |  | Nov 20 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20285727) |
+| [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program (AI CAP) People Analytics Intern, Summer 2027 | Chicago, IL +5 | \$35-40 per hour | Nov 18 | [Apply](https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application) |
 | Attain Partners | Summer 2027 Consulting Intern | McLean, VA | Paid | Nov 17 | [Apply](https://job-boards.greenhouse.io/attainpartners/jobs/5485402008) |
 | [KPMG](https://internscout.org/internships/at/kpmg/) | Edmonton Consulting Summer Internship, Operations - Government Solutions (May - August 2027) | Edmonton, Alberta, Canada |  | Nov 16 | [Apply](https://careers.kpmg.ca/jobs/36504) |
 | [KPMG](https://internscout.org/internships/at/kpmg/) | Calgary Summer Internship, Consulting (May - August 2027) | Calgary, Alberta, Canada |  | Nov 16 | [Apply](https://careers.kpmg.ca/jobs/36503) |
@@ -37,6 +39,9 @@
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Engineer Intern, AI Consulting Associate Program | Chicago, IL +1 |  | Oct 20 | [Apply](https://go.vansh.nyc/de) |
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program – AI Engineer Intern | Chicago, IL +1 |  | Oct 20 | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8039350003) |
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program Brokerage Intern | Chicago, IL |  | Oct 20 | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8039368003) |
+| [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program (AI CAP) Product Owner Intern, Summer 2027 | Chicago, IL +4 | \$35-40 per hour | Oct 20 | [Apply](https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application) |
+| [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program (AI CAP) Engineering Intern, Summer 2027 | Chicago, IL +4 | \$35-40 per hour | Oct 20 | [Apply](https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a/application) |
+| [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program (AI CAP) Brokerage Intern, Summer 2027 | Chicago, IL +2 | \$35-40 per hour | Oct 20 | [Apply](https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16/application) |
 | [Amplify](https://internscout.org/internships/at/amplify/) | Summer 2027: Corporate Strategy Intern | Remote |  | Oct 19 | [Apply](https://jobs.ashbyhq.com/amplify/9d58173f-3112-4c03-b393-3c2dab4c1e20/application) |
 | Seagate Technology | Machine Learning for Corporate Strategy Intern | Bloomington, MN |  | Oct 18 | [Apply](https://go.vansh.nyc/Sr) |
 | [Danaher Corporation](https://internscout.org/internships/at/danaher/) | CCM Data Governance Intern | Logan, UT |  | Oct 15 | [Apply](https://go.vansh.nyc/9F) |

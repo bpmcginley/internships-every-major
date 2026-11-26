@@ -1,9 +1,11 @@
 # Environmental Science and Engineering: Summer 2027 Internships
 
-140 open Summer 2027 environmental science and engineering roles, newest first (all 140). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 307 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
+141 open Summer 2027 environmental science and engineering roles, newest first (all 141). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 305 environmental science and engineering internships on InternScout](https://internscout.org/internships/environmental/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Post Holdings](https://internscout.org/internships/at/post-holdings/) | Safety Intern, Summer 2027 | Wakefield, Nebraska |  | Nov 25 | [Apply](https://jobs.postholdings.com/jobs/37124) |
+| [Fortive](https://internscout.org/internships/at/fortive/) | EHS Intern | Everett, WA |  | Nov 25 | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10894) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | Richmond, Virginia | \$20.00 | Nov 25 | [Apply](https://careers.trccompanies.com/jobs/30513) |
 | [Corning](https://internscout.org/internships/at/corning/) | Environmental Intern- Summer 2027 | Painted Post, NY | \$1,635.00 - \$3,185.00 | Nov 25 | [Apply](https://corningjobs.corning.com/job/Painted-Post-Environmental-Intern-Summer-2027-NY-14870/1444011700/) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Geographic Information Systems Science Intern - Summer 2027 | Denver, CO | \$22.60 - \$29.38 | Nov 24 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99829) |
@@ -41,9 +43,9 @@
 | [Nucor](https://internscout.org/internships/at/nucor/) | Safety and Health Intern (Summer 2027) | Salt Lake City, UT | \$27.00/Hour | Nov 10 | [Apply](https://jobs.nucor.com/job/Salt-Lake-City-Safety-and-Health-Intern-%28Summer-2027%29-UT-84104/1449345000/) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Water Resources Engineering Intern- Summer 2027 | Morristown, NJ |  | Nov 9 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98933) |
 | [Windstar Cruises](https://internscout.org/internships/at/windstar-cruises/) | Summer 2027 Sustainability Internship - Oasis at Death Valley | Death Valley, California | \$16.90 per hour | Nov 6 | [Apply](https://www.xanterrajobs.com/jobs/40118) |
+| [Berkshire Hathaway Energy](https://internscout.org/internships/at/berkshire-hathaway-energy/) | Renewable Generation Performance Intern | Des Moines, IA |  | Nov 5 | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006008) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Renewable Energy Intern - Houston Office | Houston, Texas +1 | Paid | Nov 4 | [Apply](https://jobs.constellationenergy.com/jobs/141851) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Water Resources Engineering Intern- Summer 2027 | New York, NY |  | Nov 4 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98676) |
-| [Berkshire Hathaway Energy](https://internscout.org/internships/at/berkshire-hathaway-energy/) | Intern - Renewable Generation Performance | Des Moines, IA |  | Nov 4 | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006008) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Sustainability & Energy Engineering Intern | St. Louis, MO +3 | \$22.00–\$24.00 per hour | Nov 3 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Sustainability---Energy-Engineering-Intern_R-16761) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Masters Environmental Engineering Intern (Summer 2027!) | Austin, Texas | \$38.72 | Nov 2 | [Apply](https://careers.cdmsmith.com/jobs/4141) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Environmental Intern | West Allis, Wisconsin | \$20.00 | Oct 30 | [Apply](https://careers.trccompanies.com/jobs/27681) |
@@ -115,7 +117,6 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Manchester, New Hampshire | \$35.20 | Sep 15 | [Apply](https://careers.cdmsmith.com/jobs/4376) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Environmental Engineering Intern - Water Services (Summer 2027!) | Columbia, South Carolina | \$36.96 | Sep 15 | [Apply](https://careers.cdmsmith.com/jobs/4091) |
 | [Dallas Fort Worth International Airport](https://internscout.org/internships/at/dallas-fort-worth-international-airport/) | Undergraduate Internship - Geospatial Data | Dallas, TX |  | Sep 15 | [Apply](https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Internship---Geospatial-Data_JR102119-1) |
-| [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Intern - Employee Health & Safety | Chino, California | \$25.00 per hour | Sep 14 | [Apply](https://careers.na.panasonic.com/jobs/50851) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Sustainability and Climate Strategy Intern (Remote) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138731) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern – Contractor Safety | HOUSTON, Texas |  | Sep 11 | [Apply](https://careers.kindermorgan.com/jobs/6187) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern – Field Environmental Services (FES) | HOUSTON, Texas |  | Sep 11 | [Apply](https://careers.kindermorgan.com/jobs/6180) |

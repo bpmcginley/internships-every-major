@@ -1,12 +1,15 @@
 # Supply Chain: Summer 2027 Internships
 
-79 open Summer 2027 supply chain roles, newest first (all 79). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 185 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
+82 open Summer 2027 supply chain roles, newest first (all 82). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 185 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Fortive](https://internscout.org/internships/at/fortive/) | Supply Chain Intern | Everett, WA |  | Nov 25 | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10873) |
+| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Supply Chain, Planning and Allocation | Baltimore, MD |  | Nov 25 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Supply-Chain%2C-Planning-and-Allocation-MD-21230/1434326400/) |
 | [Pacific Fusion](https://internscout.org/internships/at/pacific-fusion/) | Summer 2027 Inventory, Facility, and Logistics Internship | Los Lunas, NM | Paid | Nov 24 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4517332009) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 Supply Chain Summer Internship - Supply Chain MGMT Intern | Newport News, Virginia | \$46,000.00 to \$60,000.00 | Nov 23 | [Apply](https://careers.huntingtoningalls.com/job/Newport-News-2027-SUPPLY-CHAIN-SUMMER-INTERNSHIP-SUPPLY-CHAIN-MGMT-INTERN-Virg/1424488900/) |
 | [Pivotal Software](https://internscout.org/internships/at/pivotal-software/) | Internship, Supply Chain Analyst (Summer 2027) | Palo Alto, CA |  | Nov 21 | [Apply](https://jobs.lever.co/pivotal/711d6c44-a1f9-4ab4-943f-b6e8d53194be/apply) |
+| [Zoox](https://internscout.org/internships/at/zoox/) | Supply Chain AI Intern \[Summer 2027\] | Foster City, CA |  | Nov 20 | [Apply](https://jobs.lever.co/zoox/1a41e141-7e0b-4474-b4eb-bf89032bd7a8/apply) |
 | [AtriCure, Inc.](https://internscout.org/internships/at/atricure/) | Sourcing Project Engineer Co-op (Summer 2027) | Mason, OH |  | Nov 20 | [Apply](https://job-boards.greenhouse.io/atricure/jobs/4517172009) |
 | [Formlabs](https://internscout.org/internships/at/formlabs/) | 2027 (Summer) Marketing Events Logistics Intern | Somerville, MA | \$1,050 | Nov 20 | [Apply](https://careers.formlabs.com/job/8400561/apply/?gh_jid=8400561) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Supply Chain Management Intern | Sparks, Nevada |  | Nov 20 | [Apply](https://careers.na.panasonic.com/jobs/51640) |

@@ -1,6 +1,6 @@
 # Product Management: Summer 2027 Internships
 
-179 open Summer 2027 product management roles, newest first (all 179). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 273 product management internships on InternScout](https://internscout.org/internships/product-management/)
+180 open Summer 2027 product management roles, newest first (all 180). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 276 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Koch Industries](https://internscout.org/internships/at/koch-industries/) | Product Management Intern - Aerospace & Defense Solutions | Georgetown, TX |  | Nov 13 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/197821) |
 | [ServiceNow](https://internscout.org/internships/at/servicenow/) | Senior Outbound Product Manager Intern | San Diego, CA |  | Nov 13 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161590090) |
 | [ServiceNow](https://internscout.org/internships/at/servicenow/) | Senior Inbound Product Manager Intern | San Diego, CA |  | Nov 13 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161584449) |
-| [Addepar](https://internscout.org/internships/at/addepar/) | Product Analyst (Navigator) - Summer 2027 | New York, NY +1 | \$31.00 per hour | Nov 13 | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8910306002) |
+| [Addepar](https://internscout.org/internships/at/addepar/) | Product Analyst (Navigator) Intern - Summer 2027 | New York, NY +1 | \$31.00 per hour | Nov 13 | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8910306002) |
 | Watts Water | Product Management Co-op | Menomonee Falls, WI |  | Nov 13 | [Apply](https://wattswater.wd5.myworkdayjobs.com/external/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1) |
 | [Entegris](https://internscout.org/internships/at/entegris/) | Associate Product Manager Intern | Chaska, MN |  | Nov 13 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844) |
 | [Entegris](https://internscout.org/internships/at/entegris/) | Product Management Intern | Colorado Springs, CO |  | Nov 12 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Product-Management-Intern_REQ-15838) |
@@ -80,6 +80,7 @@
 | Allstate | Product Management Advertising Intern | Illinois |  | Oct 21 | [Apply](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280) |
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program Product Owner Intern | Chicago, IL +1 |  | Oct 20 | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8038087003) |
 | [DriveWealth](https://internscout.org/internships/at/drivewealth/) | Product Owner Intern, AI Consulting Associate Program | Chicago, IL +1 |  | Oct 20 | [Apply](https://go.vansh.nyc/df) |
+| [DriveWealth](https://internscout.org/internships/at/drivewealth/) | AI Consulting Associate Program (AI CAP) Product Owner Intern, Summer 2027 | Chicago, IL +4 | \$35-40 per hour | Oct 20 | [Apply](https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application) |
 | [Amplify](https://internscout.org/internships/at/amplify/) | Summer 2027: Product Management Intern | Remote +1 |  | Oct 19 | [Apply](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application) |
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Product Management Intern | Downers Grove, IL |  | Oct 19 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Product Manager MBA Intern - Enterprise AI | Santa Clara, CA |  | Oct 19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707) |
@@ -87,7 +88,7 @@
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Product Management MBA Intern | Santa Clara, CA |  | Oct 15 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905) |
 | [Blue Origin](https://internscout.org/internships/at/blue-origin/) | Terawave Product Management Intern - MBA | Kent, WA |  | Oct 15 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Kent-WA/Summer-2027-Terawave-Product-Management-Internship---MBA_R74200) |
 | [General Motors](https://internscout.org/internships/at/general-motors/) | Product Management Intern - Vehicle Autonomy | Sunnyvale, CA |  | Oct 14 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449) |
-| [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | EMG Program Manager Intern IS \| Summer 2027 | Deer Park, TX |  | Oct 14 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166908) |
+| [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | EMG Program Manager Intern IS \| Summer 2027 | Deer Park, TX | \$20/hour | Oct 14 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166908) |
 | [ADT](https://internscout.org/internships/at/adt/) | Product Management & Product Operations Intern | Boca Raton, FL |  | Oct 12 | [Apply](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393) |
 | [Rivian](https://internscout.org/internships/at/rivian/) | Business and Administrative Intern - Strategy Analyst, CCO Strategy and Program Management | Palo Alto, California | \$28,00-51.00 per hour | Oct 12 | [Apply](https://careers.rivian.com/jobs/34239) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Creative Product Manager Intern - Multiple Teams | San Jose, CA |  | Oct 9 | [Apply](https://lifeattiktok.com/search/7693732178706974981) |

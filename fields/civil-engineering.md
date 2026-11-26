@@ -1,6 +1,6 @@
 # Civil Engineering: Summer 2027 Internships
 
-218 open Summer 2027 civil engineering roles, newest first (the 200 newest of 218). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 485 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+218 open Summer 2027 civil engineering roles, newest first (the 200 newest of 218). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 482 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -34,7 +34,6 @@
 | [WSP](https://internscout.org/internships/at/wsp/) | Geotechnical Engineering Intern - Summer 2027 | Reno, NV |  | Nov 11 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98841) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Geotechnical Engineering Intern - Summer 2027 | Elko, NV |  | Nov 11 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99165) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Construction Intern, Summer 2027 | Harrisburg, PA |  | Nov 11 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310191) |
-| [Kimley-Horn](https://internscout.org/internships/at/kimley-horn/) | Civil Engineering Co-Op | Toronto, Ontario, Canada |  | Nov 10 | [Apply](https://careers.kimley-horn.com/jobs/26716) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Civil Engineering Intern, Rotational Program - Summer 2027 | Harrisburg, PA |  | Nov 10 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310189) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Structural Engineering Intern - Summer 2027 | Goshen, NY |  | Nov 9 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98934) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Structural Engineering Intern - Summer 2027 | Valhalla, NY |  | Nov 9 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98940) |
@@ -69,6 +68,7 @@
 | [Kimley-Horn](https://internscout.org/internships/at/kimley-horn/) | Structural Intern | Roseville, California | \$30.00/hr | Oct 28 | [Apply](https://careers.kimley-horn.com/jobs/27381) |
 | [Kimley-Horn](https://internscout.org/internships/at/kimley-horn/) | Civil Engineering Intern- Water/Wastewater | Sacramento, California | \$30.00/hr | Oct 28 | [Apply](https://careers.kimley-horn.com/jobs/27380) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Structural Engineering Intern- Summer 2027 | Houston, TX |  | Oct 28 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98461) |
+| [Westinghouse Electric Company](https://internscout.org/internships/at/westinghouse-electric-company/) | Summer Intern - Civil / Structural Engineering | Rock Hill, SC | \$25.40 to \$29.00 per hour | Oct 28 | [Apply](https://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Civil-Structural-Engineering-SC-29730/1425159200/) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Infrastructure (Summer 2027) | Fort Myers, FL |  | Oct 27 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008446) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Internship - Community Development (Summer 2027) | Minneapolis, MN +1 |  | Oct 27 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008526) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Infrastructure (Summer 2027) | Naples, FL |  | Oct 27 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008448) |
