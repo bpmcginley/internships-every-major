@@ -1,6 +1,6 @@
 # Accounting: Summer 2027 Internships
 
-70 open Summer 2027 accounting roles, newest first (all 70). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 157 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+70 open Summer 2027 accounting roles, newest first (all 70). **Updated November 26, 2026.** [Back to every major](../README.md) · [See all 157 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -67,8 +67,8 @@
 | [Andersen](https://internscout.org/internships/at/andersen/) | Intern – Tax Services – Summer 2027 – (Hybrid) | Los Angeles, California | \$36.00 to \$45.00 per hour | Aug 24 | [Apply](https://careers.andersen.com/jobs/7255) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Audit (New York, NY) | New York, NY |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81248) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Audit (Pittsburgh, PA) | Pittsburgh, PA |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81262) |
-| [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Accounting) | St Petersburg, FL |  | Nov 25, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37666/2027-summer-intern-%28accounting%29/job) |
-| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Internship - Technology Assurance | Portland, ME | \$30 per hour | Nov 25, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4021/summer-2027-internship---technology-assurance/job) |
+| [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Accounting) | St Petersburg, FL |  | Nov 26, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37666/2027-summer-intern-%28accounting%29/job) |
+| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Internship - Technology Assurance | Portland, ME | \$30 per hour | Nov 26, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4021/summer-2027-internship---technology-assurance/job) |
 | Welch LLP | 2027 Accounting Co-Op Student | Ottawa, ON | \$52,000 – \$54,000 | Nov 25 | [Apply](https://ca.indeed.com/viewjob?jk=f62f5b486e08f62c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Division Accounting | Denton, TX |  | Nov 13 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Division-Accounting-TX-76205-7864/1457311133/) |
 | [AAR](https://internscout.org/internships/at/aar/) | Accounting Intern | Chicago, Illinois | \$22/hr | Nov 12 | [Apply](https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=18991) |

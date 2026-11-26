@@ -1,6 +1,6 @@
 # Nursing: Summer 2027 Internships
 
-15 open Summer 2027 nursing roles, newest first (all 15). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 47 nursing internships on InternScout](https://internscout.org/internships/nursing/)
+11 open Summer 2027 nursing roles, newest first (all 11). **Updated November 26, 2026.** [Back to every major](../README.md) · [See all 31 nursing internships on InternScout](https://internscout.org/internships/nursing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -15,10 +15,6 @@
 | [Mayo Clinic](https://internscout.org/internships/at/mayo-clinic/) | SEMN Summer Student Nurse Internship - SNI | Cannon Falls, MN |  | Nov 2 | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394337) |
 | [Mayo Clinic](https://internscout.org/internships/at/mayo-clinic/) | Summer III Student Nurse Internship | Rochester, MN |  | Nov 2 | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394566) |
 | [Mayo Clinic](https://internscout.org/internships/at/mayo-clinic/) | NWWI Summer Student Nurse Internship - SNI | Eau Claire, WI | Paid | Nov 2 | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394619) |
-| GreatCampJobs | Nursing Student Internship – Summer 2027 | United States | \$2,000–\$2,700 | Nov 24 | [Apply](https://careerlaunchpad.arcadia.edu/jobs/greatcampjobs-nursing-student-internship-summer-2027/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| Children's Minnesota | Summer Nurse Intern 2027 | Minnesota | \$22.79 hour | Nov 24 | [Apply](https://careers.childrensmn.org/us/en/job/260271O6/Summer-Nurse-Intern-2027?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| Memorial Health | Summer 2027 Student Nurse Intern - Lincoln Memorial Hospital - ED | Lincoln, IL |  | Nov 24 | [Apply](https://jobs.memorial.health/job/jr100662/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| Hartford HealthCare Corp. | 2027 Summer Student Nurse Intern Program | Bridgeport, CT (+6 others) +1 |  | Nov 24 | [Apply](https://www.hhccareers.org/us/en/job/HHKHHEUS26165695EXTERNALENUS/2027-Summer-Student-Nurse-Intern-Program?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

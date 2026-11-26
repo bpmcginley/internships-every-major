@@ -1,9 +1,10 @@
 # Sustainability: Summer 2027 Internships
 
-66 open Summer 2027 sustainability roles, newest first (all 66). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 105 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
+67 open Summer 2027 sustainability roles, newest first (all 67). **Updated November 26, 2026.** [Back to every major](../README.md) · [See all 104 sustainability internships on InternScout](https://internscout.org/internships/sustainability/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Wabash Valley Power Alliance | Energy Efficiency & Demand Response Intern - Summer 2027 | Indianapolis, IN |  | Nov 25 | [Apply](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000163744159) |
 | [Entergy](https://internscout.org/internships/at/entergy/) | Student, Intern Enterprise Safety Summer 2027 | Jackson, Mississippi |  | Nov 21 | [Apply](https://jobs.entergy.com/job/Jackson-Student%2C-Intern-Enterprise-Safety-Summer-2027-Miss/1433660400/) |
 | The Allen Institute for AI | Research Intern - Climate Modeling | Seattle, WA |  | Nov 20 | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8404052) |
 | [TRC Companies](https://internscout.org/internships/at/trc-companies/) | Advanced Energy Intern | Richmond, Virginia | \$20.00 | Nov 20 | [Apply](https://careers.trccompanies.com/jobs/29953) |
@@ -68,7 +69,7 @@
 | [Aramco Americas](https://internscout.org/internships/at/aramco-americas/) | Technical Services - 2027 Summer Student Program | Houston, TX |  | Sep 8 | [Apply](https://aramcoservices.applytojob.com/apply/KVQYkcqzGr/Technical-Services-2027-Summer-Student-Program) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern -Permitting | HOUSTON, Texas |  | Sep 2 | [Apply](https://careers.kindermorgan.com/jobs/6174) |
 | Tarrant Regional Water District | Energy Intern | Fort Worth, TX |  | Sep 1 | [Apply](https://trwd.wd1.myworkdayjobs.com/TRWDCareers/job/Fort-Worth-TX/Summer-2027-Energy-Intern--T047-_JR100217) |
-| [Shure](https://internscout.org/internships/at/shure/) | Data Driven Sustainability Intern | Niles, IL | \$23-\$43 per hour | Nov 25, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4979/data-driven-sustainability-intern/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Data Driven Sustainability Intern | Niles, IL | \$23-\$43 per hour | Nov 26, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4979/data-driven-sustainability-intern/job) |
 | [Moss & Associates](https://internscout.org/internships/at/moss-associates/) | Energy Internship: Summer 2027 | FLORIDA |  | Nov 25 | [Apply](https://mosscm.wd1.myworkdayjobs.com/moss_careers/job/FLORIDA/Energy-Internship--Summer-2027_R-2719) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

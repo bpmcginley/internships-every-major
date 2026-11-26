@@ -1,12 +1,12 @@
 # Film: Summer 2027 Internships
 
-5 open Summer 2027 film roles, newest first (all 5). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 19 film internships on InternScout](https://internscout.org/internships/film/)
+5 open Summer 2027 film roles, newest first (all 5). **Updated November 26, 2026.** [Back to every major](../README.md) · [See all 21 film internships on InternScout](https://internscout.org/internships/film/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Mom's Meals](https://internscout.org/internships/at/mom-s-meals/) | Production Intern (Mechanical Engineering) | Oklahoma City, OK |  | Nov 18 | [Apply](https://jobs.lever.co/momsmeals/ff278459-9abf-43af-9898-2d16cfb0ac74/apply) |
-| Blizzard Entertainment | Animation & Cinematic Tools Engineering Intern | Irvine, CA |  | Nov 13 | [Apply](https://go.vansh.nyc/1zQ) |
-| Blizzard Entertainment | Animation & Cinematic Tools Engineering Intern - Animation & Cinematic Tools Engineering | Irvine, CA |  | Nov 13 | [Apply](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Animation---Cinematic-Tools-Engineering_R028350) |
+| [Blizzard Entertainment](https://internscout.org/internships/at/blizzard-entertainment/) | Animation & Cinematic Tools Engineering Intern | Irvine, CA |  | Nov 13 | [Apply](https://go.vansh.nyc/1zQ) |
+| [Blizzard Entertainment](https://internscout.org/internships/at/blizzard-entertainment/) | Animation & Cinematic Tools Engineering Intern - Animation & Cinematic Tools Engineering | Irvine, CA |  | Nov 13 | [Apply](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Animation---Cinematic-Tools-Engineering_R028350) |
 | [Jomboy Media](https://internscout.org/internships/at/jomboy-media/) | Content Production Internship - Summer 2027 | New York, New York, United States |  | Nov 3 | [Apply](https://job-boards.greenhouse.io/jomboymedia/jobs/4478128009) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Web Production Intern – Summer 2027 | Addison, TX +1 | Paid | Sep 14 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403671009) |
 

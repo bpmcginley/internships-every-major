@@ -1,15 +1,17 @@
 # Hardware Engineering: Summer 2027 Internships
 
-282 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 282). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 684 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
+284 open Summer 2027 hardware engineering roles, newest first (the 200 newest of 284). **Updated November 26, 2026.** [Back to every major](../README.md) · [See all 683 hardware engineering internships on InternScout](https://internscout.org/internships/hardware-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Tesla](https://internscout.org/internships/at/tesla/) | Robotics Audio DSP Engineer Intern | Palo Alto, CA |  | Nov 25 | [Apply](https://www.tesla.com/careers/search/job/291227) |
+| [SambaNova](https://internscout.org/internships/at/sambanova/) | Post-Silicon Validation Engineer Intern | Austin, TX +1 |  | Nov 25 | [Apply](https://go.vansh.nyc/1JJ) |
+| SambaNova Systems | Post-Silicon Validation Engineer Intern | Austin, TX +1 |  | Nov 25 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271200004) |
 | Reach Labs | Hardware Prototyping Intern | Redwood City, CA |  | Nov 24 | [Apply](https://go.vansh.nyc/1IF) |
 | [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Design Verification Intern | Boston, MA |  | Nov 24 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5493962008) |
 | [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Design Verification Intern | Mountain View, CA |  | Nov 24 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5474684008) |
 | Ameren | Robotics, AI, OT, Software Development Intern | St. Louis, MO |  | Nov 24 | [Apply](https://go.vansh.nyc/1Iz) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | Robotics Intern | Laurel, MD |  | Nov 24 | [Apply](https://go.vansh.nyc/1ID) |
-| [Intel](https://internscout.org/internships/at/intel/) | Design Verification Intern | Fort Collins, CO +3 |  | Nov 24 | [Apply](https://go.vansh.nyc/1Ie) |
 | [Altera](https://internscout.org/internships/at/altera/) | Embedded Solutions Intern | Toronto, Canada |  | Nov 24 | [Apply](https://go.vansh.nyc/1Ii) |
 | [Aerospace Corporation](https://internscout.org/internships/at/aerospace-corporation/) | Embedded Software Engineering Undergrad Intern | El Segundo, CA |  | Nov 24 | [Apply](https://go.vansh.nyc/1J8) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Firmware Engineering Intern, Advanced Development | Needham, MA |  | Nov 24 | [Apply](https://go.vansh.nyc/1HJ) |
@@ -202,8 +204,6 @@
 | [Zurn Elkay Water Solutions](https://internscout.org/internships/at/zurn-elkay-water-solutions/) | Embedded Hardware Intern | Milwaukee, WI |  | Sep 25 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Embedded-Hardware-Intern--Summer-2027-_REQ-020151) |
 | Arista Networks | Hardware Engineering Intern | Nashua, NH |  | Sep 24 | [Apply](https://go.vansh.nyc/1tu) |
 | [Semtech](https://internscout.org/internships/at/semtech/) | Firmware Intern | Ottawa, ON, Canada +1 |  | Sep 24 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617) |
-| [Marvell](https://internscout.org/internships/at/marvell/) | Analog Design Intern Co-op - Master’s | Toronto, ON, Canada |  | Sep 24 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Design-Intern--Master-s---2027-Co-Op_2603862) |
-| [Semtech](https://internscout.org/internships/at/semtech/) | Analog Design Intern | Ottawa, ON, Canada |  | Sep 24 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Analog-Design-Intern_REQ3625) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

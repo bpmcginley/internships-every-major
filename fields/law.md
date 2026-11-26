@@ -1,6 +1,6 @@
 # Law and Legal: Summer 2027 Internships
 
-88 open Summer 2027 law and legal roles, newest first (all 88). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 155 law and legal internships on InternScout](https://internscout.org/internships/law/)
+89 open Summer 2027 law and legal roles, newest first (all 89). **Updated November 26, 2026.** [Back to every major](../README.md) · [See all 157 law and legal internships on InternScout](https://internscout.org/internships/law/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Road Commission for Oakland County](https://internscout.org/internships/at/road-commission-for-oakland-county/) | Legal Internship | Beverly Hills, Michigan |  | Sep 25 | [Apply](https://rcoc.bamboohr.com/careers/317) |
 | [Cummins Stránka pro zahájení kariéry](https://internscout.org/internships/at/cummins-str-nka-pro-zah-jen-kari-ry/) | Legal / Law Summer Internship Positions | Columbus, IN |  | Sep 24 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2437767) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Intern - Ethics and Compliance (Legal) | Pittsburgh, PA |  | Sep 24 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119616) |
+| [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Law - Orlando, FL CLC | Orlando, Florida | \$2,000 | Sep 16 | [Apply](https://jobs.statefarm.com/jobs/46171) |
 | [Emergent Holdings](https://internscout.org/internships/at/emergent-holdings/) | Summer 2027 Intern - Program Oversight/Marketing Compliance | Detroit, MI | Paid | Sep 16 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14772) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Public Policy Intern (Kennett Square, PA) | Kennett Square, Pennsylvania |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138711) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Policy Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175556?gh_jid=8175556) |
@@ -82,9 +83,9 @@
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Risk and Compliance (New York, NY) | New York, NY |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81271) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Risk and Compliance (Pittsburgh, PA) | Pittsburgh, PA |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81276) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Risk and Compliance (Lake Mary, FL) | Lake Mary, FL |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81277) |
-| [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Legal) | St Petersburg, FL |  | Nov 25, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37832/2027-summer-intern-%28legal%29/job) |
-| [Shure](https://internscout.org/internships/at/shure/) | Information Security Governance, Risk & Compliance Intern | Niles, IL | \$23-\$43 per hour | Nov 25, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job) |
-| [Shure](https://internscout.org/internships/at/shure/) | Global Trade Compliance Intern | Niles, IL | \$23-\$43 per hour | Nov 25, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5004/global-trade-compliance-intern/job) |
+| [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Legal) | St Petersburg, FL |  | Nov 26, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37832/2027-summer-intern-%28legal%29/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Information Security Governance, Risk & Compliance Intern | Niles, IL | \$23-\$43 per hour | Nov 26, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Global Trade Compliance Intern | Niles, IL | \$23-\$43 per hour | Nov 26, 2024 | [Apply](https://careersus-shure.icims.com/jobs/5004/global-trade-compliance-intern/job) |
 | Northern District of Indiana | Volunteer Law Intern (Summer 2027) | Fort Wayne, IN (+2 others) |  | Nov 25 | [Apply](https://www.usajobs.gov/job/893615200?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | ArchCity Defenders | Summer 2027 Housing & Civil Advocacy Legal Internship | St. Louis, MO | \$4200 | Nov 25 | [Apply](https://careers.hireology.com/archcitydefenders/2876579/description?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Federal Home Loan Bank of Indianapolis (FHLBI) | Paid Legal Intern — Finance & Banking (Hybrid) | Indianapolis, IN | Paid | Nov 25 | [Apply](https://www.jobleads.com/us/job/paid-legal-intern-finance-banking-hybrid--indianapolis--eb4bd55c873905f639bac568f13e1c9e9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |

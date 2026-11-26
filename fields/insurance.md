@@ -1,10 +1,11 @@
 # Insurance: Summer 2027 Internships
 
-21 open Summer 2027 insurance roles, newest first (all 21). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 33 insurance internships on InternScout](https://internscout.org/internships/insurance/)
+23 open Summer 2027 insurance roles, newest first (all 23). **Updated November 26, 2026.** [Back to every major](../README.md) · [See all 36 insurance internships on InternScout](https://internscout.org/internships/insurance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Zurich Insurance](https://internscout.org/internships/at/zurich-insurance/) | Underwriting Internship - Los Angeles - Summer 2027 | Irvine, CA | Paid | Nov 23 | [Apply](https://www.careers.zurich.com/job/Irvine-Underwriting-Internship-Los-Angeles-Summer-2027-CA-92602/1378264657/) |
+| AAA Club Alliance | 2027 Actuarial Intern - Remote | Arizona - Home Teleworkers | \$32.00 | Nov 19 | [Apply](https://aaaie.wd1.myworkdayjobs.com/csaacareers/job/Arizona---Home-Teleworkers/XMLNAME-2027-Actuarial-Intern---Remote_R7874-1) |
 | [Aon](https://internscout.org/internships/at/aon/) | Early Careers: RMI Summer Internship - Risk Capital & Reinsurance | New York, New York +5 | \$21.60 - \$27.60 hour | Nov 19 | [Apply](https://jobs.aon.com/jobs/113654) |
 | [Selective Insurance](https://internscout.org/internships/at/selective-insurance/) | Underwriting Summer Internship – Allentown, PA (Hybrid) | Allentown, Pennsylvania | \$22.00 | Nov 18 | [Apply](https://jobs.selective.com/jobs/5683) |
 | [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern-Property and Casualty Underwriting-Learning Analyst | Bloomington, Illinois +1 | \$24/hour | Nov 12 | [Apply](https://jobs.statefarm.com/jobs/46444) |
@@ -24,7 +25,8 @@
 | [Northmarq](https://internscout.org/internships/at/northmarq/) | Insurance Intern, Summer 2027 | Minneapolis, Minnesota, United States | \$22.00 per hour | Aug 25 | [Apply](https://job-boards.greenhouse.io/northmarq/jobs/5406134008) |
 | [National Life](https://internscout.org/internships/at/national-life/) | Actuarial Intern - Summer 2027 | Addison, TX +1 | Paid | Aug 19 | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4376293009) |
 | GuideWell Mutual | 2027 Actuarial Summer Internship | Jacksonville, FL |  | Aug 18 | [Apply](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41855) |
-| [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Global Risk Solutions Claims Internship - Summer 2027 | Plano, TX +5 |  | Nov 25, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261686/global-risk-solutions-claims-internship---summer-2027/job) |
+| [Liberty Mutual](https://internscout.org/internships/at/liberty-mutual/) | Global Risk Solutions Claims Internship - Summer 2027 | Plano, TX +5 |  | Nov 26, 2024 | [Apply](https://campus-libertymutual.icims.com/jobs/261686/global-risk-solutions-claims-internship---summer-2027/job) |
+| [Everest](https://internscout.org/internships/at/everest/) | 2027 Underwriter Summer Internship Program | Warren, NJ +2 | \$800 - \$1,000 per week | Nov 26 | [Apply](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Underwriter-Summer-Internship-Program_R7400) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

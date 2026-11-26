@@ -1,9 +1,10 @@
 # Civil Engineering: Summer 2027 Internships
 
-218 open Summer 2027 civil engineering roles, newest first (the 200 newest of 218). **Updated November 25, 2026.** [Back to every major](../README.md) · [See all 482 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
+217 open Summer 2027 civil engineering roles, newest first (the 200 newest of 217). **Updated November 26, 2026.** [Back to every major](../README.md) · [See all 480 civil engineering internships on InternScout](https://internscout.org/internships/civil-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Westinghouse Electric Company](https://internscout.org/internships/at/westinghouse-electric-company/) | Summer Intern - Civil / Structural Engineering | Rock Hill, SC | \$25.40 to \$29.00 per hour | Nov 26 | [Apply](https://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Civil-Structural-Engineering-SC-29730/1425159200/) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Bridge Inspection Intern- Summer 2027 | Baltimore, MD | Paid | Nov 25 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99738) |
 | [M/I Homes](https://internscout.org/internships/at/m-i-homes/) | Construction Internship - Columbus Summer 2027 | Columbus, Ohio |  | Nov 24 | [Apply](https://apply.workable.com/j/D2155C8742/apply) |
 | [Clyde Companies](https://internscout.org/internships/at/clyde-companies/) | Construction Intern | Orem, Utah | Paid | Nov 23 | [Apply](https://careers.clydeinc.com/jobs/23976) |
@@ -67,8 +68,6 @@
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - Structural Engineering Intern (Bridge Design, Summer 2027!) | Latham, New York | \$43.93 | Oct 29 | [Apply](https://careers.cdmsmith.com/jobs/4888) |
 | [Kimley-Horn](https://internscout.org/internships/at/kimley-horn/) | Structural Intern | Roseville, California | \$30.00/hr | Oct 28 | [Apply](https://careers.kimley-horn.com/jobs/27381) |
 | [Kimley-Horn](https://internscout.org/internships/at/kimley-horn/) | Civil Engineering Intern- Water/Wastewater | Sacramento, California | \$30.00/hr | Oct 28 | [Apply](https://careers.kimley-horn.com/jobs/27380) |
-| [WSP](https://internscout.org/internships/at/wsp/) | Structural Engineering Intern- Summer 2027 | Houston, TX |  | Oct 28 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98461) |
-| [Westinghouse Electric Company](https://internscout.org/internships/at/westinghouse-electric-company/) | Summer Intern - Civil / Structural Engineering | Rock Hill, SC | \$25.40 to \$29.00 per hour | Oct 28 | [Apply](https://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Civil-Structural-Engineering-SC-29730/1425159200/) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Infrastructure (Summer 2027) | Fort Myers, FL |  | Oct 27 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008446) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Internship - Community Development (Summer 2027) | Minneapolis, MN +1 |  | Oct 27 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008526) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Intern - Infrastructure (Summer 2027) | Naples, FL |  | Oct 27 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008448) |
@@ -204,6 +203,7 @@
 | [IMEG](https://internscout.org/internships/at/imeg/) | Civil Engineering Intern \| Bozeman, MT | Bozeman, MT | Paid | Oct 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Bozeman-MT/Civil-Engineering-Intern---Bozeman--MT_R-16529) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Civil Engineering Intern \| Melbourne, FL | Melbourne, FL | Paid | Oct 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Melbourne-FL/Civil-Engineering-Intern---Melbourne--FL_R-16840) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Structural Engineering Intern \| Pasadena, CA | Pasadena, CA | \$22.00 –\$24.00 per hour | Oct 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Pasadena-CA/Structural-Engineering-Intern---Pasadena--CA_R-16756) |
+| [IMEG](https://internscout.org/internships/at/imeg/) | Civil Engineering Intern \| Manassas, VA | Washington, DC | \$22.50-24.50 per hour | Oct 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Washington-DC/Intern---Civil-Engineering_R-16561) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
