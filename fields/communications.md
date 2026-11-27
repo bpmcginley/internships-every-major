@@ -1,6 +1,6 @@
 # Communications: Summer 2027 Internships
 
-19 open Summer 2027 communications roles, newest first (all 19). **Updated November 26, 2026.** [Back to every major](../README.md) · [See all 76 communications internships on InternScout](https://internscout.org/internships/communications/)
+17 open Summer 2027 communications roles, newest first (all 17). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 72 communications internships on InternScout](https://internscout.org/internships/communications/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -14,8 +14,6 @@
 | [Corning](https://internscout.org/internships/at/corning/) | R&D Intern, Optical Communications Development - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Nov 6 | [Apply](https://corningjobs.corning.com/job/Corning-R&D-Intern%2C-Optical-Communications-Development-Summer-2027-NY-14831/1448753800/) |
 | OTTO Engineering | Embedded Software Intern, Communications | Carpentersville, IL |  | Oct 30 | [Apply](https://go.vansh.nyc/122) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Information Communications Technology (ICT ) Intern - Buildings (Summer 2027) | Lynnwood, WA |  | Oct 22 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008438) |
-| STR | Graphic Design & Technical Communications Intern - Summer 2027 | Woburn, MA | \$25.20-\$54.00/hour | Oct 20 | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723386006) |
-| [Ursa Major](https://internscout.org/internships/at/ursa-major/) | 2027 Summer Marketing & Communications Intern | Berthoud, Colorado | \$30.00/hour | Oct 19 | [Apply](https://ursamajor.com/careers/?gh_jid=4744833005) |
 | [Ricoh](https://internscout.org/internships/at/ricoh/) | Software Engineer Intern, Graphic Communications | Boulder, CO |  | Oct 19 | [Apply](https://go.vansh.nyc/Vl) |
 | [Worthington Enterprises](https://internscout.org/internships/at/worthington-enterprises/) | Corporate Communications Intern | Columbus, OH |  | Oct 2 | [Apply](https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43366) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Communications Intern (Baltimore, MD) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138732) |

@@ -1,6 +1,6 @@
 # Nonprofit: Summer 2027 Internships
 
-16 open Summer 2027 nonprofit roles, newest first (all 16). **Updated November 26, 2026.** [Back to every major](../README.md) · [See all 47 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
+15 open Summer 2027 nonprofit roles, newest first (all 15). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 45 nonprofit internships on InternScout](https://internscout.org/internships/nonprofit/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -19,7 +19,6 @@
 | Auburn University | Advancement Internship - Fundraising | Auburn, AL | \$14.00/hour | Oct 2 | [Apply](https://jobs.auburn.edu/jobs/10540) |
 | [ACLU](https://internscout.org/internships/at/aclu/) | Summer 2027 Undergraduate Intern, National Security Project | New York, NY |  | Sep 28 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8842752002) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Philanthropy Intern (Multiple Locations) | Baltimore, Maryland |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138724) |
-| ArchCity Defenders | Summer 2027 Housing & Civil Advocacy Legal Internship | St. Louis, MO | \$4200 | Nov 25 | [Apply](https://careers.hireology.com/archcitydefenders/2876579/description?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

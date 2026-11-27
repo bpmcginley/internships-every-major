@@ -1,9 +1,10 @@
 # Government and Public Policy: Summer 2027 Internships
 
-38 open Summer 2027 government and public policy roles, newest first (all 38). **Updated November 26, 2026.** [Back to every major](../README.md) · [See all 207 government and public policy internships on InternScout](https://internscout.org/internships/government/)
+40 open Summer 2027 government and public policy roles, newest first (all 40). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 208 government and public policy internships on InternScout](https://internscout.org/internships/government/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [ViaSat](https://internscout.org/internships/at/viasat/) | Embedded Software Engineer Intern, Government | Tempe, AZ |  | Nov 24 | [Apply](https://go.vansh.nyc/1Kl) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Public Policy/Political Science (Rosemead) | Rosemead, CA |  | Nov 23 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Public-PolicyPolitical-Science-%28Rosemead%29-CA-91770-3714/1424642000/) |
 | [Systems Planning and Analysis (SPA)](https://internscout.org/internships/at/systems-planning-and-analysis-spa/) | Policy Intern - Summer 2027 | Alexandria, Virginia | \$23.00/Hr | Nov 20 | [Apply](https://spa.jibeapply.com/jobs/23728) |
 | Federal Energy Regulatory Commission | Student Trainee (Management Analysis) | District of Columbia, District of Columbia | \$41659 - \$54160 Per Year | Nov 19 | [Apply](https://www.usajobs.gov:443/job/893523800) |
@@ -39,8 +40,9 @@
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Public Policy Intern (Kennett Square, PA) | Kennett Square, Pennsylvania |  | Sep 14 | [Apply](https://jobs.constellationenergy.com/jobs/138711) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Policy Intern | Hybrid - New York, NY | Paid | Sep 8 | [Apply](https://www.coinbase.com/careers/positions/8175556?gh_jid=8175556) |
 | [Air Force Civilian Career Training](https://internscout.org/internships/at/air-force-civilian-career-training/) | Student Trainee | Clear AFB, Alaska +83 | \$36409 - \$52957 Per Year | Sep 1 | [Apply](https://www.usajobs.gov:443/job/882786200) |
-| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 26, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
-| [IDEMIA](https://internscout.org/internships/at/idemia/) | Government Relations Internship - Summer 2027 | Reston, VA |  | Nov 26, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8690/government-relations-internship---summer-2027/job) |
+| [Olsson](https://internscout.org/internships/at/olsson/) | Structural Engineering Internship - Federal Infrastructure | Overland Park, KS |  | Aug 31 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5396073008) |
+| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 27, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Government Relations Internship - Summer 2027 | Reston, VA |  | Nov 27, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8690/government-relations-internship---summer-2027/job) |
 | Port Authority of New York and New Jersey | Interest Form, 2027 Summer Internship Program | New York, New York | Paid | Sep 18 | [Apply](https://jobs.jobvite.com/panynj/job/ozTEAfwq/apply) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

@@ -1,9 +1,10 @@
 # Human Resources: Summer 2027 Internships
 
-51 open Summer 2027 human resources roles, newest first (all 51). **Updated November 26, 2026.** [Back to every major](../README.md) · [See all 129 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
+51 open Summer 2027 human resources roles, newest first (all 51). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 127 human resources internships on InternScout](https://internscout.org/internships/human-resources/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [JPMorgan Chase](https://internscout.org/internships/at/jpmorgan-chase/) | 2027 Applied AI - HR CDAO - Summer Associate | New York, NY +1 |  | Nov 26 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Human Resources | Baltimore, MD |  | Nov 25 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Human-Resources-MD-21230/1434321700/) |
 | [Nucor](https://internscout.org/internships/at/nucor/) | HR Intern - Summer 2027 | Grapeland, TX |  | Nov 23 | [Apply](https://jobs.nucor.com/job/Grapeland-HR-Intern-Summer-2027-TX-75844/1453220100/) |
 | [Nucor](https://internscout.org/internships/at/nucor/) | Talent & HR Intern | Rock Hill, SC |  | Nov 23 | [Apply](https://jobs.nucor.com/job/Rock-Hill-Talent-&-HR-Intern-SC-29730/1453146400/) |
@@ -21,7 +22,6 @@
 | [DP World](https://internscout.org/internships/at/dp-world/) | AI & Analytics (Talent Management) Intern | Charlotte, NC |  | Nov 10 | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27855) |
 | [Tradeweb](https://internscout.org/internships/at/tradeweb/) | Summer 2027 Human Resources Internship | New York, NY |  | Oct 26 | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301986) |
 | [Tradeweb](https://internscout.org/internships/at/tradeweb/) | Summer 2027 Human Resources Data & Analytics Internship | New York, NY +1 |  | Oct 26 | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301987) |
-| [Ursa Major](https://internscout.org/internships/at/ursa-major/) | 2027 Summer People Operations Intern | Berthoud, Colorado | \$30.00/hour | Oct 19 | [Apply](https://ursamajor.com/careers/?gh_jid=4745117005) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Bachelors/Masters - HR Intern (Summer 2027) | Atlanta, Georgia | \$35.91 | Oct 19 | [Apply](https://careers.cdmsmith.com/jobs/4806) |
 | [RF-SMART](https://internscout.org/internships/at/rf-smart/) | Human Resource Intern - Summer 2027 | Jacksonville, Florida, United States | \$20/hour | Oct 12 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5433175008) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Forward Deployed Engineer Intern (HR Technology) | Hybrid - New York, NY +2 | Paid | Oct 9 | [Apply](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510) |
@@ -51,9 +51,9 @@
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - People, Engagement, and Impact (New York, NY) | New York, NY |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81243) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - People, Engagement, and Impact (Pittsburgh, PA) | Pittsburgh, PA |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81246) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Intelligent Sensing Intern - Global Frontier Tech Recruitment Program | San Jose, CA |  | Jun 4 | [Apply](https://jobs.bytedance.com/en/position/7629210458173556997/detail) |
-| [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Human Resources) | St Petersburg, FL |  | Nov 26, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37730/2027-summer-intern-%28human-resources%29/job) |
-| [IDEMIA](https://internscout.org/internships/at/idemia/) | Compensation and Benefits Intern - Summer 2027 | Reston, VA | Paid | Nov 26, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8693/compensation-and-benefits-intern---summer-2027/job) |
-| [IDEMIA](https://internscout.org/internships/at/idemia/) | Human Resources Operations Internship - Summer 2027 | Reston, VA | Paid | Nov 26, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8694/human-resources-operations-internship---summer-2027/job) |
+| [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Human Resources) | St Petersburg, FL |  | Nov 27, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37730/2027-summer-intern-%28human-resources%29/job) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Compensation and Benefits Intern - Summer 2027 | Reston, VA | Paid | Nov 27, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8693/compensation-and-benefits-intern---summer-2027/job) |
+| [IDEMIA](https://internscout.org/internships/at/idemia/) | Human Resources Operations Internship - Summer 2027 | Reston, VA | Paid | Nov 27, 2024 | [Apply](https://uscareers-idemia.icims.com/jobs/8694/human-resources-operations-internship---summer-2027/job) |
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Talent Acquisition & HR Service Delivery | Phoenix, AZ | Paid | Sep 18 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Talent-Acquisition---HR-Service-Delivery_R13872) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

@@ -1,6 +1,6 @@
 # Business: Summer 2027 Internships
 
-31 open Summer 2027 business roles, newest first (all 31). **Updated November 26, 2026.** [Back to every major](../README.md) · [See all 62 business internships on InternScout](https://internscout.org/internships/business/)
+30 open Summer 2027 business roles, newest first (all 30). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 60 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -23,7 +23,6 @@
 | [Securities and Exchange Commission](https://internscout.org/internships/at/securities-and-exchange-commission/) | Summer 2027 SEC Scholars Business Program- HQ (Volunteer) | Washington, District of Columbia |  | Nov 9 | [Apply](https://www.usajobs.gov:443/job/891901100) |
 | [Tria Federal](https://internscout.org/internships/at/tria-federal/) | Summer Internship Program - Defense Health Agency (DHA) Uniform Business Office (UBO) | Arlington, VA |  | Oct 30 | [Apply](https://triafed.com/jobs/?gh_jid=5468461008) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Business Administration (Long Beach) | Monterey Park, CA |  | Oct 30 | [Apply](https://apply.edisoncareers.com/job/Monterey-Park-2027-Summer-Internship-Business-Administration-%28Long-Beach%29-CA-91754/1446436100/) |
-| [Ursa Major](https://internscout.org/internships/at/ursa-major/) | 2027 Summer Business Process & ERP Documentation Intern | Berthoud, Colorado | \$30.00/hour | Oct 22 | [Apply](https://ursamajor.com/careers/?gh_jid=4746844005) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Business Partner Optimization | Detroit, MI |  | Oct 8 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14782) |
 | Franklin Electric | Global Business Strategy Development Intern | Fort Wayne, IN |  | Sep 23 | [Apply](https://franklin-electric.pinpointhq.com/en/postings/a8e0afdd-63ce-4817-aaca-056018010f06?ats=pinpointhq) |
 | Force Factor | Summer 2027 MBA Internship | Boston, MA. +1 |  | Sep 17 | [Apply](https://forcefactor.com/pages/job-openings?gh_jid=6199605004) |
@@ -31,7 +30,7 @@
 | [Selective Insurance](https://internscout.org/internships/at/selective-insurance/) | Commercial Lines Product Summer Internship – Short Hills, NJ or Hartford, CT (Hybrid) | Short Hills, New Jersey +3 | \$22.00 | Sep 8 | [Apply](https://jobs.selective.com/jobs/5709) |
 | [DTCC](https://internscout.org/internships/at/dtcc/) | Business Systems Intern \[2027 Intern Program\] | Jersey City, NJ +2 | Paid | Aug 25 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214472) |
 | Weatherford | USA - Weatherford Summer Business Internship | Houston, TX |  | Aug 12 | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/107149) |
-| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Business Valuation Internship | Portland, ME | \$30 per hour | Nov 26, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4018/summer-2027-business-valuation-internship/job) |
+| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Business Valuation Internship | Portland, ME | \$30 per hour | Nov 27, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4018/summer-2027-business-valuation-internship/job) |
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-op - Commercial Marine Operator (Summer 2027) | San Antonio, Texas |  | Nov 26 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/San-Antonio-Texas/Intern-Co-op---Commercial-Marine-Operator--Summer-2027-_00024663) |
 | [McKenney's Inc.](https://internscout.org/internships/at/mckenney-s-inc/) | Summer 2027 Business Analysis Co-op | Atlanta, GA |  | Nov 17 | [Apply](https://mckenneys.applytojob.com/apply/hn8EBxQ2Er/Summer-2027-Business-Analysis-Coop) |
 | [AAR](https://internscout.org/internships/at/aar/) | Product Line Intern - Business & General Aviation | Chicago, Illinois | \$22/hr | Nov 16 | [Apply](https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=18992) |

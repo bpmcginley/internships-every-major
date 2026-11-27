@@ -1,9 +1,10 @@
 # Media: Summer 2027 Internships
 
-32 open Summer 2027 media roles, newest first (all 32). **Updated November 26, 2026.** [Back to every major](../README.md) · [See all 103 media internships on InternScout](https://internscout.org/internships/media/)
+33 open Summer 2027 media roles, newest first (all 33). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 102 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Roto | Creative Developer Intern | Dublin, OH |  | Nov 25 | [Apply](https://go.vansh.nyc/1Kx) |
 | Ogilvy | 2027 Ogilvy Creative Summer Internship | Chicago, United States | Paid | Nov 21 | [Apply](https://www.ogilvy.com/careers/4757364005?gh_jid=4757364005) |
 | Ogilvy | 2027 Ogilvy Creative Summer Internship | New York, New York | Paid | Nov 21 | [Apply](https://www.ogilvy.com/careers/4757353005?gh_jid=4757353005) |
 | Ogilvy | 2027 The Ogilvy Group General Summer Internship | Chicago, United States | Paid | Nov 21 | [Apply](https://www.ogilvy.com/careers/4757341005?gh_jid=4757341005) |

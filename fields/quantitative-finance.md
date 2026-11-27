@@ -1,6 +1,6 @@
 # Quantitative Finance: Summer 2027 Internships
 
-114 open Summer 2027 quantitative finance roles, newest first (all 114). **Updated November 26, 2026.** [Back to every major](../README.md) · [See all 159 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
+111 open Summer 2027 quantitative finance roles, newest first (all 111). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 155 quantitative finance internships on InternScout](https://internscout.org/internships/quantitative-finance/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -27,8 +27,6 @@
 | Jain Global | Quant Modelling Intern | NYC |  | Oct 7 | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Modelling-Intern_JR100616) |
 | Jain Global | Quant Research Intern - Systematic Trading | NYC |  | Oct 5 | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603-1) |
 | [Diversified Energy](https://internscout.org/internships/at/diversified-energy/) | 2027 Summer Intern- Marketing/ Trading | Lexington, Kentucky |  | Oct 2 | [Apply](https://careers.div.energy/jobs/2735) |
-| Gelber Group | Discretionary Trading Internship - Summer 2027 | Chicago, IL | \$35/hr | Sep 25 | [Apply](https://job-boards.greenhouse.io/gelbergroup/jobs/4716779006) |
-| Gelber Group | Discretionary Trading Internship - Summer 2027 | Chicago | \$35/hr | Sep 25 | [Apply](https://job-boards.greenhouse.io/gelberhandshake/jobs/4716802006) |
 | [Tradeweb](https://internscout.org/internships/at/tradeweb/) | Quantitative Intern | NYC |  | Sep 24 | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301931) |
 | Five Rings | Summer 2027 - Trading Operations Engineer Intern | New York +1 | \$300,000 | Sep 15 | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008) |
 | BlackRock | Quantitative Master’s Intern - Investments - Global Capital Markets | NYC |  | Sep 15 | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468) |
@@ -112,8 +110,7 @@
 | [Point72](https://internscout.org/internships/at/point72/) | Quantitative Researcher Intern | New York, NY |  | Apr 19 | [Apply](https://go.vansh.nyc/1f) |
 | Aquatic Capital | Quantitative Researcher, Intern (Summer 2027) | Chicago +1 |  | Apr 1 | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) |
 | Scientech Research Capital | Quantitative Developer Intern | United States |  | Mar 4, 2025 | [Apply](https://go.vansh.nyc/Qy) |
-| [Point72](https://internscout.org/internships/at/point72/) | Summer 2027 Quantitative Research Internship | New York |  | Aug 15, 2024 | [Apply](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) |
-| Garda Capital Partners | Trading Assistant Intern | Wayzata, Minnesota, United States | Paid | Jun 14, 2022 | [Apply](https://job-boards.greenhouse.io/gardacp/jobs/4308947004) |
+| [Point72](https://internscout.org/internships/at/point72/) | Summer 2027 Quantitative Research Internship | New York | \$240,000-\$300,000 | Aug 15, 2024 | [Apply](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) |
 | [Brevan Howard](https://internscout.org/internships/at/brevan-howard/) | 2027 Summer Internship Program – Systematic Trading, New York | New York +1 | \$ 200,000 | Sep 18 | [Apply](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--New-York_JR101591) |
 | [Brevan Howard](https://internscout.org/internships/at/brevan-howard/) | 2027 Summer Internship Program – AI & Quantitative Analyst, New York | New York +1 | \$ 150,000 | Sep 18 | [Apply](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602) |
 | [Brevan Howard](https://internscout.org/internships/at/brevan-howard/) | 2027 Summer Internship Program – Systematic Trading Technology Software Engineer, New York | New York +1 |  | Sep 18 | [Apply](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597) |

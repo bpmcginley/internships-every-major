@@ -1,13 +1,18 @@
 # Cybersecurity: Summer 2027 Internships
 
-197 open Summer 2027 cybersecurity roles, newest first (all 197). **Updated November 26, 2026.** [Back to every major](../README.md) · [See all 293 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
+201 open Summer 2027 cybersecurity roles, newest first (the 200 newest of 201). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 296 cybersecurity internships on InternScout](https://internscout.org/internships/cybersecurity/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [AeroVironment](https://internscout.org/internships/at/aerovironment/) | Cyber Intern | Sunrise, FL |  | Nov 25 | [Apply](https://go.vansh.nyc/1KF) |
+| Capital Blue Cross | Cybersecurity Intern | Harrisburg, PA |  | Nov 25 | [Apply](https://go.vansh.nyc/1KD) |
+| NHA | IT Security Intern | Grand Rapids, MI |  | Nov 25 | [Apply](https://go.vansh.nyc/1KB) |
+| [OpenSesame](https://internscout.org/internships/at/opensesame/) | Security and Compliance Internship - Summer 2027 | Remote | Paid | Nov 25 | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418229?gh_jid=8418229) |
+| Lockheed Martin | FPGA Engineer Intern, Security Focus | Owego, NY |  | Nov 25 | [Apply](https://go.vansh.nyc/1Ke) |
 | [Draper](https://internscout.org/internships/at/draper/) | Cyber Effects Engineering Intern | Cambridge, MA |  | Nov 25 | [Apply](https://go.vansh.nyc/1Jv) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Security Engineer Intern | Hybrid - New York, NY +1 | Paid | Nov 25 | [Apply](https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | Cloud Security Engagement Intern | Spring, TX |  | Nov 25 | [Apply](https://go.vansh.nyc/1IP) |
-| [Cisco](https://internscout.org/internships/at/cisco/) | Security Engineer I Intern | Research Triangle Park, NC |  | Nov 25 | [Apply](https://go.vansh.nyc/1JA) |
+| Cisco | Security Engineer I Intern | Research Triangle Park, NC |  | Nov 25 | [Apply](https://go.vansh.nyc/1JA) |
 | [Johns Hopkins Applied Physics Laboratory](https://internscout.org/internships/at/johns-hopkins-applied-physics-laboratory/) | Cyber Physical Systems Intern | Laurel, MD |  | Nov 25 | [Apply](https://go.vansh.nyc/1IY) |
 | Servco Pacific | Cybersecurity Analyst Intern | Honolulu, HI |  | Nov 24 | [Apply](https://go.vansh.nyc/1HV) |
 | Impulse Space | Information Security Intern | Redondo Beach, CA |  | Nov 24 | [Apply](https://go.vansh.nyc/1HR) |
@@ -37,7 +42,7 @@
 | Leidos | Cybersecurity Intern | Fort Belvoir, VA |  | Nov 17 | [Apply](https://go.vansh.nyc/1AO) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Client Security & Data Foundation Machine Learning Engineer Intern | San Jose, CA |  | Nov 16 | [Apply](https://lifeattiktok.com/search/7708750900450134325) |
 | State of Wisconsin Investment Board | Information Security Intern | Madison, WI |  | Nov 16 | [Apply](https://go.vansh.nyc/1C9) |
-| Schonfeld | Cybersecurity Operations Intern | New York, NY |  | Nov 16 | [Apply](https://go.vansh.nyc/1Aj) |
+| [Schonfeld](https://internscout.org/internships/at/schonfeld/) | Cybersecurity Operations Intern | New York, NY |  | Nov 16 | [Apply](https://go.vansh.nyc/1Aj) |
 | Midrex Technologies | IT Cyber Security Intern | Charlotte, NC |  | Nov 14 | [Apply](https://go.vansh.nyc/1zU) |
 | [Strava](https://internscout.org/internships/at/strava/) | Software Engineering Intern, Server, Security | Strava SF, NY +3 |  | Nov 13 | [Apply](https://jobs.ashbyhq.com/Strava/924afc4f-b490-4716-a308-5e02fe56653b/application) |
 | [Trace3](https://internscout.org/internships/at/trace3/) | Security Intern | Irvine, CA |  | Nov 13 | [Apply](https://go.vansh.nyc/1yN) |
@@ -143,7 +148,7 @@
 | [LLNL](https://internscout.org/internships/at/llnl/) | Critical Infrastructure Analysis Intern, Cyber and Critical Infrastructure Summer Institute | Livermore, CA |  | Oct 16 | [Apply](https://go.vansh.nyc/am) |
 | [LLNL](https://internscout.org/internships/at/llnl/) | Cybersecurity Intern, Cyber and Critical Infrastructure Summer Institute | Livermore, CA |  | Oct 16 | [Apply](https://go.vansh.nyc/al) |
 | [Lawrence Livermore National Laboratory (LLNL)](https://internscout.org/internships/at/lawrence-livermore-national-laboratory-llnl/) | Critical Infrastructure Analysis Graduate Intern - Cyber and Critical Infrastructure Summer Institute | Livermore, CA |  | Oct 15 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016610216) |
-| [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Information Security Engineer | Los Angeles, CA |  | Oct 15 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5448019008) |
+| [General Matter](https://internscout.org/internships/at/general-matter/) | Information Security Engineer Intern | Los Angeles, CA |  | Oct 15 | [Apply](https://go.vansh.nyc/9J) |
 | [National Laboratory of the Rockies](https://internscout.org/internships/at/national-laboratory-of-the-rockies/) | AI/ML for Cybersecurity Intern | Golden, CO |  | Oct 15 | [Apply](https://go.vansh.nyc/CB) |
 | [Lawrence Livermore National Laboratory (LLNL)](https://internscout.org/internships/at/lawrence-livermore-national-laboratory-llnl/) | Power Systems Undergraduate Intern, Cyber and Critical Infrastructure | Livermore, CA |  | Oct 15 | [Apply](https://go.vansh.nyc/gj) |
 | [Interstates](https://internscout.org/internships/at/interstates/) | Cyber Security Intern | Sioux Falls, SD |  | Oct 14 | [Apply](https://go.vansh.nyc/1tI) |
@@ -155,7 +160,6 @@
 | [Rivian](https://internscout.org/internships/at/rivian/) | Cybersecurity - Summer 2027 Internships | Palo Alto, California +4 | \$33.00-51.00 per hour | Oct 9 | [Apply](https://careers.rivian.com/jobs/34316) |
 | Qube Research and Technologies | Security Engineer Intern | New York, NY |  | Oct 6 | [Apply](https://go.vansh.nyc/QJ) |
 | Manitowoc | Cybersecurity Intern | Shady Grove, PA |  | Oct 6 | [Apply](https://go.vansh.nyc/Vt) |
-| [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Cybersecurity Internship - Summer 2027 | El Segundo, California, United States | \$33.00 | Oct 1 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8005821003) |
 | [Oceaneering](https://internscout.org/internships/at/oceaneering/) | IT/OT Cybersecurity Intern | Houston, TX |  | Oct 1 | [Apply](https://go.vansh.nyc/V3) |
 | [Oceaneering](https://internscout.org/internships/at/oceaneering/) | IT Security Architecture Intern | Houston, TX |  | Sep 30 | [Apply](https://go.vansh.nyc/H2) |
 | [Wellmark](https://internscout.org/internships/at/wellmark/) | Security Analyst Intern | Des Moines, IA |  | Sep 30 | [Apply](https://go.vansh.nyc/1ty) |
@@ -199,8 +203,7 @@
 | [Microsoft](https://internscout.org/internships/at/microsoft/) | Software Engineer Intern, Security & Identity | Cambridge, MA +1 |  | Aug 4 | [Apply](https://go.vansh.nyc/5J) |
 | [Appian](https://internscout.org/internships/at/appian/) | Information Security Engineer Intern | McLean, Virginia +1 | \$50.00 per hour | Jul 27 | [Apply](https://job-boards.greenhouse.io/appian/jobs/8088496) |
 | [Jane Street](https://internscout.org/internships/at/jane-street/) | Cybersecurity Analyst Intern | New York, NY |  | Jul 24 | [Apply](https://go.vansh.nyc/41) |
-| [Shure](https://internscout.org/internships/at/shure/) | Information Security Governance, Risk & Compliance Intern | Niles, IL | \$23-\$43 per hour | Nov 26, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job) |
-| [Palantir Technologies](https://internscout.org/internships/at/palantir-technologies/) | Information Security Engineer Intern | New York, NY |  | Aug 3, 2022 | [Apply](https://go.vansh.nyc/OK) |
+| [Shure](https://internscout.org/internships/at/shure/) | Information Security Governance, Risk & Compliance Intern | Niles, IL | \$23-\$43 per hour | Nov 27, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

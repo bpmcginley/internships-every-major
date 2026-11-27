@@ -1,6 +1,6 @@
 # Supply Chain: Summer 2027 Internships
 
-84 open Summer 2027 supply chain roles, newest first (all 84). **Updated November 26, 2026.** [Back to every major](../README.md) · [See all 187 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
+84 open Summer 2027 supply chain roles, newest first (all 84). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 185 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Logistics Intern (Summer 2027) | Westerville, OH |  | Sep 8 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280079) |
 | Spirit AeroSystems | Boeing - Wichita Summer 2027 Internship Program (Paid) - Supplier Quality Assurance & Compliance | Wichita, Kansas | \$18.60/hr | Sep 8 | [Apply](https://careers.spiritaero.com/jobs/17513) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Procurement | Detroit, MI |  | Sep 8 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14726) |
-| [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Supply Chain | Los Angeles, CA |  | Sep 2 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5387006008) |
+| [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Supply Chain | Los Angeles, CA | \$28-\$36 per hour | Sep 2 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5387006008) |
 | [WTW](https://internscout.org/internships/at/wtw/) | Early Careers: Pension Outsourcing Internship-Summer -2027 | Denver, CO +4 |  | Sep 2 | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605636) |
 | [Honeywell Aerospace](https://internscout.org/internships/at/honeywell-aerospace/) | ISC University Relations Development Program (URDP) - Supply Chain - Summer 2027 Intern Minneapolis, MN and Clearwater,… | Minneapolis, MN +1 |  | Sep 1 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120533) |
 | [Textron](https://internscout.org/internships/at/textron/) | 2027 Intern - Procurement (Lycoming) - Williamsport, PA | Williamsport, Pennsylvania |  | Sep 1 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342718) |
@@ -74,9 +74,9 @@
 | [Honeywell Aerospace](https://internscout.org/internships/at/honeywell-aerospace/) | Supply Chain Internship - Summer 2027 | United States |  | Aug 28 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119833) |
 | [Honeywell Aerospace](https://internscout.org/internships/at/honeywell-aerospace/) | ISC University Relations Development Program (URDP) - ISC (Supply Chain) - Summer 2027 Intern Phoenix AZ (U.S. Person R… | Phoenix, AZ |  | Aug 27 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119972) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD | Seattle, WA |  | Aug 20 | [Apply](https://lifeattiktok.com/search/7675845333947812149) |
-| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 26, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
-| [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Supply Chain) | St Petersburg, FL |  | Nov 26, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37507/2027-summer-intern-%28supply-chain%29/job) |
-| [Shure](https://internscout.org/internships/at/shure/) | Global Logistics Intern | Niles, IL | \$23-\$43 per hour | Nov 26, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4987/global-logistics-intern/job) |
+| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 27, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
+| [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Supply Chain) | St Petersburg, FL |  | Nov 27, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37507/2027-summer-intern-%28supply-chain%29/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Global Logistics Intern | Niles, IL | \$23-\$43 per hour | Nov 27, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4987/global-logistics-intern/job) |
 | [Marathon Petroleum](https://internscout.org/internships/at/marathon-petroleum/) | Intern/Co-op - Midstream Logistics and Storage Engineering (L&SE) Project Controls (Summer 2027) | Findlay, Ohio |  | Nov 26 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Logistics-and-Storage-Engineering--L-SE--Project-Controls--Summer-2027-_00024212) |
 | [Capital Power](https://internscout.org/internships/at/capital-power/) | Supply Chain Summer Student | Edmonton, AB | \$36.18 | Nov 21 | [Apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Supply-Chain-Summer-Student_JR807179) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Logistics Engineering Intern - Summer 2027 | Middletown, Pennsylvania | \$23 to \$27.50 per hour | Nov 19 | [Apply](https://se.jibeapply.com/jobs/137750) |

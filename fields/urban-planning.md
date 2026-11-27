@@ -1,6 +1,6 @@
 # Urban Planning: Summer 2027 Internships
 
-36 open Summer 2027 urban planning roles, newest first (all 36). **Updated November 26, 2026.** [Back to every major](../README.md) · [See all 76 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+36 open Summer 2027 urban planning roles, newest first (all 36). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 77 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -31,14 +31,14 @@
 | [Kimley-Horn](https://internscout.org/internships/at/kimley-horn/) | Environmental Planning Intern | Sacramento, California | \$29.00/hr | Oct 2 | [Apply](https://careers.kimley-horn.com/jobs/26031) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Masters - Transportation Planning Intern (Summer 2027!) | Hartford, Connecticut | \$41.63 | Oct 2 | [Apply](https://careers.cdmsmith.com/jobs/4693) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Internship - Community Development (Summer 2027) | Des Moines, IA |  | Sep 24 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007994) |
-| [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Co-op Student - Community Development (Summer 2027) – 16 Month Term | Calgary, AB, Canada |  | Sep 24 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007907) |
+| [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Co-op Student - Community Development (Summer 2027) – 16 Month Term | Calgary, AB, Canada +1 | Paid | Sep 24 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007907) |
 | [Michael Baker International](https://internscout.org/internships/at/michael-baker-international/) | Planning Intern | Milwaukee, WI +1 |  | Sep 24 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309938) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Civil Engineering Internship - Community Development (Summer 2027) | Mequon, WI |  | Sep 18 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007861) |
 | HNTB | GIS Intern - Summer 2027 | Nashville, TN |  | Sep 11 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Nashville-TN-City-Center/GIS-Intern---Summer-2027_R-31562-2) |
 | HNTB | GIS Intern | Nashville, TN |  | Sep 11 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Nashville-TN-City-Center/GIS-Intern---Summer-2027_R-31562) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Masters - Transportation Planning Intern (Summer 2027!) | Indianapolis, Indiana | \$36.20 | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/4371) |
 | [Esri](https://internscout.org/internships/at/esri/) | GIS Engineer Intern | Redlands, CA |  | Aug 25 | [Apply](https://job-boards.greenhouse.io/studentprogram/jobs/5217904007) |
-| [Southern Star Central Gas Pipeline](https://internscout.org/internships/at/southern-star-central-gas-pipeline/) | Intern, GIS Analyst | Owensboro, KY |  | Nov 26, 2024 | [Apply](https://careers-sscgp.icims.com/jobs/3036/intern%2c-gis-analyst/job) |
+| [Southern Star Central Gas Pipeline](https://internscout.org/internships/at/southern-star-central-gas-pipeline/) | Intern, GIS Analyst | Owensboro, KY |  | Nov 27, 2024 | [Apply](https://careers-sscgp.icims.com/jobs/3036/intern%2c-gis-analyst/job) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Planning Intern \| Fort Lauderdale, FL | Fort Lauderdale, FL | Paid | Sep 18 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Fort-Lauderdale-FL/Planning-Intern---Fort-Lauderdale--FL_R-16509) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

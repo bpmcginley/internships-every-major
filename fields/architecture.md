@@ -1,9 +1,10 @@
 # Architecture: Summer 2027 Internships
 
-45 open Summer 2027 architecture roles, newest first (all 45). **Updated November 26, 2026.** [Back to every major](../README.md) · [See all 116 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+46 open Summer 2027 architecture roles, newest first (all 46). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 117 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [First PREMIER Bank](https://internscout.org/internships/at/first-premier-bank/) | IT Architecture Intern | Sioux Falls, SD |  | Nov 25 | [Apply](https://go.vansh.nyc/1KG) |
 | [Samsung Semiconductor](https://internscout.org/internships/at/samsung-semiconductor/) | LLM Inference Acceleration Architecture Intern, MoE & Attention–FFN Disaggregation | San Jose, CA |  | Nov 25 | [Apply](https://go.vansh.nyc/1IH) |
 | [Illumio](https://internscout.org/internships/at/illumio/) | Engineering Intern - Architecture Platform | Sunnyvale, CA |  | Nov 24 | [Apply](https://jobs.ashbyhq.com/illumio/a211377c-7db7-4c62-97ba-8176c5a61293/application?embed=true) |
 | [Calamos Investments](https://internscout.org/internships/at/calamos-investments/) | IT Architecture & Sales Systems Intern | Naperville, IL |  | Nov 20 | [Apply](https://go.vansh.nyc/1Fs) |

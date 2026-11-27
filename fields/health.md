@@ -1,6 +1,6 @@
 # Health: Summer 2027 Internships
 
-35 open Summer 2027 health roles, newest first (all 35). **Updated November 26, 2026.** [Back to every major](../README.md) · [See all 135 health internships on InternScout](https://internscout.org/internships/health/)
+37 open Summer 2027 health roles, newest first (all 37). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 141 health internships on InternScout](https://internscout.org/internships/health/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -24,21 +24,23 @@
 | [Emory University](https://internscout.org/internships/at/emory-university/) | Emory Healthcare Administrative Graduate Internship- Summer 2027 | Atlanta, Georgia | Paid | Nov 3 | [Apply](https://emory.jibeapply.com/jobs/175657) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Services Internship (Nebraska Health Plan) – Summer 2027 (Undergraduate) | NE |  | Nov 3 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040150) |
 | [Trilogy Health Services](https://internscout.org/internships/at/trilogy-health-services/) | Revenue Cycle Intern | Louisville, Kentucky | Paid | Nov 2 | [Apply](https://jobs.trilogyhs.com/jobs/214103) |
-| Merck | Future Talent Program Co-op - Patient Data Learning | Cambridge, MA |  | Nov 2 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Patient-Data-Learning---Co-op_R424526) |
+| [Merck](https://internscout.org/internships/at/merck/) | Future Talent Program Co-op - Patient Data Learning | Cambridge, MA |  | Nov 2 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Patient-Data-Learning---Co-op_R424526) |
 | [Emory University](https://internscout.org/internships/at/emory-university/) | Emory Healthcare Spiritual Health Internship Summer 2027 | Atlanta, Georgia |  | Nov 2 | [Apply](https://emory.jibeapply.com/jobs/176578) |
 | [Tevora](https://internscout.org/internships/at/tevora/) | Cybersecurity Intern, Healthcare | Irvine, CA +1 |  | Oct 31 | [Apply](https://go.vansh.nyc/12c) |
 | [Trilogy Health Services](https://internscout.org/internships/at/trilogy-health-services/) | Clinical Intern | Louisville, Kentucky | Paid | Oct 30 | [Apply](https://jobs.trilogyhs.com/jobs/213300) |
 | [Molina Healthcare](https://internscout.org/internships/at/molina-healthcare/) | Healthcare Quality Analytics Internship (Kentucky Health Plan) – Summer 2027 (Undergraduate) | KY +1 |  | Oct 30 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040139) |
 | [Universal Health Services](https://internscout.org/internships/at/universal-health-services/) | Hospital Administration Internship - Summer 2027 | SCOTTSDALE, Arizona | Paid | Oct 29 | [Apply](https://jobs.uhsinc.com/jobs/379616) |
-| [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Clinical and Population Health Graduate Intern | Washington +48 |  | Oct 29 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Clinical-and-Population-Health-Graduate-Intern_J288011) |
 | [Medpace](https://internscout.org/internships/at/medpace/) | Strategy and Insights Intern - Summer 2027 | Cincinnati, Ohio |  | Oct 26 | [Apply](https://careers.medpace.com/jobs/13091) |
 | [Lazard](https://internscout.org/internships/at/lazard/) | 2027 Summer Associate - San Francisco Healthcare | San Francisco | \$185,000 | Oct 22 | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6704) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Epidemiology / Biostatistics Intern | Detroit, MI |  | Oct 6 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14949) |
 | [Wellmark](https://internscout.org/internships/at/wellmark/) | Software Engineer Intern - Technology Healthcare Innovation | Des Moines, IA |  | Sep 21 | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000150732768) |
 | Netsmart | Revenue Cycle Management Operations Analyst Intern - Revenue Cycle Management | Overland Park, KS |  | Sep 18 | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Revenue-Cycle-Management--RCM--Operations-Analyst-Intern-Summer-2027-Internship-_R015757) |
 | [Medpace](https://internscout.org/internships/at/medpace/) | Account Management Internship - Summer 2027 | Cincinnati, Ohio |  | Aug 20 | [Apply](https://careers.medpace.com/jobs/12957) |
+| [Merck](https://internscout.org/internships/at/merck/) | Summer 2027 Epidemiology & RWE Analytics Intern at Merck West Point, PA | West Point, PA |  | Nov 27 | [Apply](https://hgwellnessgroup.org/opportunity/job/summer-2027-epidemiology-rwe-analytics-intern-at-merck-west-point-pa-eVJtc2lSZTd3MlozcWhFZmJWZnhkVGtR?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| Moderna | Intern, Infectious Disease Epidemiology at Moderna Harrisonburg, VA | Harrisonburg, VA | \$20.00 - \$60.00 | Nov 27 | [Apply](https://judexjones.com/work/job/intern-infectious-disease-epidemiology-at-moderna-harrisonburg-va-NlY3blNJZGgyUmpveTc1eWxvQ1VxQTFE?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Pathobiology | Boston, MA | \$23.00 – \$50.00 | Nov 25 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Pathobiology_REQ-31423) |
 | [Vertex Pharmaceuticals](https://internscout.org/internships/at/vertex-pharmaceuticals/) | Summer Intern 2027, Comparative Medicine | Boston, MA | \$23.00 – 32.00 | Nov 25 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--Comparative-Medicine_REQ-31424) |
+| [Highmark Health](https://internscout.org/internships/at/highmark-health/) | Summer 2027 Clinical and Population Health Graduate Intern | New Jersey +48 | Paid | Oct 29 | [Apply](https://www.talent.com/view?id=643799965696011047&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
