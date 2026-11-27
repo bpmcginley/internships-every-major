@@ -1,6 +1,6 @@
 # Chemical Engineering: Summer 2027 Internships
 
-21 open Summer 2027 chemical engineering roles, newest first (all 21). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 61 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
+20 open Summer 2027 chemical engineering roles, newest first (all 20). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 60 chemical engineering internships on InternScout](https://internscout.org/internships/chemical-engineering/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -8,7 +8,6 @@
 | [Ralliant](https://internscout.org/internships/at/ralliant/) | Process Engineer Intern (Summer 2027) | Beaverton, OR |  | Nov 19 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11292) |
 | [Boston Scientific](https://internscout.org/internships/at/boston-scientific/) | Process Development Co-op - Summer/Fall 2027 | Arden Hills, MN |  | Nov 3 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813554206) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Metallurgy & Process Engineering Intern - Energy & Resources (Summer 2027) | Reno, NV |  | Oct 30 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008551) |
-| Thales | Tools and Process Development Intern | Montreal, Canada |  | Oct 23 | [Apply](https://go.vansh.nyc/hj) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Process Engineering Intern – Energy & Resources (Summer 2027) | Bakersfield, CA |  | Oct 20 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008254) |
 | [Skydio](https://internscout.org/internships/at/skydio/) | Process Engineering Intern - Summer 2027 | Hayward, California, United States +2 | \$47/hr | Oct 14 | [Apply](https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b/application) |
 | [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | Process Engineering Intern - Summer 2027 | Columbus, Ohio | \$22.00/hour | Oct 6 | [Apply](https://careers.marzetticompany.com/jobs/8120) |

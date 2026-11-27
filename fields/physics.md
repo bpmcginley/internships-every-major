@@ -1,9 +1,10 @@
 # Physics: Summer 2027 Internships
 
-20 open Summer 2027 physics roles, newest first (all 20). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 64 physics internships on InternScout](https://internscout.org/internships/physics/)
+21 open Summer 2027 physics roles, newest first (all 21). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 65 physics internships on InternScout](https://internscout.org/internships/physics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Corning](https://internscout.org/internships/at/corning/) | R&D Intern, Glass Development & Optical Fiber Technologies - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Nov 26 | [Apply](https://corningjobs.corning.com/job/Corning-R&D-Intern%2C-Glass-Development-&-Optical-Fiber-Technologies-Summer-2027-NY-14831/1453977400/) |
 | [SAS](https://internscout.org/internships/at/sas/) | Quantum Research & Development Intern | Cary, NC |  | Nov 20 | [Apply](https://careers-sas.icims.com/jobs/42752/job?mobile=true&needsRedirect=false) |
 | [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Photonics Circuit Simulation Intern | Mountain View, CA |  | Nov 18 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479849008) |
 | [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Optical Packaging Integration Intern | Mountain View, CA |  | Nov 16 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5478834008) |

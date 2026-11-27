@@ -1,6 +1,6 @@
 # Business: Summer 2027 Internships
 
-30 open Summer 2027 business roles, newest first (all 30). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 60 business internships on InternScout](https://internscout.org/internships/business/)
+31 open Summer 2027 business roles, newest first (all 31). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 62 business internships on InternScout](https://internscout.org/internships/business/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Securities and Exchange Commission](https://internscout.org/internships/at/securities-and-exchange-commission/) | Summer 2027 SEC Scholars Business Program- HQ (Volunteer) | Washington, District of Columbia |  | Nov 9 | [Apply](https://www.usajobs.gov:443/job/891901100) |
 | [Tria Federal](https://internscout.org/internships/at/tria-federal/) | Summer Internship Program - Defense Health Agency (DHA) Uniform Business Office (UBO) | Arlington, VA |  | Oct 30 | [Apply](https://triafed.com/jobs/?gh_jid=5468461008) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Business Administration (Long Beach) | Monterey Park, CA |  | Oct 30 | [Apply](https://apply.edisoncareers.com/job/Monterey-Park-2027-Summer-Internship-Business-Administration-%28Long-Beach%29-CA-91754/1446436100/) |
+| Chatham Financial | 2027 Business Intern- Centennial, CO | Denver | \$30 hour | Oct 29 | [Apply](https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Denver/XMLNAME-2027-Business-Intern--Centennial--CO_R-100345) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Business Partner Optimization | Detroit, MI |  | Oct 8 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14782) |
 | Franklin Electric | Global Business Strategy Development Intern | Fort Wayne, IN |  | Sep 23 | [Apply](https://franklin-electric.pinpointhq.com/en/postings/a8e0afdd-63ce-4817-aaca-056018010f06?ats=pinpointhq) |
 | Force Factor | Summer 2027 MBA Internship | Boston, MA. +1 |  | Sep 17 | [Apply](https://forcefactor.com/pages/job-openings?gh_jid=6199605004) |

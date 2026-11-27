@@ -1,6 +1,6 @@
 # Marketing: Summer 2027 Internships
 
-126 open Summer 2027 marketing roles, newest first (all 126). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 379 marketing internships on InternScout](https://internscout.org/internships/marketing/)
+126 open Summer 2027 marketing roles, newest first (all 126). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 378 marketing internships on InternScout](https://internscout.org/internships/marketing/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Intern-Marketing Operations | Detroit, MI |  | Nov 24 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15206) |
 | [Emergent Holdings](https://internscout.org/internships/at/emergent-holdings/) | Summer 2027 Intern-Member Marketing | Detroit, MI | Paid | Nov 24 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15144) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Marketing Intern IS \| Summer 2027 | Deer Park, TX | \$20/hour | Nov 24 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167976) |
+| [Ace Hardware](https://internscout.org/internships/at/ace-hardware/) | Internal Communications & Events 2027 Summer Internship (Full Time/Paid/12 weeks) | IL - Oak Brook |  | Nov 23 | [Apply](https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/Internal-Communications---Events-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-35058) |
 | [Lifeway](https://internscout.org/internships/at/lifeway/) | Summer Internship \| PR Communications | Remote | Paid | Nov 23 | [Apply](https://hq-lifeway.icims.com/jobs/27223/summer-internship-%7c-pr-communications/job) |
 | [Lifeway](https://internscout.org/internships/at/lifeway/) | Summer Internship \| NextGen Marketing | Remote | Paid | Nov 23 | [Apply](https://hq-lifeway.icims.com/jobs/27222/summer-internship-%7c-nextgen-marketing/job) |
 | [Lifeway](https://internscout.org/internships/at/lifeway/) | Summer Internship \| Books Product Marketing | Remote | Paid | Nov 23 | [Apply](https://hq-lifeway.icims.com/jobs/27230/summer-internship-%7c-books-product-marketing/job) |
@@ -62,7 +63,6 @@
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Enterprise Platform Technical Marketing Engineer Intern | Santa Clara, CA |  | Oct 31 | [Apply](https://go.vansh.nyc/12a) |
 | [Trilogy Health Services](https://internscout.org/internships/at/trilogy-health-services/) | Growth Strategy Intern | Louisville, Kentucky | Paid | Oct 30 | [Apply](https://jobs.trilogyhs.com/jobs/213298) |
 | OTTO Engineering | Embedded Software Intern, Communications | Carpentersville, IL |  | Oct 30 | [Apply](https://go.vansh.nyc/122) |
-| [Haskell](https://internscout.org/internships/at/haskell/) | Summer 2027 Corporate Marketing Intern | Jacksonville, Florida |  | Oct 26 | [Apply](https://haskell.jibeapply.com/jobs/7335) |
 | [Boston Scientific](https://internscout.org/internships/at/boston-scientific/) | MBA Marketing Internship Summer 2027 (Minnesota)) | Arden Hills, MN |  | Oct 24 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813832514) |
 | [Legrand](https://internscout.org/internships/at/legrand/) | Product Marketing Intern (Summer 2027) | West Hartford, CT |  | Oct 23 | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1640) |
 | [Stantec](https://internscout.org/internships/at/stantec/) | Information Communications Technology (ICT ) Intern - Buildings (Summer 2027) | Lynnwood, WA |  | Oct 22 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008438) |
@@ -87,6 +87,7 @@
 | [CarGurus](https://internscout.org/internships/at/cargurus/) | Dealer Marketing Intern | Boston, Massachusetts, United States | Paid | Sep 30 | [Apply](https://job-boards.greenhouse.io/ecjobb/jobs/8230676) |
 | [CarGurus](https://internscout.org/internships/at/cargurus/) | Consumer Marketing Intern | Boston, Massachusetts, United States | Paid | Sep 30 | [Apply](https://job-boards.greenhouse.io/ecjobb/jobs/8230675) |
 | [Peraton](https://internscout.org/internships/at/peraton/) | Summer 2027 Social Media & Marketing Analyst Intern | San Diego, California | \$22–25/hr | Sep 30 | [Apply](https://peraton.jibeapply.com/jobs/171546) |
+| [Life Fitness](https://internscout.org/internships/at/life-fitness/) | Marketing Analytics Intern | Rosemont, IL |  | Sep 30 | [Apply](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Marketing-Analytics-Intern_JR-025253) |
 | [AMCA](https://internscout.org/internships/at/amca/) | Growth Internship (Summer 2027) | El Segundo, CA | Paid | Sep 29 | [Apply](https://job-boards.greenhouse.io/amca/jobs/4425052009) |
 | Hasbro | 2027 Summer Marketing Internships | Boston, Massachusetts, United States +1 | Paid | Sep 29 | [Apply](https://job-boards.greenhouse.io/hasbro/jobs/4424981009) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: Marketing Intern | Northbrook, IL | \$25.00 | Sep 28 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10799) |
@@ -126,7 +127,6 @@
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Marketing Internship Program | Boston, Massachusetts | \$23.00 - \$27.50 per hour | Nov 18 | [Apply](https://se.jibeapply.com/jobs/140487) |
 | [Schneider Electric](https://internscout.org/internships/at/schneider-electric/) | Summer 2027 Product Marketing Intern | Boston, Massachusetts +1 | \$23.00-\$27.50 per hour | Oct 31 | [Apply](https://se.jibeapply.com/jobs/138534) |
 | [Western Alliance](https://internscout.org/internships/at/western-alliance/) | Summer 2027 Internship - Phoenix, AZ - Marketing | Phoenix, AZ | Paid | Oct 8 | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---Marketing_R13975) |
-| [Life Fitness](https://internscout.org/internships/at/life-fitness/) | Marketing Analytics Intern | Rosemont, IL |  | Oct 1 | [Apply](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Marketing-Analytics-Intern_JR-025253) |
 | [Clorox](https://internscout.org/internships/at/clorox/) | Brand Management Intern (MBA - Summer 2027) | Oakland, CA - USA | \$64.50 hour | Sep 24 | [Apply](https://wd1.myworkdaysite.com/recruiting/clorox/Clorox/job/Oakland-CA---USA/Brand-Management-Intern--MBA---Summer-2027-_JR23316) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Communications/PR/Digital Media/Advertising (Pomona/Rosemead) | Rosemead, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-CommunicationsPRDigital-MediaAdvertising-%28PomonaRosemead%29-CA-91770-3714/1425065500/) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Communications/PR/Digital Media/Advertising (Redlands) | Redlands, CA |  | Sep 18 | [Apply](https://apply.edisoncareers.com/job/Redlands-2027-Summer-Internship-CommunicationsPRDigital-MediaAdvertising-%28Redlands%29-CA-92374/1425079000/) |

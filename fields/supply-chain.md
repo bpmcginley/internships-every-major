@@ -1,6 +1,6 @@
 # Supply Chain: Summer 2027 Internships
 
-84 open Summer 2027 supply chain roles, newest first (all 84). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 185 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
+87 open Summer 2027 supply chain roles, newest first (all 87). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 190 supply chain internships on InternScout](https://internscout.org/internships/supply-chain/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -13,11 +13,15 @@
 | [Zoox](https://internscout.org/internships/at/zoox/) | Supply Chain AI Intern \[Summer 2027\] | Foster City, CA |  | Nov 20 | [Apply](https://jobs.lever.co/zoox/1a41e141-7e0b-4474-b4eb-bf89032bd7a8/apply) |
 | [AtriCure, Inc.](https://internscout.org/internships/at/atricure/) | Sourcing Project Engineer Co-op (Summer 2027) | Mason, OH |  | Nov 20 | [Apply](https://job-boards.greenhouse.io/atricure/jobs/4517172009) |
 | [Formlabs](https://internscout.org/internships/at/formlabs/) | 2027 (Summer) Marketing Events Logistics Intern | Somerville, MA | \$1,050 | Nov 20 | [Apply](https://careers.formlabs.com/job/8400561/apply/?gh_jid=8400561) |
+| [Ace Hardware](https://internscout.org/internships/at/ace-hardware/) | Supply Chain Process Intern (Summer 2027) | AL - Loxley |  | Nov 20 | [Apply](https://acehardware.wd1.myworkdayjobs.com/External/job/AL---Loxley/Supply-Chain-Process-Intern--Summer-2027-_REQ-35187) |
+| [Ace Hardware](https://internscout.org/internships/at/ace-hardware/) | Supply Chain Process Intern (Summer 2027) | NY - Wilton (Gansevoort) |  | Nov 20 | [Apply](https://acehardware.wd1.myworkdayjobs.com/External/job/NY---Wilton-Gansevoort/Supply-Chain-Process-Intern--Summer-2027-_REQ-35186) |
+| [Ace Hardware](https://internscout.org/internships/at/ace-hardware/) | Supply Chain Process Intern (Summer 2027) | CA - Visalia |  | Nov 20 | [Apply](https://acehardware.wd1.myworkdayjobs.com/External/job/CA---Visalia/Supply-Chain-Process-Intern--Summer-2027-_REQ-35205) |
 | [Panasonic Holdings](https://internscout.org/internships/at/panasonic-holdings/) | Supply Chain Management Intern | Sparks, Nevada |  | Nov 20 | [Apply](https://careers.na.panasonic.com/jobs/51640) |
 | [Edison International](https://internscout.org/internships/at/edison-international/) | 2027 Summer Internship - Supply Chain Management (Rosemead) | Rosemead, CA |  | Nov 20 | [Apply](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Supply-Chain-Management-%28Rosemead%29-CA-91770-3714/1423200600/) |
 | [International](https://internscout.org/internships/at/international/) | Procurement / Supply Chain Intern | Lisle, Illinois | \$27–\$32 per hour | Nov 19 | [Apply](https://careers.international.com/jobs/59945) |
 | [International](https://internscout.org/internships/at/international/) | Supplier Quality Intern | Lisle, Illinois | \$27–\$32 per hour | Nov 19 | [Apply](https://careers.international.com/jobs/59946) |
 | [Mom's Meals](https://internscout.org/internships/at/mom-s-meals/) | New Product Development/Strategic Sourcing Intern | Ankeny, IA |  | Nov 18 | [Apply](https://jobs.lever.co/momsmeals/5fb89117-7ce8-4dff-a46f-e9610a3af13d/apply) |
+| [Ace Hardware](https://internscout.org/internships/at/ace-hardware/) | Indirect Procurement 2027 Summer Internship (Full Time/Paid/12 weeks) | IL - Oak Brook | \$22.00 per hour | Nov 18 | [Apply](https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/Indirect-Procurement-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-35065) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Supply Chain Intern - Fernley, NV | Fernley, NV |  | Nov 18 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625422) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 Summer College Intern - Supply Chain Management | Pascagoula, Mississippi |  | Nov 12 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-SUMMER-COLLEGE-INTERN-SUPPLY-CHAIN-MANAGEMENT-Miss/1430057300/) |
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Logistics Analyst Internship | Niles, Illinois | Paid | Nov 11 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/39119) |
@@ -63,8 +67,7 @@
 | [Vertiv](https://internscout.org/internships/at/vertiv/) | Logistics Intern (Summer 2027) | Westerville, OH |  | Sep 8 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280079) |
 | Spirit AeroSystems | Boeing - Wichita Summer 2027 Internship Program (Paid) - Supplier Quality Assurance & Compliance | Wichita, Kansas | \$18.60/hr | Sep 8 | [Apply](https://careers.spiritaero.com/jobs/17513) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Procurement | Detroit, MI |  | Sep 8 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14726) |
-| [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Supply Chain | Los Angeles, CA | \$28-\$36 per hour | Sep 2 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5387006008) |
-| [WTW](https://internscout.org/internships/at/wtw/) | Early Careers: Pension Outsourcing Internship-Summer -2027 | Denver, CO +4 |  | Sep 2 | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605636) |
+| [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Supply Chain | Los Angeles, CA |  | Sep 2 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5387006008) |
 | [Honeywell Aerospace](https://internscout.org/internships/at/honeywell-aerospace/) | ISC University Relations Development Program (URDP) - Supply Chain - Summer 2027 Intern Minneapolis, MN and Clearwater,… | Minneapolis, MN +1 |  | Sep 1 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120533) |
 | [Textron](https://internscout.org/internships/at/textron/) | 2027 Intern - Procurement (Lycoming) - Williamsport, PA | Williamsport, Pennsylvania |  | Sep 1 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342718) |
 | Stryten | 2027 Summer Intern - Logistics | Alpharetta, Georgia | Paid | Aug 30 | [Apply](https://jobs.stryten.com/jobs/5810) |

@@ -1,6 +1,6 @@
 # Operations: Summer 2027 Internships
 
-211 open Summer 2027 operations roles, newest first (the 200 newest of 211). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 546 operations internships on InternScout](https://internscout.org/internships/operations/)
+211 open Summer 2027 operations roles, newest first (the 200 newest of 211). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 545 operations internships on InternScout](https://internscout.org/internships/operations/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -10,8 +10,8 @@
 | [W.W. Grainger](https://internscout.org/internships/at/w-w-grainger/) | Sales Support Operations Intern - Summer 2027 | GREEN BAY, WI | Paid | Nov 25 | [Apply](https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-Sales-Support-Operations-Intern-Summer-2027-WI-54304-5677/1434548100/) |
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Quality Assurance Intern | Cincinnati, OH |  | Nov 24 | [Apply](https://go.vansh.nyc/1Iy) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | Summer 2027 Intern-Marketing Operations | Detroit, MI |  | Nov 24 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15206) |
-| [OATEY](https://internscout.org/internships/at/oatey/) | Compliance Intern (Quality & EHSS) | Omaha, NE (Manufacturing) |  | Nov 24 | [Apply](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Omaha-NE-Manufacturing/Compliance--Intern--Quality---EHSS-_R7305) |
 | [MITRE](https://internscout.org/internships/at/mitre/) | Cyber Operations Engineer Intern | McLean, VA |  | Nov 23 | [Apply](https://go.vansh.nyc/1HS) |
+| [OATEY](https://internscout.org/internships/at/oatey/) | Compliance Intern (Quality & EHSS) | Omaha, NE (Manufacturing) |  | Nov 23 | [Apply](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Omaha-NE-Manufacturing/Compliance--Intern--Quality---EHSS-_R7305) |
 | [CAS](https://internscout.org/internships/at/cas/) | Technology Intern, Development Operations | Columbus, OH |  | Nov 23 | [Apply](https://go.vansh.nyc/1GH) |
 | Applied Research Associates | Software Quality Assurance Intern | Baton Rouge, LA |  | Nov 21 | [Apply](https://go.vansh.nyc/1FU) |
 | Southwest Power Pool | Operations Developer Intern | Little Rock, AR |  | Nov 20 | [Apply](https://recruiting2.ultipro.com/SOU1052SPPI/JobBoard/bc99b5f0-ed6b-436e-b545-2196af0704de/OpportunityDetail?opportunityId=51168e8a-cd42-4169-9c50-0019367a9d83) |
@@ -28,14 +28,16 @@
 | [Zoox](https://internscout.org/internships/at/zoox/) | Process Improvement Intern (L) \[Summer 2027\] | Foster City, CA |  | Nov 18 | [Apply](https://jobs.lever.co/zoox/7ff6f68a-52bd-48ab-87d4-029bcc43fa9f/apply) |
 | [Mom's Meals](https://internscout.org/internships/at/mom-s-meals/) | Continuous Improvement Intern | Conyers, GA |  | Nov 18 | [Apply](https://jobs.lever.co/momsmeals/387195a3-2584-4a0a-8b7a-1af4d9f1800f/apply) |
 | [iCapital Network](https://internscout.org/internships/at/icapital-network/) | Transactional Operations - Summer 2027 Intern | New York, New York, United States |  | Nov 18 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938135002) |
+| [Ace Hardware](https://internscout.org/internships/at/ace-hardware/) | Indirect Procurement 2027 Summer Internship (Full Time/Paid/12 weeks) | IL - Oak Brook | \$22.00 per hour | Nov 18 | [Apply](https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/Indirect-Procurement-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-35065) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Operations Intern - Birmingham, AL | Birmingham, AL |  | Nov 18 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625383) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | 2027 Operations Intern - Bowling Green, KY | Bowling Green, KY |  | Nov 18 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625396) |
 | [Mom's Meals](https://internscout.org/internships/at/mom-s-meals/) | Continuous Improvement Intern | North Jackson, OH |  | Nov 17 | [Apply](https://jobs.lever.co/momsmeals/c3e6cb8a-b2c2-45ba-bd34-96f77e0280a8/apply) |
+| [Ace Hardware](https://internscout.org/internships/at/ace-hardware/) | Retail Operations 2027 Summer Internship (Full Time/Paid/12 weeks) | IL - Oak Brook |  | Nov 17 | [Apply](https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/Retail-Operations-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-35139) |
 | [Thorlabs](https://internscout.org/internships/at/thorlabs/) | Summer 2027 Business Operations Internship | Newton, New Jersey | \$20.00 - \$25.00 per hour | Nov 17 | [Apply](https://apply.workable.com/j/A99615DCF8/apply) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Mission Operations Engineer Intern | Honolulu, Hawaii, United States +1 | Paid | Nov 16 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Deployment Operations Intern | Quincy, Massachusetts, United States | Paid | Nov 16 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5296825007?gh_jid=5296825007) |
 | [Schonfeld](https://internscout.org/internships/at/schonfeld/) | Cybersecurity Operations Intern | New York, NY |  | Nov 16 | [Apply](https://go.vansh.nyc/1Aj) |
-| [Formlabs](https://internscout.org/internships/at/formlabs/) | Global Operations MBA Intern (Summer 2027) | Somerville, MA |  | Nov 16 | [Apply](https://careers.formlabs.com/job/8385550/apply/?gh_jid=8385550) |
+| [Formlabs](https://internscout.org/internships/at/formlabs/) | Global Operations MBA Intern (Summer 2027) | Somerville, MA | \$2,750 | Nov 16 | [Apply](https://careers.formlabs.com/job/8385550/apply/?gh_jid=8385550) |
 | [KPMG](https://internscout.org/internships/at/kpmg/) | Edmonton Consulting Summer Internship, Operations - Government Solutions (May - August 2027) | Edmonton, Alberta, Canada |  | Nov 16 | [Apply](https://careers.kpmg.ca/jobs/36504) |
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Intern - Pre-Press & Business Operations | New York, NY, United States | Paid | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507753009) |
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Internship - Manufacturing and Business Operations Summer 2027 Intern | Sunnyvale, TX, United States |  | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507664009) |
@@ -81,10 +83,8 @@
 | [Reyes Beverage Group](https://internscout.org/internships/at/reyes-beverage-group/) | Continuous Improvement Manufacturing Internship | MILWAUKEE, Wisconsin | Paid | Oct 30 | [Apply](https://jobportal.reyesbeveragegroup.com/jobs/38129) |
 | HCSC | Cybersecurity Operations Intern | Chicago, IL |  | Oct 29 | [Apply](https://go.vansh.nyc/11Z) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Products Operations | HOUSTON, Texas |  | Oct 29 | [Apply](https://careers.kindermorgan.com/jobs/6581) |
-| [HP Inc.](https://internscout.org/internships/at/hp-inc/) | Software Quality Assurance Intern | San Francisco, CA |  | Oct 28 | [Apply](https://go.vansh.nyc/YA) |
 | [HP Inc.](https://internscout.org/internships/at/hp-inc/) | Software Quality Assurance Intern | SF |  | Oct 28 | [Apply](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Facilities Management Administration | Detroit, MI |  | Oct 28 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14648) |
-| [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Platform Operations Developer Intern | Cincinnati, OH |  | Oct 27 | [Apply](https://go.vansh.nyc/Wi) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Global Product Solutions and Operations Intern - Global Monetization Product and Technology | San Jose, CA |  | Oct 27 | [Apply](https://lifeattiktok.com/search/7701069870360627509) |
 | [Blue Cross Blue Shield of Michigan](https://internscout.org/internships/at/blue-cross-blue-shield-of-michigan/) | 2027 Summer Intern - Facilities Management | Detroit, MI |  | Oct 27 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14649) |
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern - Project Management | HOUSTON, Texas |  | Oct 27 | [Apply](https://careers.kindermorgan.com/jobs/6151) |

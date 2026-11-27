@@ -1,6 +1,6 @@
 # Design: Summer 2027 Internships
 
-57 open Summer 2027 design roles, newest first (all 57). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 126 design internships on InternScout](https://internscout.org/internships/design/)
+56 open Summer 2027 design roles, newest first (all 56). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 127 design internships on InternScout](https://internscout.org/internships/design/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -10,7 +10,6 @@
 | [Lifeway](https://internscout.org/internships/at/lifeway/) | Summer Internship \| Graphic Designer - Lifeway Kids | Remote | Paid | Nov 23 | [Apply](https://hq-lifeway.icims.com/jobs/27225/summer-internship-%7c-graphic-designer---lifeway-kids/job) |
 | [Lifeway](https://internscout.org/internships/at/lifeway/) | Summer Internship \| Graphic Designer - Books Marketing | Remote | Paid | Nov 23 | [Apply](https://hq-lifeway.icims.com/jobs/27224/summer-internship-%7c-graphic-designer---books-marketing/job) |
 | AFL | Web Design/Development Intern | Duncan, SC |  | Nov 20 | [Apply](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=f8bbce67-bdc3-4356-8e17-d3b6b4e71a80) |
-| [State Farm](https://internscout.org/internships/at/state-farm/) | Summer 2027 Intern - Administrative Services - Designer | Bloomington, Illinois | \$24.00/hour | Nov 20 | [Apply](https://jobs.statefarm.com/jobs/46991) |
 | [Zoox](https://internscout.org/internships/at/zoox/) | UX Designer Intern \[Summer 2027\] | Foster City, CA |  | Nov 17 | [Apply](https://jobs.lever.co/zoox/6a2a0d85-f466-4177-8236-eac6e2df2e93/apply) |
 | [Garmin](https://internscout.org/internships/at/garmin/) | Product Designer Intern | Olathe, Kansas |  | Nov 17 | [Apply](https://careers.garmin.com/jobs/22511) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Summer 2027: HW UX/UI Design Intern (May through August) | Needham, MA, United States |  | Nov 16 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721309006) |

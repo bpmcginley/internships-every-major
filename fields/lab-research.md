@@ -1,16 +1,16 @@
 # Lab Research: Summer 2027 Internships
 
-21 open Summer 2027 lab research roles, newest first (all 21). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 87 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
+21 open Summer 2027 lab research roles, newest first (all 21). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 88 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Product Innovation (Material Development and Material Lab) | Baltimore, MD |  | Nov 25 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Product-Innovation-%28Material-Development-and-Material-Lab%29-MD-21230/1434382800/) |
+| Genentech | Software Engineer Intern, Robotics Lab Automation | South San Francisco, CA |  | Nov 24 | [Apply](https://go.vansh.nyc/1KV) |
 | [FM Global](https://internscout.org/internships/at/fm-global/) | Summer Research Intern: Equipment Risk | Norwood, Massachusetts | \$26.00 to \$39.00 per hour | Nov 24 | [Apply](https://careers.fm.com/jobs/5217) |
 | [Sherwin-Williams](https://internscout.org/internships/at/sherwin-williams/) | R&D GSC Wood Care Lab Internship- Brecksville, OH | Brecksville, OH |  | Nov 20 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627575) |
-| [Carnegie Mellon University](https://internscout.org/internships/at/carnegie-mellon-university/) | AI Engineer Intern - Mission Innovation Lab (Summer 2027) | Pittsburgh, PA |  | Nov 17 | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1) |
 | [Carnegie Mellon University](https://internscout.org/internships/at/carnegie-mellon-university/) | AI Engineer Intern, Mission Innovation Lab | Pittsburgh, PA |  | Nov 16 | [Apply](https://go.vansh.nyc/1Az) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | Research Associate Intern, Systems Architecture Lab | Milpitas, CA |  | Nov 12 | [Apply](https://go.vansh.nyc/1w1) |
-| [Philips](https://internscout.org/internships/at/philips/) | Product Investigations Lab Intern | New Kensington, PA |  | Nov 4 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Product-Investigations-Lab---New-Kensington--PA---Summer-2027_593027) |
+| Philips | Product Investigations Lab Intern | New Kensington, PA |  | Nov 4 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Product-Investigations-Lab---New-Kensington--PA---Summer-2027_593027) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Research Scientist Intern - Video and Edge - Multimedia Lab | San Jose, CA |  | Oct 30 | [Apply](https://jobs.bytedance.com/en/position/7702155940239264005/detail) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Lab Chemist Intern - Summer 2027 | Waynoka, OK | Paid | Oct 30 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168059) |
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Claims Lab Developer Intern | Cincinnati, OH |  | Oct 27 | [Apply](https://go.vansh.nyc/Wm) |

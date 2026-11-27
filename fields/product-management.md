@@ -1,6 +1,6 @@
 # Product Management: Summer 2027 Internships
 
-182 open Summer 2027 product management roles, newest first (all 182). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 281 product management internships on InternScout](https://internscout.org/internships/product-management/)
+183 open Summer 2027 product management roles, newest first (all 183). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 283 product management internships on InternScout](https://internscout.org/internships/product-management/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -37,15 +37,15 @@
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Internship - Product Management Intern | Seattle, WA, United States +1 |  | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009) |
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Internship - Product Intern | Coppell, TX, United States +1 |  | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009) |
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Internship - Product Intern | New York, NY, United States +1 |  | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507676009) |
-| [Philips](https://internscout.org/internships/at/philips/) | Upstream Product Management Intern | Bedford, MA |  | Nov 15 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Intern---Upstream-Product-Management--MBA---PhD----Bedford--MA---Summer-2027_593145) |
+| Philips | Upstream Product Management Intern | Bedford, MA |  | Nov 15 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Intern---Upstream-Product-Management--MBA---PhD----Bedford--MA---Summer-2027_593145) |
 | [SAS](https://internscout.org/internships/at/sas/) | IoT Product Strategy Intern | Cary, NC |  | Nov 14 | [Apply](https://careers-sas.icims.com/jobs/43309/job?mobile=true&needsRedirect=false) |
 | [Koch Industries](https://internscout.org/internships/at/koch-industries/) | Product Management Intern - Aerospace & Defense Solutions | Georgetown, TX |  | Nov 13 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/197821) |
 | [ServiceNow](https://internscout.org/internships/at/servicenow/) | Senior Outbound Product Manager Intern | San Diego, CA |  | Nov 13 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161590090) |
 | [ServiceNow](https://internscout.org/internships/at/servicenow/) | Senior Inbound Product Manager Intern | San Diego, CA |  | Nov 13 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161584449) |
 | [Addepar](https://internscout.org/internships/at/addepar/) | Product Analyst (Navigator) Intern - Summer 2027 | New York, NY +1 | \$31.00 per hour | Nov 13 | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8910306002) |
 | Watts Water | Product Management Co-op | Menomonee Falls, WI |  | Nov 13 | [Apply](https://wattswater.wd5.myworkdayjobs.com/external/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1) |
-| [Entegris](https://internscout.org/internships/at/entegris/) | Associate Product Manager Intern | Chaska, MN |  | Nov 13 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844) |
-| [Entegris](https://internscout.org/internships/at/entegris/) | Product Management Intern | Colorado Springs, CO |  | Nov 12 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Product-Management-Intern_REQ-15838) |
+| Entegris | Associate Product Manager Intern | Chaska, MN |  | Nov 13 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844) |
+| Entegris | Product Management Intern | Colorado Springs, CO |  | Nov 12 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Product-Management-Intern_REQ-15838) |
 | Rubrik | Product Manager Intern - Managed Service Provider | Palo Alto, CA |  | Nov 11 | [Apply](https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967) |
 | [APEX Analytix](https://internscout.org/internships/at/apex-analytix/) | Product Management Intern | Greensboro, NC |  | Nov 11 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/116e13fe-7202-45ba-a119-a81af4fcb4b9) |
 | [APEX Analytix](https://internscout.org/internships/at/apex-analytix/) | Product Management (Discovery) Intern - Summer 2027 | Greensboro, NC |  | Nov 11 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/116e13fe-7202-45ba-a119-a81af4fcb4b9) |
@@ -105,6 +105,7 @@
 | [Bedrock Robotics](https://internscout.org/internships/at/bedrock-robotics/) | 2027 Internship Product Intern | San Francisco, CA +2 | Paid | Oct 1 | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/e199e72a-0361-40dc-8fd3-e02e534af85a/application) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Product Management (Lake Mary, FL) | Lake Mary, FL |  | Oct 1 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82784) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Product Management (Pittsburgh, PA) | Pittsburgh, PA |  | Oct 1 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82782) |
+| [CarGurus](https://internscout.org/internships/at/cargurus/) | Technical Product Management Intern | Boston, Massachusetts, United States | Paid | Sep 30 | [Apply](https://job-boards.greenhouse.io/ecjobb/jobs/8230690) |
 | [CarGurus](https://internscout.org/internships/at/cargurus/) | Product Management Intern | Boston, Massachusetts, United States +1 | Paid | Sep 30 | [Apply](https://job-boards.greenhouse.io/ecjobb/jobs/8230686) |
 | [Acuity](https://internscout.org/internships/at/acuity/) | Product Management Technology Intern | Conyers, GA |  | Sep 29 | [Apply](https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors) |
 | [Acuity](https://internscout.org/internships/at/acuity/) | Finance AI Product Management Intern | Atlanta, GA |  | Sep 29 | [Apply](https://careers.acuityinc.com/job/Atlanta-Finance-AI-Product-Management-Intern-Onsite-GA-30309/1434874300/?ats=successfactors) |
