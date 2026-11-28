@@ -1,6 +1,6 @@
 # Urban Planning: Summer 2027 Internships
 
-35 open Summer 2027 urban planning roles, newest first (all 35). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 76 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
+35 open Summer 2027 urban planning roles, newest first (all 35). **Updated November 28, 2026.** [Back to every major](../README.md) · [See all 76 urban planning internships on InternScout](https://internscout.org/internships/urban-planning/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -36,8 +36,8 @@
 | HNTB | GIS Intern - Summer 2027 | Nashville, TN |  | Sep 11 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Nashville-TN-City-Center/GIS-Intern---Summer-2027_R-31562-2) |
 | HNTB | GIS Intern | Nashville, TN |  | Sep 11 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Nashville-TN-City-Center/GIS-Intern---Summer-2027_R-31562) |
 | [CDM Smith](https://internscout.org/internships/at/cdm-smith/) | Masters - Transportation Planning Intern (Summer 2027!) | Indianapolis, Indiana | \$36.20 | Sep 3 | [Apply](https://careers.cdmsmith.com/jobs/4371) |
-| [Esri](https://internscout.org/internships/at/esri/) | GIS Engineer Intern | Redlands, CA |  | Aug 25 | [Apply](https://job-boards.greenhouse.io/studentprogram/jobs/5217904007) |
-| [Southern Star Central Gas Pipeline](https://internscout.org/internships/at/southern-star-central-gas-pipeline/) | Intern, GIS Analyst | Owensboro, KY |  | Nov 27, 2024 | [Apply](https://careers-sscgp.icims.com/jobs/3036/intern%2c-gis-analyst/job) |
+| [Esri](https://internscout.org/internships/at/esri/) | GIS Engineering Internship | Redlands, CA | Paid | Aug 25 | [Apply](https://job-boards.greenhouse.io/studentprogram/jobs/5217904007) |
+| [Southern Star Central Gas Pipeline](https://internscout.org/internships/at/southern-star-central-gas-pipeline/) | Intern, GIS Analyst | Owensboro, KY |  | Nov 28, 2024 | [Apply](https://careers-sscgp.icims.com/jobs/3036/intern%2c-gis-analyst/job) |
 | [IMEG](https://internscout.org/internships/at/imeg/) | Planning Intern \| Fort Lauderdale, FL | Fort Lauderdale, FL | Paid | Sep 18 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Fort-Lauderdale-FL/Planning-Intern---Fort-Lauderdale--FL_R-16509) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.

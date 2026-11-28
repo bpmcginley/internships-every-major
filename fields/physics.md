@@ -1,15 +1,16 @@
 # Physics: Summer 2027 Internships
 
-21 open Summer 2027 physics roles, newest first (all 21). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 65 physics internships on InternScout](https://internscout.org/internships/physics/)
+21 open Summer 2027 physics roles, newest first (all 21). **Updated November 28, 2026.** [Back to every major](../README.md) · [See all 64 physics internships on InternScout](https://internscout.org/internships/physics/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
 | [Corning](https://internscout.org/internships/at/corning/) | R&D Intern, Glass Development & Optical Fiber Technologies - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Nov 26 | [Apply](https://corningjobs.corning.com/job/Corning-R&D-Intern%2C-Glass-Development-&-Optical-Fiber-Technologies-Summer-2027-NY-14831/1453977400/) |
 | [SAS](https://internscout.org/internships/at/sas/) | Quantum Research & Development Intern | Cary, NC |  | Nov 20 | [Apply](https://careers-sas.icims.com/jobs/42752/job?mobile=true&needsRedirect=false) |
-| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Photonics Circuit Simulation Intern | Mountain View, CA |  | Nov 18 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479849008) |
-| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Optical Packaging Integration Intern | Mountain View, CA |  | Nov 16 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5478834008) |
+| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Photonics Circuit Simulation Intern – Summer 2027 | Mountain View, CA | Paid | Nov 18 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479849008?gh_jid=5479849008) |
+| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Optical Packaging Integration Internship – Summer 2027 | Mountain View, CA | Paid | Nov 16 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5478834008?gh_jid=5478834008) |
 | [Pacific Fusion](https://internscout.org/internships/at/pacific-fusion/) | Summer 2027 Experimental Physics, X-Ray Diagnostics Internship | San Leandro, CA | Paid | Nov 16 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4505604009) |
-| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Photonics Layout Intern | Boston, MA |  | Nov 11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479611008) |
+| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Photonics Layout Intern - Summer 2027 | Boston, MA | Paid | Nov 11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479611008?gh_jid=5479611008) |
+| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Photonics Engineer Intern - Summer 2027 | Boston, MA | Paid | Nov 11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479605008?gh_jid=5479605008) |
 | [Anduril](https://internscout.org/internships/at/anduril/) | 2027 Optical Payload Engineer Intern | Costa Mesa, California, United States | Paid | Nov 10 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007) |
 | [Booz Allen Hamilton](https://internscout.org/internships/at/booz-allen/) | Quantum Computing Research Intern | Washington, DC |  | Nov 10 | [Apply](https://go.vansh.nyc/1qt) |
 | [Keysight Technologies](https://internscout.org/internships/at/keysight-technologies/) | Intern - Optics Customer Success | Sacramento, California +3 | \$37.10 | Nov 10 | [Apply](https://jobs.keysight.com/jobs/55188) |
@@ -19,7 +20,6 @@
 | [Draper](https://internscout.org/internships/at/draper/) | Optics-Physics Sensor Engineer Intern | Cambridge, MA |  | Nov 4 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Intern--Summer-2027-_JR003094) |
 | [Corning](https://internscout.org/internships/at/corning/) | Optical Design Intern - Summer 2027 | Fairport, NY | \$1,635.00 - \$3,185.00 | Nov 4 | [Apply](https://corningjobs.corning.com/job/Fairport-Optical-Design-Intern-Summer-2027-NY-14450/1437588500/) |
 | Metalenz | Meta-Optics Intern Summer 2027 | Boston, MA +1 | \$5,500 - \$8,500 per month | Nov 2 | [Apply](https://jobs.ashbyhq.com/metalenz/c8150d66-9f72-4508-ac94-8a7efa54e206/application) |
-| [Corning](https://internscout.org/internships/at/corning/) | Science & Technology Intern - Optical Modeling - Summer 2027 | Corning, NY | \$1,635.00 - \$3,185.00 | Nov 2 | [Apply](https://corningjobs.corning.com/job/Corning-Science-&-Technology-Intern-Optical-Modeling-Summer-2027-NY-14831/1446852900/) |
 | [GlobalFoundries](https://internscout.org/internships/at/globalfoundries/) | Device Engineering Intern - Silicon Photonics | Malta, NY |  | Oct 30 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604263) |
 | [Commonwealth Fusion Systems](https://internscout.org/internships/at/commonwealth-fusion-systems/) | Intern - Plasma Physics - Summer 2027 | Devens, MA | Paid | Oct 27 | [Apply](https://jobs.lever.co/cfsenergy/32987ab7-59ed-4364-a012-91cbece8877a/apply) |
 | [Astera Labs](https://internscout.org/internships/at/astera-labs/) | Firmware Engineer Intern, Optical | San Jose, CA |  | Oct 6 | [Apply](https://go.vansh.nyc/Fn) |

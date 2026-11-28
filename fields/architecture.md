@@ -1,6 +1,6 @@
 # Architecture: Summer 2027 Internships
 
-46 open Summer 2027 architecture roles, newest first (all 46). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 117 architecture internships on InternScout](https://internscout.org/internships/architecture/)
+46 open Summer 2027 architecture roles, newest first (all 46). **Updated November 28, 2026.** [Back to every major](../README.md) · [See all 121 architecture internships on InternScout](https://internscout.org/internships/architecture/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | Buffalo, NY +1 | \$21.74 - \$30.53 per hour | Nov 13 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98919) |
 | [Hewlett Packard Enterprise](https://internscout.org/internships/at/hewlett-packard-enterprise/) | Research Associate Intern, Systems Architecture Lab | Milpitas, CA |  | Nov 12 | [Apply](https://go.vansh.nyc/1w1) |
 | [Huntington Ingalls Industries](https://internscout.org/internships/at/huntington-ingalls-industries/) | 2027 College Summer Intern-Naval Architecture Engineering | Pascagoula, Mississippi |  | Nov 12 | [Apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-NAVAL-ARCHITECTURE-ENGINEERING-Miss/1430055600/) |
-| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Chip Architecture Intern | Boston, MA +1 |  | Nov 11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5468924008) |
+| [Lightmatter](https://internscout.org/internships/at/lightmatter/) | Chip Architecture Intern – Summer 2027 | Boston, MA +1 | Paid | Nov 11 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5468924008?gh_jid=5468924008) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Architectural Intern- Summer 2027 | New York, NY |  | Nov 11 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99181) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | New York, NY |  | Nov 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98916) |
 | [WSP](https://internscout.org/internships/at/wsp/) | Urban Planning Intern - Summer 2027 | South Jordan, UT |  | Nov 6 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98842) |
@@ -41,7 +41,7 @@
 | [Kimley-Horn](https://internscout.org/internships/at/kimley-horn/) | Landscape Architecture Intern | San Jose, California | \$31.00/hr | Sep 3 | [Apply](https://careers.kimley-horn.com/jobs/26034) |
 | [Kimley-Horn](https://internscout.org/internships/at/kimley-horn/) | Landscape Architecture Intern | Oakland, California | \$31.00/hr | Sep 3 | [Apply](https://careers.kimley-horn.com/jobs/26033) |
 | [Textron](https://internscout.org/internships/at/textron/) | 2027 Intern - Naval Architecture Engineer (Marine) - New Orleans, LA | New Orleans, Louisiana |  | Sep 1 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342579) |
-| [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Architectural Engineering | Los Angeles, CA |  | Aug 26 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377117008) |
+| [General Matter](https://internscout.org/internships/at/general-matter/) | Summer 2027 Internship - Architectural Engineering | Los Angeles, CA | \$28–\$40 per hour | Aug 26 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377117008) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure | Seattle, WA +1 |  | Aug 20 | [Apply](https://lifeattiktok.com/search/7672926068681951493) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - TikTok Search Architecture | San Jose, CA |  | Aug 20 | [Apply](https://lifeattiktok.com/search/7675517686256863541) |
 | [NVIDIA](https://internscout.org/internships/at/nvidia/) | Deep Learning Computer Architecture Intern | Santa Clara, CA |  | Aug 19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491) |

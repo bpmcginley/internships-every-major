@@ -1,9 +1,10 @@
 # Retail: Summer 2027 Internships
 
-87 open Summer 2027 retail roles, newest first (all 87). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 118 retail internships on InternScout](https://internscout.org/internships/retail/)
+88 open Summer 2027 retail roles, newest first (all 88). **Updated November 28, 2026.** [Back to every major](../README.md) · [See all 122 retail internships on InternScout](https://internscout.org/internships/retail/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Merchandising | Baltimore, MD |  | Nov 25 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Merchandising-MD-21230/1434378900/) |
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Design (Apparel and Footwear) | Baltimore, MD |  | Nov 25 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Design-%28Apparel-and-Footwear%29-MD-21230/1434389000/) |
 | [Ace Hardware](https://internscout.org/internships/at/ace-hardware/) | Retail Operations 2027 Summer Internship (Full Time/Paid/12 weeks) | IL - Oak Brook |  | Nov 17 | [Apply](https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/Retail-Operations-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-35139) |
 | Costco | Software Engineer Intern, IT Retail Media | Issaquah, WA |  | Nov 2 | [Apply](https://go.vansh.nyc/1bB) |

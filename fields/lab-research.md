@@ -1,6 +1,6 @@
 # Lab Research: Summer 2027 Internships
 
-21 open Summer 2027 lab research roles, newest first (all 21). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 88 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
+23 open Summer 2027 lab research roles, newest first (all 23). **Updated November 28, 2026.** [Back to every major](../README.md) · [See all 93 lab research internships on InternScout](https://internscout.org/internships/lab-research/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -15,7 +15,9 @@
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Lab Chemist Intern - Summer 2027 | Waynoka, OK | Paid | Oct 30 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168059) |
 | [National Interstate Insurance](https://internscout.org/internships/at/national-interstate-insurance/) | Claims Lab Developer Intern | Cincinnati, OH |  | Oct 27 | [Apply](https://go.vansh.nyc/Wm) |
 | [Great American Insurance Company](https://internscout.org/internships/at/great-american-insurance-company/) | Claims Lab Developer Intern | Cincinnati, OH |  | Oct 27 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Claims-Lab-Developer-Intern---Summer-2027_R9803) |
+| [Varda Space Industries](https://internscout.org/internships/at/varda-space-industries/) | Pharmaceutical Lab Internship (Crystallization) Summer 2027 | El Segundo, California, United States | \$33.00 | Oct 21 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8040897003) |
 | Sony | Research Engineer Intern, Ethical Creative and Protective AI Lab | Remote |  | Oct 20 | [Apply](https://go.vansh.nyc/cP) |
+| TPG | Y Analytics, Responsible Investing, Summer Research Assistant, Internship | Remote | \$22.5/hour | Oct 19 | [Apply](https://job-boards.greenhouse.io/tpgcareers/jobs/8036208003) |
 | National Institute of Standards and Technology | Summer Undergraduate Research Fellowship (SURF) Program - Boulder, CO (STEM Fields) | Boulder, Colorado | \$6390 - \$7810 | Oct 16 | [Apply](https://www.usajobs.gov:443/job/889006800) |
 | National Institute of Standards and Technology | Summer Undergraduate Research Fellowship (SURF) Program - Gaithersburg, MD (STEM and Related Fields) | Gaithersburg, Maryland | \$6390 - \$7810 | Oct 16 | [Apply](https://www.usajobs.gov:443/job/889003500) |
 | [Clean Harbors](https://internscout.org/internships/at/clean-harbors/) | Lab Chemist Intern - Summer 2027 | Sawyer, ND |  | Oct 6 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166917) |

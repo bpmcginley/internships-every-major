@@ -1,6 +1,6 @@
 # Accounting: Summer 2027 Internships
 
-70 open Summer 2027 accounting roles, newest first (all 70). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 159 accounting internships on InternScout](https://internscout.org/internships/accounting/)
+71 open Summer 2027 accounting roles, newest first (all 71). **Updated November 28, 2026.** [Back to every major](../README.md) · [See all 162 accounting internships on InternScout](https://internscout.org/internships/accounting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -9,7 +9,7 @@
 | [Under Armour](https://internscout.org/internships/at/under-armour/) | 2027 Summer Internship, Finance and Accounting | Baltimore, MD |  | Nov 25 | [Apply](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Finance-and-Accounting-MD-21230/1434330100/) |
 | PricewaterhouseCoopers (PwC) | Software Engineering Intern, Tax Innovation Delivery Experience (TIDE) | United States |  | Nov 24 | [Apply](https://go.vansh.nyc/1L7) |
 | [PPL](https://internscout.org/internships/at/ppl/) | Rhode Island Energy - Summer 2027 Accounting or Finance Intern | Johnston, Rhode Island |  | Nov 24 | [Apply](https://careers.pplweb.com/jobs/16234) |
-| [Pacific Northwest National Laboratory](https://internscout.org/internships/at/pacific-northwest-national-laboratory/) | Undergraduate Business Student - Finance & Accounting Intern (Summer 2027) | Richland, Washington | \$17.13/Hr | Nov 23 | [Apply](https://careers.pnnl.gov/jobs/14441) |
+| Pacific Northwest National Laboratory | Undergraduate Business Student - Finance & Accounting Intern (Summer 2027) | Richland, Washington | \$17.13/Hr | Nov 23 | [Apply](https://careers.pnnl.gov/jobs/14441) |
 | [KPMG](https://internscout.org/internships/at/kpmg/) | Moncton, Fredericton & Saint John - Opportunities in Audit - Intern Summer 2027 | Fredericton, New Brunswick, Canada +2 | \$41,000 to \$65,000 | Nov 23 | [Apply](https://careers.kpmg.ca/jobs/37818) |
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Intern - Accounting & Finance Automation Intern | Los Angeles, CA, United States | Paid | Nov 20 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4515586009) |
 | [Scout Space](https://internscout.org/internships/at/scout-space/) | Mission Assurance/Quality Intern (Summer 2027) | Reston, VA - Remote | \$30/hour | Nov 19 | [Apply](https://job-boards.greenhouse.io/scoutspace/jobs/5489234008) |
@@ -17,13 +17,14 @@
 | [Burns Engineering](https://internscout.org/internships/at/burns-engineering/) | Accounting & Finance Intern - Summer 2027 | Philadelphia, PA |  | Nov 17 | [Apply](https://www.burns-group.com/careers/current-openings/?gh_jid=4510491009) |
 | [Integration Innovation (i3)](https://internscout.org/internships/at/integration-innovation-i3/) | Accounting Summer Internship | Huntsville, Alabama |  | Nov 16 | [Apply](https://i3-corps.jibeapply.com/jobs/5590) |
 | [KPMG](https://internscout.org/internships/at/kpmg/) | GTA - CPA Opportunities in Audit - Summer 2027 or Fall 2027 Co-op - Wilfrid Laurier University | Toronto, Ontario, Canada +1 | \$50,000 to \$65,000 | Nov 16 | [Apply](https://careers.kpmg.ca/jobs/36242) |
+| [ICONIQ Capital](https://internscout.org/internships/at/iconiq-capital/) | 2027 Tax Intern | New York, New York | \$45 per hour | Nov 15 | [Apply](https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391969) |
 | [Fanatics](https://internscout.org/internships/at/fanatics/) | Summer 2027 Internship - Accounting & Controllership Intern | New York, NY, United States | Paid | Nov 15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507797009) |
 | [Schonfeld](https://internscout.org/internships/at/schonfeld/) | 2027 Compensation Accounting Intern | New York, New York, United States | \$100,000 | Nov 13 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171705) |
 | [KPMG](https://internscout.org/internships/at/kpmg/) | Kitchener-Waterloo Office - Opportunities in Audit - Co-op/Intern Summer 2027 - Wilfrid Laurier University | Waterloo, Ontario, Canada | \$41,000 to \$65,000 | Nov 13 | [Apply](https://careers.kpmg.ca/jobs/36300) |
 | Grant Thornton | Transfer Pricing Intern - Summer 2027 | New York, NY | \$40.00 per hour | Nov 12 | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115709) |
 | [HF Sinclair](https://internscout.org/internships/at/hf-sinclair/) | Accounting Intern | Dallas, TX |  | Nov 12 | [Apply](https://careers.hfsinclair.com/job/Dallas-Accounting-Intern-TX-75219/1430072000/) |
 | [SharkNinja](https://internscout.org/internships/at/sharkninja/) | Summer 2027: Accounting Intern (May through August) | Needham, MA, United States |  | Nov 10 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727347006) |
-| [GCM Grosvenor](https://internscout.org/internships/at/gcm-grosvenor/) | 2027 Fund Accounting Summer Intern | Chicago, Illinois, United States |  | Nov 6 | [Apply](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/7989281003) |
+| [GCM Grosvenor](https://internscout.org/internships/at/gcm-grosvenor/) | 2027 Fund Accounting Summer Intern | Chicago, Illinois, United States | \$65,000 | Nov 6 | [Apply](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/7989281003) |
 | Grant Thornton | Risk Advisory Intern - Summer 2027 | Denver, CO | \$37 per hour | Nov 2 | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115684) |
 | Grant Thornton | Audit IT Assurance Intern - Summer 2027 | Tulsa, OK |  | Nov 2 | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116239) |
 | [Trilogy Health Services](https://internscout.org/internships/at/trilogy-health-services/) | Accounting Intern | Louisville, Kentucky | Paid | Oct 30 | [Apply](https://jobs.trilogyhs.com/jobs/213299) |
@@ -44,7 +45,7 @@
 | [Kinder Morgan](https://internscout.org/internships/at/kinder-morgan/) | 2027 BOLT Intern- Human Resources (Payroll/Benefits) | HOUSTON, Texas |  | Sep 24 | [Apply](https://careers.kindermorgan.com/jobs/6310) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Tax Information Reporting Intern | Hybrid - New York, NY | Paid | Sep 21 | [Apply](https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241) |
 | [Coinbase](https://internscout.org/internships/at/coinbase/) | Internal Audit Analytics Intern | Hybrid - New York, NY | Paid | Sep 21 | [Apply](https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238) |
-| [Waters Corporation](https://internscout.org/internships/at/waters-corporation/) | Accounting Intern | Milford, MA +1 | \$22-25 per hour | Sep 21 | [Apply](https://uscareers-waters.icims.com/jobs/27743/accounting-intern/job) |
+| [Waters Corporation](https://internscout.org/internships/at/waters-corporation/) | Accounting Intern | Milford, MA +1 | \$22-25 per hour | Sep 21 | [Apply](https://uscareers-waters.icims.com/jobs/27743/2026-27743/job) |
 | [Howmet Aerospace](https://internscout.org/internships/at/howmet-aerospace/) | Intern – Financial Accounting Services (FAS) | Pittsburgh, PA | \$20- \$22 per hour | Sep 21 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119524) |
 | [AutoZone](https://internscout.org/internships/at/autozone/) | AutoZone 2027 Summer Internship – Internal Audit | Memphis, TN |  | Sep 21 | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155456) |
 | [UL Solutions](https://internscout.org/internships/at/ul-solutions/) | 2027 Summer Intern: Finance/Accounting/Tax Intern | Northbrook, IL +1 | \$25.00 | Sep 18 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10627) |
@@ -68,8 +69,8 @@
 | [Andersen](https://internscout.org/internships/at/andersen/) | Intern – Tax Services – Summer 2027 – (Hybrid) | Los Angeles, California | \$36.00 to \$45.00 per hour | Aug 24 | [Apply](https://careers.andersen.com/jobs/7255) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Audit (New York, NY) | New York, NY |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81248) |
 | [BNY](https://internscout.org/internships/at/bny/) | 2027 BNY Summer Internship Program - Audit (Pittsburgh, PA) | Pittsburgh, PA |  | Aug 24 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81262) |
-| [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Accounting) | St Petersburg, FL |  | Nov 27, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37666/2027-summer-intern-%28accounting%29/job) |
-| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Internship - Technology Assurance | Portland, ME | \$30 per hour | Nov 27, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4021/summer-2027-internship---technology-assurance/job) |
+| [General Dynamics](https://internscout.org/internships/at/general-dynamics/) | 2027 Summer Intern (Accounting) | St Petersburg, FL |  | Nov 28, 2024 | [Apply](https://careers-gd-ots.icims.com/jobs/37666/2027-summer-intern-%28accounting%29/job) |
+| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Internship - Technology Assurance | Portland, ME | \$30 per hour | Nov 28, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4021/summer-2027-internship---technology-assurance/job) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | 2027 Summer Internship: Division Accounting | Denton, TX |  | Nov 13 | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Division-Accounting-TX-76205-7864/1457311133/) |
 | [AAR](https://internscout.org/internships/at/aar/) | Accounting Intern | Chicago, Illinois | \$22/hr | Nov 12 | [Apply](https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=18991) |
 | [Paccar](https://internscout.org/internships/at/paccar/) | Summer 2027 - Accounting Intern | Kirkland, WA |  | Oct 20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Accounting-Intern-WA-98033/1449175533/) |

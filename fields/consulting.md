@@ -1,6 +1,6 @@
 # Consulting: Summer 2027 Internships
 
-82 open Summer 2027 consulting roles, newest first (all 82). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 121 consulting internships on InternScout](https://internscout.org/internships/consulting/)
+84 open Summer 2027 consulting roles, newest first (all 84). **Updated November 28, 2026.** [Back to every major](../README.md) · [See all 134 consulting internships on InternScout](https://internscout.org/internships/consulting/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [DocuSign](https://internscout.org/internships/at/docusign/) | Solution Consultant Intern | Seattle, Washington | \$31/hour | Oct 12 | [Apply](https://careers.docusign.com/jobs/30524) |
 | [Amazon](https://internscout.org/internships/at/amazon/) | Business Analyst Intern | Bellevue, WA |  | Oct 9 | [Apply](https://amazon.jobs/en/jobs/10575250/business-analyst-intern-summer-2027) |
 | [WTW](https://internscout.org/internships/at/wtw/) | Early Careers: Pharmacy Benefits Consulting Internship - Chicago - Summer 2027 | Chicago, IL |  | Oct 8 | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606458) |
-| West Monroe | Software Engineering Consultant Intern - AI Concentration | Seattle, WA |  | Oct 6 | [Apply](https://go.vansh.nyc/1ta) |
+| [West Monroe](https://internscout.org/internships/at/west-monroe/) | Software Engineering Consultant Intern - AI Concentration | Seattle, WA |  | Oct 6 | [Apply](https://go.vansh.nyc/1ta) |
 | [The Marzetti Company](https://internscout.org/internships/at/the-marzetti-company/) | Foodservice Pricing and Trade Strategy Intern - Summer 2027 | Columbus, Ohio |  | Oct 1 | [Apply](https://careers.marzetticompany.com/jobs/8153) |
 | Cisco | Software Consulting Engineer I Intern | Research Triangle Park, NC |  | Oct 1 | [Apply](https://go.vansh.nyc/fX) |
 | [CarGurus](https://internscout.org/internships/at/cargurus/) | Data Governance Engineer Intern | Boston, Massachusetts, United States +1 | Paid | Sep 30 | [Apply](https://job-boards.greenhouse.io/ecjobb/jobs/8230749) |
@@ -65,7 +65,8 @@
 | 3M | Business Analyst Intern - Consumer Business Group | Maplewood, MN |  | Sep 14 | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) |
 | [Constellation Energy](https://internscout.org/internships/at/constellation-energy/) | 2027 Summer Sustainability and Climate Strategy Intern (Remote) | Baltimore, Maryland |  | Sep 12 | [Apply](https://jobs.constellationenergy.com/jobs/138731) |
 | [Navy Federal](https://internscout.org/internships/at/navy-federal/) | Summer Associate Internship (Fraud Data Governance) | Vienna, VA |  | Sep 9 | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32310) |
-| [RF-SMART](https://internscout.org/internships/at/rf-smart/) | Product Strategy Intern | Jacksonville, FL |  | Sep 8 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5409030008) |
+| [RF-SMART](https://internscout.org/internships/at/rf-smart/) | Product Strategy Intern - Summer 2027 | Jacksonville, Florida, United States +1 | \$25/hour | Sep 8 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5409030008) |
+| The MJ Companies | Consultative Sales Intern | Carmel, Indiana |  | Sep 3 | [Apply](https://job-boards.greenhouse.io/themjcos/jobs/5415703008) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem | San Jose, CA |  | Sep 3 | [Apply](https://lifeattiktok.com/search/7677493272788683013) |
 | First National Bank | Enterprise Data Governance Intern - Data Quality and Governance | Pittsburgh, PA |  | Sep 2 | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Enterprise-Data-Governance-Intern_2026-01835-1) |
 | PIMCO | Quant Research Analyst Intern - Client Solutions & Analytics | Newport Beach, CA |  | Sep 1 | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---PhD-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106815) |
@@ -79,13 +80,14 @@
 | [Appian](https://internscout.org/internships/at/appian/) | Associate Consultant Intern | McLean, Virginia | \$35.00 per hour | Jul 28 | [Apply](https://job-boards.greenhouse.io/appian/jobs/8088498) |
 | [Akuna Capital](https://internscout.org/internships/at/akuna-capital/) | Quantitative Development & Strategy Intern, Summer 2027 \| Massachusetts Institute of Technology | Chicago, IL | \$145,000 | Jul 15 | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8066884) |
 | [Akuna Capital](https://internscout.org/internships/at/akuna-capital/) | Quantitative Development & Strategy Intern, Summer 2027 \| Harvard | Chicago, IL | \$145,000 | Jul 15 | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8066880) |
-| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 27, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
-| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Medicaid Policy | Portland, ME | \$30 per hour | Nov 27, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3977/summer-2027-consulting-internship---medicaid-policy/job) |
-| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Medicaid Policy | Kapolei, HI | \$30 per hour | Nov 27, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3978/summer-2027-consulting-internship---medicaid-policy/job) |
-| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Organizational Excellence, Medicaid | Portland, ME | \$30 per hour | Nov 27, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3980/summer-2027-consulting-internship---organizational-excellence%2c-medicaid/job) |
-| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Medicaid | Kapolei, HI | \$30 per hour | Nov 27, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3976/summer-2027-consulting-internship---medicaid/job) |
-| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Medicaid | Portland, ME | \$30 per hour | Nov 27, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3975/summer-2027-consulting-internship---medicaid/job) |
-| [Shure](https://internscout.org/internships/at/shure/) | Information Security Governance, Risk & Compliance Intern | Niles, IL | \$23-\$43 per hour | Nov 27, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job) |
+| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME | \$30 per hour | Nov 28, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) |
+| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Medicaid Policy | Portland, ME | \$30 per hour | Nov 28, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3977/summer-2027-consulting-internship---medicaid-policy/job) |
+| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Medicaid Policy | Kapolei, HI | \$30 per hour | Nov 28, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3978/summer-2027-consulting-internship---medicaid-policy/job) |
+| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Organizational Excellence, Medicaid | Portland, ME | \$30 per hour | Nov 28, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3980/summer-2027-consulting-internship---organizational-excellence%2c-medicaid/job) |
+| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Medicaid | Kapolei, HI | \$30 per hour | Nov 28, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3976/summer-2027-consulting-internship---medicaid/job) |
+| [BerryDunn](https://internscout.org/internships/at/berrydunn/) | Summer 2027 Consulting Internship - Medicaid | Portland, ME | \$30 per hour | Nov 28, 2024 | [Apply](https://careers-berrydunn.icims.com/jobs/3975/summer-2027-consulting-internship---medicaid/job) |
+| [Shure](https://internscout.org/internships/at/shure/) | Information Security Governance, Risk & Compliance Intern | Niles, IL | \$23-\$43 per hour | Nov 28, 2024 | [Apply](https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job) |
+| [Capital One](https://internscout.org/internships/at/capital-one/) | Intern, Strategy Analyst - Summer 2027 | Toronto, ON | \$45,000 to \$85,000 | Nov 28 | [Apply](https://www.jobleads.com/ca/job/intern-strategy-analyst-summer-2027--toronto--e943b07af35f3acab12ad42004519bdb8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 

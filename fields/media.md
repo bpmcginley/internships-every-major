@@ -1,6 +1,6 @@
 # Media: Summer 2027 Internships
 
-33 open Summer 2027 media roles, newest first (all 33). **Updated November 27, 2026.** [Back to every major](../README.md) · [See all 102 media internships on InternScout](https://internscout.org/internships/media/)
+34 open Summer 2027 media roles, newest first (all 34). **Updated November 28, 2026.** [Back to every major](../README.md) · [See all 105 media internships on InternScout](https://internscout.org/internships/media/)
 
 | Company | Role | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Southern Poverty Law Center](https://internscout.org/internships/at/southern-poverty-law-center/) | Intern, Editorial (Summer 2027) | Atlanta, GA +4 | \$18.40 per hour | Nov 6 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8931208002) |
 | Deeplocal | Creative Technology Intern- Summer 2027 | Pittsburgh +1 | Paid | Nov 6 | [Apply](https://job-boards.greenhouse.io/deeplocal/jobs/8360330) |
 | United Launch Alliance | Video Editing Internship Summer 2027 | Centennial, CO | \$23.10 - \$37.95 | Nov 5 | [Apply](https://jobs.ulalaunch.com/job/Centennial-Video-Editing-Internship-Summer-2027-CO-80112/1427399000/) |
-| [Samsung Research America](https://internscout.org/internships/at/samsung-research-america/) | Generative AI based Imaging and Video R&D Intern | Plano, TX |  | Nov 3 | [Apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927216002) |
+| [Samsung Research America](https://internscout.org/internships/at/samsung-research-america/) | 2027 Summer Intern, Generative AI based Imaging and Video R&D | 6105 Tennyson Pkwy, Suite 300, Plano TX 75024 +1 | Paid | Nov 3 | [Apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927216002) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Research Scientist Intern - Video and Edge - Multimedia Lab | San Jose, CA |  | Oct 30 | [Apply](https://jobs.bytedance.com/en/position/7702155940239264005/detail) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Houston Chronicle Visuals Internship - Summer 2027 | Houston, TX, United States | Paid | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466410009) |
 | [Hearst](https://internscout.org/internships/at/hearst/) | Audience Intern - Summer 2027 | Houston, TX, United States | Paid | Oct 26 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4466386009) |
@@ -37,6 +37,7 @@
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | ASIC Design Engineer Intern - Video Silicon IP | San Jose, CA |  | Aug 6 | [Apply](https://jobs.bytedance.com/en/position/7670332179383699717/detail) |
 | [ByteDance](https://internscout.org/internships/at/bytedance/) | Video/Image AI/ML Software Engineer Intern - Multimedia | San Diego, CA |  | Aug 6 | [Apply](https://jobs.bytedance.com/en/position/7670354329765464373/detail) |
 | [TikTok](https://internscout.org/internships/at/tiktok/) | Software Engineer Intern - Creative Intelligence and Brand Innovation | San Jose, CA |  | Aug 3 | [Apply](https://lifeattiktok.com/search/7668642761473902901) |
+| The New York Times | Local Investigations Fellowship Expression of Interest | Remote |  | Jan 1 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4637331005) |
 
 Every Apply link goes to the employer's own posting; always check it there before applying. [Report a bad listing](https://github.com/bpmcginley/internships-every-major/issues/new). Not affiliated with UMass Amherst, or with any employer listed.
 
